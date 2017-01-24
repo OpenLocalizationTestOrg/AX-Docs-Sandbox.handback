@@ -3232,5 +3232,29 @@
   ],
   "9b3e815687f2fb329f4adda5eea6915fa47689c6": [
     "retail\\work-with-store-inventory.md"
+  ],
+  "c1a1a0946df8cffdf77540e4f9937aec93599aa6": [
+    "financials\\localizations\\europe\\advance-holders.md"
+  ],
+  "483db11037c9eb28f5a81cff321d2967dad7f0f2": [
+    "financials\\localizations\\europe\\advance-holders-transactions.md"
+  ],
+  "8de3670187d155a8f5f8deef016bf15963c263ac": [
+    "financials\\localizations\\europe\\create-post-periodic-journals.md"
+  ],
+  "3066859c5beb403a0759b299067ddb8bd2d85282": [
+    "financials\\localizations\\europe\\eeu-set-up-signers-for-printing-forms.md"
+  ],
+  "1457ec7ce9dad2e11f531ff6b30df9a8a88e9de8": [
+    "financials\\localizations\\europe\\entry-certificates.md"
+  ],
+  "7ea3713d950b73f43f57bcc31671ea21bcfe13f7": [
+    "financials\\localizations\\europe\\eu-sales-list.md"
+  ],
+  "18b6d57b5c5e932d752e16691e70fbbe53dff483": [
+    "financials\\localizations\\europe\\intrastat.md"
+  ],
+  "87e212f7a0280e772aa2f4aa2b6ae87cd2645fb8": [
+    "financials\\localizations\\europe\\invoice-issue-deadline.md"
   ]
 }
