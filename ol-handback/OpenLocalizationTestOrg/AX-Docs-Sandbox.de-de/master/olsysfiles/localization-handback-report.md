@@ -6,75 +6,54 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [financials\cost-accounting\cost-elements.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/633774ac83a2783644ce240f939f47470400acf9/financials/cost-accounting/cost-elements.md) | HandedBackFailed | [Details](#34fea5644cbcb2cdf69e023f1c0e962959c78b19655)
- [retail\about-info-codes-retail.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3ed5e3331adca86ad237f858d8dec5ffba2d3227/retail/about-info-codes-retail.md) | HandedBackFailed | [Details](#067c52226ef846cb80608aae0542620ef790a7861050)
- [retail\personalized-product-recommendations-powered-by-cognitive-services-and-azure-machine-learning.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3ed5e3331adca86ad237f858d8dec5ffba2d3227/retail/personalized-product-recommendations-powered-by-cognitive-services-and-azure-machine-learning.md) | HandedBackFailed | [Details](#a2fb484bb95fae0a3b0a672f765cbe0d43733c3b1082)
+ [dev-itpro\retail\payment-methods.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/dev-itpro/retail/payment-methods.md) | HandedOffSuccess | [Details](#d736c13c3441a504bce653b056fb08f831737b431816)
+ [manufacturing\production-control\operation-scheduling-options.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/manufacturing/production-control/operation-scheduling-options.md) | HandedOffSuccess | [Details](#daf030d2d330a8682efed18bae30004f68b36e243210)
+ [manufacturing\production-control\operations-scheduling.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/manufacturing/production-control/operations-scheduling.md) | HandedOffSuccess | [Details](#f078b4fec10c449b093d393d8627292105bb030d3212)
 
 ## Item Details
-##### <a name='34fea5644cbcb2cdf69e023f1c0e962959c78b19655'></a> Source: [financials\cost-accounting\cost-elements.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/633774ac83a2783644ce240f939f47470400acf9/financials/cost-accounting/cost-elements.md)
-* Status: HandedBackFailed
+##### <a name='d736c13c3441a504bce653b056fb08f831737b431816'></a> Source: [dev-itpro\retail\payment-methods.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/dev-itpro/retail/payment-methods.md)
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [cost-elements.a2e3882fa75db3d6c8577930894008fa4d361746.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/99126b05cde927eb1f847fd0191f34757b0cfa8e/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/cost-elements.a2e3882fa75db3d6c8577930894008fa4d361746.de-de.xlf)
-* Handoff Datetime: 2017-01-23 13:58:53
+* Handoff File: [payment-methods.36ecce094f2b415996a0de5b6e570e75bcb24cab.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/bafa491a81a1b6c3cf70a19c7bfa24e32c3399c6/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/payment-methods.36ecce094f2b415996a0de5b6e570e75bcb24cab.de-de.xlf)
+* Handoff Datetime: 2017-01-24 16:49:24
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
-* Handback Datetime: 2017-01-24 13:23:05
+* Handback Datetime: 0001-01-01 00:00:00
 * Handback Name: 
-* Handback Error: [handback_type_is_mismatch_with_handoff_type](#34fea5644cbcb2cdf69e023f1c0e962959c78b19655handback_type_is_mismatch_with_handoff_type)
 * [Back to Top](#report-top)
 
-##### <a name='067c52226ef846cb80608aae0542620ef790a7861050'></a> Source: [retail\about-info-codes-retail.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3ed5e3331adca86ad237f858d8dec5ffba2d3227/retail/about-info-codes-retail.md)
-* Status: HandedBackFailed
+##### <a name='daf030d2d330a8682efed18bae30004f68b36e243210'></a> Source: [manufacturing\production-control\operation-scheduling-options.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/manufacturing/production-control/operation-scheduling-options.md)
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [about-info-codes-retail.a21ea72c6710aaa56d94a8b3c1992a0035808ead.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/99126b05cde927eb1f847fd0191f34757b0cfa8e/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/about-info-codes-retail.a21ea72c6710aaa56d94a8b3c1992a0035808ead.de-de.xlf)
-* Handoff Datetime: 2017-01-23 13:58:53
+* Handoff File: [operation-scheduling-options.adc1417bcf68021865d64c45485479bc691331ec.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/bafa491a81a1b6c3cf70a19c7bfa24e32c3399c6/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/operation-scheduling-options.adc1417bcf68021865d64c45485479bc691331ec.de-de.xlf)
+* Handoff Datetime: 2017-01-24 16:49:24
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
-* Handback Datetime: 2017-01-24 13:23:05
+* Handback Datetime: 0001-01-01 00:00:00
 * Handback Name: 
-* Handback Error: [handback_type_is_mismatch_with_handoff_type](#067c52226ef846cb80608aae0542620ef790a7861050handback_type_is_mismatch_with_handoff_type)
 * [Back to Top](#report-top)
 
-##### <a name='a2fb484bb95fae0a3b0a672f765cbe0d43733c3b1082'></a> Source: [retail\personalized-product-recommendations-powered-by-cognitive-services-and-azure-machine-learning.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3ed5e3331adca86ad237f858d8dec5ffba2d3227/retail/personalized-product-recommendations-powered-by-cognitive-services-and-azure-machine-learning.md)
-* Status: HandedBackFailed
+##### <a name='f078b4fec10c449b093d393d8627292105bb030d3212'></a> Source: [manufacturing\production-control\operations-scheduling.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/manufacturing/production-control/operations-scheduling.md)
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [personalized-product-recommendations-powered-by-cognitive-services-and-azure-ma.5829707aed58dbb37b606b2e03e8930be1577ce0.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/99126b05cde927eb1f847fd0191f34757b0cfa8e/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/personalized-product-recommendations-powered-by-cognitive-services-and-azure-ma.5829707aed58dbb37b606b2e03e8930be1577ce0.de-de.xlf)
-* Handoff Datetime: 2017-01-23 13:58:53
+* Handoff File: [operations-scheduling.1f931b122aeb90e4353ae57bc36c38e086225761.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/bafa491a81a1b6c3cf70a19c7bfa24e32c3399c6/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/operations-scheduling.1f931b122aeb90e4353ae57bc36c38e086225761.de-de.xlf)
+* Handoff Datetime: 2017-01-24 16:49:24
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
-* Handback Datetime: 2017-01-24 13:23:05
+* Handback Datetime: 0001-01-01 00:00:00
 * Handback Name: 
-* Handback Error: [handback_type_is_mismatch_with_handoff_type](#a2fb484bb95fae0a3b0a672f765cbe0d43733c3b1082handback_type_is_mismatch_with_handoff_type)
 * [Back to Top](#report-top)
 
 
 ## Error Details
-##### <a name='34fea5644cbcb2cdf69e023f1c0e962959c78b19655handback_type_is_mismatch_with_handoff_type'></a> Source: [financials\cost-accounting\cost-elements.md](#34fea5644cbcb2cdf69e023f1c0e962959c78b19655)
-* Error Code: handback_type_is_mismatch_with_handoff_type
-* Error Message: The handback priority in file path cost-elements.a2e3882fa75db3d6c8577930894008fa4d361746.de-de.xlf is not match with handoff type basic
-* Retriable: False
-* Error Details: {"internal_error_code":"handback_type_is_mismatch_with_handoff_type","internal_error_message":"The handback priority in file path cost-elements.a2e3882fa75db3d6c8577930894008fa4d361746.de-de.xlf is not match with handoff type basic","internal_error_retriable":false,"exception_message":"The handback priority in file path cost-elements.a2e3882fa75db3d6c8577930894008fa4d361746.de-de.xlf is not match with handoff type basic","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
-
-##### <a name='067c52226ef846cb80608aae0542620ef790a7861050handback_type_is_mismatch_with_handoff_type'></a> Source: [retail\about-info-codes-retail.md](#067c52226ef846cb80608aae0542620ef790a7861050)
-* Error Code: handback_type_is_mismatch_with_handoff_type
-* Error Message: The handback priority in file path about-info-codes-retail.a21ea72c6710aaa56d94a8b3c1992a0035808ead.de-de.xlf is not match with handoff type basic
-* Retriable: False
-* Error Details: {"internal_error_code":"handback_type_is_mismatch_with_handoff_type","internal_error_message":"The handback priority in file path about-info-codes-retail.a21ea72c6710aaa56d94a8b3c1992a0035808ead.de-de.xlf is not match with handoff type basic","internal_error_retriable":false,"exception_message":"The handback priority in file path about-info-codes-retail.a21ea72c6710aaa56d94a8b3c1992a0035808ead.de-de.xlf is not match with handoff type basic","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
-
-##### <a name='a2fb484bb95fae0a3b0a672f765cbe0d43733c3b1082handback_type_is_mismatch_with_handoff_type'></a> Source: [retail\personalized-product-recommendations-powered-by-cognitive-services-and-azure-machine-learning.md](#a2fb484bb95fae0a3b0a672f765cbe0d43733c3b1082)
-* Error Code: handback_type_is_mismatch_with_handoff_type
-* Error Message: The handback priority in file path personalized-product-recommendations-powered-by-cognitive-services-and-azure-ma.5829707aed58dbb37b606b2e03e8930be1577ce0.de-de.xlf is not match with handoff type basic
-* Retriable: False
-* Error Details: {"internal_error_code":"handback_type_is_mismatch_with_handoff_type","internal_error_message":"The handback priority in file path personalized-product-recommendations-powered-by-cognitive-services-and-azure-ma.5829707aed58dbb37b606b2e03e8930be1577ce0.de-de.xlf is not match with handoff type basic","internal_error_retriable":false,"exception_message":"The handback priority in file path personalized-product-recommendations-powered-by-cognitive-services-and-azure-ma.5829707aed58dbb37b606b2e03e8930be1577ce0.de-de.xlf is not match with handoff type basic","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
-
 
 Generated by OpenLocalization.
