@@ -14159,6 +14159,66 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\481444bcc972a99e5ec66e363af2449b3f7758fa.4b864dcbcc9f7a2332f19c021f6852c204eedbaf.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "financials\\localizations\\europe\\intrastat.md.034ed9fc987ae11aa11162ad2da01785f5874ae4.HT": {
+      "SourceFilename": "financials\\localizations\\europe\\intrastat.md",
+      "XliffHash": "034ed9fc987ae11aa11162ad2da01785f5874ae4",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\18b6d57b5c5e932d752e16691e70fbbe53dff483.451d526b63b128134198ec39f3bf64625b7446d5.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\europe\\gdpdu-audit-data-export.md.39f879607708fd410d5b12f69d150bc91717472b.HT": {
+      "SourceFilename": "financials\\localizations\\europe\\gdpdu-audit-data-export.md",
+      "XliffHash": "39f879607708fd410d5b12f69d150bc91717472b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\d76d102fdd7a21178cf531f4010d38f409e46bab.422f5cac250d619bc76e9519102f2fcf55c3395a.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\europe\\entry-certificates.md.0c2f350d6123f7c3364da45cc94b2e1e752bd959.HT": {
+      "SourceFilename": "financials\\localizations\\europe\\entry-certificates.md",
+      "XliffHash": "0c2f350d6123f7c3364da45cc94b2e1e752bd959",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\1457ec7ce9dad2e11f531ff6b30df9a8a88e9de8.6fbe46b22b05e4de735b2b20d1b1e46e2f991c5d.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\europe\\eu-sales-list.md.0cf4762e1bdeb2090b365c6280e75e9b400a75f1.HT": {
+      "SourceFilename": "financials\\localizations\\europe\\eu-sales-list.md",
+      "XliffHash": "0cf4762e1bdeb2090b365c6280e75e9b400a75f1",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\7ea3713d950b73f43f57bcc31671ea21bcfe13f7.1af7375b314bcd01037fb485600a556f643fb2e7.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\europe\\select-file-formats-for-the-method-of-payments.md.d39a8ded5283c2d879e797006c516d7b58e2ff9c.HT": {
+      "SourceFilename": "financials\\localizations\\europe\\select-file-formats-for-the-method-of-payments.md",
+      "XliffHash": "d39a8ded5283c2d879e797006c516d7b58e2ff9c",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\4519c288236cf7905fd013bdc63be716706b0936.6f4d259eb05cf106a54001c431de5f0b71f7235b.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\europe\\invoice-issue-deadline.md.6f5b769d1922941ffcc88360ba921e7d2cca4828.HT": {
+      "SourceFilename": "financials\\localizations\\europe\\invoice-issue-deadline.md",
+      "XliffHash": "6f5b769d1922941ffcc88360ba921e7d2cca4828",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\87e212f7a0280e772aa2f4aa2b6ae87cd2645fb8.417a12c21273d97541e9e8a6ba27bf092924e13f.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }

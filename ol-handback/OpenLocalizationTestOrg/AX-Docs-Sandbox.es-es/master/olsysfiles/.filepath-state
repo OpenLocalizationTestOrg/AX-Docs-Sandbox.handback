@@ -3250,5 +3250,23 @@
   ],
   "9b3e815687f2fb329f4adda5eea6915fa47689c6": [
     "retail\\work-with-store-inventory.md"
+  ],
+  "1457ec7ce9dad2e11f531ff6b30df9a8a88e9de8": [
+    "financials\\localizations\\europe\\entry-certificates.md"
+  ],
+  "7ea3713d950b73f43f57bcc31671ea21bcfe13f7": [
+    "financials\\localizations\\europe\\eu-sales-list.md"
+  ],
+  "d76d102fdd7a21178cf531f4010d38f409e46bab": [
+    "financials\\localizations\\europe\\gdpdu-audit-data-export.md"
+  ],
+  "18b6d57b5c5e932d752e16691e70fbbe53dff483": [
+    "financials\\localizations\\europe\\intrastat.md"
+  ],
+  "87e212f7a0280e772aa2f4aa2b6ae87cd2645fb8": [
+    "financials\\localizations\\europe\\invoice-issue-deadline.md"
+  ],
+  "4519c288236cf7905fd013bdc63be716706b0936": [
+    "financials\\localizations\\europe\\select-file-formats-for-the-method-of-payments.md"
   ]
 }
