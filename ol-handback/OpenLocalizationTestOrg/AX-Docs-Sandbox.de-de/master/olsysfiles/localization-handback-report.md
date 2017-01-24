@@ -1,58 +1,11 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 3
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [dev-itpro\retail\payment-methods.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/dev-itpro/retail/payment-methods.md) | HandedOffSuccess | [Details](#d736c13c3441a504bce653b056fb08f831737b431816)
- [manufacturing\production-control\operation-scheduling-options.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/manufacturing/production-control/operation-scheduling-options.md) | HandedOffSuccess | [Details](#daf030d2d330a8682efed18bae30004f68b36e243210)
- [manufacturing\production-control\operations-scheduling.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/manufacturing/production-control/operations-scheduling.md) | HandedOffSuccess | [Details](#f078b4fec10c449b093d393d8627292105bb030d3212)
 
 ## Item Details
-##### <a name='d736c13c3441a504bce653b056fb08f831737b431816'></a> Source: [dev-itpro\retail\payment-methods.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/dev-itpro/retail/payment-methods.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [payment-methods.36ecce094f2b415996a0de5b6e570e75bcb24cab.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/bafa491a81a1b6c3cf70a19c7bfa24e32c3399c6/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/payment-methods.36ecce094f2b415996a0de5b6e570e75bcb24cab.de-de.xlf)
-* Handoff Datetime: 2017-01-24 16:49:24
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
-##### <a name='daf030d2d330a8682efed18bae30004f68b36e243210'></a> Source: [manufacturing\production-control\operation-scheduling-options.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/manufacturing/production-control/operation-scheduling-options.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [operation-scheduling-options.adc1417bcf68021865d64c45485479bc691331ec.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/bafa491a81a1b6c3cf70a19c7bfa24e32c3399c6/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/operation-scheduling-options.adc1417bcf68021865d64c45485479bc691331ec.de-de.xlf)
-* Handoff Datetime: 2017-01-24 16:49:24
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
-##### <a name='f078b4fec10c449b093d393d8627292105bb030d3212'></a> Source: [manufacturing\production-control\operations-scheduling.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/manufacturing/production-control/operations-scheduling.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [operations-scheduling.1f931b122aeb90e4353ae57bc36c38e086225761.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/bafa491a81a1b6c3cf70a19c7bfa24e32c3399c6/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/operations-scheduling.1f931b122aeb90e4353ae57bc36c38e086225761.de-de.xlf)
-* Handoff Datetime: 2017-01-24 16:49:24
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
