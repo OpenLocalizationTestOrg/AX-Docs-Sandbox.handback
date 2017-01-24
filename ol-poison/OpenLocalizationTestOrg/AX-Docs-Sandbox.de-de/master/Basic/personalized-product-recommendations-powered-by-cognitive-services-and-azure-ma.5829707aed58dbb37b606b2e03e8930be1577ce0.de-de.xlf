@@ -14,7 +14,7 @@
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>Personalized product recommendations overview | Microsoft Docs</source>
+          <source>TEST Personalized product recommendations overview | Microsoft Docs</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>In Dynamics 365 for Operations, product recommendations can be displayed on the point of sale (POS) device.</source>
