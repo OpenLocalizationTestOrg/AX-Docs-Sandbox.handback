@@ -14209,6 +14209,16 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ja-jp\\master\\481444bcc972a99e5ec66e363af2449b3f7758fa.4b864dcbcc9f7a2332f19c021f6852c204eedbaf.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "financials\\localizations\\europe\\create-allocation-rules-allocate-depreciation.md.cb64a45a18fcbf913dc729fac715df43aeb88f88.HT": {
+      "SourceFilename": "financials\\localizations\\europe\\create-allocation-rules-allocate-depreciation.md",
+      "XliffHash": "cb64a45a18fcbf913dc729fac715df43aeb88f88",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ja-jp\\master\\e89f0d075340e5d619feffd7cc7b409fec201129.b51f4dde3d4c54eb9406bc01cb14e1c511f20573.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }
