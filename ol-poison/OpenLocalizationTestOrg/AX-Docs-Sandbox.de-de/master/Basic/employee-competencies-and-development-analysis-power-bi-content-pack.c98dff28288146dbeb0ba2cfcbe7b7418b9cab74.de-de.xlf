@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
@@ -9,6 +9,7 @@
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
       <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4fae852d54c41e4695834193c128125d1498afc1</xliffext:olskeletonhash>
       <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2a207ab7d72e673e4563dfecc38c2a52cf7a3bfa</xliffext:olxliffhash>
+      <xliffext:poisonError xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">The handback priority in file path Basic\employee-competencies-and-development-analysis-power-bi-content-pack.c98dff28288146dbeb0ba2cfcbe7b7418b9cab74.de-de.xlf is not match with handoff type basic</xliffext:poisonError>
     </header>
     <body>
       <group id="content" extype="content">
