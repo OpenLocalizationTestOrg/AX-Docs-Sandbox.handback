@@ -22259,6 +22259,26 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\907b190c9d8e1e530fdf589377ee1fc945448770.77b73694b99029a4b55ea8a78b17dcff368476de.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "financials\\localizations\\europe\\chronological-invoices-vouchers-france.md.d3d6af04f04b0742fd08f753c463109a190d28ee.HT": {
+      "SourceFilename": "financials\\localizations\\europe\\chronological-invoices-vouchers-france.md",
+      "XliffHash": "d3d6af04f04b0742fd08f753c463109a190d28ee",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\bbd4e6d7ac6d5d207b036e8671bd64ac366ef9a7.f25e2882340fd7aa3ddb04ba056fb8b8475bc151.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\europe\\esp-fiscal-data-invoice-account.md.ee52307f39aad99e635f04d6aafa5ba1c2889f79.HT": {
+      "SourceFilename": "financials\\localizations\\europe\\esp-fiscal-data-invoice-account.md",
+      "XliffHash": "ee52307f39aad99e635f04d6aafa5ba1c2889f79",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\070c8dacf3daccd7d1641b4abe806e8095a9261f.d968339697fc4f58f21304610f8e6477859263f3.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }

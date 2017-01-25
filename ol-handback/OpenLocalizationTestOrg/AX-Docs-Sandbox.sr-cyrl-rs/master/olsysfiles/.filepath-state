@@ -3815,6 +3815,9 @@
   "7ad3b57dc5a636b803781ad7287c8b76c68c48b6": [
     "financials\\localizations\\europe\\che-esr-customer-payments-import.md"
   ],
+  "bbd4e6d7ac6d5d207b036e8671bd64ac366ef9a7": [
+    "financials\\localizations\\europe\\chronological-invoices-vouchers-france.md"
+  ],
   "c3dfb0f3a379a7621727c1a843ea64f5e3e151ab": [
     "financials\\localizations\\europe\\chronological-invoices-vouchers-france.md"
   ],
@@ -3877,6 +3880,9 @@
   ],
   "1457ec7ce9dad2e11f531ff6b30df9a8a88e9de8": [
     "financials\\localizations\\europe\\entry-certificates.md"
+  ],
+  "070c8dacf3daccd7d1641b4abe806e8095a9261f": [
+    "financials\\localizations\\europe\\esp-fiscal-data-invoice-account.md"
   ],
   "1c628d651a75fb348ee85f12a53ab1adfb14bed4": [
     "financials\\localizations\\europe\\esp-fiscal-data-invoice-account.md"
