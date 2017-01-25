@@ -5,10 +5,10 @@
  -------- | ----- 
  Total Files | 3441
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 932
+[ Handoff Success Files ](#handoff-success-list)| 928
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
-[ Handback Failed Files ](#handback-failed-list)| 0
+[ Handback Failed Files ](#handback-failed-list)| 4
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
 [ In Sync Handback Files ](#insync-handback-success-list)| 0
 [ Ignored Files ](#ignored-list)| 2509
@@ -90,7 +90,6 @@
  [dev-itpro\analytics-bi-reporting\document-reporting-services.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/dev-itpro/analytics-bi-reporting/document-reporting-services.md) | HandedOffSuccess | [Details](#c8d74a319e68ec9cc92eeaa4f7197f27a61143c0148)
  [dev-itpro\analytics-bi-reporting\download-electronic-reporting-configuration-lcs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/dev-itpro/analytics-bi-reporting/download-electronic-reporting-configuration-lcs.md) | HandedOffSuccess | [Details](#784a37d8b23cfaebeaa609cbfb75a288e614c446149)
  [dev-itpro\analytics-bi-reporting\electronic-reporting-destinations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/dev-itpro/analytics-bi-reporting/electronic-reporting-destinations.md) | HandedOffSuccess | [Details](#942435bd64e7dba665855e7872b7c41f2526fa96150)
- [dev-itpro\analytics-bi-reporting\employee-competencies-and-development-analysis-power-bi-content-pack.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/dev-itpro/analytics-bi-reporting/employee-competencies-and-development-analysis-power-bi-content-pack.md) | HandedOffSuccess | [Details](#06878db5125048b511fcfba6c8e818da1a3b2b3c151)
  [dev-itpro\analytics-bi-reporting\financial-performance-power-bi-content-pack.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/dev-itpro/analytics-bi-reporting/financial-performance-power-bi-content-pack.md) | HandedOffSuccess | [Details](#37f264e80b42171966cb2c3cb1e8f355872a8ba6154)
  [dev-itpro\analytics-bi-reporting\financial-report-components.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/dev-itpro/analytics-bi-reporting/financial-report-components.md) | HandedOffSuccess | [Details](#6ba5211a20847431ad911fa21f51eaf4bb388eef155)
  [dev-itpro\analytics-bi-reporting\financial-reporting-intro.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/dev-itpro/analytics-bi-reporting/financial-reporting-intro.md) | HandedOffSuccess | [Details](#cf2bcb4f63c2da76d1095d0bbadc41e3968b398b156)
@@ -503,8 +502,6 @@
  [dev-itpro\xpp\debug-xpp.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/dev-itpro/xpp/debug-xpp.md) | HandedOffSuccess | [Details](#dde622a22596dba760034fb9039f23c986af89db2436)
  [dev-itpro\xpp\macros-xpp.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/dev-itpro/xpp/macros-xpp.md) | HandedOffSuccess | [Details](#509bc85d5da34fd9bea5296b2756c046acae38bd2437)
  [financials\accounts-payable\accounting-distributions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-payable/accounting-distributions.md) | HandedOffSuccess | [Details](#2a9f3ebfb790ee1fb076c890590a4cae46dcda9f2446)
- [financials\accounts-payable\accounting-distributions-subledger-journal-entries-vendor-invoices.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-payable/accounting-distributions-subledger-journal-entries-vendor-invoices.md) | HandedOffSuccess | [Details](#4699b40bff09d155d48c3858f7041e17f15077082445)
- [financials\accounts-payable\accounting-source-explorer.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-payable/accounting-source-explorer.md) | HandedOffSuccess | [Details](#4f03bc5f89b19fd32614a8c75112a30d270749eb2447)
  [financials\accounts-payable\accounts-payable.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-payable/accounts-payable.md) | HandedOffSuccess | [Details](#b044119d760d5b955b4e3d02e60dd014f4f602112450)
  [financials\accounts-payable\accounts-payable-invoice-matching.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-payable/accounts-payable-invoice-matching.md) | HandedOffSuccess | [Details](#aee3b1d9f7c88c31b45ee8a573dac9f999c210b62448)
  [financials\accounts-payable\accounts-payable-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-payable/accounts-payable-overview.md) | HandedOffSuccess | [Details](#5781e0dbbba74ad1f31cdec7dfa75aeed0aa3ae32449)
@@ -539,7 +536,6 @@
  [financials\accounts-payable\vendor-payments-partial-amount.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-payable/vendor-payments-partial-amount.md) | HandedOffSuccess | [Details](#d51c28f75880e3fe59b806fa4672ec9d6e4b5a972499)
  [financials\accounts-payable\vendor-portal-invoicing-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-payable/vendor-portal-invoicing-workspace.md) | HandedOffSuccess | [Details](#69bf47c61949dc5ed2d1c42348244c1b68a8375c2500)
  [financials\accounts-payable\vendor-posting-profiles.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-payable/vendor-posting-profiles.md) | HandedOffSuccess | [Details](#657cd0e5bbe9a46e9d594373c49d91b8ad592a312501)
- [financials\accounts-receivable\accounting-distributions-subledger-journal-entries-free-text-invoices.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-receivable/accounting-distributions-subledger-journal-entries-free-text-invoices.md) | HandedOffSuccess | [Details](#6184588b3a3f487de07159cd4da9f670683ac95e2502)
  [financials\accounts-receivable\accounts-receivable.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-receivable/accounts-receivable.md) | HandedOffSuccess | [Details](#c5b5047904c8b4f5f39bf7a776288ac1c2c1c4e42503)
  [financials\accounts-receivable\accounts-receivables-set-up-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-receivable/accounts-receivables-set-up-overview.md) | HandedOffSuccess | [Details](#fb0141ed38dc90c07f47b1e3f8333209e37a35cb2504)
  [financials\accounts-receivable\centralized-payments-accounts-receivable.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-receivable/centralized-payments-accounts-receivable.md) | HandedOffSuccess | [Details](#fc92decce563f448b97f7cbc67d5bd2b8f107abf2505)
@@ -956,6 +952,12 @@
 ## <a name='archive-success-list'></a> Archive Success File List
 
 ## <a name='handback-failed-list'></a> Handback Failed File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [dev-itpro\analytics-bi-reporting\employee-competencies-and-development-analysis-power-bi-content-pack.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/dev-itpro/analytics-bi-reporting/employee-competencies-and-development-analysis-power-bi-content-pack.md) | HandedBackFailed | [Details](#06878db5125048b511fcfba6c8e818da1a3b2b3c151)
+ [financials\accounts-payable\accounting-distributions-subledger-journal-entries-vendor-invoices.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-payable/accounting-distributions-subledger-journal-entries-vendor-invoices.md) | HandedBackFailed | [Details](#4699b40bff09d155d48c3858f7041e17f15077082445)
+ [financials\accounts-payable\accounting-source-explorer.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-payable/accounting-source-explorer.md) | HandedBackFailed | [Details](#4f03bc5f89b19fd32614a8c75112a30d270749eb2447)
+ [financials\accounts-receivable\accounting-distributions-subledger-journal-entries-free-text-invoices.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-receivable/accounting-distributions-subledger-journal-entries-free-text-invoices.md) | HandedBackFailed | [Details](#6184588b3a3f487de07159cd4da9f670683ac95e2502)
 
 ## <a name='outofsync-handback-success-list'></a> Out Of Sync Handback Success File List
 
@@ -5590,7 +5592,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='06878db5125048b511fcfba6c8e818da1a3b2b3c151'></a> Source: [dev-itpro\analytics-bi-reporting\employee-competencies-and-development-analysis-power-bi-content-pack.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/dev-itpro/analytics-bi-reporting/employee-competencies-and-development-analysis-power-bi-content-pack.md)
-* Status: HandedOffSuccess
+* Status: HandedBackFailed
 * Target File: 
 * Handoff File: [employee-competencies-and-development-analysis-power-bi-content-pack.c98dff28288146dbeb0ba2cfcbe7b7418b9cab74.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/cb0229f94585bf5c5a592886429da11aee46fec2/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/employee-competencies-and-development-analysis-power-bi-content-pack.c98dff28288146dbeb0ba2cfcbe7b7418b9cab74.de-de.xlf)
 * Handoff Datetime: 2017-01-24 20:05:12
@@ -5599,8 +5601,9 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback Datetime: 2017-01-25 19:22:12
 * Handback Name: 
+* Handback Error: [handback_type_is_mismatch_with_handoff_type](#06878db5125048b511fcfba6c8e818da1a3b2b3c151handback_type_is_mismatch_with_handoff_type)
 * [Back to Top](#report-top)
 
 ##### <a name='fdd9bdac8515cd1a1896eed3a1680b90a78e6811152'></a> Source: [dev-itpro\analytics-bi-reporting\expand-app-suite-report-data-sets.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/2cec2960765fd6fa967b95165e794d4e06ec3e26/dev-itpro/analytics-bi-reporting/expand-app-suite-report-data-sets.md)
@@ -37720,7 +37723,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='4699b40bff09d155d48c3858f7041e17f15077082445'></a> Source: [financials\accounts-payable\accounting-distributions-subledger-journal-entries-vendor-invoices.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-payable/accounting-distributions-subledger-journal-entries-vendor-invoices.md)
-* Status: HandedOffSuccess
+* Status: HandedBackFailed
 * Target File: 
 * Handoff File: [accounting-distributions-subledger-journal-entries-vendor-invoices.9d1f080dc619395c5fda6229acfb7f00d1c70ef3.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/cb0229f94585bf5c5a592886429da11aee46fec2/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/accounting-distributions-subledger-journal-entries-vendor-invoices.9d1f080dc619395c5fda6229acfb7f00d1c70ef3.de-de.xlf)
 * Handoff Datetime: 2017-01-24 20:05:12
@@ -37729,12 +37732,13 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback Datetime: 2017-01-25 19:22:12
 * Handback Name: 
+* Handback Error: [handback_type_is_mismatch_with_handoff_type](#4699b40bff09d155d48c3858f7041e17f15077082445handback_type_is_mismatch_with_handoff_type)
 * [Back to Top](#report-top)
 
 ##### <a name='4f03bc5f89b19fd32614a8c75112a30d270749eb2447'></a> Source: [financials\accounts-payable\accounting-source-explorer.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-payable/accounting-source-explorer.md)
-* Status: HandedOffSuccess
+* Status: HandedBackFailed
 * Target File: 
 * Handoff File: [accounting-source-explorer.c676bb605b567e9325780798e4243e8241ee39b7.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/cb0229f94585bf5c5a592886429da11aee46fec2/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/accounting-source-explorer.c676bb605b567e9325780798e4243e8241ee39b7.de-de.xlf)
 * Handoff Datetime: 2017-01-24 20:05:12
@@ -37743,8 +37747,9 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback Datetime: 2017-01-25 19:22:12
 * Handback Name: 
+* Handback Error: [handback_type_is_mismatch_with_handoff_type](#4f03bc5f89b19fd32614a8c75112a30d270749eb2447handback_type_is_mismatch_with_handoff_type)
 * [Back to Top](#report-top)
 
 ##### <a name='b044119d760d5b955b4e3d02e60dd014f4f602112450'></a> Source: [financials\accounts-payable\accounts-payable.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-payable/accounts-payable.md)
@@ -38504,7 +38509,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='6184588b3a3f487de07159cd4da9f670683ac95e2502'></a> Source: [financials\accounts-receivable\accounting-distributions-subledger-journal-entries-free-text-invoices.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-receivable/accounting-distributions-subledger-journal-entries-free-text-invoices.md)
-* Status: HandedOffSuccess
+* Status: HandedBackFailed
 * Target File: 
 * Handoff File: [accounting-distributions-subledger-journal-entries-free-text-invoices.e9742bb69fb621f583d124bfc8e718f8d49fe785.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/cb0229f94585bf5c5a592886429da11aee46fec2/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/accounting-distributions-subledger-journal-entries-free-text-invoices.e9742bb69fb621f583d124bfc8e718f8d49fe785.de-de.xlf)
 * Handoff Datetime: 2017-01-24 20:05:12
@@ -38513,8 +38518,9 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback Datetime: 2017-01-25 19:22:12
 * Handback Name: 
+* Handback Error: [handback_type_is_mismatch_with_handoff_type](#6184588b3a3f487de07159cd4da9f670683ac95e2502handback_type_is_mismatch_with_handoff_type)
 * [Back to Top](#report-top)
 
 ##### <a name='c5b5047904c8b4f5f39bf7a776288ac1c2c1c4e42503'></a> Source: [financials\accounts-receivable\accounts-receivable.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-receivable/accounts-receivable.md)
@@ -51651,5 +51657,29 @@
 
 
 ## Error Details
+##### <a name='06878db5125048b511fcfba6c8e818da1a3b2b3c151handback_type_is_mismatch_with_handoff_type'></a> Source: [dev-itpro\analytics-bi-reporting\employee-competencies-and-development-analysis-power-bi-content-pack.md](#06878db5125048b511fcfba6c8e818da1a3b2b3c151)
+* Error Code: handback_type_is_mismatch_with_handoff_type
+* Error Message: The handback priority in file path Basic\employee-competencies-and-development-analysis-power-bi-content-pack.c98dff28288146dbeb0ba2cfcbe7b7418b9cab74.de-de.xlf is not match with handoff type basic
+* Retriable: False
+* Error Details: {"internal_error_code":"handback_type_is_mismatch_with_handoff_type","internal_error_message":"The handback priority in file path Basic\\employee-competencies-and-development-analysis-power-bi-content-pack.c98dff28288146dbeb0ba2cfcbe7b7418b9cab74.de-de.xlf is not match with handoff type basic","internal_error_retriable":false,"exception_message":"The handback priority in file path Basic\\employee-competencies-and-development-analysis-power-bi-content-pack.c98dff28288146dbeb0ba2cfcbe7b7418b9cab74.de-de.xlf is not match with handoff type basic","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
+
+##### <a name='4699b40bff09d155d48c3858f7041e17f15077082445handback_type_is_mismatch_with_handoff_type'></a> Source: [financials\accounts-payable\accounting-distributions-subledger-journal-entries-vendor-invoices.md](#4699b40bff09d155d48c3858f7041e17f15077082445)
+* Error Code: handback_type_is_mismatch_with_handoff_type
+* Error Message: The handback priority in file path Basic\accounting-distributions-subledger-journal-entries-vendor-invoices.9d1f080dc619395c5fda6229acfb7f00d1c70ef3.de-de.xlf is not match with handoff type basic
+* Retriable: False
+* Error Details: {"internal_error_code":"handback_type_is_mismatch_with_handoff_type","internal_error_message":"The handback priority in file path Basic\\accounting-distributions-subledger-journal-entries-vendor-invoices.9d1f080dc619395c5fda6229acfb7f00d1c70ef3.de-de.xlf is not match with handoff type basic","internal_error_retriable":false,"exception_message":"The handback priority in file path Basic\\accounting-distributions-subledger-journal-entries-vendor-invoices.9d1f080dc619395c5fda6229acfb7f00d1c70ef3.de-de.xlf is not match with handoff type basic","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
+
+##### <a name='4f03bc5f89b19fd32614a8c75112a30d270749eb2447handback_type_is_mismatch_with_handoff_type'></a> Source: [financials\accounts-payable\accounting-source-explorer.md](#4f03bc5f89b19fd32614a8c75112a30d270749eb2447)
+* Error Code: handback_type_is_mismatch_with_handoff_type
+* Error Message: The handback priority in file path Basic\accounting-source-explorer.c676bb605b567e9325780798e4243e8241ee39b7.de-de.xlf is not match with handoff type basic
+* Retriable: False
+* Error Details: {"internal_error_code":"handback_type_is_mismatch_with_handoff_type","internal_error_message":"The handback priority in file path Basic\\accounting-source-explorer.c676bb605b567e9325780798e4243e8241ee39b7.de-de.xlf is not match with handoff type basic","internal_error_retriable":false,"exception_message":"The handback priority in file path Basic\\accounting-source-explorer.c676bb605b567e9325780798e4243e8241ee39b7.de-de.xlf is not match with handoff type basic","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
+
+##### <a name='6184588b3a3f487de07159cd4da9f670683ac95e2502handback_type_is_mismatch_with_handoff_type'></a> Source: [financials\accounts-receivable\accounting-distributions-subledger-journal-entries-free-text-invoices.md](#6184588b3a3f487de07159cd4da9f670683ac95e2502)
+* Error Code: handback_type_is_mismatch_with_handoff_type
+* Error Message: The handback priority in file path Basic\accounting-distributions-subledger-journal-entries-free-text-invoices.e9742bb69fb621f583d124bfc8e718f8d49fe785.de-de.xlf is not match with handoff type basic
+* Retriable: False
+* Error Details: {"internal_error_code":"handback_type_is_mismatch_with_handoff_type","internal_error_message":"The handback priority in file path Basic\\accounting-distributions-subledger-journal-entries-free-text-invoices.e9742bb69fb621f583d124bfc8e718f8d49fe785.de-de.xlf is not match with handoff type basic","internal_error_retriable":false,"exception_message":"The handback priority in file path Basic\\accounting-distributions-subledger-journal-entries-free-text-invoices.e9742bb69fb621f583d124bfc8e718f8d49fe785.de-de.xlf is not match with handoff type basic","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
+
 
 Generated by OpenLocalization.
