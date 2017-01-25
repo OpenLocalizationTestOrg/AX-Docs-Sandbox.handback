@@ -1,43 +1,11 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 2
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [financials\public-sector\accounts-payable-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/2cec2960765fd6fa967b95165e794d4e06ec3e26/financials/public-sector/accounts-payable-public-sector.md) | HandedOffSuccess | [Details](#9ceb3a9cdd94fb64a3fb540838782c5a56d199272971)
- [financials\public-sector\accounts-receivable-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/2cec2960765fd6fa967b95165e794d4e06ec3e26/financials/public-sector/accounts-receivable-public-sector.md) | HandedOffSuccess | [Details](#d0de8de9da7e31f4c183afaf9bcbf242c353dc252972)
 
 ## Item Details
-##### <a name='9ceb3a9cdd94fb64a3fb540838782c5a56d199272971'></a> Source: [financials\public-sector\accounts-payable-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/2cec2960765fd6fa967b95165e794d4e06ec3e26/financials/public-sector/accounts-payable-public-sector.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [accounts-payable-public-sector.65f72140e16c5e54756dddabd3c735c62c954d81.lt-lt.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/36cff9f942894c628665fdaa5c7f489013f45f78/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.lt-lt/master/basic/accounts-payable-public-sector.65f72140e16c5e54756dddabd3c735c62c954d81.lt-lt.xlf)
-* Handoff Datetime: 2017-01-25 19:18:17
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
-##### <a name='d0de8de9da7e31f4c183afaf9bcbf242c353dc252972'></a> Source: [financials\public-sector\accounts-receivable-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/2cec2960765fd6fa967b95165e794d4e06ec3e26/financials/public-sector/accounts-receivable-public-sector.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [accounts-receivable-public-sector.15d9ee0527dad77e9eec104df4afb39eff370132.lt-lt.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/36cff9f942894c628665fdaa5c7f489013f45f78/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.lt-lt/master/basic/accounts-receivable-public-sector.15d9ee0527dad77e9eec104df4afb39eff370132.lt-lt.xlf)
-* Handoff Datetime: 2017-01-25 19:18:17
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
