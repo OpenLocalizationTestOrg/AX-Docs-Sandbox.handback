@@ -2492,8 +2492,14 @@
   "edac83b02e60095fd3776ea0c9782c3f60c48aa7": [
     "financials\\localizations\\europe\\set-up-sepa-direct-debit-mandate.md"
   ],
+  "9ceb3a9cdd94fb64a3fb540838782c5a56d19927": [
+    "financials\\public-sector\\accounts-payable-public-sector.md"
+  ],
   "f344092583e98f0adb00a8d63184c3b1e92790fd": [
     "financials\\public-sector\\accounts-payable-public-sector.md"
+  ],
+  "d0de8de9da7e31f4c183afaf9bcbf242c353dc25": [
+    "financials\\public-sector\\accounts-receivable-public-sector.md"
   ],
   "b2da308a30ac85f210df1edce0dd9bc898c51387": [
     "financials\\public-sector\\accounts-receivable-public-sector.md"
@@ -3262,5 +3268,8 @@
   ],
   "4519c288236cf7905fd013bdc63be716706b0936": [
     "financials\\localizations\\europe\\select-file-formats-for-the-method-of-payments.md"
+  ],
+  "1d346ffe08222d400a19b449892ee36e4379ad06": [
+    "financials\\localizations\\europe\\aut-vat-statement-details-austria.md"
   ]
 }

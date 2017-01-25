@@ -5736,7 +5736,7 @@
       "TranslationType": 1,
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\b2da308a30ac85f210df1edce0dd9bc898c51387.283c1723f2f03f65719984f893fc0c929691e5c3.xml",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\d0de8de9da7e31f4c183afaf9bcbf242c353dc25.d0a9cba4c4920b397f6c2eceef895672ac57f802.xml",
       "LocXliff": null,
       "LocXliffCommit": null
     },
@@ -11726,7 +11726,7 @@
       "TranslationType": 1,
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\f344092583e98f0adb00a8d63184c3b1e92790fd.53bfe965aef5108d166e049b48a2bb373b753f5c.xml",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\9ceb3a9cdd94fb64a3fb540838782c5a56d19927.227553ff67fa67e0bf6f9b5c3b94c0eb5f6e9313.xml",
       "LocXliff": null,
       "LocXliffCommit": null
     },
@@ -14127,6 +14127,16 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\1457ec7ce9dad2e11f531ff6b30df9a8a88e9de8.6fbe46b22b05e4de735b2b20d1b1e46e2f991c5d.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\europe\\aut-vat-statement-details-austria.md.ffcd62736c894d5945137ade139a97666b36a747.HT": {
+      "SourceFilename": "financials\\localizations\\europe\\aut-vat-statement-details-austria.md",
+      "XliffHash": "ffcd62736c894d5945137ade139a97666b36a747",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\1d346ffe08222d400a19b449892ee36e4379ad06.6b5539df37af689102ab1e479458750b17ee5a20.xml",
       "LocXliff": null,
       "LocXliffCommit": null
     }
