@@ -12006,7 +12006,7 @@
       "TranslationType": 1,
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\b2da308a30ac85f210df1edce0dd9bc898c51387.283c1723f2f03f65719984f893fc0c929691e5c3.xml",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\d0de8de9da7e31f4c183afaf9bcbf242c353dc25.d0a9cba4c4920b397f6c2eceef895672ac57f802.xml",
       "LocXliff": null,
       "LocXliffCommit": null
     },
@@ -19326,7 +19326,7 @@
       "TranslationType": 1,
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\f344092583e98f0adb00a8d63184c3b1e92790fd.53bfe965aef5108d166e049b48a2bb373b753f5c.xml",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\9ceb3a9cdd94fb64a3fb540838782c5a56d19927.227553ff67fa67e0bf6f9b5c3b94c0eb5f6e9313.xml",
       "LocXliff": null,
       "LocXliffCommit": null
     },
@@ -22187,6 +22187,76 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\481444bcc972a99e5ec66e363af2449b3f7758fa.4b864dcbcc9f7a2332f19c021f6852c204eedbaf.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\europe\\lv-vat-statement-details.md.a7a6acd852e7692e9399bbf4f6853697844334cb.HT": {
+      "SourceFilename": "financials\\localizations\\europe\\lv-vat-statement-details.md",
+      "XliffHash": "a7a6acd852e7692e9399bbf4f6853697844334cb",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\227679cf05cb67284ee359339b36e7802edcd937.59b4ff95626e6f6787c4b92b17534d8867fa3389.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\europe\\chronological-invoices-vouchers-france.md.d4f939bc2bdc4e30c8c8a0c25495317fb2022642.HT": {
+      "SourceFilename": "financials\\localizations\\europe\\chronological-invoices-vouchers-france.md",
+      "XliffHash": "d4f939bc2bdc4e30c8c8a0c25495317fb2022642",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\c3dfb0f3a379a7621727c1a843ea64f5e3e151ab.27e86a48195d778f126af1a57366eaf64983a468.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\europe\\aut-vat-statement-details-austria.md.ffcd62736c894d5945137ade139a97666b36a747.HT": {
+      "SourceFilename": "financials\\localizations\\europe\\aut-vat-statement-details-austria.md",
+      "XliffHash": "ffcd62736c894d5945137ade139a97666b36a747",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\1d346ffe08222d400a19b449892ee36e4379ad06.6b5539df37af689102ab1e479458750b17ee5a20.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\europe\\cze-fixed-assets-depreciation.md.22981bd0391f11aaed6071bc67ef0a26b01a598b.HT": {
+      "SourceFilename": "financials\\localizations\\europe\\cze-fixed-assets-depreciation.md",
+      "XliffHash": "22981bd0391f11aaed6071bc67ef0a26b01a598b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\a3ca3c5e169cbe7d6cfdf9d8fb75fce0bb060b10.c3e3129fc4a3b94e6085e037a63e5607c5a46539.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\europe\\eu-vat-reporting.md.e5aec4538cab595bee83add19089d1e0211925ff.HT": {
+      "SourceFilename": "financials\\localizations\\europe\\eu-vat-reporting.md",
+      "XliffHash": "e5aec4538cab595bee83add19089d1e0211925ff",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\fb9833970aa3cd1d92e5eda08909ab9cedc3b296.c46ac950e046bd7ad261754d49edf877a8b27e9c.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\europe\\cze-depreciation-suspension-holidays.md.aa1c4fe9e4e5a72a72b91ea759b44d0a50f65fad.HT": {
+      "SourceFilename": "financials\\localizations\\europe\\cze-depreciation-suspension-holidays.md",
+      "XliffHash": "aa1c4fe9e4e5a72a72b91ea759b44d0a50f65fad",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\957d78158a72b82b867066be12766916e2633a6d.743ca12f01eb1fca21ee4a9f125c1e36ea9ddf0e.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\europe\\cze-half-depreciation-fixed-asset-disposal.md.ee52307f39aad99e635f04d6aafa5ba1c2889f79.HT": {
+      "SourceFilename": "financials\\localizations\\europe\\cze-half-depreciation-fixed-asset-disposal.md",
+      "XliffHash": "ee52307f39aad99e635f04d6aafa5ba1c2889f79",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\907b190c9d8e1e530fdf589377ee1fc945448770.77b73694b99029a4b55ea8a78b17dcff368476de.xml",
       "LocXliff": null,
       "LocXliffCommit": null
     }

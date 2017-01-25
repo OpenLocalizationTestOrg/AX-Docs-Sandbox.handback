@@ -3800,6 +3800,9 @@
   "078d88ef4a7bc42ff4ddc866ebacfa58e0411b15": [
     "financials\\localizations\\europe\\apply-penalty-customer-payment-past-due.md"
   ],
+  "1d346ffe08222d400a19b449892ee36e4379ad06": [
+    "financials\\localizations\\europe\\aut-vat-statement-details-austria.md"
+  ],
   "b7bfa6407ad2e1d3624fb7e5703de29eef49742f": [
     "financials\\localizations\\europe\\aut-vat-statement-details-austria.md"
   ],
@@ -3811,6 +3814,9 @@
   ],
   "7ad3b57dc5a636b803781ad7287c8b76c68c48b6": [
     "financials\\localizations\\europe\\che-esr-customer-payments-import.md"
+  ],
+  "c3dfb0f3a379a7621727c1a843ea64f5e3e151ab": [
+    "financials\\localizations\\europe\\chronological-invoices-vouchers-france.md"
   ],
   "d7e74710596923775a21df58bb204139ff93d8ec": [
     "financials\\localizations\\europe\\chronological-invoices-vouchers-france.md"
@@ -3830,11 +3836,20 @@
   "8de3670187d155a8f5f8deef016bf15963c263ac": [
     "financials\\localizations\\europe\\create-post-periodic-journals.md"
   ],
+  "957d78158a72b82b867066be12766916e2633a6d": [
+    "financials\\localizations\\europe\\cze-depreciation-suspension-holidays.md"
+  ],
   "5058d05faefa154c88dfbf2320d3764877898813": [
     "financials\\localizations\\europe\\cze-depreciation-suspension-holidays.md"
   ],
+  "a3ca3c5e169cbe7d6cfdf9d8fb75fce0bb060b10": [
+    "financials\\localizations\\europe\\cze-fixed-assets-depreciation.md"
+  ],
   "90bb591cd0e02b882535986430de669ebdf62242": [
     "financials\\localizations\\europe\\cze-fixed-assets-depreciation.md"
+  ],
+  "907b190c9d8e1e530fdf589377ee1fc945448770": [
+    "financials\\localizations\\europe\\cze-half-depreciation-fixed-asset-disposal.md"
   ],
   "1099791b517c1fe9c952f20ab2539be6dad277f8": [
     "financials\\localizations\\europe\\cze-half-depreciation-fixed-asset-disposal.md"
@@ -3890,6 +3905,9 @@
   "7ea3713d950b73f43f57bcc31671ea21bcfe13f7": [
     "financials\\localizations\\europe\\eu-sales-list.md"
   ],
+  "fb9833970aa3cd1d92e5eda08909ab9cedc3b296": [
+    "financials\\localizations\\europe\\eu-vat-reporting.md"
+  ],
   "23f6e12249c0f8b69664478b2b0b0a29ceae8009": [
     "financials\\localizations\\europe\\eu-vat-reporting.md"
   ],
@@ -3925,6 +3943,9 @@
   ],
   "5e16bb7b7ebb57522d0891aa329dc52dddf93f9f": [
     "financials\\localizations\\europe\\lva-fixed-assets-location-fields-change.md"
+  ],
+  "227679cf05cb67284ee359339b36e7802edcd937": [
+    "financials\\localizations\\europe\\lv-vat-statement-details.md"
   ],
   "4454c2c710de08519dba1433ade6b6ef27297912": [
     "financials\\localizations\\europe\\lv-vat-statement-details.md"
@@ -4067,8 +4088,14 @@
   "1efa48da0ff88f4c368454d076c5cc405eed9d4b": [
     "financials\\localizations\\north-america\\work-schedule-leave-tasks.md"
   ],
+  "9ceb3a9cdd94fb64a3fb540838782c5a56d19927": [
+    "financials\\public-sector\\accounts-payable-public-sector.md"
+  ],
   "f344092583e98f0adb00a8d63184c3b1e92790fd": [
     "financials\\public-sector\\accounts-payable-public-sector.md"
+  ],
+  "d0de8de9da7e31f4c183afaf9bcbf242c353dc25": [
+    "financials\\public-sector\\accounts-receivable-public-sector.md"
   ],
   "b2da308a30ac85f210df1edce0dd9bc898c51387": [
     "financials\\public-sector\\accounts-receivable-public-sector.md"
