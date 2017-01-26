@@ -9359,6 +9359,36 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.th-th\\master\\a00084adff13edc0c15b008b5f3e56da27f2f684.51b08e73b273f6d893c544a82b129d619ec0810a.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "financials\\localizations\\asia-pacific\\thailand-withholding-tax.md.535d05e82f2df9ab984298634f98f02018b6b44e.HT": {
+      "SourceFilename": "financials\\localizations\\asia-pacific\\thailand-withholding-tax.md",
+      "XliffHash": "535d05e82f2df9ab984298634f98f02018b6b44e",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.th-th\\master\\a11c0dcd8bd9a9915cadb850c7bbbea76c3a8252.2fb9e0380b84a473c372af6f75708156e41be858.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "dev-itpro\\dev-tools\\write-business-logic.md.f567e1ec8b83b2220272c1af4be23e8a2fb0c713.HT": {
+      "SourceFilename": "dev-itpro\\dev-tools\\write-business-logic.md",
+      "XliffHash": "f567e1ec8b83b2220272c1af4be23e8a2fb0c713",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.th-th\\master\\5bb5c66993555b4f681b15ca4bcc6e305d1e749f.20fb9c350731324d33c1f528ba29aa1e97d21c14.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\asia-pacific\\thailand-stock-card-reports.md.daa338b290d942da004967d407d88fcbbcf18abf.HT": {
+      "SourceFilename": "financials\\localizations\\asia-pacific\\thailand-stock-card-reports.md",
+      "XliffHash": "daa338b290d942da004967d407d88fcbbcf18abf",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.th-th\\master\\ba5e07c6affa7a745fdbd31794e5bfc950359f85.4799fea6c741736f9f4e47f9a851cf79fefb752d.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }
