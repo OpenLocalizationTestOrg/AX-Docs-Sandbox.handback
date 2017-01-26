@@ -52,11 +52,46 @@
                "locales":[  
                   "fr-fr",
                   "da-dk",
-				  "sr-cyrl-rs"
+				          "sr-cyrl-rs"
                ]
             }
          ]
       },
+      {  
+         "metadata":{  
+            "ms.industry":[  
+               "Public sector"
+            ]
+         },
+         "priorities":[  
+            {  
+               "priority":"do-not-translate",
+               "locales":[  
+                  "ar-sa",
+                  "zh-cn",
+                  "cs-cz",
+                  "nl-nl",
+                  "et-ee",
+                  "fi-fi",
+                  "de-de",
+                  "hu-hu",
+                  "is-is",
+                  "it-it",
+                  "ja-jp",
+                  "lv-lv",
+                  "lt-lt",
+                  "nb-no",
+                  "pl-pl",
+                  "pt-br",
+                  "ru-ru",
+                  "es-es",
+                  "sv-se",
+                  "th-th",
+                  "tr-tr"	   
+               ]
+            }
+         ]
+      },      
       {  
          "metadata":{  
             "ms.region":[  
@@ -90,7 +125,7 @@
                   "sv-se",
                   "th-th",
                   "tr-tr",
-				  "sr-cyrl-rs"
+			        	  "sr-cyrl-rs"
                ]
             }
          ]
@@ -121,7 +156,7 @@
                "priority":"basic",
                "locales":[  
                   "de-de",
-				  "sr-cyrl-rs"
+		        		  "sr-cyrl-rs"
                ]
             }
          ]
@@ -138,7 +173,7 @@
                "locales":[  
                   "fr-fr",
                   "nl-nl",
-				  "sr-cyrl-rs"
+				          "sr-cyrl-rs"
                ]
             }
          ]
@@ -749,7 +784,7 @@
                   "ja-jp",
                   "th-th",
                   "zh-cn",
-  				  "sr-cyrl-rs"
+  				       "sr-cyrl-rs"
                ]
             }
          ]
@@ -766,7 +801,7 @@
                "locales":[  
                   "es-es",
                   "pt-br",
-  				  "sr-cyrl-rs"
+  		      		  "sr-cyrl-rs"
                ]
             }
          ]
@@ -783,7 +818,7 @@
                "priority":"basic",
                "locales":[  
                   "fr-fr",
-  				  "sr-cyrl-rs"
+  				        "sr-cyrl-rs"
                ]
             }
          ]
