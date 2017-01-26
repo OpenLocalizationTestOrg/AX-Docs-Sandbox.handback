@@ -9389,6 +9389,26 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\481444bcc972a99e5ec66e363af2449b3f7758fa.4b864dcbcc9f7a2332f19c021f6852c204eedbaf.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "dev-itpro\\dev-tools\\write-business-logic.md.512e518b10342ca2baf3963804db004eabaa11b2.HT": {
+      "SourceFilename": "dev-itpro\\dev-tools\\write-business-logic.md",
+      "XliffHash": "512e518b10342ca2baf3963804db004eabaa11b2",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\16725006777e8f2d563be92c0bb13b7394922ec0.a1ef0999666751c6b02d57f7cc8510bd8c50b045.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "dev-itpro\\analytics-bi-reporting\\model-aggregate-data.md.63c06b48517dcede6b3b86f20b5a4c3085e87e40.HT": {
+      "SourceFilename": "dev-itpro\\analytics-bi-reporting\\model-aggregate-data.md",
+      "XliffHash": "63c06b48517dcede6b3b86f20b5a4c3085e87e40",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\345ddf2edf96d50e4c1a5c884a3017e6d1b24791.9e42b18ff52e5bc0bf6b982da1bb05a670cc1006.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }
