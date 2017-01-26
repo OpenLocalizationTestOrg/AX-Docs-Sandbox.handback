@@ -9399,6 +9399,16 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ru-ru\\master\\345ddf2edf96d50e4c1a5c884a3017e6d1b24791.9e42b18ff52e5bc0bf6b982da1bb05a670cc1006.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "dev-itpro\\dev-tools\\write-business-logic.md.f567e1ec8b83b2220272c1af4be23e8a2fb0c713.HT": {
+      "SourceFilename": "dev-itpro\\dev-tools\\write-business-logic.md",
+      "XliffHash": "f567e1ec8b83b2220272c1af4be23e8a2fb0c713",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ru-ru\\master\\5bb5c66993555b4f681b15ca4bcc6e305d1e749f.20fb9c350731324d33c1f528ba29aa1e97d21c14.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }
