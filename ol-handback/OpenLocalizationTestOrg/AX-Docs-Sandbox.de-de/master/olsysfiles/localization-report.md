@@ -5,12 +5,12 @@
  -------- | ----- 
  Total Files | 3441
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 942
+[ Handoff Success Files ](#handoff-success-list)| 940
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
-[ In Sync Handback Files ](#insync-handback-success-list)| 0
+[ In Sync Handback Files ](#insync-handback-success-list)| 2
 [ Ignored Files ](#ignored-list)| 2499
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
@@ -53,7 +53,6 @@
  [core\organization-administration\configure-parallel-activity-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/core/organization-administration/configure-parallel-activity-workflow.md) | HandedOffSuccess | [Details](#311659cd846e2f3b477fed110be7dd6fb24790c098)
  [core\organization-administration\configure-parallel-branch-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/core/organization-administration/configure-parallel-branch-workflow.md) | HandedOffSuccess | [Details](#6775662118ffbac29197490c25d2749c946292dd99)
  [core\organization-administration\configure-workflow-properties.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/core/organization-administration/configure-workflow-properties.md) | HandedOffSuccess | [Details](#5d227d3692369d038e0167d1eb2cf03865b4e85f100)
- [core\organization-administration\create-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/core/organization-administration/create-workflow.md) | HandedOffSuccess | [Details](#afd2a324be06edf3d585c36416f68615c1fbb302101)
  [core\organization-administration\electronic-signature-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/core/organization-administration/electronic-signature-overview.md) | HandedOffSuccess | [Details](#1405559fc6334e53ad96543d430fb206c448584e102)
  [core\organization-administration\manage-vendor-collaboration-users.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/core/organization-administration/manage-vendor-collaboration-users.md) | HandedOffSuccess | [Details](#c338d2202f855d4a5f859bca34171dc3d0c0d95f103)
  [core\organization-administration\number-sequence-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/core/organization-administration/number-sequence-overview.md) | HandedOffSuccess | [Details](#4b06a0db1c3a50171db21a035cb3f66c3ee1c210112)
@@ -549,7 +548,6 @@
  [financials\accounts-receivable\collections-credit-accounts-receivable.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-receivable/collections-credit-accounts-receivable.md) | HandedOffSuccess | [Details](#9e0d7e1d67048f554360d2324996fab49b0699c62507)
  [financials\accounts-receivable\configure-customer-invoices.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-receivable/configure-customer-invoices.md) | HandedOffSuccess | [Details](#da12bc83962c58c32c530146ca4312a122c12f572508)
  [financials\accounts-receivable\correct-free-text-invoice.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-receivable/correct-free-text-invoice.md) | HandedOffSuccess | [Details](#5740eb368257d1fb0afbe8f67473e81d6820ae722509)
- [financials\accounts-receivable\credit-card-authorizations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-receivable/credit-card-authorizations.md) | HandedOffSuccess | [Details](#4cccf2fbd1ff6695b4d3d67f800cb53c06253c1f2510)
  [financials\accounts-receivable\customer-payment-settle-multiple-invoices-multiple-discount-periods.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-receivable/customer-payment-settle-multiple-invoices-multiple-discount-periods.md) | HandedOffSuccess | [Details](#95b8dda9debed791966b73ac3e4a4564b27f85452511)
  [financials\accounts-receivable\customer-payments-partial-amount.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-receivable/customer-payments-partial-amount.md) | HandedOffSuccess | [Details](#cf6e5ca5e38e888647d8958d110324ef7182efe62512)
  [financials\accounts-receivable\customer-posting-profiles.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-receivable/customer-posting-profiles.md) | HandedOffSuccess | [Details](#0772118af5ea369f49aeca5d9f3b04923fb498992513)
@@ -970,6 +968,10 @@
 ## <a name='outofsync-handback-success-list'></a> Out Of Sync Handback Success File List
 
 ## <a name='insync-handback-success-list'></a> In Sync Handback File Success List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [core\organization-administration\create-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/core/organization-administration/create-workflow.md) | InSyncHandedBackSuccess | [Details](#afd2a324be06edf3d585c36416f68615c1fbb302101)
+ [financials\accounts-receivable\credit-card-authorizations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-receivable/credit-card-authorizations.md) | InSyncHandedBackSuccess | [Details](#4cccf2fbd1ff6695b4d3d67f800cb53c06253c1f2510)
 
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
@@ -4890,16 +4892,16 @@
 * [Back to Top](#report-top)
 
 ##### <a name='afd2a324be06edf3d585c36416f68615c1fbb302101'></a> Source: [core\organization-administration\create-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/core/organization-administration/create-workflow.md)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [core\organization-administration\create-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/6b918f662591917fd5e416b52886992d451c766f/core/organization-administration/create-workflow.md)
 * Handoff File: [create-workflow.c0ac2852891211442fba3babe6296f9db2d9b108.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/8a2fa8c9c48cb2ba30faeb1baa75e8eebd446519/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/create-workflow.c0ac2852891211442fba3babe6296f9db2d9b108.de-de.xlf)
 * Handoff Datetime: 2017-01-26 12:08:35
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [create-workflow.c0ac2852891211442fba3babe6296f9db2d9b108.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/66e1d756c71d0806345b39802cd1557552db6c6a/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/create-workflow.c0ac2852891211442fba3babe6296f9db2d9b108.de-de.xlf)
+* Handback Datetime: 2017-01-26 18:20:47
 * Handback Name: 
 * [Back to Top](#report-top)
 
@@ -38616,16 +38618,16 @@
 * [Back to Top](#report-top)
 
 ##### <a name='4cccf2fbd1ff6695b4d3d67f800cb53c06253c1f2510'></a> Source: [financials\accounts-receivable\credit-card-authorizations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-receivable/credit-card-authorizations.md)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [financials\accounts-receivable\credit-card-authorizations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/6b918f662591917fd5e416b52886992d451c766f/financials/accounts-receivable/credit-card-authorizations.md)
 * Handoff File: [credit-card-authorizations.762a70393a1130194398bed790ef397efffb47cb.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/8a2fa8c9c48cb2ba30faeb1baa75e8eebd446519/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/credit-card-authorizations.762a70393a1130194398bed790ef397efffb47cb.de-de.xlf)
 * Handoff Datetime: 2017-01-26 12:08:35
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [credit-card-authorizations.762a70393a1130194398bed790ef397efffb47cb.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/66e1d756c71d0806345b39802cd1557552db6c6a/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/credit-card-authorizations.762a70393a1130194398bed790ef397efffb47cb.de-de.xlf)
+* Handback Datetime: 2017-01-26 18:20:47
 * Handback Name: 
 * [Back to Top](#report-top)
 
