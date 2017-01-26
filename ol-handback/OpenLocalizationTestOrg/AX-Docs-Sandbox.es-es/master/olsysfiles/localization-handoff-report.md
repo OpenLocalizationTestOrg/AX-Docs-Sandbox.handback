@@ -6,15 +6,15 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [dev-itpro\analytics-bi-reporting\model-aggregate-data.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f01a4f30e80aa197a09fa250a65b791b0de69271/dev-itpro/analytics-bi-reporting/model-aggregate-data.md) | HandedOffSuccess | [Details](#345ddf2edf96d50e4c1a5c884a3017e6d1b24791493)
- [dev-itpro\dev-tools\write-business-logic.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/4d96608f415c6949f1fc5b11dc429dbd4d596ff2/dev-itpro/dev-tools/write-business-logic.md) | HandedOffSuccess | [Details](#16725006777e8f2d563be92c0bb13b7394922ec01058)
+ [dev-itpro\dev-tools\write-business-logic.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/4ea3528516b3132879b47be8e44630272131b42d/dev-itpro/dev-tools/write-business-logic.md) | HandedOffSuccess | [Details](#5bb5c66993555b4f681b15ca4bcc6e305d1e749f1058)
+ [financials\localizations\europe\esp-no-one-time-customer-for-project-contracts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/37a88844091ce80f631ce53067f9ca90887ef999/financials/localizations/europe/esp-no-one-time-customer-for-project-contracts.md) | HandedOffSuccess | [Details](#270a533c7ea206509d3ffc2bea1f3610efa33bbf2855)
 
 ## Item Details
-##### <a name='345ddf2edf96d50e4c1a5c884a3017e6d1b24791493'></a> Source: [dev-itpro\analytics-bi-reporting\model-aggregate-data.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f01a4f30e80aa197a09fa250a65b791b0de69271/dev-itpro/analytics-bi-reporting/model-aggregate-data.md)
+##### <a name='5bb5c66993555b4f681b15ca4bcc6e305d1e749f1058'></a> Source: [dev-itpro\dev-tools\write-business-logic.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/4ea3528516b3132879b47be8e44630272131b42d/dev-itpro/dev-tools/write-business-logic.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [model-aggregate-data.908bfa941bccce069dab0c8afeba37448a486f66.es-es.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/bc60016d6f68bfe9d903602b70d85599600dfb32/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.es-es/master/do-not-translate/model-aggregate-data.908bfa941bccce069dab0c8afeba37448a486f66.es-es.xlf)
-* Handoff Datetime: 2017-01-26 18:15:36
+* Handoff File: [write-business-logic.6e254870c1e1a9293e48e6587dc9b6ca700a983b.es-es.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/e375410e9d03c85549430213a50c81c631622686/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.es-es/master/do-not-translate/write-business-logic.6e254870c1e1a9293e48e6587dc9b6ca700a983b.es-es.xlf)
+* Handoff Datetime: 2017-01-26 21:34:41
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -24,11 +24,11 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='16725006777e8f2d563be92c0bb13b7394922ec01058'></a> Source: [dev-itpro\dev-tools\write-business-logic.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/4d96608f415c6949f1fc5b11dc429dbd4d596ff2/dev-itpro/dev-tools/write-business-logic.md)
+##### <a name='270a533c7ea206509d3ffc2bea1f3610efa33bbf2855'></a> Source: [financials\localizations\europe\esp-no-one-time-customer-for-project-contracts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/37a88844091ce80f631ce53067f9ca90887ef999/financials/localizations/europe/esp-no-one-time-customer-for-project-contracts.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [write-business-logic.6e254870c1e1a9293e48e6587dc9b6ca700a983b.es-es.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/bc60016d6f68bfe9d903602b70d85599600dfb32/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.es-es/master/do-not-translate/write-business-logic.6e254870c1e1a9293e48e6587dc9b6ca700a983b.es-es.xlf)
-* Handoff Datetime: 2017-01-26 18:15:36
+* Handoff File: [esp-no-one-time-customer-for-project-contracts.39344caccbdac2032b6e2e482fa6e606be2d07f7.es-es.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/e375410e9d03c85549430213a50c81c631622686/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.es-es/master/basic/esp-no-one-time-customer-for-project-contracts.39344caccbdac2032b6e2e482fa6e606be2d07f7.es-es.xlf)
+* Handoff Datetime: 2017-01-26 21:34:41
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
