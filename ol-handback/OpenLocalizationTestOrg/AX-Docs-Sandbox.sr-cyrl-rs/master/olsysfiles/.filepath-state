@@ -821,6 +821,9 @@
   "91333b5b4515567071f9868e53427ad473b474b7": [
     "dev-itpro\\dev-tools\\update-development-tools.md"
   ],
+  "5bb5c66993555b4f681b15ca4bcc6e305d1e749f": [
+    "dev-itpro\\dev-tools\\write-business-logic.md"
+  ],
   "16725006777e8f2d563be92c0bb13b7394922ec0": [
     "dev-itpro\\dev-tools\\write-business-logic.md"
   ],
@@ -2261,17 +2264,26 @@
   "cd667fa19a5c79b4105fbe48fe2d679e0f9a2e51": [
     "financials\\localizations\\asia-pacific\\set-up-reduction-entry-fixed-assets.md"
   ],
+  "ba5e07c6affa7a745fdbd31794e5bfc950359f85": [
+    "financials\\localizations\\asia-pacific\\thailand-stock-card-reports.md"
+  ],
   "c11aa9797f40f24a431cd0dc674414724532d7e1": [
     "financials\\localizations\\asia-pacific\\thailand-stock-card-reports.md"
   ],
   "185876a3bc3d7d3f1e105ac83164ed9bead6f9eb": [
     "financials\\localizations\\asia-pacific\\thailand-stock-card-reports.md"
   ],
+  "34f452e1b89355850f24af0db2c888fd9ba4ccdf": [
+    "financials\\localizations\\asia-pacific\\thailand-unrealized-vat.md"
+  ],
   "a00084adff13edc0c15b008b5f3e56da27f2f684": [
     "financials\\localizations\\asia-pacific\\thailand-unrealized-vat.md"
   ],
   "3ad944ba23d84f3c8f01e6936f22e62974249dd2": [
     "financials\\localizations\\asia-pacific\\thailand-unrealized-vat.md"
+  ],
+  "a11c0dcd8bd9a9915cadb850c7bbbea76c3a8252": [
+    "financials\\localizations\\asia-pacific\\thailand-withholding-tax.md"
   ],
   "f287653bc573a46e5ec80ee60fba65c3e51c7d97": [
     "financials\\localizations\\asia-pacific\\thailand-withholding-tax.md"
@@ -2359,6 +2371,9 @@
   ],
   "cd64537d74c5e2c45c248adc717bd98dec7398a9": [
     "financials\\localizations\\europe\\esp-fixed-asset-group-revaluation.md"
+  ],
+  "270a533c7ea206509d3ffc2bea1f3610efa33bbf": [
+    "financials\\localizations\\europe\\esp-no-one-time-customer-for-project-contracts.md"
   ],
   "3bb0b988b3ec6e403d3a9863207e111f5dc8c817": [
     "financials\\localizations\\europe\\esp-no-one-time-customer-for-project-contracts.md"
