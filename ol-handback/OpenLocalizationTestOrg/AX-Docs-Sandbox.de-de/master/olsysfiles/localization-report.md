@@ -4903,6 +4903,8 @@
 * Handback File: [create-workflow.c0ac2852891211442fba3babe6296f9db2d9b108.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/66e1d756c71d0806345b39802cd1557552db6c6a/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/create-workflow.c0ac2852891211442fba3babe6296f9db2d9b108.de-de.xlf)
 * Handback Datetime: 2017-01-26 18:20:47
 * Handback Name: 
+* Bilingual File: [create-workflow.c0ac2852891211442fba3babe6296f9db2d9b108.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/66e1d756c71d0806345b39802cd1557552db6c6a/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/create-workflow.c0ac2852891211442fba3babe6296f9db2d9b108.de-de.xlf)
+* Bilingual Datetime: 2017-01-26 18:25:23
 * [Back to Top](#report-top)
 
 ##### <a name='1405559fc6334e53ad96543d430fb206c448584e102'></a> Source: [core\organization-administration\electronic-signature-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/core/organization-administration/electronic-signature-overview.md)
@@ -38629,6 +38631,8 @@
 * Handback File: [credit-card-authorizations.762a70393a1130194398bed790ef397efffb47cb.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/66e1d756c71d0806345b39802cd1557552db6c6a/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/credit-card-authorizations.762a70393a1130194398bed790ef397efffb47cb.de-de.xlf)
 * Handback Datetime: 2017-01-26 18:20:47
 * Handback Name: 
+* Bilingual File: [credit-card-authorizations.762a70393a1130194398bed790ef397efffb47cb.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/66e1d756c71d0806345b39802cd1557552db6c6a/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/credit-card-authorizations.762a70393a1130194398bed790ef397efffb47cb.de-de.xlf)
+* Bilingual Datetime: 2017-01-26 18:25:23
 * [Back to Top](#report-top)
 
 ##### <a name='95b8dda9debed791966b73ac3e4a4564b27f85452511'></a> Source: [financials\accounts-receivable\customer-payment-settle-multiple-invoices-multiple-discount-periods.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-receivable/customer-payment-settle-multiple-invoices-multiple-discount-periods.md)
