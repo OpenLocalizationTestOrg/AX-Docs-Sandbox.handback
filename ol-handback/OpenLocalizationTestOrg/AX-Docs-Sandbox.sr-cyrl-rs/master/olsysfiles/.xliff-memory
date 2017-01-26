@@ -11559,6 +11559,56 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\481444bcc972a99e5ec66e363af2449b3f7758fa.4b864dcbcc9f7a2332f19c021f6852c204eedbaf.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "dev-itpro\\dev-tools\\write-business-logic.md.512e518b10342ca2baf3963804db004eabaa11b2.HT": {
+      "SourceFilename": "dev-itpro\\dev-tools\\write-business-logic.md",
+      "XliffHash": "512e518b10342ca2baf3963804db004eabaa11b2",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\16725006777e8f2d563be92c0bb13b7394922ec0.a1ef0999666751c6b02d57f7cc8510bd8c50b045.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\asia-pacific\\thailand-stock-card-reports.md.e1699cbef09bafb23c611c73f20d6538d5b23ced.HT": {
+      "SourceFilename": "financials\\localizations\\asia-pacific\\thailand-stock-card-reports.md",
+      "XliffHash": "e1699cbef09bafb23c611c73f20d6538d5b23ced",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\c11aa9797f40f24a431cd0dc674414724532d7e1.3a1e29a4eec4eebaed1ea3d9b441fb66e205cfb2.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "dev-itpro\\analytics-bi-reporting\\model-aggregate-data.md.63c06b48517dcede6b3b86f20b5a4c3085e87e40.HT": {
+      "SourceFilename": "dev-itpro\\analytics-bi-reporting\\model-aggregate-data.md",
+      "XliffHash": "63c06b48517dcede6b3b86f20b5a4c3085e87e40",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\345ddf2edf96d50e4c1a5c884a3017e6d1b24791.9e42b18ff52e5bc0bf6b982da1bb05a670cc1006.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\asia-pacific\\thailand-withholding-tax.md.904b50d8e56553149d7a9de3df385f6efaab8db9.HT": {
+      "SourceFilename": "financials\\localizations\\asia-pacific\\thailand-withholding-tax.md",
+      "XliffHash": "904b50d8e56553149d7a9de3df385f6efaab8db9",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\f287653bc573a46e5ec80ee60fba65c3e51c7d97.22242b0b2d130ca0d810af355780a5e9393bd068.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\asia-pacific\\thailand-unrealized-vat.md.92d78455cc97dec37ca34ed2bc4dba225b7b683e.HT": {
+      "SourceFilename": "financials\\localizations\\asia-pacific\\thailand-unrealized-vat.md",
+      "XliffHash": "92d78455cc97dec37ca34ed2bc4dba225b7b683e",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\a00084adff13edc0c15b008b5f3e56da27f2f684.51b08e73b273f6d893c544a82b129d619ec0810a.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }

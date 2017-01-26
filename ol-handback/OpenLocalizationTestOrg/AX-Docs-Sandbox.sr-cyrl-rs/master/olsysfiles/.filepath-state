@@ -299,6 +299,9 @@
   "8a359506a43bc17ca40f7cc6036cacd32e17fa4d": [
     "dev-itpro\\analytics-bi-reporting\\migrate-upgraded-cube-entity-store.md"
   ],
+  "345ddf2edf96d50e4c1a5c884a3017e6d1b24791": [
+    "dev-itpro\\analytics-bi-reporting\\model-aggregate-data.md"
+  ],
   "1258dc5f3aa8d497b6770924ffba43c26f590e01": [
     "dev-itpro\\analytics-bi-reporting\\model-aggregate-data.md"
   ],
@@ -817,6 +820,9 @@
   ],
   "91333b5b4515567071f9868e53427ad473b474b7": [
     "dev-itpro\\dev-tools\\update-development-tools.md"
+  ],
+  "16725006777e8f2d563be92c0bb13b7394922ec0": [
+    "dev-itpro\\dev-tools\\write-business-logic.md"
   ],
   "dc79f151211f1dc51344456043b8634c73d85bde": [
     "dev-itpro\\dev-tools\\write-business-logic.md"
@@ -2255,11 +2261,20 @@
   "cd667fa19a5c79b4105fbe48fe2d679e0f9a2e51": [
     "financials\\localizations\\asia-pacific\\set-up-reduction-entry-fixed-assets.md"
   ],
+  "c11aa9797f40f24a431cd0dc674414724532d7e1": [
+    "financials\\localizations\\asia-pacific\\thailand-stock-card-reports.md"
+  ],
   "185876a3bc3d7d3f1e105ac83164ed9bead6f9eb": [
     "financials\\localizations\\asia-pacific\\thailand-stock-card-reports.md"
   ],
+  "a00084adff13edc0c15b008b5f3e56da27f2f684": [
+    "financials\\localizations\\asia-pacific\\thailand-unrealized-vat.md"
+  ],
   "3ad944ba23d84f3c8f01e6936f22e62974249dd2": [
     "financials\\localizations\\asia-pacific\\thailand-unrealized-vat.md"
+  ],
+  "f287653bc573a46e5ec80ee60fba65c3e51c7d97": [
+    "financials\\localizations\\asia-pacific\\thailand-withholding-tax.md"
   ],
   "6a94cc76aa60d723b7e9a9e32bbe0b47db3d9056": [
     "financials\\localizations\\asia-pacific\\thailand-withholding-tax.md"
