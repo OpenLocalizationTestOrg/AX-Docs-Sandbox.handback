@@ -9469,6 +9469,16 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\5bb5c66993555b4f681b15ca4bcc6e305d1e749f.20fb9c350731324d33c1f528ba29aa1e97d21c14.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "financials\\localizations\\europe\\esp-no-one-time-customer-for-project-contracts.md.4a12b9d9e40823747d77317bff09be926aacd753.HT": {
+      "SourceFilename": "financials\\localizations\\europe\\esp-no-one-time-customer-for-project-contracts.md",
+      "XliffHash": "4a12b9d9e40823747d77317bff09be926aacd753",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\0e6b129fbadd13fef516256dc436f02423d6b355.e5c58959c19394a3e2298bcf34b89466e9a4b5cf.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }
