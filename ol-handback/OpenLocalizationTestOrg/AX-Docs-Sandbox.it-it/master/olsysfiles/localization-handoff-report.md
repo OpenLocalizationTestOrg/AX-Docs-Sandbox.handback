@@ -1,28 +1,11 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [dev-itpro\dev-tools\write-business-logic.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/4ea3528516b3132879b47be8e44630272131b42d/dev-itpro/dev-tools/write-business-logic.md) | HandedOffSuccess | [Details](#5bb5c66993555b4f681b15ca4bcc6e305d1e749f1058)
 
 ## Item Details
-##### <a name='5bb5c66993555b4f681b15ca4bcc6e305d1e749f1058'></a> Source: [dev-itpro\dev-tools\write-business-logic.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/4ea3528516b3132879b47be8e44630272131b42d/dev-itpro/dev-tools/write-business-logic.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [write-business-logic.6e254870c1e1a9293e48e6587dc9b6ca700a983b.it-it.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/d7d7b83206c59de53dd7def0cd4865de32403d21/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.it-it/master/do-not-translate/write-business-logic.6e254870c1e1a9293e48e6587dc9b6ca700a983b.it-it.xlf)
-* Handoff Datetime: 2017-01-26 21:32:47
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
