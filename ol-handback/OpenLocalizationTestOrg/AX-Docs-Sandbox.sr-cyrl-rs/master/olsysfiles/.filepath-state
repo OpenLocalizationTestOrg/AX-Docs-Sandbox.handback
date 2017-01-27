@@ -2273,6 +2273,9 @@
   "185876a3bc3d7d3f1e105ac83164ed9bead6f9eb": [
     "financials\\localizations\\asia-pacific\\thailand-stock-card-reports.md"
   ],
+  "7bc2a2cf8c4de4c7c4c9513a2815c2b355f69417": [
+    "financials\\localizations\\asia-pacific\\thailand-unrealized-vat.md"
+  ],
   "34f452e1b89355850f24af0db2c888fd9ba4ccdf": [
     "financials\\localizations\\asia-pacific\\thailand-unrealized-vat.md"
   ],
@@ -2371,6 +2374,9 @@
   ],
   "cd64537d74c5e2c45c248adc717bd98dec7398a9": [
     "financials\\localizations\\europe\\esp-fixed-asset-group-revaluation.md"
+  ],
+  "0e6b129fbadd13fef516256dc436f02423d6b355": [
+    "financials\\localizations\\europe\\esp-no-one-time-customer-for-project-contracts.md"
   ],
   "270a533c7ea206509d3ffc2bea1f3610efa33bbf": [
     "financials\\localizations\\europe\\esp-no-one-time-customer-for-project-contracts.md"

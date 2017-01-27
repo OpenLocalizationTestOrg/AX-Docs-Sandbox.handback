@@ -11659,6 +11659,26 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\34f452e1b89355850f24af0db2c888fd9ba4ccdf.e4e60dc5b3bd57ae5c6716d113c8137f2c2f5a78.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "financials\\localizations\\europe\\esp-no-one-time-customer-for-project-contracts.md.4a12b9d9e40823747d77317bff09be926aacd753.HT": {
+      "SourceFilename": "financials\\localizations\\europe\\esp-no-one-time-customer-for-project-contracts.md",
+      "XliffHash": "4a12b9d9e40823747d77317bff09be926aacd753",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\0e6b129fbadd13fef516256dc436f02423d6b355.e5c58959c19394a3e2298bcf34b89466e9a4b5cf.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\asia-pacific\\thailand-unrealized-vat.md.490df36e21a6cc35f7e9ddb8bdcc4056f598f64b.HT": {
+      "SourceFilename": "financials\\localizations\\asia-pacific\\thailand-unrealized-vat.md",
+      "XliffHash": "490df36e21a6cc35f7e9ddb8bdcc4056f598f64b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\7bc2a2cf8c4de4c7c4c9513a2815c2b355f69417.2bf31fdd325242a9956cea403d4a44b0ae6f49ad.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }
