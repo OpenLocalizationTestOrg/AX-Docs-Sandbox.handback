@@ -1,49 +1,19 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 3
+ Total Files | 1
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [dev-itpro\dev-tools\write-business-logic.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/4ea3528516b3132879b47be8e44630272131b42d/dev-itpro/dev-tools/write-business-logic.md) | HandedOffSuccess | [Details](#5bb5c66993555b4f681b15ca4bcc6e305d1e749f1058)
- [financials\localizations\asia-pacific\thailand-stock-card-reports.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3e5ce30fdd6b039ee710af84d9665161e333980c/financials/localizations/asia-pacific/thailand-stock-card-reports.md) | HandedOffSuccess | [Details](#ba5e07c6affa7a745fdbd31794e5bfc950359f852825)
- [financials\localizations\asia-pacific\thailand-withholding-tax.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/9e8973c21e10bddb3fa398e6ce46ba2cb146b541/financials/localizations/asia-pacific/thailand-withholding-tax.md) | HandedOffSuccess | [Details](#a11c0dcd8bd9a9915cadb850c7bbbea76c3a82522827)
+ [financials\localizations\asia-pacific\thailand-unrealized-vat.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/51cb5c52c2de9e6a59912975dedab05233102c7b/financials/localizations/asia-pacific/thailand-unrealized-vat.md) | HandedOffSuccess | [Details](#7bc2a2cf8c4de4c7c4c9513a2815c2b355f694172826)
 
 ## Item Details
-##### <a name='5bb5c66993555b4f681b15ca4bcc6e305d1e749f1058'></a> Source: [dev-itpro\dev-tools\write-business-logic.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/4ea3528516b3132879b47be8e44630272131b42d/dev-itpro/dev-tools/write-business-logic.md)
+##### <a name='7bc2a2cf8c4de4c7c4c9513a2815c2b355f694172826'></a> Source: [financials\localizations\asia-pacific\thailand-unrealized-vat.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/51cb5c52c2de9e6a59912975dedab05233102c7b/financials/localizations/asia-pacific/thailand-unrealized-vat.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [write-business-logic.6e254870c1e1a9293e48e6587dc9b6ca700a983b.th-th.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/60ed5365a7c8bc0958c18383e08eb6deac70a175/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.th-th/master/do-not-translate/write-business-logic.6e254870c1e1a9293e48e6587dc9b6ca700a983b.th-th.xlf)
-* Handoff Datetime: 2017-01-26 21:35:11
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
-##### <a name='ba5e07c6affa7a745fdbd31794e5bfc950359f852825'></a> Source: [financials\localizations\asia-pacific\thailand-stock-card-reports.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3e5ce30fdd6b039ee710af84d9665161e333980c/financials/localizations/asia-pacific/thailand-stock-card-reports.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [thailand-stock-card-reports.31a510ac5fbec7edcfe709514476b5ae004b80ff.th-th.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/60ed5365a7c8bc0958c18383e08eb6deac70a175/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.th-th/master/basic/thailand-stock-card-reports.31a510ac5fbec7edcfe709514476b5ae004b80ff.th-th.xlf)
-* Handoff Datetime: 2017-01-26 21:35:11
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
-##### <a name='a11c0dcd8bd9a9915cadb850c7bbbea76c3a82522827'></a> Source: [financials\localizations\asia-pacific\thailand-withholding-tax.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/9e8973c21e10bddb3fa398e6ce46ba2cb146b541/financials/localizations/asia-pacific/thailand-withholding-tax.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [thailand-withholding-tax.17fe70ca37532fcf1c758ea3b8bcaf5c493965fe.th-th.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/60ed5365a7c8bc0958c18383e08eb6deac70a175/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.th-th/master/basic/thailand-withholding-tax.17fe70ca37532fcf1c758ea3b8bcaf5c493965fe.th-th.xlf)
-* Handoff Datetime: 2017-01-26 21:35:11
+* Handoff File: [thailand-unrealized-vat.bb611b1955a3605cfb0a68832862b60e68c97b11.th-th.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/065c128f532705d3747e5c63347ec5d4867e8dff/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.th-th/master/basic/thailand-unrealized-vat.bb611b1955a3605cfb0a68832862b60e68c97b11.th-th.xlf)
+* Handoff Datetime: 2017-01-27 10:51:37
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 

@@ -9389,6 +9389,16 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.th-th\\master\\ba5e07c6affa7a745fdbd31794e5bfc950359f85.4799fea6c741736f9f4e47f9a851cf79fefb752d.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "financials\\localizations\\asia-pacific\\thailand-unrealized-vat.md.490df36e21a6cc35f7e9ddb8bdcc4056f598f64b.HT": {
+      "SourceFilename": "financials\\localizations\\asia-pacific\\thailand-unrealized-vat.md",
+      "XliffHash": "490df36e21a6cc35f7e9ddb8bdcc4056f598f64b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.th-th\\master\\7bc2a2cf8c4de4c7c4c9513a2815c2b355f69417.2bf31fdd325242a9956cea403d4a44b0ae6f49ad.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }
