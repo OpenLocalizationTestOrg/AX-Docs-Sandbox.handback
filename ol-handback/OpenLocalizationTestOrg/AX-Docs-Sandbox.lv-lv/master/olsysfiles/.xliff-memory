@@ -9479,6 +9479,36 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.lv-lv\\master\\481444bcc972a99e5ec66e363af2449b3f7758fa.4b864dcbcc9f7a2332f19c021f6852c204eedbaf.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "financials\\TOC.md.6e896fc062c7182479611352007c4d8fefbc7db8.HT": {
+      "SourceFilename": "financials\\TOC.md",
+      "XliffHash": "6e896fc062c7182479611352007c4d8fefbc7db8",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.lv-lv\\master\\dc437657b4619d34e8a11cc3ef93ba80155365a1.bcbea1eb56fe630840b900eb0704548d4519d764.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\accounts-receivable\\configure-customer-invoices.md.4c724d863c6b9a42d7a9db4782027a087a93fc25.HT": {
+      "SourceFilename": "financials\\accounts-receivable\\configure-customer-invoices.md",
+      "XliffHash": "4c724d863c6b9a42d7a9db4782027a087a93fc25",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.lv-lv\\master\\da12bc83962c58c32c530146ca4312a122c12f57.e8bb7e981d6b8836418ba84d164f3e756c2917c5.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "dev-itpro\\migration-upgrade\\upgrade-latest-platform-update.md.5c18f5e4648b01b6a7897b353d41c18c0c0be233.HT": {
+      "SourceFilename": "dev-itpro\\migration-upgrade\\upgrade-latest-platform-update.md",
+      "XliffHash": "5c18f5e4648b01b6a7897b353d41c18c0c0be233",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.lv-lv\\master\\752a7bd7b9a59bf3fada5cacf4a00c0a1571f65e.0c903b6a31367e792a1a15ab5f1829799f5d7db3.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }

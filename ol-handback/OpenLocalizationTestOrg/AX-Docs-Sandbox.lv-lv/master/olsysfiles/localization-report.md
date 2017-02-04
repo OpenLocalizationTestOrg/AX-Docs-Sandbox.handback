@@ -4,8 +4,8 @@
  Property | Value 
  -------- | ----- 
  Total Files | 3441
-[ Handoff Failed Files ](#handoff-failed-list)| 3
-[ Handoff Success Files ](#handoff-success-list)| 948
+[ Handoff Failed Files ](#handoff-failed-list)| 0
+[ Handoff Success Files ](#handoff-success-list)| 951
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
@@ -14,11 +14,6 @@
 [ Ignored Files ](#ignored-list)| 2490
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [dev-itpro\migration-upgrade\upgrade-latest-platform-update.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/dev-itpro/migration-upgrade/upgrade-latest-platform-update.md) | HandedOffFailed | [Details](#752a7bd7b9a59bf3fada5cacf4a00c0a1571f65e1500)
- [financials\accounts-receivable\configure-customer-invoices.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-receivable/configure-customer-invoices.md) | HandedOffFailed | [Details](#da12bc83962c58c32c530146ca4312a122c12f572508)
- [financials\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/df5d17c23245abddadc504137c26748109e22a4d/financials/TOC.md) | HandedOffFailed | [Details](#dc437657b4619d34e8a11cc3ef93ba80155365a12994)
 
 ## <a name='handoff-success-list'></a> Handoff Success File List
  Source File | Status | Details 
@@ -367,6 +362,7 @@
  [dev-itpro\migration-upgrade\deprecated-features.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/dev-itpro/migration-upgrade/deprecated-features.md) | HandedOffSuccess | [Details](#486c30ee1f05aed0ece6d36f71b2ce4ea91445b61451)
  [dev-itpro\migration-upgrade\prepare-migration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/dev-itpro/migration-upgrade/prepare-migration.md) | HandedOffSuccess | [Details](#362e94bd972c933862a527f8f8847095e7425d581498)
  [dev-itpro\migration-upgrade\upgrade-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/dev-itpro/migration-upgrade/upgrade-home-page.md) | HandedOffSuccess | [Details](#2a2e2aaa44eb0ee5ba54a8d74b2e84271e62f9f21499)
+ [dev-itpro\migration-upgrade\upgrade-latest-platform-update.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/dev-itpro/migration-upgrade/upgrade-latest-platform-update.md) | HandedOffSuccess | [Details](#752a7bd7b9a59bf3fada5cacf4a00c0a1571f65e1500)
  [dev-itpro\migration-upgrade\upgrade-latest-update.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/dev-itpro/migration-upgrade/upgrade-latest-update.md) | HandedOffSuccess | [Details](#d709339845f8a9a8887ad5895bc0529bd2e6d7031501)
  [dev-itpro\migration-upgrade\vso-machine-renaming.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/dev-itpro/migration-upgrade/vso-machine-renaming.md) | HandedOffSuccess | [Details](#b189180a1ad4db954a575e0d12fd5e6373dbcfc01502)
  [dev-itpro\mobile-apps\mobile-platform.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/dev-itpro/mobile-apps/mobile-platform.md) | HandedOffSuccess | [Details](#daaf55499b41b776097cd8da72bb785a6deb71881538)
@@ -553,6 +549,7 @@
  [financials\accounts-receivable\centralized-payments-accounts-receivable.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-receivable/centralized-payments-accounts-receivable.md) | HandedOffSuccess | [Details](#fc92decce563f448b97f7cbc67d5bd2b8f107abf2505)
  [financials\accounts-receivable\close-accounts-receivable.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-receivable/close-accounts-receivable.md) | HandedOffSuccess | [Details](#b5b3b221ed86550370173ed04a3238f8bc53210c2506)
  [financials\accounts-receivable\collections-credit-accounts-receivable.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-receivable/collections-credit-accounts-receivable.md) | HandedOffSuccess | [Details](#9e0d7e1d67048f554360d2324996fab49b0699c62507)
+ [financials\accounts-receivable\configure-customer-invoices.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-receivable/configure-customer-invoices.md) | HandedOffSuccess | [Details](#da12bc83962c58c32c530146ca4312a122c12f572508)
  [financials\accounts-receivable\correct-free-text-invoice.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-receivable/correct-free-text-invoice.md) | HandedOffSuccess | [Details](#5740eb368257d1fb0afbe8f67473e81d6820ae722509)
  [financials\accounts-receivable\credit-card-authorizations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-receivable/credit-card-authorizations.md) | HandedOffSuccess | [Details](#4cccf2fbd1ff6695b4d3d67f800cb53c06253c1f2510)
  [financials\accounts-receivable\customer-payment-settle-multiple-invoices-multiple-discount-periods.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-receivable/customer-payment-settle-multiple-invoices-multiple-discount-periods.md) | HandedOffSuccess | [Details](#95b8dda9debed791966b73ac3e4a4564b27f85452511)
@@ -711,6 +708,7 @@
  [financials\public-sector\security-roles-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/public-sector/security-roles-public-sector.md) | HandedOffSuccess | [Details](#7d8c2f13f1d39e9941ed69379d8a9a5eb41334bd2991)
  [financials\public-sector\settlement-priority-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/public-sector/settlement-priority-public-sector.md) | HandedOffSuccess | [Details](#bddb38898fd98b5b2a2562b080cbf899c46f7bfb2992)
  [financials\public-sector\year-end-processing-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/public-sector/year-end-processing-public-sector.md) | HandedOffSuccess | [Details](#1a62547399c1653c0322f5b32fd70784d1c3320d2993)
+ [financials\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/df5d17c23245abddadc504137c26748109e22a4d/financials/TOC.md) | HandedOffSuccess | [Details](#dc437657b4619d34e8a11cc3ef93ba80155365a12994)
  [human-resources\benefit-eligibility-policies.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/human-resources/benefit-eligibility-policies.md) | HandedOffSuccess | [Details](#7a6aa27843fccd4e10ac52521e49ab05339f8c8c2995)
  [human-resources\compensation-plans.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/human-resources/compensation-plans.md) | HandedOffSuccess | [Details](#9fa0d1cafbd0446c3211dadb2a122991882d82342996)
  [human-resources\courses.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/human-resources/courses.md) | HandedOffSuccess | [Details](#b2215bc086beaabf10c5b9958114b08745b3c86a2997)
@@ -24478,13 +24476,12 @@
 * [Back to Top](#report-top)
 
 ##### <a name='752a7bd7b9a59bf3fada5cacf4a00c0a1571f65e1500'></a> Source: [dev-itpro\migration-upgrade\upgrade-latest-platform-update.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/dev-itpro/migration-upgrade/upgrade-latest-platform-update.md)
-* Status: HandedOffFailed
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: 
-* Handoff Datetime: 2017-01-27 14:24:34
-* Handoff Reason: Ignored
+* Handoff File: [upgrade-latest-platform-update.78b1d38253b1c29dcf93daf28dfbaa8d4b5969e1.lv-lv.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/15984f6c34e8169c356809a07b45a26b94b69dce/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.lv-lv/master/do-not-translate/upgrade-latest-platform-update.78b1d38253b1c29dcf93daf28dfbaa8d4b5969e1.lv-lv.xlf)
+* Handoff Datetime: 2017-02-04 03:08:13
+* Handoff Reason: Include
 * Handoff Name: 
-* Handoff Error: [handoff_transform_failed](#752a7bd7b9a59bf3fada5cacf4a00c0a1571f65e1500handoff_transform_failed)
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -38591,13 +38588,12 @@
 * [Back to Top](#report-top)
 
 ##### <a name='da12bc83962c58c32c530146ca4312a122c12f572508'></a> Source: [financials\accounts-receivable\configure-customer-invoices.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc/financials/accounts-receivable/configure-customer-invoices.md)
-* Status: HandedOffFailed
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: 
-* Handoff Datetime: 2017-01-27 14:24:34
-* Handoff Reason: Ignored
+* Handoff File: [configure-customer-invoices.3bed40b69a02afbf0dc0a6f63875a0aafb419627.lv-lv.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/15984f6c34e8169c356809a07b45a26b94b69dce/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.lv-lv/master/basic/configure-customer-invoices.3bed40b69a02afbf0dc0a6f63875a0aafb419627.lv-lv.xlf)
+* Handoff Datetime: 2017-02-04 03:08:13
+* Handoff Reason: Include
 * Handoff Name: 
-* Handoff Error: [handoff_transform_failed](#da12bc83962c58c32c530146ca4312a122c12f572508handoff_transform_failed)
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -45396,13 +45392,12 @@
 * [Back to Top](#report-top)
 
 ##### <a name='dc437657b4619d34e8a11cc3ef93ba80155365a12994'></a> Source: [financials\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/df5d17c23245abddadc504137c26748109e22a4d/financials/TOC.md)
-* Status: HandedOffFailed
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: 
-* Handoff Datetime: 2017-01-27 14:24:34
-* Handoff Reason: Ignored
+* Handoff File: [TOC.88d6c824c09df77e700e0bdcc0353c342395bad5.lv-lv.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/15984f6c34e8169c356809a07b45a26b94b69dce/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.lv-lv/master/premium/TOC.88d6c824c09df77e700e0bdcc0353c342395bad5.lv-lv.xlf)
+* Handoff Datetime: 2017-02-04 03:08:13
+* Handoff Reason: Include
 * Handoff Name: 
-* Handoff Error: [handoff_transform_failed](#dc437657b4619d34e8a11cc3ef93ba80155365a12994handoff_transform_failed)
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -51656,23 +51651,5 @@
 
 
 ## Error Details
-##### <a name='752a7bd7b9a59bf3fada5cacf4a00c0a1571f65e1500handoff_transform_failed'></a> Source: [dev-itpro\migration-upgrade\upgrade-latest-platform-update.md](#752a7bd7b9a59bf3fada5cacf4a00c0a1571f65e1500)
-* Error Code: handoff_transform_failed
-* Error Message: Handoff source file: dev-itpro\migration-upgrade\upgrade-latest-platform-update.md transformed failed.
-* Retriable: False
-* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: dev-itpro\\migration-upgrade\\upgrade-latest-platform-update.md transformed failed.","internal_error_retriable":false,"exception_message":"<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\"/>\r\n<title>502 - Web server received an invalid response while acting as a gateway or proxy server.</title>\r\n<style type=\"text/css\">\r\n<!--\r\nbody{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}\r\nfieldset{padding:0 15px 10px 15px;} \r\nh1{font-size:2.4em;margin:0;color:#FFF;}\r\nh2{font-size:1.7em;margin:0;color:#CC0000;} \r\nh3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} \r\n#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:\"trebuchet MS\", Verdana, sans-serif;color:#FFF;\r\nbackground-color:#555555;}\r\n#content{margin:0 0 0 2%;position:relative;}\r\n.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}\r\n-->\r\n</style>\r\n</head>\r\n<body>\r\n<div id=\"header\"><h1>Server Error</h1></div>\r\n<div id=\"content\">\r\n <div class=\"content-container\"><fieldset>\r\n  <h2>502 - Web server received an invalid response while acting as a gateway or proxy server.</h2>\r\n  <h3>There is a problem with the page you are looking for, and it cannot be displayed. When the Web server (while acting as a gateway or proxy) contacted the upstream content server, it received an invalid response from the content server.</h3>\r\n </fieldset></div>\r\n</div>\r\n</body>\r\n</html>\r\n","exception_type":"System.Net.Http.HttpRequestException","stack_trace":"   at Microsoft.OpenLocalization.Transformer.MarkdownJavascriptTransformer.MarkdownToXliffCore(Stream sourceStream, Stream xliffStream, Stream skeletonStream, String srcLocale, String targetLocale, IReadOnlyDictionary`2 transformerOptions) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization.Transformer.Core\\Transformer\\MarkdownJavascriptTransformer.cs:line 43\r\n   at Microsoft.OpenLocalization.Transformer.TransformerClient.MarkdownToXliff(Stream sourceStream, Stream xliffStream, Stream skeletonStream, String srcLocale, String targetLocale, String xliffVersion, IReadOnlyDictionary`2 options) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization.Transformer.Core\\TransformerClient.cs:line 78\r\n   at Microsoft.OpenLocalization.Helper.XliffTransformUtil.MarkdownToXliff(String mdfile, String xliffFile, String skeletonFile, String sourceLocale, String targetLocale, String xliffVersion, Boolean useJavascriptTransformer, IReadOnlyDictionary`2 transformerOptions) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Helper\\XliffTransformUtil.cs:line 60\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass13_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 299","extended_information":null}
-
-##### <a name='da12bc83962c58c32c530146ca4312a122c12f572508handoff_transform_failed'></a> Source: [financials\accounts-receivable\configure-customer-invoices.md](#da12bc83962c58c32c530146ca4312a122c12f572508)
-* Error Code: handoff_transform_failed
-* Error Message: Handoff source file: financials\accounts-receivable\configure-customer-invoices.md transformed failed.
-* Retriable: False
-* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: financials\\accounts-receivable\\configure-customer-invoices.md transformed failed.","internal_error_retriable":false,"exception_message":"<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\"/>\r\n<title>502 - Web server received an invalid response while acting as a gateway or proxy server.</title>\r\n<style type=\"text/css\">\r\n<!--\r\nbody{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}\r\nfieldset{padding:0 15px 10px 15px;} \r\nh1{font-size:2.4em;margin:0;color:#FFF;}\r\nh2{font-size:1.7em;margin:0;color:#CC0000;} \r\nh3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} \r\n#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:\"trebuchet MS\", Verdana, sans-serif;color:#FFF;\r\nbackground-color:#555555;}\r\n#content{margin:0 0 0 2%;position:relative;}\r\n.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}\r\n-->\r\n</style>\r\n</head>\r\n<body>\r\n<div id=\"header\"><h1>Server Error</h1></div>\r\n<div id=\"content\">\r\n <div class=\"content-container\"><fieldset>\r\n  <h2>502 - Web server received an invalid response while acting as a gateway or proxy server.</h2>\r\n  <h3>There is a problem with the page you are looking for, and it cannot be displayed. When the Web server (while acting as a gateway or proxy) contacted the upstream content server, it received an invalid response from the content server.</h3>\r\n </fieldset></div>\r\n</div>\r\n</body>\r\n</html>\r\n","exception_type":"System.Net.Http.HttpRequestException","stack_trace":"   at Microsoft.OpenLocalization.Transformer.MarkdownJavascriptTransformer.MarkdownToXliffCore(Stream sourceStream, Stream xliffStream, Stream skeletonStream, String srcLocale, String targetLocale, IReadOnlyDictionary`2 transformerOptions) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization.Transformer.Core\\Transformer\\MarkdownJavascriptTransformer.cs:line 43\r\n   at Microsoft.OpenLocalization.Transformer.TransformerClient.MarkdownToXliff(Stream sourceStream, Stream xliffStream, Stream skeletonStream, String srcLocale, String targetLocale, String xliffVersion, IReadOnlyDictionary`2 options) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization.Transformer.Core\\TransformerClient.cs:line 78\r\n   at Microsoft.OpenLocalization.Helper.XliffTransformUtil.MarkdownToXliff(String mdfile, String xliffFile, String skeletonFile, String sourceLocale, String targetLocale, String xliffVersion, Boolean useJavascriptTransformer, IReadOnlyDictionary`2 transformerOptions) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Helper\\XliffTransformUtil.cs:line 60\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass13_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 299","extended_information":null}
-
-##### <a name='dc437657b4619d34e8a11cc3ef93ba80155365a12994handoff_transform_failed'></a> Source: [financials\TOC.md](#dc437657b4619d34e8a11cc3ef93ba80155365a12994)
-* Error Code: handoff_transform_failed
-* Error Message: Handoff source file: financials\TOC.md transformed failed.
-* Retriable: False
-* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: financials\\TOC.md transformed failed.","internal_error_retriable":false,"exception_message":"<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\"/>\r\n<title>502 - Web server received an invalid response while acting as a gateway or proxy server.</title>\r\n<style type=\"text/css\">\r\n<!--\r\nbody{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}\r\nfieldset{padding:0 15px 10px 15px;} \r\nh1{font-size:2.4em;margin:0;color:#FFF;}\r\nh2{font-size:1.7em;margin:0;color:#CC0000;} \r\nh3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} \r\n#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:\"trebuchet MS\", Verdana, sans-serif;color:#FFF;\r\nbackground-color:#555555;}\r\n#content{margin:0 0 0 2%;position:relative;}\r\n.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}\r\n-->\r\n</style>\r\n</head>\r\n<body>\r\n<div id=\"header\"><h1>Server Error</h1></div>\r\n<div id=\"content\">\r\n <div class=\"content-container\"><fieldset>\r\n  <h2>502 - Web server received an invalid response while acting as a gateway or proxy server.</h2>\r\n  <h3>There is a problem with the page you are looking for, and it cannot be displayed. When the Web server (while acting as a gateway or proxy) contacted the upstream content server, it received an invalid response from the content server.</h3>\r\n </fieldset></div>\r\n</div>\r\n</body>\r\n</html>\r\n","exception_type":"System.Net.Http.HttpRequestException","stack_trace":"   at Microsoft.OpenLocalization.Transformer.MarkdownJavascriptTransformer.MarkdownToXliffCore(Stream sourceStream, Stream xliffStream, Stream skeletonStream, String srcLocale, String targetLocale, IReadOnlyDictionary`2 transformerOptions) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization.Transformer.Core\\Transformer\\MarkdownJavascriptTransformer.cs:line 43\r\n   at Microsoft.OpenLocalization.Transformer.TransformerClient.MarkdownToXliff(Stream sourceStream, Stream xliffStream, Stream skeletonStream, String srcLocale, String targetLocale, String xliffVersion, IReadOnlyDictionary`2 options) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization.Transformer.Core\\TransformerClient.cs:line 78\r\n   at Microsoft.OpenLocalization.Helper.XliffTransformUtil.MarkdownToXliff(String mdfile, String xliffFile, String skeletonFile, String sourceLocale, String targetLocale, String xliffVersion, Boolean useJavascriptTransformer, IReadOnlyDictionary`2 transformerOptions) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Helper\\XliffTransformUtil.cs:line 60\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass13_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 299","extended_information":null}
-
 
 Generated by OpenLocalization.
