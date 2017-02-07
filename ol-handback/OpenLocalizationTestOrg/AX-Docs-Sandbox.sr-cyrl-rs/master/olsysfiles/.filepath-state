@@ -527,6 +527,9 @@
   "66e3501aef6063d6ecd1fa046eb2dab4b0e19208": [
     "dev-itpro\\analytics-bi-reporting\\general-electronic-reporting.md"
   ],
+  "1e5939028595850e7e995ef31b6f8669263063a1": [
+    "dev-itpro\\analytics-bi-reporting\\general-electronic-reporting-formula-designer.md"
+  ],
   "64bd7d1fc8c8cfe911e2484656a109051cf877c0": [
     "dev-itpro\\analytics-bi-reporting\\general-electronic-reporting-formula-designer.md"
   ],
@@ -1487,6 +1490,9 @@
   "4e268bea22b3c1f1302906cf60e84d8351961ec8": [
     "dev-itpro\\dev-tools\\customization-analysis-report.md"
   ],
+  "a8d85cfc2c93d1ae49419f89761c0d5a6fc06b31": [
+    "dev-itpro\\dev-tools\\customization-overlayering-extensions.md"
+  ],
   "d6655063ee8ec761a93ce2e20426c0c2ef37217b": [
     "dev-itpro\\dev-tools\\customization-overlayering-extensions.md"
   ],
@@ -1744,6 +1750,9 @@
   ],
   "cf849cfa58a78073946d4dda44bbfd5ecf0a9b7b": [
     "dev-itpro\\financial-dimensions\\segmented-entry-control-parm-method-specification.md"
+  ],
+  "e378192ab96293ee642791fb67586b3bc80d87b8": [
+    "dev-itpro\\get-started\\architecture-changes.md"
   ],
   "ce1f5d505cb762bc7f6a46e37a514eb6d435149e": [
     "dev-itpro\\get-started\\architecture-changes.md"
@@ -2077,6 +2086,9 @@
   ],
   "f88a5c7e71d83e88302b6151df3eb01427e3a4e7": [
     "dev-itpro\\lifecycle-services\\ax-2012\\performance-benchmark-software-development-toolkit-sdk-2012.md"
+  ],
+  "41fca6d5cf50571bb8b28548e2f6eb285df52429": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\plan-2012-r3-deployment-azure.md"
   ],
   "00233d84dab0564c684d5ac059efe7b852e5a04b": [
     "dev-itpro\\lifecycle-services\\ax-2012\\plan-2012-r3-deployment-azure.md"
@@ -3716,6 +3728,9 @@
   "109704bc6b01a746da151f775b960999027e4040": [
     "financials\\budgeting\\budgeting-overview.md"
   ],
+  "4cef775eeb22a2d2e6b6666f28079197c972e7e7": [
+    "financials\\budgeting\\budget-plan.md"
+  ],
   "cbb7307d0c64442beb0a5910a2dea1a7e6b84ee4": [
     "financials\\budgeting\\budget-plan.md"
   ],
@@ -4123,6 +4138,9 @@
   ],
   "781bdbbd0a044b4be4e0247107d74274e1f1a24f": [
     "financials\\general-ledger\\accruals-overview.md"
+  ],
+  "48a646150c6d9a1dab43b38077b48e6dea614f9e": [
+    "financials\\general-ledger\\audit-policy-rules.md"
   ],
   "3d6a81130c4eb4f7ad9a7402075b20f14a1d3b6a": [
     "financials\\general-ledger\\audit-policy-rules.md"
@@ -4750,6 +4768,9 @@
   ],
   "87cf423967d7ee7a42e31be73739a44761f6fa8f": [
     "financials\\localizations\\europe\\hun-low-cost-fixed-assets.md"
+  ],
+  "29e25926fc259dff04bd5929e63f36a75bf90165": [
+    "financials\\localizations\\europe\\import-create-postal-codes-manually.md"
   ],
   "efd995f684e54c92d82eeff9b18963fff37e8f5c": [
     "financials\\localizations\\europe\\import-create-postal-codes-manually.md"
