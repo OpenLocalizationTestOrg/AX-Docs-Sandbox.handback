@@ -5914,5 +5914,20 @@
   ],
   "92a31ff3c1fc896904af390b8fc3817026894b29": [
     "retail\\set-up-bar-code-masks.md"
+  ],
+  "1e5939028595850e7e995ef31b6f8669263063a1": [
+    "dev-itpro\\analytics-bi-reporting\\general-electronic-reporting-formula-designer.md"
+  ],
+  "e378192ab96293ee642791fb67586b3bc80d87b8": [
+    "dev-itpro\\get-started\\architecture-changes.md"
+  ],
+  "41fca6d5cf50571bb8b28548e2f6eb285df52429": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\plan-2012-r3-deployment-azure.md"
+  ],
+  "4cef775eeb22a2d2e6b6666f28079197c972e7e7": [
+    "financials\\budgeting\\budget-plan.md"
+  ],
+  "48a646150c6d9a1dab43b38077b48e6dea614f9e": [
+    "financials\\general-ledger\\audit-policy-rules.md"
   ]
 }
