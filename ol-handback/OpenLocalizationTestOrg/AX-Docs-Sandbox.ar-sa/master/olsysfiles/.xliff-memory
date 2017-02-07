@@ -10209,6 +10209,56 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ar-sa\\master\\465ad21d47db6423e2ee4898c671580e973c305a.b93b597fc9333222aa1f813054587760cd0fcfcd.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "dev-itpro\\lifecycle-services\\ax-2012\\plan-2012-r3-deployment-azure.md.595b4031953650101f766e7a52d3be07202bb2e8.HT": {
+      "SourceFilename": "dev-itpro\\lifecycle-services\\ax-2012\\plan-2012-r3-deployment-azure.md",
+      "XliffHash": "595b4031953650101f766e7a52d3be07202bb2e8",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ar-sa\\master\\41fca6d5cf50571bb8b28548e2f6eb285df52429.6a539d414ed55647f3755e1c04a4b6db2f7334af.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\budgeting\\budget-plan.md.325c6c0f0d95ca44e1257383b5cc6016f0da0d57.HT": {
+      "SourceFilename": "financials\\budgeting\\budget-plan.md",
+      "XliffHash": "325c6c0f0d95ca44e1257383b5cc6016f0da0d57",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ar-sa\\master\\4cef775eeb22a2d2e6b6666f28079197c972e7e7.ac80ae2b0922ef68a8f2f841c02c1532579b1c0f.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "dev-itpro\\get-started\\architecture-changes.md.acfdce38311a1c91d4a9d893af8305ba12f56c84.HT": {
+      "SourceFilename": "dev-itpro\\get-started\\architecture-changes.md",
+      "XliffHash": "acfdce38311a1c91d4a9d893af8305ba12f56c84",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ar-sa\\master\\e378192ab96293ee642791fb67586b3bc80d87b8.51d15bc38b8549f0959f19609ad226d542422982.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "dev-itpro\\analytics-bi-reporting\\general-electronic-reporting-formula-designer.md.26e571e3fda9cef6000fec9b5514ad7da1b8e2eb.HT": {
+      "SourceFilename": "dev-itpro\\analytics-bi-reporting\\general-electronic-reporting-formula-designer.md",
+      "XliffHash": "26e571e3fda9cef6000fec9b5514ad7da1b8e2eb",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ar-sa\\master\\1e5939028595850e7e995ef31b6f8669263063a1.d2e9f3a761fe9e8ca11894d9de0d7c35b1c7acea.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\general-ledger\\audit-policy-rules.md.d3cc5df7be2e8bb49100fc3a770b9b0652977e9c.HT": {
+      "SourceFilename": "financials\\general-ledger\\audit-policy-rules.md",
+      "XliffHash": "d3cc5df7be2e8bb49100fc3a770b9b0652977e9c",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ar-sa\\master\\48a646150c6d9a1dab43b38077b48e6dea614f9e.633754ae7cbbedb9712423404effbab3a8895871.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }
