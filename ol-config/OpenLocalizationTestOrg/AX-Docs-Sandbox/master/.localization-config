@@ -825,6 +825,7 @@
       },
       {
         "files": [
+          "index.md",
           "core/TOC.md",
           "core/index.md",
           "financials/TOC.md",
@@ -839,6 +840,43 @@
          "priorities":[  
             {  
                "priority":"premium",
+               "locales":[
+                  "ar-sa",
+                  "zh-cn",
+                  "cs-cz",
+                  "da-dk",
+                  "nl-nl",
+                  "et-ee",
+                  "fi-fi",
+                  "fr-fr",
+                  "de-de",
+                  "hu-hu",
+                  "is-is",
+                  "it-it",
+                  "ja-jp",
+                  "lv-lv",
+                  "lt-lt",
+                  "nb-no",
+                  "pl-pl",
+                  "pt-br",
+                  "ru-ru",
+                  "es-es",
+                  "sv-se",
+                  "th-th",
+                  "tr-tr",			   
+                  "sr-cyrl-rs"
+               ]
+            }
+         ]
+      },
+      {
+        "files": [
+          "dev-itpro/TOC.md",
+          "dev-itpro/index.md"
+        ],
+         "priorities":[  
+            {  
+               "priority":"do-not-translate",
                "locales":[
                   "ar-sa",
                   "zh-cn",
