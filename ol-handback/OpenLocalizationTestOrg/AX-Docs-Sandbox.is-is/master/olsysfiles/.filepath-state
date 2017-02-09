@@ -533,12 +533,6 @@
   "8a359506a43bc17ca40f7cc6036cacd32e17fa4d": [
     "dev-itpro\\analytics-bi-reporting\\migrate-upgraded-cube-entity-store.md"
   ],
-  "cde0154f6cd094de61d77135cb7a208fbca7f650": [
-    "dev-itpro\\analytics-bi-reporting\\model-aggregate-data.md"
-  ],
-  "345ddf2edf96d50e4c1a5c884a3017e6d1b24791": [
-    "dev-itpro\\analytics-bi-reporting\\model-aggregate-data.md"
-  ],
   "c2734242740a151b36602df488b7bb5a752b4cce": [
     "dev-itpro\\analytics-bi-reporting\\modify-row-definition-cells-financial-reporting.md"
   ],
@@ -1324,12 +1318,6 @@
   ],
   "91333b5b4515567071f9868e53427ad473b474b7": [
     "dev-itpro\\dev-tools\\update-development-tools.md"
-  ],
-  "664529d92f36ba720d59b33016a07d19056a304f": [
-    "dev-itpro\\dev-tools\\write-business-logic.md"
-  ],
-  "5bb5c66993555b4f681b15ca4bcc6e305d1e749f": [
-    "dev-itpro\\dev-tools\\write-business-logic.md"
   ],
   "da7e15457f15206ee73869ab4e1caebf4a2b5d36": [
     "dev-itpro\\extensions-overlayering\\class-extensions.md"
@@ -5885,22 +5873,13 @@
   "92a31ff3c1fc896904af390b8fc3817026894b29": [
     "retail\\set-up-bar-code-masks.md"
   ],
-  "1e5939028595850e7e995ef31b6f8669263063a1": [
-    "dev-itpro\\analytics-bi-reporting\\general-electronic-reporting-formula-designer.md"
+  "97d768878dd39d011e58eef9f43c3ebd535edeff": [
+    "dev-itpro\\index.md"
   ],
-  "e378192ab96293ee642791fb67586b3bc80d87b8": [
-    "dev-itpro\\get-started\\architecture-changes.md"
+  "3e055515b7c142220111f6232129d0011e100605": [
+    "dev-itpro\\TOC.md"
   ],
-  "41fca6d5cf50571bb8b28548e2f6eb285df52429": [
-    "dev-itpro\\lifecycle-services\\ax-2012\\plan-2012-r3-deployment-azure.md"
-  ],
-  "4cef775eeb22a2d2e6b6666f28079197c972e7e7": [
-    "financials\\budgeting\\budget-plan.md"
-  ],
-  "48a646150c6d9a1dab43b38077b48e6dea614f9e": [
-    "financials\\general-ledger\\audit-policy-rules.md"
-  ],
-  "29e25926fc259dff04bd5929e63f36a75bf90165": [
-    "financials\\localizations\\europe\\import-create-postal-codes-manually.md"
+  "38e422abb532abb72eb581f9d6de3cd7e1a3f0fc": [
+    "index.md"
   ]
 }
