@@ -10419,6 +10419,36 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.lv-lv\\master\\48a646150c6d9a1dab43b38077b48e6dea614f9e.633754ae7cbbedb9712423404effbab3a8895871.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "index.md.59c0c9dd97a24e18d2bc47baa617c180eff76739.HT": {
+      "SourceFilename": "index.md",
+      "XliffHash": "59c0c9dd97a24e18d2bc47baa617c180eff76739",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.lv-lv\\master\\38e422abb532abb72eb581f9d6de3cd7e1a3f0fc.c84deb93f2fbc39e85d5b1bb3a35c11a002eebe6.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "dev-itpro\\TOC.md.fdc969e896c14271eb0e26197ee1abca7b698dd3.HT": {
+      "SourceFilename": "dev-itpro\\TOC.md",
+      "XliffHash": "fdc969e896c14271eb0e26197ee1abca7b698dd3",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.lv-lv\\master\\3e055515b7c142220111f6232129d0011e100605.b9c4f06d109ec7882555e6deedc0ca6901a74b5b.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "dev-itpro\\index.md.ad351ee2463757fc3c85daef5e50cdd10cdde293.HT": {
+      "SourceFilename": "dev-itpro\\index.md",
+      "XliffHash": "ad351ee2463757fc3c85daef5e50cdd10cdde293",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.lv-lv\\master\\97d768878dd39d011e58eef9f43c3ebd535edeff.b756ba13efe1a19e3c40476c76ff0a16f38a4504.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }
