@@ -13109,6 +13109,36 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\48a646150c6d9a1dab43b38077b48e6dea614f9e.633754ae7cbbedb9712423404effbab3a8895871.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "dev-itpro\\analytics-bi-reporting\\model-aggregate-data.md.2f9490409428a328e1038c2ecf0c206aa8c4818c.HT": {
+      "SourceFilename": "dev-itpro\\analytics-bi-reporting\\model-aggregate-data.md",
+      "XliffHash": "2f9490409428a328e1038c2ecf0c206aa8c4818c",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\1855dec5aaba4113abf153a8d7c66a0b92f5e633.5c12556410b9ac1752bdf357fbcbc4125f8ac7f5.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "index.md.59c0c9dd97a24e18d2bc47baa617c180eff76739.HT": {
+      "SourceFilename": "index.md",
+      "XliffHash": "59c0c9dd97a24e18d2bc47baa617c180eff76739",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\38e422abb532abb72eb581f9d6de3cd7e1a3f0fc.c84deb93f2fbc39e85d5b1bb3a35c11a002eebe6.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "dev-itpro\\dev-tools\\write-business-logic.md.843d4f8f841807e334d608a37ea704c5363269bf.HT": {
+      "SourceFilename": "dev-itpro\\dev-tools\\write-business-logic.md",
+      "XliffHash": "843d4f8f841807e334d608a37ea704c5363269bf",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\0e80946f84ab2e5ff8590f28998b65c5443af2eb.c639daa3689d278357ddf2d85b8aeb2813587893.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }

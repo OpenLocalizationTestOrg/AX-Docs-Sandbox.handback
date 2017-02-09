@@ -602,6 +602,9 @@
   "8a359506a43bc17ca40f7cc6036cacd32e17fa4d": [
     "dev-itpro\\analytics-bi-reporting\\migrate-upgraded-cube-entity-store.md"
   ],
+  "1855dec5aaba4113abf153a8d7c66a0b92f5e633": [
+    "dev-itpro\\analytics-bi-reporting\\model-aggregate-data.md"
+  ],
   "cde0154f6cd094de61d77135cb7a208fbca7f650": [
     "dev-itpro\\analytics-bi-reporting\\model-aggregate-data.md"
   ],
@@ -1490,10 +1493,10 @@
   "4e268bea22b3c1f1302906cf60e84d8351961ec8": [
     "dev-itpro\\dev-tools\\customization-analysis-report.md"
   ],
-  "a8d85cfc2c93d1ae49419f89761c0d5a6fc06b31": [
+  "d6655063ee8ec761a93ce2e20426c0c2ef37217b": [
     "dev-itpro\\dev-tools\\customization-overlayering-extensions.md"
   ],
-  "d6655063ee8ec761a93ce2e20426c0c2ef37217b": [
+  "a8d85cfc2c93d1ae49419f89761c0d5a6fc06b31": [
     "dev-itpro\\dev-tools\\customization-overlayering-extensions.md"
   ],
   "31c8cdd6d0ae310b87f6554d716ee75786463b5f": [
@@ -1642,6 +1645,9 @@
   ],
   "91333b5b4515567071f9868e53427ad473b474b7": [
     "dev-itpro\\dev-tools\\update-development-tools.md"
+  ],
+  "0e80946f84ab2e5ff8590f28998b65c5443af2eb": [
+    "dev-itpro\\dev-tools\\write-business-logic.md"
   ],
   "664529d92f36ba720d59b33016a07d19056a304f": [
     "dev-itpro\\dev-tools\\write-business-logic.md"
@@ -6961,5 +6967,8 @@
   ],
   "2cad3e52afdabcbec4b46a6756b2fec75e53c634": [
     "manufacturing\\master-planning\\master-plan.md"
+  ],
+  "38e422abb532abb72eb581f9d6de3cd7e1a3f0fc": [
+    "index.md"
   ]
 }
