@@ -1,11 +1,28 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [dev-itpro\index.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/69fc26ce0f7245cd05adedd5b293e26a5d41edd0/dev-itpro/index.md) | HandedOffSuccess | [Details](#97d768878dd39d011e58eef9f43c3ebd535edeff1181)
 
 ## Item Details
+##### <a name='97d768878dd39d011e58eef9f43c3ebd535edeff1181'></a> Source: [dev-itpro\index.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/69fc26ce0f7245cd05adedd5b293e26a5d41edd0/dev-itpro/index.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [index.fb87281ef628436b88d3e05b1b2c7b496889daa2.hu-hu.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7ac0c1b56add47a40028da9ce5db33962f9115b3/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.hu-hu/master/do-not-translate/index.fb87281ef628436b88d3e05b1b2c7b496889daa2.hu-hu.xlf)
+* Handoff Datetime: 2017-02-10 18:36:37
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
