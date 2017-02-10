@@ -825,21 +825,12 @@
       },
       {
         "files": [
-          "index.md",
-          "core/TOC.md",
-          "core/index.md",
-          "financials/TOC.md",
-          "financials/index.md",
-          "human-resources/TOC.md",
-          "human-resources/index.md",
-          "manufacturing/TOC.md",
-          "manufacturing/index.md",
-          "retail/TOC.md",
-          "retail/index.md"
+          "dev-itpro/TOC.md",
+          "dev-itpro/index.md"
         ],
          "priorities":[  
             {  
-               "priority":"premium",
+               "priority":"do-not-translate",
                "locales":[
                   "ar-sa",
                   "zh-cn",
@@ -871,12 +862,21 @@
       },
       {
         "files": [
-          "dev-itpro/TOC.md",
-          "dev-itpro/index.md"
+          "index.md",
+          "core/TOC.md",
+          "core/index.md",
+          "financials/TOC.md",
+          "financials/index.md",
+          "human-resources/TOC.md",
+          "human-resources/index.md",
+          "manufacturing/TOC.md",
+          "manufacturing/index.md",
+          "retail/TOC.md",
+          "retail/index.md"
         ],
          "priorities":[  
             {  
-               "priority":"do-not-translate",
+               "priority":"premium",
                "locales":[
                   "ar-sa",
                   "zh-cn",
