@@ -20020,8 +20020,8 @@
 ##### <a name='97d768878dd39d011e58eef9f43c3ebd535edeff1181'></a> Source: [dev-itpro\index.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/69fc26ce0f7245cd05adedd5b293e26a5d41edd0/dev-itpro/index.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [index.fb87281ef628436b88d3e05b1b2c7b496889daa2.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/83fcd0e6ac225eb123b50144fb8950d0729e2e70/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/premium/index.fb87281ef628436b88d3e05b1b2c7b496889daa2.pl-pl.xlf)
-* Handoff Datetime: 2017-02-09 13:41:04
+* Handoff File: [index.fb87281ef628436b88d3e05b1b2c7b496889daa2.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/a5998fa779e4a68ad3ef75fd43c02ee10a717ba6/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/index.fb87281ef628436b88d3e05b1b2c7b496889daa2.pl-pl.xlf)
+* Handoff Datetime: 2017-02-10 18:38:41
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
