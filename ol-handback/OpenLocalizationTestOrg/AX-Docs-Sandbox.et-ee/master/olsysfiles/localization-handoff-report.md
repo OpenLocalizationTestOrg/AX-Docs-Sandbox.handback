@@ -1,58 +1,11 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 3
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [dev-itpro\index.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/69fc26ce0f7245cd05adedd5b293e26a5d41edd0/dev-itpro/index.md) | HandedOffSuccess | [Details](#97d768878dd39d011e58eef9f43c3ebd535edeff1181)
- [dev-itpro\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/932cf5f62ec54c84e797b380b22bce5cb42dc28a/dev-itpro/TOC.md) | HandedOffSuccess | [Details](#3e055515b7c142220111f6232129d0011e1006051886)
- [index.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/633774ac83a2783644ce240f939f47470400acf9/index.md) | HandedOffSuccess | [Details](#38e422abb532abb72eb581f9d6de3cd7e1a3f0fc3050)
 
 ## Item Details
-##### <a name='97d768878dd39d011e58eef9f43c3ebd535edeff1181'></a> Source: [dev-itpro\index.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/69fc26ce0f7245cd05adedd5b293e26a5d41edd0/dev-itpro/index.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [index.fb87281ef628436b88d3e05b1b2c7b496889daa2.et-ee.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9a1a0385171042428da439c1e82e6869087e05ca/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.et-ee/master/premium/index.fb87281ef628436b88d3e05b1b2c7b496889daa2.et-ee.xlf)
-* Handoff Datetime: 2017-02-09 13:38:28
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
-##### <a name='3e055515b7c142220111f6232129d0011e1006051886'></a> Source: [dev-itpro\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/932cf5f62ec54c84e797b380b22bce5cb42dc28a/dev-itpro/TOC.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [TOC.567a8270326887bc7a1dc2ebcb83be5b54fee423.et-ee.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9a1a0385171042428da439c1e82e6869087e05ca/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.et-ee/master/do-not-translate/TOC.567a8270326887bc7a1dc2ebcb83be5b54fee423.et-ee.xlf)
-* Handoff Datetime: 2017-02-09 13:38:28
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
-##### <a name='38e422abb532abb72eb581f9d6de3cd7e1a3f0fc3050'></a> Source: [index.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/633774ac83a2783644ce240f939f47470400acf9/index.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [index.b8d322cca13b7303167b216a3efe71db4e1687a1.et-ee.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9a1a0385171042428da439c1e82e6869087e05ca/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.et-ee/master/premium/index.b8d322cca13b7303167b216a3efe71db4e1687a1.et-ee.xlf)
-* Handoff Datetime: 2017-02-09 13:38:28
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
