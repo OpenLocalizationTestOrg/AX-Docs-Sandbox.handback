@@ -3869,65 +3869,17 @@
   "df492f38297212bc22497071da8961c42cf03466": [
     "financials\\localizations\\asia-pacific\\import-chinese-golden-tax-data-entity.md"
   ],
-  "f60c4249b2de21446663328d4c3893b8b6f4f7cb": [
-    "financials\\localizations\\europe\\advance-holders.md"
-  ],
-  "c1a1a0946df8cffdf77540e4f9937aec93599aa6": [
-    "financials\\localizations\\europe\\advance-holders.md"
-  ],
-  "bf4f6d5251134ead40771b527d181cb6648d6c6f": [
-    "financials\\localizations\\europe\\advance-holders-transactions.md"
-  ],
-  "483db11037c9eb28f5a81cff321d2967dad7f0f2": [
-    "financials\\localizations\\europe\\advance-holders-transactions.md"
-  ],
   "5099accb1b1d44304f148e91295c79a89f1568b2": [
     "financials\\localizations\\europe\\commitments-public-sector-france.md"
   ],
   "86a3d16c9529ba2484ae8cf33d3f9a2cf7ac8f46": [
     "financials\\localizations\\europe\\commitments-public-sector-france.md"
   ],
-  "bad079eb8c9035a1d47222c9eea5a34af76c53e4": [
-    "financials\\localizations\\europe\\create-post-periodic-journals.md"
-  ],
-  "8de3670187d155a8f5f8deef016bf15963c263ac": [
-    "financials\\localizations\\europe\\create-post-periodic-journals.md"
-  ],
-  "dcc66b74e8f58bc21933489ad8db9289b24b67b0": [
-    "financials\\localizations\\europe\\eeu-set-up-signers-for-printing-forms.md"
-  ],
-  "3066859c5beb403a0759b299067ddb8bd2d85282": [
-    "financials\\localizations\\europe\\eeu-set-up-signers-for-printing-forms.md"
-  ],
-  "a8d9ca653b75a570305d876b2ab1bcde9553640a": [
-    "financials\\localizations\\europe\\entry-certificates.md"
-  ],
-  "1457ec7ce9dad2e11f531ff6b30df9a8a88e9de8": [
-    "financials\\localizations\\europe\\entry-certificates.md"
-  ],
-  "00d05b38908f4c8ac22b84af90f793fd5c275e00": [
-    "financials\\localizations\\europe\\eu-sales-list.md"
-  ],
-  "7ea3713d950b73f43f57bcc31671ea21bcfe13f7": [
-    "financials\\localizations\\europe\\eu-sales-list.md"
-  ],
   "e01af0bb71ee1d3941f90d99cdcffb948bd373ed": [
     "financials\\localizations\\europe\\general-electronic-reporting-ger-2.md"
   ],
   "1d2d5fd07b33c220358588d9e98aa1b6ac2745af": [
     "financials\\localizations\\europe\\general-electronic-reporting-ger-2.md"
-  ],
-  "d3e3d0dccfdb855252ea2914c97ecccca5c1c45b": [
-    "financials\\localizations\\europe\\intrastat.md"
-  ],
-  "18b6d57b5c5e932d752e16691e70fbbe53dff483": [
-    "financials\\localizations\\europe\\intrastat.md"
-  ],
-  "371a27a1e73cc772f2f53cc115d3a14e0db4cc15": [
-    "financials\\localizations\\europe\\invoice-issue-deadline.md"
-  ],
-  "87e212f7a0280e772aa2f4aa2b6ae87cd2645fb8": [
-    "financials\\localizations\\europe\\invoice-issue-deadline.md"
   ],
   "16ebf3b9a78d4a6892b73f0d9c743ba617d3519f": [
     "financials\\localizations\\europe\\mandats-de-paiement-public-sector-france.md"
@@ -5705,9 +5657,6 @@
   "a441781e780e7c9b6c154cb1d923ff38a3481fa1": [
     "dev-itpro\\analytics-bi-reporting\\purchase-content-pack-for-power-bi.md"
   ],
-  "41b188a00c9f8ead125981e51c1c3e6a9d9ad80d": [
-    "dev-itpro\\analytics-bi-reporting\\set-up-report-inventory-journal-names.md"
-  ],
   "1890e584a43749c575531f4b1d39c55b8b062078": [
     "dev-itpro\\analytics-bi-reporting\\workforce-analysis-power-bi-content-pack.md"
   ],
@@ -5851,18 +5800,6 @@
   ],
   "784bd683bae7fc1d78c3928f9910c7eb382fea1d": [
     "financials\\cash-bank-management\\data-entities-bank.md"
-  ],
-  "e8ce19b33f76885bc0af62471652759da98ad74d": [
-    "financials\\localizations\\europe\\eeu-amount-printing-forms.md"
-  ],
-  "8db26c291f17d9ee8aaf1b1d9f8042f74027ef25": [
-    "financials\\localizations\\europe\\eeu-credit-note-reverse-fixed-asset-sale.md"
-  ],
-  "261a2877827e08dd88fbea82ad3425bf2c170bec": [
-    "financials\\localizations\\europe\\eeur-pre-acquisition-acquisition-fixed-asset.md"
-  ],
-  "bbd28483640b6372f2f95330df4640cb32df70b3": [
-    "financials\\localizations\\europe\\eu-vat-reporting.md"
   ],
   "a26d9bea4bd96767871a2535ff8b49e9bab21138": [
     "financials\\localizations\\europe\\registration-ids.md"
