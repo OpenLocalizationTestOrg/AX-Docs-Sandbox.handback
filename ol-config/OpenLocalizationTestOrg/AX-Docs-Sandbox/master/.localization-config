@@ -673,8 +673,40 @@
       {  
          "metadata":{  
             "ms.region":[  
-               "Austria, Germany",
-			   "Belgium, Netherlands, Sweden",
+               "Austria, Germany"
+            ]
+         },
+         "priorities":[  
+            {  
+               "priority":"basic",
+               "locales":[  
+                  "de-de",
+  				  "sr-cyrl-rs"
+               ]
+            }
+         ]
+      },
+      {  
+         "metadata":{  
+            "ms.region":[  
+			   "Belgium, Netherlands, Sweden"
+            ]
+         },
+         "priorities":[  
+            {  
+               "priority":"basic",
+               "locales":[  
+                  "nl-nl",
+                  "fr-fr",
+                  "sv-se",
+  				  "sr-cyrl-rs"
+               ]
+            }
+         ]
+      },
+      {  
+         "metadata":{  
+            "ms.region":[  
                "Iceland, Norway",
 			   "Austria, Denmark, Norway",
 			   "Denmark, France, Germany, Ireland, Netherlands, United Kingdom",
@@ -708,11 +740,64 @@
       {  
          "metadata":{  
             "ms.region":[  
-               "Czech Republic, Hungary",
+               "Czech Republic, Hungary"
+            ]
+         },
+         "priorities":[  
+            {  
+               "priority":"basic",
+               "locales":[  
+                  "cs-cz",
+                  "hu-hu",
+				  "sr-cyrl-rs"
+               ]
+            }
+         ]
+      },
+      {  
+         "metadata":{  
+            "ms.region":[  
+               "Estonia, Lithuania"
+            ]
+         },
+         "priorities":[  
+            {  
+               "priority":"basic",
+               "locales":[  
+                  "et-ee",
+                  "lt-lt",
+				  "sr-cyrl-rs"
+               ]
+            }
+         ]
+      },
+      {  
+         "metadata":{  
+            "ms.region":[  
 			   "Estonia, Hungary, Latvia, Lithuania, Poland",
-               "Estonia, Lithuania",
 			   "Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland",
-			   "Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia",
+			   "Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia"
+            ]
+         },
+         "priorities":[  
+            {  
+               "priority":"basic",
+               "locales":[  
+                  "cs-cz",
+                  "et-ee",
+                  "hu-hu",
+                  "lv-lv",
+                  "lt-lt",
+				  "pl-pl",
+                  "ru-ru",
+				  "sr-cyrl-rs"
+               ]
+            }
+         ]
+      },
+      {  
+         "metadata":{  
+            "ms.region":[  
 			   "Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia, Turkey"
             ]
          },
@@ -736,10 +821,62 @@
       {  
          "metadata":{  
             "ms.region":[  
-               "Austria, Belgium, Czech Republic, Estonia, Finland, Germany, Latvia, Lithuania, Netherlands, Sweden",
+               "Austria, Belgium, Czech Republic, Estonia, Finland, Germany, Latvia, Lithuania, Netherlands, Sweden"
+            ]
+         },
+         "priorities":[  
+            {  
+               "priority":"basic",
+               "locales":[  
+                  "cs-cz",
+                  "nl-nl",
+                  "et-ee",
+                "fi-fi",
+                "fr-fr",
+                  "de-de",
+                  "lv-lv",
+                  "lt-lt",                 
+                   "sv-se",
+				  "sr-cyrl-rs"
+               ]
+            }
+         ]
+      },
+      {  
+         "metadata":{  
+            "ms.region":[  
 			   "Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Ireland, Italy, Latvia, Lithuania, Netherlands, Poland, Spain, Sweden, United Kingdom",
 			   "Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Iceland, Italy, Latvia, Lithuania, Netherlands, Poland, Spain, Sweden, United Kingdom",
-			   "Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Netherlands, Poland, Spain, Sweden, United Kingdom",
+			   "Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Netherlands, Poland, Spain, Sweden, United Kingdom"
+            ]
+         },
+         "priorities":[  
+            {  
+               "priority":"basic",
+               "locales":[  
+                  "cs-cz",
+                  "da-dk",
+                  "nl-nl",
+                  "et-ee",
+                  "fi-fi",
+                  "fr-fr",
+                  "de-de",
+                  "hu-hu",
+                  "is-is",
+                  "it-it",
+                  "lv-lv",
+                  "lt-lt",                 
+                  "es-es",
+				  "pl-pl",
+                   "sv-se",
+				  "sr-cyrl-rs"
+               ]
+            }
+         ]
+      },
+      {  
+         "metadata":{  
+            "ms.region":[  
 			   "Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Netherlands, Norway, Poland, Russia, Spain, Sweden, Turkey, United Kingdom"
             ]
          },
