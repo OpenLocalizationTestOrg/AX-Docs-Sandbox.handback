@@ -3887,12 +3887,6 @@
   "7ea3713d950b73f43f57bcc31671ea21bcfe13f7": [
     "financials\\localizations\\europe\\eu-sales-list.md"
   ],
-  "74a32ae3ba2740f94f2093934ed29470b7de50f4": [
-    "financials\\localizations\\europe\\gdpdu-audit-data-export.md"
-  ],
-  "d76d102fdd7a21178cf531f4010d38f409e46bab": [
-    "financials\\localizations\\europe\\gdpdu-audit-data-export.md"
-  ],
   "e01af0bb71ee1d3941f90d99cdcffb948bd373ed": [
     "financials\\localizations\\europe\\general-electronic-reporting-ger-2.md"
   ],
@@ -5860,9 +5854,6 @@
   ],
   "2c6fe375eac8426cf10fe35205cef1db42fdb56a": [
     "financials\\localizations\\europe\\eur-payment-slip-report-giro.md"
-  ],
-  "bbd28483640b6372f2f95330df4640cb32df70b3": [
-    "financials\\localizations\\europe\\eu-vat-reporting.md"
   ],
   "cfc4722b14cd378757b1d51e6b8590dfe2cc54c8": [
     "financials\\localizations\\europe\\ita-competence-date.md"
