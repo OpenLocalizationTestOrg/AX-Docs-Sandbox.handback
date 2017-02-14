@@ -5,10 +5,10 @@
  -------- | ----- 
  Total Files | 3449
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 1029
+[ Handoff Success Files ](#handoff-success-list)| 1027
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
-[ Handback Failed Files ](#handback-failed-list)| 0
+[ Handback Failed Files ](#handback-failed-list)| 2
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
 [ In Sync Handback Files ](#insync-handback-success-list)| 0
 [ Ignored Files ](#ignored-list)| 2420
@@ -57,7 +57,6 @@
  [core\organization-administration\configure-parallel-activity-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/744ac447b01dee241043ba27e3b1ffdcb0022a1b/core/organization-administration/configure-parallel-activity-workflow.md) | HandedOffSuccess | [Details](#1fc8e3baa8c94edbd91952484259430331bd628d105)
  [core\organization-administration\configure-parallel-branch-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/744ac447b01dee241043ba27e3b1ffdcb0022a1b/core/organization-administration/configure-parallel-branch-workflow.md) | HandedOffSuccess | [Details](#a5cc3ff11142dd647603ba8717a0fef94615e294106)
  [core\organization-administration\configure-workflow-properties.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/744ac447b01dee241043ba27e3b1ffdcb0022a1b/core/organization-administration/configure-workflow-properties.md) | HandedOffSuccess | [Details](#66117009032a3921770bd97fd862872708aea920107)
- [core\organization-administration\create-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/744ac447b01dee241043ba27e3b1ffdcb0022a1b/core/organization-administration/create-workflow.md) | HandedOffSuccess | [Details](#e063953616bb8a1aafc0d461c190bc0cce8b997b108)
  [core\organization-administration\electronic-signature-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/744ac447b01dee241043ba27e3b1ffdcb0022a1b/core/organization-administration/electronic-signature-overview.md) | HandedOffSuccess | [Details](#c5e0d4d4688b07a0f36be89221949d5e409a726b109)
  [core\organization-administration\manage-vendor-collaboration-users.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/744ac447b01dee241043ba27e3b1ffdcb0022a1b/core/organization-administration/manage-vendor-collaboration-users.md) | HandedOffSuccess | [Details](#f9f45b2530f30b8767f0f43c4ef880d649c26429110)
  [core\organization-administration\number-sequence-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/744ac447b01dee241043ba27e3b1ffdcb0022a1b/core/organization-administration/number-sequence-overview.md) | HandedOffSuccess | [Details](#28934856604daa72b48d901cce29f9cd0629379d119)
@@ -785,7 +784,6 @@
  [human-resources\create-variable-compensation-plans.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/744ac447b01dee241043ba27e3b1ffdcb0022a1b/human-resources/create-variable-compensation-plans.md) | HandedOffSuccess | [Details](#4f9dcfa0470612590e1ac851b74a1ba738ea20da3007)
  [human-resources\departments-jobs-positions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/744ac447b01dee241043ba27e3b1ffdcb0022a1b/human-resources/departments-jobs-positions.md) | HandedOffSuccess | [Details](#5bdce16b46a583d193c7c0c7cf620fa436c1491a3008)
  [human-resources\human-resources-landing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/744ac447b01dee241043ba27e3b1ffdcb0022a1b/human-resources/human-resources-landing.md) | HandedOffSuccess | [Details](#93a8572397a548b0d5eefe95fe3672e57c8af3743010)
- [human-resources\index.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/41545d10324b9cffec1d2e36b6f0463747a49851/human-resources/index.md) | HandedOffSuccess | [Details](#17208e629bf3642914c1794e9cab458591376bb13011)
  [human-resources\loan-items.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/744ac447b01dee241043ba27e3b1ffdcb0022a1b/human-resources/loan-items.md) | HandedOffSuccess | [Details](#32e8a24769e6a9d30958275875fda3a6e34f64a53012)
  [human-resources\manage-benefit-program.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/744ac447b01dee241043ba27e3b1ffdcb0022a1b/human-resources/manage-benefit-program.md) | HandedOffSuccess | [Details](#f5d3d567a22160b96340659884c7b55e510936ab3013)
  [human-resources\manage-recruiting-process.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/744ac447b01dee241043ba27e3b1ffdcb0022a1b/human-resources/manage-recruiting-process.md) | HandedOffSuccess | [Details](#eca0701ac5e82312015e2f03bd89ce77d692b8e83014)
@@ -1053,6 +1051,10 @@
 ## <a name='archive-success-list'></a> Archive Success File List
 
 ## <a name='handback-failed-list'></a> Handback Failed File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [core\organization-administration\create-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/744ac447b01dee241043ba27e3b1ffdcb0022a1b/core/organization-administration/create-workflow.md) | HandedBackFailed | [Details](#e063953616bb8a1aafc0d461c190bc0cce8b997b108)
+ [human-resources\index.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/41545d10324b9cffec1d2e36b6f0463747a49851/human-resources/index.md) | HandedBackFailed | [Details](#17208e629bf3642914c1794e9cab458591376bb13011)
 
 ## <a name='outofsync-handback-success-list'></a> Out Of Sync Handback Success File List
 
@@ -4996,7 +4998,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='e063953616bb8a1aafc0d461c190bc0cce8b997b108'></a> Source: [core\organization-administration\create-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/744ac447b01dee241043ba27e3b1ffdcb0022a1b/core/organization-administration/create-workflow.md)
-* Status: HandedOffSuccess
+* Status: HandedBackFailed
 * Target File: 
 * Handoff File: [create-workflow.c0ac2852891211442fba3babe6296f9db2d9b108.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/cb1838d7550f2352db656d10ca91a3c86a8d6191/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/create-workflow.c0ac2852891211442fba3babe6296f9db2d9b108.de-de.xlf)
 * Handoff Datetime: 2017-02-14 14:09:35
@@ -5005,8 +5007,9 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback Datetime: 2017-02-14 20:45:20
 * Handback Name: 
+* Handback Error: [handback_type_is_mismatch_with_handoff_type](#e063953616bb8a1aafc0d461c190bc0cce8b997b108handback_type_is_mismatch_with_handoff_type)
 * [Back to Top](#report-top)
 
 ##### <a name='c5e0d4d4688b07a0f36be89221949d5e409a726b109'></a> Source: [core\organization-administration\electronic-signature-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/744ac447b01dee241043ba27e3b1ffdcb0022a1b/core/organization-administration/electronic-signature-overview.md)
@@ -45638,7 +45641,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='17208e629bf3642914c1794e9cab458591376bb13011'></a> Source: [human-resources\index.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/41545d10324b9cffec1d2e36b6f0463747a49851/human-resources/index.md)
-* Status: HandedOffSuccess
+* Status: HandedBackFailed
 * Target File: 
 * Handoff File: [index.0bb4b9a8f21a460f5c93a4259128c4d94259b3e7.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/cb1838d7550f2352db656d10ca91a3c86a8d6191/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/premium/index.0bb4b9a8f21a460f5c93a4259128c4d94259b3e7.de-de.xlf)
 * Handoff Datetime: 2017-02-14 14:09:35
@@ -45647,8 +45650,9 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback Datetime: 2017-02-14 20:45:20
 * Handback Name: 
+* Handback Error: [handback_type_is_mismatch_with_handoff_type](#17208e629bf3642914c1794e9cab458591376bb13011handback_type_is_mismatch_with_handoff_type)
 * [Back to Top](#report-top)
 
 ##### <a name='32e8a24769e6a9d30958275875fda3a6e34f64a53012'></a> Source: [human-resources\loan-items.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/744ac447b01dee241043ba27e3b1ffdcb0022a1b/human-resources/loan-items.md)
@@ -51771,5 +51775,17 @@
 
 
 ## Error Details
+##### <a name='e063953616bb8a1aafc0d461c190bc0cce8b997b108handback_type_is_mismatch_with_handoff_type'></a> Source: [core\organization-administration\create-workflow.md](#e063953616bb8a1aafc0d461c190bc0cce8b997b108)
+* Error Code: handback_type_is_mismatch_with_handoff_type
+* Error Message: The handback priority in file path create-workflow.c0ac2852891211442fba3babe6296f9db2d9b108.de-de.xlf is not match with handoff type basic
+* Retriable: False
+* Error Details: {"internal_error_code":"handback_type_is_mismatch_with_handoff_type","internal_error_message":"The handback priority in file path create-workflow.c0ac2852891211442fba3babe6296f9db2d9b108.de-de.xlf is not match with handoff type basic","internal_error_retriable":false,"exception_message":"The handback priority in file path create-workflow.c0ac2852891211442fba3babe6296f9db2d9b108.de-de.xlf is not match with handoff type basic","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
+
+##### <a name='17208e629bf3642914c1794e9cab458591376bb13011handback_type_is_mismatch_with_handoff_type'></a> Source: [human-resources\index.md](#17208e629bf3642914c1794e9cab458591376bb13011)
+* Error Code: handback_type_is_mismatch_with_handoff_type
+* Error Message: The handback priority in file path index.0bb4b9a8f21a460f5c93a4259128c4d94259b3e7.de-de.xlf is not match with handoff type premium
+* Retriable: False
+* Error Details: {"internal_error_code":"handback_type_is_mismatch_with_handoff_type","internal_error_message":"The handback priority in file path index.0bb4b9a8f21a460f5c93a4259128c4d94259b3e7.de-de.xlf is not match with handoff type premium","internal_error_retriable":false,"exception_message":"The handback priority in file path index.0bb4b9a8f21a460f5c93a4259128c4d94259b3e7.de-de.xlf is not match with handoff type premium","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
+
 
 Generated by OpenLocalization.
