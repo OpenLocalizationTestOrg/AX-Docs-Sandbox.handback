@@ -100,10 +100,10 @@
           <source>For information about how to configure each workflow element, see the following topics:</source>
         </trans-unit>
         <trans-unit id="130" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Configure a manual task<ept id="p1">](2606a0f3-f9cd-4ffa-a553-835a86d2b100)</ept></source>
+          <source><bpt id="p1">[</bpt>Configure a manual task<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/configure-a-manual-task)</ept></source>
         </trans-unit>
         <trans-unit id="131" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Configure an automated task<ept id="p1">](a060f385-16be-4819-acd8-a53f9c2c0caa)</ept></source>
+          <source><bpt id="p1">[</bpt>Configure an automated task<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/configure-an-automated-task)</ept></source>
         </trans-unit>
         <trans-unit id="132" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Configure an approval process<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/configure-an-approval-process)</ept></source>
