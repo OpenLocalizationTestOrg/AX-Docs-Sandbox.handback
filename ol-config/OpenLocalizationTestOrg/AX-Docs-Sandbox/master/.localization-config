@@ -42,7 +42,7 @@
       },
       {  
          "metadata":{  
-            "ms.industry":[  
+            "ms.search.industry":[  
                "Public sector"
             ]
          },
@@ -59,7 +59,7 @@
       },
       {  
          "metadata":{  
-            "ms.industry":[  
+            "ms.search.industry":[  
                "Public sector"
             ]
          },
@@ -94,7 +94,7 @@
       },      
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "global"
             ]
          },
@@ -132,7 +132,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Australia"
             ]
          },
@@ -147,7 +147,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Austria"
             ]
          },
@@ -163,7 +163,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Belgium"
             ]
          },
@@ -180,7 +180,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Brazil"
             ]
          },
@@ -196,7 +196,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "China (PRC)"
             ]
          },
@@ -212,7 +212,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Czech Republic"
             ]
          },
@@ -228,7 +228,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Denmark"
             ]
          },
@@ -244,7 +244,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Estonia"
             ]
          },
@@ -260,7 +260,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Finland"
             ]
          },
@@ -276,7 +276,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "France"
             ]
          },
@@ -292,7 +292,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Germany"
             ]
          },
@@ -308,7 +308,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Hungary"
             ]
          },
@@ -324,7 +324,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Iceland"
             ]
          },
@@ -340,7 +340,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Ireland"
             ]
          },
@@ -355,7 +355,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Italy"
             ]
          },
@@ -371,7 +371,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Japan"
             ]
          },
@@ -387,7 +387,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Latvia"
             ]
          },
@@ -403,7 +403,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Lithuania"
             ]
          },
@@ -419,7 +419,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Malaysia"
             ]
          },
@@ -434,7 +434,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Mexico"
             ]
          },
@@ -450,7 +450,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Netherlands"
             ]
          },
@@ -466,7 +466,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Norway"
             ]
          },
@@ -482,7 +482,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Poland"
             ]
          },
@@ -498,7 +498,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Russia"
             ]
          },
@@ -514,7 +514,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Saudi Arabia"
             ]
          },
@@ -530,7 +530,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Singapore"
             ]
          },
@@ -545,7 +545,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Spain"
             ]
          },
@@ -561,7 +561,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Switzerland"
             ]
          },
@@ -579,7 +579,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Sweden"
             ]
          },
@@ -595,7 +595,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Thailand"
             ]
          },
@@ -611,7 +611,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Turkey"
             ]
          },
@@ -627,7 +627,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "United Kingdom"
             ]
          },
@@ -642,7 +642,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "United States"
             ]
          },
@@ -657,7 +657,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "USA"
             ]
          },
@@ -672,7 +672,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Austria, Germany"
             ]
          },
@@ -688,7 +688,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
 			   "Belgium, Netherlands, Sweden"
             ]
          },
@@ -706,7 +706,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Iceland, Norway",
 			   "Austria, Denmark, Norway",
 			   "Denmark, France, Germany, Ireland, Netherlands, United Kingdom",
@@ -739,7 +739,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Czech Republic, Hungary"
             ]
          },
@@ -756,7 +756,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Estonia, Lithuania"
             ]
          },
@@ -773,7 +773,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
 			   "Estonia, Hungary, Latvia, Lithuania, Poland",
 			   "Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland",
 			   "Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia"
@@ -797,7 +797,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
 			   "Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia, Turkey"
             ]
          },
@@ -820,7 +820,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Austria, Belgium, Czech Republic, Estonia, Finland, Germany, Latvia, Lithuania, Netherlands, Sweden"
             ]
          },
@@ -844,7 +844,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
 			   "Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Ireland, Italy, Latvia, Lithuania, Netherlands, Poland, Spain, Sweden, United Kingdom",
 			   "Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Iceland, Italy, Latvia, Lithuania, Netherlands, Poland, Spain, Sweden, United Kingdom",
 			   "Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Netherlands, Poland, Spain, Sweden, United Kingdom"
@@ -876,7 +876,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
 			   "Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Netherlands, Norway, Poland, Russia, Spain, Sweden, Turkey, United Kingdom"
             ]
          },
@@ -909,7 +909,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "China (PRC), Japan",
 			   "China (PRC), Japan, Thailand"
             ]
@@ -928,7 +928,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Mexico, Brazil"
             ]
          },
@@ -945,7 +945,7 @@
       },
       {  
          "metadata":{  
-            "ms.region":[  
+            "ms.search.region":[  
                "Canada, United States",
 			   "Canada, USA"
             ]
@@ -1010,6 +1010,42 @@
           "manufacturing/index.md",
           "retail/TOC.md",
           "retail/index.md"
+        ],
+         "priorities":[  
+            {  
+               "priority":"premium",
+               "locales":[
+                  "ar-sa",
+                  "zh-cn",
+                  "cs-cz",
+                  "da-dk",
+                  "nl-nl",
+                  "et-ee",
+                  "fi-fi",
+                  "fr-fr",
+                  "de-de",
+                  "hu-hu",
+                  "is-is",
+                  "it-it",
+                  "ja-jp",
+                  "lv-lv",
+                  "lt-lt",
+                  "nb-no",
+                  "pl-pl",
+                  "pt-br",
+                  "ru-ru",
+                  "es-es",
+                  "sv-se",
+                  "th-th",
+                  "tr-tr",			   
+                  "sr-cyrl-rs"
+               ]
+            }
+         ]
+      },
+      {
+        "files": [
+          "core/breadcrumb/toc.yml"
         ],
          "priorities":[  
             {  
