@@ -22669,6 +22669,16 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\4e2ba541d2ed368919b95cfc7fee639deebbb260.5000bdd401c1c4a406bf4ce517e50972dde5358e.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "core\\breadcrumb\\toc.yml.710dcf289fefb0fb17ba6b75cae3773c5fe00caf.HT": {
+      "SourceFilename": "core\\breadcrumb\\toc.yml",
+      "XliffHash": "710dcf289fefb0fb17ba6b75cae3773c5fe00caf",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\364d7e62dfaf54d3710d1888b8d2347dbe1627a2.098cab794bc90273286b9e865cbbf712efa53d24.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }
