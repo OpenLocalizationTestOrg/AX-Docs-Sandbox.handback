@@ -4,8 +4,8 @@
  Property | Value 
  -------- | ----- 
  Total Files | 3629
-[ Handoff Failed Files ](#handoff-failed-list)| 5
-[ Handoff Success Files ](#handoff-success-list)| 1084
+[ Handoff Failed Files ](#handoff-failed-list)| 0
+[ Handoff Success Files ](#handoff-success-list)| 1089
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
@@ -14,13 +14,6 @@
 [ Ignored Files ](#ignored-list)| 2540
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [dev-itpro\dev-reference\xpp-classes-methods.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/dev-reference/xpp-classes-methods.md) | HandedOffFailed | [Details](#8145a7da7bdb69ed7253bc43e3f0d7db568e1e04889)
- [dev-itpro\lifecycle-services\ax-2012\deploy-test-environment-azure.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/lifecycle-services/ax-2012/deploy-test-environment-azure.md) | HandedOffFailed | [Details](#7ee2490975dfe712055ca791d47f95735f8cb4921253)
- [dev-itpro\lifecycle-services\ax-2012\maintain-idmf.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/lifecycle-services/ax-2012/maintain-idmf.md) | HandedOffFailed | [Details](#b4374d47f43bd2aeaabddec6a033e884d7c9a3eb1269)
- [financials\accounts-payable\sepa-credit-transfer.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/sepa-credit-transfer.md) | HandedOffFailed | [Details](#d919fd090d8797ec7ef34128c7390027cd11a69c2598)
- [retail\customer-orders-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/customer-orders-overview.md) | HandedOffFailed | [Details](#c88748fd60e6784888f8d07b402dd26a1049059d3478)
 
 ## <a name='handoff-success-list'></a> Handoff Success File List
  Source File | Status | Details 
@@ -260,6 +253,7 @@
  [dev-itpro\dev-reference\x-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/dev-reference/x-classes.md) | HandedOffSuccess | [Details](#a9d25fb8f079f8c6dbfccf4b0c2cd9d077c9bdb7886)
  [dev-itpro\dev-reference\xpp-attribute-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/dev-reference/xpp-attribute-classes.md) | HandedOffSuccess | [Details](#589c3a29974279f0bb8d0400e8f4329ef619b9a9887)
  [dev-itpro\dev-reference\xpp-business-run-time-functions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/dev-reference/xpp-business-run-time-functions.md) | HandedOffSuccess | [Details](#c86f9d2b98431bf28878c216822989a6d41351f3888)
+ [dev-itpro\dev-reference\xpp-classes-methods.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/dev-reference/xpp-classes-methods.md) | HandedOffSuccess | [Details](#8145a7da7bdb69ed7253bc43e3f0d7db568e1e04889)
  [dev-itpro\dev-reference\xpp-compile-time-functions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/dev-reference/xpp-compile-time-functions.md) | HandedOffSuccess | [Details](#83dc66ef634ef2450e26fa63114326c111e8a9ac890)
  [dev-itpro\dev-reference\xpp-container-run-time-functions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/dev-reference/xpp-container-run-time-functions.md) | HandedOffSuccess | [Details](#2ee4f30f89ab6458d0e44385a307f2c6728dd2c1891)
  [dev-itpro\dev-reference\xpp-conversion-run-time-functions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/dev-reference/xpp-conversion-run-time-functions.md) | HandedOffSuccess | [Details](#3ae5bf757181dbb06e4f08a963ce4899d7983854892)
@@ -361,6 +355,7 @@
  [dev-itpro\lifecycle-services\ax-2012\deploy-retail-essentials-demo-environment-azure.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/lifecycle-services/ax-2012/deploy-retail-essentials-demo-environment-azure.md) | HandedOffSuccess | [Details](#cb505f619930a21ec4900386de6c358448426d151250)
  [dev-itpro\lifecycle-services\ax-2012\deploy-retail-essentials-devtest-environment-azure.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/lifecycle-services/ax-2012/deploy-retail-essentials-devtest-environment-azure.md) | HandedOffSuccess | [Details](#4fba917ff5ef0e9c889f4c27cfab53a805444b111251)
  [dev-itpro\lifecycle-services\ax-2012\deploy-retail-mobility-devtest-environment-azure.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/lifecycle-services/ax-2012/deploy-retail-mobility-devtest-environment-azure.md) | HandedOffSuccess | [Details](#1c8ee7407a0af7e5df0e921e7e77dfc9b1f2a64a1252)
+ [dev-itpro\lifecycle-services\ax-2012\deploy-test-environment-azure.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/lifecycle-services/ax-2012/deploy-test-environment-azure.md) | HandedOffSuccess | [Details](#7ee2490975dfe712055ca791d47f95735f8cb4921253)
  [dev-itpro\lifecycle-services\ax-2012\entities-dixf.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/lifecycle-services/ax-2012/entities-dixf.md) | HandedOffSuccess | [Details](#852a0f7fa0dbfbe2f96ac880087573f27c6bcdf31254)
  [dev-itpro\lifecycle-services\ax-2012\import-data-csv-data-source-dixf.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/lifecycle-services/ax-2012/import-data-csv-data-source-dixf.md) | HandedOffSuccess | [Details](#f44fae551a386ad51999f4e2aebe00d9ea839cad1255)
  [dev-itpro\lifecycle-services\ax-2012\import-data-odbc-data-source-dixf.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/lifecycle-services/ax-2012/import-data-odbc-data-source-dixf.md) | HandedOffSuccess | [Details](#44859102779a764efa0ac52e0561c3aaa946b14b1256)
@@ -376,6 +371,7 @@
  [dev-itpro\lifecycle-services\ax-2012\join-enterprise-portal-servers-single-server-farm.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/lifecycle-services/ax-2012/join-enterprise-portal-servers-single-server-farm.md) | HandedOffSuccess | [Details](#7e68adee8fb6799cb82b050abc54d5f9d9f34f6b1266)
  [dev-itpro\lifecycle-services\ax-2012\lcs-downloadable-tools-formerly-informationsource.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/lifecycle-services/ax-2012/lcs-downloadable-tools-formerly-informationsource.md) | HandedOffSuccess | [Details](#dc5ee918f7bd26d93339ab3218d79ab923dc1a0e1267)
  [dev-itpro\lifecycle-services\ax-2012\license-sizing-estimator-lcs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/lifecycle-services/ax-2012/license-sizing-estimator-lcs.md) | HandedOffSuccess | [Details](#da8c8383cb737abed5bf36915052da0dfcdbbddb1268)
+ [dev-itpro\lifecycle-services\ax-2012\maintain-idmf.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/lifecycle-services/ax-2012/maintain-idmf.md) | HandedOffSuccess | [Details](#b4374d47f43bd2aeaabddec6a033e884d7c9a3eb1269)
  [dev-itpro\lifecycle-services\ax-2012\manage-2012-r3-deployment-azure.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/lifecycle-services/ax-2012/manage-2012-r3-deployment-azure.md) | HandedOffSuccess | [Details](#91ee85bad2ec34c8b8de545bac3c4174fa2ca3651270)
  [dev-itpro\lifecycle-services\ax-2012\methodologies-lcs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/lifecycle-services/ax-2012/methodologies-lcs.md) | HandedOffSuccess | [Details](#6ed1d56388018e881ea39b6cfe0caf348bea90f71312)
  [dev-itpro\lifecycle-services\ax-2012\microsoft-idmf.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/lifecycle-services/ax-2012/microsoft-idmf.md) | HandedOffSuccess | [Details](#993965de824536ec9418021c3d3777801619312a1313)
@@ -621,6 +617,7 @@
  [financials\accounts-payable\purchase-agreements.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/purchase-agreements.md) | HandedOffSuccess | [Details](#554c4be426cbd2829745fd0813b2ee1cb1466c7f2595)
  [financials\accounts-payable\resolve-invoice-totals-invoice-matching-discrepancies.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/resolve-invoice-totals-invoice-matching-discrepancies.md) | HandedOffSuccess | [Details](#f561c74e0d898773ffd3b502ed43eba6ec7c21c02596)
  [financials\accounts-payable\reverse-vendor-payment.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/reverse-vendor-payment.md) | HandedOffSuccess | [Details](#a67b470df7725307ec2db43b98900b03655725d42597)
+ [financials\accounts-payable\sepa-credit-transfer.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/sepa-credit-transfer.md) | HandedOffSuccess | [Details](#d919fd090d8797ec7ef34128c7390027cd11a69c2598)
  [financials\accounts-payable\settlement-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/settlement-overview.md) | HandedOffSuccess | [Details](#9ff27a1f2b680104ef1319193f29f713945c33bb2606)
  [financials\accounts-payable\settle-partial-customer-payment-or-final-payment-before_discount.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/settle-partial-customer-payment-or-final-payment-before_discount.md) | HandedOffSuccess | [Details](#6bad5814af1ef5c59fbe8659d67a890692373be62601)
  [financials\accounts-payable\settle-partial-vendor-payment-before-discount-or-final-payment-after.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/settle-partial-vendor-payment-before-discount-or-final-payment-after.md) | HandedOffSuccess | [Details](#46eae6c1774bbd4b4d33c395458c00969669edb82602)
@@ -1052,6 +1049,7 @@
  [retail\commerce-essentials\organizational-hierarchies-commerce-essentials.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/commerce-essentials/organizational-hierarchies-commerce-essentials.md) | HandedOffSuccess | [Details](#07906192bc5eb2425139c7578c9a45e8b23c5eb13475)
  [retail\create-call-center-catalogs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/create-call-center-catalogs.md) | HandedOffSuccess | [Details](#f29f2e08d580a4cbd7e5ec5849bf1e3f319c133c3476)
  [retail\create-manage-attributes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/create-manage-attributes.md) | HandedOffSuccess | [Details](#22b3216519f7a9f4f811d9fec6dcd71a2721676e3477)
+ [retail\customer-orders-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/customer-orders-overview.md) | HandedOffSuccess | [Details](#c88748fd60e6784888f8d07b402dd26a1049059d3478)
  [retail\define-channel-specific-discounts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/define-channel-specific-discounts.md) | HandedOffSuccess | [Details](#99eccf7581f843f7434d514718a59dde731f315c3479)
  [retail\define-maintain-channel-clients-registers-hw-stations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/define-maintain-channel-clients-registers-hw-stations.md) | HandedOffSuccess | [Details](#65b30c660644cb26a10a8c0ba8766e6640851cac3480)
  [retail\define-maintain-retail-channels.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/define-maintain-retail-channels.md) | HandedOffSuccess | [Details](#470ac9dfeb323c3c2068ca544c598435d22c77ec3481)
@@ -16112,13 +16110,12 @@
 * [Back to Top](#report-top)
 
 ##### <a name='8145a7da7bdb69ed7253bc43e3f0d7db568e1e04889'></a> Source: [dev-itpro\dev-reference\xpp-classes-methods.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/dev-reference/xpp-classes-methods.md)
-* Status: HandedOffFailed
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: 
-* Handoff Datetime: 2017-02-22 15:23:32
-* Handoff Reason: Ignored
+* Handoff File: [xpp-classes-methods.038b971694955223c54b7a9239f0c4bc26c9acca.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/40da2f95f438def67230b14d78eda0aed43f0348/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/xpp-classes-methods.038b971694955223c54b7a9239f0c4bc26c9acca.pl-pl.xlf)
+* Handoff Datetime: 2017-02-22 18:25:59
+* Handoff Reason: Include
 * Handoff Name: 
-* Handoff Error: [handoff_transform_failed](#8145a7da7bdb69ed7253bc43e3f0d7db568e1e04889handoff_transform_failed)
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -21209,13 +21206,12 @@
 * [Back to Top](#report-top)
 
 ##### <a name='7ee2490975dfe712055ca791d47f95735f8cb4921253'></a> Source: [dev-itpro\lifecycle-services\ax-2012\deploy-test-environment-azure.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/lifecycle-services/ax-2012/deploy-test-environment-azure.md)
-* Status: HandedOffFailed
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: 
-* Handoff Datetime: 2017-02-22 15:23:32
-* Handoff Reason: Ignored
+* Handoff File: [deploy-test-environment-azure.f0e21fa4a25e67b4518b9325d8a01b666e760082.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/40da2f95f438def67230b14d78eda0aed43f0348/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/deploy-test-environment-azure.f0e21fa4a25e67b4518b9325d8a01b666e760082.pl-pl.xlf)
+* Handoff Datetime: 2017-02-22 18:25:59
+* Handoff Reason: Include
 * Handoff Name: 
-* Handoff Error: [handoff_transform_failed](#7ee2490975dfe712055ca791d47f95735f8cb4921253handoff_transform_failed)
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -21434,13 +21430,12 @@
 * [Back to Top](#report-top)
 
 ##### <a name='b4374d47f43bd2aeaabddec6a033e884d7c9a3eb1269'></a> Source: [dev-itpro\lifecycle-services\ax-2012\maintain-idmf.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/lifecycle-services/ax-2012/maintain-idmf.md)
-* Status: HandedOffFailed
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: 
-* Handoff Datetime: 2017-02-22 15:23:32
-* Handoff Reason: Ignored
+* Handoff File: [maintain-idmf.5dca05efc0de1aaa5d25647ae751aca21426b0b4.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/40da2f95f438def67230b14d78eda0aed43f0348/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/maintain-idmf.5dca05efc0de1aaa5d25647ae751aca21426b0b4.pl-pl.xlf)
+* Handoff Datetime: 2017-02-22 18:25:59
+* Handoff Reason: Include
 * Handoff Name: 
-* Handoff Error: [handoff_transform_failed](#b4374d47f43bd2aeaabddec6a033e884d7c9a3eb1269handoff_transform_failed)
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -40041,13 +40036,12 @@
 * [Back to Top](#report-top)
 
 ##### <a name='d919fd090d8797ec7ef34128c7390027cd11a69c2598'></a> Source: [financials\accounts-payable\sepa-credit-transfer.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/sepa-credit-transfer.md)
-* Status: HandedOffFailed
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: 
-* Handoff Datetime: 2017-02-22 15:23:32
-* Handoff Reason: Ignored
+* Handoff File: [sepa-credit-transfer.3b1a762ed4c6e8de54f32ae3c3d924aab97b015a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/40da2f95f438def67230b14d78eda0aed43f0348/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/sepa-credit-transfer.3b1a762ed4c6e8de54f32ae3c3d924aab97b015a.pl-pl.xlf)
+* Handoff Datetime: 2017-02-22 18:25:59
+* Handoff Reason: Include
 * Handoff Name: 
-* Handoff Error: [handoff_transform_failed](#d919fd090d8797ec7ef34128c7390027cd11a69c2598handoff_transform_failed)
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -52362,13 +52356,12 @@
 * [Back to Top](#report-top)
 
 ##### <a name='c88748fd60e6784888f8d07b402dd26a1049059d3478'></a> Source: [retail\customer-orders-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/customer-orders-overview.md)
-* Status: HandedOffFailed
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: 
-* Handoff Datetime: 2017-02-22 15:23:32
-* Handoff Reason: Ignored
+* Handoff File: [customer-orders-overview.5365304fdd889e552d3a19abf8965b3088b8a586.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/40da2f95f438def67230b14d78eda0aed43f0348/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/customer-orders-overview.5365304fdd889e552d3a19abf8965b3088b8a586.pl-pl.xlf)
+* Handoff Datetime: 2017-02-22 18:25:59
+* Handoff Reason: Include
 * Handoff Name: 
-* Handoff Error: [handoff_transform_failed](#c88748fd60e6784888f8d07b402dd26a1049059d3478handoff_transform_failed)
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -54478,35 +54471,5 @@
 
 
 ## Error Details
-##### <a name='8145a7da7bdb69ed7253bc43e3f0d7db568e1e04889handoff_transform_failed'></a> Source: [dev-itpro\dev-reference\xpp-classes-methods.md](#8145a7da7bdb69ed7253bc43e3f0d7db568e1e04889)
-* Error Code: handoff_transform_failed
-* Error Message: Handoff source file: dev-itpro\dev-reference\xpp-classes-methods.md transformed failed.
-* Retriable: False
-* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: dev-itpro\\dev-reference\\xpp-classes-methods.md transformed failed.","internal_error_retriable":false,"exception_message":"<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\"/>\r\n<title>502 - Web server received an invalid response while acting as a gateway or proxy server.</title>\r\n<style type=\"text/css\">\r\n<!--\r\nbody{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}\r\nfieldset{padding:0 15px 10px 15px;} \r\nh1{font-size:2.4em;margin:0;color:#FFF;}\r\nh2{font-size:1.7em;margin:0;color:#CC0000;} \r\nh3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} \r\n#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:\"trebuchet MS\", Verdana, sans-serif;color:#FFF;\r\nbackground-color:#555555;}\r\n#content{margin:0 0 0 2%;position:relative;}\r\n.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}\r\n-->\r\n</style>\r\n</head>\r\n<body>\r\n<div id=\"header\"><h1>Server Error</h1></div>\r\n<div id=\"content\">\r\n <div class=\"content-container\"><fieldset>\r\n  <h2>502 - Web server received an invalid response while acting as a gateway or proxy server.</h2>\r\n  <h3>There is a problem with the page you are looking for, and it cannot be displayed. When the Web server (while acting as a gateway or proxy) contacted the upstream content server, it received an invalid response from the content server.</h3>\r\n </fieldset></div>\r\n</div>\r\n</body>\r\n</html>\r\n","exception_type":"System.Net.Http.HttpRequestException","stack_trace":"   at Microsoft.OpenLocalization.Transformer.MarkdownJavascriptTransformer.MarkdownToXliffCore(Stream sourceStream, Stream xliffStream, Stream skeletonStream, String srcLocale, String targetLocale, IReadOnlyDictionary`2 transformerOptions) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization.Transformer.Core\\Transformer\\MarkdownJavascriptTransformer.cs:line 43\r\n   at Microsoft.OpenLocalization.Transformer.TransformerClient.MarkdownToXliff(Stream sourceStream, Stream xliffStream, Stream skeletonStream, String srcLocale, String targetLocale, String xliffVersion, IReadOnlyDictionary`2 options) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization.Transformer.Core\\TransformerClient.cs:line 78\r\n   at Microsoft.OpenLocalization.Helper.XliffTransformUtil.MarkdownToXliff(String mdfile, String xliffFile, String skeletonFile, String sourceLocale, String targetLocale, String xliffVersion, Boolean useJavascriptTransformer, IReadOnlyDictionary`2 transformerOptions) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Helper\\XliffTransformUtil.cs:line 59\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass14_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 301","extended_information":null}
-
-##### <a name='7ee2490975dfe712055ca791d47f95735f8cb4921253handoff_transform_failed'></a> Source: [dev-itpro\lifecycle-services\ax-2012\deploy-test-environment-azure.md](#7ee2490975dfe712055ca791d47f95735f8cb4921253)
-* Error Code: handoff_transform_failed
-* Error Message: Handoff source file: dev-itpro\lifecycle-services\ax-2012\deploy-test-environment-azure.md transformed failed.
-* Retriable: False
-* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: dev-itpro\\lifecycle-services\\ax-2012\\deploy-test-environment-azure.md transformed failed.","internal_error_retriable":false,"exception_message":"<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\"/>\r\n<title>502 - Web server received an invalid response while acting as a gateway or proxy server.</title>\r\n<style type=\"text/css\">\r\n<!--\r\nbody{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}\r\nfieldset{padding:0 15px 10px 15px;} \r\nh1{font-size:2.4em;margin:0;color:#FFF;}\r\nh2{font-size:1.7em;margin:0;color:#CC0000;} \r\nh3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} \r\n#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:\"trebuchet MS\", Verdana, sans-serif;color:#FFF;\r\nbackground-color:#555555;}\r\n#content{margin:0 0 0 2%;position:relative;}\r\n.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}\r\n-->\r\n</style>\r\n</head>\r\n<body>\r\n<div id=\"header\"><h1>Server Error</h1></div>\r\n<div id=\"content\">\r\n <div class=\"content-container\"><fieldset>\r\n  <h2>502 - Web server received an invalid response while acting as a gateway or proxy server.</h2>\r\n  <h3>There is a problem with the page you are looking for, and it cannot be displayed. When the Web server (while acting as a gateway or proxy) contacted the upstream content server, it received an invalid response from the content server.</h3>\r\n </fieldset></div>\r\n</div>\r\n</body>\r\n</html>\r\n","exception_type":"System.Net.Http.HttpRequestException","stack_trace":"   at Microsoft.OpenLocalization.Transformer.MarkdownJavascriptTransformer.MarkdownToXliffCore(Stream sourceStream, Stream xliffStream, Stream skeletonStream, String srcLocale, String targetLocale, IReadOnlyDictionary`2 transformerOptions) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization.Transformer.Core\\Transformer\\MarkdownJavascriptTransformer.cs:line 43\r\n   at Microsoft.OpenLocalization.Transformer.TransformerClient.MarkdownToXliff(Stream sourceStream, Stream xliffStream, Stream skeletonStream, String srcLocale, String targetLocale, String xliffVersion, IReadOnlyDictionary`2 options) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization.Transformer.Core\\TransformerClient.cs:line 78\r\n   at Microsoft.OpenLocalization.Helper.XliffTransformUtil.MarkdownToXliff(String mdfile, String xliffFile, String skeletonFile, String sourceLocale, String targetLocale, String xliffVersion, Boolean useJavascriptTransformer, IReadOnlyDictionary`2 transformerOptions) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Helper\\XliffTransformUtil.cs:line 59\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass14_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 301","extended_information":null}
-
-##### <a name='b4374d47f43bd2aeaabddec6a033e884d7c9a3eb1269handoff_transform_failed'></a> Source: [dev-itpro\lifecycle-services\ax-2012\maintain-idmf.md](#b4374d47f43bd2aeaabddec6a033e884d7c9a3eb1269)
-* Error Code: handoff_transform_failed
-* Error Message: Handoff source file: dev-itpro\lifecycle-services\ax-2012\maintain-idmf.md transformed failed.
-* Retriable: False
-* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: dev-itpro\\lifecycle-services\\ax-2012\\maintain-idmf.md transformed failed.","internal_error_retriable":false,"exception_message":"<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\"/>\r\n<title>502 - Web server received an invalid response while acting as a gateway or proxy server.</title>\r\n<style type=\"text/css\">\r\n<!--\r\nbody{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}\r\nfieldset{padding:0 15px 10px 15px;} \r\nh1{font-size:2.4em;margin:0;color:#FFF;}\r\nh2{font-size:1.7em;margin:0;color:#CC0000;} \r\nh3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} \r\n#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:\"trebuchet MS\", Verdana, sans-serif;color:#FFF;\r\nbackground-color:#555555;}\r\n#content{margin:0 0 0 2%;position:relative;}\r\n.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}\r\n-->\r\n</style>\r\n</head>\r\n<body>\r\n<div id=\"header\"><h1>Server Error</h1></div>\r\n<div id=\"content\">\r\n <div class=\"content-container\"><fieldset>\r\n  <h2>502 - Web server received an invalid response while acting as a gateway or proxy server.</h2>\r\n  <h3>There is a problem with the page you are looking for, and it cannot be displayed. When the Web server (while acting as a gateway or proxy) contacted the upstream content server, it received an invalid response from the content server.</h3>\r\n </fieldset></div>\r\n</div>\r\n</body>\r\n</html>\r\n","exception_type":"System.Net.Http.HttpRequestException","stack_trace":"   at Microsoft.OpenLocalization.Transformer.MarkdownJavascriptTransformer.MarkdownToXliffCore(Stream sourceStream, Stream xliffStream, Stream skeletonStream, String srcLocale, String targetLocale, IReadOnlyDictionary`2 transformerOptions) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization.Transformer.Core\\Transformer\\MarkdownJavascriptTransformer.cs:line 43\r\n   at Microsoft.OpenLocalization.Transformer.TransformerClient.MarkdownToXliff(Stream sourceStream, Stream xliffStream, Stream skeletonStream, String srcLocale, String targetLocale, String xliffVersion, IReadOnlyDictionary`2 options) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization.Transformer.Core\\TransformerClient.cs:line 78\r\n   at Microsoft.OpenLocalization.Helper.XliffTransformUtil.MarkdownToXliff(String mdfile, String xliffFile, String skeletonFile, String sourceLocale, String targetLocale, String xliffVersion, Boolean useJavascriptTransformer, IReadOnlyDictionary`2 transformerOptions) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Helper\\XliffTransformUtil.cs:line 59\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass14_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 301","extended_information":null}
-
-##### <a name='d919fd090d8797ec7ef34128c7390027cd11a69c2598handoff_transform_failed'></a> Source: [financials\accounts-payable\sepa-credit-transfer.md](#d919fd090d8797ec7ef34128c7390027cd11a69c2598)
-* Error Code: handoff_transform_failed
-* Error Message: Handoff source file: financials\accounts-payable\sepa-credit-transfer.md transformed failed.
-* Retriable: False
-* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: financials\\accounts-payable\\sepa-credit-transfer.md transformed failed.","internal_error_retriable":false,"exception_message":"<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\"/>\r\n<title>502 - Web server received an invalid response while acting as a gateway or proxy server.</title>\r\n<style type=\"text/css\">\r\n<!--\r\nbody{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}\r\nfieldset{padding:0 15px 10px 15px;} \r\nh1{font-size:2.4em;margin:0;color:#FFF;}\r\nh2{font-size:1.7em;margin:0;color:#CC0000;} \r\nh3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} \r\n#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:\"trebuchet MS\", Verdana, sans-serif;color:#FFF;\r\nbackground-color:#555555;}\r\n#content{margin:0 0 0 2%;position:relative;}\r\n.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}\r\n-->\r\n</style>\r\n</head>\r\n<body>\r\n<div id=\"header\"><h1>Server Error</h1></div>\r\n<div id=\"content\">\r\n <div class=\"content-container\"><fieldset>\r\n  <h2>502 - Web server received an invalid response while acting as a gateway or proxy server.</h2>\r\n  <h3>There is a problem with the page you are looking for, and it cannot be displayed. When the Web server (while acting as a gateway or proxy) contacted the upstream content server, it received an invalid response from the content server.</h3>\r\n </fieldset></div>\r\n</div>\r\n</body>\r\n</html>\r\n","exception_type":"System.Net.Http.HttpRequestException","stack_trace":"   at Microsoft.OpenLocalization.Transformer.MarkdownJavascriptTransformer.MarkdownToXliffCore(Stream sourceStream, Stream xliffStream, Stream skeletonStream, String srcLocale, String targetLocale, IReadOnlyDictionary`2 transformerOptions) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization.Transformer.Core\\Transformer\\MarkdownJavascriptTransformer.cs:line 43\r\n   at Microsoft.OpenLocalization.Transformer.TransformerClient.MarkdownToXliff(Stream sourceStream, Stream xliffStream, Stream skeletonStream, String srcLocale, String targetLocale, String xliffVersion, IReadOnlyDictionary`2 options) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization.Transformer.Core\\TransformerClient.cs:line 78\r\n   at Microsoft.OpenLocalization.Helper.XliffTransformUtil.MarkdownToXliff(String mdfile, String xliffFile, String skeletonFile, String sourceLocale, String targetLocale, String xliffVersion, Boolean useJavascriptTransformer, IReadOnlyDictionary`2 transformerOptions) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Helper\\XliffTransformUtil.cs:line 59\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass14_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 301","extended_information":null}
-
-##### <a name='c88748fd60e6784888f8d07b402dd26a1049059d3478handoff_transform_failed'></a> Source: [retail\customer-orders-overview.md](#c88748fd60e6784888f8d07b402dd26a1049059d3478)
-* Error Code: handoff_transform_failed
-* Error Message: Handoff source file: retail\customer-orders-overview.md transformed failed.
-* Retriable: False
-* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: retail\\customer-orders-overview.md transformed failed.","internal_error_retriable":false,"exception_message":"<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\"/>\r\n<title>502 - Web server received an invalid response while acting as a gateway or proxy server.</title>\r\n<style type=\"text/css\">\r\n<!--\r\nbody{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}\r\nfieldset{padding:0 15px 10px 15px;} \r\nh1{font-size:2.4em;margin:0;color:#FFF;}\r\nh2{font-size:1.7em;margin:0;color:#CC0000;} \r\nh3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} \r\n#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:\"trebuchet MS\", Verdana, sans-serif;color:#FFF;\r\nbackground-color:#555555;}\r\n#content{margin:0 0 0 2%;position:relative;}\r\n.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}\r\n-->\r\n</style>\r\n</head>\r\n<body>\r\n<div id=\"header\"><h1>Server Error</h1></div>\r\n<div id=\"content\">\r\n <div class=\"content-container\"><fieldset>\r\n  <h2>502 - Web server received an invalid response while acting as a gateway or proxy server.</h2>\r\n  <h3>There is a problem with the page you are looking for, and it cannot be displayed. When the Web server (while acting as a gateway or proxy) contacted the upstream content server, it received an invalid response from the content server.</h3>\r\n </fieldset></div>\r\n</div>\r\n</body>\r\n</html>\r\n","exception_type":"System.Net.Http.HttpRequestException","stack_trace":"   at Microsoft.OpenLocalization.Transformer.MarkdownJavascriptTransformer.MarkdownToXliffCore(Stream sourceStream, Stream xliffStream, Stream skeletonStream, String srcLocale, String targetLocale, IReadOnlyDictionary`2 transformerOptions) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization.Transformer.Core\\Transformer\\MarkdownJavascriptTransformer.cs:line 43\r\n   at Microsoft.OpenLocalization.Transformer.TransformerClient.MarkdownToXliff(Stream sourceStream, Stream xliffStream, Stream skeletonStream, String srcLocale, String targetLocale, String xliffVersion, IReadOnlyDictionary`2 options) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization.Transformer.Core\\TransformerClient.cs:line 78\r\n   at Microsoft.OpenLocalization.Helper.XliffTransformUtil.MarkdownToXliff(String mdfile, String xliffFile, String skeletonFile, String sourceLocale, String targetLocale, String xliffVersion, Boolean useJavascriptTransformer, IReadOnlyDictionary`2 transformerOptions) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Helper\\XliffTransformUtil.cs:line 59\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass14_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 301","extended_information":null}
-
 
 Generated by OpenLocalization.
