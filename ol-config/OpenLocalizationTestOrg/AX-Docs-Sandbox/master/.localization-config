@@ -689,6 +689,23 @@
     {
       "metadata": {
         "ms.search.region": [
+          "Latvia, Lithuania"
+        ]
+      },
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "lt-lt",
+            "lv-lv",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
           "Belgium, Netherlands, Sweden"
         ]
       },
@@ -712,6 +729,7 @@
           "Denmark, France, Germany, Ireland, Netherlands, United Kingdom",
           "Denmark, France, Germany, Iceland, Ireland, Netherlands, United Kingdom",
           "Belgium, Denmark, Finland, Norway, Switzerland",
+          "Belgium, Norway, Sweden, Switzerland",
           "Belgium, France, Germany, Norway, Spain, Sweden, Switzerland",
           "Austria, Belgium, Finland, Germany, Netherlands, Sweden",
           "Austria, Belgium, Denmark, Finland, Germany, Ireland, Italy, Netherlands, Spain, Sweden, United Kingdom",
@@ -1105,7 +1123,6 @@
       ]
     }
   ],
-   "forceHandoff": true,
    "includeDependencies":false,
    "autoPush":true,
    "xliffVersion":"1.2",
