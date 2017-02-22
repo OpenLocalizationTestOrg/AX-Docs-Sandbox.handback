@@ -5,13 +5,13 @@
  -------- | ----- 
  Total Files | 3629
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 1075
+[ Handoff Success Files ](#handoff-success-list)| 1076
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
 [ In Sync Handback Files ](#insync-handback-success-list)| 0
-[ Ignored Files ](#ignored-list)| 2554
+[ Ignored Files ](#ignored-list)| 2553
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
 
@@ -678,6 +678,7 @@
  [financials\cash-bank-management\advanced-bank-reconciliation-mt940-data-entity-upgrade-steps.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/cash-bank-management/advanced-bank-reconciliation-mt940-data-entity-upgrade-steps.md) | HandedOffSuccess | [Details](#297d5110e4342244523ba4e5d1be113d97897c6b2779)
  [financials\cash-bank-management\advanced-bank-reconciliation-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/cash-bank-management/advanced-bank-reconciliation-overview.md) | HandedOffSuccess | [Details](#26b626af83b7fc1ed174a3db271b1a308bf92cbe2780)
  [financials\cash-bank-management\automatic-settlement-prioritization.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/cash-bank-management/automatic-settlement-prioritization.md) | HandedOffSuccess | [Details](#f1d5a0ebf32d770ba1fc393e9dc374f1d02bff8d2781)
+ [financials\cash-bank-management\bank-reconciliation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/a4efe875c495e7747566a77ba62b0dad741b15c5/financials/cash-bank-management/bank-reconciliation.md) | HandedOffSuccess | [Details](#d6e321bee6aad874204c717ec3e13d83cb0307c92782)
  [financials\cash-bank-management\cash-discount-handling-overpayments.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/cash-bank-management/cash-discount-handling-overpayments.md) | HandedOffSuccess | [Details](#426ea9968a7a2689e8d93eb6df45c92ca1500f252783)
  [financials\cash-bank-management\configure-advanced-bank-reconciliation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/cash-bank-management/configure-advanced-bank-reconciliation.md) | HandedOffSuccess | [Details](#6b7e15d9ebe1c13181948d782bbf30f776e3ea482784)
  [financials\cash-bank-management\data-entities-bank.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/cash-bank-management/data-entities-bank.md) | HandedOffSuccess | [Details](#6656cfa6ea2d301e4522498c94ccfaa1cc0f3f312785)
@@ -3229,7 +3230,6 @@
  [financials\budgeting\media\screenshot9.png](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/financials/budgeting/media/screenshot9.png) | Ignored | [Details](#672e7f27968e9134044dda351affec4da60f68132774)
  [financials\budgeting\media\stageallocation.png](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/financials/budgeting/media/stageallocation.png) | Ignored | [Details](#acd6f9203ebf14f38289c79370e6f09260c4b8842776)
  [financials\budgeting\media\stageallocation-204x300.png](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/financials/budgeting/media/stageallocation-204x300.png) | Ignored | [Details](#198525705cd338026b4fa619a749978f8e1200bc2775)
- [financials\cash-bank-management\bank-reconciliation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/financials/cash-bank-management/bank-reconciliation.md) | Ignored | [Details](#d6e321bee6aad874204c717ec3e13d83cb0307c92782)
  [financials\cash-bank-management\media\bai2statementexample.pdf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/financials/cash-bank-management/media/bai2statementexample.pdf) | Ignored | [Details](#5b4952148935799f9e8944546df953021afa5b202790)
  [financials\cash-bank-management\media\dynamicsaxbai2layout1.xlsx](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/financials/cash-bank-management/media/dynamicsaxbai2layout1.xlsx) | Ignored | [Details](#568b5f6976bfc211927fb5f8083c4a79178a4da42791)
  [financials\cash-bank-management\media\dynamicsaxiso20022layout1.xlsx](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/financials/cash-bank-management/media/dynamicsaxiso20022layout1.xlsx) | Ignored | [Details](#2ba57d952b876e0ed31c7e9b7613f120068f03af2792)
@@ -42611,12 +42611,12 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='d6e321bee6aad874204c717ec3e13d83cb0307c92782'></a> Source: [financials\cash-bank-management\bank-reconciliation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/financials/cash-bank-management/bank-reconciliation.md)
-* Status: Ignored
+##### <a name='d6e321bee6aad874204c717ec3e13d83cb0307c92782'></a> Source: [financials\cash-bank-management\bank-reconciliation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/a4efe875c495e7747566a77ba62b0dad741b15c5/financials/cash-bank-management/bank-reconciliation.md)
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
+* Handoff File: [bank-reconciliation.14fdc8eb5f0b0f2347bec89488c4cd2247b27dea.is-is.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/1f8f1fcee411b6189582c84383038672a2e90519/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.is-is/master/basic/bank-reconciliation.14fdc8eb5f0b0f2347bec89488c4cd2247b27dea.is-is.xlf)
+* Handoff Datetime: 2017-02-22 18:24:30
+* Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
