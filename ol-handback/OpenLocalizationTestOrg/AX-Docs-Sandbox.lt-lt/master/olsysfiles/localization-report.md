@@ -5,13 +5,13 @@
  -------- | ----- 
  Total Files | 3629
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 1087
+[ Handoff Success Files ](#handoff-success-list)| 1088
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
 [ In Sync Handback Files ](#insync-handback-success-list)| 0
-[ Ignored Files ](#ignored-list)| 2542
+[ Ignored Files ](#ignored-list)| 2541
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
 
@@ -777,6 +777,7 @@
  [financials\localizations\europe\eeu-amount-printing-forms.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/localizations/europe/eeu-amount-printing-forms.md) | HandedOffSuccess | [Details](#7daabca37c5ccf9898cf9b22b2c29802483f57ca2940)
  [financials\localizations\europe\eeu-credit-note-reverse-fixed-asset-sale.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/localizations/europe/eeu-credit-note-reverse-fixed-asset-sale.md) | HandedOffSuccess | [Details](#6f5c04a869a4ff4db698e99d12d589995f74c9d72941)
  [financials\localizations\europe\eeu-edit-invoice-id-sales-orders.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/localizations/europe/eeu-edit-invoice-id-sales-orders.md) | HandedOffSuccess | [Details](#53f694faed7b0a12590c35f466b906d074b3e0352943)
+ [financials\localizations\europe\eeu-invoices-packing-slips-numbering.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/localizations/europe/eeu-invoices-packing-slips-numbering.md) | HandedOffSuccess | [Details](#15dc08eac8b25b53db0abd37b63960479977c0742944)
  [financials\localizations\europe\eeu-petty-cash.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/localizations/europe/eeu-petty-cash.md) | HandedOffSuccess | [Details](#5c1fe3d7899ccb605d5699230850f54e6a3372442945)
  [financials\localizations\europe\eeu-set-up-signers-for-printing-forms.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/localizations/europe/eeu-set-up-signers-for-printing-forms.md) | HandedOffSuccess | [Details](#f9383418721a0e47feacd638f2b11ad5ea5784ea2946)
  [financials\localizations\europe\eeu-vat-register-transactions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/localizations/europe/eeu-vat-register-transactions.md) | HandedOffSuccess | [Details](#1da83a2ed3bdfc9c8ba58568782e0d8ff963f0b12947)
@@ -3304,7 +3305,6 @@
  [financials\localizations\europe\cz-vat-statement-details-for-czech-republic.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/financials/localizations/europe/cz-vat-statement-details-for-czech-republic.md) | Ignored | [Details](#3d96db856c064fac83a3755f3242591c3ae7224c2935)
  [financials\localizations\europe\derogatory-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/financials/localizations/europe/derogatory-depreciation.md) | Ignored | [Details](#969ded0dbbb6a4f792bff953e5d3beb62f6bbb4f2939)
  [financials\localizations\europe\eeu-depreciation-rounding.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/financials/localizations/europe/eeu-depreciation-rounding.md) | Ignored | [Details](#95a7fca3618846e2924a0fdb6cce7ac52e4d1d082942)
- [financials\localizations\europe\eeu-invoices-packing-slips-numbering.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/financials/localizations/europe/eeu-invoices-packing-slips-numbering.md) | Ignored | [Details](#15dc08eac8b25b53db0abd37b63960479977c0742944)
  [financials\localizations\europe\eeur-pre-acquisition-acquisition-fixed-asset.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/financials/localizations/europe/eeur-pre-acquisition-acquisition-fixed-asset.md) | Ignored | [Details](#79252321f41cd14f84ab40df34c6c9eca64374f22948)
  [financials\localizations\europe\esp-fiscal-data-invoice-account.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/financials/localizations/europe/esp-fiscal-data-invoice-account.md) | Ignored | [Details](#da1a90546b9505b8f6427a77ca03833e5242f6e02950)
  [financials\localizations\europe\esp-fixed-asset-group-revaluation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/financials/localizations/europe/esp-fixed-asset-group-revaluation.md) | Ignored | [Details](#c0d854f3f8bdbc39f6a662dbbc3210a68fba74742951)
@@ -44879,12 +44879,12 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='15dc08eac8b25b53db0abd37b63960479977c0742944'></a> Source: [financials\localizations\europe\eeu-invoices-packing-slips-numbering.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/financials/localizations/europe/eeu-invoices-packing-slips-numbering.md)
-* Status: Ignored
+##### <a name='15dc08eac8b25b53db0abd37b63960479977c0742944'></a> Source: [financials\localizations\europe\eeu-invoices-packing-slips-numbering.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/localizations/europe/eeu-invoices-packing-slips-numbering.md)
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
+* Handoff File: [eeu-invoices-packing-slips-numbering.5dbafcafa65921cf9fc131364c813f7cf91fd65f.lt-lt.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7482670b147762df0c0e13a347ae0d8f4ae94c33/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.lt-lt/master/basic/eeu-invoices-packing-slips-numbering.5dbafcafa65921cf9fc131364c813f7cf91fd65f.lt-lt.xlf)
+* Handoff Datetime: 2017-02-22 18:25:29
+* Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
