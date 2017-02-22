@@ -1,1109 +1,1111 @@
-{  
-   "filters":[  
-      {  
-         "metadata":{  
-            "audience":[  
-               "Developer",
-               "Developer, IT Pro",
-               "IT Pro"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"do-not-translate",
-               "locales":[
-                  "ar-sa",
-                  "zh-cn",
-                  "cs-cz",
-                  "da-dk",
-                  "nl-nl",
-                  "et-ee",
-                  "fi-fi",
-                  "fr-fr",
-                  "de-de",
-                  "hu-hu",
-                  "is-is",
-                  "it-it",
-                  "ja-jp",
-                  "lv-lv",
-                  "lt-lt",
-                  "nb-no",
-                  "pl-pl",
-                  "pt-br",
-                  "ru-ru",
-                  "es-es",
-                  "sv-se",
-                  "th-th",
-                  "tr-tr",			   
-                  "sr-cyrl-rs"
-               ]
-            }
-         ]
+{
+  "filters": [
+    {
+      "metadata": {
+        "audience": [
+          "Developer",
+          "Developer, IT Pro",
+          "IT Pro"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.industry":[  
-               "Public sector"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "fr-fr",
-                  "da-dk",
-				          "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "do-not-translate",
+          "locales": [
+            "ar-sa",
+            "zh-cn",
+            "cs-cz",
+            "da-dk",
+            "nl-nl",
+            "et-ee",
+            "fi-fi",
+            "fr-fr",
+            "de-de",
+            "hu-hu",
+            "is-is",
+            "it-it",
+            "ja-jp",
+            "lv-lv",
+            "lt-lt",
+            "nb-no",
+            "pl-pl",
+            "pt-br",
+            "ru-ru",
+            "es-es",
+            "sv-se",
+            "th-th",
+            "tr-tr",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.industry": [
+          "Public sector"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.industry":[  
-               "Public sector"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"do-not-translate",
-               "locales":[  
-                  "ar-sa",
-                  "zh-cn",
-                  "cs-cz",
-                  "nl-nl",
-                  "et-ee",
-                  "fi-fi",
-                  "de-de",
-                  "hu-hu",
-                  "is-is",
-                  "it-it",
-                  "ja-jp",
-                  "lv-lv",
-                  "lt-lt",
-                  "nb-no",
-                  "pl-pl",
-                  "pt-br",
-                  "ru-ru",
-                  "es-es",
-                  "sv-se",
-                  "th-th",
-                  "tr-tr"	   
-               ]
-            }
-         ]
-      },      
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "global"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "ar-sa",
-                  "zh-cn",
-                  "cs-cz",
-                  "da-dk",
-                  "nl-nl",
-                  "et-ee",
-                  "fi-fi",
-                  "fr-fr",
-                  "de-de",
-                  "hu-hu",
-                  "is-is",
-                  "it-it",
-                  "ja-jp",
-                  "lv-lv",
-                  "lt-lt",
-                  "nb-no",
-                  "pl-pl",
-                  "pt-br",
-                  "ru-ru",
-                  "es-es",
-                  "sv-se",
-                  "th-th",
-                  "tr-tr",
-			        	  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "fr-fr",
+            "da-dk",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.industry": [
+          "Public sector"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Australia"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"do-not-translate",
-               "locales":[  
-                  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "do-not-translate",
+          "locales": [
+            "ar-sa",
+            "zh-cn",
+            "cs-cz",
+            "nl-nl",
+            "et-ee",
+            "fi-fi",
+            "de-de",
+            "hu-hu",
+            "is-is",
+            "it-it",
+            "ja-jp",
+            "lv-lv",
+            "lt-lt",
+            "nb-no",
+            "pl-pl",
+            "pt-br",
+            "ru-ru",
+            "es-es",
+            "sv-se",
+            "th-th",
+            "tr-tr"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "global"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Austria"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "de-de",
-		        		  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "ar-sa",
+            "zh-cn",
+            "cs-cz",
+            "da-dk",
+            "nl-nl",
+            "et-ee",
+            "fi-fi",
+            "fr-fr",
+            "de-de",
+            "hu-hu",
+            "is-is",
+            "it-it",
+            "ja-jp",
+            "lv-lv",
+            "lt-lt",
+            "nb-no",
+            "pl-pl",
+            "pt-br",
+            "ru-ru",
+            "es-es",
+            "sv-se",
+            "th-th",
+            "tr-tr",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Australia"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Belgium"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "fr-fr",
-                  "nl-nl",
-				          "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "do-not-translate",
+          "locales": [
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Austria"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Brazil"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "pt-br",
-				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "de-de",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Belgium"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "China (PRC)"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "zh-cn",
-				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "fr-fr",
+            "nl-nl",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Brazil"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Czech Republic"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "cs-cz",
-				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "pt-br",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "China (PRC)"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Denmark"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "da-dk",
-				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "zh-cn",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Czech Republic"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Estonia"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "et-ee",
-				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "cs-cz",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Denmark"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Finland"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "fi-fi",
-				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "da-dk",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Estonia"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "France"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "fr-fr",
-				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "et-ee",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Finland"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Germany"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "de-de",
-				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "fi-fi",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "France"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Hungary"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "hu-hu",
-				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "fr-fr",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Germany"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Iceland"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "is-is",
-				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "de-de",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Hungary"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Ireland"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"do-not-translate",
-               "locales":[  
-                  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "hu-hu",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Iceland"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Italy"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "it-it",
-				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "is-is",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Ireland"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Japan"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "ja-jp",
-				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "do-not-translate",
+          "locales": [
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Italy"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Latvia"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "lv-lv",
-				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "it-it",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Japan"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Lithuania"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "lt-lt",
-				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "ja-jp",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Latvia"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Malaysia"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"do-not-translate",
-               "locales":[  
-                  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "lv-lv",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Lithuania"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Mexico"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "es-es",
-				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "lt-lt",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Malaysia"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Netherlands"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "nl-nl",
-				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "do-not-translate",
+          "locales": [
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Mexico"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Norway"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "nb-no",
-				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "es-es",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Netherlands"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Poland"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "pl-pl",
-				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "nl-nl",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Norway"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Russia"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "ru-ru",
-				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "nb-no",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Poland"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Saudi Arabia"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "ar-sa",
-				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "pl-pl",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Russia"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Singapore"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"do-not-translate",
-               "locales":[  
-                  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "ru-ru",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Saudi Arabia"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Spain"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "es-es",
-				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "ar-sa",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Singapore"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Switzerland"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "fr-fr",
-                  "de-de",
-                  "it-it",
-				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "do-not-translate",
+          "locales": [
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Spain"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Sweden"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "sv-se",
-				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "es-es",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Switzerland"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Thailand"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "th-th",
-				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "fr-fr",
+            "de-de",
+            "it-it",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Sweden"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Turkey"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "tr-tr",
-				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "sv-se",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Thailand"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "United Kingdom"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"do-not-translate",
-               "locales":[  
-                  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "th-th",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Turkey"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "United States"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"do-not-translate",
-               "locales":[  
-                  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "tr-tr",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "United Kingdom"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "USA"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"do-not-translate",
-               "locales":[  
-                  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "do-not-translate",
+          "locales": [
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "United States"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Austria, Germany"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "de-de",
-  				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "do-not-translate",
+          "locales": [
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "USA"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-			   "Belgium, Netherlands, Sweden"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "nl-nl",
-                  "fr-fr",
-                  "sv-se",
-  				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "do-not-translate",
+          "locales": [
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Austria, Germany"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Iceland, Norway",
-			   "Austria, Denmark, Norway",
-			   "Denmark, France, Germany, Ireland, Netherlands, United Kingdom",
-			   "Denmark, France, Germany, Iceland, Ireland, Netherlands, United Kingdom",
-			   "Belgium, Denmark, Finland, Norway, Switzerland",
-			   "Belgium, France, Germany, Norway, Spain, Sweden, Switzerland",
-			   "Austria, Belgium, Finland, Germany, Netherlands, Sweden",
-			   "Austria, Belgium, Denmark, Finland, Germany, Ireland, Italy, Netherlands, Spain, Sweden, United Kingdom",
-			   "Austria, Belgium, Denmark, Finland, France, Germany, Iceland, Ireland, Italy, Netherlands, Norway, Spain, Sweden, United Kingdom"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "da-dk",
-                  "nl-nl",
-                  "fi-fi",
-                  "fr-fr",
-                  "de-de",
-                  "is-is",
-                  "it-it",
-                  "nb-no",
-                  "es-es",
-                  "sv-se",
-  				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "de-de",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Belgium, Netherlands, Sweden"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Czech Republic, Hungary"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "cs-cz",
-                  "hu-hu",
-				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "nl-nl",
+            "fr-fr",
+            "sv-se",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Iceland, Norway",
+          "Austria, Denmark, Norway",
+          "Denmark, France, Germany, Ireland, Netherlands, United Kingdom",
+          "Denmark, France, Germany, Iceland, Ireland, Netherlands, United Kingdom",
+          "Belgium, Denmark, Finland, Norway, Switzerland",
+          "Belgium, France, Germany, Norway, Spain, Sweden, Switzerland",
+          "Austria, Belgium, Finland, Germany, Netherlands, Sweden",
+          "Austria, Belgium, Denmark, Finland, Germany, Ireland, Italy, Netherlands, Spain, Sweden, United Kingdom",
+          "Austria, Belgium, Denmark, Finland, France, Germany, Iceland, Ireland, Italy, Netherlands, Norway, Spain, Sweden, United Kingdom"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Estonia, Lithuania"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "et-ee",
-                  "lt-lt",
-				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "da-dk",
+            "nl-nl",
+            "fi-fi",
+            "fr-fr",
+            "de-de",
+            "is-is",
+            "it-it",
+            "nb-no",
+            "es-es",
+            "sv-se",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Czech Republic, Hungary"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-			   "Estonia, Hungary, Latvia, Lithuania, Poland",
-			   "Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland",
-			   "Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "cs-cz",
-                  "et-ee",
-                  "hu-hu",
-                  "lv-lv",
-                  "lt-lt",
-				  "pl-pl",
-                  "ru-ru",
-				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "cs-cz",
+            "hu-hu",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Estonia, Lithuania"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-			   "Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia, Turkey"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "cs-cz",
-                  "et-ee",
-                  "hu-hu",
-                  "lv-lv",
-                  "lt-lt",
-				  "pl-pl",
-                  "ru-ru",
-                  "tr-tr",
-				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "et-ee",
+            "lt-lt",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Estonia, Hungary, Latvia, Lithuania, Poland",
+          "Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland",
+          "Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Austria, Belgium, Czech Republic, Estonia, Finland, Germany, Latvia, Lithuania, Netherlands, Sweden"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "cs-cz",
-                  "nl-nl",
-                  "et-ee",
-                "fi-fi",
-                "fr-fr",
-                  "de-de",
-                  "lv-lv",
-                  "lt-lt",                 
-                   "sv-se",
-				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "cs-cz",
+            "et-ee",
+            "hu-hu",
+            "lv-lv",
+            "lt-lt",
+            "pl-pl",
+            "ru-ru",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia, Turkey"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-			   "Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Ireland, Italy, Latvia, Lithuania, Netherlands, Poland, Spain, Sweden, United Kingdom",
-			   "Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Iceland, Italy, Latvia, Lithuania, Netherlands, Poland, Spain, Sweden, United Kingdom",
-			   "Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Netherlands, Poland, Spain, Sweden, United Kingdom"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "cs-cz",
-                  "da-dk",
-                  "nl-nl",
-                  "et-ee",
-                  "fi-fi",
-                  "fr-fr",
-                  "de-de",
-                  "hu-hu",
-                  "is-is",
-                  "it-it",
-                  "lv-lv",
-                  "lt-lt",                 
-                  "es-es",
-				  "pl-pl",
-                   "sv-se",
-				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "cs-cz",
+            "et-ee",
+            "hu-hu",
+            "lv-lv",
+            "lt-lt",
+            "pl-pl",
+            "ru-ru",
+            "tr-tr",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Austria, Belgium, Czech Republic, Estonia, Finland, Germany, Latvia, Lithuania, Netherlands, Sweden"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-			   "Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Netherlands, Norway, Poland, Russia, Spain, Sweden, Turkey, United Kingdom"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "cs-cz",
-                  "da-dk",
-                  "nl-nl",
-                  "et-ee",
-                  "fi-fi",
-                  "fr-fr",
-                  "de-de",
-                  "hu-hu",
-                  "is-is",
-                  "it-it",
-                  "lv-lv",
-                  "lt-lt",
-                  "nb-no",
-                  "es-es",
-				  "pl-pl",
-                  "ru-ru",
-                  "sv-se",
-                  "tr-tr",
-				  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "cs-cz",
+            "nl-nl",
+            "et-ee",
+            "fi-fi",
+            "fr-fr",
+            "de-de",
+            "lv-lv",
+            "lt-lt",
+            "sv-se",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Ireland, Italy, Latvia, Lithuania, Netherlands, Poland, Spain, Sweden, United Kingdom",
+          "Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Iceland, Italy, Latvia, Lithuania, Netherlands, Poland, Spain, Sweden, United Kingdom",
+          "Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Netherlands, Poland, Spain, Sweden, United Kingdom"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "China (PRC), Japan",
-			   "China (PRC), Japan, Thailand"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "ja-jp",
-                  "th-th",
-                  "zh-cn",
-  				       "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "cs-cz",
+            "da-dk",
+            "nl-nl",
+            "et-ee",
+            "fi-fi",
+            "fr-fr",
+            "de-de",
+            "hu-hu",
+            "is-is",
+            "it-it",
+            "lv-lv",
+            "lt-lt",
+            "es-es",
+            "pl-pl",
+            "sv-se",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Netherlands, Norway, Poland, Russia, Spain, Sweden, Turkey, United Kingdom"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Mexico, Brazil"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "es-es",
-                  "pt-br",
-  		      		  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "cs-cz",
+            "da-dk",
+            "nl-nl",
+            "et-ee",
+            "fi-fi",
+            "fr-fr",
+            "de-de",
+            "hu-hu",
+            "is-is",
+            "it-it",
+            "lv-lv",
+            "lt-lt",
+            "nb-no",
+            "es-es",
+            "pl-pl",
+            "ru-ru",
+            "sv-se",
+            "tr-tr",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "China (PRC), Japan",
+          "China (PRC), Japan, Thailand"
+        ]
       },
-      {  
-         "metadata":{  
-            "ms.search.region":[  
-               "Canada, United States",
-			   "Canada, USA"
-            ]
-         },
-         "priorities":[  
-            {  
-               "priority":"basic",
-               "locales":[  
-                  "fr-fr",
-  				        "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "ja-jp",
+            "th-th",
+            "zh-cn",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Mexico, Brazil"
+        ]
       },
-      {
-        "files": [
-          "dev-itpro/TOC.md",
-          "dev-itpro/index.md"
-        ],
-         "priorities":[  
-            {  
-               "priority":"do-not-translate",
-               "locales":[
-                  "ar-sa",
-                  "zh-cn",
-                  "cs-cz",
-                  "da-dk",
-                  "nl-nl",
-                  "et-ee",
-                  "fi-fi",
-                  "fr-fr",
-                  "de-de",
-                  "hu-hu",
-                  "is-is",
-                  "it-it",
-                  "ja-jp",
-                  "lv-lv",
-                  "lt-lt",
-                  "nb-no",
-                  "pl-pl",
-                  "pt-br",
-                  "ru-ru",
-                  "es-es",
-                  "sv-se",
-                  "th-th",
-                  "tr-tr",			   
-                  "sr-cyrl-rs"
-               ]
-            }
-         ]
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "es-es",
+            "pt-br",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.search.region": [
+          "Canada, United States",
+          "Canada, USA"
+        ]
       },
-      {
-        "files": [
-          "index.md",
-          "core/TOC.md",
-          "core/index.md",
-          "financials/TOC.md",
-          "financials/index.md",
-          "human-resources/TOC.md",
-          "human-resources/index.md",
-          "manufacturing/TOC.md",
-          "manufacturing/index.md",
-          "retail/TOC.md",
-          "retail/index.md"
-        ],
-         "priorities":[  
-            {  
-               "priority":"premium",
-               "locales":[
-                  "ar-sa",
-                  "zh-cn",
-                  "cs-cz",
-                  "da-dk",
-                  "nl-nl",
-                  "et-ee",
-                  "fi-fi",
-                  "fr-fr",
-                  "de-de",
-                  "hu-hu",
-                  "is-is",
-                  "it-it",
-                  "ja-jp",
-                  "lv-lv",
-                  "lt-lt",
-                  "nb-no",
-                  "pl-pl",
-                  "pt-br",
-                  "ru-ru",
-                  "es-es",
-                  "sv-se",
-                  "th-th",
-                  "tr-tr",			   
-                  "sr-cyrl-rs"
-               ]
-            }
-         ]
-      },
-      {
-        "files": [
-          "core/breadcrumb/toc.yml"
-        ],
-         "priorities":[  
-            {  
-               "priority":"premium",
-               "locales":[
-                  "ar-sa",
-                  "zh-cn",
-                  "cs-cz",
-                  "da-dk",
-                  "nl-nl",
-                  "et-ee",
-                  "fi-fi",
-                  "fr-fr",
-                  "de-de",
-                  "hu-hu",
-                  "is-is",
-                  "it-it",
-                  "ja-jp",
-                  "lv-lv",
-                  "lt-lt",
-                  "nb-no",
-                  "pl-pl",
-                  "pt-br",
-                  "ru-ru",
-                  "es-es",
-                  "sv-se",
-                  "th-th",
-                  "tr-tr",			   
-                  "sr-cyrl-rs"
-               ]
-            }
-         ]
-      },
-      {  
-         "files":[  
-            "core/*.md",
-            "core/**/*.md",
-            "dev-itpro/*.md",
-            "dev-itpro/**/*.md",
-            "financials/*.md",
-            "financials/**/*.md",
-            "human-resources/*.md",
-            "human-resources/**/*.md",
-            "manufacturing/*.md",
-            "manufacturing/**/*.md",
-            "retail/*.md",
-            "retail/**/*.md"
-         ],
-         "priorities":[  
-            {  
-               "priority":"need-to-investigate",
-               "locales":[  
-                  "sr-cyrl-rs"
-               ]
-            }
-         ]
-      }
-   ],
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "fr-fr",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "files": [
+        "dev-itpro/TOC.md",
+        "dev-itpro/index.md"
+      ],
+      "priorities": [
+        {
+          "priority": "do-not-translate",
+          "locales": [
+            "ar-sa",
+            "zh-cn",
+            "cs-cz",
+            "da-dk",
+            "nl-nl",
+            "et-ee",
+            "fi-fi",
+            "fr-fr",
+            "de-de",
+            "hu-hu",
+            "is-is",
+            "it-it",
+            "ja-jp",
+            "lv-lv",
+            "lt-lt",
+            "nb-no",
+            "pl-pl",
+            "pt-br",
+            "ru-ru",
+            "es-es",
+            "sv-se",
+            "th-th",
+            "tr-tr",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "files": [
+        "index.md",
+        "core/TOC.md",
+        "core/index.md",
+        "financials/TOC.md",
+        "financials/index.md",
+        "human-resources/TOC.md",
+        "human-resources/index.md",
+        "manufacturing/TOC.md",
+        "manufacturing/index.md",
+        "retail/TOC.md",
+        "retail/index.md"
+      ],
+      "priorities": [
+        {
+          "priority": "premium",
+          "locales": [
+            "ar-sa",
+            "zh-cn",
+            "cs-cz",
+            "da-dk",
+            "nl-nl",
+            "et-ee",
+            "fi-fi",
+            "fr-fr",
+            "de-de",
+            "hu-hu",
+            "is-is",
+            "it-it",
+            "ja-jp",
+            "lv-lv",
+            "lt-lt",
+            "nb-no",
+            "pl-pl",
+            "pt-br",
+            "ru-ru",
+            "es-es",
+            "sv-se",
+            "th-th",
+            "tr-tr",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "files": [
+        "core/breadcrumb/toc.yml",
+        "core/media/toc.yml"
+      ],
+      "priorities": [
+        {
+          "priority": "premium",
+          "locales": [
+            "ar-sa",
+            "zh-cn",
+            "cs-cz",
+            "da-dk",
+            "nl-nl",
+            "et-ee",
+            "fi-fi",
+            "fr-fr",
+            "de-de",
+            "hu-hu",
+            "is-is",
+            "it-it",
+            "ja-jp",
+            "lv-lv",
+            "lt-lt",
+            "nb-no",
+            "pl-pl",
+            "pt-br",
+            "ru-ru",
+            "es-es",
+            "sv-se",
+            "th-th",
+            "tr-tr",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "files": [
+        "core/*.md",
+        "core/**/*.md",
+        "dev-itpro/*.md",
+        "dev-itpro/**/*.md",
+        "financials/*.md",
+        "financials/**/*.md",
+        "human-resources/*.md",
+        "human-resources/**/*.md",
+        "manufacturing/*.md",
+        "manufacturing/**/*.md",
+        "retail/*.md",
+        "retail/**/*.md"
+      ],
+      "priorities": [
+        {
+          "priority": "need-to-investigate",
+          "locales": [
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    }
+  ],
+   "forceHandoff": true,
    "includeDependencies":false,
    "autoPush":true,
    "xliffVersion":"1.2",
