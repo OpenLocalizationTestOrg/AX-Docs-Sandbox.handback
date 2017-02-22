@@ -10879,6 +10879,16 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.lv-lv\\master\\866a93478d9cf32609ab4ff6b6037a985d88c55e.9c2a607d6a449a6ec8173f3561329e59b5b4f15f.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "financials\\localizations\\europe\\eeu-invoices-packing-slips-numbering.md.c095db1edcacefc4f2981ddd46a0eb7a45855408.HT": {
+      "SourceFilename": "financials\\localizations\\europe\\eeu-invoices-packing-slips-numbering.md",
+      "XliffHash": "c095db1edcacefc4f2981ddd46a0eb7a45855408",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.lv-lv\\master\\15dc08eac8b25b53db0abd37b63960479977c074.dd984363361ceddef3f4df228a499cd5ed4ada92.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }
