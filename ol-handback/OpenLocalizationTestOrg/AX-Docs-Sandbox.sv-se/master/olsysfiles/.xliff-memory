@@ -10779,6 +10779,16 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sv-se\\master\\866a93478d9cf32609ab4ff6b6037a985d88c55e.9c2a607d6a449a6ec8173f3561329e59b5b4f15f.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "financials\\cash-bank-management\\bank-reconciliation.md.c3a9d8f79256e406916eee9dae1fd86066c4d1a5.HT": {
+      "SourceFilename": "financials\\cash-bank-management\\bank-reconciliation.md",
+      "XliffHash": "c3a9d8f79256e406916eee9dae1fd86066c4d1a5",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sv-se\\master\\d6e321bee6aad874204c717ec3e13d83cb0307c9.15365bfe5d1bc3107e047b63e44559bd13e88a0b.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }
