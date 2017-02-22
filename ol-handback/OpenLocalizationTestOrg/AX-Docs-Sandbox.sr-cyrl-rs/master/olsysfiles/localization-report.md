@@ -42614,8 +42614,8 @@
 ##### <a name='d6e321bee6aad874204c717ec3e13d83cb0307c92782'></a> Source: [financials\cash-bank-management\bank-reconciliation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/a4efe875c495e7747566a77ba62b0dad741b15c5/financials/cash-bank-management/bank-reconciliation.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [bank-reconciliation.14fdc8eb5f0b0f2347bec89488c4cd2247b27dea.sr-cyrl-rs.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7f28e3ff21bd9d32b1b0238171aeb97217b5bdca/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.sr-cyrl-rs/master/need-to-investigate/bank-reconciliation.14fdc8eb5f0b0f2347bec89488c4cd2247b27dea.sr-cyrl-rs.xlf)
-* Handoff Datetime: 2017-02-22 15:34:51
+* Handoff File: [bank-reconciliation.14fdc8eb5f0b0f2347bec89488c4cd2247b27dea.sr-cyrl-rs.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/bfbf33707aa7601015822a2085a5e55247290e1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.sr-cyrl-rs/master/basic/bank-reconciliation.14fdc8eb5f0b0f2347bec89488c4cd2247b27dea.sr-cyrl-rs.xlf)
+* Handoff Datetime: 2017-02-22 18:27:38
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -44882,8 +44882,8 @@
 ##### <a name='15dc08eac8b25b53db0abd37b63960479977c0742944'></a> Source: [financials\localizations\europe\eeu-invoices-packing-slips-numbering.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/localizations/europe/eeu-invoices-packing-slips-numbering.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [eeu-invoices-packing-slips-numbering.5dbafcafa65921cf9fc131364c813f7cf91fd65f.sr-cyrl-rs.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7f28e3ff21bd9d32b1b0238171aeb97217b5bdca/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.sr-cyrl-rs/master/need-to-investigate/eeu-invoices-packing-slips-numbering.5dbafcafa65921cf9fc131364c813f7cf91fd65f.sr-cyrl-rs.xlf)
-* Handoff Datetime: 2017-02-22 15:34:51
+* Handoff File: [eeu-invoices-packing-slips-numbering.5dbafcafa65921cf9fc131364c813f7cf91fd65f.sr-cyrl-rs.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/bfbf33707aa7601015822a2085a5e55247290e1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.sr-cyrl-rs/master/basic/eeu-invoices-packing-slips-numbering.5dbafcafa65921cf9fc131364c813f7cf91fd65f.sr-cyrl-rs.xlf)
+* Handoff Datetime: 2017-02-22 18:27:38
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
