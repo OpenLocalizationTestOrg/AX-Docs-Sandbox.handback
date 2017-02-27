@@ -3761,6 +3761,8 @@
 * Handback File: [action-search.78e375d5f16ae67b9c9004fbf99402dab448d8bf.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/action-search.78e375d5f16ae67b9c9004fbf99402dab448d8bf.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [action-search.78e375d5f16ae67b9c9004fbf99402dab448d8bf.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/action-search.78e375d5f16ae67b9c9004fbf99402dab448d8bf.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='025aba4588713cc9104651b7c83b951c3ed252817'></a> Source: [core\get-started\advanced-filtering-query-options.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/get-started/advanced-filtering-query-options.md)
@@ -3775,6 +3777,8 @@
 * Handback File: [advanced-filtering-query-options.585cd80a2c7447dadbe434eaebdc5cacac05855b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/advanced-filtering-query-options.585cd80a2c7447dadbe434eaebdc5cacac05855b.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [advanced-filtering-query-options.585cd80a2c7447dadbe434eaebdc5cacac05855b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/advanced-filtering-query-options.585cd80a2c7447dadbe434eaebdc5cacac05855b.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='4baf60aaa0ee3b61840699e509b2a0f88e6d1b788'></a> Source: [core\get-started\client-faq.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/get-started/client-faq.md)
@@ -3789,6 +3793,8 @@
 * Handback File: [client-faq.2f9c9ae85c52e795f61fd37bafa2d1f436312ff1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/client-faq.2f9c9ae85c52e795f61fd37bafa2d1f436312ff1.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [client-faq.2f9c9ae85c52e795f61fd37bafa2d1f436312ff1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/client-faq.2f9c9ae85c52e795f61fd37bafa2d1f436312ff1.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='b35cdbd8dd600b49062dad915ea9076f91da51879'></a> Source: [core\get-started\configure-filter-workspaces.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/get-started/configure-filter-workspaces.md)
@@ -3803,6 +3809,8 @@
 * Handback File: [configure-filter-workspaces.6859e231d19991e8dfae401b30341eac0ddecc35.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-filter-workspaces.6859e231d19991e8dfae401b30341eac0ddecc35.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [configure-filter-workspaces.6859e231d19991e8dfae401b30341eac0ddecc35.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-filter-workspaces.6859e231d19991e8dfae401b30341eac0ddecc35.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='bda38dc4aa67fa422174d2ffc9cd1554ff5396ec10'></a> Source: [core\get-started\deprecated-features.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/core/get-started/deprecated-features.md)
@@ -3831,6 +3839,8 @@
 * Handback File: [display-pages-side-by-side.38fb87a3cae4e69076f54efc109f6ce69c42fc9f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/display-pages-side-by-side.38fb87a3cae4e69076f54efc109f6ce69c42fc9f.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [display-pages-side-by-side.38fb87a3cae4e69076f54efc109f6ce69c42fc9f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/display-pages-side-by-side.38fb87a3cae4e69076f54efc109f6ce69c42fc9f.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='73b3b1ec9e243ecc8973ae8aea4e46290220f02512'></a> Source: [core\get-started\fasttrack-dynamics-365-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/get-started/fasttrack-dynamics-365-overview.md)
@@ -3873,6 +3883,8 @@
 * Handback File: [glossary.0b96a7f0309b9d098796c6a9a3e73b0c200dba99.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/glossary.0b96a7f0309b9d098796c6a9a3e73b0c200dba99.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [glossary.0b96a7f0309b9d098796c6a9a3e73b0c200dba99.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/glossary.0b96a7f0309b9d098796c6a9a3e73b0c200dba99.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='e685a8ff4e6dad9986d63c56178b5c47702fd5b915'></a> Source: [core\get-started\media\1_window.png](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/core/get-started/media/1_window.png)
@@ -4279,6 +4291,8 @@
 * Handback File: [navigation-search.8b7c3f253ccc6f938e37b04b1397193f188ed8b8.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/navigation-search.8b7c3f253ccc6f938e37b04b1397193f188ed8b8.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [navigation-search.8b7c3f253ccc6f938e37b04b1397193f188ed8b8.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/navigation-search.8b7c3f253ccc6f938e37b04b1397193f188ed8b8.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='0b5f1498e005ba0fa896e78ee71ac5906866347944'></a> Source: [core\get-started\new-task-guides-available-february-2016.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/get-started/new-task-guides-available-february-2016.md)
@@ -4293,6 +4307,8 @@
 * Handback File: [new-task-guides-available-february-2016.d176d6da95b08f8b72d39ad7b931e8fb910a7fe5.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/new-task-guides-available-february-2016.d176d6da95b08f8b72d39ad7b931e8fb910a7fe5.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [new-task-guides-available-february-2016.d176d6da95b08f8b72d39ad7b931e8fb910a7fe5.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/new-task-guides-available-february-2016.d176d6da95b08f8b72d39ad7b931e8fb910a7fe5.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='afe303c14230d57280e5d54a6f777df88b73477845'></a> Source: [core\get-started\new-task-guides-november-2016.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/get-started/new-task-guides-november-2016.md)
@@ -4307,6 +4323,8 @@
 * Handback File: [new-task-guides-november-2016.46b4c1b5e37ff02ee17c0790f064486e707c4882.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/new-task-guides-november-2016.46b4c1b5e37ff02ee17c0790f064486e707c4882.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [new-task-guides-november-2016.46b4c1b5e37ff02ee17c0790f064486e707c4882.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/new-task-guides-november-2016.46b4c1b5e37ff02ee17c0790f064486e707c4882.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='d9aefe91528fe99e0c5b21baac0ca22b1606901446'></a> Source: [core\get-started\new-updated-task-guides-available-august-2016.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/get-started/new-updated-task-guides-available-august-2016.md)
@@ -4321,6 +4339,8 @@
 * Handback File: [new-updated-task-guides-available-august-2016.4775d15acf16f2fd9167c2d6ec03dbde77e29c86.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/new-updated-task-guides-available-august-2016.4775d15acf16f2fd9167c2d6ec03dbde77e29c86.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [new-updated-task-guides-available-august-2016.4775d15acf16f2fd9167c2d6ec03dbde77e29c86.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/new-updated-task-guides-available-august-2016.4775d15acf16f2fd9167c2d6ec03dbde77e29c86.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='42c9cf9b2477d11856e5ec310dfd889f2427dc2a47'></a> Source: [core\get-started\new-updated-task-guides-available-may-2016.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/get-started/new-updated-task-guides-available-may-2016.md)
@@ -4335,6 +4355,8 @@
 * Handback File: [new-updated-task-guides-available-may-2016.82b8980e9fb82bf85ff731b539668e80a7ed975b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/new-updated-task-guides-available-may-2016.82b8980e9fb82bf85ff731b539668e80a7ed975b.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [new-updated-task-guides-available-may-2016.82b8980e9fb82bf85ff731b539668e80a7ed975b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/new-updated-task-guides-available-may-2016.82b8980e9fb82bf85ff731b539668e80a7ed975b.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='5c26f6283c6d37bed080a1063ebbc3d778fe9bdd48'></a> Source: [core\get-started\personalize-user-experience.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/get-started/personalize-user-experience.md)
@@ -4349,6 +4371,8 @@
 * Handback File: [personalize-user-experience.4735a4dd2b2a9258deb1b162f6e81a47f48aa4ce.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/personalize-user-experience.4735a4dd2b2a9258deb1b162f6e81a47f48aa4ce.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [personalize-user-experience.4735a4dd2b2a9258deb1b162f6e81a47f48aa4ce.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/personalize-user-experience.4735a4dd2b2a9258deb1b162f6e81a47f48aa4ce.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='2b954c8271afc1b323609d6e7b142e657ba879db49'></a> Source: [core\get-started\recently-added-editing-features-in-task-recorder.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/get-started/recently-added-editing-features-in-task-recorder.md)
@@ -4363,6 +4387,8 @@
 * Handback File: [recently-added-editing-features-in-task-recorder.495ab625248de01186252ac8df4410accd38098f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/recently-added-editing-features-in-task-recorder.495ab625248de01186252ac8df4410accd38098f.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [recently-added-editing-features-in-task-recorder.495ab625248de01186252ac8df4410accd38098f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/recently-added-editing-features-in-task-recorder.495ab625248de01186252ac8df4410accd38098f.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='77ced00e47282613e76f37175c10c6db10c727ec50'></a> Source: [core\get-started\shortcut-keys.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/get-started/shortcut-keys.md)
@@ -4377,6 +4403,8 @@
 * Handback File: [shortcut-keys.1467b956f13e70f9c6ecbe2a62579bbc87a7d138.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/shortcut-keys.1467b956f13e70f9c6ecbe2a62579bbc87a7d138.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [shortcut-keys.1467b956f13e70f9c6ecbe2a62579bbc87a7d138.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/shortcut-keys.1467b956f13e70f9c6ecbe2a62579bbc87a7d138.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='15fc58d21aeedfc043b237287a3aaf8effa89bfa51'></a> Source: [core\get-started\view-export-field-descriptions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/get-started/view-export-field-descriptions.md)
@@ -4391,6 +4419,8 @@
 * Handback File: [view-export-field-descriptions.23119a5ad40051de5ed7c8426d7aedbc44e574ad.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/view-export-field-descriptions.23119a5ad40051de5ed7c8426d7aedbc44e574ad.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [view-export-field-descriptions.23119a5ad40051de5ed7c8426d7aedbc44e574ad.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/view-export-field-descriptions.23119a5ad40051de5ed7c8426d7aedbc44e574ad.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='7be15fa0f5390264a02606ecdbc2fe66cce68d7455'></a> Source: [core\get-started\whats-new-changed.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/get-started/whats-new-changed.md)
@@ -4405,6 +4435,8 @@
 * Handback File: [whats-new-changed.958391e4b8159d017f0a6d392656c91262d619b8.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/whats-new-changed.958391e4b8159d017f0a6d392656c91262d619b8.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [whats-new-changed.958391e4b8159d017f0a6d392656c91262d619b8.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/whats-new-changed.958391e4b8159d017f0a6d392656c91262d619b8.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='963543ad36861dc867ecbe18daa55d6d0c8c444b52'></a> Source: [core\get-started\whats-new-changed-7-0-february-2016.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/get-started/whats-new-changed-7-0-february-2016.md)
@@ -4419,6 +4451,8 @@
 * Handback File: [whats-new-changed-7-0-february-2016.dbfdb2a3132b3a84888c9ce1b5d46702064d1400.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/whats-new-changed-7-0-february-2016.dbfdb2a3132b3a84888c9ce1b5d46702064d1400.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [whats-new-changed-7-0-february-2016.dbfdb2a3132b3a84888c9ce1b5d46702064d1400.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/whats-new-changed-7-0-february-2016.dbfdb2a3132b3a84888c9ce1b5d46702064d1400.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='92036fc3fb350cf2cecf687a175809abc0a7ce7a53'></a> Source: [core\get-started\whats-new-changed-application-version-7-0-1-may-2016.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/get-started/whats-new-changed-application-version-7-0-1-may-2016.md)
@@ -4433,6 +4467,8 @@
 * Handback File: [whats-new-changed-application-version-7-0-1-may-2016.040c5366e9d5a6979eb11f1b9d402e67e151821c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/whats-new-changed-application-version-7-0-1-may-2016.040c5366e9d5a6979eb11f1b9d402e67e151821c.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [whats-new-changed-application-version-7-0-1-may-2016.040c5366e9d5a6979eb11f1b9d402e67e151821c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/whats-new-changed-application-version-7-0-1-may-2016.040c5366e9d5a6979eb11f1b9d402e67e151821c.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='3149740331fea86d0fbeeaeea356a335cba8f34354'></a> Source: [core\get-started\whats-new-changed-platform-version-7-1-may-2016.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/get-started/whats-new-changed-platform-version-7-1-may-2016.md)
@@ -4461,6 +4497,8 @@
 * Handback File: [whats-new-dynamics-365-operations-1611.6930780fed0e27300b3f3b9fcc6025e09cde9133.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/whats-new-dynamics-365-operations-1611.6930780fed0e27300b3f3b9fcc6025e09cde9133.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [whats-new-dynamics-365-operations-1611.6930780fed0e27300b3f3b9fcc6025e09cde9133.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/whats-new-dynamics-365-operations-1611.6930780fed0e27300b3f3b9fcc6025e09cde9133.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='2ae826aff8976f2144c07a347b701a6ba8fafb1a57'></a> Source: [core\get-started\whats-new-platform-update-2.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/get-started/whats-new-platform-update-2.md)
@@ -4517,6 +4555,8 @@
 * Handback File: [country_region.7e92650572999eb553ad0398f1cd713c96cb5ba3.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/country_region.7e92650572999eb553ad0398f1cd713c96cb5ba3.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [country_region.7e92650572999eb553ad0398f1cd713c96cb5ba3.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/country_region.7e92650572999eb553ad0398f1cd713c96cb5ba3.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='e3a31cab808c44531d6764f357b555e91653abaa61'></a> Source: [core\localizations\inform-msft-new-countryregion-regulations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/localizations/inform-msft-new-countryregion-regulations.md)
@@ -5105,6 +5145,8 @@
 * Handback File: [configure-approval-process-workflow.9e7cafebdda4056cc5276776a98666b2af7b205a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-approval-process-workflow.9e7cafebdda4056cc5276776a98666b2af7b205a.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [configure-approval-process-workflow.9e7cafebdda4056cc5276776a98666b2af7b205a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-approval-process-workflow.9e7cafebdda4056cc5276776a98666b2af7b205a.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='77d1c7a92799d5e501333c0629af7289529a9a6e103'></a> Source: [core\organization-administration\configure-approval-step-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/organization-administration/configure-approval-step-workflow.md)
@@ -5119,6 +5161,8 @@
 * Handback File: [configure-approval-step-workflow.5ff1debd5ee6cbed34fb701fa22e7af3a1409a4b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-approval-step-workflow.5ff1debd5ee6cbed34fb701fa22e7af3a1409a4b.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [configure-approval-step-workflow.5ff1debd5ee6cbed34fb701fa22e7af3a1409a4b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-approval-step-workflow.5ff1debd5ee6cbed34fb701fa22e7af3a1409a4b.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='d3b600fc2c5df4d20ad78495376269b2ffdf70a8104'></a> Source: [core\organization-administration\configure-automated-task-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/organization-administration/configure-automated-task-workflow.md)
@@ -5133,6 +5177,8 @@
 * Handback File: [configure-automated-task-workflow.6397a401c30c2f8dab7599d27b8fc63a67114a99.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-automated-task-workflow.6397a401c30c2f8dab7599d27b8fc63a67114a99.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [configure-automated-task-workflow.6397a401c30c2f8dab7599d27b8fc63a67114a99.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-automated-task-workflow.6397a401c30c2f8dab7599d27b8fc63a67114a99.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='14788acb81052a58a36c4676324057b5a9ac9e6b105'></a> Source: [core\organization-administration\configure-conditional-decision-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/organization-administration/configure-conditional-decision-workflow.md)
@@ -5147,6 +5193,8 @@
 * Handback File: [configure-conditional-decision-workflow.e9173a6d191b8d92f12d4666c5746b61a32e339f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-conditional-decision-workflow.e9173a6d191b8d92f12d4666c5746b61a32e339f.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [configure-conditional-decision-workflow.e9173a6d191b8d92f12d4666c5746b61a32e339f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-conditional-decision-workflow.e9173a6d191b8d92f12d4666c5746b61a32e339f.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='77a1e2f40f125794719fc56241ab1525496b1543106'></a> Source: [core\organization-administration\configure-email.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/organization-administration/configure-email.md)
@@ -5175,6 +5223,8 @@
 * Handback File: [configure-line-item-workflow.c70c5fa3c4aebea7348451d62a513a04287c02fe.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-line-item-workflow.c70c5fa3c4aebea7348451d62a513a04287c02fe.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [configure-line-item-workflow.c70c5fa3c4aebea7348451d62a513a04287c02fe.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-line-item-workflow.c70c5fa3c4aebea7348451d62a513a04287c02fe.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='98371b2c533ca94469e65730a3f24a1153ef0c24108'></a> Source: [core\organization-administration\configure-manual-decision-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/organization-administration/configure-manual-decision-workflow.md)
@@ -5189,6 +5239,8 @@
 * Handback File: [configure-manual-decision-workflow.0e850f54076c4ce529f78fed678b854c7dcdf71e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-manual-decision-workflow.0e850f54076c4ce529f78fed678b854c7dcdf71e.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [configure-manual-decision-workflow.0e850f54076c4ce529f78fed678b854c7dcdf71e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-manual-decision-workflow.0e850f54076c4ce529f78fed678b854c7dcdf71e.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='00ee9ea3dcfbe3d7be326ec02f7445760981f9bc109'></a> Source: [core\organization-administration\configure-manual-task-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/organization-administration/configure-manual-task-workflow.md)
@@ -5203,6 +5255,8 @@
 * Handback File: [configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='b12d9bdaf8761f271755958c6f7d925641da029d110'></a> Source: [core\organization-administration\configure-parallel-activity-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/organization-administration/configure-parallel-activity-workflow.md)
@@ -5217,6 +5271,8 @@
 * Handback File: [configure-parallel-activity-workflow.8bb305f19f1f3917d1b843f173a1411b995fbe51.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-parallel-activity-workflow.8bb305f19f1f3917d1b843f173a1411b995fbe51.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [configure-parallel-activity-workflow.8bb305f19f1f3917d1b843f173a1411b995fbe51.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-parallel-activity-workflow.8bb305f19f1f3917d1b843f173a1411b995fbe51.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='39de65037fe0ea4aee68a7ef19b588d39edca8bc111'></a> Source: [core\organization-administration\configure-parallel-branch-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/organization-administration/configure-parallel-branch-workflow.md)
@@ -5231,6 +5287,8 @@
 * Handback File: [configure-parallel-branch-workflow.39ed85d3798a698464a1f1b50cf53c0daedeeb8e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-parallel-branch-workflow.39ed85d3798a698464a1f1b50cf53c0daedeeb8e.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [configure-parallel-branch-workflow.39ed85d3798a698464a1f1b50cf53c0daedeeb8e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-parallel-branch-workflow.39ed85d3798a698464a1f1b50cf53c0daedeeb8e.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='6be2f2655ee68d3d014a83f18a524fa0bfc30450112'></a> Source: [core\organization-administration\configure-workflow-properties.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/organization-administration/configure-workflow-properties.md)
@@ -5245,6 +5303,8 @@
 * Handback File: [configure-workflow-properties.4aab5ae8115c21c1e02b82d3ca91486ac74e5002.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-workflow-properties.4aab5ae8115c21c1e02b82d3ca91486ac74e5002.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [configure-workflow-properties.4aab5ae8115c21c1e02b82d3ca91486ac74e5002.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-workflow-properties.4aab5ae8115c21c1e02b82d3ca91486ac74e5002.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='77e46a285c02f0147ddc1b042a912e115c309c94113'></a> Source: [core\organization-administration\create-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/organization-administration/create-workflow.md)
@@ -5259,6 +5319,8 @@
 * Handback File: [create-workflow.c0ac2852891211442fba3babe6296f9db2d9b108.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/create-workflow.c0ac2852891211442fba3babe6296f9db2d9b108.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [create-workflow.c0ac2852891211442fba3babe6296f9db2d9b108.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/create-workflow.c0ac2852891211442fba3babe6296f9db2d9b108.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='31905da33ce0a752032ffeb186fad139b372a084114'></a> Source: [core\organization-administration\electronic-signature-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/organization-administration/electronic-signature-overview.md)
@@ -5273,6 +5335,8 @@
 * Handback File: [electronic-signature-overview.05453fdaad9753d57dbd0dfea59e50887a2fa634.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/electronic-signature-overview.05453fdaad9753d57dbd0dfea59e50887a2fa634.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [electronic-signature-overview.05453fdaad9753d57dbd0dfea59e50887a2fa634.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/electronic-signature-overview.05453fdaad9753d57dbd0dfea59e50887a2fa634.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='c3e86e7d09e2b3a408ec676ed3aa4a6d09dbfcb1115'></a> Source: [core\organization-administration\legal-terms-privacy-statement.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/organization-administration/legal-terms-privacy-statement.md)
@@ -5301,6 +5365,8 @@
 * Handback File: [manage-vendor-collaboration-users.2fcbc8d875885677c00fd3f4db9cd9935428e721.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/manage-vendor-collaboration-users.2fcbc8d875885677c00fd3f4db9cd9935428e721.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [manage-vendor-collaboration-users.2fcbc8d875885677c00fd3f4db9cd9935428e721.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/manage-vendor-collaboration-users.2fcbc8d875885677c00fd3f4db9cd9935428e721.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='a23ce062943e0730a39e55a3a4f1287f6f25e22a118'></a> Source: [core\organization-administration\media\address-book-structure.png](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/core/organization-administration/media/address-book-structure.png)
@@ -5427,6 +5493,8 @@
 * Handback File: [number-sequence-overview.74a1590104507a95bf73f8f2440d1f73500f9b69.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/number-sequence-overview.74a1590104507a95bf73f8f2440d1f73500f9b69.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [number-sequence-overview.74a1590104507a95bf73f8f2440d1f73500f9b69.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/number-sequence-overview.74a1590104507a95bf73f8f2440d1f73500f9b69.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='451f78c96c6599201323732121dc0b8e8e899fb1126'></a> Source: [core\organization-administration\organization-administration-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/organization-administration/organization-administration-home-page.md)
@@ -5441,6 +5509,8 @@
 * Handback File: [organization-administration-home-page.de21bb6f9e8192f9736bef85de500180d6ddab63.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/organization-administration-home-page.de21bb6f9e8192f9736bef85de500180d6ddab63.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [organization-administration-home-page.de21bb6f9e8192f9736bef85de500180d6ddab63.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/organization-administration-home-page.de21bb6f9e8192f9736bef85de500180d6ddab63.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='90eefe71a6164d6a064910c2a7aa4b42a37a8384127'></a> Source: [core\organization-administration\organizations-organizational-hierarchies.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/organization-administration/organizations-organizational-hierarchies.md)
@@ -5455,6 +5525,8 @@
 * Handback File: [organizations-organizational-hierarchies.5d3351ea03378c104f626970bc2fbd88782617a3.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/organizations-organizational-hierarchies.5d3351ea03378c104f626970bc2fbd88782617a3.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [organizations-organizational-hierarchies.5d3351ea03378c104f626970bc2fbd88782617a3.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/organizations-organizational-hierarchies.5d3351ea03378c104f626970bc2fbd88782617a3.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='c0d55816a3e71fe638f213128ea37c140531f1f6128'></a> Source: [core\organization-administration\overview-global-address-book.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/organization-administration/overview-global-address-book.md)
@@ -5483,6 +5555,8 @@
 * Handback File: [overview-workflow-system.71c8053da6bbd233ad82c3c1ea9503e67cf40f3f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/overview-workflow-system.71c8053da6bbd233ad82c3c1ea9503e67cf40f3f.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [overview-workflow-system.71c8053da6bbd233ad82c3c1ea9503e67cf40f3f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/overview-workflow-system.71c8053da6bbd233ad82c3c1ea9503e67cf40f3f.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='95640cea7ee4f4433e52da87bf672474f58f4b31130'></a> Source: [core\organization-administration\plan-case-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/organization-administration/plan-case-management.md)
@@ -5511,6 +5585,8 @@
 * Handback File: [plan-configuration-global-address-book-additional-address-books.e3ed7b329b94a811d0e6a7de0937b4d3aefc9e47.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/plan-configuration-global-address-book-additional-address-books.e3ed7b329b94a811d0e6a7de0937b4d3aefc9e47.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [plan-configuration-global-address-book-additional-address-books.e3ed7b329b94a811d0e6a7de0937b4d3aefc9e47.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/plan-configuration-global-address-book-additional-address-books.e3ed7b329b94a811d0e6a7de0937b4d3aefc9e47.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='17fa2057c76b3313e292916aa93777cbbd362d74132'></a> Source: [core\organization-administration\plan-expense-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/organization-administration/plan-expense-management.md)
@@ -5525,6 +5601,8 @@
 * Handback File: [plan-expense-management.87bc752837ff2aab935b8fb499ba57835e12bd9b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/plan-expense-management.87bc752837ff2aab935b8fb499ba57835e12bd9b.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [plan-expense-management.87bc752837ff2aab935b8fb499ba57835e12bd9b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/plan-expense-management.87bc752837ff2aab935b8fb499ba57835e12bd9b.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='cad2b955d2250c1dc58af09f9aa5ff5dfbce1a3c133'></a> Source: [core\organization-administration\plan-organizational-hierarchy.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/organization-administration/plan-organizational-hierarchy.md)
@@ -5539,6 +5617,8 @@
 * Handback File: [plan-organizational-hierarchy.ac3015fc0aa1857a218503a8de6ef8e6401bbc7e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/plan-organizational-hierarchy.ac3015fc0aa1857a218503a8de6ef8e6401bbc7e.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [plan-organizational-hierarchy.ac3015fc0aa1857a218503a8de6ef8e6401bbc7e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/plan-organizational-hierarchy.ac3015fc0aa1857a218503a8de6ef8e6401bbc7e.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='ac5549190544ba25d971cc91b2b05444f3c7bfca134'></a> Source: [core\organization-administration\qa-address-books.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/organization-administration/qa-address-books.md)
@@ -5553,6 +5633,8 @@
 * Handback File: [qa-address-books.4c67cc482fd4b4198c2861ddb912614f471bec75.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/qa-address-books.4c67cc482fd4b4198c2861ddb912614f471bec75.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [qa-address-books.4c67cc482fd4b4198c2861ddb912614f471bec75.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/qa-address-books.4c67cc482fd4b4198c2861ddb912614f471bec75.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='2711e0f04128cc7da257b8a715058ff4d973043c135'></a> Source: [core\organization-administration\record-templates.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/organization-administration/record-templates.md)
@@ -5567,6 +5649,8 @@
 * Handback File: [record-templates.4bf65c8e308dbce51c571bc3187569140f74e111.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/record-templates.4bf65c8e308dbce51c571bc3187569140f74e111.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [record-templates.4bf65c8e308dbce51c571bc3187569140f74e111.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/record-templates.4bf65c8e308dbce51c571bc3187569140f74e111.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='19754dad8c2f8441290e07fdfcd84064b63c303e136'></a> Source: [core\organization-administration\set-up-maintain-vendor-collaboration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/organization-administration/set-up-maintain-vendor-collaboration.md)
@@ -5595,6 +5679,8 @@
 * Handback File: [workflow-actions.8aa81c3d5971cff7db95a7904b2b63a15c4ef7d2.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/workflow-actions.8aa81c3d5971cff7db95a7904b2b63a15c4ef7d2.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [workflow-actions.8aa81c3d5971cff7db95a7904b2b63a15c4ef7d2.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/workflow-actions.8aa81c3d5971cff7db95a7904b2b63a15c4ef7d2.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='ce87c37a4bdd6dd37aec6eb15d4ea2ab6b29e827138'></a> Source: [core\organization-administration\workflow-elements.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/organization-administration/workflow-elements.md)
@@ -5609,6 +5695,8 @@
 * Handback File: [workflow-elements.4c8fa8e855f828f73b5cd7e38c6b33ca43fbc8db.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/workflow-elements.4c8fa8e855f828f73b5cd7e38c6b33ca43fbc8db.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [workflow-elements.4c8fa8e855f828f73b5cd7e38c6b33ca43fbc8db.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/workflow-elements.4c8fa8e855f828f73b5cd7e38c6b33ca43fbc8db.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='bbd580961999901c34c8c967c9f158b303358ddb139'></a> Source: [core\organization-administration\workflow-system-architecture.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/core/organization-administration/workflow-system-architecture.md)
@@ -5693,6 +5781,8 @@
 * Handback File: [advanced-formatting-options-financial-reporting.ba4027c26f231a1b32ce7d5d9dea39017148e9d3.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/advanced-formatting-options-financial-reporting.ba4027c26f231a1b32ce7d5d9dea39017148e9d3.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [advanced-formatting-options-financial-reporting.ba4027c26f231a1b32ce7d5d9dea39017148e9d3.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/advanced-formatting-options-financial-reporting.ba4027c26f231a1b32ce7d5d9dea39017148e9d3.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='d40138632a4ca6281881847eb2f05de22a0529e2145'></a> Source: [dev-itpro\analytics-bi-reporting\aggregate-data-entities-report.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/analytics-bi-reporting/aggregate-data-entities-report.md)
@@ -5763,6 +5853,8 @@
 * Handback File: [bi-reporting-home-page.611e466cfec9abc1a2539ef37eab69e352a29f12.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/bi-reporting-home-page.611e466cfec9abc1a2539ef37eab69e352a29f12.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [bi-reporting-home-page.611e466cfec9abc1a2539ef37eab69e352a29f12.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/bi-reporting-home-page.611e466cfec9abc1a2539ef37eab69e352a29f12.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='90b58d05fd91e8c0bad363fbe2398e6ab6162e08150'></a> Source: [dev-itpro\analytics-bi-reporting\column-definitions-financial-reports.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/analytics-bi-reporting/column-definitions-financial-reports.md)
@@ -5777,6 +5869,8 @@
 * Handback File: [column-definitions-financial-reports.c67d45a244c7a1f95b68743002bdbc17e374daa4.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/column-definitions-financial-reports.c67d45a244c7a1f95b68743002bdbc17e374daa4.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [column-definitions-financial-reports.c67d45a244c7a1f95b68743002bdbc17e374daa4.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/column-definitions-financial-reports.c67d45a244c7a1f95b68743002bdbc17e374daa4.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='cb3a2bc48f5a1c841ad26753e5184b2f35eab6ce151'></a> Source: [dev-itpro\analytics-bi-reporting\compensation-and-benefits-analysis-power-bi-content-pack.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/analytics-bi-reporting/compensation-and-benefits-analysis-power-bi-content-pack.md)
@@ -5791,6 +5885,8 @@
 * Handback File: [compensation-and-benefits-analysis-power-bi-content-pack.70077f711cc1111540a2f7d8dc92b71fa0519bce.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/compensation-and-benefits-analysis-power-bi-content-pack.70077f711cc1111540a2f7d8dc92b71fa0519bce.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [compensation-and-benefits-analysis-power-bi-content-pack.70077f711cc1111540a2f7d8dc92b71fa0519bce.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/compensation-and-benefits-analysis-power-bi-content-pack.70077f711cc1111540a2f7d8dc92b71fa0519bce.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='17d095ced8a738f9bfdbf9a52a9511fa7b9ee709152'></a> Source: [dev-itpro\analytics-bi-reporting\configure-power-bi-integration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/analytics-bi-reporting/configure-power-bi-integration.md)
@@ -5819,6 +5915,8 @@
 * Handback File: [cost-accounting-analysis-content-pack.18132cccbef1361707340735a41c1a980d457434.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/cost-accounting-analysis-content-pack.18132cccbef1361707340735a41c1a980d457434.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [cost-accounting-analysis-content-pack.18132cccbef1361707340735a41c1a980d457434.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/cost-accounting-analysis-content-pack.18132cccbef1361707340735a41c1a980d457434.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='1897fddaa054fd55b648bfb78b1c2db98a8bbd21154'></a> Source: [dev-itpro\analytics-bi-reporting\cost-management-content-pack.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/analytics-bi-reporting/cost-management-content-pack.md)
@@ -5833,6 +5931,8 @@
 * Handback File: [cost-management-content-pack.0a7cc8bb1ef182fa03b6ba5737d06a623b0fdb83.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/cost-management-content-pack.0a7cc8bb1ef182fa03b6ba5737d06a623b0fdb83.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [cost-management-content-pack.0a7cc8bb1ef182fa03b6ba5737d06a623b0fdb83.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/cost-management-content-pack.0a7cc8bb1ef182fa03b6ba5737d06a623b0fdb83.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='39e3a126782438c6535603eca43ba31e661c2657155'></a> Source: [dev-itpro\analytics-bi-reporting\create-nextgen-reporting-solutions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/analytics-bi-reporting/create-nextgen-reporting-solutions.md)
@@ -5889,6 +5989,8 @@
 * Handback File: [credit-collections-content-pack-power-bi.cb3f1c41423d177898502ea770fc45be31d2e99c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/credit-collections-content-pack-power-bi.cb3f1c41423d177898502ea770fc45be31d2e99c.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [credit-collections-content-pack-power-bi.cb3f1c41423d177898502ea770fc45be31d2e99c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/credit-collections-content-pack-power-bi.cb3f1c41423d177898502ea770fc45be31d2e99c.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='ec2ab9bdad9748f39a9cd73f1343648df80f77a8159'></a> Source: [dev-itpro\analytics-bi-reporting\custom-designs-business-docs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/analytics-bi-reporting/custom-designs-business-docs.md)
@@ -5931,6 +6033,8 @@
 * Handback File: [design-financial-report-definitions.b78e10438988e1b37aa14540152908be159c6b07.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/design-financial-report-definitions.b78e10438988e1b37aa14540152908be159c6b07.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [design-financial-report-definitions.b78e10438988e1b37aa14540152908be159c6b07.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/design-financial-report-definitions.b78e10438988e1b37aa14540152908be159c6b07.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='50b50d9e4890518ed6bf08d5c59411a440d818f1162'></a> Source: [dev-itpro\analytics-bi-reporting\design-financial-reports.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/analytics-bi-reporting/design-financial-reports.md)
@@ -5945,6 +6049,8 @@
 * Handback File: [design-financial-reports.b279974f35b01e3f6e547299311718afc5418c0b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/design-financial-reports.b279974f35b01e3f6e547299311718afc5418c0b.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [design-financial-reports.b279974f35b01e3f6e547299311718afc5418c0b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/design-financial-reports.b279974f35b01e3f6e547299311718afc5418c0b.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='f3f275f0fc649ac9d991ac83fc2f72d17f944ea7163'></a> Source: [dev-itpro\analytics-bi-reporting\document-reporting-services.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/analytics-bi-reporting/document-reporting-services.md)
@@ -5973,6 +6079,8 @@
 * Handback File: [download-electronic-reporting-configuration-lcs.bb9581f437c97e9aaab71cc26da06b582cd7d677.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/download-electronic-reporting-configuration-lcs.bb9581f437c97e9aaab71cc26da06b582cd7d677.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [download-electronic-reporting-configuration-lcs.bb9581f437c97e9aaab71cc26da06b582cd7d677.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/download-electronic-reporting-configuration-lcs.bb9581f437c97e9aaab71cc26da06b582cd7d677.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='4f8912456700e2cd9e9466fcc49fc036787ff3ca165'></a> Source: [dev-itpro\analytics-bi-reporting\electronic-reporting-destinations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/analytics-bi-reporting/electronic-reporting-destinations.md)
@@ -5987,6 +6095,8 @@
 * Handback File: [electronic-reporting-destinations.53d61774efafdea62a45001d7eba288c52114483.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/electronic-reporting-destinations.53d61774efafdea62a45001d7eba288c52114483.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [electronic-reporting-destinations.53d61774efafdea62a45001d7eba288c52114483.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/electronic-reporting-destinations.53d61774efafdea62a45001d7eba288c52114483.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='095b97d72af01940f0f4ba0afee34a5d7f382643166'></a> Source: [dev-itpro\analytics-bi-reporting\embed-power-bi-workspaces.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/analytics-bi-reporting/embed-power-bi-workspaces.md)
@@ -6015,6 +6125,8 @@
 * Handback File: [employee-competencies-and-development-analysis-power-bi-content-pack.c98dff28288146dbeb0ba2cfcbe7b7418b9cab74.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/employee-competencies-and-development-analysis-power-bi-content-pack.c98dff28288146dbeb0ba2cfcbe7b7418b9cab74.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [employee-competencies-and-development-analysis-power-bi-content-pack.c98dff28288146dbeb0ba2cfcbe7b7418b9cab74.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/employee-competencies-and-development-analysis-power-bi-content-pack.c98dff28288146dbeb0ba2cfcbe7b7418b9cab74.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='cc27ccb4d21f90357f392c0615d8df95be542431168'></a> Source: [dev-itpro\analytics-bi-reporting\expand-app-suite-report-data-sets.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/analytics-bi-reporting/expand-app-suite-report-data-sets.md)
@@ -6057,6 +6169,8 @@
 * Handback File: [financial-performance-power-bi-content-pack.3d7ab259ca8830197b8b11d280e5b1906071e007.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/financial-performance-power-bi-content-pack.3d7ab259ca8830197b8b11d280e5b1906071e007.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [financial-performance-power-bi-content-pack.3d7ab259ca8830197b8b11d280e5b1906071e007.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/financial-performance-power-bi-content-pack.3d7ab259ca8830197b8b11d280e5b1906071e007.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='57e74a3576286b628deb205d04634b8a486fe375171'></a> Source: [dev-itpro\analytics-bi-reporting\financial-report-components.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/analytics-bi-reporting/financial-report-components.md)
@@ -6071,6 +6185,8 @@
 * Handback File: [financial-report-components.81de53f1633a71204ed0dade6696e16304e8f547.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/financial-report-components.81de53f1633a71204ed0dade6696e16304e8f547.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [financial-report-components.81de53f1633a71204ed0dade6696e16304e8f547.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/financial-report-components.81de53f1633a71204ed0dade6696e16304e8f547.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='bbe20244504840ff081ce1b65ee2aaebb561577b172'></a> Source: [dev-itpro\analytics-bi-reporting\financial-reporting-intro.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/analytics-bi-reporting/financial-reporting-intro.md)
@@ -6085,6 +6201,8 @@
 * Handback File: [financial-reporting-intro.7d1e49f60d321746629ad6587a699cbf15bedbad.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/financial-reporting-intro.7d1e49f60d321746629ad6587a699cbf15bedbad.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [financial-reporting-intro.7d1e49f60d321746629ad6587a699cbf15bedbad.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/financial-reporting-intro.7d1e49f60d321746629ad6587a699cbf15bedbad.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='07af35e56c682a27fb3c5b518be67673b369a3f1173'></a> Source: [dev-itpro\analytics-bi-reporting\financial-reporting-tree-definitions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/analytics-bi-reporting/financial-reporting-tree-definitions.md)
@@ -6099,6 +6217,8 @@
 * Handback File: [financial-reporting-tree-definitions.b44ad58feace5b2093788a1388f7f63ade66de50.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/financial-reporting-tree-definitions.b44ad58feace5b2093788a1388f7f63ade66de50.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [financial-reporting-tree-definitions.b44ad58feace5b2093788a1388f7f63ade66de50.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/financial-reporting-tree-definitions.b44ad58feace5b2093788a1388f7f63ade66de50.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='34f10d1f9510e886557edf3975ec0189705ee03c178'></a> Source: [dev-itpro\analytics-bi-reporting\general-electronic-reporting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/analytics-bi-reporting/general-electronic-reporting.md)
@@ -6113,6 +6233,8 @@
 * Handback File: [general-electronic-reporting.3fadccc364bef173e262f91a45f56b70f17a0081.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/general-electronic-reporting.3fadccc364bef173e262f91a45f56b70f17a0081.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [general-electronic-reporting.3fadccc364bef173e262f91a45f56b70f17a0081.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/general-electronic-reporting.3fadccc364bef173e262f91a45f56b70f17a0081.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='b7e83f3bcc07a492269b35de61fa6f95347dea8a174'></a> Source: [dev-itpro\analytics-bi-reporting\general-electronic-reporting-formula-designer.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/analytics-bi-reporting/general-electronic-reporting-formula-designer.md)
@@ -6127,6 +6249,8 @@
 * Handback File: [general-electronic-reporting-formula-designer.82d36eae2a9e40aded4c465a79b07017886cedf4.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/general-electronic-reporting-formula-designer.82d36eae2a9e40aded4c465a79b07017886cedf4.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [general-electronic-reporting-formula-designer.82d36eae2a9e40aded4c465a79b07017886cedf4.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/general-electronic-reporting-formula-designer.82d36eae2a9e40aded4c465a79b07017886cedf4.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='a64015dab25a3cd8b50cdf7d4eceb1849e6fe796175'></a> Source: [dev-itpro\analytics-bi-reporting\general-electronic-reporting-formulas-list-extension.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/analytics-bi-reporting/general-electronic-reporting-formulas-list-extension.md)
@@ -6155,6 +6279,8 @@
 * Handback File: [general-electronic-reporting-manage-configuration-lifecycle.6ebd3cdc5d68e0a8e2868b8535469287491ff02a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/general-electronic-reporting-manage-configuration-lifecycle.6ebd3cdc5d68e0a8e2868b8535469287491ff02a.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [general-electronic-reporting-manage-configuration-lifecycle.6ebd3cdc5d68e0a8e2868b8535469287491ff02a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/general-electronic-reporting-manage-configuration-lifecycle.6ebd3cdc5d68e0a8e2868b8535469287491ff02a.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='fef54eb5028c0e85d0398d69c153a3f2ea15f050177'></a> Source: [dev-itpro\analytics-bi-reporting\general-electronic-reporting-report-configuration-get-data-powerbi.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/analytics-bi-reporting/general-electronic-reporting-report-configuration-get-data-powerbi.md)
@@ -6169,6 +6295,8 @@
 * Handback File: [general-electronic-reporting-report-configuration-get-data-powerbi.bc73e6114d595d92b4d0925915ac3321d1c7941f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/general-electronic-reporting-report-configuration-get-data-powerbi.bc73e6114d595d92b4d0925915ac3321d1c7941f.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [general-electronic-reporting-report-configuration-get-data-powerbi.bc73e6114d595d92b4d0925915ac3321d1c7941f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/general-electronic-reporting-report-configuration-get-data-powerbi.bc73e6114d595d92b4d0925915ac3321d1c7941f.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='5e30eebda71dbfad4cccc2fa7d4ceb1d01ae0603180'></a> Source: [dev-itpro\analytics-bi-reporting\information-access-reporting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/analytics-bi-reporting/information-access-reporting.md)
@@ -6281,6 +6409,8 @@
 * Handback File: [management-reporter-designer-web-client.5b36f4848ff528fda2bcf20c4af0535417989614.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/management-reporter-designer-web-client.5b36f4848ff528fda2bcf20c4af0535417989614.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [management-reporter-designer-web-client.5b36f4848ff528fda2bcf20c4af0535417989614.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/management-reporter-designer-web-client.5b36f4848ff528fda2bcf20c4af0535417989614.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='897cba776952eae97073ce077ecc6fda6a2570ad188'></a> Source: [dev-itpro\analytics-bi-reporting\media\1.png](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/dev-itpro/analytics-bi-reporting/media/1.png)
@@ -11167,6 +11297,8 @@
 * Handback File: [modify-row-definition-cells-financial-reporting.648047c935a0ad26d5d0b539ee33b5ff1abea0e6.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/modify-row-definition-cells-financial-reporting.648047c935a0ad26d5d0b539ee33b5ff1abea0e6.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [modify-row-definition-cells-financial-reporting.648047c935a0ad26d5d0b539ee33b5ff1abea0e6.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/modify-row-definition-cells-financial-reporting.648047c935a0ad26d5d0b539ee33b5ff1abea0e6.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='06d3bae9b02e0f81ab571e334d2c3a7e801eae20536'></a> Source: [dev-itpro\analytics-bi-reporting\organizational-training-analysis-power-bi-content-pack.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/analytics-bi-reporting/organizational-training-analysis-power-bi-content-pack.md)
@@ -11181,6 +11313,8 @@
 * Handback File: [organizational-training-analysis-power-bi-content-pack.637057ff2d4e7d9e08bf6e6bf8da4716f5f9d2a8.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/organizational-training-analysis-power-bi-content-pack.637057ff2d4e7d9e08bf6e6bf8da4716f5f9d2a8.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [organizational-training-analysis-power-bi-content-pack.637057ff2d4e7d9e08bf6e6bf8da4716f5f9d2a8.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/organizational-training-analysis-power-bi-content-pack.637057ff2d4e7d9e08bf6e6bf8da4716f5f9d2a8.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='00526e197d768f5492f103aa3ffb226c10386186537'></a> Source: [dev-itpro\analytics-bi-reporting\organize-components-report-designer.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/analytics-bi-reporting/organize-components-report-designer.md)
@@ -11195,6 +11329,8 @@
 * Handback File: [organize-components-report-designer.9cf7920e6237877bcd3942f8f3efa3892588e38d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/organize-components-report-designer.9cf7920e6237877bcd3942f8f3efa3892588e38d.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [organize-components-report-designer.9cf7920e6237877bcd3942f8f3efa3892588e38d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/organize-components-report-designer.9cf7920e6237877bcd3942f8f3efa3892588e38d.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='9d2ce99d28ffd28d28e7e998e8d3921fa653e7d0538'></a> Source: [dev-itpro\analytics-bi-reporting\patch-reporting-service-environment.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/analytics-bi-reporting/patch-reporting-service-environment.md)
@@ -11265,6 +11401,8 @@
 * Handback File: [power-bi-home-page.f24be47576d47d359467bd03552e2028e1a090a7.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/power-bi-home-page.f24be47576d47d359467bd03552e2028e1a090a7.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [power-bi-home-page.f24be47576d47d359467bd03552e2028e1a090a7.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/power-bi-home-page.f24be47576d47d359467bd03552e2028e1a090a7.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='bf025953b1e4e9c52f50dc527b06703fc4658cd5544'></a> Source: [dev-itpro\analytics-bi-reporting\power-bi-integration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/analytics-bi-reporting/power-bi-integration.md)
@@ -11349,6 +11487,8 @@
 * Handback File: [purchase-content-pack-for-power-bi.3027597926ce36dbc589da1419b66b816373a2c6.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/purchase-content-pack-for-power-bi.3027597926ce36dbc589da1419b66b816373a2c6.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [purchase-content-pack-for-power-bi.3027597926ce36dbc589da1419b66b816373a2c6.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/purchase-content-pack-for-power-bi.3027597926ce36dbc589da1419b66b816373a2c6.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='b3eafb9ccafbd186096e9ae4f1997705cb0c22a4549'></a> Source: [dev-itpro\analytics-bi-reporting\recruiting-analysis-power-bi-content-pack.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/analytics-bi-reporting/recruiting-analysis-power-bi-content-pack.md)
@@ -11363,6 +11503,8 @@
 * Handback File: [recruiting-analysis-power-bi-content-pack.44e3f7701185d4a6095c1091777b55af58f893cb.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/recruiting-analysis-power-bi-content-pack.44e3f7701185d4a6095c1091777b55af58f893cb.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [recruiting-analysis-power-bi-content-pack.44e3f7701185d4a6095c1091777b55af58f893cb.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/recruiting-analysis-power-bi-content-pack.44e3f7701185d4a6095c1091777b55af58f893cb.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='4564def7f5509e7ab77a5a63922c4fdf175d4425550'></a> Source: [dev-itpro\analytics-bi-reporting\report-designer-interface.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/analytics-bi-reporting/report-designer-interface.md)
@@ -11377,6 +11519,8 @@
 * Handback File: [report-designer-interface.f54ae86b3d58365cfe498364cd5f8bd6d20cb245.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/report-designer-interface.f54ae86b3d58365cfe498364cd5f8bd6d20cb245.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [report-designer-interface.f54ae86b3d58365cfe498364cd5f8bd6d20cb245.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/report-designer-interface.f54ae86b3d58365cfe498364cd5f8bd6d20cb245.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='ac75cf0de1bac6121d6c48db91ca1509089adb30551'></a> Source: [dev-itpro\analytics-bi-reporting\reset-financial-reporting-datamart-after-restore.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/analytics-bi-reporting/reset-financial-reporting-datamart-after-restore.md)
@@ -11391,6 +11535,8 @@
 * Handback File: [reset-financial-reporting-datamart-after-restore.a757e8f51b81c4a7a25aba02ae419178445da40a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/reset-financial-reporting-datamart-after-restore.a757e8f51b81c4a7a25aba02ae419178445da40a.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [reset-financial-reporting-datamart-after-restore.a757e8f51b81c4a7a25aba02ae419178445da40a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/reset-financial-reporting-datamart-after-restore.a757e8f51b81c4a7a25aba02ae419178445da40a.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='3370fe51a742eacd079094805396746d37eb360a552'></a> Source: [dev-itpro\analytics-bi-reporting\row-definitions-financial-reporting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/analytics-bi-reporting/row-definitions-financial-reporting.md)
@@ -11405,6 +11551,8 @@
 * Handback File: [row-definitions-financial-reporting.fbfb8227c4b16ee6edaa97d2dce2278c0edb094e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/row-definitions-financial-reporting.fbfb8227c4b16ee6edaa97d2dce2278c0edb094e.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [row-definitions-financial-reporting.fbfb8227c4b16ee6edaa97d2dce2278c0edb094e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/row-definitions-financial-reporting.fbfb8227c4b16ee6edaa97d2dce2278c0edb094e.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='7df93b0d9a85e7b72decc9a53ac855c4cf93cbfc553'></a> Source: [dev-itpro\analytics-bi-reporting\run-document-routing-agent-as-windows-service.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/analytics-bi-reporting/run-document-routing-agent-as-windows-service.md)
@@ -11433,6 +11581,8 @@
 * Handback File: [sales-profitability-performance-content-pack.cde515cd3b87f96c1d979c4787c974774ac4b09f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/sales-profitability-performance-content-pack.cde515cd3b87f96c1d979c4787c974774ac4b09f.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [sales-profitability-performance-content-pack.cde515cd3b87f96c1d979c4787c974774ac4b09f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/sales-profitability-performance-content-pack.cde515cd3b87f96c1d979c4787c974774ac4b09f.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='976d29c9fb4da450b3a34af549a00058a9cd984c555'></a> Source: [dev-itpro\analytics-bi-reporting\set-up-report-inventory-journal-names.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/dev-itpro/analytics-bi-reporting/set-up-report-inventory-journal-names.md)
@@ -11461,6 +11611,8 @@
 * Handback File: [setup-security-cost-accounting-content-pack.21fd8761eed1062c3c27a1e666f9a74bb4ec090c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/setup-security-cost-accounting-content-pack.21fd8761eed1062c3c27a1e666f9a74bb4ec090c.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [setup-security-cost-accounting-content-pack.21fd8761eed1062c3c27a1e666f9a74bb4ec090c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/setup-security-cost-accounting-content-pack.21fd8761eed1062c3c27a1e666f9a74bb4ec090c.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='76cb70fa686495832c6eb531cecedf8a79c707c8557'></a> Source: [dev-itpro\analytics-bi-reporting\SSRS-report.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/analytics-bi-reporting/SSRS-report.md)
@@ -11503,6 +11655,8 @@
 * Handback File: [use-excel-add-in.6b8a59752f6e90709d6ff72bfda5dc843e59d162.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/use-excel-add-in.6b8a59752f6e90709d6ff72bfda5dc843e59d162.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [use-excel-add-in.6b8a59752f6e90709d6ff72bfda5dc843e59d162.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/use-excel-add-in.6b8a59752f6e90709d6ff72bfda5dc843e59d162.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='614b79802b6f9c022839007c0de8ff870b72ff3f560'></a> Source: [dev-itpro\analytics-bi-reporting\use-lookups-to-find-information.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/analytics-bi-reporting/use-lookups-to-find-information.md)
@@ -11517,6 +11671,8 @@
 * Handback File: [use-lookups-to-find-information.40b168980bac5446cf461b5013ecd67c95e0d655.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/use-lookups-to-find-information.40b168980bac5446cf461b5013ecd67c95e0d655.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [use-lookups-to-find-information.40b168980bac5446cf461b5013ecd67c95e0d655.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/use-lookups-to-find-information.40b168980bac5446cf461b5013ecd67c95e0d655.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='06d6a87f7115edbbd38d55a0497644d82fbd9468561'></a> Source: [dev-itpro\analytics-bi-reporting\user-preferences-financial-report-designer.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/analytics-bi-reporting/user-preferences-financial-report-designer.md)
@@ -11531,6 +11687,8 @@
 * Handback File: [user-preferences-financial-report-designer.f9aa43c62bfcfa682513a22799fe49e67b30432c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/user-preferences-financial-report-designer.f9aa43c62bfcfa682513a22799fe49e67b30432c.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [user-preferences-financial-report-designer.f9aa43c62bfcfa682513a22799fe49e67b30432c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/user-preferences-financial-report-designer.f9aa43c62bfcfa682513a22799fe49e67b30432c.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='4a6c0e30b322c7c4d7f46297173a0a3be9d3d46a562'></a> Source: [dev-itpro\analytics-bi-reporting\workforce-analysis-power-bi-content-pack.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/analytics-bi-reporting/workforce-analysis-power-bi-content-pack.md)
@@ -11545,6 +11703,8 @@
 * Handback File: [workforce-analysis-power-bi-content-pack.03fa3dddf9a9af3c71e5c4c1d93cd58865f35982.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/workforce-analysis-power-bi-content-pack.03fa3dddf9a9af3c71e5c4c1d93cd58865f35982.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [workforce-analysis-power-bi-content-pack.03fa3dddf9a9af3c71e5c4c1d93cd58865f35982.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/workforce-analysis-power-bi-content-pack.03fa3dddf9a9af3c71e5c4c1d93cd58865f35982.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='394a25d84fa876b16a07d9743d0efcc27f550309563'></a> Source: [dev-itpro\continuous-delivery-faq.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/continuous-delivery-faq.md)
@@ -14639,6 +14799,8 @@
 * Handback File: [tips-tricks-import-general-journal-entity.dc3bd73159b01922e8e3da48b4649b5fafdee73f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/tips-tricks-import-general-journal-entity.dc3bd73159b01922e8e3da48b4649b5fafdee73f.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [tips-tricks-import-general-journal-entity.dc3bd73159b01922e8e3da48b4649b5fafdee73f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/tips-tricks-import-general-journal-entity.dc3bd73159b01922e8e3da48b4649b5fafdee73f.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='0d74c75d8e0309c98b0679139fc457feb17b5536770'></a> Source: [dev-itpro\data-entities\troubleshoot-service-authentication.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/data-entities/troubleshoot-service-authentication.md)
@@ -19875,6 +20037,8 @@
 * Handback File: [dimension-entry-control-subpattern.8a7f0740e75458454194735fffd435cb018edee1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/dimension-entry-control-subpattern.8a7f0740e75458454194735fffd435cb018edee1.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [dimension-entry-control-subpattern.8a7f0740e75458454194735fffd435cb018edee1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/dimension-entry-control-subpattern.8a7f0740e75458454194735fffd435cb018edee1.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='547b15f9a48ff33e34906a31aeb7e609851c891b1158'></a> Source: [dev-itpro\financial-dimensions\dimension-entry-control-uptake.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/financial-dimensions/dimension-entry-control-uptake.md)
@@ -19959,6 +20123,8 @@
 * Handback File: [financial-dimensions-main-accounts-right-left-language.41d831288d4885887eec6a26be293fecc430a14b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/financial-dimensions-main-accounts-right-left-language.41d831288d4885887eec6a26be293fecc430a14b.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [financial-dimensions-main-accounts-right-left-language.41d831288d4885887eec6a26be293fecc430a14b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/financial-dimensions-main-accounts-right-left-language.41d831288d4885887eec6a26be293fecc430a14b.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='897cba776952eae97073ce077ecc6fda6a2570ad1164'></a> Source: [dev-itpro\financial-dimensions\media\1.png](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/dev-itpro/financial-dimensions/media/1.png)
@@ -20729,6 +20895,8 @@
 * Handback File: [getting-started-home-page.8766ea88a42377ad0d32559a4075b8f38d83a39c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/getting-started-home-page.8766ea88a42377ad0d32559a4075b8f38d83a39c.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [getting-started-home-page.8766ea88a42377ad0d32559a4075b8f38d83a39c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/getting-started-home-page.8766ea88a42377ad0d32559a4075b8f38d83a39c.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='d11ef938112713068a7b816a77e55cf203cf25d21219'></a> Source: [dev-itpro\get-started\media\architecturedrawing1.png](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/dev-itpro/get-started/media/architecturedrawing1.png)
@@ -20855,6 +21023,8 @@
 * Handback File: [system-requirements.7d121c546503381e5dacbab8e88f26f343056744.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/system-requirements.7d121c546503381e5dacbab8e88f26f343056744.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [system-requirements.7d121c546503381e5dacbab8e88f26f343056744.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/system-requirements.7d121c546503381e5dacbab8e88f26f343056744.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='5e215d40263a6482ca3863597edc166cdb8771951228'></a> Source: [dev-itpro\get-started\whats-new-platform-update-3.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/get-started/whats-new-platform-update-3.md)
@@ -20883,6 +21053,8 @@
 * Handback File: [work-with-help.0794ef551e12cf7d4b55feeeb21ad59bc56cc64e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/work-with-help.0794ef551e12cf7d4b55feeeb21ad59bc56cc64e.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [work-with-help.0794ef551e12cf7d4b55feeeb21ad59bc56cc64e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/work-with-help.0794ef551e12cf7d4b55feeeb21ad59bc56cc64e.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='97d768878dd39d011e58eef9f43c3ebd535edeff1230'></a> Source: [dev-itpro\index.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/73d1e77e4e15d179b12fdc8fec41ae69c7cef56a/dev-itpro/index.md)
@@ -22157,6 +22329,8 @@
 * Handback File: [quick-import-export.9d56921b506819ee1e1e11b57cda0e99671533fb.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/quick-import-export.9d56921b506819ee1e1e11b57cda0e99671533fb.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [quick-import-export.9d56921b506819ee1e1e11b57cda0e99671533fb.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/quick-import-export.9d56921b506819ee1e1e11b57cda0e99671533fb.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='9f76cfc15d85e8fbf374b934a5fa32d1e75717391321'></a> Source: [dev-itpro\lifecycle-services\ax-2012\record-entry-points-enterprise-portal.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/lifecycle-services/ax-2012/record-entry-points-enterprise-portal.md)
@@ -25209,6 +25383,8 @@
 * Handback File: [deprecated-features.8ffe62975e3930db6bc95bc2615948daf57a9cdd.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/deprecated-features.8ffe62975e3930db6bc95bc2615948daf57a9cdd.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [deprecated-features.8ffe62975e3930db6bc95bc2615948daf57a9cdd.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/deprecated-features.8ffe62975e3930db6bc95bc2615948daf57a9cdd.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='e2eed1676caac59783773bc0aa1935e8469322411539'></a> Source: [dev-itpro\migration-upgrade\media\101.png](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/dev-itpro/migration-upgrade/media/101.png)
@@ -26203,6 +26379,8 @@
 * Handback File: [install-configure-warehousing-app.5e7e6a63a9c25abc0cbb58de68be70d3280ff167.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/install-configure-warehousing-app.5e7e6a63a9c25abc0cbb58de68be70d3280ff167.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [install-configure-warehousing-app.5e7e6a63a9c25abc0cbb58de68be70d3280ff167.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/install-configure-warehousing-app.5e7e6a63a9c25abc0cbb58de68be70d3280ff167.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='d899ebaf28105a0c360b27c9dc3148b501bb9de31610'></a> Source: [dev-itpro\mobile-apps\media\filterpane.png](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/dev-itpro/mobile-apps/media/filterpane.png)
@@ -29157,6 +29335,8 @@
 * Handback File: [configure-online-store.2741172d0c9368f0a92977d994f0bafbfcdcb574.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-online-store.2741172d0c9368f0a92977d994f0bafbfcdcb574.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [configure-online-store.2741172d0c9368f0a92977d994f0bafbfcdcb574.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-online-store.2741172d0c9368f0a92977d994f0bafbfcdcb574.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='569872a81fe9a8aa6f079fc669daf772420aced81821'></a> Source: [dev-itpro\retail\create-retail-experience-app.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/retail/create-retail-experience-app.md)
@@ -29199,6 +29379,8 @@
 * Handback File: [define-retail-channel-communications-cdx.4207c72fc1411aa82020319fc1890250cb32dd84.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/define-retail-channel-communications-cdx.4207c72fc1411aa82020319fc1890250cb32dd84.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [define-retail-channel-communications-cdx.4207c72fc1411aa82020319fc1890250cb32dd84.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/define-retail-channel-communications-cdx.4207c72fc1411aa82020319fc1890250cb32dd84.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='334c8789eab0e8dbda9a091001674a7a8295ad681824'></a> Source: [dev-itpro\retail\deploy-payment-connector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/retail/deploy-payment-connector.md)
@@ -30655,6 +30837,8 @@
 * Handback File: [payment-methods.36ecce094f2b415996a0de5b6e570e75bcb24cab.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/payment-methods.36ecce094f2b415996a0de5b6e570e75bcb24cab.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [payment-methods.36ecce094f2b415996a0de5b6e570e75bcb24cab.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/payment-methods.36ecce094f2b415996a0de5b6e570e75bcb24cab.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='f805b77b3f58e451f029e054ee27ab257ea4ae991928'></a> Source: [dev-itpro\retail\retail-device-activation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/retail/retail-device-activation.md)
@@ -30725,6 +30909,8 @@
 * Handback File: [retail-peripheral-simulator.9de05fe030f65579493dd557775458fe76774ac4.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/retail-peripheral-simulator.9de05fe030f65579493dd557775458fe76774ac4.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [retail-peripheral-simulator.9de05fe030f65579493dd557775458fe76774ac4.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/retail-peripheral-simulator.9de05fe030f65579493dd557775458fe76774ac4.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='dd5faf3cbe5ff73d619e23bf09a07847161c69f71933'></a> Source: [dev-itpro\retail\retail-sdk-extensibility-samples.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/retail/retail-sdk-extensibility-samples.md)
@@ -31215,6 +31401,8 @@
 * Handback File: [help-get-started.356dee5db8f5cf0e0f8c7c3ff391674e092f5a72.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/help-get-started.356dee5db8f5cf0e0f8c7c3ff391674e092f5a72.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [help-get-started.356dee5db8f5cf0e0f8c7c3ff391674e092f5a72.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/help-get-started.356dee5db8f5cf0e0f8c7c3ff391674e092f5a72.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='89ff78f75b186fe6df9105a726e40898907e04df1968'></a> Source: [dev-itpro\system-administration\license-codes-configuration-keys-report.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/system-administration/license-codes-configuration-keys-report.md)
@@ -31565,6 +31753,8 @@
 * Handback File: [single-voucher-and-currency-revaluation-upgrade.720fb29661789e6d4e41bed6fcc5c553571577b5.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/single-voucher-and-currency-revaluation-upgrade.720fb29661789e6d4e41bed6fcc5c553571577b5.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [single-voucher-and-currency-revaluation-upgrade.720fb29661789e6d4e41bed6fcc5c553571577b5.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/single-voucher-and-currency-revaluation-upgrade.720fb29661789e6d4e41bed6fcc5c553571577b5.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='34c01f6c06352f4625c9f2240cd222d5653fb3c01993'></a> Source: [dev-itpro\user-interface\action-controls.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/user-interface/action-controls.md)
@@ -31943,6 +32133,8 @@
 * Handback File: [factbox-form-patterns.389071844d9888f0faf62b9d20b3f00a12306fe1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/factbox-form-patterns.389071844d9888f0faf62b9d20b3f00a12306fe1.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [factbox-form-patterns.389071844d9888f0faf62b9d20b3f00a12306fe1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/factbox-form-patterns.389071844d9888f0faf62b9d20b3f00a12306fe1.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='863c8ce8747346fa9f8426d3902e6b3d578a4e5c2020'></a> Source: [dev-itpro\user-interface\fields-field-groups-subpattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/user-interface/fields-field-groups-subpattern.md)
@@ -32125,6 +32317,8 @@
 * Handback File: [list-page-form-pattern.de4dadcb6197696d9d1263a7fd246c0c832de756.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/list-page-form-pattern.de4dadcb6197696d9d1263a7fd246c0c832de756.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [list-page-form-pattern.de4dadcb6197696d9d1263a7fd246c0c832de756.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/list-page-form-pattern.de4dadcb6197696d9d1263a7fd246c0c832de756.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='4f49ca2b3c32219e6162eb0ac9746a86e23ad06e2033'></a> Source: [dev-itpro\user-interface\list-panel-subpattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/user-interface/list-panel-subpattern.md)
@@ -39027,6 +39221,8 @@
 * Handback File: [simple-details-form-pattern.ac50ce15bb0840c463cb6dbcdfe3e6e5cf389281.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/simple-details-form-pattern.ac50ce15bb0840c463cb6dbcdfe3e6e5cf389281.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [simple-details-form-pattern.ac50ce15bb0840c463cb6dbcdfe3e6e5cf389281.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/simple-details-form-pattern.ac50ce15bb0840c463cb6dbcdfe3e6e5cf389281.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='fb59a8f18ae5366cbba2e3fc8d77f5c12bd74bac2526'></a> Source: [dev-itpro\user-interface\simple-list-details-form-pattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/user-interface/simple-list-details-form-pattern.md)
@@ -39153,6 +39349,8 @@
 * Handback File: [tabular-fields-subpattern.8ae81cb2fdc125663b8e20bae6c8754eecc44bb3.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/tabular-fields-subpattern.8ae81cb2fdc125663b8e20bae6c8754eecc44bb3.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [tabular-fields-subpattern.8ae81cb2fdc125663b8e20bae6c8754eecc44bb3.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/tabular-fields-subpattern.8ae81cb2fdc125663b8e20bae6c8754eecc44bb3.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='3094438cdbf34a900c0a7550513a2e97dde45bb52535'></a> Source: [dev-itpro\user-interface\task-double-form-pattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/user-interface/task-double-form-pattern.md)
@@ -39167,6 +39365,8 @@
 * Handback File: [task-double-form-pattern.eed53f97ab6146e5e26e3a85b8d72889c5b71684.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/task-double-form-pattern.eed53f97ab6146e5e26e3a85b8d72889c5b71684.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [task-double-form-pattern.eed53f97ab6146e5e26e3a85b8d72889c5b71684.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/task-double-form-pattern.eed53f97ab6146e5e26e3a85b8d72889c5b71684.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='f0aaaa4c7b00ba82be215dd9da4598522f330f252538'></a> Source: [dev-itpro\user-interface\task-recorder.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/user-interface/task-recorder.md)
@@ -39181,6 +39381,8 @@
 * Handback File: [task-recorder.6beb04f6d6959c65b73c32f815de8b7fba2d71cd.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/task-recorder.6beb04f6d6959c65b73c32f815de8b7fba2d71cd.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [task-recorder.6beb04f6d6959c65b73c32f815de8b7fba2d71cd.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/task-recorder.6beb04f6d6959c65b73c32f815de8b7fba2d71cd.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='efafb9b33bb62a3472793b9d5edecb164eb1cc102536'></a> Source: [dev-itpro\user-interface\task-recorder-control-text.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/user-interface/task-recorder-control-text.md)
@@ -39223,6 +39425,8 @@
 * Handback File: [task-single-form-pattern.95767f52324e94fb57632ad7a5e4f89864baf440.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/task-single-form-pattern.95767f52324e94fb57632ad7a5e4f89864baf440.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [task-single-form-pattern.95767f52324e94fb57632ad7a5e4f89864baf440.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/task-single-form-pattern.95767f52324e94fb57632ad7a5e4f89864baf440.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='31953f2e83cef37d8bdd4d219299408bad121c512540'></a> Source: [dev-itpro\user-interface\testing-forms-custom-patterns.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/user-interface/testing-forms-custom-patterns.md)
@@ -39265,6 +39469,8 @@
 * Handback File: [toolbar-fields-subpattern.85320a09e97e38d324e9491855e35f716c547cc8.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/toolbar-fields-subpattern.85320a09e97e38d324e9491855e35f716c547cc8.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [toolbar-fields-subpattern.85320a09e97e38d324e9491855e35f716c547cc8.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/toolbar-fields-subpattern.85320a09e97e38d324e9491855e35f716c547cc8.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='524e0c598700abe52344648a8a552aa891e59e082543'></a> Source: [dev-itpro\user-interface\toolbar-list-subpattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/user-interface/toolbar-list-subpattern.md)
@@ -39307,6 +39513,8 @@
 * Handback File: [wizard-form-pattern.4b6e746c8fafc62ef4c4f3fab1bc9ee2de52a50a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/wizard-form-pattern.4b6e746c8fafc62ef4c4f3fab1bc9ee2de52a50a.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [wizard-form-pattern.4b6e746c8fafc62ef4c4f3fab1bc9ee2de52a50a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/wizard-form-pattern.4b6e746c8fafc62ef4c4f3fab1bc9ee2de52a50a.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='4555c625104c0629764011a4e2143f6a84d158912546'></a> Source: [dev-itpro\user-interface\workspace-filter-group-subpattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/dev-itpro/user-interface/workspace-filter-group-subpattern.md)
@@ -39489,6 +39697,8 @@
 * Handback File: [accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='5654f8f9ac35961cbe505ccfc0a2b2af7a24624a2558'></a> Source: [financials\accounts-payable\accounting-distributions-subledger-journal-entries-vendor-invoices.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/accounting-distributions-subledger-journal-entries-vendor-invoices.md)
@@ -39503,6 +39713,8 @@
 * Handback File: [accounting-distributions-subledger-journal-entries-vendor-invoices.9d1f080dc619395c5fda6229acfb7f00d1c70ef3.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/accounting-distributions-subledger-journal-entries-vendor-invoices.9d1f080dc619395c5fda6229acfb7f00d1c70ef3.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [accounting-distributions-subledger-journal-entries-vendor-invoices.9d1f080dc619395c5fda6229acfb7f00d1c70ef3.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/accounting-distributions-subledger-journal-entries-vendor-invoices.9d1f080dc619395c5fda6229acfb7f00d1c70ef3.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='bc613388c0fef455bceabd6f8cf776f9872837892560'></a> Source: [financials\accounts-payable\accounting-source-explorer.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/accounting-source-explorer.md)
@@ -39517,6 +39729,8 @@
 * Handback File: [accounting-source-explorer.c676bb605b567e9325780798e4243e8241ee39b7.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/accounting-source-explorer.c676bb605b567e9325780798e4243e8241ee39b7.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [accounting-source-explorer.c676bb605b567e9325780798e4243e8241ee39b7.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/accounting-source-explorer.c676bb605b567e9325780798e4243e8241ee39b7.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='e7f5ccc1a8f71d0635ce36d84881b23d3dde1c0f2563'></a> Source: [financials\accounts-payable\accounts-payable.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/accounts-payable.md)
@@ -39531,6 +39745,8 @@
 * Handback File: [accounts-payable.abd99e977ea528e10b6bead4d6b395a0698f53ad.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/accounts-payable.abd99e977ea528e10b6bead4d6b395a0698f53ad.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [accounts-payable.abd99e977ea528e10b6bead4d6b395a0698f53ad.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/accounts-payable.abd99e977ea528e10b6bead4d6b395a0698f53ad.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='e15eab9c6932ebb3d1a765d7ef7199d869bc20742561'></a> Source: [financials\accounts-payable\accounts-payable-invoice-matching.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/accounts-payable-invoice-matching.md)
@@ -39545,6 +39761,8 @@
 * Handback File: [accounts-payable-invoice-matching.d3f2a734440fb93b494324a879452a636cc0a612.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/accounts-payable-invoice-matching.d3f2a734440fb93b494324a879452a636cc0a612.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [accounts-payable-invoice-matching.d3f2a734440fb93b494324a879452a636cc0a612.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/accounts-payable-invoice-matching.d3f2a734440fb93b494324a879452a636cc0a612.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='52410ba3eafdb50dc445f36a9d3ac7e2385b95a62562'></a> Source: [financials\accounts-payable\accounts-payable-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/accounts-payable-overview.md)
@@ -39559,6 +39777,8 @@
 * Handback File: [accounts-payable-overview.fb00c4b7225819162d11ced7e6f01469fa9c4ce7.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/accounts-payable-overview.fb00c4b7225819162d11ced7e6f01469fa9c4ce7.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [accounts-payable-overview.fb00c4b7225819162d11ced7e6f01469fa9c4ce7.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/accounts-payable-overview.fb00c4b7225819162d11ced7e6f01469fa9c4ce7.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='b2d573e345577382e20ab195dc0a0928a7d82f132564'></a> Source: [financials\accounts-payable\cash-bank-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/cash-bank-management.md)
@@ -39573,6 +39793,8 @@
 * Handback File: [cash-bank-management.046701232fbcf575012450e4929a05b455cb491e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/cash-bank-management.046701232fbcf575012450e4929a05b455cb491e.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [cash-bank-management.046701232fbcf575012450e4929a05b455cb491e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/cash-bank-management.046701232fbcf575012450e4929a05b455cb491e.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='b2a5b231b799ac8515a7e23633f7a07c0783ccd12565'></a> Source: [financials\accounts-payable\cash-discounts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/cash-discounts.md)
@@ -39587,6 +39809,8 @@
 * Handback File: [cash-discounts.29b17d8aa5fdf78d1fa2498a9ff91d37b2f8d704.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/cash-discounts.29b17d8aa5fdf78d1fa2498a9ff91d37b2f8d704.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [cash-discounts.29b17d8aa5fdf78d1fa2498a9ff91d37b2f8d704.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/cash-discounts.29b17d8aa5fdf78d1fa2498a9ff91d37b2f8d704.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='0f8c4df2156114571a91039bb424b25df9044dc92566'></a> Source: [financials\accounts-payable\centralized-payments-accounts-payable.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/centralized-payments-accounts-payable.md)
@@ -39601,6 +39825,8 @@
 * Handback File: [centralized-payments-accounts-payable.a3870a016c556b9ec2be2a08212e2b4ce5f95aa9.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/centralized-payments-accounts-payable.a3870a016c556b9ec2be2a08212e2b4ce5f95aa9.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [centralized-payments-accounts-payable.a3870a016c556b9ec2be2a08212e2b4ce5f95aa9.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/centralized-payments-accounts-payable.a3870a016c556b9ec2be2a08212e2b4ce5f95aa9.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='6c37c87152a609bfcd18eef28f1f588f60430ed72567'></a> Source: [financials\accounts-payable\configure-settlement.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/configure-settlement.md)
@@ -39615,6 +39841,8 @@
 * Handback File: [configure-settlement.f7cddba4a96bee70a79da5cc7252dbeb8d7a520a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-settlement.f7cddba4a96bee70a79da5cc7252dbeb8d7a520a.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [configure-settlement.f7cddba4a96bee70a79da5cc7252dbeb8d7a520a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-settlement.f7cddba4a96bee70a79da5cc7252dbeb8d7a520a.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='c00cdf670cced12f4053a2d26203b254e693b77a2568'></a> Source: [financials\accounts-payable\create-vendor-payments-payment-proposal.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/create-vendor-payments-payment-proposal.md)
@@ -39629,6 +39857,8 @@
 * Handback File: [create-vendor-payments-payment-proposal.7bd7d78f7c9933d07462166c6cebe9b5956cc29c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/create-vendor-payments-payment-proposal.7bd7d78f7c9933d07462166c6cebe9b5956cc29c.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [create-vendor-payments-payment-proposal.7bd7d78f7c9933d07462166c6cebe9b5956cc29c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/create-vendor-payments-payment-proposal.7bd7d78f7c9933d07462166c6cebe9b5956cc29c.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='e09195eca2dd38431d7e6d3fb953901592062d472569'></a> Source: [financials\accounts-payable\data-entities-accounts-payable-taxes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/data-entities-accounts-payable-taxes.md)
@@ -39657,6 +39887,8 @@
 * Handback File: [default-offset-accounts-vendor-invoice-journals.e354ec978ac3c59ffa37e8455119ba4b5d8445b4.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/default-offset-accounts-vendor-invoice-journals.e354ec978ac3c59ffa37e8455119ba4b5d8445b4.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [default-offset-accounts-vendor-invoice-journals.e354ec978ac3c59ffa37e8455119ba4b5d8445b4.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/default-offset-accounts-vendor-invoice-journals.e354ec978ac3c59ffa37e8455119ba4b5d8445b4.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='2cbce6ea75b891cb0992725eea920cdd76f397432571'></a> Source: [financials\accounts-payable\foreign-currency-revaluation-accounts-payable-accounts-receivable.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/foreign-currency-revaluation-accounts-payable-accounts-receivable.md)
@@ -39671,6 +39903,8 @@
 * Handback File: [foreign-currency-revaluation-accounts-payable-accounts-receivable.e1c7569a291a1a06d45a3825158a0259fac393c4.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/foreign-currency-revaluation-accounts-payable-accounts-receivable.e1c7569a291a1a06d45a3825158a0259fac393c4.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [foreign-currency-revaluation-accounts-payable-accounts-receivable.e1c7569a291a1a06d45a3825158a0259fac393c4.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/foreign-currency-revaluation-accounts-payable-accounts-receivable.e1c7569a291a1a06d45a3825158a0259fac393c4.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='bf487658a6b397f219a87434eb905c1d73b65ad92572'></a> Source: [financials\accounts-payable\invoice-matching-intercompany-purchase-orders.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/invoice-matching-intercompany-purchase-orders.md)
@@ -39685,6 +39919,8 @@
 * Handback File: [invoice-matching-intercompany-purchase-orders.6991ddf33057bfb07f634aa049dfcdd59b207a3e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/invoice-matching-intercompany-purchase-orders.6991ddf33057bfb07f634aa049dfcdd59b207a3e.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [invoice-matching-intercompany-purchase-orders.6991ddf33057bfb07f634aa049dfcdd59b207a3e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/invoice-matching-intercompany-purchase-orders.6991ddf33057bfb07f634aa049dfcdd59b207a3e.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='ec8001747b6b483a1574bcd7626dd87859d1138c2574'></a> Source: [financials\accounts-payable\media\accruals1.png](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/financials/accounts-payable/media/accruals1.png)
@@ -39965,6 +40201,8 @@
 * Handback File: [positive-pay-overview.770cf174d9f6ab648aee17b5d360cf1d3e57cc01.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/positive-pay-overview.770cf174d9f6ab648aee17b5d360cf1d3e57cc01.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [positive-pay-overview.770cf174d9f6ab648aee17b5d360cf1d3e57cc01.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/positive-pay-overview.770cf174d9f6ab648aee17b5d360cf1d3e57cc01.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='25cfc3d6dfc8d994647ee508b76909c34c38740c2593'></a> Source: [financials\accounts-payable\project-cost-accrual-purchase-receipts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/project-cost-accrual-purchase-receipts.md)
@@ -39979,6 +40217,8 @@
 * Handback File: [project-cost-accrual-purchase-receipts.74d9667081fcf9146d59de931638920251da39f9.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/project-cost-accrual-purchase-receipts.74d9667081fcf9146d59de931638920251da39f9.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [project-cost-accrual-purchase-receipts.74d9667081fcf9146d59de931638920251da39f9.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/project-cost-accrual-purchase-receipts.74d9667081fcf9146d59de931638920251da39f9.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='60682495f1499f2c7544a18aac54a2fe8a83caf52594'></a> Source: [financials\accounts-payable\project-invoicing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/project-invoicing.md)
@@ -39993,6 +40233,8 @@
 * Handback File: [project-invoicing.cf067685dc953dac54fd85759e7de9eefbcb4a54.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/project-invoicing.cf067685dc953dac54fd85759e7de9eefbcb4a54.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [project-invoicing.cf067685dc953dac54fd85759e7de9eefbcb4a54.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/project-invoicing.cf067685dc953dac54fd85759e7de9eefbcb4a54.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='554c4be426cbd2829745fd0813b2ee1cb1466c7f2595'></a> Source: [financials\accounts-payable\purchase-agreements.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/purchase-agreements.md)
@@ -40007,6 +40249,8 @@
 * Handback File: [purchase-agreements.153d3c0b0bc1f3aeacf51398a88f2c9e2230c467.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/purchase-agreements.153d3c0b0bc1f3aeacf51398a88f2c9e2230c467.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [purchase-agreements.153d3c0b0bc1f3aeacf51398a88f2c9e2230c467.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/purchase-agreements.153d3c0b0bc1f3aeacf51398a88f2c9e2230c467.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='f561c74e0d898773ffd3b502ed43eba6ec7c21c02596'></a> Source: [financials\accounts-payable\resolve-invoice-totals-invoice-matching-discrepancies.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/resolve-invoice-totals-invoice-matching-discrepancies.md)
@@ -40021,6 +40265,8 @@
 * Handback File: [resolve-invoice-totals-invoice-matching-discrepancies.4310854157eafdf835f9588a67148de8f32d2749.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/resolve-invoice-totals-invoice-matching-discrepancies.4310854157eafdf835f9588a67148de8f32d2749.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [resolve-invoice-totals-invoice-matching-discrepancies.4310854157eafdf835f9588a67148de8f32d2749.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/resolve-invoice-totals-invoice-matching-discrepancies.4310854157eafdf835f9588a67148de8f32d2749.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='a67b470df7725307ec2db43b98900b03655725d42597'></a> Source: [financials\accounts-payable\reverse-vendor-payment.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/reverse-vendor-payment.md)
@@ -40035,6 +40281,8 @@
 * Handback File: [reverse-vendor-payment.9cf6974e6f505b82cf4fd51f62093a6cb5f22042.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/reverse-vendor-payment.9cf6974e6f505b82cf4fd51f62093a6cb5f22042.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [reverse-vendor-payment.9cf6974e6f505b82cf4fd51f62093a6cb5f22042.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/reverse-vendor-payment.9cf6974e6f505b82cf4fd51f62093a6cb5f22042.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='d919fd090d8797ec7ef34128c7390027cd11a69c2598'></a> Source: [financials\accounts-payable\sepa-credit-transfer.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/sepa-credit-transfer.md)
@@ -40049,6 +40297,8 @@
 * Handback File: [sepa-credit-transfer.3b1a762ed4c6e8de54f32ae3c3d924aab97b015a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/sepa-credit-transfer.3b1a762ed4c6e8de54f32ae3c3d924aab97b015a.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [sepa-credit-transfer.3b1a762ed4c6e8de54f32ae3c3d924aab97b015a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/sepa-credit-transfer.3b1a762ed4c6e8de54f32ae3c3d924aab97b015a.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='9ff27a1f2b680104ef1319193f29f713945c33bb2606'></a> Source: [financials\accounts-payable\settlement-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/settlement-overview.md)
@@ -40063,6 +40313,8 @@
 * Handback File: [settlement-overview.01420e2d0da4585d2a7643c537df397124c17840.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/settlement-overview.01420e2d0da4585d2a7643c537df397124c17840.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [settlement-overview.01420e2d0da4585d2a7643c537df397124c17840.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/settlement-overview.01420e2d0da4585d2a7643c537df397124c17840.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='6bad5814af1ef5c59fbe8659d67a890692373be62601'></a> Source: [financials\accounts-payable\settle-partial-customer-payment-or-final-payment-before_discount.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/settle-partial-customer-payment-or-final-payment-before_discount.md)
@@ -40077,6 +40329,8 @@
 * Handback File: [settle-partial-customer-payment-or-final-payment-before_discount.ad38eeaa4c1522efa991cc0ffe47a3059a89cbd4.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/settle-partial-customer-payment-or-final-payment-before_discount.ad38eeaa4c1522efa991cc0ffe47a3059a89cbd4.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [settle-partial-customer-payment-or-final-payment-before_discount.ad38eeaa4c1522efa991cc0ffe47a3059a89cbd4.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/settle-partial-customer-payment-or-final-payment-before_discount.ad38eeaa4c1522efa991cc0ffe47a3059a89cbd4.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='46eae6c1774bbd4b4d33c395458c00969669edb82602'></a> Source: [financials\accounts-payable\settle-partial-vendor-payment-before-discount-or-final-payment-after.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/settle-partial-vendor-payment-before-discount-or-final-payment-after.md)
@@ -40091,6 +40345,8 @@
 * Handback File: [settle-partial-vendor-payment-before-discount-or-final-payment-after.001fa026ccf34be237092916092368faca9494aa.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/settle-partial-vendor-payment-before-discount-or-final-payment-after.001fa026ccf34be237092916092368faca9494aa.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [settle-partial-vendor-payment-before-discount-or-final-payment-after.001fa026ccf34be237092916092368faca9494aa.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/settle-partial-vendor-payment-before-discount-or-final-payment-after.001fa026ccf34be237092916092368faca9494aa.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='0d58e9fc995fb0158ef05ac7939e81a6612ce5ec2603'></a> Source: [financials\accounts-payable\settle-partial-vendor-payment-discounts-vendor-credit-notes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/settle-partial-vendor-payment-discounts-vendor-credit-notes.md)
@@ -40105,6 +40361,8 @@
 * Handback File: [settle-partial-vendor-payment-discounts-vendor-credit-notes.125f0a9f6632cbbc7c39e4e6bd728552b853088e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/settle-partial-vendor-payment-discounts-vendor-credit-notes.125f0a9f6632cbbc7c39e4e6bd728552b853088e.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [settle-partial-vendor-payment-discounts-vendor-credit-notes.125f0a9f6632cbbc7c39e4e6bd728552b853088e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/settle-partial-vendor-payment-discounts-vendor-credit-notes.125f0a9f6632cbbc7c39e4e6bd728552b853088e.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='8a67c786bea41da5119840fdd6451d6a13abdae62604'></a> Source: [financials\accounts-payable\settle-partial-vendor-payment-multiple-discount-periods.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/settle-partial-vendor-payment-multiple-discount-periods.md)
@@ -40119,6 +40377,8 @@
 * Handback File: [settle-partial-vendor-payment-multiple-discount-periods.6fb9d075d3eeb6dbd026861a8fceb8e927f3d1b4.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/settle-partial-vendor-payment-multiple-discount-periods.6fb9d075d3eeb6dbd026861a8fceb8e927f3d1b4.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [settle-partial-vendor-payment-multiple-discount-periods.6fb9d075d3eeb6dbd026861a8fceb8e927f3d1b4.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/settle-partial-vendor-payment-multiple-discount-periods.6fb9d075d3eeb6dbd026861a8fceb8e927f3d1b4.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='6431b4f7ba38b25479b164d3cfe647079ef8f9c62605'></a> Source: [financials\accounts-payable\settle-partial-vendor-payment-or-final-payment-before_discount.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/settle-partial-vendor-payment-or-final-payment-before_discount.md)
@@ -40133,6 +40393,8 @@
 * Handback File: [settle-partial-vendor-payment-or-final-payment-before_discount.1f06cc57aa953f9776238b65fb10838f4292682f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/settle-partial-vendor-payment-or-final-payment-before_discount.1f06cc57aa953f9776238b65fb10838f4292682f.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [settle-partial-vendor-payment-or-final-payment-before_discount.1f06cc57aa953f9776238b65fb10838f4292682f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/settle-partial-vendor-payment-or-final-payment-before_discount.1f06cc57aa953f9776238b65fb10838f4292682f.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='20ea9faa6671a119e663669e62b99d0175ec754c2599'></a> Source: [financials\accounts-payable\set-up-centralized-payments.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/set-up-centralized-payments.md)
@@ -40147,6 +40409,8 @@
 * Handback File: [set-up-centralized-payments.8063cc06f6136030407dd3e84a894a88edcb5266.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-centralized-payments.8063cc06f6136030407dd3e84a894a88edcb5266.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [set-up-centralized-payments.8063cc06f6136030407dd3e84a894a88edcb5266.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-centralized-payments.8063cc06f6136030407dd3e84a894a88edcb5266.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='0513853cdeb39ad8c250a328f9ba7a2cde798b492600'></a> Source: [financials\accounts-payable\set-up-generate-positive-pay-files.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/set-up-generate-positive-pay-files.md)
@@ -40161,6 +40425,8 @@
 * Handback File: [set-up-generate-positive-pay-files.7cb3ab4799982d9de70c5af5ce749fb1517ed32a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-generate-positive-pay-files.7cb3ab4799982d9de70c5af5ce749fb1517ed32a.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [set-up-generate-positive-pay-files.7cb3ab4799982d9de70c5af5ce749fb1517ed32a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-generate-positive-pay-files.7cb3ab4799982d9de70c5af5ce749fb1517ed32a.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='3d692242d8caf8836882a94b91f0835dc4cd90352607'></a> Source: [financials\accounts-payable\single-voucher-multiple-customer-vendor-records.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/single-voucher-multiple-customer-vendor-records.md)
@@ -40175,6 +40441,8 @@
 * Handback File: [single-voucher-multiple-customer-vendor-records.0884b4537e818fb8e59d52e20558e0fb55f53e26.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/single-voucher-multiple-customer-vendor-records.0884b4537e818fb8e59d52e20558e0fb55f53e26.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [single-voucher-multiple-customer-vendor-records.0884b4537e818fb8e59d52e20558e0fb55f53e26.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/single-voucher-multiple-customer-vendor-records.0884b4537e818fb8e59d52e20558e0fb55f53e26.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='93c50f9e3207aa424efc09e71247bf21384318602608'></a> Source: [financials\accounts-payable\take-cash-discount-outside-cash-discount-timeframe.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/take-cash-discount-outside-cash-discount-timeframe.md)
@@ -40189,6 +40457,8 @@
 * Handback File: [take-cash-discount-outside-cash-discount-timeframe.3796c4af8a4766942ada163e5ed5de9dff4ce127.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/take-cash-discount-outside-cash-discount-timeframe.3796c4af8a4766942ada163e5ed5de9dff4ce127.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [take-cash-discount-outside-cash-discount-timeframe.3796c4af8a4766942ada163e5ed5de9dff4ce127.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/take-cash-discount-outside-cash-discount-timeframe.3796c4af8a4766942ada163e5ed5de9dff4ce127.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='14df8f412a095bfafed8e7e2cca5aa5e74502df12609'></a> Source: [financials\accounts-payable\take-discount-more-calculated-discount-vendor-payment.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/take-discount-more-calculated-discount-vendor-payment.md)
@@ -40203,6 +40473,8 @@
 * Handback File: [take-discount-more-calculated-discount-vendor-payment.ebf55bf880c8bc50940c283b1450d881d3e02db9.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/take-discount-more-calculated-discount-vendor-payment.ebf55bf880c8bc50940c283b1450d881d3e02db9.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [take-discount-more-calculated-discount-vendor-payment.ebf55bf880c8bc50940c283b1450d881d3e02db9.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/take-discount-more-calculated-discount-vendor-payment.ebf55bf880c8bc50940c283b1450d881d3e02db9.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='dea2e82ea64052b815ff906500ea1112eb424f0c2610'></a> Source: [financials\accounts-payable\three-way-matching-policies.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/three-way-matching-policies.md)
@@ -40217,6 +40489,8 @@
 * Handback File: [three-way-matching-policies.224aee51a7647b6142334a9126107aa8bfda4b7a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/three-way-matching-policies.224aee51a7647b6142334a9126107aa8bfda4b7a.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [three-way-matching-policies.224aee51a7647b6142334a9126107aa8bfda4b7a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/three-way-matching-policies.224aee51a7647b6142334a9126107aa8bfda4b7a.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='d035b4ffa81eb0889d751e8b0b70f8b3dd0804802611'></a> Source: [financials\accounts-payable\vendor-agreements-project-contracts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/vendor-agreements-project-contracts.md)
@@ -40231,6 +40505,8 @@
 * Handback File: [vendor-agreements-project-contracts.ab4e069bef07c93a4837428225ca9686704359ad.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/vendor-agreements-project-contracts.ab4e069bef07c93a4837428225ca9686704359ad.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [vendor-agreements-project-contracts.ab4e069bef07c93a4837428225ca9686704359ad.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/vendor-agreements-project-contracts.ab4e069bef07c93a4837428225ca9686704359ad.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='042ec2f8f76cc5bcbb9a3095fb3ed97f45b192ef2612'></a> Source: [financials\accounts-payable\vendor-invoices-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/vendor-invoices-overview.md)
@@ -40245,6 +40521,8 @@
 * Handback File: [vendor-invoices-overview.c9c5dbec16eddcacbaf3ac05349c618e079baa2d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/vendor-invoices-overview.c9c5dbec16eddcacbaf3ac05349c618e079baa2d.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [vendor-invoices-overview.c9c5dbec16eddcacbaf3ac05349c618e079baa2d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/vendor-invoices-overview.c9c5dbec16eddcacbaf3ac05349c618e079baa2d.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='d5288434b93327e1ab5a417ffc69ca8fea165f212613'></a> Source: [financials\accounts-payable\vendor-payments-partial-amount.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/vendor-payments-partial-amount.md)
@@ -40259,6 +40537,8 @@
 * Handback File: [vendor-payments-partial-amount.d43f3e1f797ee045870672edfd6da20ee3e3e31d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/vendor-payments-partial-amount.d43f3e1f797ee045870672edfd6da20ee3e3e31d.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [vendor-payments-partial-amount.d43f3e1f797ee045870672edfd6da20ee3e3e31d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/vendor-payments-partial-amount.d43f3e1f797ee045870672edfd6da20ee3e3e31d.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='fb758a86d296d23dbb931426684eb80e841f8ce62614'></a> Source: [financials\accounts-payable\vendor-portal-invoicing-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/vendor-portal-invoicing-workspace.md)
@@ -40273,6 +40553,8 @@
 * Handback File: [vendor-portal-invoicing-workspace.765d9f0b093ceba509ba99e0b922dfa8e26926dc.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/vendor-portal-invoicing-workspace.765d9f0b093ceba509ba99e0b922dfa8e26926dc.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [vendor-portal-invoicing-workspace.765d9f0b093ceba509ba99e0b922dfa8e26926dc.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/vendor-portal-invoicing-workspace.765d9f0b093ceba509ba99e0b922dfa8e26926dc.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='8b5405a7f1cc41261e8995ad1d17084bced7f3e12615'></a> Source: [financials\accounts-payable\vendor-posting-profiles.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-payable/vendor-posting-profiles.md)
@@ -40287,6 +40569,8 @@
 * Handback File: [vendor-posting-profiles.d3f07384ca26e11c00a1f9bb651e57a534f234e3.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/vendor-posting-profiles.d3f07384ca26e11c00a1f9bb651e57a534f234e3.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [vendor-posting-profiles.d3f07384ca26e11c00a1f9bb651e57a534f234e3.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/vendor-posting-profiles.d3f07384ca26e11c00a1f9bb651e57a534f234e3.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='db3f156906b4ad62adf25705317d5d265f075d212616'></a> Source: [financials\accounts-receivable\accounting-distributions-subledger-journal-entries-free-text-invoices.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-receivable/accounting-distributions-subledger-journal-entries-free-text-invoices.md)
@@ -40301,6 +40585,8 @@
 * Handback File: [accounting-distributions-subledger-journal-entries-free-text-invoices.e9742bb69fb621f583d124bfc8e718f8d49fe785.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/accounting-distributions-subledger-journal-entries-free-text-invoices.e9742bb69fb621f583d124bfc8e718f8d49fe785.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [accounting-distributions-subledger-journal-entries-free-text-invoices.e9742bb69fb621f583d124bfc8e718f8d49fe785.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/accounting-distributions-subledger-journal-entries-free-text-invoices.e9742bb69fb621f583d124bfc8e718f8d49fe785.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='abe2eb75e90397b278832179f82adaa43b32524c2617'></a> Source: [financials\accounts-receivable\accounts-receivable.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-receivable/accounts-receivable.md)
@@ -40315,6 +40601,8 @@
 * Handback File: [accounts-receivable.ca8c0011044c5453fdf3d5b239d3077db0ffc899.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/accounts-receivable.ca8c0011044c5453fdf3d5b239d3077db0ffc899.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [accounts-receivable.ca8c0011044c5453fdf3d5b239d3077db0ffc899.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/accounts-receivable.ca8c0011044c5453fdf3d5b239d3077db0ffc899.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='e61b2655faec8305af0f16e6474a962c0bbf41522618'></a> Source: [financials\accounts-receivable\accounts-receivables-set-up-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-receivable/accounts-receivables-set-up-overview.md)
@@ -40329,6 +40617,8 @@
 * Handback File: [accounts-receivables-set-up-overview.457c3317d1756fb09e69947e5691eb5096230f8e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/accounts-receivables-set-up-overview.457c3317d1756fb09e69947e5691eb5096230f8e.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [accounts-receivables-set-up-overview.457c3317d1756fb09e69947e5691eb5096230f8e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/accounts-receivables-set-up-overview.457c3317d1756fb09e69947e5691eb5096230f8e.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='b1ca086ae5b8c161b40485a93412a117c852203b2619'></a> Source: [financials\accounts-receivable\centralized-payments-accounts-receivable.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-receivable/centralized-payments-accounts-receivable.md)
@@ -40343,6 +40633,8 @@
 * Handback File: [centralized-payments-accounts-receivable.1f709d74c7dec09344abb60c2016a5541e4479a7.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/centralized-payments-accounts-receivable.1f709d74c7dec09344abb60c2016a5541e4479a7.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [centralized-payments-accounts-receivable.1f709d74c7dec09344abb60c2016a5541e4479a7.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/centralized-payments-accounts-receivable.1f709d74c7dec09344abb60c2016a5541e4479a7.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='2f097f9b2b03034d21c65359280535b7f1986c802620'></a> Source: [financials\accounts-receivable\close-accounts-receivable.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-receivable/close-accounts-receivable.md)
@@ -40357,6 +40649,8 @@
 * Handback File: [close-accounts-receivable.9f06f6941a3386014b11923fdc4fd2f97a5a7fd0.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/close-accounts-receivable.9f06f6941a3386014b11923fdc4fd2f97a5a7fd0.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [close-accounts-receivable.9f06f6941a3386014b11923fdc4fd2f97a5a7fd0.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/close-accounts-receivable.9f06f6941a3386014b11923fdc4fd2f97a5a7fd0.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='f008ab6d864714d54314cb146227d5b3014062142621'></a> Source: [financials\accounts-receivable\collections-credit-accounts-receivable.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-receivable/collections-credit-accounts-receivable.md)
@@ -40371,6 +40665,8 @@
 * Handback File: [collections-credit-accounts-receivable.7d329ad5afffdb891bed03a73211491bc91a88e0.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/collections-credit-accounts-receivable.7d329ad5afffdb891bed03a73211491bc91a88e0.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [collections-credit-accounts-receivable.7d329ad5afffdb891bed03a73211491bc91a88e0.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/collections-credit-accounts-receivable.7d329ad5afffdb891bed03a73211491bc91a88e0.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='ea029f1409f60ea6a654caa2e1383cc090c415a82622'></a> Source: [financials\accounts-receivable\configure-customer-invoices.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-receivable/configure-customer-invoices.md)
@@ -40385,6 +40681,8 @@
 * Handback File: [configure-customer-invoices.3bed40b69a02afbf0dc0a6f63875a0aafb419627.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-customer-invoices.3bed40b69a02afbf0dc0a6f63875a0aafb419627.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [configure-customer-invoices.3bed40b69a02afbf0dc0a6f63875a0aafb419627.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-customer-invoices.3bed40b69a02afbf0dc0a6f63875a0aafb419627.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='aa678f0fafadee8d50eb0f0495091d6d0ae587092623'></a> Source: [financials\accounts-receivable\correct-free-text-invoice.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-receivable/correct-free-text-invoice.md)
@@ -40399,6 +40697,8 @@
 * Handback File: [correct-free-text-invoice.53e8ef7669a6c04a8fee6fd60222e29bd80869b2.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/correct-free-text-invoice.53e8ef7669a6c04a8fee6fd60222e29bd80869b2.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [correct-free-text-invoice.53e8ef7669a6c04a8fee6fd60222e29bd80869b2.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/correct-free-text-invoice.53e8ef7669a6c04a8fee6fd60222e29bd80869b2.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='f2c8282bd8ff7618dad70398720d75744c8a1cd22624'></a> Source: [financials\accounts-receivable\credit-card-authorizations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-receivable/credit-card-authorizations.md)
@@ -40413,6 +40713,8 @@
 * Handback File: [credit-card-authorizations.762a70393a1130194398bed790ef397efffb47cb.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/credit-card-authorizations.762a70393a1130194398bed790ef397efffb47cb.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [credit-card-authorizations.762a70393a1130194398bed790ef397efffb47cb.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/credit-card-authorizations.762a70393a1130194398bed790ef397efffb47cb.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='493bc95014eaca4e48bac36906c52f19284f52f92625'></a> Source: [financials\accounts-receivable\customer-payment-settle-multiple-invoices-multiple-discount-periods.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-receivable/customer-payment-settle-multiple-invoices-multiple-discount-periods.md)
@@ -40427,6 +40729,8 @@
 * Handback File: [customer-payment-settle-multiple-invoices-multiple-discount-periods.4ac7d4857cd5c782e9a08b9a2a0f7397e088642d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/customer-payment-settle-multiple-invoices-multiple-discount-periods.4ac7d4857cd5c782e9a08b9a2a0f7397e088642d.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [customer-payment-settle-multiple-invoices-multiple-discount-periods.4ac7d4857cd5c782e9a08b9a2a0f7397e088642d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/customer-payment-settle-multiple-invoices-multiple-discount-periods.4ac7d4857cd5c782e9a08b9a2a0f7397e088642d.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='a31e997416f2ceff4c48f945a49bc71b7118afb72626'></a> Source: [financials\accounts-receivable\customer-payments-partial-amount.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-receivable/customer-payments-partial-amount.md)
@@ -40441,6 +40745,8 @@
 * Handback File: [customer-payments-partial-amount.6938b6a50b83c65674bd67edd5768b1054e49f4a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/customer-payments-partial-amount.6938b6a50b83c65674bd67edd5768b1054e49f4a.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [customer-payments-partial-amount.6938b6a50b83c65674bd67edd5768b1054e49f4a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/customer-payments-partial-amount.6938b6a50b83c65674bd67edd5768b1054e49f4a.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='83dbea8772ae2f90a13951a6902d2158f76f3ac92627'></a> Source: [financials\accounts-receivable\customer-posting-profiles.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-receivable/customer-posting-profiles.md)
@@ -40455,6 +40761,8 @@
 * Handback File: [customer-posting-profiles.a88ff898bb070eedfca8a1979a2f6bc01b86ccdf.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/customer-posting-profiles.a88ff898bb070eedfca8a1979a2f6bc01b86ccdf.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [customer-posting-profiles.a88ff898bb070eedfca8a1979a2f6bc01b86ccdf.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/customer-posting-profiles.a88ff898bb070eedfca8a1979a2f6bc01b86ccdf.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='3f79d8292866b9dfe1346128a37104321dd04ffe2628'></a> Source: [financials\accounts-receivable\data-entities-accounts-receivable.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-receivable/data-entities-accounts-receivable.md)
@@ -40483,6 +40791,8 @@
 * Handback File: [reimburse-customers.e6cffed8fc11ede176e69b2e846a0dfb39424218.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/reimburse-customers.e6cffed8fc11ede176e69b2e846a0dfb39424218.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [reimburse-customers.e6cffed8fc11ede176e69b2e846a0dfb39424218.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/reimburse-customers.e6cffed8fc11ede176e69b2e846a0dfb39424218.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='a14e8b9ca930fe084a9b9e95fcb63f19fc9bdcbc2630'></a> Source: [financials\accounts-receivable\sepa-direct-debit-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-receivable/sepa-direct-debit-overview.md)
@@ -40497,6 +40807,8 @@
 * Handback File: [sepa-direct-debit-overview.dc3fb371a605d92871dc391270e0e3e48b8f9649.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/sepa-direct-debit-overview.dc3fb371a605d92871dc391270e0e3e48b8f9649.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [sepa-direct-debit-overview.dc3fb371a605d92871dc391270e0e3e48b8f9649.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/sepa-direct-debit-overview.dc3fb371a605d92871dc391270e0e3e48b8f9649.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='b5e29b803be6eb94e24afb6b840df0e909c822692635'></a> Source: [financials\accounts-receivable\settle-partial-customer-payment-before-discount-or-final-payment-after.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-receivable/settle-partial-customer-payment-before-discount-or-final-payment-after.md)
@@ -40511,6 +40823,8 @@
 * Handback File: [settle-partial-customer-payment-before-discount-or-final-payment-after.deb455c87b73bc2aab233b998571612f2dc76f06.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/settle-partial-customer-payment-before-discount-or-final-payment-after.deb455c87b73bc2aab233b998571612f2dc76f06.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [settle-partial-customer-payment-before-discount-or-final-payment-after.deb455c87b73bc2aab233b998571612f2dc76f06.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/settle-partial-customer-payment-before-discount-or-final-payment-after.deb455c87b73bc2aab233b998571612f2dc76f06.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='a84aca85abe7a79adc9666b2378b472ca966a7c92636'></a> Source: [financials\accounts-receivable\settle-partial-customer-payment-discounts-credit-notes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-receivable/settle-partial-customer-payment-discounts-credit-notes.md)
@@ -40525,6 +40839,8 @@
 * Handback File: [settle-partial-customer-payment-discounts-credit-notes.db5352fa58f471faf05e0b6c9a81ea953a242338.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/settle-partial-customer-payment-discounts-credit-notes.db5352fa58f471faf05e0b6c9a81ea953a242338.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [settle-partial-customer-payment-discounts-credit-notes.db5352fa58f471faf05e0b6c9a81ea953a242338.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/settle-partial-customer-payment-discounts-credit-notes.db5352fa58f471faf05e0b6c9a81ea953a242338.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='5d6a318f0069ef56cd5cfad63b72ed56ba913e0c2637'></a> Source: [financials\accounts-receivable\settle-partial-customer-payment-multiple-discount-periods.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-receivable/settle-partial-customer-payment-multiple-discount-periods.md)
@@ -40539,6 +40855,8 @@
 * Handback File: [settle-partial-customer-payment-multiple-discount-periods.1aa76fa5b5e7ed43f6293fb20d899e89d3c33f8f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/settle-partial-customer-payment-multiple-discount-periods.1aa76fa5b5e7ed43f6293fb20d899e89d3c33f8f.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [settle-partial-customer-payment-multiple-discount-periods.1aa76fa5b5e7ed43f6293fb20d899e89d3c33f8f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/settle-partial-customer-payment-multiple-discount-periods.1aa76fa5b5e7ed43f6293fb20d899e89d3c33f8f.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='b8cda1869d4c352d7808753261174b60eee583322631'></a> Source: [financials\accounts-receivable\set-up-bills-exchange.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-receivable/set-up-bills-exchange.md)
@@ -40553,6 +40871,8 @@
 * Handback File: [set-up-bills-exchange.fcb8e0d418a2636ba7d003a476c4d52b56ec7c4e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-bills-exchange.fcb8e0d418a2636ba7d003a476c4d52b56ec7c4e.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [set-up-bills-exchange.fcb8e0d418a2636ba7d003a476c4d52b56ec7c4e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-bills-exchange.fcb8e0d418a2636ba7d003a476c4d52b56ec7c4e.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='cbcfbba24b8d8ca560369e57670fe0b6c41f06612632'></a> Source: [financials\accounts-receivable\set-up-collections.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-receivable/set-up-collections.md)
@@ -40567,6 +40887,8 @@
 * Handback File: [set-up-collections.8b59f22a91ef12e7642de8b6bf5cd0a1fcd3e3ef.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-collections.8b59f22a91ef12e7642de8b6bf5cd0a1fcd3e3ef.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [set-up-collections.8b59f22a91ef12e7642de8b6bf5cd0a1fcd3e3ef.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-collections.8b59f22a91ef12e7642de8b6bf5cd0a1fcd3e3ef.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='f1075330cd19a1da10fd845097a24e91858977902633'></a> Source: [financials\accounts-receivable\set-up-interest-rates-interest-code.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-receivable/set-up-interest-rates-interest-code.md)
@@ -40581,6 +40903,8 @@
 * Handback File: [set-up-interest-rates-interest-code.d9541058f231d2d5e016ad4017e7e1ef2db18ff5.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-interest-rates-interest-code.d9541058f231d2d5e016ad4017e7e1ef2db18ff5.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [set-up-interest-rates-interest-code.d9541058f231d2d5e016ad4017e7e1ef2db18ff5.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-interest-rates-interest-code.d9541058f231d2d5e016ad4017e7e1ef2db18ff5.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='24c823d9d8551084243b2d057feb639caa72aec22634'></a> Source: [financials\accounts-receivable\set-up-process-recurring-invoices.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-receivable/set-up-process-recurring-invoices.md)
@@ -40595,6 +40919,8 @@
 * Handback File: [set-up-process-recurring-invoices.5c754354a623fd897306981e8e2692d70e5db38c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-process-recurring-invoices.5c754354a623fd897306981e8e2692d70e5db38c.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [set-up-process-recurring-invoices.5c754354a623fd897306981e8e2692d70e5db38c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-process-recurring-invoices.5c754354a623fd897306981e8e2692d70e5db38c.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='86c69a0112c3ebec039310ed1a332d00d84db9762638'></a> Source: [financials\accounts-receivable\waive-reinstate-reverse-interest-fees.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/accounts-receivable/waive-reinstate-reverse-interest-fees.md)
@@ -40609,6 +40935,8 @@
 * Handback File: [waive-reinstate-reverse-interest-fees.f46dae48a1b915df97f2dbe0d9362503a3e4b83d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/waive-reinstate-reverse-interest-fees.f46dae48a1b915df97f2dbe0d9362503a3e4b83d.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [waive-reinstate-reverse-interest-fees.f46dae48a1b915df97f2dbe0d9362503a3e4b83d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/waive-reinstate-reverse-interest-fees.f46dae48a1b915df97f2dbe0d9362503a3e4b83d.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='d1b02507beef735b0f91d8ca490fd0949e761c162639'></a> Source: [financials\budgeting\activate-financial-dimensions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/budgeting/activate-financial-dimensions.md)
@@ -40637,6 +40965,8 @@
 * Handback File: [basic-budgeting-overview-configuration.b85ab4d33ec417fb9c2c5496eeafea47a150d2ae.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/basic-budgeting-overview-configuration.b85ab4d33ec417fb9c2c5496eeafea47a150d2ae.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [basic-budgeting-overview-configuration.b85ab4d33ec417fb9c2c5496eeafea47a150d2ae.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/basic-budgeting-overview-configuration.b85ab4d33ec417fb9c2c5496eeafea47a150d2ae.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='10aa4abbd8c30276b7a4df764c9fa8415a05b42e2641'></a> Source: [financials\budgeting\budget-control-overview-configuration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/budgeting/budget-control-overview-configuration.md)
@@ -40651,6 +40981,8 @@
 * Handback File: [budget-control-overview-configuration.cd9bb4fe68c3792000a12eeb5db164ef005db005.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/budget-control-overview-configuration.cd9bb4fe68c3792000a12eeb5db164ef005db005.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [budget-control-overview-configuration.cd9bb4fe68c3792000a12eeb5db164ef005db005.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/budget-control-overview-configuration.cd9bb4fe68c3792000a12eeb5db164ef005db005.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='234d6085bc7bf60162f63ed5f591ee182676d3222648'></a> Source: [financials\budgeting\budgeting-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/budgeting/budgeting-overview.md)
@@ -40665,6 +40997,8 @@
 * Handback File: [budgeting-overview.f6b74e5392d859f959fa26bd2df6437d02d5378a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/budgeting-overview.f6b74e5392d859f959fa26bd2df6437d02d5378a.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [budgeting-overview.f6b74e5392d859f959fa26bd2df6437d02d5378a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/budgeting-overview.f6b74e5392d859f959fa26bd2df6437d02d5378a.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='873ba2361037dade98d5b96f370731d4bbd08f2c2642'></a> Source: [financials\budgeting\budget-plan.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/budgeting/budget-plan.md)
@@ -40679,6 +41013,8 @@
 * Handback File: [budget-plan.a4cf6b97cb06e44f0e17eb6fed2c80bb7581b8c5.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/budget-plan.a4cf6b97cb06e44f0e17eb6fed2c80bb7581b8c5.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [budget-plan.a4cf6b97cb06e44f0e17eb6fed2c80bb7581b8c5.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/budget-plan.a4cf6b97cb06e44f0e17eb6fed2c80bb7581b8c5.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='c89f58fe8eded992c488097b5999584eaf3a957e2643'></a> Source: [financials\budgeting\budget-planning-data-allocation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/budgeting/budget-planning-data-allocation.md)
@@ -40693,6 +41029,8 @@
 * Handback File: [budget-planning-data-allocation.b5e5290663f4d8db2f20a245096c554f1ef2466b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/budget-planning-data-allocation.b5e5290663f4d8db2f20a245096c554f1ef2466b.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [budget-planning-data-allocation.b5e5290663f4d8db2f20a245096c554f1ef2466b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/budget-planning-data-allocation.b5e5290663f4d8db2f20a245096c554f1ef2466b.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='7e43d64db1e2dac4aec3a26554550aa9fdf4fae62644'></a> Source: [financials\budgeting\budget-planning-excel-templates.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/budgeting/budget-planning-excel-templates.md)
@@ -40707,6 +41045,8 @@
 * Handback File: [budget-planning-excel-templates.9cb20263dd7fbe98aef6dfb5f358f9d46d9b5850.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/budget-planning-excel-templates.9cb20263dd7fbe98aef6dfb5f358f9d46d9b5850.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [budget-planning-excel-templates.9cb20263dd7fbe98aef6dfb5f358f9d46d9b5850.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/budget-planning-excel-templates.9cb20263dd7fbe98aef6dfb5f358f9d46d9b5850.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='cc3874074cdacfdf0734b045b9a28f6900e0226b2645'></a> Source: [financials\budgeting\budget-planning-integration-other-modules.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/budgeting/budget-planning-integration-other-modules.md)
@@ -40721,6 +41061,8 @@
 * Handback File: [budget-planning-integration-other-modules.d85828feee7c0ce03fa5516d291170f2cc54326b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/budget-planning-integration-other-modules.d85828feee7c0ce03fa5516d291170f2cc54326b.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [budget-planning-integration-other-modules.d85828feee7c0ce03fa5516d291170f2cc54326b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/budget-planning-integration-other-modules.d85828feee7c0ce03fa5516d291170f2cc54326b.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='2a60970e6fc31de5f5c38ba1cbb6a9101b45de992646'></a> Source: [financials\budgeting\budget-planning-justification-docs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/budgeting/budget-planning-justification-docs.md)
@@ -40735,6 +41077,8 @@
 * Handback File: [budget-planning-justification-docs.345163806a6f37684cc2a6877876994d918535b2.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/budget-planning-justification-docs.345163806a6f37684cc2a6877876994d918535b2.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [budget-planning-justification-docs.345163806a6f37684cc2a6877876994d918535b2.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/budget-planning-justification-docs.345163806a6f37684cc2a6877876994d918535b2.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='9a282d707a66b16b42abff7c868606944b567bcb2647'></a> Source: [financials\budgeting\budget-planning-overview-configuration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/budgeting/budget-planning-overview-configuration.md)
@@ -40749,6 +41093,8 @@
 * Handback File: [budget-planning-overview-configuration.edfaaaab5e8af53dfc029315a9eb95f9202b152a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/budget-planning-overview-configuration.edfaaaab5e8af53dfc029315a9eb95f9202b152a.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [budget-planning-overview-configuration.edfaaaab5e8af53dfc029315a9eb95f9202b152a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/budget-planning-overview-configuration.edfaaaab5e8af53dfc029315a9eb95f9202b152a.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='3500bd9add35996ac495adcef113e47d40ea213a2649'></a> Source: [financials\budgeting\consolidation-account-groups-consolidation-accounts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/budgeting/consolidation-account-groups-consolidation-accounts.md)
@@ -40763,6 +41109,8 @@
 * Handback File: [consolidation-account-groups-consolidation-accounts.9ecf009a0e9607c15043bf545621baad7cb687a1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/consolidation-account-groups-consolidation-accounts.9ecf009a0e9607c15043bf545621baad7cb687a1.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [consolidation-account-groups-consolidation-accounts.9ecf009a0e9607c15043bf545621baad7cb687a1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/consolidation-account-groups-consolidation-accounts.9ecf009a0e9607c15043bf545621baad7cb687a1.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='5c04d0b211b7107d36839b2f6bf9e9980e91b6a92650'></a> Source: [financials\budgeting\consolidation-elimination-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/budgeting/consolidation-elimination-overview.md)
@@ -40777,6 +41125,8 @@
 * Handback File: [consolidation-elimination-overview.960ece579c810800c3f76d61a17f2bdd56ae7804.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/consolidation-elimination-overview.960ece579c810800c3f76d61a17f2bdd56ae7804.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [consolidation-elimination-overview.960ece579c810800c3f76d61a17f2bdd56ae7804.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/consolidation-elimination-overview.960ece579c810800c3f76d61a17f2bdd56ae7804.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='cf53b1cae070f396134d8d5ba806db977069cb3b2651'></a> Source: [financials\budgeting\create-budget-transaction-accounts-total-accounts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/budgeting/create-budget-transaction-accounts-total-accounts.md)
@@ -40791,6 +41141,8 @@
 * Handback File: [create-budget-transaction-accounts-total-accounts.04b7e07aac9c32ee7b3f77913ba42a7d0f1c09a9.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/create-budget-transaction-accounts-total-accounts.04b7e07aac9c32ee7b3f77913ba42a7d0f1c09a9.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [create-budget-transaction-accounts-total-accounts.04b7e07aac9c32ee7b3f77913ba42a7d0f1c09a9.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/create-budget-transaction-accounts-total-accounts.04b7e07aac9c32ee7b3f77913ba42a7d0f1c09a9.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='4fd184cd293a3eb86a9331637dd811641674fe5b2652'></a> Source: [financials\budgeting\data-entities-beginning-balances.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/budgeting/data-entities-beginning-balances.md)
@@ -40833,6 +41185,8 @@
 * Handback File: [fiscal-calendars-fiscal-years-periods.e47b87956673ce79e303102fcf8010664e1374dd.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/fiscal-calendars-fiscal-years-periods.e47b87956673ce79e303102fcf8010664e1374dd.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [fiscal-calendars-fiscal-years-periods.e47b87956673ce79e303102fcf8010664e1374dd.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/fiscal-calendars-fiscal-years-periods.e47b87956673ce79e303102fcf8010664e1374dd.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='66b8ba8b43863ede3aa84c941598db6af369806e2655'></a> Source: [financials\budgeting\media\actwiki2.png](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/financials/budgeting/media/actwiki2.png)
@@ -42555,6 +42909,8 @@
 * Handback File: [position-budgeting-set-up-issues.cf2c4df8294e194e3ed1b1e2abe94279bab0fcb6.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/position-budgeting-set-up-issues.cf2c4df8294e194e3ed1b1e2abe94279bab0fcb6.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [position-budgeting-set-up-issues.cf2c4df8294e194e3ed1b1e2abe94279bab0fcb6.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/position-budgeting-set-up-issues.cf2c4df8294e194e3ed1b1e2abe94279bab0fcb6.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='a47678a2232574cf5f03c0bb327df363adec48512778'></a> Source: [financials\budgeting\position-forecasting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/budgeting/position-forecasting.md)
@@ -42569,6 +42925,8 @@
 * Handback File: [position-forecasting.1903b47cc50122ffd9f8abda090cf88874e2fe39.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/position-forecasting.1903b47cc50122ffd9f8abda090cf88874e2fe39.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [position-forecasting.1903b47cc50122ffd9f8abda090cf88874e2fe39.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/position-forecasting.1903b47cc50122ffd9f8abda090cf88874e2fe39.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='297d5110e4342244523ba4e5d1be113d97897c6b2779'></a> Source: [financials\cash-bank-management\advanced-bank-reconciliation-mt940-data-entity-upgrade-steps.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/cash-bank-management/advanced-bank-reconciliation-mt940-data-entity-upgrade-steps.md)
@@ -42583,6 +42941,8 @@
 * Handback File: [advanced-bank-reconciliation-mt940-data-entity-upgrade-steps.81f90a31c49035c7fec89db979974dae7a4269e6.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/advanced-bank-reconciliation-mt940-data-entity-upgrade-steps.81f90a31c49035c7fec89db979974dae7a4269e6.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [advanced-bank-reconciliation-mt940-data-entity-upgrade-steps.81f90a31c49035c7fec89db979974dae7a4269e6.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/advanced-bank-reconciliation-mt940-data-entity-upgrade-steps.81f90a31c49035c7fec89db979974dae7a4269e6.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='26b626af83b7fc1ed174a3db271b1a308bf92cbe2780'></a> Source: [financials\cash-bank-management\advanced-bank-reconciliation-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/cash-bank-management/advanced-bank-reconciliation-overview.md)
@@ -42597,6 +42957,8 @@
 * Handback File: [advanced-bank-reconciliation-overview.8b0d5cf75651361bb354b1632380db311351d7bd.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/advanced-bank-reconciliation-overview.8b0d5cf75651361bb354b1632380db311351d7bd.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [advanced-bank-reconciliation-overview.8b0d5cf75651361bb354b1632380db311351d7bd.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/advanced-bank-reconciliation-overview.8b0d5cf75651361bb354b1632380db311351d7bd.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='f1d5a0ebf32d770ba1fc393e9dc374f1d02bff8d2781'></a> Source: [financials\cash-bank-management\automatic-settlement-prioritization.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/cash-bank-management/automatic-settlement-prioritization.md)
@@ -42611,6 +42973,8 @@
 * Handback File: [automatic-settlement-prioritization.ca397d065dda1c2bc9fa28b0e9a6216d87a984e1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/automatic-settlement-prioritization.ca397d065dda1c2bc9fa28b0e9a6216d87a984e1.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [automatic-settlement-prioritization.ca397d065dda1c2bc9fa28b0e9a6216d87a984e1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/automatic-settlement-prioritization.ca397d065dda1c2bc9fa28b0e9a6216d87a984e1.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='d6e321bee6aad874204c717ec3e13d83cb0307c92782'></a> Source: [financials\cash-bank-management\bank-reconciliation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/financials/cash-bank-management/bank-reconciliation.md)
@@ -42639,6 +43003,8 @@
 * Handback File: [cash-discount-handling-overpayments.5434edeea32c525bfad4aa0b8718cb48dcc73fd1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/cash-discount-handling-overpayments.5434edeea32c525bfad4aa0b8718cb48dcc73fd1.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [cash-discount-handling-overpayments.5434edeea32c525bfad4aa0b8718cb48dcc73fd1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/cash-discount-handling-overpayments.5434edeea32c525bfad4aa0b8718cb48dcc73fd1.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='6b7e15d9ebe1c13181948d782bbf30f776e3ea482784'></a> Source: [financials\cash-bank-management\configure-advanced-bank-reconciliation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/cash-bank-management/configure-advanced-bank-reconciliation.md)
@@ -42653,6 +43019,8 @@
 * Handback File: [configure-advanced-bank-reconciliation.3329e0daee1f30118538712d4423d90f1e1f1932.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-advanced-bank-reconciliation.3329e0daee1f30118538712d4423d90f1e1f1932.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [configure-advanced-bank-reconciliation.3329e0daee1f30118538712d4423d90f1e1f1932.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-advanced-bank-reconciliation.3329e0daee1f30118538712d4423d90f1e1f1932.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='6656cfa6ea2d301e4522498c94ccfaa1cc0f3f312785'></a> Source: [financials\cash-bank-management\data-entities-bank.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/cash-bank-management/data-entities-bank.md)
@@ -42681,6 +43049,8 @@
 * Handback File: [import-bank-statement-file-failed-incorrect-results.f769d940ed9170076410b1e5d5115d5fc6b35ca4.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/import-bank-statement-file-failed-incorrect-results.f769d940ed9170076410b1e5d5115d5fc6b35ca4.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [import-bank-statement-file-failed-incorrect-results.f769d940ed9170076410b1e5d5115d5fc6b35ca4.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/import-bank-statement-file-failed-incorrect-results.f769d940ed9170076410b1e5d5115d5fc6b35ca4.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='905b691143659503e70910715359464bea5c91d92788'></a> Source: [financials\cash-bank-management\letters-of-credit.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/cash-bank-management/letters-of-credit.md)
@@ -42695,6 +43065,8 @@
 * Handback File: [letters-of-credit.3acf69d45fe39745106a0ee897c29f8c6363d1ca.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/letters-of-credit.3acf69d45fe39745106a0ee897c29f8c6363d1ca.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [letters-of-credit.3acf69d45fe39745106a0ee897c29f8c6363d1ca.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/letters-of-credit.3acf69d45fe39745106a0ee897c29f8c6363d1ca.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='4a2abe382f14b1db7d44a39122637416dc42c5c32787'></a> Source: [financials\cash-bank-management\letters-of-credit-import-collections.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/cash-bank-management/letters-of-credit-import-collections.md)
@@ -42709,6 +43081,8 @@
 * Handback File: [letters-of-credit-import-collections.8643abf173861804ae0be0aab99f1f7b1caee457.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/letters-of-credit-import-collections.8643abf173861804ae0be0aab99f1f7b1caee457.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [letters-of-credit-import-collections.8643abf173861804ae0be0aab99f1f7b1caee457.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/letters-of-credit-import-collections.8643abf173861804ae0be0aab99f1f7b1caee457.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='b1c8ca313310de1a6fb039884b1c661f8ab389342789'></a> Source: [financials\cash-bank-management\letters-of-guarantee.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/cash-bank-management/letters-of-guarantee.md)
@@ -42723,6 +43097,8 @@
 * Handback File: [letters-of-guarantee.3c8b117ec2ffb6294ff8bc54879744d40ce08e44.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/letters-of-guarantee.3c8b117ec2ffb6294ff8bc54879744d40ce08e44.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [letters-of-guarantee.3c8b117ec2ffb6294ff8bc54879744d40ce08e44.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/letters-of-guarantee.3c8b117ec2ffb6294ff8bc54879744d40ce08e44.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='5b4952148935799f9e8944546df953021afa5b202790'></a> Source: [financials\cash-bank-management\media\bai2statementexample.pdf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/financials/cash-bank-management/media/bai2statementexample.pdf)
@@ -42821,6 +43197,8 @@
 * Handback File: [postdated-checks.38998759be079f019e174eb43b41f7a8b4275abf.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/postdated-checks.38998759be079f019e174eb43b41f7a8b4275abf.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [postdated-checks.38998759be079f019e174eb43b41f7a8b4275abf.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/postdated-checks.38998759be079f019e174eb43b41f7a8b4275abf.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='6168868e5252523273f0f5266ac12a858ac102e22797'></a> Source: [financials\cash-bank-management\prepayments-invoices-vs-prepayments.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/cash-bank-management/prepayments-invoices-vs-prepayments.md)
@@ -42835,6 +43213,8 @@
 * Handback File: [prepayments-invoices-vs-prepayments.e97d0438bbdf184aae33c99324a7aa68e2521708.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/prepayments-invoices-vs-prepayments.e97d0438bbdf184aae33c99324a7aa68e2521708.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [prepayments-invoices-vs-prepayments.e97d0438bbdf184aae33c99324a7aa68e2521708.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/prepayments-invoices-vs-prepayments.e97d0438bbdf184aae33c99324a7aa68e2521708.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='f073208aff21ca07cc2bc7f2f9795b1deef63a702798'></a> Source: [financials\cash-bank-management\reconcile-bank-statements-advanced-bank-reconciliation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/cash-bank-management/reconcile-bank-statements-advanced-bank-reconciliation.md)
@@ -42849,6 +43229,8 @@
 * Handback File: [reconcile-bank-statements-advanced-bank-reconciliation.9c166e6edbd011f94f951d228bd6bdb2c4f221da.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/reconcile-bank-statements-advanced-bank-reconciliation.9c166e6edbd011f94f951d228bd6bdb2c4f221da.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [reconcile-bank-statements-advanced-bank-reconciliation.9c166e6edbd011f94f951d228bd6bdb2c4f221da.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/reconcile-bank-statements-advanced-bank-reconciliation.9c166e6edbd011f94f951d228bd6bdb2c4f221da.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='89966a71a24d136acd75b21a662f6f962485aa5a2801'></a> Source: [financials\cash-bank-management\settlement-overview-centralized-payments.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/cash-bank-management/settlement-overview-centralized-payments.md)
@@ -42863,6 +43245,8 @@
 * Handback File: [settlement-overview-centralized-payments.772688e2f960cec3c2ee1c92067512b12ea88e33.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/settlement-overview-centralized-payments.772688e2f960cec3c2ee1c92067512b12ea88e33.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [settlement-overview-centralized-payments.772688e2f960cec3c2ee1c92067512b12ea88e33.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/settlement-overview-centralized-payments.772688e2f960cec3c2ee1c92067512b12ea88e33.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='86f341a60bffebbf48e6a8eb3586ff7edf349f412799'></a> Source: [financials\cash-bank-management\set-up-advanced-bank-reconciliation-import-process.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/cash-bank-management/set-up-advanced-bank-reconciliation-import-process.md)
@@ -42877,6 +43261,8 @@
 * Handback File: [set-up-advanced-bank-reconciliation-import-process.3415bf1e98c9cc5b38aad985d1db035bb93f8ece.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-advanced-bank-reconciliation-import-process.3415bf1e98c9cc5b38aad985d1db035bb93f8ece.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [set-up-advanced-bank-reconciliation-import-process.3415bf1e98c9cc5b38aad985d1db035bb93f8ece.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-advanced-bank-reconciliation-import-process.3415bf1e98c9cc5b38aad985d1db035bb93f8ece.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='6a9fa4e110c73cbf4397adc943f74606f144c6422800'></a> Source: [financials\cash-bank-management\set-up-bank-reconciliation-matching-rules.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/cash-bank-management/set-up-bank-reconciliation-matching-rules.md)
@@ -42891,6 +43277,8 @@
 * Handback File: [set-up-bank-reconciliation-matching-rules.b90657e2c02ecda8bd171fc084ef52072faa2c99.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-bank-reconciliation-matching-rules.b90657e2c02ecda8bd171fc084ef52072faa2c99.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [set-up-bank-reconciliation-matching-rules.b90657e2c02ecda8bd171fc084ef52072faa2c99.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-bank-reconciliation-matching-rules.b90657e2c02ecda8bd171fc084ef52072faa2c99.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='0b7ad542a39cc63eea7e2479bfbf5a63cb9c216f2802'></a> Source: [financials\cash-bank-management\upgrade-bank-journal-composite-entity.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/cash-bank-management/upgrade-bank-journal-composite-entity.md)
@@ -42905,6 +43293,8 @@
 * Handback File: [upgrade-bank-journal-composite-entity.38d1486d69980586b0b03662a5bbc8b2e38087e6.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/upgrade-bank-journal-composite-entity.38d1486d69980586b0b03662a5bbc8b2e38087e6.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [upgrade-bank-journal-composite-entity.38d1486d69980586b0b03662a5bbc8b2e38087e6.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/upgrade-bank-journal-composite-entity.38d1486d69980586b0b03662a5bbc8b2e38087e6.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='ad981fd0acdfd1f74db53bbd0c7ce4b4abed9df22803'></a> Source: [financials\cost-accounting\cost-accounting-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/cost-accounting/cost-accounting-home-page.md)
@@ -42919,6 +43309,8 @@
 * Handback File: [cost-accounting-home-page.dfa91efbc95341c317d3e7a9b1111abe6829b94c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/cost-accounting-home-page.dfa91efbc95341c317d3e7a9b1111abe6829b94c.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [cost-accounting-home-page.dfa91efbc95341c317d3e7a9b1111abe6829b94c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/cost-accounting-home-page.dfa91efbc95341c317d3e7a9b1111abe6829b94c.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='e5660e90321e6e8e9fb8b24644c691e8c812c8ad2804'></a> Source: [financials\cost-accounting\cost-elements.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/cost-accounting/cost-elements.md)
@@ -42933,6 +43325,8 @@
 * Handback File: [cost-elements.a2e3882fa75db3d6c8577930894008fa4d361746.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/cost-elements.a2e3882fa75db3d6c8577930894008fa4d361746.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [cost-elements.a2e3882fa75db3d6c8577930894008fa4d361746.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/cost-elements.a2e3882fa75db3d6c8577930894008fa4d361746.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='9646c8a133e3ac7420f6ef36acb320a319a14eeb2805'></a> Source: [financials\cost-accounting\cost-objects.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/cost-accounting/cost-objects.md)
@@ -42947,6 +43341,8 @@
 * Handback File: [cost-objects.fd8190dfe49f4f39b67990cb98118d29e40129cf.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/cost-objects.fd8190dfe49f4f39b67990cb98118d29e40129cf.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [cost-objects.fd8190dfe49f4f39b67990cb98118d29e40129cf.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/cost-objects.fd8190dfe49f4f39b67990cb98118d29e40129cf.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='05c4879a72b25f2022adbf675cd7702049b2865c2806'></a> Source: [financials\cost-accounting\map-cost-elements-dimension-members.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/cost-accounting/map-cost-elements-dimension-members.md)
@@ -42961,6 +43357,8 @@
 * Handback File: [map-cost-elements-dimension-members.456af7ff50435153bc1df2a25de6a00850d750d7.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/map-cost-elements-dimension-members.456af7ff50435153bc1df2a25de6a00850d750d7.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [map-cost-elements-dimension-members.456af7ff50435153bc1df2a25de6a00850d750d7.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/map-cost-elements-dimension-members.456af7ff50435153bc1df2a25de6a00850d750d7.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='2a9e155dc68694fe0282d683a61c4e6867870cda2807'></a> Source: [financials\cost-accounting\media\cost-element-dimensions.png](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/financials/cost-accounting/media/cost-element-dimensions.png)
@@ -43031,6 +43429,8 @@
 * Handback File: [dynamics-365-for-operations-mobile-invoice-approvals.7687d51bd2f3c1c34ebafd06a5e27b9734b9b098.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/dynamics-365-for-operations-mobile-invoice-approvals.7687d51bd2f3c1c34ebafd06a5e27b9734b9b098.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [dynamics-365-for-operations-mobile-invoice-approvals.7687d51bd2f3c1c34ebafd06a5e27b9734b9b098.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/dynamics-365-for-operations-mobile-invoice-approvals.7687d51bd2f3c1c34ebafd06a5e27b9734b9b098.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='74ae9dded98d1644518026237d06c7d2de7d451b2812'></a> Source: [financials\expense-management\expense-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/expense-management/expense-management.md)
@@ -43045,6 +43445,8 @@
 * Handback File: [expense-management.042ba373a8ea8817dc9a9166f7dc86d49c0c3cff.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/expense-management.042ba373a8ea8817dc9a9166f7dc86d49c0c3cff.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [expense-management.042ba373a8ea8817dc9a9166f7dc86d49c0c3cff.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/expense-management.042ba373a8ea8817dc9a9166f7dc86d49c0c3cff.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='c7517f60469506190ab8038b22e5ec2879bad9c52813'></a> Source: [financials\fixed-assets\125-percent-reducing-balance-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/fixed-assets/125-percent-reducing-balance-depreciation.md)
@@ -43059,6 +43461,8 @@
 * Handback File: [125-percent-reducing-balance-depreciation.f2923d2f20e80e01c50b878e0504ce3db35a2ff0.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/125-percent-reducing-balance-depreciation.f2923d2f20e80e01c50b878e0504ce3db35a2ff0.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [125-percent-reducing-balance-depreciation.f2923d2f20e80e01c50b878e0504ce3db35a2ff0.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/125-percent-reducing-balance-depreciation.f2923d2f20e80e01c50b878e0504ce3db35a2ff0.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='e0837605282f283c25a3efeaa39c8b9457e970222814'></a> Source: [financials\fixed-assets\150-percent-reducing-balance-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/fixed-assets/150-percent-reducing-balance-depreciation.md)
@@ -43073,6 +43477,8 @@
 * Handback File: [150-percent-reducing-balance-depreciation.cad059fa33adcc13f8de41959a5cecfa373a7d0d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/150-percent-reducing-balance-depreciation.cad059fa33adcc13f8de41959a5cecfa373a7d0d.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [150-percent-reducing-balance-depreciation.cad059fa33adcc13f8de41959a5cecfa373a7d0d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/150-percent-reducing-balance-depreciation.cad059fa33adcc13f8de41959a5cecfa373a7d0d.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='0a6e4fd1ad1fdd60399e73a38a931635ef1895152815'></a> Source: [financials\fixed-assets\175-percent-reducing-balance-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/fixed-assets/175-percent-reducing-balance-depreciation.md)
@@ -43087,6 +43493,8 @@
 * Handback File: [175-percent-reducing-balance-depreciation.4159b5ea508458b0a16bf03122e9fa9491546088.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/175-percent-reducing-balance-depreciation.4159b5ea508458b0a16bf03122e9fa9491546088.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [175-percent-reducing-balance-depreciation.4159b5ea508458b0a16bf03122e9fa9491546088.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/175-percent-reducing-balance-depreciation.4159b5ea508458b0a16bf03122e9fa9491546088.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='fcdad9a1398420ced3ca1ed8b74fc320a6a7397e2816'></a> Source: [financials\fixed-assets\200-percent-reducing-balance-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/fixed-assets/200-percent-reducing-balance-depreciation.md)
@@ -43101,6 +43509,8 @@
 * Handback File: [200-percent-reducing-balance-depreciation.f0892b1d49ecabf5e77307a2514d5e46c3c45215.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/200-percent-reducing-balance-depreciation.f0892b1d49ecabf5e77307a2514d5e46c3c45215.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [200-percent-reducing-balance-depreciation.f0892b1d49ecabf5e77307a2514d5e46c3c45215.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/200-percent-reducing-balance-depreciation.f0892b1d49ecabf5e77307a2514d5e46c3c45215.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='112bb8a346f30f67bb245976faecd4842df7c1922817'></a> Source: [financials\fixed-assets\acquire-assets-procurement.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/fixed-assets/acquire-assets-procurement.md)
@@ -43115,6 +43525,8 @@
 * Handback File: [acquire-assets-procurement.65689fda0db556addf17b45d48904f22e1de72e3.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/acquire-assets-procurement.65689fda0db556addf17b45d48904f22e1de72e3.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [acquire-assets-procurement.65689fda0db556addf17b45d48904f22e1de72e3.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/acquire-assets-procurement.65689fda0db556addf17b45d48904f22e1de72e3.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='cba8b94b99cc67f7700926e62e72e58d809e20c32818'></a> Source: [financials\fixed-assets\bonus-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/fixed-assets/bonus-depreciation.md)
@@ -43129,6 +43541,8 @@
 * Handback File: [bonus-depreciation.815ee42559c1dbf3eeb2de21aee241c5467885c0.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/bonus-depreciation.815ee42559c1dbf3eeb2de21aee241c5467885c0.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [bonus-depreciation.815ee42559c1dbf3eeb2de21aee241c5467885c0.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/bonus-depreciation.815ee42559c1dbf3eeb2de21aee241c5467885c0.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='698df704e4a80226b5deca6b24bcdb0c1fa623652819'></a> Source: [financials\fixed-assets\consumption-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/fixed-assets/consumption-depreciation.md)
@@ -43143,6 +43557,8 @@
 * Handback File: [consumption-depreciation.a44f2cb3f6f3f778f8012d4172f1feae6d44f6a0.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/consumption-depreciation.a44f2cb3f6f3f778f8012d4172f1feae6d44f6a0.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [consumption-depreciation.a44f2cb3f6f3f778f8012d4172f1feae6d44f6a0.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/consumption-depreciation.a44f2cb3f6f3f778f8012d4172f1feae6d44f6a0.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='e678ab6349f951db46e2f73a9809423c534b41462820'></a> Source: [financials\fixed-assets\depreciation-book-upgrade-considerations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/fixed-assets/depreciation-book-upgrade-considerations.md)
@@ -43157,6 +43573,8 @@
 * Handback File: [depreciation-book-upgrade-considerations.17c1e3dbca414bca48d46ac1ce4557a08b6fdf24.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/depreciation-book-upgrade-considerations.17c1e3dbca414bca48d46ac1ce4557a08b6fdf24.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [depreciation-book-upgrade-considerations.17c1e3dbca414bca48d46ac1ce4557a08b6fdf24.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/depreciation-book-upgrade-considerations.17c1e3dbca414bca48d46ac1ce4557a08b6fdf24.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='53706287c1aefd12cbdda59c9b4d456bb9ec9a262821'></a> Source: [financials\fixed-assets\depreciation-effects-reversals.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/fixed-assets/depreciation-effects-reversals.md)
@@ -43171,6 +43589,8 @@
 * Handback File: [depreciation-effects-reversals.b27f2edb6d582625613c3d7878e804aef2e2c4c2.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/depreciation-effects-reversals.b27f2edb6d582625613c3d7878e804aef2e2c4c2.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [depreciation-effects-reversals.b27f2edb6d582625613c3d7878e804aef2e2c4c2.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/depreciation-effects-reversals.b27f2edb6d582625613c3d7878e804aef2e2c4c2.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='98f101a2a62cf4558eac7a6c16e34d75a2fcb2ab2822'></a> Source: [financials\fixed-assets\depreciation-methods-conventions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/fixed-assets/depreciation-methods-conventions.md)
@@ -43185,6 +43605,8 @@
 * Handback File: [depreciation-methods-conventions.8b2c25afa63ab3d84ee5dcabeae13c96e2d8cc13.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/depreciation-methods-conventions.8b2c25afa63ab3d84ee5dcabeae13c96e2d8cc13.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [depreciation-methods-conventions.8b2c25afa63ab3d84ee5dcabeae13c96e2d8cc13.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/depreciation-methods-conventions.8b2c25afa63ab3d84ee5dcabeae13c96e2d8cc13.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='4a78161168208fe23736aa91cfa5e5cb3f6742fe2823'></a> Source: [financials\fixed-assets\derived-books.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/fixed-assets/derived-books.md)
@@ -43199,6 +43621,8 @@
 * Handback File: [derived-books.cd609fcf0e9e2c0e967eb0e6a8914aa720c5198a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/derived-books.cd609fcf0e9e2c0e967eb0e6a8914aa720c5198a.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [derived-books.cd609fcf0e9e2c0e967eb0e6a8914aa720c5198a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/derived-books.cd609fcf0e9e2c0e967eb0e6a8914aa720c5198a.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='3a7a92c7c8d743495232206bd9d0457108c80ca52824'></a> Source: [financials\fixed-assets\enter-fixed-asset-transactions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/fixed-assets/enter-fixed-asset-transactions.md)
@@ -43213,6 +43637,8 @@
 * Handback File: [enter-fixed-asset-transactions.46424509190f189d895c8781b4dd6599cbdc7639.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/enter-fixed-asset-transactions.46424509190f189d895c8781b4dd6599cbdc7639.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [enter-fixed-asset-transactions.46424509190f189d895c8781b4dd6599cbdc7639.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/enter-fixed-asset-transactions.46424509190f189d895c8781b4dd6599cbdc7639.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='854e287a7727fd9f0a3897b6802c6296ef8362c52825'></a> Source: [financials\fixed-assets\factor-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/fixed-assets/factor-depreciation.md)
@@ -43227,6 +43653,8 @@
 * Handback File: [factor-depreciation.3a4827436381fd558e9330632a1f16c9d15a1262.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/factor-depreciation.3a4827436381fd558e9330632a1f16c9d15a1262.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [factor-depreciation.3a4827436381fd558e9330632a1f16c9d15a1262.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/factor-depreciation.3a4827436381fd558e9330632a1f16c9d15a1262.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='1d9a9aac87b61ece7860d2b7a8f9771e2ab30f1a2826'></a> Source: [financials\fixed-assets\fixed-asset-acquisition-posting-accounts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/fixed-assets/fixed-asset-acquisition-posting-accounts.md)
@@ -43241,6 +43669,8 @@
 * Handback File: [fixed-asset-acquisition-posting-accounts.88389e88e47b4bc3891325047ff385cfbf387c7a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/fixed-asset-acquisition-posting-accounts.88389e88e47b4bc3891325047ff385cfbf387c7a.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [fixed-asset-acquisition-posting-accounts.88389e88e47b4bc3891325047ff385cfbf387c7a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/fixed-asset-acquisition-posting-accounts.88389e88e47b4bc3891325047ff385cfbf387c7a.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='3c0a80f9530519e21fb3cef5d6926d38ab2ef2772827'></a> Source: [financials\fixed-assets\fixed-asset-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/fixed-assets/fixed-asset-depreciation.md)
@@ -43255,6 +43685,8 @@
 * Handback File: [fixed-asset-depreciation.8900e04704a2a1208f421abb794c22c13a26eb6e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/fixed-asset-depreciation.8900e04704a2a1208f421abb794c22c13a26eb6e.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [fixed-asset-depreciation.8900e04704a2a1208f421abb794c22c13a26eb6e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/fixed-asset-depreciation.8900e04704a2a1208f421abb794c22c13a26eb6e.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='d0fbe400b900e22245a4265ecd1177c0c930f7072828'></a> Source: [financials\fixed-assets\fixed-asset-disposal-posting-accounts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/fixed-assets/fixed-asset-disposal-posting-accounts.md)
@@ -43269,6 +43701,8 @@
 * Handback File: [fixed-asset-disposal-posting-accounts.44590f2abd1b11ff5caba8679b1bc7f9f0b39199.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/fixed-asset-disposal-posting-accounts.44590f2abd1b11ff5caba8679b1bc7f9f0b39199.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [fixed-asset-disposal-posting-accounts.44590f2abd1b11ff5caba8679b1bc7f9f0b39199.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/fixed-asset-disposal-posting-accounts.44590f2abd1b11ff5caba8679b1bc7f9f0b39199.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='5812f2ec5214b335a365851fbe9b0226b5fc913d2829'></a> Source: [financials\fixed-assets\fixed-asset-integration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/fixed-assets/fixed-asset-integration.md)
@@ -43283,6 +43717,8 @@
 * Handback File: [fixed-asset-integration.17af65c3a8302c1bcc555b9f39bd616e3312c9f0.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/fixed-asset-integration.17af65c3a8302c1bcc555b9f39bd616e3312c9f0.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [fixed-asset-integration.17af65c3a8302c1bcc555b9f39bd616e3312c9f0.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/fixed-asset-integration.17af65c3a8302c1bcc555b9f39bd616e3312c9f0.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='bf38ae6ddad33af57992a893b87153967096f9272830'></a> Source: [financials\fixed-assets\fixed-asset-mass-update.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/fixed-assets/fixed-asset-mass-update.md)
@@ -43297,6 +43733,8 @@
 * Handback File: [fixed-asset-mass-update.ad455a4cc3296a7214d1ca9e5b8fce7d7693cca5.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/fixed-asset-mass-update.ad455a4cc3296a7214d1ca9e5b8fce7d7693cca5.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [fixed-asset-mass-update.ad455a4cc3296a7214d1ca9e5b8fce7d7693cca5.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/fixed-asset-mass-update.ad455a4cc3296a7214d1ca9e5b8fce7d7693cca5.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='8404020c5c8f9c849d9a6771d392fa0c54e2603e2832'></a> Source: [financials\fixed-assets\fixed-assets.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/fixed-assets/fixed-assets.md)
@@ -43311,6 +43749,8 @@
 * Handback File: [fixed-assets.ee7bc08533bf143bcebb40fdb9ce8c29368576bf.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/fixed-assets.ee7bc08533bf143bcebb40fdb9ce8c29368576bf.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [fixed-assets.ee7bc08533bf143bcebb40fdb9ce8c29368576bf.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/fixed-assets.ee7bc08533bf143bcebb40fdb9ce8c29368576bf.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='178c190f40e2b529a309325c4384d8c8e389a1be2831'></a> Source: [financials\fixed-assets\fixed-asset-value-model-depreciation-book-merge.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/fixed-assets/fixed-asset-value-model-depreciation-book-merge.md)
@@ -43325,6 +43765,8 @@
 * Handback File: [fixed-asset-value-model-depreciation-book-merge.92074f82d126205ae52284b0e7bad2c4c877677e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/fixed-asset-value-model-depreciation-book-merge.92074f82d126205ae52284b0e7bad2c4c877677e.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [fixed-asset-value-model-depreciation-book-merge.92074f82d126205ae52284b0e7bad2c4c877677e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/fixed-asset-value-model-depreciation-book-merge.92074f82d126205ae52284b0e7bad2c4c877677e.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='2f0b6accbff6e90ace421677526ca1459026bf5f2833'></a> Source: [financials\fixed-assets\manual-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/fixed-assets/manual-depreciation.md)
@@ -43339,6 +43781,8 @@
 * Handback File: [manual-depreciation.d8eacf270241c0df63cb01aed25a200b2b99acdb.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/manual-depreciation.d8eacf270241c0df63cb01aed25a200b2b99acdb.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [manual-depreciation.d8eacf270241c0df63cb01aed25a200b2b99acdb.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/manual-depreciation.d8eacf270241c0df63cb01aed25a200b2b99acdb.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='19e202ce8ab1ee71984cf1d35f5d9e7aa68ede142834'></a> Source: [financials\fixed-assets\media\fixed-assets.png](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/financials/fixed-assets/media/fixed-assets.png)
@@ -43381,6 +43825,8 @@
 * Handback File: [post-derived-value-models.dc21644883e465b7ae743d6fccb61baa8587f0ee.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/post-derived-value-models.dc21644883e465b7ae743d6fccb61baa8587f0ee.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [post-derived-value-models.dc21644883e465b7ae743d6fccb61baa8587f0ee.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/post-derived-value-models.dc21644883e465b7ae743d6fccb61baa8587f0ee.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='eaee3698ded11dcabbeb5974ca106ab557b8b96c2837'></a> Source: [financials\fixed-assets\post-fixed-asset-transactions-posting-layers.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/fixed-assets/post-fixed-asset-transactions-posting-layers.md)
@@ -43395,6 +43841,8 @@
 * Handback File: [post-fixed-asset-transactions-posting-layers.8bf5b1cd116bf1dee41c54160c750932825cf965.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/post-fixed-asset-transactions-posting-layers.8bf5b1cd116bf1dee41c54160c750932825cf965.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [post-fixed-asset-transactions-posting-layers.8bf5b1cd116bf1dee41c54160c750932825cf965.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/post-fixed-asset-transactions-posting-layers.8bf5b1cd116bf1dee41c54160c750932825cf965.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='c31c8e5f695a1716824f526078a3fc8c89abb3162838'></a> Source: [financials\fixed-assets\recalculate-replacement-costs-insured-values-fixed-asset-groups.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/fixed-assets/recalculate-replacement-costs-insured-values-fixed-asset-groups.md)
@@ -43409,6 +43857,8 @@
 * Handback File: [recalculate-replacement-costs-insured-values-fixed-asset-groups.fc5a1c76e548ee15820ef99d2c85e84c1b094dcc.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/recalculate-replacement-costs-insured-values-fixed-asset-groups.fc5a1c76e548ee15820ef99d2c85e84c1b094dcc.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [recalculate-replacement-costs-insured-values-fixed-asset-groups.fc5a1c76e548ee15820ef99d2c85e84c1b094dcc.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/recalculate-replacement-costs-insured-values-fixed-asset-groups.fc5a1c76e548ee15820ef99d2c85e84c1b094dcc.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='a2d4f2e6d1ea2c957a5965d3211a5425ab07dd9d2839'></a> Source: [financials\fixed-assets\reduce-balance-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/fixed-assets/reduce-balance-depreciation.md)
@@ -43423,6 +43873,8 @@
 * Handback File: [reduce-balance-depreciation.020746765f3314994cc97ff549e43ab24dabc10e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/reduce-balance-depreciation.020746765f3314994cc97ff549e43ab24dabc10e.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [reduce-balance-depreciation.020746765f3314994cc97ff549e43ab24dabc10e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/reduce-balance-depreciation.020746765f3314994cc97ff549e43ab24dabc10e.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='8fb9a95dee199cb62695f09e1ffbf0492396fd0a2840'></a> Source: [financials\fixed-assets\round-off-amount-depreciation-calculations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/fixed-assets/round-off-amount-depreciation-calculations.md)
@@ -43437,6 +43889,8 @@
 * Handback File: [round-off-amount-depreciation-calculations.84804a5a442319e8c09b07a98cdd985d03dfadff.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/round-off-amount-depreciation-calculations.84804a5a442319e8c09b07a98cdd985d03dfadff.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [round-off-amount-depreciation-calculations.84804a5a442319e8c09b07a98cdd985d03dfadff.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/round-off-amount-depreciation-calculations.84804a5a442319e8c09b07a98cdd985d03dfadff.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='1045bde4427c7d9fed28778bde50cf7d3ba2c6a12841'></a> Source: [financials\fixed-assets\set-up-fixed-assets.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/fixed-assets/set-up-fixed-assets.md)
@@ -43451,6 +43905,8 @@
 * Handback File: [set-up-fixed-assets.424293fc8e1ecb9f42d998cffd8a84e3d6114ea2.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-fixed-assets.424293fc8e1ecb9f42d998cffd8a84e3d6114ea2.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [set-up-fixed-assets.424293fc8e1ecb9f42d998cffd8a84e3d6114ea2.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-fixed-assets.424293fc8e1ecb9f42d998cffd8a84e3d6114ea2.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='02cfacc7df1b88e4bbd1c3abd226b5434422ca862842'></a> Source: [financials\fixed-assets\straight-line-life-remaining-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/fixed-assets/straight-line-life-remaining-depreciation.md)
@@ -43465,6 +43921,8 @@
 * Handback File: [straight-line-life-remaining-depreciation.14ba07d977bbdd188a11f37b48eb564713e98724.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/straight-line-life-remaining-depreciation.14ba07d977bbdd188a11f37b48eb564713e98724.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [straight-line-life-remaining-depreciation.14ba07d977bbdd188a11f37b48eb564713e98724.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/straight-line-life-remaining-depreciation.14ba07d977bbdd188a11f37b48eb564713e98724.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='9e7e8fc9213fedfb62a7653eb7ea27e2f53b65b42843'></a> Source: [financials\fixed-assets\straight-line-service-life-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/fixed-assets/straight-line-service-life-depreciation.md)
@@ -43479,6 +43937,8 @@
 * Handback File: [straight-line-service-life-depreciation.0117fa462b2d8da5c704361028f8f6b8dc2b2c36.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/straight-line-service-life-depreciation.0117fa462b2d8da5c704361028f8f6b8dc2b2c36.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [straight-line-service-life-depreciation.0117fa462b2d8da5c704361028f8f6b8dc2b2c36.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/straight-line-service-life-depreciation.0117fa462b2d8da5c704361028f8f6b8dc2b2c36.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='ad66bfa21d99cc34dd3065ccaf8569ca9c1e9d9e2844'></a> Source: [financials\general-ledger\accruals-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/accruals-overview.md)
@@ -43493,6 +43953,8 @@
 * Handback File: [accruals-overview.5cdb1e96d4f7b40224443becf0f9e6ae0a7f66cf.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/accruals-overview.5cdb1e96d4f7b40224443becf0f9e6ae0a7f66cf.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [accruals-overview.5cdb1e96d4f7b40224443becf0f9e6ae0a7f66cf.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/accruals-overview.5cdb1e96d4f7b40224443becf0f9e6ae0a7f66cf.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='d1972efd3dec7d24ca7169680610732a030350bd2845'></a> Source: [financials\general-ledger\audit-policy-rules.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/audit-policy-rules.md)
@@ -43507,6 +43969,8 @@
 * Handback File: [audit-policy-rules.f5cab025f4f9d595b9a7f7318cea6eeaa0a62cac.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/audit-policy-rules.f5cab025f4f9d595b9a7f7318cea6eeaa0a62cac.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [audit-policy-rules.f5cab025f4f9d595b9a7f7318cea6eeaa0a62cac.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/audit-policy-rules.f5cab025f4f9d595b9a7f7318cea6eeaa0a62cac.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='d3d2adfa1fc23c213865abf4f660a5af3a3f22062846'></a> Source: [financials\general-ledger\audit-policy-violations-cases.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/audit-policy-violations-cases.md)
@@ -43521,6 +43985,8 @@
 * Handback File: [audit-policy-violations-cases.cc661a313648df02c7d6693ea8085aaf1421f78c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/audit-policy-violations-cases.cc661a313648df02c7d6693ea8085aaf1421f78c.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [audit-policy-violations-cases.cc661a313648df02c7d6693ea8085aaf1421f78c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/audit-policy-violations-cases.cc661a313648df02c7d6693ea8085aaf1421f78c.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='bf310eb9b959a7aef97def3099dac64e3474b1d82847'></a> Source: [financials\general-ledger\balance-sheet-financial-reports.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/balance-sheet-financial-reports.md)
@@ -43535,6 +44001,8 @@
 * Handback File: [balance-sheet-financial-reports.9245f431bad206e77cb769397dee8334d13015dc.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/balance-sheet-financial-reports.9245f431bad206e77cb769397dee8334d13015dc.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [balance-sheet-financial-reports.9245f431bad206e77cb769397dee8334d13015dc.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/balance-sheet-financial-reports.9245f431bad206e77cb769397dee8334d13015dc.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='12721c75bc2f3ec2d66069d394d7ebc18b31dacd2848'></a> Source: [financials\general-ledger\close-general-ledger-at-period-end.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/close-general-ledger-at-period-end.md)
@@ -43549,6 +44017,8 @@
 * Handback File: [close-general-ledger-at-period-end.08f5856960d038f988ecb672bebdc330545a2673.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/close-general-ledger-at-period-end.08f5856960d038f988ecb672bebdc330545a2673.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [close-general-ledger-at-period-end.08f5856960d038f988ecb672bebdc330545a2673.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/close-general-ledger-at-period-end.08f5856960d038f988ecb672bebdc330545a2673.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='0b317971171f8039719d52917f7d5f52268396382849'></a> Source: [financials\general-ledger\convert-accounting-reporting-currencies.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/convert-accounting-reporting-currencies.md)
@@ -43563,6 +44033,8 @@
 * Handback File: [convert-accounting-reporting-currencies.d99655ba7ddf5c3b5879b3a418d28cc4f8a81517.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/convert-accounting-reporting-currencies.d99655ba7ddf5c3b5879b3a418d28cc4f8a81517.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [convert-accounting-reporting-currencies.d99655ba7ddf5c3b5879b3a418d28cc4f8a81517.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/convert-accounting-reporting-currencies.d99655ba7ddf5c3b5879b3a418d28cc4f8a81517.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='c8db360ea2b7ab3ba35ef0fb9e0d3806452023162850'></a> Source: [financials\general-ledger\currency-revaluation-consolidation-company.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/currency-revaluation-consolidation-company.md)
@@ -43577,6 +44049,8 @@
 * Handback File: [currency-revaluation-consolidation-company.c478e1259b8d687f304ab3e4d929bdac8289fbf6.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/currency-revaluation-consolidation-company.c478e1259b8d687f304ab3e4d929bdac8289fbf6.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [currency-revaluation-consolidation-company.c478e1259b8d687f304ab3e4d929bdac8289fbf6.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/currency-revaluation-consolidation-company.c478e1259b8d687f304ab3e4d929bdac8289fbf6.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='1023d94ad36c500c6ce5bc5b7228cd86a4f8a3372851'></a> Source: [financials\general-ledger\elimination-rules.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/elimination-rules.md)
@@ -43591,6 +44065,8 @@
 * Handback File: [elimination-rules.9b2dc3c1152b0a9abc3a3dcd12ffaabb8288de29.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/elimination-rules.9b2dc3c1152b0a9abc3a3dcd12ffaabb8288de29.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [elimination-rules.9b2dc3c1152b0a9abc3a3dcd12ffaabb8288de29.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/elimination-rules.9b2dc3c1152b0a9abc3a3dcd12ffaabb8288de29.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='3ecab0911ded7921a2e093a1255598e7b5aaf4442852'></a> Source: [financials\general-ledger\enter-account-dimension-combinations-segmented-entry-control.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/enter-account-dimension-combinations-segmented-entry-control.md)
@@ -43605,6 +44081,8 @@
 * Handback File: [enter-account-dimension-combinations-segmented-entry-control.f1b16c66c7fa09409e3590e9fc86b3bcda655133.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/enter-account-dimension-combinations-segmented-entry-control.f1b16c66c7fa09409e3590e9fc86b3bcda655133.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [enter-account-dimension-combinations-segmented-entry-control.f1b16c66c7fa09409e3590e9fc86b3bcda655133.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/enter-account-dimension-combinations-segmented-entry-control.f1b16c66c7fa09409e3590e9fc86b3bcda655133.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='2d152b536e0001acd6b26e962039f86deecb7aea2853'></a> Source: [financials\general-ledger\example-balanced-journals-interunit-accounting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/example-balanced-journals-interunit-accounting.md)
@@ -43619,6 +44097,8 @@
 * Handback File: [example-balanced-journals-interunit-accounting.0eddb9b9fe47c90502bbe3157c10e6788e0a7606.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/example-balanced-journals-interunit-accounting.0eddb9b9fe47c90502bbe3157c10e6788e0a7606.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [example-balanced-journals-interunit-accounting.0eddb9b9fe47c90502bbe3157c10e6788e0a7606.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/example-balanced-journals-interunit-accounting.0eddb9b9fe47c90502bbe3157c10e6788e0a7606.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='4cb43037def488cf51df4446d1975a1a544350002854'></a> Source: [financials\general-ledger\example-posting-definitions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/example-posting-definitions.md)
@@ -43633,6 +44113,8 @@
 * Handback File: [example-posting-definitions.cd704a729bb8be63bc2fe70deb51ea41cdbb06fa.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/example-posting-definitions.cd704a729bb8be63bc2fe70deb51ea41cdbb06fa.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [example-posting-definitions.cd704a729bb8be63bc2fe70deb51ea41cdbb06fa.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/example-posting-definitions.cd704a729bb8be63bc2fe70deb51ea41cdbb06fa.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='9d587abb75738f5308435f8c1c99f68ef23c280c2855'></a> Source: [financials\general-ledger\financial-dimensions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/financial-dimensions.md)
@@ -43647,6 +44129,8 @@
 * Handback File: [financial-dimensions.991b23dd799e6dfbaf93d747b1e27b876cb5e74e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/financial-dimensions.991b23dd799e6dfbaf93d747b1e27b876cb5e74e.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [financial-dimensions.991b23dd799e6dfbaf93d747b1e27b876cb5e74e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/financial-dimensions.991b23dd799e6dfbaf93d747b1e27b876cb5e74e.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='2ab60f1636e9f34bcb578225e2d3a8dc00dc185d2856'></a> Source: [financials\general-ledger\financial-management-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/financial-management-home-page.md)
@@ -43661,6 +44145,8 @@
 * Handback File: [financial-management-home-page.a9073c5923f8f6675570a66ad7513860c53dd592.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/financial-management-home-page.a9073c5923f8f6675570a66ad7513860c53dd592.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [financial-management-home-page.a9073c5923f8f6675570a66ad7513860c53dd592.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/financial-management-home-page.a9073c5923f8f6675570a66ad7513860c53dd592.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='89b1b21d36d30dab0ea83f551f81a395f80476ef2857'></a> Source: [financials\general-ledger\financial-period-close-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/financial-period-close-workspace.md)
@@ -43675,6 +44161,8 @@
 * Handback File: [financial-period-close-workspace.027bff630b97008f75b95b1c744300823400a69b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/financial-period-close-workspace.027bff630b97008f75b95b1c744300823400a69b.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [financial-period-close-workspace.027bff630b97008f75b95b1c744300823400a69b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/financial-period-close-workspace.027bff630b97008f75b95b1c744300823400a69b.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='c3fb6c3421397af5fcf9b4fcf381c8f42f127f372858'></a> Source: [financials\general-ledger\financial-reporting-getting-started.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/financial-reporting-getting-started.md)
@@ -43689,6 +44177,8 @@
 * Handback File: [financial-reporting-getting-started.f1737a7ceb469636fd93dbed1e53e7b5bf5aced2.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/financial-reporting-getting-started.f1737a7ceb469636fd93dbed1e53e7b5bf5aced2.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [financial-reporting-getting-started.f1737a7ceb469636fd93dbed1e53e7b5bf5aced2.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/financial-reporting-getting-started.f1737a7ceb469636fd93dbed1e53e7b5bf5aced2.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='0f1bab0380f3b0bb08fe2ae10d855faf23c7292a2859'></a> Source: [financials\general-ledger\foreign-currency-revaluation-general-ledger.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/foreign-currency-revaluation-general-ledger.md)
@@ -43703,6 +44193,8 @@
 * Handback File: [foreign-currency-revaluation-general-ledger.fbb7c8bf08ab873770d4831bd644cccaea9bacfd.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/foreign-currency-revaluation-general-ledger.fbb7c8bf08ab873770d4831bd644cccaea9bacfd.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [foreign-currency-revaluation-general-ledger.fbb7c8bf08ab873770d4831bd644cccaea9bacfd.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/foreign-currency-revaluation-general-ledger.fbb7c8bf08ab873770d4831bd644cccaea9bacfd.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='88602e798e63b63e44c4d63d32053dc64d28cc1d2860'></a> Source: [financials\general-ledger\general-journal-processing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/general-journal-processing.md)
@@ -43717,6 +44209,8 @@
 * Handback File: [general-journal-processing.a9d1aafff8dae12e71a981e7f445f407f336432a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/general-journal-processing.a9d1aafff8dae12e71a981e7f445f407f336432a.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [general-journal-processing.a9d1aafff8dae12e71a981e7f445f407f336432a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/general-journal-processing.a9d1aafff8dae12e71a981e7f445f407f336432a.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='df98533a733cd220ccd127ab645eb9d41b3c0cf62862'></a> Source: [financials\general-ledger\general-ledger.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/general-ledger.md)
@@ -43731,6 +44225,8 @@
 * Handback File: [general-ledger.eec3ed72855c2b4133c9a92f8fd1483756a5094c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/general-ledger.eec3ed72855c2b4133c9a92f8fd1483756a5094c.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [general-ledger.eec3ed72855c2b4133c9a92f8fd1483756a5094c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/general-ledger.eec3ed72855c2b4133c9a92f8fd1483756a5094c.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='48e218944cad08aa9cf5057c2e2b7138a6e03ee72861'></a> Source: [financials\general-ledger\general-ledger-account-balances.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/general-ledger-account-balances.md)
@@ -43745,6 +44241,8 @@
 * Handback File: [general-ledger-account-balances.39ea3edbb9f486d4ca25c98ffa8f5150219bfdc2.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/general-ledger-account-balances.39ea3edbb9f486d4ca25c98ffa8f5150219bfdc2.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [general-ledger-account-balances.39ea3edbb9f486d4ca25c98ffa8f5150219bfdc2.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/general-ledger-account-balances.39ea3edbb9f486d4ca25c98ffa8f5150219bfdc2.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='adedaca096cfb0225921ba2e0312d24fc8e0bac72863'></a> Source: [financials\general-ledger\generate-financial-report.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/generate-financial-report.md)
@@ -43759,6 +44257,8 @@
 * Handback File: [generate-financial-report.bf63c0f2eac05cb7fe2eb6ea2de4893157e91b02.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/generate-financial-report.bf63c0f2eac05cb7fe2eb6ea2de4893157e91b02.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [generate-financial-report.bf63c0f2eac05cb7fe2eb6ea2de4893157e91b02.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/generate-financial-report.bf63c0f2eac05cb7fe2eb6ea2de4893157e91b02.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='92cdf8c684c98dfb33828f2ae0f42010e638290d2864'></a> Source: [financials\general-ledger\import-currency-exchange-rates.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/import-currency-exchange-rates.md)
@@ -43773,6 +44273,8 @@
 * Handback File: [import-currency-exchange-rates.685ddd39e0d62c0f8bb234434d6106fdce0a88a1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/import-currency-exchange-rates.685ddd39e0d62c0f8bb234434d6106fdce0a88a1.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [import-currency-exchange-rates.685ddd39e0d62c0f8bb234434d6106fdce0a88a1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/import-currency-exchange-rates.685ddd39e0d62c0f8bb234434d6106fdce0a88a1.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='aaaa3afd03173a550f6157cea51f443dd9f0dd532865'></a> Source: [financials\general-ledger\income-statement-financial-report.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/income-statement-financial-report.md)
@@ -43787,6 +44289,8 @@
 * Handback File: [income-statement-financial-report.36585770e5f005843d00346c29d083fedca90149.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/income-statement-financial-report.36585770e5f005843d00346c29d083fedca90149.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [income-statement-financial-report.36585770e5f005843d00346c29d083fedca90149.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/income-statement-financial-report.36585770e5f005843d00346c29d083fedca90149.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='17cad3c043b9c4bf9150c470690223bed7e78b542866'></a> Source: [financials\general-ledger\indirect-taxes-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/indirect-taxes-overview.md)
@@ -43801,6 +44305,8 @@
 * Handback File: [indirect-taxes-overview.5f321d401af23d2a63de8fc15d7f1642d16a0245.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/indirect-taxes-overview.5f321d401af23d2a63de8fc15d7f1642d16a0245.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [indirect-taxes-overview.5f321d401af23d2a63de8fc15d7f1642d16a0245.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/indirect-taxes-overview.5f321d401af23d2a63de8fc15d7f1642d16a0245.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='32d2e6017688e359950fe4ce9d2f52f377703c672867'></a> Source: [financials\general-ledger\intercompany-accounting-setup.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/intercompany-accounting-setup.md)
@@ -43815,6 +44321,8 @@
 * Handback File: [intercompany-accounting-setup.c99e7a523aad27fdc0e838606a6e05a0ce62f1ae.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/intercompany-accounting-setup.c99e7a523aad27fdc0e838606a6e05a0ce62f1ae.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [intercompany-accounting-setup.c99e7a523aad27fdc0e838606a6e05a0ce62f1ae.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/intercompany-accounting-setup.c99e7a523aad27fdc0e838606a6e05a0ce62f1ae.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='b193910eaeda3f3451ecc0a11f82aae096bbef6e2868'></a> Source: [financials\general-ledger\ledger-allocation-rules.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/ledger-allocation-rules.md)
@@ -43829,6 +44337,8 @@
 * Handback File: [ledger-allocation-rules.6cc147c55cac4bb6a4c734fc1245c2b9b21a41d8.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/ledger-allocation-rules.6cc147c55cac4bb6a4c734fc1245c2b9b21a41d8.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [ledger-allocation-rules.6cc147c55cac4bb6a4c734fc1245c2b9b21a41d8.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/ledger-allocation-rules.6cc147c55cac4bb6a4c734fc1245c2b9b21a41d8.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='2b4ad40b59aac8cbdc627f6bc9f43550ddd261b42869'></a> Source: [financials\general-ledger\ledger-journal-types.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/ledger-journal-types.md)
@@ -43843,6 +44353,8 @@
 * Handback File: [ledger-journal-types.03e4e4bf7fff900ba930156a0dc52942cd7767a2.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/ledger-journal-types.03e4e4bf7fff900ba930156a0dc52942cd7767a2.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [ledger-journal-types.03e4e4bf7fff900ba930156a0dc52942cd7767a2.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/ledger-journal-types.03e4e4bf7fff900ba930156a0dc52942cd7767a2.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='bd1ca4c4c42bd7e4057b5e48d9a8fc5d43d470ed2870'></a> Source: [financials\general-ledger\main-account-types.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/main-account-types.md)
@@ -43857,6 +44369,8 @@
 * Handback File: [main-account-types.5db4ce6b2d3c8fe9d1d578d06972d03c8d1e9f36.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/main-account-types.5db4ce6b2d3c8fe9d1d578d06972d03c8d1e9f36.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [main-account-types.5db4ce6b2d3c8fe9d1d578d06972d03c8d1e9f36.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/main-account-types.5db4ce6b2d3c8fe9d1d578d06972d03c8d1e9f36.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='54fca551bd2899816a35baa3af84693b326229062871'></a> Source: [financials\general-ledger\marginal-base-field.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/marginal-base-field.md)
@@ -43871,6 +44385,8 @@
 * Handback File: [marginal-base-field.0658003306480e647a7158e5a74218170f7e27cd.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/marginal-base-field.0658003306480e647a7158e5a74218170f7e27cd.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [marginal-base-field.0658003306480e647a7158e5a74218170f7e27cd.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/marginal-base-field.0658003306480e647a7158e5a74218170f7e27cd.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='0040cdff1469ec3f0f889fb6b301a24f254b03262872'></a> Source: [financials\general-ledger\media\general-journal-reversing1.png](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/financials/general-ledger/media/general-journal-reversing1.png)
@@ -43955,6 +44471,8 @@
 * Handback File: [open-lines-excel-journals-documents.93ab47267fb999a4ce3956c7d46e6689e1cc8f37.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/open-lines-excel-journals-documents.93ab47267fb999a4ce3956c7d46e6689e1cc8f37.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [open-lines-excel-journals-documents.93ab47267fb999a4ce3956c7d46e6689e1cc8f37.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/open-lines-excel-journals-documents.93ab47267fb999a4ce3956c7d46e6689e1cc8f37.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='6a6fcf37c69cc516f3c6d8739b685cc17f06b6502878'></a> Source: [financials\general-ledger\plan-chart-of-accounts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/plan-chart-of-accounts.md)
@@ -43969,6 +44487,8 @@
 * Handback File: [plan-chart-of-accounts.5324ddc6e8eaacb832494151a467f141ec902fd3.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/plan-chart-of-accounts.5324ddc6e8eaacb832494151a467f141ec902fd3.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [plan-chart-of-accounts.5324ddc6e8eaacb832494151a467f141ec902fd3.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/plan-chart-of-accounts.5324ddc6e8eaacb832494151a467f141ec902fd3.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='73d3222781a3d1f5a5299ecd09782e93b830b2e32879'></a> Source: [financials\general-ledger\posting-definitions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/posting-definitions.md)
@@ -43983,6 +44503,8 @@
 * Handback File: [posting-definitions.7cb7e3ed7596a886ac51f84abe3ecd897b4da2b3.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/posting-definitions.7cb7e3ed7596a886ac51f84abe3ecd897b4da2b3.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [posting-definitions.7cb7e3ed7596a886ac51f84abe3ecd897b4da2b3.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/posting-definitions.7cb7e3ed7596a886ac51f84abe3ecd897b4da2b3.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='da75ab9b9cf439feec5410ce266aa84b9593690c2880'></a> Source: [financials\general-ledger\process-allocations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/process-allocations.md)
@@ -43997,6 +44519,8 @@
 * Handback File: [process-allocations.676b2c26d13d850f51bd1fd60cdc64a56530064f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/process-allocations.676b2c26d13d850f51bd1fd60cdc64a56530064f.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [process-allocations.676b2c26d13d850f51bd1fd60cdc64a56530064f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/process-allocations.676b2c26d13d850f51bd1fd60cdc64a56530064f.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='c29100cda402d073c04babda6f0357cdd5473ae02881'></a> Source: [financials\general-ledger\round-sales-tax-payments.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/round-sales-tax-payments.md)
@@ -44011,6 +44535,8 @@
 * Handback File: [round-sales-tax-payments.bb10a85a715808ca78d85f9290f97d3bd4cbca00.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/round-sales-tax-payments.bb10a85a715808ca78d85f9290f97d3bd4cbca00.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [round-sales-tax-payments.bb10a85a715808ca78d85f9290f97d3bd4cbca00.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/round-sales-tax-payments.bb10a85a715808ca78d85f9290f97d3bd4cbca00.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='97ba2db5593e339139e674f5d671d25a80ed276e2882'></a> Source: [financials\general-ledger\sales-tax-calculation-methods-origin-field.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/sales-tax-calculation-methods-origin-field.md)
@@ -44025,6 +44551,8 @@
 * Handback File: [sales-tax-calculation-methods-origin-field.dbbdeee42b08c3cd4413699a8abf29a105750759.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/sales-tax-calculation-methods-origin-field.dbbdeee42b08c3cd4413699a8abf29a105750759.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [sales-tax-calculation-methods-origin-field.dbbdeee42b08c3cd4413699a8abf29a105750759.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/sales-tax-calculation-methods-origin-field.dbbdeee42b08c3cd4413699a8abf29a105750759.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='6d603bb16218644ea7113db794cc47e3dfb772612883'></a> Source: [financials\general-ledger\trial-balance-financial-reports.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/trial-balance-financial-reports.md)
@@ -44039,6 +44567,8 @@
 * Handback File: [trial-balance-financial-reports.c161630859897ccd701480e96c920dad2028f537.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/trial-balance-financial-reports.c161630859897ccd701480e96c920dad2028f537.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [trial-balance-financial-reports.c161630859897ccd701480e96c920dad2028f537.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/trial-balance-financial-reports.c161630859897ccd701480e96c920dad2028f537.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='987ce6680b4b7750a983042075aa2a4c96710ae92884'></a> Source: [financials\general-ledger\view-financial-reports.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/view-financial-reports.md)
@@ -44053,6 +44583,8 @@
 * Handback File: [view-financial-reports.2a3bfed584a62394d03683ac9ebcb77a3a131b22.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/view-financial-reports.2a3bfed584a62394d03683ac9ebcb77a3a131b22.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [view-financial-reports.2a3bfed584a62394d03683ac9ebcb77a3a131b22.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/view-financial-reports.2a3bfed584a62394d03683ac9ebcb77a3a131b22.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='2793c7a26d4ffa3b3b5edd67d0cb1a7aa57a0ae32885'></a> Source: [financials\general-ledger\view-journal-entries-transactions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/view-journal-entries-transactions.md)
@@ -44067,6 +44599,8 @@
 * Handback File: [view-journal-entries-transactions.fe9420b9a89f2ee5aa9ec17dad935b77d45e0c45.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/view-journal-entries-transactions.fe9420b9a89f2ee5aa9ec17dad935b77d45e0c45.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [view-journal-entries-transactions.fe9420b9a89f2ee5aa9ec17dad935b77d45e0c45.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/view-journal-entries-transactions.fe9420b9a89f2ee5aa9ec17dad935b77d45e0c45.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='76615fb7407a1bf2729c319d23c29962a8d1f2da2886'></a> Source: [financials\general-ledger\whole-amount-interval-options-sales-tax-codes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/whole-amount-interval-options-sales-tax-codes.md)
@@ -44081,6 +44615,8 @@
 * Handback File: [whole-amount-interval-options-sales-tax-codes.d94b6e5aeafd36a6c828563618f01499c07162ea.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/whole-amount-interval-options-sales-tax-codes.d94b6e5aeafd36a6c828563618f01499c07162ea.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [whole-amount-interval-options-sales-tax-codes.d94b6e5aeafd36a6c828563618f01499c07162ea.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/whole-amount-interval-options-sales-tax-codes.d94b6e5aeafd36a6c828563618f01499c07162ea.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='589af3fe73bdc58d7d1e83679835c8652acaed972887'></a> Source: [financials\general-ledger\year-end-close.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/general-ledger/year-end-close.md)
@@ -44095,6 +44631,8 @@
 * Handback File: [year-end-close.7f871f373e98cae9c49026fb2d0b1473ab4b7cc1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/year-end-close.7f871f373e98cae9c49026fb2d0b1473ab4b7cc1.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [year-end-close.7f871f373e98cae9c49026fb2d0b1473ab4b7cc1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/year-end-close.7f871f373e98cae9c49026fb2d0b1473ab4b7cc1.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='e562ec6206cda41350272928311e7198a4140f732888'></a> Source: [financials\index.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/73d1e77e4e15d179b12fdc8fec41ae69c7cef56a/financials/index.md)
@@ -45145,6 +45683,8 @@
 * Handback File: [general-electronic-reporting-ger-2.e2ad533da47532b69d87a087eccf7a72509b43d4.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/general-electronic-reporting-ger-2.e2ad533da47532b69d87a087eccf7a72509b43d4.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [general-electronic-reporting-ger-2.e2ad533da47532b69d87a087eccf7a72509b43d4.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/general-electronic-reporting-ger-2.e2ad533da47532b69d87a087eccf7a72509b43d4.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='e9f0bc810ef8affa846e94678d85c5a02f9c441a2963'></a> Source: [financials\localizations\europe\german-journal-list-report.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/financials/localizations/europe/german-journal-list-report.md)
@@ -46111,6 +46651,8 @@
 * Handback File: [registration-ids.a6ee4286c536b627400f61fd90f7466c82dc985c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/registration-ids.a6ee4286c536b627400f61fd90f7466c82dc985c.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [registration-ids.a6ee4286c536b627400f61fd90f7466c82dc985c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/registration-ids.a6ee4286c536b627400f61fd90f7466c82dc985c.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='35f58df641950a8c166c4a11128c79f47a7e00dc3032'></a> Source: [financials\localizations\europe\select-file-formats-for-the-method-of-payments.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/financials/localizations/europe/select-file-formats-for-the-method-of-payments.md)
@@ -46139,6 +46681,8 @@
 * Handback File: [set-up-sepa-direct-debit-mandate.184488fe5e5e32da297ff56d0c1dccafc51465ac.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-sepa-direct-debit-mandate.184488fe5e5e32da297ff56d0c1dccafc51465ac.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [set-up-sepa-direct-debit-mandate.184488fe5e5e32da297ff56d0c1dccafc51465ac.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-sepa-direct-debit-mandate.184488fe5e5e32da297ff56d0c1dccafc51465ac.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='03eb411af35a3dc1ac23d07270c927578cfd02a63034'></a> Source: [financials\localizations\europe\split-payment-invoices-issued-public-administration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/financials/localizations/europe/split-payment-invoices-issued-public-administration.md)
@@ -47735,6 +48279,8 @@
 * Handback File: [benefit-eligibility-policies.2b9bab5b61ba35f4b17f964c7f6e93512c4584a6.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/benefit-eligibility-policies.2b9bab5b61ba35f4b17f964c7f6e93512c4584a6.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [benefit-eligibility-policies.2b9bab5b61ba35f4b17f964c7f6e93512c4584a6.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/benefit-eligibility-policies.2b9bab5b61ba35f4b17f964c7f6e93512c4584a6.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='a1791b447da6e3a63070e8e223e1d1cfdc63b2a93148'></a> Source: [human-resources\compensation-plans.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/human-resources/compensation-plans.md)
@@ -47749,6 +48295,8 @@
 * Handback File: [compensation-plans.f768a11706ab8426cc4f34fe313a836658874dec.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/compensation-plans.f768a11706ab8426cc4f34fe313a836658874dec.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [compensation-plans.f768a11706ab8426cc4f34fe313a836658874dec.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/compensation-plans.f768a11706ab8426cc4f34fe313a836658874dec.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='a5f501cc10cf191048c88dd9b2ba74285e888f803149'></a> Source: [human-resources\courses.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/human-resources/courses.md)
@@ -47763,6 +48311,8 @@
 * Handback File: [courses.bc638f080017b47a9872849a41503d3f5d5fc275.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/courses.bc638f080017b47a9872849a41503d3f5d5fc275.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [courses.bc638f080017b47a9872849a41503d3f5d5fc275.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/courses.bc638f080017b47a9872849a41503d3f5d5fc275.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='78e3babb242497be843b4202b5ccbfcf3a18057f3150'></a> Source: [human-resources\create-department-add-department-hierarchy.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/human-resources/create-department-add-department-hierarchy.md)
@@ -47777,6 +48327,8 @@
 * Handback File: [create-department-add-department-hierarchy.1cd55d23c94c0843d7f0c898e8bfe82c6ea2c17a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/create-department-add-department-hierarchy.1cd55d23c94c0843d7f0c898e8bfe82c6ea2c17a.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [create-department-add-department-hierarchy.1cd55d23c94c0843d7f0c898e8bfe82c6ea2c17a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/create-department-add-department-hierarchy.1cd55d23c94c0843d7f0c898e8bfe82c6ea2c17a.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='04b1bcb4c5bcae9a0f9af7ec1c05d2ce54a825a43151'></a> Source: [human-resources\create-fixed-compensation-plans.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/human-resources/create-fixed-compensation-plans.md)
@@ -47791,6 +48343,8 @@
 * Handback File: [create-fixed-compensation-plans.53fddedd2c81cb21c2e6f195200221e0b17dd5c7.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/create-fixed-compensation-plans.53fddedd2c81cb21c2e6f195200221e0b17dd5c7.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [create-fixed-compensation-plans.53fddedd2c81cb21c2e6f195200221e0b17dd5c7.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/create-fixed-compensation-plans.53fddedd2c81cb21c2e6f195200221e0b17dd5c7.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='9b9f61e0cd0cac46e16f56f1710ad89ada7732663152'></a> Source: [human-resources\create-variable-compensation-plans.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/human-resources/create-variable-compensation-plans.md)
@@ -47805,6 +48359,8 @@
 * Handback File: [create-variable-compensation-plans.d9e35d13fad8e5ddc7ee895cb9db3852a6d16e9f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/create-variable-compensation-plans.d9e35d13fad8e5ddc7ee895cb9db3852a6d16e9f.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [create-variable-compensation-plans.d9e35d13fad8e5ddc7ee895cb9db3852a6d16e9f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/create-variable-compensation-plans.d9e35d13fad8e5ddc7ee895cb9db3852a6d16e9f.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='8a07426a9c541fa667ec5ced3481fd1f0c2081283153'></a> Source: [human-resources\departments-jobs-positions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/human-resources/departments-jobs-positions.md)
@@ -47819,6 +48375,8 @@
 * Handback File: [departments-jobs-positions.1922f59cdb4b8dbaafde2bc131a81f95b14e5974.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/departments-jobs-positions.1922f59cdb4b8dbaafde2bc131a81f95b14e5974.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [departments-jobs-positions.1922f59cdb4b8dbaafde2bc131a81f95b14e5974.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/departments-jobs-positions.1922f59cdb4b8dbaafde2bc131a81f95b14e5974.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='6e2a9fda3888623195934cd9a7adcb524005b2233154'></a> Source: [human-resources\docfx.json](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/human-resources/docfx.json)
@@ -47847,6 +48405,8 @@
 * Handback File: [create-job.d2eff7e98b532bb8fd439fafdfe47f5d8e4ec42a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/create-job.d2eff7e98b532bb8fd439fafdfe47f5d8e4ec42a.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [create-job.d2eff7e98b532bb8fd439fafdfe47f5d8e4ec42a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/create-job.d2eff7e98b532bb8fd439fafdfe47f5d8e4ec42a.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='5a1b2fa8b7e9d733c5acbfbca26869fea98039db3157'></a> Source: [human-resources\human-resources\use-workflow-to-manage-employee-information.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/human-resources/human-resources/use-workflow-to-manage-employee-information.md)
@@ -47861,6 +48421,8 @@
 * Handback File: [use-workflow-to-manage-employee-information.e42ae510c65ed4b5f2e9f81f71673be285644ba9.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/use-workflow-to-manage-employee-information.e42ae510c65ed4b5f2e9f81f71673be285644ba9.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [use-workflow-to-manage-employee-information.e42ae510c65ed4b5f2e9f81f71673be285644ba9.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/use-workflow-to-manage-employee-information.e42ae510c65ed4b5f2e9f81f71673be285644ba9.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='4b5d055b171e245d580f9b899d1cedc35576ac873155'></a> Source: [human-resources\human-resources-landing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/human-resources/human-resources-landing.md)
@@ -47875,6 +48437,8 @@
 * Handback File: [human-resources-landing.b2f3e405ac384f2a12eaa12eb843cec74ab96b3f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/human-resources-landing.b2f3e405ac384f2a12eaa12eb843cec74ab96b3f.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [human-resources-landing.b2f3e405ac384f2a12eaa12eb843cec74ab96b3f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/human-resources-landing.b2f3e405ac384f2a12eaa12eb843cec74ab96b3f.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='17208e629bf3642914c1794e9cab458591376bb13158'></a> Source: [human-resources\index.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/73d1e77e4e15d179b12fdc8fec41ae69c7cef56a/human-resources/index.md)
@@ -47903,6 +48467,8 @@
 * Handback File: [loan-items.4528c7d12071f4804198cae03e3cab3bb1c0e26c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/loan-items.4528c7d12071f4804198cae03e3cab3bb1c0e26c.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [loan-items.4528c7d12071f4804198cae03e3cab3bb1c0e26c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/loan-items.4528c7d12071f4804198cae03e3cab3bb1c0e26c.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='a2626c7e760f6eb0230516aa1eaa39f25fcc5f5d3160'></a> Source: [human-resources\manage-benefit-program.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/human-resources/manage-benefit-program.md)
@@ -47917,6 +48483,8 @@
 * Handback File: [manage-benefit-program.33fdbaf8db8ee16863dfd922e61f3d27a9ebbc5f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/manage-benefit-program.33fdbaf8db8ee16863dfd922e61f3d27a9ebbc5f.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [manage-benefit-program.33fdbaf8db8ee16863dfd922e61f3d27a9ebbc5f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/manage-benefit-program.33fdbaf8db8ee16863dfd922e61f3d27a9ebbc5f.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='f741f5f26f860089b412f5b4f056cda4e005e78e3161'></a> Source: [human-resources\manage-recruiting-process.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/human-resources/manage-recruiting-process.md)
@@ -47931,6 +48499,8 @@
 * Handback File: [manage-recruiting-process.896f169a2e4b1893a84f2605278b4744a7ba68d3.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/manage-recruiting-process.896f169a2e4b1893a84f2605278b4744a7ba68d3.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [manage-recruiting-process.896f169a2e4b1893a84f2605278b4744a7ba68d3.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/manage-recruiting-process.896f169a2e4b1893a84f2605278b4744a7ba68d3.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='ef9ceff26235ac4e947226a989b0395c185adb983162'></a> Source: [human-resources\mass-hire-projects.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/human-resources/mass-hire-projects.md)
@@ -47945,6 +48515,8 @@
 * Handback File: [mass-hire-projects.59ee1d788ba6505c6e2b4d905a65db4c25bff310.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/mass-hire-projects.59ee1d788ba6505c6e2b4d905a65db4c25bff310.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [mass-hire-projects.59ee1d788ba6505c6e2b4d905a65db4c25bff310.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/mass-hire-projects.59ee1d788ba6505c6e2b4d905a65db4c25bff310.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='1244392e7ebe55060f1340e11e49b1fdcb60c2423163'></a> Source: [human-resources\media\benefit-pic.png](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/human-resources/media/benefit-pic.png)
@@ -47987,6 +48559,8 @@
 * Handback File: [intercompany-invoicing.c56eb22229c49fe1f8d1b30227ff7c9acad9b8aa.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/intercompany-invoicing.c56eb22229c49fe1f8d1b30227ff7c9acad9b8aa.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [intercompany-invoicing.c56eb22229c49fe1f8d1b30227ff7c9acad9b8aa.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/intercompany-invoicing.c56eb22229c49fe1f8d1b30227ff7c9acad9b8aa.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='18990e17f0e87c5f2503321a8372531e3ece48d03166'></a> Source: [human-resources\project-management-accounting\media\3-stages-of-a-project.png](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/human-resources/project-management-accounting/media/3-stages-of-a-project.png)
@@ -48197,6 +48771,8 @@
 * Handback File: [overview-project-management-accounting.757980a462b974a5ce5ec317327d25c06d73883c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/overview-project-management-accounting.757980a462b974a5ce5ec317327d25c06d73883c.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [overview-project-management-accounting.757980a462b974a5ce5ec317327d25c06d73883c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/overview-project-management-accounting.757980a462b974a5ce5ec317327d25c06d73883c.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='a2c651955aa65ee22bdbb1ac0a1c6c7fac179a753181'></a> Source: [human-resources\project-management-accounting\project-contracts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/human-resources/project-management-accounting/project-contracts.md)
@@ -48211,6 +48787,8 @@
 * Handback File: [project-contracts.433d4b6545018fe72ddea811b57965af0d1ad5ba.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/project-contracts.433d4b6545018fe72ddea811b57965af0d1ad5ba.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [project-contracts.433d4b6545018fe72ddea811b57965af0d1ad5ba.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/project-contracts.433d4b6545018fe72ddea811b57965af0d1ad5ba.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='c9b7b8640d20e93a90225cf230662272d9bccd3e3182'></a> Source: [human-resources\project-management-accounting\project-forecasts-budgets.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/human-resources/project-management-accounting/project-forecasts-budgets.md)
@@ -48225,6 +48803,8 @@
 * Handback File: [project-forecasts-budgets.e7adf4e0eb968af887b05f3d52558b91c18eef8f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/project-forecasts-budgets.e7adf4e0eb968af887b05f3d52558b91c18eef8f.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [project-forecasts-budgets.e7adf4e0eb968af887b05f3d52558b91c18eef8f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/project-forecasts-budgets.e7adf4e0eb968af887b05f3d52558b91c18eef8f.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='27eed3960070af0ec7e914cf47a7ea52e31618363183'></a> Source: [human-resources\project-management-accounting\project-purchase-orders.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/human-resources/project-management-accounting/project-purchase-orders.md)
@@ -48239,6 +48819,8 @@
 * Handback File: [project-purchase-orders.89923a5f8566f1bc4a782af6416d4fccb885242b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/project-purchase-orders.89923a5f8566f1bc4a782af6416d4fccb885242b.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [project-purchase-orders.89923a5f8566f1bc4a782af6416d4fccb885242b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/project-purchase-orders.89923a5f8566f1bc4a782af6416d4fccb885242b.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='b45c2d632fc04a0faaeb3b2f69905361ccd1a0d43184'></a> Source: [human-resources\project-management-accounting\project-quotations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/human-resources/project-management-accounting/project-quotations.md)
@@ -48253,6 +48835,8 @@
 * Handback File: [project-quotations.17ce55ce05bd4c6a58fec0ff740cba5654b5cb17.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/project-quotations.17ce55ce05bd4c6a58fec0ff740cba5654b5cb17.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [project-quotations.17ce55ce05bd4c6a58fec0ff740cba5654b5cb17.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/project-quotations.17ce55ce05bd4c6a58fec0ff740cba5654b5cb17.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='09f480134d62890024ce84fd9b80d3eb19c3558f3185'></a> Source: [human-resources\project-management-accounting\project-resourcing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/human-resources/project-management-accounting/project-resourcing.md)
@@ -48267,6 +48851,8 @@
 * Handback File: [project-resourcing.f27f7d4329f3eea44b107ba86a8e97c86569d09a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/project-resourcing.f27f7d4329f3eea44b107ba86a8e97c86569d09a.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [project-resourcing.f27f7d4329f3eea44b107ba86a8e97c86569d09a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/project-resourcing.f27f7d4329f3eea44b107ba86a8e97c86569d09a.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='748ec9dbb7a3bc8d2f02a4b7c84e51fc1256b01c3186'></a> Source: [human-resources\project-management-accounting\work-breakdown-structures.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/human-resources/project-management-accounting/work-breakdown-structures.md)
@@ -48281,6 +48867,8 @@
 * Handback File: [work-breakdown-structures.208f6a85e7f182a53695360153296e2216900f0d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/work-breakdown-structures.208f6a85e7f182a53695360153296e2216900f0d.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [work-breakdown-structures.208f6a85e7f182a53695360153296e2216900f0d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/work-breakdown-structures.208f6a85e7f182a53695360153296e2216900f0d.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='8490c6e603e1c6be4bd464166f3be024e3c118b33187'></a> Source: [human-resources\questionnaire\design-questionnaires.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/human-resources/questionnaire/design-questionnaires.md)
@@ -48295,6 +48883,8 @@
 * Handback File: [design-questionnaires.f3c70defcb26d8db318d61ad86dfc290daeec036.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/design-questionnaires.f3c70defcb26d8db318d61ad86dfc290daeec036.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [design-questionnaires.f3c70defcb26d8db318d61ad86dfc290daeec036.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/design-questionnaires.f3c70defcb26d8db318d61ad86dfc290daeec036.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='1694dd8f7e10c3c9c18bfaed6593eafed7c1e9d53188'></a> Source: [human-resources\questionnaire\distribute-questionnaires.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/human-resources/questionnaire/distribute-questionnaires.md)
@@ -48309,6 +48899,8 @@
 * Handback File: [distribute-questionnaires.0c72eae55986ce076c0fabf442e45c9ca160ec31.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/distribute-questionnaires.0c72eae55986ce076c0fabf442e45c9ca160ec31.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [distribute-questionnaires.0c72eae55986ce076c0fabf442e45c9ca160ec31.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/distribute-questionnaires.0c72eae55986ce076c0fabf442e45c9ca160ec31.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='d09f60e3b2bf5bb4db3bad1264a1e0ac3fdcbca23189'></a> Source: [human-resources\questionnaire\evaluate-questionnaire-results.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/human-resources/questionnaire/evaluate-questionnaire-results.md)
@@ -48323,6 +48915,8 @@
 * Handback File: [evaluate-questionnaire-results.c4a24901ba7bd8ce02647234d2748bd71c786560.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/evaluate-questionnaire-results.c4a24901ba7bd8ce02647234d2748bd71c786560.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [evaluate-questionnaire-results.c4a24901ba7bd8ce02647234d2748bd71c786560.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/evaluate-questionnaire-results.c4a24901ba7bd8ce02647234d2748bd71c786560.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='70803e57100f501cdd5227c201bd6a01db39bd353191'></a> Source: [human-resources\questionnaire\media\questionnairecomponents.png](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/human-resources/questionnaire/media/questionnairecomponents.png)
@@ -48365,6 +48959,8 @@
 * Handback File: [questionnaires.1dac70b8d6ab45690cc86ab081ae7fcd554996e8.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/questionnaires.1dac70b8d6ab45690cc86ab081ae7fcd554996e8.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [questionnaires.1dac70b8d6ab45690cc86ab081ae7fcd554996e8.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/questionnaires.1dac70b8d6ab45690cc86ab081ae7fcd554996e8.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='e8c880de34743211caa7a0280717005ba2d3453f3193'></a> Source: [human-resources\set-up-company-specific-hr-parameters.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/human-resources/set-up-company-specific-hr-parameters.md)
@@ -48379,6 +48975,8 @@
 * Handback File: [set-up-company-specific-hr-parameters.ef0bad040bae12e2e513ff078af2429c4438e7a5.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-company-specific-hr-parameters.ef0bad040bae12e2e513ff078af2429c4438e7a5.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [set-up-company-specific-hr-parameters.ef0bad040bae12e2e513ff078af2429c4438e7a5.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-company-specific-hr-parameters.ef0bad040bae12e2e513ff078af2429c4438e7a5.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='99536c7f0fe3f7a6290588687aacd885a25831ef3194'></a> Source: [human-resources\set-up-hr-parameters-across-legal-entities.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/human-resources/set-up-hr-parameters-across-legal-entities.md)
@@ -48393,6 +48991,8 @@
 * Handback File: [set-up-hr-parameters-across-legal-entities.761e100f1aafc16f42ae23e4576f3c29bdb844f6.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-hr-parameters-across-legal-entities.761e100f1aafc16f42ae23e4576f3c29bdb844f6.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [set-up-hr-parameters-across-legal-entities.761e100f1aafc16f42ae23e4576f3c29bdb844f6.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-hr-parameters-across-legal-entities.761e100f1aafc16f42ae23e4576f3c29bdb844f6.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='40dfe11d7157af920061f5a4f7b8b8637243f21a3195'></a> Source: [human-resources\skills.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/human-resources/skills.md)
@@ -48407,6 +49007,8 @@
 * Handback File: [skills.ec12819f576f1368d81bf432814083dca33afc99.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/skills.ec12819f576f1368d81bf432814083dca33afc99.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [skills.ec12819f576f1368d81bf432814083dca33afc99.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/skills.ec12819f576f1368d81bf432814083dca33afc99.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='123fe7e4918d24c07a9baa74ebd23a08e4f9cfa43196'></a> Source: [human-resources\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/human-resources/TOC.md)
@@ -48477,6 +49079,8 @@
 * Handback File: [adjust-hand-inventory-cost-values.db0863de96d8d9686b8bcd4852a224ddc89f9876.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/adjust-hand-inventory-cost-values.db0863de96d8d9686b8bcd4852a224ddc89f9876.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [adjust-hand-inventory-cost-values.db0863de96d8d9686b8bcd4852a224ddc89f9876.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/adjust-hand-inventory-cost-values.db0863de96d8d9686b8bcd4852a224ddc89f9876.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='1054f05b1c202b91fe515fba99955149b1762c453201'></a> Source: [manufacturing\cost-management\bom-calculation-groups.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/bom-calculation-groups.md)
@@ -48491,6 +49095,8 @@
 * Handback File: [bom-calculation-groups.1d65b4a1040958c920072604f94db7e425808124.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/bom-calculation-groups.1d65b4a1040958c920072604f94db7e425808124.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [bom-calculation-groups.1d65b4a1040958c920072604f94db7e425808124.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/bom-calculation-groups.1d65b4a1040958c920072604f94db7e425808124.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='d9e19d1755f33597e54de6ea67c426b5172240fa3202'></a> Source: [manufacturing\cost-management\common-sources-of-production-variances.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/common-sources-of-production-variances.md)
@@ -48505,6 +49111,8 @@
 * Handback File: [common-sources-of-production-variances.f9917fd91779f7da5fe4265d152bc8ff0c2bb128.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/common-sources-of-production-variances.f9917fd91779f7da5fe4265d152bc8ff0c2bb128.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [common-sources-of-production-variances.f9917fd91779f7da5fe4265d152bc8ff0c2bb128.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/common-sources-of-production-variances.f9917fd91779f7da5fe4265d152bc8ff0c2bb128.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='0dbfd8685beeb780a8991cb8632a9c89ffc1c8213203'></a> Source: [manufacturing\cost-management\cost-categories-used-production-control-project-management-accounting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/cost-categories-used-production-control-project-management-accounting.md)
@@ -48519,6 +49127,8 @@
 * Handback File: [cost-categories-used-production-control-project-management-accounting.ac88cd1541c8ad1618e21ad49a696f5964e5598d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/cost-categories-used-production-control-project-management-accounting.ac88cd1541c8ad1618e21ad49a696f5964e5598d.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [cost-categories-used-production-control-project-management-accounting.ac88cd1541c8ad1618e21ad49a696f5964e5598d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/cost-categories-used-production-control-project-management-accounting.ac88cd1541c8ad1618e21ad49a696f5964e5598d.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='7229c45705f3bca8dd3684c44ecb14ad3c2b939f3204'></a> Source: [manufacturing\cost-management\cost-categories-used-production-routings.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/cost-categories-used-production-routings.md)
@@ -48533,6 +49143,8 @@
 * Handback File: [cost-categories-used-production-routings.4512d00c28538720f2edad870459bef4f22bae5d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/cost-categories-used-production-routings.4512d00c28538720f2edad870459bef4f22bae5d.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [cost-categories-used-production-routings.4512d00c28538720f2edad870459bef4f22bae5d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/cost-categories-used-production-routings.4512d00c28538720f2edad870459bef4f22bae5d.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='6f451867809d276a481e078ba085b7d4d88216bd3205'></a> Source: [manufacturing\cost-management\cost-entries.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/cost-entries.md)
@@ -48547,6 +49159,8 @@
 * Handback File: [cost-entries.72f4de7f40ecf0fe92701c7ce5375c8e02ae9892.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/cost-entries.72f4de7f40ecf0fe92701c7ce5375c8e02ae9892.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [cost-entries.72f4de7f40ecf0fe92701c7ce5375c8e02ae9892.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/cost-entries.72f4de7f40ecf0fe92701c7ce5375c8e02ae9892.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='3e3979ae07f5dce093c20032971a0e1d975086f73206'></a> Source: [manufacturing\cost-management\cost-groups.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/cost-groups.md)
@@ -48561,6 +49175,8 @@
 * Handback File: [cost-groups.87f9f68611f603d57f8098723bc72d4a558b4150.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/cost-groups.87f9f68611f603d57f8098723bc72d4a558b4150.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [cost-groups.87f9f68611f603d57f8098723bc72d4a558b4150.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/cost-groups.87f9f68611f603d57f8098723bc72d4a558b4150.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='d6d6368cc80aef93f85870e22cb5eb0b6e82661f3209'></a> Source: [manufacturing\cost-management\costing-sheets.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/costing-sheets.md)
@@ -48575,6 +49191,8 @@
 * Handback File: [costing-sheets.1d2720b289e874541b05361cf6f7effd36bf09bb.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/costing-sheets.1d2720b289e874541b05361cf6f7effd36bf09bb.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [costing-sheets.1d2720b289e874541b05361cf6f7effd36bf09bb.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/costing-sheets.1d2720b289e874541b05361cf6f7effd36bf09bb.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='9cfda550026d02dbdb73b7d782354b3b2d59e5fa3210'></a> Source: [manufacturing\cost-management\costing-versions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/costing-versions.md)
@@ -48589,6 +49207,8 @@
 * Handback File: [costing-versions.9829b162798391be2f1e3e8fc135a20adfd5d497.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/costing-versions.9829b162798391be2f1e3e8fc135a20adfd5d497.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [costing-versions.9829b162798391be2f1e3e8fc135a20adfd5d497.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/costing-versions.9829b162798391be2f1e3e8fc135a20adfd5d497.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='563a18f72536ff3aa1967bddd0cef33680fb03f63207'></a> Source: [manufacturing\cost-management\cost-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/cost-management.md)
@@ -48603,6 +49223,8 @@
 * Handback File: [cost-management.d9df61077ef6982de974227677ca747a037bbea1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/cost-management.d9df61077ef6982de974227677ca747a037bbea1.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [cost-management.d9df61077ef6982de974227677ca747a037bbea1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/cost-management.d9df61077ef6982de974227677ca747a037bbea1.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='deb6cd408dd032265780a8f66228b7d2aa369dab3208'></a> Source: [manufacturing\cost-management\cost-object.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/cost-object.md)
@@ -48617,6 +49239,8 @@
 * Handback File: [cost-object.39956405c16ff68b94f8b785bdd835f61fdff139.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/cost-object.39956405c16ff68b94f8b785bdd835f61fdff139.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [cost-object.39956405c16ff68b94f8b785bdd835f61fdff139.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/cost-object.39956405c16ff68b94f8b785bdd835f61fdff139.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='b2b3451801d1d83eebbcbb22145199d85e1fcb283211'></a> Source: [manufacturing\cost-management\data-entities-costing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/data-entities-costing.md)
@@ -48645,6 +49269,8 @@
 * Handback File: [fifo-physical-value-marking.0d8847276fdee67b5ae688c75ade1a01e7c3ab56.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/fifo-physical-value-marking.0d8847276fdee67b5ae688c75ade1a01e7c3ab56.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [fifo-physical-value-marking.0d8847276fdee67b5ae688c75ade1a01e7c3ab56.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/fifo-physical-value-marking.0d8847276fdee67b5ae688c75ade1a01e7c3ab56.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='c8619fb0144d78b3cbbe5597a40780855955d77b3213'></a> Source: [manufacturing\cost-management\include-physical-value.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/include-physical-value.md)
@@ -48659,6 +49285,8 @@
 * Handback File: [include-physical-value.c0d23f4dc525146b4217b3c9ffc8411e340e2ca4.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/include-physical-value.c0d23f4dc525146b4217b3c9ffc8411e340e2ca4.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [include-physical-value.c0d23f4dc525146b4217b3c9ffc8411e340e2ca4.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/include-physical-value.c0d23f4dc525146b4217b3c9ffc8411e340e2ca4.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='a9096f3b8dd4016a8ac1b08e9bd0acde0166740e3214'></a> Source: [manufacturing\cost-management\information-used-bom-calculations-standard-costs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/information-used-bom-calculations-standard-costs.md)
@@ -48673,6 +49301,8 @@
 * Handback File: [information-used-bom-calculations-standard-costs.daae1ef634a94f9dffe4d585a2b13337c701b893.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/information-used-bom-calculations-standard-costs.daae1ef634a94f9dffe4d585a2b13337c701b893.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [information-used-bom-calculations-standard-costs.daae1ef634a94f9dffe4d585a2b13337c701b893.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/information-used-bom-calculations-standard-costs.daae1ef634a94f9dffe4d585a2b13337c701b893.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='1649ebb0cba28c8207a83ac7cb5146507f80c2b23215'></a> Source: [manufacturing\cost-management\inventory-close.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/inventory-close.md)
@@ -48687,6 +49317,8 @@
 * Handback File: [inventory-close.b59b65903dbd27c7983a4335f06a7af1941721db.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/inventory-close.b59b65903dbd27c7983a4335f06a7af1941721db.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [inventory-close.b59b65903dbd27c7983a4335f06a7af1941721db.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/inventory-close.b59b65903dbd27c7983a4335f06a7af1941721db.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='f3a743d12b316b2fb87ed7d3509e7c84bc0e89173216'></a> Source: [manufacturing\cost-management\lifo-date-physical-value-marking.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/lifo-date-physical-value-marking.md)
@@ -48701,6 +49333,8 @@
 * Handback File: [lifo-date-physical-value-marking.53804083f308f7ca6709aa0f629c256f17c3685c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/lifo-date-physical-value-marking.53804083f308f7ca6709aa0f629c256f17c3685c.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [lifo-date-physical-value-marking.53804083f308f7ca6709aa0f629c256f17c3685c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/lifo-date-physical-value-marking.53804083f308f7ca6709aa0f629c256f17c3685c.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='5d2058aa24cde6d263f33f61c1c946e758dc63863217'></a> Source: [manufacturing\cost-management\lifo-physical-value-marking.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/lifo-physical-value-marking.md)
@@ -48715,6 +49349,8 @@
 * Handback File: [lifo-physical-value-marking.ebf8312e5a867963a35d246c6075462527b85ec4.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/lifo-physical-value-marking.ebf8312e5a867963a35d246c6075462527b85ec4.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [lifo-physical-value-marking.ebf8312e5a867963a35d246c6075462527b85ec4.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/lifo-physical-value-marking.ebf8312e5a867963a35d246c6075462527b85ec4.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='77b6446fcdf9e5a5868a667f8da0e4b523df2f3d3218'></a> Source: [manufacturing\cost-management\manage-standard-cost-updates.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/manage-standard-cost-updates.md)
@@ -48729,6 +49365,8 @@
 * Handback File: [manage-standard-cost-updates.445637bf893f5afd3dd80eae6756c2dbb1211cdb.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/manage-standard-cost-updates.445637bf893f5afd3dd80eae6756c2dbb1211cdb.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [manage-standard-cost-updates.445637bf893f5afd3dd80eae6756c2dbb1211cdb.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/manage-standard-cost-updates.445637bf893f5afd3dd80eae6756c2dbb1211cdb.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='87071acd6278f698fde0e91162c2a9d1095544cb3219'></a> Source: [manufacturing\cost-management\manufactured-items-treated-as-purchased-items.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/manufactured-items-treated-as-purchased-items.md)
@@ -48743,6 +49381,8 @@
 * Handback File: [manufactured-items-treated-as-purchased-items.bd9003ed1b8357e1ae6d9e12165bb21bd8495886.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/manufactured-items-treated-as-purchased-items.bd9003ed1b8357e1ae6d9e12165bb21bd8495886.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [manufactured-items-treated-as-purchased-items.bd9003ed1b8357e1ae6d9e12165bb21bd8495886.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/manufactured-items-treated-as-purchased-items.bd9003ed1b8357e1ae6d9e12165bb21bd8495886.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='5115eccaf830ac2762123cbfcbd7ad20698842333220'></a> Source: [manufacturing\cost-management\media\control.jpg](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/manufacturing/cost-management/media/control.jpg)
@@ -49023,6 +49663,8 @@
 * Handback File: [methodology-total-cost-allocation.9dd5961cb8f9e8907d4a5737752b48a3e80e4e4a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/methodology-total-cost-allocation.9dd5961cb8f9e8907d4a5737752b48a3e80e4e4a.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [methodology-total-cost-allocation.9dd5961cb8f9e8907d4a5737752b48a3e80e4e4a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/methodology-total-cost-allocation.9dd5961cb8f9e8907d4a5737752b48a3e80e4e4a.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='101fdd7db3ee4a97cfa723f6f0adec2f5f45d7db3240'></a> Source: [manufacturing\cost-management\moving-average.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/moving-average.md)
@@ -49037,6 +49679,8 @@
 * Handback File: [moving-average.246a6c1b2820ee62d0dfd2cc968a6c034de2c9f1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/moving-average.246a6c1b2820ee62d0dfd2cc968a6c034de2c9f1.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [moving-average.246a6c1b2820ee62d0dfd2cc968a6c034de2c9f1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/moving-average.246a6c1b2820ee62d0dfd2cc968a6c034de2c9f1.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='23e73276a6a15d204e3a0df69be61600f0ca5f3a3241'></a> Source: [manufacturing\cost-management\physical-financial-updates.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/physical-financial-updates.md)
@@ -49051,6 +49695,8 @@
 * Handback File: [physical-financial-updates.f692ba1178160d1d1de9d422694437e25cbb64d7.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/physical-financial-updates.f692ba1178160d1d1de9d422694437e25cbb64d7.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [physical-financial-updates.f692ba1178160d1d1de9d422694437e25cbb64d7.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/physical-financial-updates.f692ba1178160d1d1de9d422694437e25cbb64d7.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='49204d236bac5fe22afc96da8155fd0740b573613242'></a> Source: [manufacturing\cost-management\physical-quantity.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/physical-quantity.md)
@@ -49065,6 +49711,8 @@
 * Handback File: [physical-quantity.897f18b2863982e9ca45b0fd048065f95b2d3288.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/physical-quantity.897f18b2863982e9ca45b0fd048065f95b2d3288.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [physical-quantity.897f18b2863982e9ca45b0fd048065f95b2d3288.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/physical-quantity.897f18b2863982e9ca45b0fd048065f95b2d3288.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='c8a93961e1542f66f5bc8f4ae80a565a282b60713243'></a> Source: [manufacturing\cost-management\prerequisites-standard-cost-conversion.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/prerequisites-standard-cost-conversion.md)
@@ -49079,6 +49727,8 @@
 * Handback File: [prerequisites-standard-cost-conversion.c8aa401146a1d0dd630f23dcadff57e06bb4d5ed.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/prerequisites-standard-cost-conversion.c8aa401146a1d0dd630f23dcadff57e06bb4d5ed.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [prerequisites-standard-cost-conversion.c8aa401146a1d0dd630f23dcadff57e06bb4d5ed.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/prerequisites-standard-cost-conversion.c8aa401146a1d0dd630f23dcadff57e06bb4d5ed.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='a014fe65f7038bee942b5707d5b9ed571ca659473244'></a> Source: [manufacturing\cost-management\production-order-cost-analysis.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/production-order-cost-analysis.md)
@@ -49093,6 +49743,8 @@
 * Handback File: [production-order-cost-analysis.8bfb9962709c18049516d5af5ecb5f147e9e5c0b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/production-order-cost-analysis.8bfb9962709c18049516d5af5ecb5f147e9e5c0b.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [production-order-cost-analysis.8bfb9962709c18049516d5af5ecb5f147e9e5c0b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/production-order-cost-analysis.8bfb9962709c18049516d5af5ecb5f147e9e5c0b.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='b27bbfa93f55626ea30274bdc77dd908d59702b93245'></a> Source: [manufacturing\cost-management\production-order-cost-estimation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/production-order-cost-estimation.md)
@@ -49107,6 +49759,8 @@
 * Handback File: [production-order-cost-estimation.047fe1e842e73d7e29432bc5e5e29cdb10992bc5.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/production-order-cost-estimation.047fe1e842e73d7e29432bc5e5e29cdb10992bc5.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [production-order-cost-estimation.047fe1e842e73d7e29432bc5e5e29cdb10992bc5.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/production-order-cost-estimation.047fe1e842e73d7e29432bc5e5e29cdb10992bc5.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='e5db0000da883530f96ce2037fffddf297ea53683246'></a> Source: [manufacturing\cost-management\production-process-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/production-process-overview.md)
@@ -49121,6 +49775,8 @@
 * Handback File: [production-process-overview.b2b0aa47e2254d3cca5f3de31502ef5f402a3cd9.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/production-process-overview.b2b0aa47e2254d3cca5f3de31502ef5f402a3cd9.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [production-process-overview.b2b0aa47e2254d3cca5f3de31502ef5f402a3cd9.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/production-process-overview.b2b0aa47e2254d3cca5f3de31502ef5f402a3cd9.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='b5f06fb633a45ee2cf42e1b8c70bd26c1344a67f3247'></a> Source: [manufacturing\cost-management\running-average-cost-price.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/running-average-cost-price.md)
@@ -49135,6 +49791,8 @@
 * Handback File: [running-average-cost-price.24c706203eebf2a1fe0293c610de6a8d60bebbef.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/running-average-cost-price.24c706203eebf2a1fe0293c610de6a8d60bebbef.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [running-average-cost-price.24c706203eebf2a1fe0293c610de6a8d60bebbef.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/running-average-cost-price.24c706203eebf2a1fe0293c610de6a8d60bebbef.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='4b227fa3c1071726dcd7c4c01a55733399394a163248'></a> Source: [manufacturing\cost-management\simulate-cost-changes-costing-version-planned-costs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/simulate-cost-changes-costing-version-planned-costs.md)
@@ -49149,6 +49807,8 @@
 * Handback File: [simulate-cost-changes-costing-version-planned-costs.43fd9e80298e5b0f9f8d47491026e351c9ec3f60.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/simulate-cost-changes-costing-version-planned-costs.43fd9e80298e5b0f9f8d47491026e351c9ec3f60.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [simulate-cost-changes-costing-version-planned-costs.43fd9e80298e5b0f9f8d47491026e351c9ec3f60.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/simulate-cost-changes-costing-version-planned-costs.43fd9e80298e5b0f9f8d47491026e351c9ec3f60.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='b183ae20a93ea2bb89de0f3af1d9acce5031c8d43249'></a> Source: [manufacturing\cost-management\standard-cost-conversion-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/standard-cost-conversion-overview.md)
@@ -49163,6 +49823,8 @@
 * Handback File: [standard-cost-conversion-overview.cb3fe594b7a519a3f7b2ed576fa3adfab3fe9ae9.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/standard-cost-conversion-overview.cb3fe594b7a519a3f7b2ed576fa3adfab3fe9ae9.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [standard-cost-conversion-overview.cb3fe594b7a519a3f7b2ed576fa3adfab3fe9ae9.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/standard-cost-conversion-overview.cb3fe594b7a519a3f7b2ed576fa3adfab3fe9ae9.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='0cca097a65e73e74803f2775a884793085a69a583250'></a> Source: [manufacturing\cost-management\supply-chain-management-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/supply-chain-management-home-page.md)
@@ -49177,6 +49839,8 @@
 * Handback File: [supply-chain-management-home-page.6ca93f9bf058fc4e4a24b66dac1f913c5229b9da.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/supply-chain-management-home-page.6ca93f9bf058fc4e4a24b66dac1f913c5229b9da.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [supply-chain-management-home-page.6ca93f9bf058fc4e4a24b66dac1f913c5229b9da.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/supply-chain-management-home-page.6ca93f9bf058fc4e4a24b66dac1f913c5229b9da.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='01c412de48503d25be77721fadf3ba03a02b95c93251'></a> Source: [manufacturing\cost-management\track-running-average-cost-per-inventory-dimension.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/track-running-average-cost-per-inventory-dimension.md)
@@ -49191,6 +49855,8 @@
 * Handback File: [track-running-average-cost-per-inventory-dimension.27640c5abfc5a7c401c3bde0244c6c15a511ca72.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/track-running-average-cost-per-inventory-dimension.27640c5abfc5a7c401c3bde0244c6c15a511ca72.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [track-running-average-cost-per-inventory-dimension.27640c5abfc5a7c401c3bde0244c6c15a511ca72.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/track-running-average-cost-per-inventory-dimension.27640c5abfc5a7c401c3bde0244c6c15a511ca72.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='71e2811ef50597da6d3b8fff2540825a30132dff3252'></a> Source: [manufacturing\cost-management\update-standard-costs-manufacturing-environment.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/update-standard-costs-manufacturing-environment.md)
@@ -49205,6 +49871,8 @@
 * Handback File: [update-standard-costs-manufacturing-environment.e6b0344316a0e8dfe54d320ecd2603d53be997bc.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/update-standard-costs-manufacturing-environment.e6b0344316a0e8dfe54d320ecd2603d53be997bc.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [update-standard-costs-manufacturing-environment.e6b0344316a0e8dfe54d320ecd2603d53be997bc.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/update-standard-costs-manufacturing-environment.e6b0344316a0e8dfe54d320ecd2603d53be997bc.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='8fbb2965b7543542e7004c0f99600d4a1fd84e853253'></a> Source: [manufacturing\cost-management\update-standard-costs-new-manufactured-item.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/update-standard-costs-new-manufactured-item.md)
@@ -49219,6 +49887,8 @@
 * Handback File: [update-standard-costs-new-manufactured-item.6ed7f00dfc6e889bbf7cf82e0daed18d7905deab.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/update-standard-costs-new-manufactured-item.6ed7f00dfc6e889bbf7cf82e0daed18d7905deab.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [update-standard-costs-new-manufactured-item.6ed7f00dfc6e889bbf7cf82e0daed18d7905deab.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/update-standard-costs-new-manufactured-item.6ed7f00dfc6e889bbf7cf82e0daed18d7905deab.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='fc0cc6018f3a4d62cf06fd1f44052f73c327557c3254'></a> Source: [manufacturing\cost-management\update-standard-costs-non-manufacturing-environment.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/update-standard-costs-non-manufacturing-environment.md)
@@ -49233,6 +49903,8 @@
 * Handback File: [update-standard-costs-non-manufacturing-environment.a534a43935e12a31bd14ce1def245d8db6eaab34.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/update-standard-costs-non-manufacturing-environment.a534a43935e12a31bd14ce1def245d8db6eaab34.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [update-standard-costs-non-manufacturing-environment.a534a43935e12a31bd14ce1def245d8db6eaab34.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/update-standard-costs-non-manufacturing-environment.a534a43935e12a31bd14ce1def245d8db6eaab34.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='8837e6ebc5deb07e84b6f368d4efb1dadf7ea9113255'></a> Source: [manufacturing\cost-management\weighted-average-date.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/weighted-average-date.md)
@@ -49247,6 +49919,8 @@
 * Handback File: [weighted-average-date.33adbc070892df9a9c47cdd5b8db2457d0ebff01.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/weighted-average-date.33adbc070892df9a9c47cdd5b8db2457d0ebff01.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [weighted-average-date.33adbc070892df9a9c47cdd5b8db2457d0ebff01.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/weighted-average-date.33adbc070892df9a9c47cdd5b8db2457d0ebff01.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='f4c26014e84c2fbfdb1aa9f0284f70189d5ce3c53256'></a> Source: [manufacturing\cost-management\weighted-average-physical-value-marking.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/cost-management/weighted-average-physical-value-marking.md)
@@ -49261,6 +49935,8 @@
 * Handback File: [weighted-average-physical-value-marking.29a065a2a645681f62f5511b919ad243887f19b5.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/weighted-average-physical-value-marking.29a065a2a645681f62f5511b919ad243887f19b5.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [weighted-average-physical-value-marking.29a065a2a645681f62f5511b919ad243887f19b5.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/weighted-average-physical-value-marking.29a065a2a645681f62f5511b919ad243887f19b5.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='8c782634c50177c0fbc8e7472ef97a9d1822eeb03257'></a> Source: [manufacturing\docfx.json](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/manufacturing/docfx.json)
@@ -49303,6 +49979,8 @@
 * Handback File: [consignment.6208ac080718fd8cdd8a79239ae3510290307096.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/consignment.6208ac080718fd8cdd8a79239ae3510290307096.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [consignment.6208ac080718fd8cdd8a79239ae3510290307096.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/consignment.6208ac080718fd8cdd8a79239ae3510290307096.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='366e182221fa5a05e527440960edc292ac3dc7ba3260'></a> Source: [manufacturing\inventory-management\enable-nonconformance-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/inventory-management/enable-nonconformance-management.md)
@@ -49317,6 +49995,8 @@
 * Handback File: [enable-nonconformance-management.83f615ee848416a141afcc1e229b8616c60bbeb3.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/enable-nonconformance-management.83f615ee848416a141afcc1e229b8616c60bbeb3.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [enable-nonconformance-management.83f615ee848416a141afcc1e229b8616c60bbeb3.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/enable-nonconformance-management.83f615ee848416a141afcc1e229b8616c60bbeb3.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='236e517dcfe35e0d0bf44e0c52e093efff1217e33261'></a> Source: [manufacturing\inventory-management\media\consignment-replenishment-order.png](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/manufacturing/inventory-management/media/consignment-replenishment-order.png)
@@ -49401,6 +50081,8 @@
 * Handback File: [merge-inventory-batches.6eadf0c3d493f4d96d57c075857661d740f83034.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/merge-inventory-batches.6eadf0c3d493f4d96d57c075857661d740f83034.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [merge-inventory-batches.6eadf0c3d493f4d96d57c075857661d740f83034.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/merge-inventory-batches.6eadf0c3d493f4d96d57c075857661d740f83034.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='51581dffad628354d13111a7a4caf97570e012073267'></a> Source: [manufacturing\inventory-management\quality-management-processes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/inventory-management/quality-management-processes.md)
@@ -49415,6 +50097,8 @@
 * Handback File: [quality-management-processes.5d65b9e348ca9fa85335b9905f9838cac775ac7e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/quality-management-processes.5d65b9e348ca9fa85335b9905f9838cac775ac7e.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [quality-management-processes.5d65b9e348ca9fa85335b9905f9838cac775ac7e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/quality-management-processes.5d65b9e348ca9fa85335b9905f9838cac775ac7e.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='61db917f369c230e5197273d253aaa689e3ba7223268'></a> Source: [manufacturing\inventory-management\quarantine-orders.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/inventory-management/quarantine-orders.md)
@@ -49429,6 +50113,8 @@
 * Handback File: [quarantine-orders.24d14fdd421462e3efff8fe0a6160628bc3f70c1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/quarantine-orders.24d14fdd421462e3efff8fe0a6160628bc3f70c1.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [quarantine-orders.24d14fdd421462e3efff8fe0a6160628bc3f70c1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/quarantine-orders.24d14fdd421462e3efff8fe0a6160628bc3f70c1.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='9dcc22f8c41a4e45269d46649eb942f3e158693d3269'></a> Source: [manufacturing\inventory-management\reserve-inventory-quantities.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/inventory-management/reserve-inventory-quantities.md)
@@ -49443,6 +50129,8 @@
 * Handback File: [reserve-inventory-quantities.d210fb3eede37f3609426907a887dd3b270cb04e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/reserve-inventory-quantities.d210fb3eede37f3609426907a887dd3b270cb04e.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [reserve-inventory-quantities.d210fb3eede37f3609426907a887dd3b270cb04e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/reserve-inventory-quantities.d210fb3eede37f3609426907a887dd3b270cb04e.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='65d409a5a5d7c9d41541f1c31cf0ec5d73ab38763270'></a> Source: [manufacturing\inventory-management\reserve-same-batch-sales-order.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/inventory-management/reserve-same-batch-sales-order.md)
@@ -49457,6 +50145,8 @@
 * Handback File: [reserve-same-batch-sales-order.d2f26d7c78ed892ee510d3525edd27250aa84b75.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/reserve-same-batch-sales-order.d2f26d7c78ed892ee510d3525edd27250aa84b75.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [reserve-same-batch-sales-order.d2f26d7c78ed892ee510d3525edd27250aa84b75.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/reserve-same-batch-sales-order.d2f26d7c78ed892ee510d3525edd27250aa84b75.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='58bf93d9cb3f9a2ed165b7f419d08695ff4999923271'></a> Source: [manufacturing\inventory-management\set-up-consignment.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/inventory-management/set-up-consignment.md)
@@ -49471,6 +50161,8 @@
 * Handback File: [set-up-consignment.8efe98391ffe4e603b109f03b388490c5a08bbd4.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-consignment.8efe98391ffe4e603b109f03b388490c5a08bbd4.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [set-up-consignment.8efe98391ffe4e603b109f03b388490c5a08bbd4.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-consignment.8efe98391ffe4e603b109f03b388490c5a08bbd4.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='35120c946554251698b8f72ddc13f4c4b98dee243272'></a> Source: [manufacturing\inventory-management\trace-items-raw-materials-inventory-production-sales.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/inventory-management/trace-items-raw-materials-inventory-production-sales.md)
@@ -49485,6 +50177,8 @@
 * Handback File: [trace-items-raw-materials-inventory-production-sales.96ba255fe63a13e307390dfbec1bc8121dd7862e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/trace-items-raw-materials-inventory-production-sales.96ba255fe63a13e307390dfbec1bc8121dd7862e.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [trace-items-raw-materials-inventory-production-sales.96ba255fe63a13e307390dfbec1bc8121dd7862e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/trace-items-raw-materials-inventory-production-sales.96ba255fe63a13e307390dfbec1bc8121dd7862e.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='7528782dd55fe2cea4e0253c08fee978b75f28b13273'></a> Source: [manufacturing\master-planning\authorize-adjusted-forecast.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/master-planning/authorize-adjusted-forecast.md)
@@ -49499,6 +50193,8 @@
 * Handback File: [authorize-adjusted-forecast.2aef3b24d79fd07aa9b0d46290862165bf66f98a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/authorize-adjusted-forecast.2aef3b24d79fd07aa9b0d46290862165bf66f98a.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [authorize-adjusted-forecast.2aef3b24d79fd07aa9b0d46290862165bf66f98a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/authorize-adjusted-forecast.2aef3b24d79fd07aa9b0d46290862165bf66f98a.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='5a1e46cc8c11a65a358d2e9943d1c02b5195416f3274'></a> Source: [manufacturing\master-planning\coverage-settings.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/master-planning/coverage-settings.md)
@@ -49513,6 +50209,8 @@
 * Handback File: [coverage-settings.3227d59609bc592bac871a15a363393955a4b0bb.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/coverage-settings.3227d59609bc592bac871a15a363393955a4b0bb.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [coverage-settings.3227d59609bc592bac871a15a363393955a4b0bb.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/coverage-settings.3227d59609bc592bac871a15a363393955a4b0bb.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='2a14c1587d0f631e8e101dffc797d3139fc79b203275'></a> Source: [manufacturing\master-planning\delays.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/master-planning/delays.md)
@@ -49527,6 +50225,8 @@
 * Handback File: [delays.f3b26d3912baf8148a38e8e3e2ddd02b56fd36e7.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/delays.f3b26d3912baf8148a38e8e3e2ddd02b56fd36e7.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [delays.f3b26d3912baf8148a38e8e3e2ddd02b56fd36e7.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/delays.f3b26d3912baf8148a38e8e3e2ddd02b56fd36e7.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='8539224a67c4f6a33a43c406d0ec54dc03625d7a3277'></a> Source: [manufacturing\master-planning\demand-forecasting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/master-planning/demand-forecasting.md)
@@ -49541,6 +50241,8 @@
 * Handback File: [demand-forecasting.25487a80e859f794b734b8706c0b139e255f38bf.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/demand-forecasting.25487a80e859f794b734b8706c0b139e255f38bf.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [demand-forecasting.25487a80e859f794b734b8706c0b139e255f38bf.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/demand-forecasting.25487a80e859f794b734b8706c0b139e255f38bf.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='0b65ffe0cfdbec366f82cf7186a158a25a7ed55c3276'></a> Source: [manufacturing\master-planning\demand-forecasting-setup.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/master-planning/demand-forecasting-setup.md)
@@ -49555,6 +50257,8 @@
 * Handback File: [demand-forecasting-setup.286101762c004dbc9209cefc486298b69a7d06d1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/demand-forecasting-setup.286101762c004dbc9209cefc486298b69a7d06d1.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [demand-forecasting-setup.286101762c004dbc9209cefc486298b69a7d06d1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/demand-forecasting-setup.286101762c004dbc9209cefc486298b69a7d06d1.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='80871b4cacde2d37c2d044739b2cc7a2f8e9dfc63278'></a> Source: [manufacturing\master-planning\generate-statistical-baseline-forecast.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/master-planning/generate-statistical-baseline-forecast.md)
@@ -49569,6 +50273,8 @@
 * Handback File: [generate-statistical-baseline-forecast.d5926896a6895b2edcdcf15a592bcd9263b35152.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/generate-statistical-baseline-forecast.d5926896a6895b2edcdcf15a592bcd9263b35152.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [generate-statistical-baseline-forecast.d5926896a6895b2edcdcf15a592bcd9263b35152.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/generate-statistical-baseline-forecast.d5926896a6895b2edcdcf15a592bcd9263b35152.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='5bc84ad821c42bc2c8e86bdb424c1d2944c703e83279'></a> Source: [manufacturing\master-planning\introduction-demand-forecasting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/master-planning/introduction-demand-forecasting.md)
@@ -49583,6 +50289,8 @@
 * Handback File: [introduction-demand-forecasting.7df9a0e92c63c28672da9eed29da8a332a5fdb05.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/introduction-demand-forecasting.7df9a0e92c63c28672da9eed29da8a332a5fdb05.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [introduction-demand-forecasting.7df9a0e92c63c28672da9eed29da8a332a5fdb05.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/introduction-demand-forecasting.7df9a0e92c63c28672da9eed29da8a332a5fdb05.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='b7b40864b70e23219ceabb4d39ee7510665192e93280'></a> Source: [manufacturing\master-planning\maintain-planned-orders.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/master-planning/maintain-planned-orders.md)
@@ -49597,6 +50305,8 @@
 * Handback File: [maintain-planned-orders.dc5016dcf6702acaa93200338f2a90d852c8f8c4.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/maintain-planned-orders.dc5016dcf6702acaa93200338f2a90d852c8f8c4.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [maintain-planned-orders.dc5016dcf6702acaa93200338f2a90d852c8f8c4.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/maintain-planned-orders.dc5016dcf6702acaa93200338f2a90d852c8f8c4.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='da1765651875dd1d5a5687be69e02fc6063ba9e73281'></a> Source: [manufacturing\master-planning\manual-adjustments-baseline-forecast.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/master-planning/manual-adjustments-baseline-forecast.md)
@@ -49611,6 +50321,8 @@
 * Handback File: [manual-adjustments-baseline-forecast.1364c8fdef2a73c7ac6be062a1e1c48e6f51a35a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/manual-adjustments-baseline-forecast.1364c8fdef2a73c7ac6be062a1e1c48e6f51a35a.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [manual-adjustments-baseline-forecast.1364c8fdef2a73c7ac6be062a1e1c48e6f51a35a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/manual-adjustments-baseline-forecast.1364c8fdef2a73c7ac6be062a1e1c48e6f51a35a.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='2cad3e52afdabcbec4b46a6756b2fec75e53c6343289'></a> Source: [manufacturing\master-planning\master-plan.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/manufacturing/master-planning/master-plan.md)
@@ -49639,6 +50351,8 @@
 * Handback File: [master-plan-bom-version-determined.e2bdc62fe770260dcdc064a85ead3505345b5379.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/master-plan-bom-version-determined.e2bdc62fe770260dcdc064a85ead3505345b5379.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [master-plan-bom-version-determined.e2bdc62fe770260dcdc064a85ead3505345b5379.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/master-plan-bom-version-determined.e2bdc62fe770260dcdc064a85ead3505345b5379.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='2e0d32187163f0ac8ad7c2fc35cd750207a3c3d13283'></a> Source: [manufacturing\master-planning\master-plan-explosion-bom-version.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/master-planning/master-plan-explosion-bom-version.md)
@@ -49653,6 +50367,8 @@
 * Handback File: [master-plan-explosion-bom-version.be22808ae6b71caa02923acf89758879932d5a02.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/master-plan-explosion-bom-version.be22808ae6b71caa02923acf89758879932d5a02.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [master-plan-explosion-bom-version.be22808ae6b71caa02923acf89758879932d5a02.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/master-plan-explosion-bom-version.be22808ae6b71caa02923acf89758879932d5a02.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='930ea39ecbe3d6198535a820c43ef73e454874623284'></a> Source: [manufacturing\master-planning\master-plan-multisite-functionality.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/master-planning/master-plan-multisite-functionality.md)
@@ -49667,6 +50383,8 @@
 * Handback File: [master-plan-multisite-functionality.be79d41e9e262462fe325a1f928f3a8d9428a866.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/master-plan-multisite-functionality.be79d41e9e262462fe325a1f928f3a8d9428a866.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [master-plan-multisite-functionality.be79d41e9e262462fe325a1f928f3a8d9428a866.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/master-plan-multisite-functionality.be79d41e9e262462fe325a1f928f3a8d9428a866.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='a2b34aa7df9e8cfdfa614c43fa35e749b7262c6a3290'></a> Source: [manufacturing\master-planning\master-plans.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/master-planning/master-plans.md)
@@ -49681,6 +50399,8 @@
 * Handback File: [master-plans.7b901f6cdc946193e31294eee00e5a921578e5ef.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/master-plans.7b901f6cdc946193e31294eee00e5a921578e5ef.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [master-plans.7b901f6cdc946193e31294eee00e5a921578e5ef.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/master-plans.7b901f6cdc946193e31294eee00e5a921578e5ef.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='58e2d8ac1c51a7dbca97a18b6251061c78b0134d3285'></a> Source: [manufacturing\master-planning\master-plan-site-coverage-warehouse-mandatory.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/master-planning/master-plan-site-coverage-warehouse-mandatory.md)
@@ -49695,6 +50415,8 @@
 * Handback File: [master-plan-site-coverage-warehouse-mandatory.6040ea6acfbeb540c0fa67da5fa5b1d7035b9277.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/master-plan-site-coverage-warehouse-mandatory.6040ea6acfbeb540c0fa67da5fa5b1d7035b9277.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [master-plan-site-coverage-warehouse-mandatory.6040ea6acfbeb540c0fa67da5fa5b1d7035b9277.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/master-plan-site-coverage-warehouse-mandatory.6040ea6acfbeb540c0fa67da5fa5b1d7035b9277.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='a29e4aff82c4a0cd7caab0c4c87fd7a8b3fed9393286'></a> Source: [manufacturing\master-planning\master-plan-site-coverage-warehouse-not-mandatory.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/master-planning/master-plan-site-coverage-warehouse-not-mandatory.md)
@@ -49709,6 +50431,8 @@
 * Handback File: [master-plan-site-coverage-warehouse-not-mandatory.a6cc2aeb05468bbd21940cfe31847eed5708c45c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/master-plan-site-coverage-warehouse-not-mandatory.a6cc2aeb05468bbd21940cfe31847eed5708c45c.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [master-plan-site-coverage-warehouse-not-mandatory.a6cc2aeb05468bbd21940cfe31847eed5708c45c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/master-plan-site-coverage-warehouse-not-mandatory.a6cc2aeb05468bbd21940cfe31847eed5708c45c.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='39ead421da7df9979ad7fcfa9f101f39507724503287'></a> Source: [manufacturing\master-planning\master-plan-site-warehouse-coverage-warehouse-mandatory.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/master-planning/master-plan-site-warehouse-coverage-warehouse-mandatory.md)
@@ -49723,6 +50447,8 @@
 * Handback File: [master-plan-site-warehouse-coverage-warehouse-mandatory.af4b4463c971be9d8059eeef7c7d272b85ee02c1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/master-plan-site-warehouse-coverage-warehouse-mandatory.af4b4463c971be9d8059eeef7c7d272b85ee02c1.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [master-plan-site-warehouse-coverage-warehouse-mandatory.af4b4463c971be9d8059eeef7c7d272b85ee02c1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/master-plan-site-warehouse-coverage-warehouse-mandatory.af4b4463c971be9d8059eeef7c7d272b85ee02c1.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='f0f9179c49383ac5ef6bb5119932e89c0e4baffb3288'></a> Source: [manufacturing\master-planning\master-plan-site-warehouse-coverage-warehouse-not-mandatory.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/master-planning/master-plan-site-warehouse-coverage-warehouse-not-mandatory.md)
@@ -49737,6 +50463,8 @@
 * Handback File: [master-plan-site-warehouse-coverage-warehouse-not-mandatory.526ea00dc414275fcc63f2c43e5c74903c9c59d4.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/master-plan-site-warehouse-coverage-warehouse-not-mandatory.526ea00dc414275fcc63f2c43e5c74903c9c59d4.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [master-plan-site-warehouse-coverage-warehouse-not-mandatory.526ea00dc414275fcc63f2c43e5c74903c9c59d4.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/master-plan-site-warehouse-coverage-warehouse-not-mandatory.526ea00dc414275fcc63f2c43e5c74903c9c59d4.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='9b5307d6017230a473fd608d77313b4d9ee3d7383291'></a> Source: [manufacturing\master-planning\media\demand-forecasting-introduction.png](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/manufacturing/master-planning/media/demand-forecasting-introduction.png)
@@ -49835,6 +50563,8 @@
 * Handback File: [monitor-forecast-accuracy.5c97d166547f316f036427ef7dbdf409095f2e07.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/monitor-forecast-accuracy.5c97d166547f316f036427ef7dbdf409095f2e07.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [monitor-forecast-accuracy.5c97d166547f316f036427ef7dbdf409095f2e07.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/monitor-forecast-accuracy.5c97d166547f316f036427ef7dbdf409095f2e07.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='95e53ac804319f0e9c5f8d3df7ab0a71c200afbd3298'></a> Source: [manufacturing\master-planning\reduction-keys.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/master-planning/reduction-keys.md)
@@ -49849,6 +50579,8 @@
 * Handback File: [reduction-keys.0527fe827c3e9d07e6c6c485671aa69538344a80.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/reduction-keys.0527fe827c3e9d07e6c6c485671aa69538344a80.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [reduction-keys.0527fe827c3e9d07e6c6c485671aa69538344a80.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/reduction-keys.0527fe827c3e9d07e6c6c485671aa69538344a80.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='4aa383f3d6dd3ea0fe23a98abe11516dbddd60b53299'></a> Source: [manufacturing\master-planning\remove-historical-outliers-calculating-demand-forecast.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/master-planning/remove-historical-outliers-calculating-demand-forecast.md)
@@ -49863,6 +50595,8 @@
 * Handback File: [remove-historical-outliers-calculating-demand-forecast.2750dcedd3a055929f5501f1e08b7f4b714e384a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/remove-historical-outliers-calculating-demand-forecast.2750dcedd3a055929f5501f1e08b7f4b714e384a.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [remove-historical-outliers-calculating-demand-forecast.2750dcedd3a055929f5501f1e08b7f4b714e384a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/remove-historical-outliers-calculating-demand-forecast.2750dcedd3a055929f5501f1e08b7f4b714e384a.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='8bfa9a19f4fba81e804d490cee08b7cd810f73943300'></a> Source: [manufacturing\master-planning\trace-explosion.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/master-planning/trace-explosion.md)
@@ -49877,6 +50611,8 @@
 * Handback File: [trace-explosion.51d531c56c4f3fb1edcc50823de6f33cb3f2b873.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/trace-explosion.51d531c56c4f3fb1edcc50823de6f33cb3f2b873.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [trace-explosion.51d531c56c4f3fb1edcc50823de6f33cb3f2b873.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/trace-explosion.51d531c56c4f3fb1edcc50823de6f33cb3f2b873.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='40df46c84f623602d46b950c6b4b806d917b7df93301'></a> Source: [manufacturing\procurement-sourcing\collaborate-vendors-vendor-portal.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/procurement-sourcing/collaborate-vendors-vendor-portal.md)
@@ -49891,6 +50627,8 @@
 * Handback File: [collaborate-vendors-vendor-portal.fe1ece7fcdc939f986dc260aef74a192108b17b7.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/collaborate-vendors-vendor-portal.fe1ece7fcdc939f986dc260aef74a192108b17b7.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [collaborate-vendors-vendor-portal.fe1ece7fcdc939f986dc260aef74a192108b17b7.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/collaborate-vendors-vendor-portal.fe1ece7fcdc939f986dc260aef74a192108b17b7.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='7340a52e4083bc290399542b8f26f679ca9c1c833302'></a> Source: [manufacturing\procurement-sourcing\configure-security-vendor-portal-users.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/procurement-sourcing/configure-security-vendor-portal-users.md)
@@ -49905,6 +50643,8 @@
 * Handback File: [configure-security-vendor-portal-users.a2c1d9990946ec900a4d39be7310c759c295730e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-security-vendor-portal-users.a2c1d9990946ec900a4d39be7310c759c295730e.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [configure-security-vendor-portal-users.a2c1d9990946ec900a4d39be7310c759c295730e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-security-vendor-portal-users.a2c1d9990946ec900a4d39be7310c759c295730e.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='cc1c0a120a7ffc853da64ef5d89cf126878508ae3303'></a> Source: [manufacturing\procurement-sourcing\media\demand-consolidation.gif](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/manufacturing/procurement-sourcing/media/demand-consolidation.gif)
@@ -50003,6 +50743,8 @@
 * Handback File: [procurement-catalogs.01a8b5cf7e72fc1ef90b59278bdaba010d3e072a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/procurement-catalogs.01a8b5cf7e72fc1ef90b59278bdaba010d3e072a.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [procurement-catalogs.01a8b5cf7e72fc1ef90b59278bdaba010d3e072a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/procurement-catalogs.01a8b5cf7e72fc1ef90b59278bdaba010d3e072a.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='209e43d19d3000f919121b347073fdd8ea39a6793312'></a> Source: [manufacturing\procurement-sourcing\procurement-sourcing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/procurement-sourcing/procurement-sourcing.md)
@@ -50017,6 +50759,8 @@
 * Handback File: [procurement-sourcing.45a1b6fda438d3395cc9cdbb3f23f453791f624e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/procurement-sourcing.45a1b6fda438d3395cc9cdbb3f23f453791f624e.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [procurement-sourcing.45a1b6fda438d3395cc9cdbb3f23f453791f624e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/procurement-sourcing.45a1b6fda438d3395cc9cdbb3f23f453791f624e.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='acceffff8074e1886ad7c92e57137e65a521395a3310'></a> Source: [manufacturing\procurement-sourcing\procurement-sourcing-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/procurement-sourcing/procurement-sourcing-overview.md)
@@ -50031,6 +50775,8 @@
 * Handback File: [procurement-sourcing-overview.a82f09689082e42b5974a55e12bd7e3dc1abe243.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/procurement-sourcing-overview.a82f09689082e42b5974a55e12bd7e3dc1abe243.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [procurement-sourcing-overview.a82f09689082e42b5974a55e12bd7e3dc1abe243.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/procurement-sourcing-overview.a82f09689082e42b5974a55e12bd7e3dc1abe243.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='b648ee4c111a472cf6cfda92803a58baa832756c3311'></a> Source: [manufacturing\procurement-sourcing\procurement-sourcing-workflows.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/procurement-sourcing/procurement-sourcing-workflows.md)
@@ -50045,6 +50791,8 @@
 * Handback File: [procurement-sourcing-workflows.b50cc2847bd93c1d763091277655ceef3ade7eef.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/procurement-sourcing-workflows.b50cc2847bd93c1d763091277655ceef3ade7eef.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [procurement-sourcing-workflows.b50cc2847bd93c1d763091277655ceef3ade7eef.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/procurement-sourcing-workflows.b50cc2847bd93c1d763091277655ceef3ade7eef.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='1e2ee55bc8e9499f6d1c2857fe42922b825315a43313'></a> Source: [manufacturing\procurement-sourcing\product-receipt-against-purchase-orders.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/procurement-sourcing/product-receipt-against-purchase-orders.md)
@@ -50059,6 +50807,8 @@
 * Handback File: [product-receipt-against-purchase-orders.9c6d43849eb334863c6b73975cb7d66459cb7522.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/product-receipt-against-purchase-orders.9c6d43849eb334863c6b73975cb7d66459cb7522.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [product-receipt-against-purchase-orders.9c6d43849eb334863c6b73975cb7d66459cb7522.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/product-receipt-against-purchase-orders.9c6d43849eb334863c6b73975cb7d66459cb7522.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='b22b61500137e716469b7a00e52410b399c8f5723314'></a> Source: [manufacturing\procurement-sourcing\purchase-order-approval-confirmation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/procurement-sourcing/purchase-order-approval-confirmation.md)
@@ -50073,6 +50823,8 @@
 * Handback File: [purchase-order-approval-confirmation.66fe91248328d7f1e8e02366389e3ae39b164ec1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/purchase-order-approval-confirmation.66fe91248328d7f1e8e02366389e3ae39b164ec1.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [purchase-order-approval-confirmation.66fe91248328d7f1e8e02366389e3ae39b164ec1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/purchase-order-approval-confirmation.66fe91248328d7f1e8e02366389e3ae39b164ec1.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='9cabdc817119cd7321612a65488e43c5973fc38d3315'></a> Source: [manufacturing\procurement-sourcing\purchase-order-creation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/procurement-sourcing/purchase-order-creation.md)
@@ -50087,6 +50839,8 @@
 * Handback File: [purchase-order-creation.86e50afed78cd1593812be0a44ddaf4f93176e91.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/purchase-order-creation.86e50afed78cd1593812be0a44ddaf4f93176e91.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [purchase-order-creation.86e50afed78cd1593812be0a44ddaf4f93176e91.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/purchase-order-creation.86e50afed78cd1593812be0a44ddaf4f93176e91.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='7e4116f58558293276b7621d7c9a507039487e8e3316'></a> Source: [manufacturing\procurement-sourcing\purchase-order-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/procurement-sourcing/purchase-order-overview.md)
@@ -50101,6 +50855,8 @@
 * Handback File: [purchase-order-overview.2149747af0fda6905ddfe3bb86de36c7dfc7ee94.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/purchase-order-overview.2149747af0fda6905ddfe3bb86de36c7dfc7ee94.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [purchase-order-overview.2149747af0fda6905ddfe3bb86de36c7dfc7ee94.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/purchase-order-overview.2149747af0fda6905ddfe3bb86de36c7dfc7ee94.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='01683ac73dfc085a1c81679f2a2e3ffafb630b1e3317'></a> Source: [manufacturing\procurement-sourcing\purchase-policies.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/procurement-sourcing/purchase-policies.md)
@@ -50115,6 +50871,8 @@
 * Handback File: [purchase-policies.e76b2422a2f41f56788b1dace74f48b8555513c4.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/purchase-policies.e76b2422a2f41f56788b1dace74f48b8555513c4.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [purchase-policies.e76b2422a2f41f56788b1dace74f48b8555513c4.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/purchase-policies.e76b2422a2f41f56788b1dace74f48b8555513c4.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='381881ea694d64553e5a469583022c3f5d9cc6f03318'></a> Source: [manufacturing\procurement-sourcing\purchase-requisitions-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/procurement-sourcing/purchase-requisitions-overview.md)
@@ -50129,6 +50887,8 @@
 * Handback File: [purchase-requisitions-overview.51a16248763c5297ff54cb9ffb19e67d93061976.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/purchase-requisitions-overview.51a16248763c5297ff54cb9ffb19e67d93061976.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [purchase-requisitions-overview.51a16248763c5297ff54cb9ffb19e67d93061976.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/purchase-requisitions-overview.51a16248763c5297ff54cb9ffb19e67d93061976.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='31552aa9f34dcb64451f111e74246d9c5fc8a5203319'></a> Source: [manufacturing\procurement-sourcing\purchase-requisitions-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/procurement-sourcing/purchase-requisitions-workflow.md)
@@ -50143,6 +50903,8 @@
 * Handback File: [purchase-requisitions-workflow.f4df80c849376e16b1eb9401efeb76745b709114.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/purchase-requisitions-workflow.f4df80c849376e16b1eb9401efeb76745b709114.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [purchase-requisitions-workflow.f4df80c849376e16b1eb9401efeb76745b709114.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/purchase-requisitions-workflow.f4df80c849376e16b1eb9401efeb76745b709114.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='d2a10d06a934014664609134fd008cc4ff8e986c3320'></a> Source: [manufacturing\procurement-sourcing\request-quotations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/procurement-sourcing/request-quotations.md)
@@ -50157,6 +50919,8 @@
 * Handback File: [request-quotations.8213763ef5cd15beb1ed28e4c6036e875f4529fb.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/request-quotations.8213763ef5cd15beb1ed28e4c6036e875f4529fb.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [request-quotations.8213763ef5cd15beb1ed28e4c6036e875f4529fb.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/request-quotations.8213763ef5cd15beb1ed28e4c6036e875f4529fb.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='84f369a81ddbe15c66cd07485b92b7ce9cf5fa9d3321'></a> Source: [manufacturing\procurement-sourcing\set-up-vendor-accounts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/procurement-sourcing/set-up-vendor-accounts.md)
@@ -50171,6 +50935,8 @@
 * Handback File: [set-up-vendor-accounts.1e647128341c37c19f35d0a63601f5ac93f6a4a0.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-vendor-accounts.1e647128341c37c19f35d0a63601f5ac93f6a4a0.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [set-up-vendor-accounts.1e647128341c37c19f35d0a63601f5ac93f6a4a0.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-vendor-accounts.1e647128341c37c19f35d0a63601f5ac93f6a4a0.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='3aaa9d3933132f372346a7bd679ff364dbf9d1043322'></a> Source: [manufacturing\procurement-sourcing\vendor-collaboration-work-customers-dynamics-365-operations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/procurement-sourcing/vendor-collaboration-work-customers-dynamics-365-operations.md)
@@ -50185,6 +50951,8 @@
 * Handback File: [vendor-collaboration-work-customers-dynamics-365-operations.97e6746f1ccb2fdad83d83784ed2d3a9c44d94f6.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/vendor-collaboration-work-customers-dynamics-365-operations.97e6746f1ccb2fdad83d83784ed2d3a9c44d94f6.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [vendor-collaboration-work-customers-dynamics-365-operations.97e6746f1ccb2fdad83d83784ed2d3a9c44d94f6.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/vendor-collaboration-work-customers-dynamics-365-operations.97e6746f1ccb2fdad83d83784ed2d3a9c44d94f6.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='5d306434c24cd9df3e54b348d39c75c7e04999743323'></a> Source: [manufacturing\procurement-sourcing\vendor-collaboration-work-external-vendors.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/procurement-sourcing/vendor-collaboration-work-external-vendors.md)
@@ -50199,6 +50967,8 @@
 * Handback File: [vendor-collaboration-work-external-vendors.27ce0615d11a1821f54c999a1b65d9acef8f9989.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/vendor-collaboration-work-external-vendors.27ce0615d11a1821f54c999a1b65d9acef8f9989.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [vendor-collaboration-work-external-vendors.27ce0615d11a1821f54c999a1b65d9acef8f9989.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/vendor-collaboration-work-external-vendors.27ce0615d11a1821f54c999a1b65d9acef8f9989.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='c51083c7acb96b277fc92e676e603a73e6ede79e3324'></a> Source: [manufacturing\product-information-management\build-product-configuration-model.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/product-information-management/build-product-configuration-model.md)
@@ -50213,6 +50983,8 @@
 * Handback File: [build-product-configuration-model.162a109321f8419b7c600d5f56c9a74e8739c1d7.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/build-product-configuration-model.162a109321f8419b7c600d5f56c9a74e8739c1d7.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [build-product-configuration-model.162a109321f8419b7c600d5f56c9a74e8739c1d7.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/build-product-configuration-model.162a109321f8419b7c600d5f56c9a74e8739c1d7.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='90c8a2f0d564fe93eecd584d78d963f6559cf8783325'></a> Source: [manufacturing\product-information-management\calculate-product-configuration-models.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/product-information-management/calculate-product-configuration-models.md)
@@ -50227,6 +50999,8 @@
 * Handback File: [calculate-product-configuration-models.9e2c983d8f95dc4d8f5c31cbabff014c162baa3d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/calculate-product-configuration-models.9e2c983d8f95dc4d8f5c31cbabff014c162baa3d.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [calculate-product-configuration-models.9e2c983d8f95dc4d8f5c31cbabff014c162baa3d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/calculate-product-configuration-models.9e2c983d8f95dc4d8f5c31cbabff014c162baa3d.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='6482ee7305642abf1e4c95b22739b1ff60b2e3a43326'></a> Source: [manufacturing\product-information-management\configuration-rules.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/product-information-management/configuration-rules.md)
@@ -50241,6 +51015,8 @@
 * Handback File: [configuration-rules.2523a6562be25465f20c22f2ba0226ff956ed47b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configuration-rules.2523a6562be25465f20c22f2ba0226ff956ed47b.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [configuration-rules.2523a6562be25465f20c22f2ba0226ff956ed47b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configuration-rules.2523a6562be25465f20c22f2ba0226ff956ed47b.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='d36d450d95ade65e4a377efa519af9de3e17117b3327'></a> Source: [manufacturing\product-information-management\dimension-based-product-configuration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/product-information-management/dimension-based-product-configuration.md)
@@ -50255,6 +51031,8 @@
 * Handback File: [dimension-based-product-configuration.68d39f4193cde2de0427cc5ac7bdd605e662bcee.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/dimension-based-product-configuration.68d39f4193cde2de0427cc5ac7bdd605e662bcee.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [dimension-based-product-configuration.68d39f4193cde2de0427cc5ac7bdd605e662bcee.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/dimension-based-product-configuration.68d39f4193cde2de0427cc5ac7bdd605e662bcee.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='6cb6feebb322ea1e129191798cc7f8d9e6e30e253328'></a> Source: [manufacturing\product-information-management\media\3-steps-to-configure-product-search_axappfall.png](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/manufacturing/product-information-management/media/3-steps-to-configure-product-search_axappfall.png)
@@ -50311,6 +51089,8 @@
 * Handback File: [product-configuration.53d635b319388a2afbc15a184d56ce9c317f6e09.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/product-configuration.53d635b319388a2afbc15a184d56ce9c317f6e09.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [product-configuration.53d635b319388a2afbc15a184d56ce9c317f6e09.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/product-configuration.53d635b319388a2afbc15a184d56ce9c317f6e09.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='c9339572bc1c2876b80610613184eb062599c0c73331'></a> Source: [manufacturing\product-information-management\product-configuration-models.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/2b7f7f6979ca245a01ac65958d07084879fea5c4/manufacturing/product-information-management/product-configuration-models.md)
@@ -50325,6 +51105,8 @@
 * Handback File: [product-configuration-models.531149c814075aad66c5bb69a502ce49b732022d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/product-configuration-models.531149c814075aad66c5bb69a502ce49b732022d.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [product-configuration-models.531149c814075aad66c5bb69a502ce49b732022d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/product-configuration-models.531149c814075aad66c5bb69a502ce49b732022d.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='bea1efd3983e9348c7f857b26f67440061b213a33333'></a> Source: [manufacturing\product-information-management\product-dimensions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/product-information-management/product-dimensions.md)
@@ -50339,6 +51121,8 @@
 * Handback File: [product-dimensions.23ee2253258f78eb1a7a843a4e2351071c3d72b0.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/product-dimensions.23ee2253258f78eb1a7a843a4e2351071c3d72b0.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [product-dimensions.23ee2253258f78eb1a7a843a4e2351071c3d72b0.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/product-dimensions.23ee2253258f78eb1a7a843a4e2351071c3d72b0.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='88898f7d8d027714839f78250e61a17c7df2347f3334'></a> Source: [manufacturing\product-information-management\product-information.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/product-information-management/product-information.md)
@@ -50353,6 +51137,8 @@
 * Handback File: [product-information.aadc340cc19ce0a547e25d2534cbe419b944e89e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/product-information.aadc340cc19ce0a547e25d2534cbe419b944e89e.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [product-information.aadc340cc19ce0a547e25d2534cbe419b944e89e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/product-information.aadc340cc19ce0a547e25d2534cbe419b944e89e.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='8fc6dc1d3053e2173a0a2a286363c8815a05a1363335'></a> Source: [manufacturing\product-information-management\product-variant-identification-nomenclature.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/product-information-management/product-variant-identification-nomenclature.md)
@@ -50367,6 +51153,8 @@
 * Handback File: [product-variant-identification-nomenclature.ece5f76e070f9d22bd359f50520b1f74a077e5fd.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/product-variant-identification-nomenclature.ece5f76e070f9d22bd359f50520b1f74a077e5fd.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [product-variant-identification-nomenclature.ece5f76e070f9d22bd359f50520b1f74a077e5fd.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/product-variant-identification-nomenclature.ece5f76e070f9d22bd359f50520b1f74a077e5fd.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='a7adaa909f2507d750045595752ce7c8a93eadf93336'></a> Source: [manufacturing\product-information-management\register-serial-numbers-sales-process.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/product-information-management/register-serial-numbers-sales-process.md)
@@ -50381,6 +51169,8 @@
 * Handback File: [register-serial-numbers-sales-process.e513e15560bb06b6d8ea8e588f321878a296399a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/register-serial-numbers-sales-process.e513e15560bb06b6d8ea8e588f321878a296399a.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [register-serial-numbers-sales-process.e513e15560bb06b6d8ea8e588f321878a296399a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/register-serial-numbers-sales-process.e513e15560bb06b6d8ea8e588f321878a296399a.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='3e8f37c02e94af0e101e2e48c9cffbcb58c559243337'></a> Source: [manufacturing\product-information-management\reuse-product-configurations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/product-information-management/reuse-product-configurations.md)
@@ -50395,6 +51185,8 @@
 * Handback File: [reuse-product-configurations.8c5ee7f822e97c01b508bc7b05d0241c92904a7e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/reuse-product-configurations.8c5ee7f822e97c01b508bc7b05d0241c92904a7e.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [reuse-product-configurations.8c5ee7f822e97c01b508bc7b05d0241c92904a7e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/reuse-product-configurations.8c5ee7f822e97c01b508bc7b05d0241c92904a7e.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='d601a3e584d9569fd826a42fa34377222cdb92cc3338'></a> Source: [manufacturing\product-information-management\search-products-product-variants.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/product-information-management/search-products-product-variants.md)
@@ -50409,6 +51201,8 @@
 * Handback File: [search-products-product-variants.5a9d3bf6018e9a596cd37814f4982fba2b71190d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/search-products-product-variants.5a9d3bf6018e9a596cd37814f4982fba2b71190d.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [search-products-product-variants.5a9d3bf6018e9a596cd37814f4982fba2b71190d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/search-products-product-variants.5a9d3bf6018e9a596cd37814f4982fba2b71190d.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='a4d6f24fc82bea2c69f1ee9f497ff2e04fb696ad3339'></a> Source: [manufacturing\product-information-management\set-up-maintain-product-configuration-model.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/product-information-management/set-up-maintain-product-configuration-model.md)
@@ -50423,6 +51217,8 @@
 * Handback File: [set-up-maintain-product-configuration-model.d03f7d6c93cc048f715d843f128c998e0f4d7c1c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-maintain-product-configuration-model.d03f7d6c93cc048f715d843f128c998e0f4d7c1c.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [set-up-maintain-product-configuration-model.d03f7d6c93cc048f715d843f128c998e0f4d7c1c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-maintain-product-configuration-model.d03f7d6c93cc048f715d843f128c998e0f4d7c1c.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='48748f1e032b3a364eb773c4d2b6bd49a68073183340'></a> Source: [manufacturing\product-information-management\system-defined-user-defined-table-constraints.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/product-information-management/system-defined-user-defined-table-constraints.md)
@@ -50437,6 +51233,8 @@
 * Handback File: [system-defined-user-defined-table-constraints.a78b207bd525c3c097480e6e04c9ebf54593e05d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/system-defined-user-defined-table-constraints.a78b207bd525c3c097480e6e04c9ebf54593e05d.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [system-defined-user-defined-table-constraints.a78b207bd525c3c097480e6e04c9ebf54593e05d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/system-defined-user-defined-table-constraints.a78b207bd525c3c097480e6e04c9ebf54593e05d.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='471c516d4d3e11493a476ef8e0114fe0659575e83341'></a> Source: [manufacturing\product-information-management\translations-product-related-information.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/product-information-management/translations-product-related-information.md)
@@ -50451,6 +51249,8 @@
 * Handback File: [translations-product-related-information.42e18b517415e59f49eecfc72b4c57298e3a9932.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/translations-product-related-information.42e18b517415e59f49eecfc72b4c57298e3a9932.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [translations-product-related-information.42e18b517415e59f49eecfc72b4c57298e3a9932.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/translations-product-related-information.42e18b517415e59f49eecfc72b4c57298e3a9932.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='ba8041b46401ab1e5329717d4408b6aacafe11f63343'></a> Source: [manufacturing\production-control\activity-based-subcontracting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/activity-based-subcontracting.md)
@@ -50465,6 +51265,8 @@
 * Handback File: [activity-based-subcontracting.09ec68e389c2dffa03653e12a1d6530628e4276d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/activity-based-subcontracting.09ec68e389c2dffa03653e12a1d6530628e4276d.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [activity-based-subcontracting.09ec68e389c2dffa03653e12a1d6530628e4276d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/activity-based-subcontracting.09ec68e389c2dffa03653e12a1d6530628e4276d.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='23c33365756232e8355e1ba11b119dc1b20df9ce3344'></a> Source: [manufacturing\production-control\allocate-time-jobs-job-bundle.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/allocate-time-jobs-job-bundle.md)
@@ -50479,6 +51281,8 @@
 * Handback File: [allocate-time-jobs-job-bundle.b9a8eec2261c55595d6aa393fd79b827fe82dfb1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/allocate-time-jobs-job-bundle.b9a8eec2261c55595d6aa393fd79b827fe82dfb1.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [allocate-time-jobs-job-bundle.b9a8eec2261c55595d6aa393fd79b827fe82dfb1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/allocate-time-jobs-job-bundle.b9a8eec2261c55595d6aa393fd79b827fe82dfb1.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='81dc32b22e41cb450c7b3e61e56b6250114b0b753345'></a> Source: [manufacturing\production-control\batch-attributes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/batch-attributes.md)
@@ -50493,6 +51297,8 @@
 * Handback File: [batch-attributes.74c2c5931358f6c751a6e44b6ecc10a966259073.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/batch-attributes.74c2c5931358f6c751a6e44b6ecc10a966259073.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [batch-attributes.74c2c5931358f6c751a6e44b6ecc10a966259073.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/batch-attributes.74c2c5931358f6c751a6e44b6ecc10a966259073.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='6d7d49e748fcf9b65a26fa629559db6dc3bacccc3346'></a> Source: [manufacturing\production-control\bill-of-material-bom.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/bill-of-material-bom.md)
@@ -50507,6 +51313,8 @@
 * Handback File: [bill-of-material-bom.8b5164d9fa3a6c7483ed73449a3161f5108e0087.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/bill-of-material-bom.8b5164d9fa3a6c7483ed73449a3161f5108e0087.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [bill-of-material-bom.8b5164d9fa3a6c7483ed73449a3161f5108e0087.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/bill-of-material-bom.8b5164d9fa3a6c7483ed73449a3161f5108e0087.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='438a0ed6e361234195d9d2c70b7cacb1d634b0463347'></a> Source: [manufacturing\production-control\bom-designer-functionality.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/bom-designer-functionality.md)
@@ -50521,6 +51329,8 @@
 * Handback File: [bom-designer-functionality.bc522ec74b735babee6444ae8ea1048c2f17de0b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/bom-designer-functionality.bc522ec74b735babee6444ae8ea1048c2f17de0b.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [bom-designer-functionality.bc522ec74b735babee6444ae8ea1048c2f17de0b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/bom-designer-functionality.bc522ec74b735babee6444ae8ea1048c2f17de0b.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='0f4b4642c68619979ea0d15ac16b8988768c4d5b3348'></a> Source: [manufacturing\production-control\consolidated-batch-orders.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/consolidated-batch-orders.md)
@@ -50535,6 +51345,8 @@
 * Handback File: [consolidated-batch-orders.80079b8bda5af548f4db03637217027feebb3685.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/consolidated-batch-orders.80079b8bda5af548f4db03637217027feebb3685.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [consolidated-batch-orders.80079b8bda5af548f4db03637217027feebb3685.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/consolidated-batch-orders.80079b8bda5af548f4db03637217027feebb3685.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='6b88c66dca67ab3343f7a7a13a3ffb8cb7b48c633349'></a> Source: [manufacturing\production-control\consumption.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/consumption.md)
@@ -50549,6 +51361,8 @@
 * Handback File: [consumption.94bc56a33d53ce59ed31a0c74a1caed9f6771aff.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/consumption.94bc56a33d53ce59ed31a0c74a1caed9f6771aff.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [consumption.94bc56a33d53ce59ed31a0c74a1caed9f6771aff.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/consumption.94bc56a33d53ce59ed31a0c74a1caed9f6771aff.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='3738aab7f5a833f805225a1ed6ce200d092c84dc3350'></a> Source: [manufacturing\production-control\cost-controlling-mobile-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/cost-controlling-mobile-workspace.md)
@@ -50563,6 +51377,8 @@
 * Handback File: [cost-controlling-mobile-workspace.103a2f3f59f161235a17f88f337e0463c355ae23.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/cost-controlling-mobile-workspace.103a2f3f59f161235a17f88f337e0463c355ae23.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [cost-controlling-mobile-workspace.103a2f3f59f161235a17f88f337e0463c355ae23.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/cost-controlling-mobile-workspace.103a2f3f59f161235a17f88f337e0463c355ae23.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='330897407e53bf56f71afecece032fb99fa66bb73351'></a> Source: [manufacturing\production-control\create-production-orders.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/create-production-orders.md)
@@ -50577,6 +51393,8 @@
 * Handback File: [create-production-orders.3a21aeedba320622bf3aa3ea131f317dbf65795a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/create-production-orders.3a21aeedba320622bf3aa3ea131f317dbf65795a.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [create-production-orders.3a21aeedba320622bf3aa3ea131f317dbf65795a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/create-production-orders.3a21aeedba320622bf3aa3ea131f317dbf65795a.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='86e1d5d7f93e136455c07d3e71eb319fc51c2be03352'></a> Source: [manufacturing\production-control\default-order-settings.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/default-order-settings.md)
@@ -50591,6 +51409,8 @@
 * Handback File: [default-order-settings.9616367ef3752b933e0868e66ed915ddc71729fe.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/default-order-settings.9616367ef3752b933e0868e66ed915ddc71729fe.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [default-order-settings.9616367ef3752b933e0868e66ed915ddc71729fe.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/default-order-settings.9616367ef3752b933e0868e66ed915ddc71729fe.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='7360a4041734adc2efaf3c57f3d817848caf11cb3353'></a> Source: [manufacturing\production-control\discrete-manufacturing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/discrete-manufacturing.md)
@@ -50605,6 +51425,8 @@
 * Handback File: [discrete-manufacturing.af4d369ace2789c552ef2393e610acb536c4248e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/discrete-manufacturing.af4d369ace2789c552ef2393e610acb536c4248e.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [discrete-manufacturing.af4d369ace2789c552ef2393e610acb536c4248e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/discrete-manufacturing.af4d369ace2789c552ef2393e610acb536c4248e.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='f7880a8bd1c83c02ddfc575ba319b2117fbd6a4b3354'></a> Source: [manufacturing\production-control\expression-constraints-table-constraints-product-configuration-models.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/expression-constraints-table-constraints-product-configuration-models.md)
@@ -50619,6 +51441,8 @@
 * Handback File: [expression-constraints-table-constraints-product-configuration-models.e01c14eecb4e8489d986672fa436ec4603c938ea.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/expression-constraints-table-constraints-product-configuration-models.e01c14eecb4e8489d986672fa436ec4603c938ea.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [expression-constraints-table-constraints-product-configuration-models.e01c14eecb4e8489d986672fa436ec4603c938ea.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/expression-constraints-table-constraints-product-configuration-models.e01c14eecb4e8489d986672fa436ec4603c938ea.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='4046aaa1ee1a829ffd008524c00c04ad6a04a7a53355'></a> Source: [manufacturing\production-control\inventory-on-hand-mobile-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/inventory-on-hand-mobile-workspace.md)
@@ -50633,6 +51457,8 @@
 * Handback File: [inventory-on-hand-mobile-workspace.ae71a1aacba0834a44a3cd4655dc96fe9bdab576.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/inventory-on-hand-mobile-workspace.ae71a1aacba0834a44a3cd4655dc96fe9bdab576.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [inventory-on-hand-mobile-workspace.ae71a1aacba0834a44a3cd4655dc96fe9bdab576.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/inventory-on-hand-mobile-workspace.ae71a1aacba0834a44a3cd4655dc96fe9bdab576.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='924fdac108afda976c22690913a4708a399e364e3356'></a> Source: [manufacturing\production-control\job-scheduling.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/job-scheduling.md)
@@ -50647,6 +51473,8 @@
 * Handback File: [job-scheduling.f31f472d010e8b95177e6bd86d26e5186e07f909.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/job-scheduling.f31f472d010e8b95177e6bd86d26e5186e07f909.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [job-scheduling.f31f472d010e8b95177e6bd86d26e5186e07f909.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/job-scheduling.f31f472d010e8b95177e6bd86d26e5186e07f909.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='4293bfcb539ed96fd4c1d30b79ec0f1d22abd2a03357'></a> Source: [manufacturing\production-control\kanban-transfer-board-support-barcode-scanner.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/kanban-transfer-board-support-barcode-scanner.md)
@@ -50661,6 +51489,8 @@
 * Handback File: [kanban-transfer-board-support-barcode-scanner.9cea1547e7d2d337583633b5558350709cdcd54b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/kanban-transfer-board-support-barcode-scanner.9cea1547e7d2d337583633b5558350709cdcd54b.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [kanban-transfer-board-support-barcode-scanner.9cea1547e7d2d337583633b5558350709cdcd54b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/kanban-transfer-board-support-barcode-scanner.9cea1547e7d2d337583633b5558350709cdcd54b.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='1d8b7de068198db6be0b81f39a51f802d1166a9a3361'></a> Source: [manufacturing\production-control\lean-manufacturing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/lean-manufacturing.md)
@@ -50675,6 +51505,8 @@
 * Handback File: [lean-manufacturing.cf1ca0de99fb64c93e083f1cd314ffa3209dc3d6.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/lean-manufacturing.cf1ca0de99fb64c93e083f1cd314ffa3209dc3d6.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [lean-manufacturing.cf1ca0de99fb64c93e083f1cd314ffa3209dc3d6.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/lean-manufacturing.cf1ca0de99fb64c93e083f1cd314ffa3209dc3d6.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='451c5183de9b945aaeecb85ac82b4ca2286a42333358'></a> Source: [manufacturing\production-control\lean-manufacturing-kanban-job-scheduling.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/lean-manufacturing-kanban-job-scheduling.md)
@@ -50689,6 +51521,8 @@
 * Handback File: [lean-manufacturing-kanban-job-scheduling.e33df618f65f463e91c4879ea1b40858b4f04f1b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/lean-manufacturing-kanban-job-scheduling.e33df618f65f463e91c4879ea1b40858b4f04f1b.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [lean-manufacturing-kanban-job-scheduling.e33df618f65f463e91c4879ea1b40858b4f04f1b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/lean-manufacturing-kanban-job-scheduling.e33df618f65f463e91c4879ea1b40858b4f04f1b.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='48ea256d992f2590cdd92299e618716d1be607fb3359'></a> Source: [manufacturing\production-control\lean-manufacturing-modeling-lean-organization.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/lean-manufacturing-modeling-lean-organization.md)
@@ -50703,6 +51537,8 @@
 * Handback File: [lean-manufacturing-modeling-lean-organization.e7e6cda8185e1c9bbd45ee1235b56a2da0c1e239.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/lean-manufacturing-modeling-lean-organization.e7e6cda8185e1c9bbd45ee1235b56a2da0c1e239.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [lean-manufacturing-modeling-lean-organization.e7e6cda8185e1c9bbd45ee1235b56a2da0c1e239.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/lean-manufacturing-modeling-lean-organization.e7e6cda8185e1c9bbd45ee1235b56a2da0c1e239.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='3d63aae7d32336a6712f3c702260279300f3755b3360'></a> Source: [manufacturing\production-control\lean-manufacturing-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/lean-manufacturing-overview.md)
@@ -50717,6 +51553,8 @@
 * Handback File: [lean-manufacturing-overview.661783fc7256777d399b48aa7f3cb2599276fd99.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/lean-manufacturing-overview.661783fc7256777d399b48aa7f3cb2599276fd99.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [lean-manufacturing-overview.661783fc7256777d399b48aa7f3cb2599276fd99.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/lean-manufacturing-overview.661783fc7256777d399b48aa7f3cb2599276fd99.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='9391c0b8ea3ac8501108d07d881bbfc882d37bf53362'></a> Source: [manufacturing\production-control\manage-subcontract-work-production.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/manage-subcontract-work-production.md)
@@ -50731,6 +51569,8 @@
 * Handback File: [manage-subcontract-work-production.56037560c09a1dca41bff86326a20dbc51498f88.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/manage-subcontract-work-production.56037560c09a1dca41bff86326a20dbc51498f88.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [manage-subcontract-work-production.56037560c09a1dca41bff86326a20dbc51498f88.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/manage-subcontract-work-production.56037560c09a1dca41bff86326a20dbc51498f88.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='1bc8afed009e31b59ca456563b2404cd3bdd6ce23363'></a> Source: [manufacturing\production-control\master-plan.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/master-plan.md)
@@ -50745,6 +51585,8 @@
 * Handback File: [master-plan.ca5e331664c3f19bb7998df6afd7274a5d63dab5.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/master-plan.ca5e331664c3f19bb7998df6afd7274a5d63dab5.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [master-plan.ca5e331664c3f19bb7998df6afd7274a5d63dab5.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/master-plan.ca5e331664c3f19bb7998df6afd7274a5d63dab5.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='360ce7fb26a29ee5291a8ce6c1564c37a241e9693364'></a> Source: [manufacturing\production-control\media\cost-controlling.png](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/manufacturing/production-control/media/cost-controlling.png)
@@ -50829,6 +51671,8 @@
 * Handback File: [mixed-mode-plan.a5367305d82320b7e01d57cfd6a94663f4dc0c3d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/mixed-mode-plan.a5367305d82320b7e01d57cfd6a94663f4dc0c3d.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [mixed-mode-plan.a5367305d82320b7e01d57cfd6a94663f4dc0c3d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/mixed-mode-plan.a5367305d82320b7e01d57cfd6a94663f4dc0c3d.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='2eb2b256b789012410ea4dde5d35217af87fcd263370'></a> Source: [manufacturing\production-control\operation-scheduling-options.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/operation-scheduling-options.md)
@@ -50843,6 +51687,8 @@
 * Handback File: [operation-scheduling-options.adc1417bcf68021865d64c45485479bc691331ec.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/operation-scheduling-options.adc1417bcf68021865d64c45485479bc691331ec.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [operation-scheduling-options.adc1417bcf68021865d64c45485479bc691331ec.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/operation-scheduling-options.adc1417bcf68021865d64c45485479bc691331ec.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='a25353a4f7ae2a3cb6b8c35a88f72f1824546b473371'></a> Source: [manufacturing\production-control\operations-resources.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/operations-resources.md)
@@ -50857,6 +51703,8 @@
 * Handback File: [operations-resources.9f7b8f54dd54c841beb027b155781137962eb3ac.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/operations-resources.9f7b8f54dd54c841beb027b155781137962eb3ac.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [operations-resources.9f7b8f54dd54c841beb027b155781137962eb3ac.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/operations-resources.9f7b8f54dd54c841beb027b155781137962eb3ac.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='3aeda75a4a5f252d97af1efbdc50cb8b3c59e3263372'></a> Source: [manufacturing\production-control\operations-scheduling.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/operations-scheduling.md)
@@ -50871,6 +51719,8 @@
 * Handback File: [operations-scheduling.1f931b122aeb90e4353ae57bc36c38e086225761.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/operations-scheduling.1f931b122aeb90e4353ae57bc36c38e086225761.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [operations-scheduling.1f931b122aeb90e4353ae57bc36c38e086225761.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/operations-scheduling.1f931b122aeb90e4353ae57bc36c38e086225761.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='780a1c7784e1fe76db09f1ee1d2902a1e188394d3373'></a> Source: [manufacturing\production-control\process-manufacturing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/process-manufacturing.md)
@@ -50885,6 +51735,8 @@
 * Handback File: [process-manufacturing.13f1cc279d0512c67d96bf3833d303987da23f11.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/process-manufacturing.13f1cc279d0512c67d96bf3833d303987da23f11.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [process-manufacturing.13f1cc279d0512c67d96bf3833d303987da23f11.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/process-manufacturing.13f1cc279d0512c67d96bf3833d303987da23f11.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='d1390c653146aa3cb2e2de4e87cd0783c435cdfd3374'></a> Source: [manufacturing\production-control\production-feedback.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/production-feedback.md)
@@ -50899,6 +51751,8 @@
 * Handback File: [production-feedback.f7c571a2ac7060d1b9d459801ff41adae7e5626c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/production-feedback.f7c571a2ac7060d1b9d459801ff41adae7e5626c.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [production-feedback.f7c571a2ac7060d1b9d459801ff41adae7e5626c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/production-feedback.f7c571a2ac7060d1b9d459801ff41adae7e5626c.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='5c08e4eabfb017ea6874a9c51e199d4f50327f463375'></a> Source: [manufacturing\production-control\production-order-defaults-manufacturing-execution.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/production-order-defaults-manufacturing-execution.md)
@@ -50913,6 +51767,8 @@
 * Handback File: [production-order-defaults-manufacturing-execution.7c8e9d36971453bc737afd51b5a7fa5003d161cf.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/production-order-defaults-manufacturing-execution.7c8e9d36971453bc737afd51b5a7fa5003d161cf.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [production-order-defaults-manufacturing-execution.7c8e9d36971453bc737afd51b5a7fa5003d161cf.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/production-order-defaults-manufacturing-execution.7c8e9d36971453bc737afd51b5a7fa5003d161cf.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='558d99b1dc6ec7c33a0b86739c108b7d11646c4f3376'></a> Source: [manufacturing\production-control\production-posting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/production-posting.md)
@@ -50927,6 +51783,8 @@
 * Handback File: [production-posting.e4eb6a921341ba154fd7db5b704983e20d6ad525.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/production-posting.e4eb6a921341ba154fd7db5b704983e20d6ad525.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [production-posting.e4eb6a921341ba154fd7db5b704983e20d6ad525.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/production-posting.e4eb6a921341ba154fd7db5b704983e20d6ad525.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='eaa138361ca634fc041264ba15da03fa1ef7f8ef3377'></a> Source: [manufacturing\production-control\production-set-up-requirements.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/production-set-up-requirements.md)
@@ -50941,6 +51799,8 @@
 * Handback File: [production-set-up-requirements.64eff5f8a2d5f29b58476bc176d84f680ac5181c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/production-set-up-requirements.64eff5f8a2d5f29b58476bc176d84f680ac5181c.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [production-set-up-requirements.64eff5f8a2d5f29b58476bc176d84f680ac5181c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/production-set-up-requirements.64eff5f8a2d5f29b58476bc176d84f680ac5181c.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='8492971ebb6164f388d6230139ca8bc8babd7d313378'></a> Source: [manufacturing\production-control\registration-manufacturing-execution.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/registration-manufacturing-execution.md)
@@ -50955,6 +51815,8 @@
 * Handback File: [registration-manufacturing-execution.424d2d53a632686abec20471138e50c0b2eacba0.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/registration-manufacturing-execution.424d2d53a632686abec20471138e50c0b2eacba0.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [registration-manufacturing-execution.424d2d53a632686abec20471138e50c0b2eacba0.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/registration-manufacturing-execution.424d2d53a632686abec20471138e50c0b2eacba0.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='b1a7a30f9cecd723c539de4cfbd30f6c29ce76033379'></a> Source: [manufacturing\production-control\release-production-orders.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/release-production-orders.md)
@@ -50969,6 +51831,8 @@
 * Handback File: [release-production-orders.92b438c526a7d8223fc59cf53f37bcdcfbf61858.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/release-production-orders.92b438c526a7d8223fc59cf53f37bcdcfbf61858.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [release-production-orders.92b438c526a7d8223fc59cf53f37bcdcfbf61858.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/release-production-orders.92b438c526a7d8223fc59cf53f37bcdcfbf61858.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='52ce44a3203c3c7791f2817eb82b60175829fb213380'></a> Source: [manufacturing\production-control\report-boms-as-finished.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/report-boms-as-finished.md)
@@ -50983,6 +51847,8 @@
 * Handback File: [report-boms-as-finished.e4ba06ed0e93a3d3ebabc586e76994c68e3db184.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/report-boms-as-finished.e4ba06ed0e93a3d3ebabc586e76994c68e3db184.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [report-boms-as-finished.e4ba06ed0e93a3d3ebabc586e76994c68e3db184.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/report-boms-as-finished.e4ba06ed0e93a3d3ebabc586e76994c68e3db184.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='34db39bfd6130de204ca2d56f4769e47396399383381'></a> Source: [manufacturing\production-control\report-production-orders-as-finished.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/report-production-orders-as-finished.md)
@@ -50997,6 +51863,8 @@
 * Handback File: [report-production-orders-as-finished.b4bb894764764e715bbee4e731e016e41b8b2e1f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/report-production-orders-as-finished.b4bb894764764e715bbee4e731e016e41b8b2e1f.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [report-production-orders-as-finished.b4bb894764764e715bbee4e731e016e41b8b2e1f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/report-production-orders-as-finished.b4bb894764764e715bbee4e731e016e41b8b2e1f.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='4d30508a76615d331ab395ff563d91d95d42ce113382'></a> Source: [manufacturing\production-control\resource-capabilities.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/resource-capabilities.md)
@@ -51011,6 +51879,8 @@
 * Handback File: [resource-capabilities.5712b0fc15ff48d2891766b6c80d5171969836c3.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/resource-capabilities.5712b0fc15ff48d2891766b6c80d5171969836c3.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [resource-capabilities.5712b0fc15ff48d2891766b6c80d5171969836c3.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/resource-capabilities.5712b0fc15ff48d2891766b6c80d5171969836c3.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='417ca5041b3dfc05c9446500a9419ddee2468bf63383'></a> Source: [manufacturing\production-control\reverse-production-order-status.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/reverse-production-order-status.md)
@@ -51025,6 +51895,8 @@
 * Handback File: [reverse-production-order-status.17b24a8dcefd5fbed8e62dcf1027c5f845a2dcdc.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/reverse-production-order-status.17b24a8dcefd5fbed8e62dcf1027c5f845a2dcdc.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [reverse-production-order-status.17b24a8dcefd5fbed8e62dcf1027c5f845a2dcdc.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/reverse-production-order-status.17b24a8dcefd5fbed8e62dcf1027c5f845a2dcdc.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='5c5d29b2730f5902b9857a34e987191ef7af824c3384'></a> Source: [manufacturing\production-control\routes-operations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/routes-operations.md)
@@ -51039,6 +51911,8 @@
 * Handback File: [routes-operations.65af6634259971f5c734032013e106303c1aef86.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/routes-operations.65af6634259971f5c734032013e106303c1aef86.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [routes-operations.65af6634259971f5c734032013e106303c1aef86.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/routes-operations.65af6634259971f5c734032013e106303c1aef86.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='6cf49236ddf76be9645ac9341febde34df986e7b3385'></a> Source: [manufacturing\production-control\sales-orders-mobile-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/sales-orders-mobile-workspace.md)
@@ -51053,6 +51927,8 @@
 * Handback File: [sales-orders-mobile-workspace.7d3bc22e104a8f708c00d6504bfbc3364c49ea57.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/sales-orders-mobile-workspace.7d3bc22e104a8f708c00d6504bfbc3364c49ea57.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [sales-orders-mobile-workspace.7d3bc22e104a8f708c00d6504bfbc3364c49ea57.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/sales-orders-mobile-workspace.7d3bc22e104a8f708c00d6504bfbc3364c49ea57.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='5172b3c2871365a6e574958554820a1c022f16af3386'></a> Source: [manufacturing\production-control\substitute-items-bom-lines.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/substitute-items-bom-lines.md)
@@ -51067,6 +51943,8 @@
 * Handback File: [substitute-items-bom-lines.f7fa1d18b32b8ec22df97d54f587b6fa96d35979.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/substitute-items-bom-lines.f7fa1d18b32b8ec22df97d54f587b6fa96d35979.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [substitute-items-bom-lines.f7fa1d18b32b8ec22df97d54f587b6fa96d35979.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/substitute-items-bom-lines.f7fa1d18b32b8ec22df97d54f587b6fa96d35979.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='32b5b33f9089ad3bdc21fb066c6ade48b4e261393387'></a> Source: [manufacturing\production-control\terms-cost-accounting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/terms-cost-accounting.md)
@@ -51081,6 +51959,8 @@
 * Handback File: [terms-cost-accounting.c6df8a2da035a1fce76ab183139f0316e1ccd0c0.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/terms-cost-accounting.c6df8a2da035a1fce76ab183139f0316e1ccd0c0.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [terms-cost-accounting.c6df8a2da035a1fce76ab183139f0316e1ccd0c0.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/terms-cost-accounting.c6df8a2da035a1fce76ab183139f0316e1ccd0c0.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='87f12ddd82aaa44b40fdc4dd6e6e96374dd882c73388'></a> Source: [manufacturing\production-control\time-attendance-registrations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/time-attendance-registrations.md)
@@ -51095,6 +51975,8 @@
 * Handback File: [time-attendance-registrations.fcadede38aecdc9916578e7a275b30c339544d83.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/time-attendance-registrations.fcadede38aecdc9916578e7a275b30c339544d83.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [time-attendance-registrations.fcadede38aecdc9916578e7a275b30c339544d83.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/time-attendance-registrations.fcadede38aecdc9916578e7a275b30c339544d83.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='151a5b6893b6ef40f7b3c69321b23a850b91a78a3389'></a> Source: [manufacturing\production-control\vendor-collaboration-mobile-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control/vendor-collaboration-mobile-workspace.md)
@@ -51109,6 +51991,8 @@
 * Handback File: [vendor-collaboration-mobile-workspace.fabfb46f467aa8c2ed3e0249c03723395de5f291.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/vendor-collaboration-mobile-workspace.fabfb46f467aa8c2ed3e0249c03723395de5f291.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [vendor-collaboration-mobile-workspace.fabfb46f467aa8c2ed3e0249c03723395de5f291.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/vendor-collaboration-mobile-workspace.fabfb46f467aa8c2ed3e0249c03723395de5f291.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='4112c118a0a259d3f78e29f18f2bb0733605d92f3342'></a> Source: [manufacturing\production-control-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/production-control-home-page.md)
@@ -51123,6 +52007,8 @@
 * Handback File: [production-control-home-page.96ea64cde2d2a220f0b43aa2b6b86be227d7ba73.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/production-control-home-page.96ea64cde2d2a220f0b43aa2b6b86be227d7ba73.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [production-control-home-page.96ea64cde2d2a220f0b43aa2b6b86be227d7ba73.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/production-control-home-page.96ea64cde2d2a220f0b43aa2b6b86be227d7ba73.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='c7ccaa3d5bc70f664ea11f63611f06b22ba0e9b93390'></a> Source: [manufacturing\sales-marketing\delivery-dates-available-promise-calculations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/sales-marketing/delivery-dates-available-promise-calculations.md)
@@ -51137,6 +52023,8 @@
 * Handback File: [delivery-dates-available-promise-calculations.8040e23d68b4d6eb465b7d1d3947b9fb5f9d26d7.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/delivery-dates-available-promise-calculations.8040e23d68b4d6eb465b7d1d3947b9fb5f9d26d7.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [delivery-dates-available-promise-calculations.8040e23d68b4d6eb465b7d1d3947b9fb5f9d26d7.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/delivery-dates-available-promise-calculations.8040e23d68b4d6eb465b7d1d3947b9fb5f9d26d7.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='cdca5e144e6d1517e9ea68538ee5f9706a8c59ae3391'></a> Source: [manufacturing\sales-marketing\delivery-schedules.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/sales-marketing/delivery-schedules.md)
@@ -51151,6 +52039,8 @@
 * Handback File: [delivery-schedules.446bebe2e961dd063375298aac4a6a85729f360b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/delivery-schedules.446bebe2e961dd063375298aac4a6a85729f360b.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [delivery-schedules.446bebe2e961dd063375298aac4a6a85729f360b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/delivery-schedules.446bebe2e961dd063375298aac4a6a85729f360b.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='920056e71845feeba78eeb6f5c87ddc0df93b0d23392'></a> Source: [manufacturing\sales-marketing\direct-deliveries.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/sales-marketing/direct-deliveries.md)
@@ -51165,6 +52055,8 @@
 * Handback File: [direct-deliveries.fb777cb2a848bc82eb935cbf9cedb664a80cbfd8.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/direct-deliveries.fb777cb2a848bc82eb935cbf9cedb664a80cbfd8.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [direct-deliveries.fb777cb2a848bc82eb935cbf9cedb664a80cbfd8.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/direct-deliveries.fb777cb2a848bc82eb935cbf9cedb664a80cbfd8.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='f36f32677cd42b266239abab0d377d90ca5095ba3393'></a> Source: [manufacturing\sales-marketing\media\marketing01.jpg](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/manufacturing/sales-marketing/media/marketing01.jpg)
@@ -51221,6 +52113,8 @@
 * Handback File: [order-entry-deadlines.90c1a94db97251463901e8f83f46b5e8bc944c90.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/order-entry-deadlines.90c1a94db97251463901e8f83f46b5e8bc944c90.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [order-entry-deadlines.90c1a94db97251463901e8f83f46b5e8bc944c90.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/order-entry-deadlines.90c1a94db97251463901e8f83f46b5e8bc944c90.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='62759882a6605e96601f308e578d58d3fdaf40293397'></a> Source: [manufacturing\sales-marketing\overview-sales-marketing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/sales-marketing/overview-sales-marketing.md)
@@ -51235,6 +52129,8 @@
 * Handback File: [overview-sales-marketing.d4f0f83cfdc5571ef65645e28bad0041fb43ebe5.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/overview-sales-marketing.d4f0f83cfdc5571ef65645e28bad0041fb43ebe5.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [overview-sales-marketing.d4f0f83cfdc5571ef65645e28bad0041fb43ebe5.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/overview-sales-marketing.d4f0f83cfdc5571ef65645e28bad0041fb43ebe5.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='afed93a220093355be4d7a2714be6c65ab65f0b83398'></a> Source: [manufacturing\sales-marketing\price-simulation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/sales-marketing/price-simulation.md)
@@ -51249,6 +52145,8 @@
 * Handback File: [price-simulation.63e76119b3b538fbd738e13af4e9ae434a2aabc3.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/price-simulation.63e76119b3b538fbd738e13af4e9ae434a2aabc3.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [price-simulation.63e76119b3b538fbd738e13af4e9ae434a2aabc3.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/price-simulation.63e76119b3b538fbd738e13af4e9ae434a2aabc3.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='72410f1254f092f1fdfe32be8485f3440264e3713400'></a> Source: [manufacturing\sales-marketing\sales.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/sales-marketing/sales.md)
@@ -51263,6 +52161,8 @@
 * Handback File: [sales.23d8048702621b10d4e78ac30802d79c3d2ec9ab.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/sales.23d8048702621b10d4e78ac30802d79c3d2ec9ab.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [sales.23d8048702621b10d4e78ac30802d79c3d2ec9ab.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/sales.23d8048702621b10d4e78ac30802d79c3d2ec9ab.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='c950b7e6ee76ca6215e581806ccdeef61b79894d3399'></a> Source: [manufacturing\sales-marketing\sales-agreements.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/sales-marketing/sales-agreements.md)
@@ -51277,6 +52177,8 @@
 * Handback File: [sales-agreements.2fa4dd68bfd288e8f373daf897738023ceec5b0f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/sales-agreements.2fa4dd68bfd288e8f373daf897738023ceec5b0f.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [sales-agreements.2fa4dd68bfd288e8f373daf897738023ceec5b0f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/sales-agreements.2fa4dd68bfd288e8f373daf897738023ceec5b0f.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='0beffc6820cc4bec921f53e4e8cf0fcbb5da37973401'></a> Source: [manufacturing\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/TOC.md)
@@ -51305,6 +52207,8 @@
 * Handback File: [create-bill-of-lading.11c4b546a38c75f8999a68fb98b05eaed63de875.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/create-bill-of-lading.11c4b546a38c75f8999a68fb98b05eaed63de875.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [create-bill-of-lading.11c4b546a38c75f8999a68fb98b05eaed63de875.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/create-bill-of-lading.11c4b546a38c75f8999a68fb98b05eaed63de875.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='850dcd2a7adb5c73d72662e3ed56af9bdc06b0ba3403'></a> Source: [manufacturing\transportation-management\media\freight-reconcilation-process.jpg](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/manufacturing/transportation-management/media/freight-reconcilation-process.jpg)
@@ -51361,6 +52265,8 @@
 * Handback File: [plan-freight-transportation-routes-multiple-stops.6d07ecf423116add03d8a894208b512daf17adb8.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/plan-freight-transportation-routes-multiple-stops.6d07ecf423116add03d8a894208b512daf17adb8.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [plan-freight-transportation-routes-multiple-stops.6d07ecf423116add03d8a894208b512daf17adb8.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/plan-freight-transportation-routes-multiple-stops.6d07ecf423116add03d8a894208b512daf17adb8.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='70946a0925d0e9ddcb14478bd87078066ee3c0b83407'></a> Source: [manufacturing\transportation-management\plan-loads-hub-consolidation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/transportation-management/plan-loads-hub-consolidation.md)
@@ -51375,6 +52281,8 @@
 * Handback File: [plan-loads-hub-consolidation.da1be5518d1688b577886079924c9ebdb3ed779a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/plan-loads-hub-consolidation.da1be5518d1688b577886079924c9ebdb3ed779a.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [plan-loads-hub-consolidation.da1be5518d1688b577886079924c9ebdb3ed779a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/plan-loads-hub-consolidation.da1be5518d1688b577886079924c9ebdb3ed779a.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='deabf961e5a7b6c9abe210736a7e5e5de61470a93408'></a> Source: [manufacturing\transportation-management\reconcile-freight-transportation-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/transportation-management/reconcile-freight-transportation-management.md)
@@ -51389,6 +52297,8 @@
 * Handback File: [reconcile-freight-transportation-management.fe2b592ae016178bfbcce880fdbb67edbf9f38d3.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/reconcile-freight-transportation-management.fe2b592ae016178bfbcce880fdbb67edbf9f38d3.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [reconcile-freight-transportation-management.fe2b592ae016178bfbcce880fdbb67edbf9f38d3.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/reconcile-freight-transportation-management.fe2b592ae016178bfbcce880fdbb67edbf9f38d3.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='04009af88a07a308cbb48c4d682598672f3b61d93409'></a> Source: [manufacturing\warehouse-management\change-warehouse-mobile-device-displays.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/warehouse-management/change-warehouse-mobile-device-displays.md)
@@ -51403,6 +52313,8 @@
 * Handback File: [change-warehouse-mobile-device-displays.92d9ada545f6813fae9e534e84734c94324c221c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/change-warehouse-mobile-device-displays.92d9ada545f6813fae9e534e84734c94324c221c.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [change-warehouse-mobile-device-displays.92d9ada545f6813fae9e534e84734c94324c221c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/change-warehouse-mobile-device-displays.92d9ada545f6813fae9e534e84734c94324c221c.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='8bdf4665dbcd76c90b1617afac893784173c976d3410'></a> Source: [manufacturing\warehouse-management\configure-app-field-names-priorities-warehouse.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/warehouse-management/configure-app-field-names-priorities-warehouse.md)
@@ -51417,6 +52329,8 @@
 * Handback File: [configure-app-field-names-priorities-warehouse.c2df581bce14b1370cc35dc22ebbe6a8ce9a48a7.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-app-field-names-priorities-warehouse.c2df581bce14b1370cc35dc22ebbe6a8ce9a48a7.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [configure-app-field-names-priorities-warehouse.c2df581bce14b1370cc35dc22ebbe6a8ce9a48a7.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-app-field-names-priorities-warehouse.c2df581bce14b1370cc35dc22ebbe6a8ce9a48a7.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='d408e2861b6067ccddda712544beafdc8fd2fea93411'></a> Source: [manufacturing\warehouse-management\configure-mobile-devices-warehouse_work.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/warehouse-management/configure-mobile-devices-warehouse_work.md)
@@ -51431,6 +52345,8 @@
 * Handback File: [configure-mobile-devices-warehouse_work.54d23e05ec6e1f5edd429d6e9424d75eeb60f517.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-mobile-devices-warehouse_work.54d23e05ec6e1f5edd429d6e9424d75eeb60f517.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [configure-mobile-devices-warehouse_work.54d23e05ec6e1f5edd429d6e9424d75eeb60f517.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-mobile-devices-warehouse_work.54d23e05ec6e1f5edd429d6e9424d75eeb60f517.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='9ffbd82e9dcc28223d86ec1e525f187023492bd83412'></a> Source: [manufacturing\warehouse-management\control-warehouse-location-directives.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/warehouse-management/control-warehouse-location-directives.md)
@@ -51445,6 +52361,8 @@
 * Handback File: [control-warehouse-location-directives.9d6b5c995effa59f69e15f8c301e8eb8aa66fe66.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/control-warehouse-location-directives.9d6b5c995effa59f69e15f8c301e8eb8aa66fe66.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [control-warehouse-location-directives.9d6b5c995effa59f69e15f8c301e8eb8aa66fe66.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/control-warehouse-location-directives.9d6b5c995effa59f69e15f8c301e8eb8aa66fe66.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='6a646bd7125d61cf2611ee818c3701b1fd5769543413'></a> Source: [manufacturing\warehouse-management\cycle-counting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/warehouse-management/cycle-counting.md)
@@ -51459,6 +52377,8 @@
 * Handback File: [cycle-counting.45d392038b8a7a3cb3b7c14a4cde2c9ed9d8de79.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/cycle-counting.45d392038b8a7a3cb3b7c14a4cde2c9ed9d8de79.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [cycle-counting.45d392038b8a7a3cb3b7c14a4cde2c9ed9d8de79.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/cycle-counting.45d392038b8a7a3cb3b7c14a4cde2c9ed9d8de79.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='4def2d885d3b5a7f39ee28c0466805928333606e3414'></a> Source: [manufacturing\warehouse-management\enable-quality-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/warehouse-management/enable-quality-management.md)
@@ -51473,6 +52393,8 @@
 * Handback File: [enable-quality-management.4299ff42e427a1522818b743ccf2e54617246226.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/enable-quality-management.4299ff42e427a1522818b743ccf2e54617246226.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [enable-quality-management.4299ff42e427a1522818b743ccf2e54617246226.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/enable-quality-management.4299ff42e427a1522818b743ccf2e54617246226.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='8cd9f5051573e2d06ae42070d1447cf5a192a78c3415'></a> Source: [manufacturing\warehouse-management\inventory-blocking.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/warehouse-management/inventory-blocking.md)
@@ -51487,6 +52409,8 @@
 * Handback File: [inventory-blocking.ffad4358c233705e35bf40a5a9fd3e471edeecfd.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/inventory-blocking.ffad4358c233705e35bf40a5a9fd3e471edeecfd.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [inventory-blocking.ffad4358c233705e35bf40a5a9fd3e471edeecfd.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/inventory-blocking.ffad4358c233705e35bf40a5a9fd3e471edeecfd.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='6bb5aa735cd34df2846604af5c2253dade1e311b3416'></a> Source: [manufacturing\warehouse-management\inventory-journals.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/warehouse-management/inventory-journals.md)
@@ -51501,6 +52425,8 @@
 * Handback File: [inventory-journals.2d051c785ebe426bd09667d0b10b32232efbb228.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/inventory-journals.2d051c785ebe426bd09667d0b10b32232efbb228.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [inventory-journals.2d051c785ebe426bd09667d0b10b32232efbb228.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/inventory-journals.2d051c785ebe426bd09667d0b10b32232efbb228.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='969def3b8da139cef914dc2746197bab1b4a47cd3417'></a> Source: [manufacturing\warehouse-management\inventory-locations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/warehouse-management/inventory-locations.md)
@@ -51515,6 +52441,8 @@
 * Handback File: [inventory-locations.80440e6ee7bef4864c722c24caf83cae2999577f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/inventory-locations.80440e6ee7bef4864c722c24caf83cae2999577f.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [inventory-locations.80440e6ee7bef4864c722c24caf83cae2999577f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/inventory-locations.80440e6ee7bef4864c722c24caf83cae2999577f.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='4bdcaa1141a86b6550017d7b7d22a06ee43f578a3418'></a> Source: [manufacturing\warehouse-management\inventory-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/warehouse-management/inventory-management.md)
@@ -51529,6 +52457,8 @@
 * Handback File: [inventory-management.af043e6deb2dabe604d03dbeeb5ea724f799c516.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/inventory-management.af043e6deb2dabe604d03dbeeb5ea724f799c516.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [inventory-management.af043e6deb2dabe604d03dbeeb5ea724f799c516.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/inventory-management.af043e6deb2dabe604d03dbeeb5ea724f799c516.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='01653cca6d2093dcfc722d96c9d64d73f445ee963419'></a> Source: [manufacturing\warehouse-management\inventory-statuses.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/warehouse-management/inventory-statuses.md)
@@ -51543,6 +52473,8 @@
 * Handback File: [inventory-statuses.ca9beb6f69abe2f90be112e8f49a0edb413382eb.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/inventory-statuses.ca9beb6f69abe2f90be112e8f49a0edb413382eb.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [inventory-statuses.ca9beb6f69abe2f90be112e8f49a0edb413382eb.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/inventory-statuses.ca9beb6f69abe2f90be112e8f49a0edb413382eb.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='7ab92db5a1fdd0b81e1f12a6365385f4cc8e956f3420'></a> Source: [manufacturing\warehouse-management\inventory-tag-counting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/warehouse-management/inventory-tag-counting.md)
@@ -51557,6 +52489,8 @@
 * Handback File: [inventory-tag-counting.8a1eb9283707cff2fd356370fb289e33f5f27d41.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/inventory-tag-counting.8a1eb9283707cff2fd356370fb289e33f5f27d41.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [inventory-tag-counting.8a1eb9283707cff2fd356370fb289e33f5f27d41.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/inventory-tag-counting.8a1eb9283707cff2fd356370fb289e33f5f27d41.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='294e4728d830d0a7fcabe4d5d579ba3e7b86ee533421'></a> Source: [manufacturing\warehouse-management\manage-warehouse-workers.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/warehouse-management/manage-warehouse-workers.md)
@@ -51571,6 +52505,8 @@
 * Handback File: [manage-warehouse-workers.c89d31c21f3ea669634feef207d9044cbfb1603a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/manage-warehouse-workers.c89d31c21f3ea669634feef207d9044cbfb1603a.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [manage-warehouse-workers.c89d31c21f3ea669634feef207d9044cbfb1603a.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/manage-warehouse-workers.c89d31c21f3ea669634feef207d9044cbfb1603a.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='00f9fe793a4d9dedc69f53bc02b10556ba6438773422'></a> Source: [manufacturing\warehouse-management\media\011.png](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/manufacturing/warehouse-management/media/011.png)
@@ -52005,6 +52941,8 @@
 * Handback File: [pack-materials-packing-material-fees.6e55d9bea66f027ad575a6a3610dec32d1e10553.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/pack-materials-packing-material-fees.6e55d9bea66f027ad575a6a3610dec32d1e10553.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [pack-materials-packing-material-fees.6e55d9bea66f027ad575a6a3610dec32d1e10553.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/pack-materials-packing-material-fees.6e55d9bea66f027ad575a6a3610dec32d1e10553.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='92e831d635003339a77d2b2c1a84b1ad732508bc3453'></a> Source: [manufacturing\warehouse-management\replenishment.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/warehouse-management/replenishment.md)
@@ -52019,6 +52957,8 @@
 * Handback File: [replenishment.db4862b7fc47332ca6e2ed932bcd937ef5f9b151.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/replenishment.db4862b7fc47332ca6e2ed932bcd937ef5f9b151.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [replenishment.db4862b7fc47332ca6e2ed932bcd937ef5f9b151.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/replenishment.db4862b7fc47332ca6e2ed932bcd937ef5f9b151.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='22e25fc669b57a5d7497e24d1979081dc902222b3454'></a> Source: [manufacturing\warehouse-management\sales-returns.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/warehouse-management/sales-returns.md)
@@ -52033,6 +52973,8 @@
 * Handback File: [sales-returns.7c934505eeec03480bcefd43493f753145a8ae81.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/sales-returns.7c934505eeec03480bcefd43493f753145a8ae81.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [sales-returns.7c934505eeec03480bcefd43493f753145a8ae81.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/sales-returns.7c934505eeec03480bcefd43493f753145a8ae81.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='b27c25a0ad82d8e0c2d394b57615de9d0e07eaa93456'></a> Source: [manufacturing\warehouse-management\transportation-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/warehouse-management/transportation-management.md)
@@ -52047,6 +52989,8 @@
 * Handback File: [transportation-management.370b8fa96c30448bcb215186ca41899970192b07.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/transportation-management.370b8fa96c30448bcb215186ca41899970192b07.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [transportation-management.370b8fa96c30448bcb215186ca41899970192b07.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/transportation-management.370b8fa96c30448bcb215186ca41899970192b07.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='a9459c85845b0c3ed4ca44591639c0157166e6183455'></a> Source: [manufacturing\warehouse-management\transportation-management-engines.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/warehouse-management/transportation-management-engines.md)
@@ -52061,6 +53005,8 @@
 * Handback File: [transportation-management-engines.89b78ff743361397e5bb14030af5d1ca185058d2.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/transportation-management-engines.89b78ff743361397e5bb14030af5d1ca185058d2.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [transportation-management-engines.89b78ff743361397e5bb14030af5d1ca185058d2.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/transportation-management-engines.89b78ff743361397e5bb14030af5d1ca185058d2.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='2900640fce9aa9bb11013ab55225678fbab240693457'></a> Source: [manufacturing\warehouse-management\unit-measure-stocking-policies.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/warehouse-management/unit-measure-stocking-policies.md)
@@ -52075,6 +53021,8 @@
 * Handback File: [unit-measure-stocking-policies.c28b389e975253ab46def48c552e92d3f1c3aafc.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/unit-measure-stocking-policies.c28b389e975253ab46def48c552e92d3f1c3aafc.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [unit-measure-stocking-policies.c28b389e975253ab46def48c552e92d3f1c3aafc.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/unit-measure-stocking-policies.c28b389e975253ab46def48c552e92d3f1c3aafc.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='4401717bf99a2347da794658d74259ab60719ed83458'></a> Source: [manufacturing\warehouse-management\warehouse-configuration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/warehouse-management/warehouse-configuration.md)
@@ -52089,6 +53037,8 @@
 * Handback File: [warehouse-configuration.4a856743f917ee167a431e516576102a381befd7.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/warehouse-configuration.4a856743f917ee167a431e516576102a381befd7.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [warehouse-configuration.4a856743f917ee167a431e516576102a381befd7.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/warehouse-configuration.4a856743f917ee167a431e516576102a381befd7.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='e57d752c9c643c0dfbddf480e99a491022c81dfd3459'></a> Source: [manufacturing\warehouse-management\warehouse-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/warehouse-management/warehouse-management.md)
@@ -52103,6 +53053,8 @@
 * Handback File: [warehouse-management.4cf5d36d485502f7e1751115fd7e292cf92ab089.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/warehouse-management.4cf5d36d485502f7e1751115fd7e292cf92ab089.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [warehouse-management.4cf5d36d485502f7e1751115fd7e292cf92ab089.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/warehouse-management.4cf5d36d485502f7e1751115fd7e292cf92ab089.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='9c32cf853438c795c33514f0f05dfac72df9c6ce3460'></a> Source: [manufacturing\warehouse-management\warehouse-mobile-devices-portal.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/manufacturing/warehouse-management/warehouse-mobile-devices-portal.md)
@@ -52131,6 +53083,8 @@
 * Handback File: [warehouse-work-policies.0fabe9e7c07204605240f6b188cf3d8dc199d3cb.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/warehouse-work-policies.0fabe9e7c07204605240f6b188cf3d8dc199d3cb.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [warehouse-work-policies.0fabe9e7c07204605240f6b188cf3d8dc199d3cb.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/warehouse-work-policies.0fabe9e7c07204605240f6b188cf3d8dc199d3cb.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='c2b732feb40899854e8ddcb87a60ca25843d86253462'></a> Source: [README.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/README.md)
@@ -52187,6 +53141,8 @@
 * Handback File: [add-recommendations-control-pos-screen.81804f86d17e5b1215eb018ce06d726562e1e9e7.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/add-recommendations-control-pos-screen.81804f86d17e5b1215eb018ce06d726562e1e9e7.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [add-recommendations-control-pos-screen.81804f86d17e5b1215eb018ce06d726562e1e9e7.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/add-recommendations-control-pos-screen.81804f86d17e5b1215eb018ce06d726562e1e9e7.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='40dc733d8258b56cfa3f033b20fd622fe93f02073466'></a> Source: [retail\analyze-sales-trends-patterns.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/analyze-sales-trends-patterns.md)
@@ -52201,6 +53157,8 @@
 * Handback File: [analyze-sales-trends-patterns.dd678039910cf44fe3fc35d3f4ea7119efc3729f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/analyze-sales-trends-patterns.dd678039910cf44fe3fc35d3f4ea7119efc3729f.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [analyze-sales-trends-patterns.dd678039910cf44fe3fc35d3f4ea7119efc3729f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/analyze-sales-trends-patterns.dd678039910cf44fe3fc35d3f4ea7119efc3729f.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='fde1304c0379364ce50e2c80c371d1128745048f3467'></a> Source: [retail\assess-customer-product-profitability.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/assess-customer-product-profitability.md)
@@ -52215,6 +53173,8 @@
 * Handback File: [assess-customer-product-profitability.2a3c7b8b70205aed5cae6ac14ead75fc80fe3fe5.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/assess-customer-product-profitability.2a3c7b8b70205aed5cae6ac14ead75fc80fe3fe5.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [assess-customer-product-profitability.2a3c7b8b70205aed5cae6ac14ead75fc80fe3fe5.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/assess-customer-product-profitability.2a3c7b8b70205aed5cae6ac14ead75fc80fe3fe5.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='27cff5dffbc2898989b7c3c28f9fa2a75c63c2bf3470'></a> Source: [retail\call-center.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/call-center.md)
@@ -52229,6 +53189,8 @@
 * Handback File: [call-center.66cfbf74fec4bc9531699ed7a3286d49325e1fe7.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/call-center.66cfbf74fec4bc9531699ed7a3286d49325e1fe7.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [call-center.66cfbf74fec4bc9531699ed7a3286d49325e1fe7.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/call-center.66cfbf74fec4bc9531699ed7a3286d49325e1fe7.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='cbe1d17688097be18f73f92aefea6bec2a37fdbc3468'></a> Source: [retail\call-center-catalogs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/call-center-catalogs.md)
@@ -52243,6 +53205,8 @@
 * Handback File: [call-center-catalogs.3a4638691cfed2755813d86a1999a36ed2862454.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/call-center-catalogs.3a4638691cfed2755813d86a1999a36ed2862454.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [call-center-catalogs.3a4638691cfed2755813d86a1999a36ed2862454.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/call-center-catalogs.3a4638691cfed2755813d86a1999a36ed2862454.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='25ba45409d410c592d3a35f37542aebb5fe102963469'></a> Source: [retail\call-center-functionality.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/call-center-functionality.md)
@@ -52257,6 +53221,8 @@
 * Handback File: [call-center-functionality.6ed3e427f73b7344ceee711f303ffd11fe29c900.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/call-center-functionality.6ed3e427f73b7344ceee711f303ffd11fe29c900.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [call-center-functionality.6ed3e427f73b7344ceee711f303ffd11fe29c900.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/call-center-functionality.6ed3e427f73b7344ceee711f303ffd11fe29c900.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='98fc65bf90049231c689e28525a4a7ae8cbd08c73472'></a> Source: [retail\commerce-essentials\commerce-essentials.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/commerce-essentials/commerce-essentials.md)
@@ -52271,6 +53237,8 @@
 * Handback File: [commerce-essentials.5c448a1418124f0d02aac1692806ffd585e2f9f2.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/commerce-essentials.5c448a1418124f0d02aac1692806ffd585e2f9f2.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [commerce-essentials.5c448a1418124f0d02aac1692806ffd585e2f9f2.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/commerce-essentials.5c448a1418124f0d02aac1692806ffd585e2f9f2.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='74dbc9804d9fe6f19c37b8927c85f366fee0737a3471'></a> Source: [retail\commerce-essentials\commerce-essentials-landing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/commerce-essentials/commerce-essentials-landing.md)
@@ -52285,6 +53253,8 @@
 * Handback File: [commerce-essentials-landing.54bdcf3c385ec6b4786f0f776db5845b85a01a42.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/commerce-essentials-landing.54bdcf3c385ec6b4786f0f776db5845b85a01a42.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [commerce-essentials-landing.54bdcf3c385ec6b4786f0f776db5845b85a01a42.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/commerce-essentials-landing.54bdcf3c385ec6b4786f0f776db5845b85a01a42.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='58f30b89659eb84f065c92c1c4fde89a836cb76f3474'></a> Source: [retail\commerce-essentials\media\capture.jpg](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/retail/commerce-essentials/media/capture.jpg)
@@ -52327,6 +53297,8 @@
 * Handback File: [organizational-hierarchies-commerce-essentials.7c77374447017b375f20b8f8e85f23099a6c1da7.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/organizational-hierarchies-commerce-essentials.7c77374447017b375f20b8f8e85f23099a6c1da7.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [organizational-hierarchies-commerce-essentials.7c77374447017b375f20b8f8e85f23099a6c1da7.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/organizational-hierarchies-commerce-essentials.7c77374447017b375f20b8f8e85f23099a6c1da7.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='f29f2e08d580a4cbd7e5ec5849bf1e3f319c133c3476'></a> Source: [retail\create-call-center-catalogs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/create-call-center-catalogs.md)
@@ -52341,6 +53313,8 @@
 * Handback File: [create-call-center-catalogs.a0225c3797ab043597aa75b94b1ee35a318cce9f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/create-call-center-catalogs.a0225c3797ab043597aa75b94b1ee35a318cce9f.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [create-call-center-catalogs.a0225c3797ab043597aa75b94b1ee35a318cce9f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/create-call-center-catalogs.a0225c3797ab043597aa75b94b1ee35a318cce9f.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='22b3216519f7a9f4f811d9fec6dcd71a2721676e3477'></a> Source: [retail\create-manage-attributes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/create-manage-attributes.md)
@@ -52355,6 +53329,8 @@
 * Handback File: [create-manage-attributes.872aeebd3baf4e630f80fdc2cf33ee756333058f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/create-manage-attributes.872aeebd3baf4e630f80fdc2cf33ee756333058f.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [create-manage-attributes.872aeebd3baf4e630f80fdc2cf33ee756333058f.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/create-manage-attributes.872aeebd3baf4e630f80fdc2cf33ee756333058f.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='c88748fd60e6784888f8d07b402dd26a1049059d3478'></a> Source: [retail\customer-orders-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/customer-orders-overview.md)
@@ -52369,6 +53345,8 @@
 * Handback File: [customer-orders-overview.5365304fdd889e552d3a19abf8965b3088b8a586.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/customer-orders-overview.5365304fdd889e552d3a19abf8965b3088b8a586.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [customer-orders-overview.5365304fdd889e552d3a19abf8965b3088b8a586.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/customer-orders-overview.5365304fdd889e552d3a19abf8965b3088b8a586.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='99eccf7581f843f7434d514718a59dde731f315c3479'></a> Source: [retail\define-channel-specific-discounts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/define-channel-specific-discounts.md)
@@ -52383,6 +53361,8 @@
 * Handback File: [define-channel-specific-discounts.bf3a65330f583e238600a22109780047d2af1ebe.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/define-channel-specific-discounts.bf3a65330f583e238600a22109780047d2af1ebe.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [define-channel-specific-discounts.bf3a65330f583e238600a22109780047d2af1ebe.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/define-channel-specific-discounts.bf3a65330f583e238600a22109780047d2af1ebe.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='65b30c660644cb26a10a8c0ba8766e6640851cac3480'></a> Source: [retail\define-maintain-channel-clients-registers-hw-stations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/define-maintain-channel-clients-registers-hw-stations.md)
@@ -52397,6 +53377,8 @@
 * Handback File: [define-maintain-channel-clients-registers-hw-stations.76a41d94b8699c78559508f6e5a4b8563ee6d8ab.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/define-maintain-channel-clients-registers-hw-stations.76a41d94b8699c78559508f6e5a4b8563ee6d8ab.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [define-maintain-channel-clients-registers-hw-stations.76a41d94b8699c78559508f6e5a4b8563ee6d8ab.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/define-maintain-channel-clients-registers-hw-stations.76a41d94b8699c78559508f6e5a4b8563ee6d8ab.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='470ac9dfeb323c3c2068ca544c598435d22c77ec3481'></a> Source: [retail\define-maintain-retail-channels.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/define-maintain-retail-channels.md)
@@ -52411,6 +53393,8 @@
 * Handback File: [define-maintain-retail-channels.176096bed2b678b0b38249ec2c5beb391606a07d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/define-maintain-retail-channels.176096bed2b678b0b38249ec2c5beb391606a07d.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [define-maintain-retail-channels.176096bed2b678b0b38249ec2c5beb391606a07d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/define-maintain-retail-channels.176096bed2b678b0b38249ec2c5beb391606a07d.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='867d05ae05acb312e6384ed6321cbaf69c7d42083482'></a> Source: [retail\docfx.json](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/retail/docfx.json)
@@ -52467,6 +53451,8 @@
 * Handback File: [enable-configure-retail-functionality.f60d4fa9b05c9d6d2ec48ed918b6d86f5e0ed735.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/enable-configure-retail-functionality.f60d4fa9b05c9d6d2ec48ed918b6d86f5e0ed735.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [enable-configure-retail-functionality.f60d4fa9b05c9d6d2ec48ed918b6d86f5e0ed735.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/enable-configure-retail-functionality.f60d4fa9b05c9d6d2ec48ed918b6d86f5e0ed735.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='27e92028147aeac087d26744d88b7c29f97bde983486'></a> Source: [retail\extend-commerce-data-exchange.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/extend-commerce-data-exchange.md)
@@ -52495,6 +53481,8 @@
 * Handback File: [extended-logon.8b337311372dd1ea525d08bdd6e6d0bb31601df9.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/extended-logon.8b337311372dd1ea525d08bdd6e6d0bb31601df9.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [extended-logon.8b337311372dd1ea525d08bdd6e6d0bb31601df9.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/extended-logon.8b337311372dd1ea525d08bdd6e6d0bb31601df9.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='61ea3d93460dfe6094cbff4d621896c71099bbfd3488'></a> Source: [retail\hybrid-customer-orders.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/hybrid-customer-orders.md)
@@ -52509,6 +53497,8 @@
 * Handback File: [hybrid-customer-orders.626442aa55d66ad9ce298fc6b338e43b2e8b9859.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/hybrid-customer-orders.626442aa55d66ad9ce298fc6b338e43b2e8b9859.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [hybrid-customer-orders.626442aa55d66ad9ce298fc6b338e43b2e8b9859.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/hybrid-customer-orders.626442aa55d66ad9ce298fc6b338e43b2e8b9859.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='5e7438e5f4e4b99b2a8d930dbbd68c415ef26d6d3489'></a> Source: [retail\index.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/73d1e77e4e15d179b12fdc8fec41ae69c7cef56a/retail/index.md)
@@ -52537,6 +53527,8 @@
 * Handback File: [info-codes-retail.59d1b41662b0f4b5e2e860fd9fd1789b977ec0c1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/info-codes-retail.59d1b41662b0f4b5e2e860fd9fd1789b977ec0c1.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [info-codes-retail.59d1b41662b0f4b5e2e860fd9fd1789b977ec0c1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/info-codes-retail.59d1b41662b0f4b5e2e860fd9fd1789b977ec0c1.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='6cd38bb8f920a5a94b2053ca386639b66a7431133491'></a> Source: [retail\install-pos-layout-designer.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/install-pos-layout-designer.md)
@@ -52551,6 +53543,8 @@
 * Handback File: [install-pos-layout-designer.0bcac33b00eb0e457ba498c30e036b195f99e85d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/install-pos-layout-designer.0bcac33b00eb0e457ba498c30e036b195f99e85d.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [install-pos-layout-designer.0bcac33b00eb0e457ba498c30e036b195f99e85d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/install-pos-layout-designer.0bcac33b00eb0e457ba498c30e036b195f99e85d.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='95b32e70720c02f8303e571e4acdd81c271a89203492'></a> Source: [retail\media\assortments_relationship.gif](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/retail/media/assortments_relationship.gif)
@@ -53825,6 +54819,8 @@
 * Handback File: [microsoft-tested-pos-hardware-peripherals.c05387a9d571ef7746bc5cbaa57267ee8225c4a2.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/microsoft-tested-pos-hardware-peripherals.c05387a9d571ef7746bc5cbaa57267ee8225c4a2.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [microsoft-tested-pos-hardware-peripherals.c05387a9d571ef7746bc5cbaa57267ee8225c4a2.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/microsoft-tested-pos-hardware-peripherals.c05387a9d571ef7746bc5cbaa57267ee8225c4a2.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='a2c4f73e2c2223e67aa29bff4a17957047f998e03583'></a> Source: [retail\monitor-sales-margin-performance.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/monitor-sales-margin-performance.md)
@@ -53839,6 +54835,8 @@
 * Handback File: [monitor-sales-margin-performance.dad03ca9012eb2c18aeb619aa00f4fc68e454098.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/monitor-sales-margin-performance.dad03ca9012eb2c18aeb619aa00f4fc68e454098.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [monitor-sales-margin-performance.dad03ca9012eb2c18aeb619aa00f4fc68e454098.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/monitor-sales-margin-performance.dad03ca9012eb2c18aeb619aa00f4fc68e454098.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='f172e23cfdea7a4a7fdac51a72ba363701d2ee293584'></a> Source: [retail\online-stores.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/online-stores.md)
@@ -53853,6 +54851,8 @@
 * Handback File: [online-stores.3ea456b550b1604ac6a46a2a6703a7f14e9afe4b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/online-stores.3ea456b550b1604ac6a46a2a6703a7f14e9afe4b.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [online-stores.3ea456b550b1604ac6a46a2a6703a7f14e9afe4b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/online-stores.3ea456b550b1604ac6a46a2a6703a7f14e9afe4b.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='6a1995eabbcae2c7b67f8aadb92ae6f566100c533585'></a> Source: [retail\optimal-combination-overlapping-discounts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/optimal-combination-overlapping-discounts.md)
@@ -53867,6 +54867,8 @@
 * Handback File: [optimal-combination-overlapping-discounts.2746e37aa76da5e645358eb34e4a779b06af64c5.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/optimal-combination-overlapping-discounts.2746e37aa76da5e645358eb34e4a779b06af64c5.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [optimal-combination-overlapping-discounts.2746e37aa76da5e645358eb34e4a779b06af64c5.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/optimal-combination-overlapping-discounts.2746e37aa76da5e645358eb34e4a779b06af64c5.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='c63903a4761b48005fd14f80001b9d45ac50baaa3586'></a> Source: [retail\personalized-product-recommendations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/personalized-product-recommendations.md)
@@ -53881,6 +54883,8 @@
 * Handback File: [personalized-product-recommendations.9541a383310c8141e0f1c7a661acfe5617afe655.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/personalized-product-recommendations.9541a383310c8141e0f1c7a661acfe5617afe655.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [personalized-product-recommendations.9541a383310c8141e0f1c7a661acfe5617afe655.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/personalized-product-recommendations.9541a383310c8141e0f1c7a661acfe5617afe655.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='f712a626b3ae65f47b11489108b5cda6ed61b7b13587'></a> Source: [retail\pos-application-user-language-settings.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/pos-application-user-language-settings.md)
@@ -53895,6 +54899,8 @@
 * Handback File: [pos-application-user-language-settings.ebf7092160739ad35974669e954fd1b6870ac6c1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/pos-application-user-language-settings.ebf7092160739ad35974669e954fd1b6870ac6c1.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [pos-application-user-language-settings.ebf7092160739ad35974669e954fd1b6870ac6c1.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/pos-application-user-language-settings.ebf7092160739ad35974669e954fd1b6870ac6c1.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='3a126ef78dc5e7c86c1b45bb5787217d172f350d3588'></a> Source: [retail\pos-mpos.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/pos-mpos.md)
@@ -53909,6 +54915,8 @@
 * Handback File: [pos-mpos.c75cd9b824d35d5d339d8a3ced308729729fd39d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/pos-mpos.c75cd9b824d35d5d339d8a3ced308729729fd39d.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [pos-mpos.c75cd9b824d35d5d339d8a3ced308729729fd39d.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/pos-mpos.c75cd9b824d35d5d339d8a3ced308729729fd39d.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='d5f89ceb30c879faf6a1e724e1b70b51f9d4a5be3589'></a> Source: [retail\pos-offline-functionality.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/pos-offline-functionality.md)
@@ -53923,6 +54931,8 @@
 * Handback File: [pos-offline-functionality.cb1e8b869245812a11b7239b3de35cabeeea1f54.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/pos-offline-functionality.cb1e8b869245812a11b7239b3de35cabeeea1f54.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [pos-offline-functionality.cb1e8b869245812a11b7239b3de35cabeeea1f54.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/pos-offline-functionality.cb1e8b869245812a11b7239b3de35cabeeea1f54.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='8ae177934da872172cfec166847e711de01a1e153590'></a> Source: [retail\pos-sales-groups-track-commissions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/pos-sales-groups-track-commissions.md)
@@ -53937,6 +54947,8 @@
 * Handback File: [pos-sales-groups-track-commissions.87bd3253a4048e0e2a3a164a8a78379607e8088e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/pos-sales-groups-track-commissions.87bd3253a4048e0e2a3a164a8a78379607e8088e.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [pos-sales-groups-track-commissions.87bd3253a4048e0e2a3a164a8a78379607e8088e.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/pos-sales-groups-track-commissions.87bd3253a4048e0e2a3a164a8a78379607e8088e.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='eb832c91d9604b3746d802ec50b7e79643fdae0a3591'></a> Source: [retail\pos-screen-layouts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/pos-screen-layouts.md)
@@ -53965,6 +54977,8 @@
 * Handback File: [price-adjustments-discounts.e5c8b77c48b2dbd24b4b8755a639c2b7571991be.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/price-adjustments-discounts.e5c8b77c48b2dbd24b4b8755a639c2b7571991be.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [price-adjustments-discounts.e5c8b77c48b2dbd24b4b8755a639c2b7571991be.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/price-adjustments-discounts.e5c8b77c48b2dbd24b4b8755a639c2b7571991be.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='0e25f4738d538027279f4aa3733b2febd653957b3593'></a> Source: [retail\provision-dev-vm.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/provision-dev-vm.md)
@@ -53993,6 +55007,8 @@
 * Handback File: [receipt-templates-printing.7029639b6d43ce8ffdf585d40a236e174f1e8f70.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/receipt-templates-printing.7029639b6d43ce8ffdf585d40a236e174f1e8f70.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [receipt-templates-printing.7029639b6d43ce8ffdf585d40a236e174f1e8f70.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/receipt-templates-printing.7029639b6d43ce8ffdf585d40a236e174f1e8f70.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='74291f1651b4e6631ac93c065684eb9b9d055cbf3595'></a> Source: [retail\retail-channel-performance-dashboard-power-bi-data.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/retail-channel-performance-dashboard-power-bi-data.md)
@@ -54063,6 +55079,8 @@
 * Handback File: [retail-hierarchies.bfc771a5a1bd56eea9d2f807d5a19dda407c2fb6.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/retail-hierarchies.bfc771a5a1bd56eea9d2f807d5a19dda407c2fb6.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [retail-hierarchies.bfc771a5a1bd56eea9d2f807d5a19dda407c2fb6.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/retail-hierarchies.bfc771a5a1bd56eea9d2f807d5a19dda407c2fb6.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='97a3a4fe8036670ca279f4cf4860faa6cfe230393600'></a> Source: [retail\retail-landing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/retail-landing.md)
@@ -54077,6 +55095,8 @@
 * Handback File: [retail-landing.c6848898de658e55c3d187a9d5ae13eba062fa39.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/retail-landing.c6848898de658e55c3d187a9d5ae13eba062fa39.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [retail-landing.c6848898de658e55c3d187a9d5ae13eba062fa39.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/retail-landing.c6848898de658e55c3d187a9d5ae13eba062fa39.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='9f4e867f413c319a92e13a2f5aabf345ce4764da3601'></a> Source: [retail\retail-modern-pos-device-activation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/retail-modern-pos-device-activation.md)
@@ -54105,6 +55125,8 @@
 * Handback File: [retail-peripherals-overview.0be022b387792598676e60c1243ed2a319ec8741.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/retail-peripherals-overview.0be022b387792598676e60c1243ed2a319ec8741.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [retail-peripherals-overview.0be022b387792598676e60c1243ed2a319ec8741.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/retail-peripherals-overview.0be022b387792598676e60c1243ed2a319ec8741.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='2807152c8e85d860a2b2e3d344d66115d7017fc53603'></a> Source: [retail\retail-store-scale-unit-configuration-installation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/retail-store-scale-unit-configuration-installation.md)
@@ -54147,6 +55169,8 @@
 * Handback File: [retail-time-attendance.668abfa716486e8f62d9b8c17b670bf659f582aa.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/retail-time-attendance.668abfa716486e8f62d9b8c17b670bf659f582aa.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [retail-time-attendance.668abfa716486e8f62d9b8c17b670bf659f582aa.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/retail-time-attendance.668abfa716486e8f62d9b8c17b670bf659f582aa.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='474208ddf9f73e2fd1ffd5e727b29ac0764cc6423606'></a> Source: [retail\sales-performance-products.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/sales-performance-products.md)
@@ -54161,6 +55185,8 @@
 * Handback File: [sales-performance-products.060a5e357a72b16ea0cc5e1f4cb104778e2fe986.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/sales-performance-products.060a5e357a72b16ea0cc5e1f4cb104778e2fe986.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [sales-performance-products.060a5e357a72b16ea0cc5e1f4cb104778e2fe986.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/sales-performance-products.060a5e357a72b16ea0cc5e1f4cb104778e2fe986.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='e1331a6288031ae1813a701cc81db0f01f42b72b3607'></a> Source: [retail\secure-retail-cloud-pos.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/secure-retail-cloud-pos.md)
@@ -54203,6 +55229,8 @@
 * Handback File: [set-up-assortments.818f0373c08b94df6ba2e9da06f841974ec6c9e5.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-assortments.818f0373c08b94df6ba2e9da06f841974ec6c9e5.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [set-up-assortments.818f0373c08b94df6ba2e9da06f841974ec6c9e5.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-assortments.818f0373c08b94df6ba2e9da06f841974ec6c9e5.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='9a7bbd3da4406cc5a40c618c38724316e1c753c43610'></a> Source: [retail\set-up-bar-code-masks.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/set-up-bar-code-masks.md)
@@ -54217,6 +55245,8 @@
 * Handback File: [set-up-bar-code-masks.4cb9beb273e3a554985e45d73097efc484f255b9.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-bar-code-masks.4cb9beb273e3a554985e45d73097efc484f255b9.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [set-up-bar-code-masks.4cb9beb273e3a554985e45d73097efc484f255b9.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-bar-code-masks.4cb9beb273e3a554985e45d73097efc484f255b9.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='2d3c066ac69e096ced2056399597e48ef044dd373611'></a> Source: [retail\set-up-bar-codes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/set-up-bar-codes.md)
@@ -54231,6 +55261,8 @@
 * Handback File: [set-up-bar-codes.43d8f9422f8d254d1ef0bfaaee6f2929b976f20c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-bar-codes.43d8f9422f8d254d1ef0bfaaee6f2929b976f20c.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [set-up-bar-codes.43d8f9422f8d254d1ef0bfaaee6f2929b976f20c.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-bar-codes.43d8f9422f8d254d1ef0bfaaee6f2929b976f20c.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='4e56ee606988fb7b918a31778ea36a98e4ea59ec3612'></a> Source: [retail\set-up-continuity-program.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/set-up-continuity-program.md)
@@ -54245,6 +55277,8 @@
 * Handback File: [set-up-continuity-program.827ba8f1ecfe227824b787155434aace549c473b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-continuity-program.827ba8f1ecfe227824b787155434aace549c473b.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [set-up-continuity-program.827ba8f1ecfe227824b787155434aace549c473b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-continuity-program.827ba8f1ecfe227824b787155434aace549c473b.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='0efe04351d807dc2328920a3ff148a69651ba6673613'></a> Source: [retail\set-up-customer-loyalty-program.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/set-up-customer-loyalty-program.md)
@@ -54259,6 +55293,8 @@
 * Handback File: [set-up-customer-loyalty-program.9928cb798556e53a937e8188d8a4294c1b03b4bb.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-customer-loyalty-program.9928cb798556e53a937e8188d8a4294c1b03b4bb.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [set-up-customer-loyalty-program.9928cb798556e53a937e8188d8a4294c1b03b4bb.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-customer-loyalty-program.9928cb798556e53a937e8188d8a4294c1b03b4bb.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='120c37d479d37aed55ed463c71440a10f213c1c73614'></a> Source: [retail\set-up-fraud-alerts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/set-up-fraud-alerts.md)
@@ -54273,6 +55309,8 @@
 * Handback File: [set-up-fraud-alerts.b886722d8cc4333dff351e2a6f6a730cebb5f773.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-fraud-alerts.b886722d8cc4333dff351e2a6f6a730cebb5f773.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [set-up-fraud-alerts.b886722d8cc4333dff351e2a6f6a730cebb5f773.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-fraud-alerts.b886722d8cc4333dff351e2a6f6a730cebb5f773.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='8c6f907f9afec027c40ed994df2c1416a59c417f3615'></a> Source: [retail\set-up-manage-images-retail-mpos.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/set-up-manage-images-retail-mpos.md)
@@ -54287,6 +55325,8 @@
 * Handback File: [set-up-manage-images-retail-mpos.7879fd43f2f6ee0ef28df51aa314dfe3dc9f504b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-manage-images-retail-mpos.7879fd43f2f6ee0ef28df51aa314dfe3dc9f504b.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [set-up-manage-images-retail-mpos.7879fd43f2f6ee0ef28df51aa314dfe3dc9f504b.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-manage-images-retail-mpos.7879fd43f2f6ee0ef28df51aa314dfe3dc9f504b.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='34f7f779059987ce9609a02ca931337e614fc11a3616'></a> Source: [retail\set-up-order-processing-options.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/set-up-order-processing-options.md)
@@ -54301,6 +55341,8 @@
 * Handback File: [set-up-order-processing-options.8b7faf681f20283c69e99e71bd3ee66d5d6e8dbd.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-order-processing-options.8b7faf681f20283c69e99e71bd3ee66d5d6e8dbd.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [set-up-order-processing-options.8b7faf681f20283c69e99e71bd3ee66d5d6e8dbd.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-order-processing-options.8b7faf681f20283c69e99e71bd3ee66d5d6e8dbd.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='3b37c4eb95ec52ad2ad96312789c18914778c9163617'></a> Source: [retail\set-up-retail-products.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/set-up-retail-products.md)
@@ -54315,6 +55357,8 @@
 * Handback File: [set-up-retail-products.61461f9be5e6a2a94b367d0c7e3ada6083b3acf8.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-retail-products.61461f9be5e6a2a94b367d0c7e3ada6083b3acf8.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [set-up-retail-products.61461f9be5e6a2a94b367d0c7e3ada6083b3acf8.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-retail-products.61461f9be5e6a2a94b367d0c7e3ada6083b3acf8.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='25b4dc4c70201fea04ccb0c287d356995f7206cf3618'></a> Source: [retail\set-up-rfm-analysis.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/set-up-rfm-analysis.md)
@@ -54329,6 +55373,8 @@
 * Handback File: [set-up-rfm-analysis.b9f51ccbb4569b7e5dd8c5afdf4c6ed2f2434eed.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-rfm-analysis.b9f51ccbb4569b7e5dd8c5afdf4c6ed2f2434eed.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [set-up-rfm-analysis.b9f51ccbb4569b7e5dd8c5afdf4c6ed2f2434eed.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/set-up-rfm-analysis.b9f51ccbb4569b7e5dd8c5afdf4c6ed2f2434eed.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='5f0bfe59e96f27bc1f4586ce03b4a6d7b309e0473619'></a> Source: [retail\shift-drawer-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/shift-drawer-management.md)
@@ -54343,6 +55389,8 @@
 * Handback File: [shift-drawer-management.15d4a61eb22417c4cd3812671746d9c8e6657235.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/shift-drawer-management.15d4a61eb22417c4cd3812671746d9c8e6657235.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [shift-drawer-management.15d4a61eb22417c4cd3812671746d9c8e6657235.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/shift-drawer-management.15d4a61eb22417c4cd3812671746d9c8e6657235.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='0582bd48abb9fd08da8c07723b42e42752012b2e3620'></a> Source: [retail\store-performance-information.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/store-performance-information.md)
@@ -54357,6 +55405,8 @@
 * Handback File: [store-performance-information.0f6f4db6dd79570779eeda7ffb8e739e0fa24419.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/store-performance-information.0f6f4db6dd79570779eeda7ffb8e739e0fa24419.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [store-performance-information.0f6f4db6dd79570779eeda7ffb8e739e0fa24419.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/store-performance-information.0f6f4db6dd79570779eeda7ffb8e739e0fa24419.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='2f1006c703da4c9b75b1571deb2db088de268d873621'></a> Source: [retail\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/TOC.md)
@@ -54413,6 +55463,8 @@
 * Handback File: [work-with-order-holds.39fa37cae0ebdd653668aeaef72a39c5c083b419.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/work-with-order-holds.39fa37cae0ebdd653668aeaef72a39c5c083b419.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [work-with-order-holds.39fa37cae0ebdd653668aeaef72a39c5c083b419.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/work-with-order-holds.39fa37cae0ebdd653668aeaef72a39c5c083b419.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='2b8c0cd3e7bb7f7c805174d1e0a1659f202906be3625'></a> Source: [retail\work-with-payments.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/work-with-payments.md)
@@ -54427,6 +55479,8 @@
 * Handback File: [work-with-payments.46282f2959a88aceee6c16e8dda732b215589468.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/work-with-payments.46282f2959a88aceee6c16e8dda732b215589468.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [work-with-payments.46282f2959a88aceee6c16e8dda732b215589468.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/work-with-payments.46282f2959a88aceee6c16e8dda732b215589468.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='435ca4aa9acea9187209a52b609389f017f34a873626'></a> Source: [retail\work-with-store-inventory.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/retail/work-with-store-inventory.md)
@@ -54441,6 +55495,8 @@
 * Handback File: [work-with-store-inventory.4101490f52116423ed865b29013643d2d313c0d8.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/work-with-store-inventory.4101490f52116423ed865b29013643d2d313c0d8.tr-tr.xlf)
 * Handback Datetime: 2017-02-27 13:06:33
 * Handback Name: 
+* Bilingual File: [work-with-store-inventory.4101490f52116423ed865b29013643d2d313c0d8.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/36c90350a2a784155d939a3e4054ecf6ca176d0f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/work-with-store-inventory.4101490f52116423ed865b29013643d2d313c0d8.tr-tr.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:05
 * [Back to Top](#report-top)
 
 ##### <a name='d0701f07205ba961a0c736b389a3d185948a1d393627'></a> Source: [template - Copy.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3939f2706c35c464570d88d4fb3b47c52314b4bf/template%20-%20Copy.md)
