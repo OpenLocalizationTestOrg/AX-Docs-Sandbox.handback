@@ -10889,6 +10889,16 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.lv-lv\\master\\15dc08eac8b25b53db0abd37b63960479977c074.dd984363361ceddef3f4df228a499cd5ed4ada92.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.lv-lv\\master\\basic\\eeu-invoices-packing-slips-numbering.5dbafcafa65921cf9fc131364c813f7cf91fd65f.lv-lv.xlf",
       "LocXliffCommit": "7d7a45428271c252f111be5dee0626158dcea4b5"
+    },
+    "core\\organization-administration\\configure-manual-task-workflow.md.0c63d37047da364a8257660fffb7375a56384129.HT": {
+      "SourceFilename": "core\\organization-administration\\configure-manual-task-workflow.md",
+      "XliffHash": "0c63d37047da364a8257660fffb7375a56384129",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.lv-lv\\master\\a97a5783c836155e2445ff883f7cfc63e2707b13.ce896d3a25d5860092a8179bb4ed3c4171007bb1.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }
