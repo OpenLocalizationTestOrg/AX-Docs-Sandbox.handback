@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [financials\cash-bank-management\bank-reconciliation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/a4efe875c495e7747566a77ba62b0dad741b15c5/financials/cash-bank-management/bank-reconciliation.md) | HandedOffSuccess | [Details](#d6e321bee6aad874204c717ec3e13d83cb0307c92782)
+ [core\organization-administration\configure-manual-task-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/741bf8e7beb589fc4d3b3f461e42cde6c41d8f01/core/organization-administration/configure-manual-task-workflow.md) | HandedOffSuccess | [Details](#a97a5783c836155e2445ff883f7cfc63e2707b13109)
 
 ## Item Details
-##### <a name='d6e321bee6aad874204c717ec3e13d83cb0307c92782'></a> Source: [financials\cash-bank-management\bank-reconciliation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/a4efe875c495e7747566a77ba62b0dad741b15c5/financials/cash-bank-management/bank-reconciliation.md)
+##### <a name='a97a5783c836155e2445ff883f7cfc63e2707b13109'></a> Source: [core\organization-administration\configure-manual-task-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/741bf8e7beb589fc4d3b3f461e42cde6c41d8f01/core/organization-administration/configure-manual-task-workflow.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [bank-reconciliation.14fdc8eb5f0b0f2347bec89488c4cd2247b27dea.fr-fr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/72b275754ed16ebaa3f5afb9011341e8a6ad14c8/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.fr-fr/master/basic/bank-reconciliation.14fdc8eb5f0b0f2347bec89488c4cd2247b27dea.fr-fr.xlf)
-* Handoff Datetime: 2017-02-22 18:23:42
+* Handoff File: [configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.fr-fr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/fd187aef627c9cc32b65fc9a8d8f6cb3ad7bf72d/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.fr-fr/master/basic/configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.fr-fr.xlf)
+* Handoff Datetime: 2017-02-28 15:24:31
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -21,6 +21,11 @@
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Handback Name: 
+* Current Target File: [core\organization-administration\configure-manual-task-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.fr-fr/blob/da9dbf436f629d010db2e7015d8b315a9e279d3a/core/organization-administration/configure-manual-task-workflow.md)
+* Current Handback File: [configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.fr-fr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/61a8e5ad360d6a7b3b408e1950c14fade3eedf15/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.fr-fr/master/basic/configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.fr-fr.xlf)
+* Current Handback Datetime: 2017-02-27 12:56:06
+* Bilingual File: [configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.fr-fr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/61a8e5ad360d6a7b3b408e1950c14fade3eedf15/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.fr-fr/master/basic/configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.fr-fr.xlf)
+* Bilingual Datetime: 2017-02-27 13:10:57
 * [Back to Top](#report-top)
 
 
