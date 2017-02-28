@@ -1,11 +1,33 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [core\organization-administration\configure-manual-task-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/741bf8e7beb589fc4d3b3f461e42cde6c41d8f01/core/organization-administration/configure-manual-task-workflow.md) | HandedOffSuccess | [Details](#a97a5783c836155e2445ff883f7cfc63e2707b13109)
 
 ## Item Details
+##### <a name='a97a5783c836155e2445ff883f7cfc63e2707b13109'></a> Source: [core\organization-administration\configure-manual-task-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/741bf8e7beb589fc4d3b3f461e42cde6c41d8f01/core/organization-administration/configure-manual-task-workflow.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.ja-jp.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/8861fd25400bec35ef026f40acaa18074cc23907/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.ja-jp/master/basic/configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.ja-jp.xlf)
+* Handoff Datetime: 2017-02-28 15:26:24
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* Current Target File: [core\organization-administration\configure-manual-task-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.ja-jp/blob/abebf9365123cd6229960109221090d6e63a2e68/core/organization-administration/configure-manual-task-workflow.md)
+* Current Handback File: [configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.ja-jp.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/45db7d06bfc64b3ee2c63c80c9340ecd56c253f3/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.ja-jp/master/basic/configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.ja-jp.xlf)
+* Current Handback Datetime: 2017-02-27 12:59:43
+* Bilingual File: [configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.ja-jp.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/45db7d06bfc64b3ee2c63c80c9340ecd56c253f3/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.ja-jp/master/basic/configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.ja-jp.xlf)
+* Bilingual Datetime: 2017-02-27 13:12:07
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
