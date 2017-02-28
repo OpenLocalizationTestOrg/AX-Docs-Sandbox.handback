@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "3939f2706c35c464570d88d4fb3b47c52314b4bf",
+  "LastProcessedCommit": "741bf8e7beb589fc4d3b3f461e42cde6c41d8f01",
   "LastTranslatedCommit": "43d07d17225d47a5a0681f7e9dd6d2f32b20bbd0",
   "LastTansformerVersion": null,
   "LastConfigHash": "be3746179badee6ed950219978395b0175ad8022",
@@ -41004,6 +41004,44 @@
       "BilingualFilePath": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sv-se\\master\\basic\\bank-reconciliation.14fdc8eb5f0b0f2347bec89488c4cd2247b27dea.sv-se.xlf",
       "BilingualFileCommit": "0f1b6517e8c515089b00d348ec6228a8cdf5f756",
       "BilingualDateTime": "2017-02-27T13:13:43.4412177Z",
+      "BilingualException": null
+    },
+    "a97a5783c836155e2445ff883f7cfc63e2707b13": {
+      "FileHash": "a97a5783c836155e2445ff883f7cfc63e2707b13",
+      "SourceFileCommit": "741bf8e7beb589fc4d3b3f461e42cde6c41d8f01",
+      "SourceFilePath": "core\\organization-administration\\configure-manual-task-workflow.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "core\\organization-administration\\configure-manual-task-workflow.md"
+      ],
+      "HasMetadata": true,
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sv-se\\master\\basic\\configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.sv-se.xlf",
+      "HandoffFileCommit": "27c4f2ed3fb3516d7b171a98016ae7e196be8e59",
+      "HandoffDateTime": "2017-02-28T15:28:56.8663801Z",
+      "HandoffXliffHash": "0c63d37047da364a8257660fffb7375a56384129",
+      "HandoffName": null,
+      "HandoffPriority": "basic",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackName": null,
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
       "BilingualException": null
     }
   }
