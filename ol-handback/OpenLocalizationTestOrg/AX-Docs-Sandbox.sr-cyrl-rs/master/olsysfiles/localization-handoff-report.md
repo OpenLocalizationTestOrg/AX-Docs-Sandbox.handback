@@ -1,20 +1,19 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 2
+ Total Files | 1
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [financials\cash-bank-management\bank-reconciliation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/a4efe875c495e7747566a77ba62b0dad741b15c5/financials/cash-bank-management/bank-reconciliation.md) | HandedOffSuccess | [Details](#d6e321bee6aad874204c717ec3e13d83cb0307c92782)
- [financials\localizations\europe\eeu-invoices-packing-slips-numbering.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/localizations/europe/eeu-invoices-packing-slips-numbering.md) | HandedOffSuccess | [Details](#15dc08eac8b25b53db0abd37b63960479977c0742944)
+ [core\organization-administration\configure-manual-task-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/741bf8e7beb589fc4d3b3f461e42cde6c41d8f01/core/organization-administration/configure-manual-task-workflow.md) | HandedOffSuccess | [Details](#a97a5783c836155e2445ff883f7cfc63e2707b13109)
 
 ## Item Details
-##### <a name='d6e321bee6aad874204c717ec3e13d83cb0307c92782'></a> Source: [financials\cash-bank-management\bank-reconciliation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/a4efe875c495e7747566a77ba62b0dad741b15c5/financials/cash-bank-management/bank-reconciliation.md)
+##### <a name='a97a5783c836155e2445ff883f7cfc63e2707b13109'></a> Source: [core\organization-administration\configure-manual-task-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/741bf8e7beb589fc4d3b3f461e42cde6c41d8f01/core/organization-administration/configure-manual-task-workflow.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [bank-reconciliation.14fdc8eb5f0b0f2347bec89488c4cd2247b27dea.sr-cyrl-rs.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/bfbf33707aa7601015822a2085a5e55247290e1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.sr-cyrl-rs/master/basic/bank-reconciliation.14fdc8eb5f0b0f2347bec89488c4cd2247b27dea.sr-cyrl-rs.xlf)
-* Handoff Datetime: 2017-02-22 18:27:38
+* Handoff File: [configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.sr-cyrl-rs.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/cf9bfa657d302132e99243ad1027863b5a16dff0/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.sr-cyrl-rs/master/basic/configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.sr-cyrl-rs.xlf)
+* Handoff Datetime: 2017-02-28 15:30:02
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -22,20 +21,11 @@
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Handback Name: 
-* [Back to Top](#report-top)
-
-##### <a name='15dc08eac8b25b53db0abd37b63960479977c0742944'></a> Source: [financials\localizations\europe\eeu-invoices-packing-slips-numbering.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b97d17ceabfd25c52c5f0c1e96a123bae6941c5a/financials/localizations/europe/eeu-invoices-packing-slips-numbering.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [eeu-invoices-packing-slips-numbering.5dbafcafa65921cf9fc131364c813f7cf91fd65f.sr-cyrl-rs.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/bfbf33707aa7601015822a2085a5e55247290e1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.sr-cyrl-rs/master/basic/eeu-invoices-packing-slips-numbering.5dbafcafa65921cf9fc131364c813f7cf91fd65f.sr-cyrl-rs.xlf)
-* Handoff Datetime: 2017-02-22 18:27:38
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
+* Current Target File: [core\organization-administration\configure-manual-task-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.sr-cyrl-rs/blob/54b0d66e0d27ca166d6f4dbba6bfc8e2a46e8429/core/organization-administration/configure-manual-task-workflow.md)
+* Current Handback File: [configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.sr-cyrl-rs.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/a290425b0d4defb27844ff08a7dacc2735b7fc1d/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.sr-cyrl-rs/master/basic/configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.sr-cyrl-rs.xlf)
+* Current Handback Datetime: 2017-02-27 13:07:11
+* Bilingual File: [configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.sr-cyrl-rs.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/a290425b0d4defb27844ff08a7dacc2735b7fc1d/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.sr-cyrl-rs/master/basic/configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.sr-cyrl-rs.xlf)
+* Bilingual Datetime: 2017-02-27 13:14:19
 * [Back to Top](#report-top)
 
 
