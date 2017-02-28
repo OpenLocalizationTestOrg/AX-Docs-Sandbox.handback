@@ -10889,6 +10889,16 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.pl-pl\\master\\c88748fd60e6784888f8d07b402dd26a1049059d.64011c6af229b305ba0f8b3015bc19f37501a9f9.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.pl-pl\\master\\basic\\customer-orders-overview.5365304fdd889e552d3a19abf8965b3088b8a586.pl-pl.xlf",
       "LocXliffCommit": "9776769612fd3ccef518e814b2c1387d92fc6c8d"
+    },
+    "core\\organization-administration\\configure-manual-task-workflow.md.0c63d37047da364a8257660fffb7375a56384129.HT": {
+      "SourceFilename": "core\\organization-administration\\configure-manual-task-workflow.md",
+      "XliffHash": "0c63d37047da364a8257660fffb7375a56384129",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.pl-pl\\master\\a97a5783c836155e2445ff883f7cfc63e2707b13.ce896d3a25d5860092a8179bb4ed3c4171007bb1.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }
