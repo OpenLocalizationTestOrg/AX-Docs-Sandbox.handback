@@ -3266,7 +3266,7 @@
       "TranslationType": 1,
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.lv-lv\\master\\fc089b3d20cbd017a0eb6a42c73b70fb7247bd12.cb891d7faa8064f0c30fd1ad9b42c8236393fc7f.xml",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.lv-lv\\master\\fc089b3d20cbd017a0eb6a42c73b70fb7247bd12.b63b57396483344438e1a26bb4ead67a41e61166.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.lv-lv\\master\\basic\\advanced-formatting-options-financial-reporting.ba4027c26f231a1b32ce7d5d9dea39017148e9d3.lv-lv.xlf",
       "LocXliffCommit": "7d7a45428271c252f111be5dee0626158dcea4b5"
     },
@@ -8716,7 +8716,7 @@
       "TranslationType": 1,
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.lv-lv\\master\\0fe8bc645947ac1f07e7bc6606218c94a90b0048.260ada78ab0c7afe2b2b3317515f3e58ebe342d0.xml",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.lv-lv\\master\\df78899e25d2d838c693c6cd44ec947e270175ec.3e21c50fe51ceb0daf035be8f11d66b0e5afb821.xml",
       "LocXliff": null,
       "LocXliffCommit": null
     },
@@ -10897,6 +10897,146 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.lv-lv\\master\\a97a5783c836155e2445ff883f7cfc63e2707b13.ce896d3a25d5860092a8179bb4ed3c4171007bb1.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\project-management\\work-breakdown-structures.md.40231f50725eb7ef219e20515874e30bf9f945e5.HT": {
+      "SourceFilename": "financials\\project-management\\work-breakdown-structures.md",
+      "XliffHash": "40231f50725eb7ef219e20515874e30bf9f945e5",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.lv-lv\\master\\748ec9dbb7a3bc8d2f02a4b7c84e51fc1256b01c.87822db3671047ba395aa08827e96c3aca30337b.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "platform\\TOC.md.fc3579cb739b887fe0508d44200f8a68e237ddd6.HT": {
+      "SourceFilename": "platform\\TOC.md",
+      "XliffHash": "fc3579cb739b887fe0508d44200f8a68e237ddd6",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.lv-lv\\master\\284cde50195790533822c60c1aca37945d64651f.3b33b69f0349f3c5e3e6e9eca46ebd9ef8178d52.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\project-management\\project-quotations.md.7c9d381a1005fbfd1675610013e1fdd31f2c6cec.HT": {
+      "SourceFilename": "financials\\project-management\\project-quotations.md",
+      "XliffHash": "7c9d381a1005fbfd1675610013e1fdd31f2c6cec",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.lv-lv\\master\\b45c2d632fc04a0faaeb3b2f69905361ccd1a0d4.48a6751623d0f66538dc1d0174040ec7f2ce6c62.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\TOC.md.69cb1d7c8a1a986814a888f7bbd71a5d22ab97e3.HT": {
+      "SourceFilename": "financials\\TOC.md",
+      "XliffHash": "69cb1d7c8a1a986814a888f7bbd71a5d22ab97e3",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.lv-lv\\master\\8112f164637d3e84f7e2ecd26c6fbc96cce680c4.4d06704ebd69469de7e00a276480af0f6fa3e0a4.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\project-management\\project-contracts.md.24990e6405778f9df6e665e0c93475e81e64e8ec.HT": {
+      "SourceFilename": "financials\\project-management\\project-contracts.md",
+      "XliffHash": "24990e6405778f9df6e665e0c93475e81e64e8ec",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.lv-lv\\master\\a2c651955aa65ee22bdbb1ac0a1c6c7fac179a75.b41fb657c4b6aa313e400c2aeb324948d252d1c2.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\project-management\\overview-project-management-accounting.md.4c23128baef37fcfabda8e32983b30ff210541fc.HT": {
+      "SourceFilename": "financials\\project-management\\overview-project-management-accounting.md",
+      "XliffHash": "4c23128baef37fcfabda8e32983b30ff210541fc",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.lv-lv\\master\\239015fc9c29c9c471ecda8df6a061fd086aa718.397265fc45c7b7f136ce471b6ba4327406e73673.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "platform\\index.md.42cb63ec42feaad21ba714cc12b295afdfa998ef.HT": {
+      "SourceFilename": "platform\\index.md",
+      "XliffHash": "42cb63ec42feaad21ba714cc12b295afdfa998ef",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.lv-lv\\master\\ab86d22e7dd8cce2d91c17bccce229b0a7569662.b77dbd8ab3bd71234bbfd8ea11229e48c1e8a5a9.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "dev-itpro\\TOC.md.e74db243f3174f52c269257bdf81e96f266cc444.HT": {
+      "SourceFilename": "dev-itpro\\TOC.md",
+      "XliffHash": "e74db243f3174f52c269257bdf81e96f266cc444",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.lv-lv\\master\\f655f5cc4499dcb8f11e1243f5b1491d5c0c8282.5ae5031bd206f087e38adc157c0fcd60fa1c1c3e.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\project-management\\project-resourcing.md.918922c9e93d0818eb9c7f09e86dc6305fc73c6f.HT": {
+      "SourceFilename": "financials\\project-management\\project-resourcing.md",
+      "XliffHash": "918922c9e93d0818eb9c7f09e86dc6305fc73c6f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.lv-lv\\master\\09f480134d62890024ce84fd9b80d3eb19c3558f.e344412633956974cfc2f6d8f02b7ac272b96c01.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "core\\TOC.md.41b27c2ba2fea4050ddc1e156891eaa9f316ae4c.HT": {
+      "SourceFilename": "core\\TOC.md",
+      "XliffHash": "41b27c2ba2fea4050ddc1e156891eaa9f316ae4c",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.lv-lv\\master\\d7aaf92f136e54d76decbc6c97434240af061d42.d8c441a4aad27c8e3aaa70479b30d0bd9064ed0d.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\project-management\\project-purchase-orders.md.626f38b16ff78f2174af525799228954bb0358c4.HT": {
+      "SourceFilename": "financials\\project-management\\project-purchase-orders.md",
+      "XliffHash": "626f38b16ff78f2174af525799228954bb0358c4",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.lv-lv\\master\\27eed3960070af0ec7e914cf47a7ea52e3161836.891fd089285d3fa73546506dbcb9ebed562e20c9.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "human-resources\\TOC.md.7eecf32f09f2e5b0d7789c84e989b8907a3b890e.HT": {
+      "SourceFilename": "human-resources\\TOC.md",
+      "XliffHash": "7eecf32f09f2e5b0d7789c84e989b8907a3b890e",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.lv-lv\\master\\bfe68bfab6b0b94463d57e6010139e6dffb801cc.602b6e098fab9f1926e1ebb25ddc5570877bec71.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\project-management\\intercompany-invoicing.md.9f88912a5651621fcc4394d12d204d5a3541896a.HT": {
+      "SourceFilename": "financials\\project-management\\intercompany-invoicing.md",
+      "XliffHash": "9f88912a5651621fcc4394d12d204d5a3541896a",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.lv-lv\\master\\9023674feb7eba1748ef82792b82cab85c5e101b.bc28847ac8c6c65b9a3195b5f76df874d99fa0dc.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\project-management\\project-forecasts-budgets.md.fff0b3e294b913cde8e4fce3c93b393e09328195.HT": {
+      "SourceFilename": "financials\\project-management\\project-forecasts-budgets.md",
+      "XliffHash": "fff0b3e294b913cde8e4fce3c93b393e09328195",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.lv-lv\\master\\c9b7b8640d20e93a90225cf230662272d9bccd3e.61ec5537983abd8046ebdc6629e38c1ad519a5b9.xml",
       "LocXliff": null,
       "LocXliffCommit": null
     }
