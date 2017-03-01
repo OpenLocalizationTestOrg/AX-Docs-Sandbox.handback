@@ -10989,6 +10989,26 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\c9b7b8640d20e93a90225cf230662272d9bccd3e.61ec5537983abd8046ebdc6629e38c1ad519a5b9.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "platform\\organization-administration\\configure-manual-task-workflow.md.f5a9b2ddabe4b94a8624804497246e65f57a9f5b.HT": {
+      "SourceFilename": "platform\\organization-administration\\configure-manual-task-workflow.md",
+      "XliffHash": "f5a9b2ddabe4b94a8624804497246e65f57a9f5b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\00ee9ea3dcfbe3d7be326ec02f7445760981f9bc.f09117f589b6b4af7ca512035cd5942083dbaad6.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "core\\organization-administration\\configure-manual-task-workflow.md.df47a6f41bd7f97976296f3f063557c500bf803a.HT": {
+      "SourceFilename": "core\\organization-administration\\configure-manual-task-workflow.md",
+      "XliffHash": "df47a6f41bd7f97976296f3f063557c500bf803a",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\5f6e4c46b199a9ff78bbc7fddf225b1940836f94.9dec7b1ab8d4cf0b0a6584f461afb47d3760eecd.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }
