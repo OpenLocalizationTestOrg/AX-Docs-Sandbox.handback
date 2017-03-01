@@ -1,34 +1,19 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 2
+ Total Files | 1
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [core\organization-administration\configure-manual-task-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/221d0a909f0d1a57bbc61c80b823b5e1be0d85a4/core/organization-administration/configure-manual-task-workflow.md) | HandedOffSuccess | [Details](#5f6e4c46b199a9ff78bbc7fddf225b1940836f94109)
- [platform\organization-administration\configure-manual-task-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/edc285a85e478df495bc355c7916f71437703bb4/platform/organization-administration/configure-manual-task-workflow.md) | HandedOffSuccess | [Details](#00ee9ea3dcfbe3d7be326ec02f7445760981f9bc5119)
+ [core\organization-administration\configure-manual-task-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/34bfe7f0c574252cd7f5e8972976048ffb44261c/core/organization-administration/configure-manual-task-workflow.md) | HandedOffSuccess | [Details](#1f78090495be132455846b679f00d4f71be2d49a109)
 
 ## Item Details
-##### <a name='5f6e4c46b199a9ff78bbc7fddf225b1940836f94109'></a> Source: [core\organization-administration\configure-manual-task-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/221d0a909f0d1a57bbc61c80b823b5e1be0d85a4/core/organization-administration/configure-manual-task-workflow.md)
+##### <a name='1f78090495be132455846b679f00d4f71be2d49a109'></a> Source: [core\organization-administration\configure-manual-task-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/34bfe7f0c574252cd7f5e8972976048ffb44261c/core/organization-administration/configure-manual-task-workflow.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/091e5aa7579d34ee460fc26699277c913c8ab69b/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.tr-tr.xlf)
-* Handoff Datetime: 2017-03-01 18:34:47
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
-##### <a name='00ee9ea3dcfbe3d7be326ec02f7445760981f9bc5119'></a> Source: [platform\organization-administration\configure-manual-task-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/edc285a85e478df495bc355c7916f71437703bb4/platform/organization-administration/configure-manual-task-workflow.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [configure-manual-task-workflow.b61abc75a3f477398b9b320914470c5f0b9dcdc8.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/091e5aa7579d34ee460fc26699277c913c8ab69b/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-manual-task-workflow.b61abc75a3f477398b9b320914470c5f0b9dcdc8.tr-tr.xlf)
-* Handoff Datetime: 2017-03-01 18:34:47
+* Handoff File: [configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.tr-tr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/f9664032bcdabc2c49b5f50e25bd3c58a8e30de0/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.tr-tr/master/basic/configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.tr-tr.xlf)
+* Handoff Datetime: 2017-03-01 21:58:08
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
