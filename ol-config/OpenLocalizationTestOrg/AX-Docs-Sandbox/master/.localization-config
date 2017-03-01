@@ -1026,6 +1026,8 @@
         "human-resources/index.md",
         "manufacturing/TOC.md",
         "manufacturing/index.md",
+        "platform/TOC.md",
+        "platform/index.md",
         "retail/TOC.md",
         "retail/index.md"
       ],
@@ -1064,7 +1066,9 @@
     {
       "files": [
         "core/breadcrumb/toc.yml",
-        "core/media/toc.yml"
+        "core/media/toc.yml",
+        "platform/media/toc.yml",
+        "platform/breadcrumb/toc.yml"
       ],
       "priorities": [
         {
@@ -1110,6 +1114,8 @@
         "human-resources/**/*.md",
         "manufacturing/*.md",
         "manufacturing/**/*.md",
+        "platform/*.md",
+        "platform/**/*.md",
         "retail/*.md",
         "retail/**/*.md"
       ],
