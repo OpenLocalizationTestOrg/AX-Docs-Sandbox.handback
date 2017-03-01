@@ -154,6 +154,9 @@
     "core\\organization-administration\\configure-manual-decision-workflow.md",
     "platform\\organization-administration\\configure-manual-decision-workflow.md"
   ],
+  "1f78090495be132455846b679f00d4f71be2d49a": [
+    "core\\organization-administration\\configure-manual-task-workflow.md"
+  ],
   "00ee9ea3dcfbe3d7be326ec02f7445760981f9bc": [
     "core\\organization-administration\\configure-manual-task-workflow.md",
     "platform\\organization-administration\\configure-manual-task-workflow.md"
