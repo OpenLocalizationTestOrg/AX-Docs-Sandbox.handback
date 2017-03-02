@@ -154,6 +154,9 @@
     "core\\organization-administration\\configure-email.md",
     "platform\\organization-administration\\configure-email.md"
   ],
+  "eb6a149a8d49c1d60d55d56d8d1ffc67e57218cd": [
+    "core\\organization-administration\\configure-email.md"
+  ],
   "40abe58ce09bbe8c7d6e87be208f01e7c6349532": [
     "core\\organization-administration\\configure-line-item-workflow.md",
     "platform\\organization-administration\\configure-line-item-workflow.md"
@@ -161,6 +164,9 @@
   "98371b2c533ca94469e65730a3f24a1153ef0c24": [
     "core\\organization-administration\\configure-manual-decision-workflow.md",
     "platform\\organization-administration\\configure-manual-decision-workflow.md"
+  ],
+  "c6d328ddb1b773ac77f7f6c6bd286c7d5c2e1af2": [
+    "core\\organization-administration\\configure-manual-task-workflow.md"
   ],
   "1f78090495be132455846b679f00d4f71be2d49a": [
     "core\\organization-administration\\configure-manual-task-workflow.md"
@@ -2648,6 +2654,9 @@
   ],
   "74ae9dded98d1644518026237d06c7d2de7d451b": [
     "financials\\expense-management\\expense-management.md"
+  ],
+  "3bfb270f4fb9df0e5767a907abe5bf549aad420c": [
+    "financials\\fixed-assets\\125-percent-reducing-balance-depreciation.md"
   ],
   "c7517f60469506190ab8038b22e5ec2879bad9c5": [
     "financials\\fixed-assets\\125-percent-reducing-balance-depreciation.md"
