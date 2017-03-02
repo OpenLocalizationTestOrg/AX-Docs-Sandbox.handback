@@ -10887,8 +10887,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ar-sa\\master\\3bfb270f4fb9df0e5767a907abe5bf549aad420c.2c9a56fcc0635802785edb9ad20062ee0767bc75.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ar-sa\\master\\basic\\125-percent-reducing-balance-depreciation.f2923d2f20e80e01c50b878e0504ce3db35a2ff0.ar-sa.xlf",
+      "LocXliffCommit": "401bd02ffa4ae7c5383ba63234cefedb14bb0072"
     },
     "core\\organization-administration\\configure-manual-task-workflow.md.c1898a1fbb28d2c953aaf33d74e306b1eaca5a30.HT": {
       "SourceFilename": "core\\organization-administration\\configure-manual-task-workflow.md",

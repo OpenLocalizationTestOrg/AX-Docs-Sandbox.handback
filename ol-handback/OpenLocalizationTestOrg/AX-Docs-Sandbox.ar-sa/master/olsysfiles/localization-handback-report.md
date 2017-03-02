@@ -6,26 +6,23 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [financials\fixed-assets\125-percent-reducing-balance-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/996e8ca38941025ad40431bfdd9b6fc1ae2136d0/financials/fixed-assets/125-percent-reducing-balance-depreciation.md) | HandedOffSuccess | [Details](#3bfb270f4fb9df0e5767a907abe5bf549aad420c2813)
+ [financials\fixed-assets\125-percent-reducing-balance-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/996e8ca38941025ad40431bfdd9b6fc1ae2136d0/financials/fixed-assets/125-percent-reducing-balance-depreciation.md) | InSyncHandedBackSuccess | [Details](#3bfb270f4fb9df0e5767a907abe5bf549aad420c2813)
 
 ## Item Details
 ##### <a name='3bfb270f4fb9df0e5767a907abe5bf549aad420c2813'></a> Source: [financials\fixed-assets\125-percent-reducing-balance-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/996e8ca38941025ad40431bfdd9b6fc1ae2136d0/financials/fixed-assets/125-percent-reducing-balance-depreciation.md)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [financials\fixed-assets\125-percent-reducing-balance-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.ar-sa/blob/2c436f1431203a215825572deb7e37e11185df14/financials/fixed-assets/125-percent-reducing-balance-depreciation.md)
 * Handoff File: [125-percent-reducing-balance-depreciation.f2923d2f20e80e01c50b878e0504ce3db35a2ff0.ar-sa.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/d4d6992c2485344da7b592aad7a7fc39f3609c6b/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.ar-sa/master/basic/125-percent-reducing-balance-depreciation.f2923d2f20e80e01c50b878e0504ce3db35a2ff0.ar-sa.xlf)
 * Handoff Datetime: 2017-03-02 12:30:47
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [125-percent-reducing-balance-depreciation.f2923d2f20e80e01c50b878e0504ce3db35a2ff0.ar-sa.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/401bd02ffa4ae7c5383ba63234cefedb14bb0072/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.ar-sa/master/basic/125-percent-reducing-balance-depreciation.f2923d2f20e80e01c50b878e0504ce3db35a2ff0.ar-sa.xlf)
+* Handback Datetime: 2017-03-02 19:23:45
 * Handback Name: 
-* Current Target File: [financials\fixed-assets\125-percent-reducing-balance-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.ar-sa/blob/1e96a9d81555a4d32f10fb441f6f195b997a4c88/financials/fixed-assets/125-percent-reducing-balance-depreciation.md)
-* Current Handback File: [125-percent-reducing-balance-depreciation.f2923d2f20e80e01c50b878e0504ce3db35a2ff0.ar-sa.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/64cabdedd381b55bc8f59f1d475c787a32347bfb/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.ar-sa/master/basic/125-percent-reducing-balance-depreciation.f2923d2f20e80e01c50b878e0504ce3db35a2ff0.ar-sa.xlf)
-* Current Handback Datetime: 2017-03-02 16:10:58
-* Bilingual File: [125-percent-reducing-balance-depreciation.f2923d2f20e80e01c50b878e0504ce3db35a2ff0.ar-sa.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/bcc303a61755fcc7e68b4bb2ce8a7d191de7defb/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.ar-sa/master/basic/125-percent-reducing-balance-depreciation.f2923d2f20e80e01c50b878e0504ce3db35a2ff0.ar-sa.xlf)
-* Bilingual Datetime: 2017-02-27 13:09:14
+* Bilingual File: [125-percent-reducing-balance-depreciation.f2923d2f20e80e01c50b878e0504ce3db35a2ff0.ar-sa.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/64cabdedd381b55bc8f59f1d475c787a32347bfb/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.ar-sa/master/basic/125-percent-reducing-balance-depreciation.f2923d2f20e80e01c50b878e0504ce3db35a2ff0.ar-sa.xlf)
+* Bilingual Datetime: 2017-03-02 16:17:33
 * [Back to Top](#report-top)
 
 
