@@ -10869,6 +10869,46 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.tr-tr\\master\\1f78090495be132455846b679f00d4f71be2d49a.5238feda8e9bc8b02266308d1589860c7c2e6b0b.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "financials\\fixed-assets\\125-percent-reducing-balance-depreciation.md.dfa70ab80642f04f0319ba2efb53a150f67d430e.HT": {
+      "SourceFilename": "financials\\fixed-assets\\125-percent-reducing-balance-depreciation.md",
+      "XliffHash": "dfa70ab80642f04f0319ba2efb53a150f67d430e",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.tr-tr\\master\\3bfb270f4fb9df0e5767a907abe5bf549aad420c.2c9a56fcc0635802785edb9ad20062ee0767bc75.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "core\\organization-administration\\configure-manual-task-workflow.md.c1898a1fbb28d2c953aaf33d74e306b1eaca5a30.HT": {
+      "SourceFilename": "core\\organization-administration\\configure-manual-task-workflow.md",
+      "XliffHash": "c1898a1fbb28d2c953aaf33d74e306b1eaca5a30",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.tr-tr\\master\\c6d328ddb1b773ac77f7f6c6bd286c7d5c2e1af2.e555f707836b47b347151a5c311a2178c6fe6cf9.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "core\\organization-administration\\configure-email.md.ed083bbb2d0e4fa5c5d3bf25e637eb79b586451b.HT": {
+      "SourceFilename": "core\\organization-administration\\configure-email.md",
+      "XliffHash": "ed083bbb2d0e4fa5c5d3bf25e637eb79b586451b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.tr-tr\\master\\eb6a149a8d49c1d60d55d56d8d1ffc67e57218cd.8327f4943a5891d93176d076e74b9fd8aed0881d.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "platform\\organization-administration\\configure-email.md.5b10f0a29b204952c277fb68ce980e6dbbe17725.HT": {
+      "SourceFilename": "platform\\organization-administration\\configure-email.md",
+      "XliffHash": "5b10f0a29b204952c277fb68ce980e6dbbe17725",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.tr-tr\\master\\77a1e2f40f125794719fc56241ab1525496b1543.2f04faacaa4830792aaefacd1801cedae5d327e4.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }
