@@ -1558,9 +1558,9 @@
       "ArchiveFileCommit": "f832dd8bfa210095cc2c7f20fd7af62edb828cbc",
       "ArchiveFileDateTime": "2017-03-08T15:00:04.0135396Z",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.it-it\\master\\basic\\configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.it-it.xlf",
+      "BilingualFileCommit": "4a193f750cf60e16f52921509d3813bb655551b1",
+      "BilingualDateTime": "2017-03-08T15:21:19.3898036Z",
       "BilingualException": null
     },
     "b12d9bdaf8761f271755958c6f7d925641da029d": {
@@ -26520,9 +26520,9 @@
       "ArchiveFileCommit": "f832dd8bfa210095cc2c7f20fd7af62edb828cbc",
       "ArchiveFileDateTime": "2017-03-08T15:00:04.0135396Z",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.it-it\\master\\basic\\125-percent-reducing-balance-depreciation.f2923d2f20e80e01c50b878e0504ce3db35a2ff0.it-it.xlf",
+      "BilingualFileCommit": "4a193f750cf60e16f52921509d3813bb655551b1",
+      "BilingualDateTime": "2017-03-08T15:21:19.3898036Z",
       "BilingualException": null
     },
     "e0837605282f283c25a3efeaa39c8b9457e97022": {
