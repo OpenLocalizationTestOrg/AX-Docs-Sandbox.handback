@@ -1558,9 +1558,9 @@
       "ArchiveFileCommit": "c899773f4800b1f3381210071fe927269fd2496b",
       "ArchiveFileDateTime": "2017-03-08T14:57:48.8759053Z",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.fr-fr.xlf",
+      "BilingualFileCommit": "0d7b6fcd999081ac00a926fb231a5f8a1ab91af5",
+      "BilingualDateTime": "2017-03-08T15:20:53.3286159Z",
       "BilingualException": null
     },
     "b12d9bdaf8761f271755958c6f7d925641da029d": {
@@ -26559,9 +26559,9 @@
       "ArchiveFileCommit": "c899773f4800b1f3381210071fe927269fd2496b",
       "ArchiveFileDateTime": "2017-03-08T14:57:48.8759053Z",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\125-percent-reducing-balance-depreciation.f2923d2f20e80e01c50b878e0504ce3db35a2ff0.fr-fr.xlf",
+      "BilingualFileCommit": "0d7b6fcd999081ac00a926fb231a5f8a1ab91af5",
+      "BilingualDateTime": "2017-03-08T15:20:53.3286159Z",
       "BilingualException": null
     },
     "e0837605282f283c25a3efeaa39c8b9457e97022": {
@@ -30207,9 +30207,9 @@
       "ArchiveFileCommit": "c899773f4800b1f3381210071fe927269fd2496b",
       "ArchiveFileDateTime": "2017-03-08T14:57:48.8759053Z",
       "ArchiveException": null,
-      "BilingualFilePath": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\form-1099-public-sector.aff70c2a69ec6c73ce6b74ba54f50e79e33c5a96.fr-fr.xlf",
-      "BilingualFileCommit": "61a8e5ad360d6a7b3b408e1950c14fade3eedf15",
-      "BilingualDateTime": "2017-02-27T13:10:57.3119312Z",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\do-not-translate\\form-1099-public-sector.aff70c2a69ec6c73ce6b74ba54f50e79e33c5a96.fr-fr.xlf",
+      "BilingualFileCommit": "0d7b6fcd999081ac00a926fb231a5f8a1ab91af5",
+      "BilingualDateTime": "2017-03-08T15:20:53.3286159Z",
       "BilingualException": null
     },
     "5592eeecce8716b62764484f357a1afeb3009730": {
