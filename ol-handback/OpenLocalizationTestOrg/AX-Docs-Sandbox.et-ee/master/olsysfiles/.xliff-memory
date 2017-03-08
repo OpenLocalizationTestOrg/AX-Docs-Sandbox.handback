@@ -1988,7 +1988,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\c7517f60469506190ab8038b22e5ec2879bad9c5.e13babd2906feae1dbb9db4b69a3da52d3393f78.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\basic\\125-percent-reducing-balance-depreciation.f2923d2f20e80e01c50b878e0504ce3db35a2ff0.et-ee.xlf",
-      "LocXliffCommit": "8c6f830890318f7b85c0a81e6c0d371129a12fe4"
+      "LocXliffCommit": "7aa0504dff78a9c1e3aa2e339c30a5c701116284"
     },
     "dev-itpro\\analytics-bi-reporting\\key-performance-indicators-report.md.f3b5bed9a06432068cd86f3d6b08f57aa1478fd0.HT": {
       "SourceFilename": "dev-itpro\\analytics-bi-reporting\\key-performance-indicators-report.md",
@@ -6308,7 +6308,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\00ee9ea3dcfbe3d7be326ec02f7445760981f9bc.f09117f589b6b4af7ca512035cd5942083dbaad6.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\basic\\configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.et-ee.xlf",
-      "LocXliffCommit": "8c6f830890318f7b85c0a81e6c0d371129a12fe4"
+      "LocXliffCommit": "7aa0504dff78a9c1e3aa2e339c30a5c701116284"
     },
     "retail\\retail-component-events-diagnostics-troubleshooting.md.302833ac24aca45a3d8155d31b9dbb04a9af9095.HT": {
       "SourceFilename": "retail\\retail-component-events-diagnostics-troubleshooting.md",
