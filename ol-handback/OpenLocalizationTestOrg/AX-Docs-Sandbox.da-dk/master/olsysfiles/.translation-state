@@ -1558,9 +1558,9 @@
       "ArchiveFileCommit": "bda92250a1e01227eac6803581f15cbf37359b4b",
       "ArchiveFileDateTime": "2017-03-08T14:55:45.3787352Z",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\basic\\configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.da-dk.xlf",
+      "BilingualFileCommit": "eb26b66d9b9bd61ec03096128a52662adbdea673",
+      "BilingualDateTime": "2017-03-08T15:20:28.7125768Z",
       "BilingualException": null
     },
     "b12d9bdaf8761f271755958c6f7d925641da029d": {
@@ -26520,9 +26520,9 @@
       "ArchiveFileCommit": "bda92250a1e01227eac6803581f15cbf37359b4b",
       "ArchiveFileDateTime": "2017-03-08T14:55:45.3787352Z",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\basic\\125-percent-reducing-balance-depreciation.f2923d2f20e80e01c50b878e0504ce3db35a2ff0.da-dk.xlf",
+      "BilingualFileCommit": "eb26b66d9b9bd61ec03096128a52662adbdea673",
+      "BilingualDateTime": "2017-03-08T15:20:28.7125768Z",
       "BilingualException": null
     },
     "e0837605282f283c25a3efeaa39c8b9457e97022": {
@@ -29788,9 +29788,9 @@
       "ArchiveFileCommit": "bda92250a1e01227eac6803581f15cbf37359b4b",
       "ArchiveFileDateTime": "2017-03-08T14:55:45.3787352Z",
       "ArchiveException": null,
-      "BilingualFilePath": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\basic\\form-1099-public-sector.aff70c2a69ec6c73ce6b74ba54f50e79e33c5a96.da-dk.xlf",
-      "BilingualFileCommit": "ce7ceaa8637080def163ad917ebed051f5d8d739",
-      "BilingualDateTime": "2017-02-27T13:10:02.044322Z",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\do-not-translate\\form-1099-public-sector.aff70c2a69ec6c73ce6b74ba54f50e79e33c5a96.da-dk.xlf",
+      "BilingualFileCommit": "eb26b66d9b9bd61ec03096128a52662adbdea673",
+      "BilingualDateTime": "2017-03-08T15:20:28.7125768Z",
       "BilingualException": null
     },
     "5592eeecce8716b62764484f357a1afeb3009730": {
