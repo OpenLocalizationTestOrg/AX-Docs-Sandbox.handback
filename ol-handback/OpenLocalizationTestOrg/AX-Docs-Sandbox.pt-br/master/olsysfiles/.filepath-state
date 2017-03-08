@@ -157,15 +157,15 @@
     "core\\organization-administration\\configure-manual-decision-workflow.md",
     "platform\\organization-administration\\configure-manual-decision-workflow.md"
   ],
+  "00ee9ea3dcfbe3d7be326ec02f7445760981f9bc": [
+    "core\\organization-administration\\configure-manual-task-workflow.md",
+    "platform\\organization-administration\\configure-manual-task-workflow.md"
+  ],
   "c6d328ddb1b773ac77f7f6c6bd286c7d5c2e1af2": [
     "core\\organization-administration\\configure-manual-task-workflow.md"
   ],
   "1f78090495be132455846b679f00d4f71be2d49a": [
     "core\\organization-administration\\configure-manual-task-workflow.md"
-  ],
-  "00ee9ea3dcfbe3d7be326ec02f7445760981f9bc": [
-    "core\\organization-administration\\configure-manual-task-workflow.md",
-    "platform\\organization-administration\\configure-manual-task-workflow.md"
   ],
   "5f6e4c46b199a9ff78bbc7fddf225b1940836f94": [
     "core\\organization-administration\\configure-manual-task-workflow.md"
@@ -264,6 +264,9 @@
   "b81da1adf80d5b97a904cb057d55d1643882838e": [
     "core\\organization-administration\\workflow-types-report.md",
     "platform\\organization-administration\\workflow-types-report.md"
+  ],
+  "fcf4765af8dac296b52a04abd5d417a22e87f0e2": [
+    "core\\TOC.md"
   ],
   "d7aaf92f136e54d76decbc6c97434240af061d42": [
     "core\\TOC.md"
@@ -1791,132 +1794,132 @@
     "platform\\perf-test\\trace-trace-tutorial.md"
   ],
   "31dc5329e059d392fba94adf9115f1a848f3c6ad": [
-    "dev-itpro\\retail\\add-customer-preference-channel.md",
-    "platform\\retail\\add-customer-preference-channel.md"
+    "platform\\retail\\add-customer-preference-channel.md",
+    "retail\\dev-itpro\\add-customer-preference-channel.md"
   ],
   "4e30d46d8c588509a61ad379945fea1549e9acfa": [
-    "dev-itpro\\retail\\add-properties-sales-order.md",
-    "platform\\retail\\add-properties-sales-order.md"
+    "platform\\retail\\add-properties-sales-order.md",
+    "retail\\dev-itpro\\add-properties-sales-order.md"
   ],
   "87a3aebed395491b60b7cd12e9b4835e522bb267": [
-    "dev-itpro\\retail\\call-crt-service-offline.md",
-    "platform\\retail\\call-crt-service-offline.md"
+    "platform\\retail\\call-crt-service-offline.md",
+    "retail\\dev-itpro\\call-crt-service-offline.md"
   ],
   "f464fd1a27141ea18a4e310b2ca0edbbc8b733e1": [
-    "dev-itpro\\retail\\commerce-runtime-extensibility.md",
-    "platform\\retail\\commerce-runtime-extensibility.md"
+    "platform\\retail\\commerce-runtime-extensibility.md",
+    "retail\\dev-itpro\\commerce-runtime-extensibility.md"
   ],
   "9b78bd1006814b196025444ba315402955481447": [
-    "dev-itpro\\retail\\commerce-runtime-extensibility-trigger.md",
-    "platform\\retail\\commerce-runtime-extensibility-trigger.md"
+    "platform\\retail\\commerce-runtime-extensibility-trigger.md",
+    "retail\\dev-itpro\\commerce-runtime-extensibility-trigger.md"
   ],
   "7613190bfeeb1fa7d9873ffa0b39a5425b42669e": [
-    "dev-itpro\\retail\\commerce-runtime-overview.md",
-    "platform\\retail\\commerce-runtime-overview.md"
+    "platform\\retail\\commerce-runtime-overview.md",
+    "retail\\dev-itpro\\commerce-runtime-overview.md"
   ],
   "7ce63a6ee9eb8978f05206fff08f7e213fd473c3": [
-    "dev-itpro\\retail\\configure-authentication-providers.md",
-    "platform\\retail\\configure-authentication-providers.md"
+    "platform\\retail\\configure-authentication-providers.md",
+    "retail\\dev-itpro\\configure-authentication-providers.md"
   ],
   "ad3579491e650b3951fcee9449566d66fbb56559": [
-    "dev-itpro\\retail\\configure-online-store.md",
-    "platform\\retail\\configure-online-store.md"
+    "platform\\retail\\configure-online-store.md",
+    "retail\\dev-itpro\\configure-online-store.md"
   ],
   "569872a81fe9a8aa6f079fc669daf772420aced8": [
-    "dev-itpro\\retail\\create-retail-experience-app.md",
-    "platform\\retail\\create-retail-experience-app.md"
+    "platform\\retail\\create-retail-experience-app.md",
+    "retail\\dev-itpro\\create-retail-experience-app.md"
   ],
   "05481b477ab1a355dab252d47a87a9a1da01d785": [
-    "dev-itpro\\retail\\create-windows-installer-payment-connector.md",
-    "platform\\retail\\create-windows-installer-payment-connector.md"
+    "platform\\retail\\create-windows-installer-payment-connector.md",
+    "retail\\dev-itpro\\create-windows-installer-payment-connector.md"
   ],
   "3ef18488c04f7ee9ee06830bd1ec6862b37e853a": [
-    "dev-itpro\\retail\\define-retail-channel-communications-cdx.md",
-    "platform\\retail\\define-retail-channel-communications-cdx.md"
+    "platform\\retail\\define-retail-channel-communications-cdx.md",
+    "retail\\dev-itpro\\define-retail-channel-communications-cdx.md"
   ],
   "334c8789eab0e8dbda9a091001674a7a8295ad68": [
-    "dev-itpro\\retail\\deploy-payment-connector.md",
-    "platform\\retail\\deploy-payment-connector.md"
+    "platform\\retail\\deploy-payment-connector.md",
+    "retail\\dev-itpro\\deploy-payment-connector.md"
   ],
   "daee75c332f9a651b0e22a4ec9952c45a952f8b7": [
-    "dev-itpro\\retail\\dev-retail-home-page.md",
-    "platform\\retail\\dev-retail-home-page.md"
+    "platform\\retail\\dev-retail-home-page.md",
+    "retail\\dev-itpro\\dev-retail-home-page.md"
   ],
   "61703d69a89b248086d3e1e77adce02b8256b624": [
-    "dev-itpro\\retail\\ecommerce-platform-sdk.md",
-    "platform\\retail\\ecommerce-platform-sdk.md"
+    "platform\\retail\\ecommerce-platform-sdk.md",
+    "retail\\dev-itpro\\ecommerce-platform-sdk.md"
   ],
   "b39345986bb89953506e51be42cc89624f8bad9d": [
-    "dev-itpro\\retail\\extend-retail-server-odata-controller.md",
-    "platform\\retail\\extend-retail-server-odata-controller.md"
+    "platform\\retail\\extend-retail-server-odata-controller.md",
+    "retail\\dev-itpro\\extend-retail-server-odata-controller.md"
   ],
   "c49cbfe2315d00f7f8168a47f7c84b853e139a90": [
-    "dev-itpro\\retail\\hardware-station-extensibility.md",
-    "platform\\retail\\hardware-station-extensibility.md"
+    "platform\\retail\\hardware-station-extensibility.md",
+    "retail\\dev-itpro\\hardware-station-extensibility.md"
   ],
   "442b3cb90a01ecc3ccea1670b80138eb0c83864d": [
-    "dev-itpro\\retail\\install-retail-hotfix.md",
-    "platform\\retail\\install-retail-hotfix.md"
+    "platform\\retail\\install-retail-hotfix.md",
+    "retail\\dev-itpro\\install-retail-hotfix.md"
   ],
   "8e00e2904946713975c6907c5d1e113ea3fa7b1a": [
-    "dev-itpro\\retail\\integrate-retail-sdk-continuous-build.md",
-    "platform\\retail\\integrate-retail-sdk-continuous-build.md"
+    "platform\\retail\\integrate-retail-sdk-continuous-build.md",
+    "retail\\dev-itpro\\integrate-retail-sdk-continuous-build.md"
   ],
   "2c770454cd068208f6125c37f07a5020bf0bacec": [
-    "dev-itpro\\retail\\modern-pos-trigger-extensibility.md",
-    "platform\\retail\\modern-pos-trigger-extensibility.md"
+    "platform\\retail\\modern-pos-trigger-extensibility.md",
+    "retail\\dev-itpro\\modern-pos-trigger-extensibility.md"
   ],
   "10c00a123385dd256243326b71d3b62d00671db3": [
-    "dev-itpro\\retail\\odata-controllers-api.md",
-    "platform\\retail\\odata-controllers-api.md"
+    "platform\\retail\\odata-controllers-api.md",
+    "retail\\dev-itpro\\odata-controllers-api.md"
   ],
   "9c504eb5cb4e79c8719bdeaa7d4a54748888d738": [
-    "dev-itpro\\retail\\payment-methods.md",
-    "platform\\retail\\payment-methods.md"
+    "platform\\retail\\payment-methods.md",
+    "retail\\dev-itpro\\payment-methods.md"
   ],
   "f805b77b3f58e451f029e054ee27ab257ea4ae99": [
-    "dev-itpro\\retail\\retail-device-activation.md",
-    "platform\\retail\\retail-device-activation.md"
+    "platform\\retail\\retail-device-activation.md",
+    "retail\\dev-itpro\\retail-device-activation.md"
   ],
   "cf19c7e5d2bed33f8837ad671e78fd26ef2ecb45": [
-    "dev-itpro\\retail\\retail-modern-pos-architecture.md",
-    "platform\\retail\\retail-modern-pos-architecture.md"
+    "platform\\retail\\retail-modern-pos-architecture.md",
+    "retail\\dev-itpro\\retail-modern-pos-architecture.md"
   ],
   "1eb9639153015dd8723471dc494fed73b34ed41f": [
-    "dev-itpro\\retail\\retail-modern-pos-offline.md",
-    "platform\\retail\\retail-modern-pos-offline.md"
+    "platform\\retail\\retail-modern-pos-offline.md",
+    "retail\\dev-itpro\\retail-modern-pos-offline.md"
   ],
   "c34986c2b4996eac554783822e5bdcdf3f737bcb": [
-    "dev-itpro\\retail\\retail-online-store-publishing-architecture.md",
-    "platform\\retail\\retail-online-store-publishing-architecture.md"
+    "platform\\retail\\retail-online-store-publishing-architecture.md",
+    "retail\\dev-itpro\\retail-online-store-publishing-architecture.md"
   ],
   "497c3b0a073fc66c93130faacfff5c7a82a03f8c": [
-    "dev-itpro\\retail\\retail-peripheral-simulator.md",
-    "platform\\retail\\retail-peripheral-simulator.md"
+    "platform\\retail\\retail-peripheral-simulator.md",
+    "retail\\dev-itpro\\retail-peripheral-simulator.md"
   ],
   "dd5faf3cbe5ff73d619e23bf09a07847161c69f7": [
-    "dev-itpro\\retail\\retail-sdk-extensibility-samples.md",
-    "platform\\retail\\retail-sdk-extensibility-samples.md"
+    "platform\\retail\\retail-sdk-extensibility-samples.md",
+    "retail\\dev-itpro\\retail-sdk-extensibility-samples.md"
   ],
   "59312415217d903905d41ca22c7e8a2e6f7f3773": [
-    "dev-itpro\\retail\\retail-sdk-overview.md",
-    "platform\\retail\\retail-sdk-overview.md"
+    "platform\\retail\\retail-sdk-overview.md",
+    "retail\\dev-itpro\\retail-sdk-overview.md"
   ],
   "936a9a667d47b5c5848a7c46ca544c5c2636004e": [
-    "dev-itpro\\retail\\retail-sdk-packaging.md",
-    "platform\\retail\\retail-sdk-packaging.md"
+    "platform\\retail\\retail-sdk-packaging.md",
+    "retail\\dev-itpro\\retail-sdk-packaging.md"
   ],
   "759270a9a076708a77348d9a6a4dd729c3f25e1d": [
-    "dev-itpro\\retail\\retail-sdk-samples.md",
-    "platform\\retail\\retail-sdk-samples.md"
+    "platform\\retail\\retail-sdk-samples.md",
+    "retail\\dev-itpro\\retail-sdk-samples.md"
   ],
   "31dd5eb49186505f6edbb0595188c89debb951d7": [
-    "dev-itpro\\retail\\retail-server-architecture.md",
-    "platform\\retail\\retail-server-architecture.md"
+    "platform\\retail\\retail-server-architecture.md",
+    "retail\\dev-itpro\\retail-server-architecture.md"
   ],
   "d59626f842697f6b55f96923263b7cb778edcb97": [
-    "dev-itpro\\retail\\retail-server-customer-consumer-api.md",
-    "platform\\retail\\retail-server-customer-consumer-api.md"
+    "platform\\retail\\retail-server-customer-consumer-api.md",
+    "retail\\dev-itpro\\retail-server-customer-consumer-api.md"
   ],
   "c9e0138afa1c593616cc9c1e930117034d7eb219": [
     "dev-itpro\\servicing\\continuous-delivery-home-page.md",
@@ -1977,6 +1980,9 @@
   "5f82d8bd2ef81eb542b2a01003df4d7fe9de5feb": [
     "dev-itpro\\system-administration\\system-administration-home-page.md",
     "platform\\system-administration\\system-administration-home-page.md"
+  ],
+  "8b02338e88901769412cecb7d3c41406b9dc7203": [
+    "dev-itpro\\TOC.md"
   ],
   "f655f5cc4499dcb8f11e1243f5b1491d5c0c8282": [
     "dev-itpro\\TOC.md"
@@ -2636,10 +2642,10 @@
   "74ae9dded98d1644518026237d06c7d2de7d451b": [
     "financials\\expense-management\\expense-management.md"
   ],
-  "3bfb270f4fb9df0e5767a907abe5bf549aad420c": [
+  "c7517f60469506190ab8038b22e5ec2879bad9c5": [
     "financials\\fixed-assets\\125-percent-reducing-balance-depreciation.md"
   ],
-  "c7517f60469506190ab8038b22e5ec2879bad9c5": [
+  "3bfb270f4fb9df0e5767a907abe5bf549aad420c": [
     "financials\\fixed-assets\\125-percent-reducing-balance-depreciation.md"
   ],
   "e0837605282f283c25a3efeaa39c8b9457e97022": [
@@ -3006,49 +3012,49 @@
     "financials\\TOC.md"
   ],
   "e6c65ccb25924388dc7f2a9c3e2845515dfc02cc": [
-    "human-resources\\benefit-eligibility-policies.md"
+    "hr\\benefit-eligibility-policies.md"
   ],
   "a1791b447da6e3a63070e8e223e1d1cfdc63b2a9": [
-    "human-resources\\compensation-plans.md"
+    "hr\\compensation-plans.md"
   ],
   "a5f501cc10cf191048c88dd9b2ba74285e888f80": [
-    "human-resources\\courses.md"
+    "hr\\courses.md"
   ],
   "78e3babb242497be843b4202b5ccbfcf3a18057f": [
-    "human-resources\\create-department-add-department-hierarchy.md"
+    "hr\\create-department-add-department-hierarchy.md"
   ],
   "04b1bcb4c5bcae9a0f9af7ec1c05d2ce54a825a4": [
-    "human-resources\\create-fixed-compensation-plans.md"
+    "hr\\create-fixed-compensation-plans.md"
   ],
   "9b9f61e0cd0cac46e16f56f1710ad89ada773266": [
-    "human-resources\\create-variable-compensation-plans.md"
+    "hr\\create-variable-compensation-plans.md"
   ],
   "8a07426a9c541fa667ec5ced3481fd1f0c208128": [
-    "human-resources\\departments-jobs-positions.md"
+    "hr\\departments-jobs-positions.md"
   ],
   "a0b765d4eb5d11a84287e96a1f5c7fce75ca194a": [
-    "human-resources\\human-resources\\create-job.md"
+    "hr\\human-resources\\create-job.md"
   ],
   "5a1b2fa8b7e9d733c5acbfbca26869fea98039db": [
-    "human-resources\\human-resources\\use-workflow-to-manage-employee-information.md"
+    "hr\\human-resources\\use-workflow-to-manage-employee-information.md"
   ],
   "4b5d055b171e245d580f9b899d1cedc35576ac87": [
-    "human-resources\\human-resources-landing.md"
+    "hr\\human-resources-landing.md"
   ],
   "17208e629bf3642914c1794e9cab458591376bb1": [
-    "human-resources\\index.md"
+    "hr\\index.md"
   ],
   "f137b40ba251ccdfe283cd59689efafafccf8322": [
-    "human-resources\\loan-items.md"
+    "hr\\loan-items.md"
   ],
   "a2626c7e760f6eb0230516aa1eaa39f25fcc5f5d": [
-    "human-resources\\manage-benefit-program.md"
+    "hr\\manage-benefit-program.md"
   ],
   "f741f5f26f860089b412f5b4f056cda4e005e78e": [
-    "human-resources\\manage-recruiting-process.md"
+    "hr\\manage-recruiting-process.md"
   ],
   "ef9ceff26235ac4e947226a989b0395c185adb98": [
-    "human-resources\\mass-hire-projects.md"
+    "hr\\mass-hire-projects.md"
   ],
   "9023674feb7eba1748ef82792b82cab85c5e101b": [
     "financials\\project-management\\intercompany-invoicing.md"
@@ -3075,31 +3081,25 @@
     "financials\\project-management\\work-breakdown-structures.md"
   ],
   "8490c6e603e1c6be4bd464166f3be024e3c118b3": [
-    "human-resources\\questionnaire\\design-questionnaires.md"
+    "hr\\questionnaire\\design-questionnaires.md"
   ],
   "1694dd8f7e10c3c9c18bfaed6593eafed7c1e9d5": [
-    "human-resources\\questionnaire\\distribute-questionnaires.md"
+    "hr\\questionnaire\\distribute-questionnaires.md"
   ],
   "d09f60e3b2bf5bb4db3bad1264a1e0ac3fdcbca2": [
-    "human-resources\\questionnaire\\evaluate-questionnaire-results.md"
+    "hr\\questionnaire\\evaluate-questionnaire-results.md"
   ],
   "28fdc4f672a2c481011a66c2e2e934a59510655f": [
-    "human-resources\\questionnaire\\questionnaires.md"
+    "hr\\questionnaire\\questionnaires.md"
   ],
   "e8c880de34743211caa7a0280717005ba2d3453f": [
-    "human-resources\\set-up-company-specific-hr-parameters.md"
+    "hr\\set-up-company-specific-hr-parameters.md"
   ],
   "99536c7f0fe3f7a6290588687aacd885a25831ef": [
-    "human-resources\\set-up-hr-parameters-across-legal-entities.md"
+    "hr\\set-up-hr-parameters-across-legal-entities.md"
   ],
   "40dfe11d7157af920061f5a4f7b8b8637243f21a": [
-    "human-resources\\skills.md"
-  ],
-  "bfe68bfab6b0b94463d57e6010139e6dffb801cc": [
-    "human-resources\\TOC.md"
-  ],
-  "123fe7e4918d24c07a9baa74ebd23a08e4f9cfa4": [
-    "human-resources\\TOC.md"
+    "hr\\skills.md"
   ],
   "38e422abb532abb72eb581f9d6de3cd7e1a3f0fc": [
     "index.md"
@@ -3560,6 +3560,9 @@
   "c950b7e6ee76ca6215e581806ccdeef61b79894d": [
     "manufacturing\\sales-marketing\\sales-agreements.md"
   ],
+  "f76b0b4bb95c3756aeefc93a05f4ca4524036b2f": [
+    "manufacturing\\TOC.md"
+  ],
   "0beffc6820cc4bec921f53e4e8cf0fcbb5da3797": [
     "manufacturing\\TOC.md"
   ],
@@ -3644,14 +3647,8 @@
   "5d577228ca964d9f2e45d3e1ef3ac79fa31262eb": [
     "manufacturing\\warehouse-management\\warehouse-work-policies.md"
   ],
-  "df78899e25d2d838c693c6cd44ec947e270175ec": [
-    "retail\\add-extension-properties.md"
-  ],
-  "0fe8bc645947ac1f07e7bc6606218c94a90b0048": [
-    "retail\\add-extension-properties.md"
-  ],
   "cfd21a8355f8fb2ee803a7610a9aae93f88a6659": [
-    "retail\\add-new-custom-control-mpos-screen-layout.md"
+    "retail\\dev-itpro\\add-new-custom-control-mpos-screen-layout.md"
   ],
   "ea77af4d59d1c30761417662ba0576f41ac725cd": [
     "retail\\add-recommendations-control-pos-screen.md"
@@ -3672,13 +3669,13 @@
     "retail\\call-center-functionality.md"
   ],
   "98fc65bf90049231c689e28525a4a7ae8cbd08c7": [
-    "retail\\commerce-essentials\\commerce-essentials.md"
+    "retail\\commerce-essentials.md"
   ],
   "74dbc9804d9fe6f19c37b8927c85f366fee0737a": [
-    "retail\\commerce-essentials\\commerce-essentials-landing.md"
+    "retail\\commerce-essentials-landing.md"
   ],
   "07906192bc5eb2425139c7578c9a45e8b23c5eb1": [
-    "retail\\commerce-essentials\\organizational-hierarchies-commerce-essentials.md"
+    "retail\\organizational-hierarchies-commerce-essentials.md"
   ],
   "f29f2e08d580a4cbd7e5ec5849bf1e3f319c133c": [
     "retail\\create-call-center-catalogs.md"
@@ -3699,7 +3696,7 @@
     "retail\\define-maintain-retail-channels.md"
   ],
   "cb419c8101c1400f1a48ab7fd709a614ef430151": [
-    "retail\\ecommerce-platform.md"
+    "retail\\dev-itpro\\ecommerce-platform.md"
   ],
   "1c2993010e1623fa339aaa1ff1c97b4281f06cbe": [
     "retail\\email-receipts.md"
@@ -3708,7 +3705,7 @@
     "retail\\enable-configure-retail-functionality.md"
   ],
   "27e92028147aeac087d26744d88b7c29f97bde98": [
-    "retail\\extend-commerce-data-exchange.md"
+    "retail\\dev-itpro\\extend-commerce-data-exchange.md"
   ],
   "0bf92a72c92177b2bfe65f512d6c9ec4b66aa560": [
     "retail\\extended-logon.md"
@@ -3752,6 +3749,9 @@
   "8ae177934da872172cfec166847e711de01a1e15": [
     "retail\\pos-sales-groups-track-commissions.md"
   ],
+  "7af82b28a20a06209df4aae936f22b2d96e59d76": [
+    "retail\\pos-screen-layouts.md"
+  ],
   "eb832c91d9604b3746d802ec50b7e79643fdae0a": [
     "retail\\pos-screen-layouts.md"
   ],
@@ -3759,16 +3759,16 @@
     "retail\\price-adjustments-discounts.md"
   ],
   "0e25f4738d538027279f4aa3733b2febd653957b": [
-    "retail\\provision-dev-vm.md"
+    "retail\\dev-itpro\\provision-dev-vm.md"
   ],
   "75e15989ee49e617cec0f5a481136761b94154d9": [
     "retail\\receipt-templates-printing.md"
   ],
   "74291f1651b4e6631ac93c065684eb9b9d055cbf": [
-    "retail\\retail-channel-performance-dashboard-power-bi-data.md"
+    "retail\\dev-itpro\\retail-channel-performance-dashboard-power-bi-data.md"
   ],
   "e3ab885eaafe68eefd858c3f1282580f62be9827": [
-    "retail\\retail-component-events-diagnostics-troubleshooting.md"
+    "retail\\dev-itpro\\retail-component-events-diagnostics-troubleshooting.md"
   ],
   "f36d188410bdc30b664774708dd0d1e3a514b67c": [
     "retail\\retail-components.md"
@@ -3789,10 +3789,10 @@
     "retail\\retail-peripherals-overview.md"
   ],
   "2807152c8e85d860a2b2e3d344d66115d7017fc5": [
-    "retail\\retail-store-scale-unit-configuration-installation.md"
+    "retail\\dev-itpro\\retail-store-scale-unit-configuration-installation.md"
   ],
   "2800fc146ac006c7a292513b2f6d2a2c80d50a9b": [
-    "retail\\retail-store-system-before-you-begin.md"
+    "retail\\dev-itpro\\retail-store-system-before-you-begin.md"
   ],
   "c3715c108f731bd82f396086579fdc7c9ee688d3": [
     "retail\\retail-time-attendance.md"
@@ -3801,7 +3801,7 @@
     "retail\\sales-performance-products.md"
   ],
   "e1331a6288031ae1813a701cc81db0f01f42b72b": [
-    "retail\\secure-retail-cloud-pos.md"
+    "retail\\dev-itpro\\secure-retail-cloud-pos.md"
   ],
   "562e3943e0af30cc9cb0d050b20c050b232dc872": [
     "retail\\set-up-activation-accounts-validate-devices-hq.md"
@@ -3842,14 +3842,17 @@
   "0582bd48abb9fd08da8c07723b42e42752012b2e": [
     "retail\\store-performance-information.md"
   ],
+  "3a1d0cacc2ec1f0aff2a6be4bc18e6568540fe95": [
+    "retail\\TOC.md"
+  ],
   "2f1006c703da4c9b75b1571deb2db088de268d87": [
     "retail\\TOC.md"
   ],
   "201378b96e4e045616547fc3ec412f6b9b69683f": [
-    "retail\\trigger-example-blocking-transaction.md"
+    "retail\\dev-itpro\\trigger-example-blocking-transaction.md"
   ],
   "2cbcfaa689ef1244f2dae2169a7b7740e89bff18": [
-    "retail\\trigger-example-return-policy.md"
+    "retail\\dev-itpro\\trigger-example-return-policy.md"
   ],
   "e77d7cbcfcc8b3995293ab0860ec54c276556cab": [
     "retail\\work-with-order-holds.md"
@@ -3863,7 +3866,124 @@
   "ab86d22e7dd8cce2d91c17bccce229b0a7569662": [
     "platform\\index.md"
   ],
+  "d801bbd3ad2359ed0e1788553b2b2c320f0331ec": [
+    "platform\\TOC.md"
+  ],
   "284cde50195790533822c60c1aca37945d64651f": [
     "platform\\TOC.md"
+  ],
+  "df78899e25d2d838c693c6cd44ec947e270175ec": [
+    "retail\\dev-itpro\\add-extension-properties.md"
+  ],
+  "957e5fa65a617c8ff7f9f8cd68775e5be366af29": [
+    "financials\\localizations\\asia-pacific\\business-activity-statement-bas-overview.md"
+  ],
+  "022dc13deb1911304ca3c921edd8406ab15e9ce9": [
+    "financials\\localizations\\asia-pacific\\generate-gst-05-report-singapore.md"
+  ],
+  "5c3105051c2a498f1c5dfefbc6a77110dfdd7b39": [
+    "financials\\localizations\\asia-pacific\\gst-malaysia.md"
+  ],
+  "9815102964e54baa15f1d709330be6251551239c": [
+    "financials\\localizations\\asia-pacific\\low-value-pool-depreciation.md"
+  ],
+  "4c4034e4f17964c1d31af41599ebf326244bb504": [
+    "financials\\localizations\\asia-pacific\\set-up-method-of-payment-pay-vendors-australian-banks.md"
+  ],
+  "600550138f0350fe9f453d9181bc6c81296b603d": [
+    "financials\\localizations\\europe\\construction-industry-scheme.md"
+  ],
+  "50fe7156931631f8abdede3a2d94e5120f032bde": [
+    "financials\\localizations\\north-america\\tax-codes-tax-groups-posting-definitions.md"
+  ],
+  "6db9c427b537f328e4f1c3698fc59e520f7581dc": [
+    "financials\\localizations\\north-america\\year-end-1099-reporting.md"
+  ],
+  "712a2550bfa0aeb59cbff509b7944917457dff2e": [
+    "hr\\localizations\\north-america\\benefit-accrual-plan-tasks.md"
+  ],
+  "cb16e1a0e777295c575050afd36fd7c764779fce": [
+    "hr\\localizations\\north-america\\benefit-set-up-tasks.md"
+  ],
+  "29351187372acd83b8e095d1ebc1bfda80dafcbd": [
+    "hr\\localizations\\north-america\\comply-ada.md"
+  ],
+  "a32d0873839e5f8bea10bfd9e56570dd6637c7c6": [
+    "hr\\localizations\\north-america\\earning-code-group-tasks.md"
+  ],
+  "7d69afe6ac38a52c47a7e875150a6dfd3bfcb575": [
+    "hr\\localizations\\north-america\\earnings-generation-process.md"
+  ],
+  "40764cda50885435f5f21c56a041fc733cb7070f": [
+    "hr\\localizations\\north-america\\existing-earnings.md"
+  ],
+  "df189f24a0706749c74c7e47f17f8740985d2ec6": [
+    "hr\\localizations\\north-america\\existing-payroll-payments.md"
+  ],
+  "272b8699bc4764cf519bdd590d1961932674cf03": [
+    "hr\\localizations\\north-america\\form-i-9-verification.md"
+  ],
+  "08ff0a7f9a2a972eddb61e2b66b8075c31ff8f03": [
+    "hr\\localizations\\north-america\\garnishment-tax-levy-administrative-fees.md"
+  ],
+  "27f54f4e8dfad7c274782b0d09bd883a294b7634": [
+    "hr\\localizations\\north-america\\garnishment-tax-levy-enrollment-tasks.md"
+  ],
+  "13080f3cebc6823594782315223f6c2817d8f310": [
+    "hr\\localizations\\north-america\\garnishment-tax-levy-set-up-tasks.md"
+  ],
+  "7f8e8921a508918c2ca2695b1d5f3a7f527f330d": [
+    "hr\\localizations\\north-america\\generate-earnings.md"
+  ],
+  "008b51bf0b58d9c9712c37164e6664e1bb1eeb5b": [
+    "hr\\localizations\\north-america\\generate-payroll-reports.md"
+  ],
+  "4fb3804c65fb90da0379f5dfa0ea2a3a0cbd5693": [
+    "hr\\localizations\\north-america\\issue-worker-payments.md"
+  ],
+  "36d08abc8ed454d87391e8944421b9de5d86c1e9": [
+    "hr\\localizations\\north-america\\pay-cycle-pay-period-tasks-sample.md"
+  ],
+  "7b4e8df2c5be5e770a5e22d43fee9eb9f4951b6b": [
+    "hr\\localizations\\north-america\\payroll.md"
+  ],
+  "ae5e8e32f69d3bfae4e11995ac689ea4dab96485": [
+    "hr\\localizations\\north-america\\payroll-calculation-frequencies-tasks.md"
+  ],
+  "a308abbf3624081bf246181264c36a95db04aa59": [
+    "hr\\localizations\\north-america\\payroll-data-updates.md"
+  ],
+  "55b53ccf73e7f4640e894fa7910e0f822760efe3": [
+    "hr\\localizations\\north-america\\pay-statements.md"
+  ],
+  "fafa49b7464a57010d0893cd89ca19fb624f274f": [
+    "hr\\localizations\\north-america\\pay-statements-payment-generation-process.md"
+  ],
+  "420cc6c00f7f5db06259353848ee0c6990801f06": [
+    "hr\\localizations\\north-america\\post-payroll-generate-vendor-invoices.md"
+  ],
+  "778b83967bc62976b16e33c74734fe2c4dea7fca": [
+    "hr\\localizations\\north-america\\premium-earning-setup-tasks.md"
+  ],
+  "adbdf3c36f318f3cd8dd09e2ab380ac80c8ff36e": [
+    "hr\\localizations\\north-america\\tax-information-tasks.md"
+  ],
+  "8eeaaade7b0c6179a85d173cf08396c06a882dca": [
+    "hr\\localizations\\north-america\\work-cycle-work-period-tasks.md"
+  ],
+  "1ffd74ccd622ab19816fc38ca577b5f3574de2a4": [
+    "hr\\localizations\\north-america\\worker-position-payroll-tasks.md"
+  ],
+  "2ebc4a67fdc6641b3377b86f5d517b88bab829b3": [
+    "hr\\localizations\\north-america\\work-schedule-leave-tasks.md"
+  ],
+  "6a101d63eebdc5470ab343da552703c0c09e952a": [
+    "hr\\performance-management-overview.md"
+  ],
+  "38386fa87accdb81de8beeee61186f1c4e6fd3c2": [
+    "hr\\TOC.md"
+  ],
+  "d18e419ddb4f1fc0952cbd2c5bb028c1d73b95c7": [
+    "retail\\dev-itpro\\TOC.md"
   ]
 }
