@@ -5418,7 +5418,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.nl-nl\\master\\00ee9ea3dcfbe3d7be326ec02f7445760981f9bc.f09117f589b6b4af7ca512035cd5942083dbaad6.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.nl-nl\\master\\basic\\configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.nl-nl.xlf",
-      "LocXliffCommit": "0a229a5e6ff3fead66d84be76c9ee72e4beb177e"
+      "LocXliffCommit": "eedcf5c2e4780cda57bd63d21f7a084fbca6d896"
     },
     "financials\\general-ledger\\import-currency-exchange-rates.md.15ddc09b3f0816e6cc806ff278e33d04b927cac9.HT": {
       "SourceFilename": "financials\\general-ledger\\import-currency-exchange-rates.md",
@@ -6448,7 +6448,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.nl-nl\\master\\c7517f60469506190ab8038b22e5ec2879bad9c5.e13babd2906feae1dbb9db4b69a3da52d3393f78.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.nl-nl\\master\\basic\\125-percent-reducing-balance-depreciation.f2923d2f20e80e01c50b878e0504ce3db35a2ff0.nl-nl.xlf",
-      "LocXliffCommit": "0a229a5e6ff3fead66d84be76c9ee72e4beb177e"
+      "LocXliffCommit": "eedcf5c2e4780cda57bd63d21f7a084fbca6d896"
     },
     "manufacturing\\production-control\\substitute-items-bom-lines.md.b188dbe73f9ab7637bbe9192632be49655df8b6f.HT": {
       "SourceFilename": "manufacturing\\production-control\\substitute-items-bom-lines.md",
