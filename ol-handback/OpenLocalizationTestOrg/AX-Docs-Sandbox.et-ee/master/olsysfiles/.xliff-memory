@@ -5136,7 +5136,7 @@
       "TranslationType": 1,
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\eb832c91d9604b3746d802ec50b7e79643fdae0a.79fe854025713fd13edc62938479144aa52f62ad.xml",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\7af82b28a20a06209df4aae936f22b2d96e59d76.40c466edd8be5765ff658d191ff44c44f41642e1.xml",
       "LocXliff": null,
       "LocXliffCommit": null
     },
@@ -11077,6 +11077,836 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\77a1e2f40f125794719fc56241ab1525496b1543.2f04faacaa4830792aaefacd1801cedae5d327e4.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\north-america\\tax-codes-tax-groups-posting-definitions.md.f3df7c2e98d65b8a9a4cf1f5a7ea6852baf52d5d.HT": {
+      "SourceFilename": "financials\\localizations\\north-america\\tax-codes-tax-groups-posting-definitions.md",
+      "XliffHash": "f3df7c2e98d65b8a9a4cf1f5a7ea6852baf52d5d",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\50fe7156931631f8abdede3a2d94e5120f032bde.6f2239fbad13901c9b1ddd6a678e6ed56476ae3c.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "platform\\retail\\add-properties-sales-order.md.dabf6ca71114dd9d04ce249e3a1929e640d7a81a.HT": {
+      "SourceFilename": "platform\\retail\\add-properties-sales-order.md",
+      "XliffHash": "dabf6ca71114dd9d04ce249e3a1929e640d7a81a",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\4e30d46d8c588509a61ad379945fea1549e9acfa.43f7158a4509d4c050a5a3f0629d33888cb41d8c.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "platform\\retail\\modern-pos-trigger-extensibility.md.17d590ec15766b20eff7502105a401042cd39865.HT": {
+      "SourceFilename": "platform\\retail\\modern-pos-trigger-extensibility.md",
+      "XliffHash": "17d590ec15766b20eff7502105a401042cd39865",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\2c770454cd068208f6125c37f07a5020bf0bacec.d17da19cbf8a0cddfa4c45030cf7e1034b2b0b47.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "hr\\localizations\\north-america\\payroll.md.3ac9e4f77aa49696cea1d19f2269b8a11f415d2c.HT": {
+      "SourceFilename": "hr\\localizations\\north-america\\payroll.md",
+      "XliffHash": "3ac9e4f77aa49696cea1d19f2269b8a11f415d2c",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\7b4e8df2c5be5e770a5e22d43fee9eb9f4951b6b.e354cb63471526732ee4664ecf518a27339682c5.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "platform\\retail\\retail-server-architecture.md.1b2f32523d037b2b60db0659f2c61e5676ded93a.HT": {
+      "SourceFilename": "platform\\retail\\retail-server-architecture.md",
+      "XliffHash": "1b2f32523d037b2b60db0659f2c61e5676ded93a",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\31dd5eb49186505f6edbb0595188c89debb951d7.6a3e1972ae9b392371388f3a13113b95b4469862.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "platform\\retail\\ecommerce-platform-sdk.md.ca5513cf65c8a2d7898c24624739984f5ad4f6b5.HT": {
+      "SourceFilename": "platform\\retail\\ecommerce-platform-sdk.md",
+      "XliffHash": "ca5513cf65c8a2d7898c24624739984f5ad4f6b5",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\61703d69a89b248086d3e1e77adce02b8256b624.1a62d4e306a36d74f520737defc687285379d554.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "retail\\dev-itpro\\retail-channel-performance-dashboard-power-bi-data.md.761f190a92cb24f4c6a6ccabb8360080d9c7c896.HT": {
+      "SourceFilename": "retail\\dev-itpro\\retail-channel-performance-dashboard-power-bi-data.md",
+      "XliffHash": "761f190a92cb24f4c6a6ccabb8360080d9c7c896",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\74291f1651b4e6631ac93c065684eb9b9d055cbf.00aa7fd459e273e312ee66f182e5b818d70c496b.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "hr\\localizations\\north-america\\work-cycle-work-period-tasks.md.0544ba527e2406aafe84a5ab84e6c00191d703d5.HT": {
+      "SourceFilename": "hr\\localizations\\north-america\\work-cycle-work-period-tasks.md",
+      "XliffHash": "0544ba527e2406aafe84a5ab84e6c00191d703d5",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\8eeaaade7b0c6179a85d173cf08396c06a882dca.45f9eb53df3c05d265d2cc9e39b78adf277f423b.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\asia-pacific\\low-value-pool-depreciation.md.90cbd8edc46e641d40fcb1431720127c224d9e35.HT": {
+      "SourceFilename": "financials\\localizations\\asia-pacific\\low-value-pool-depreciation.md",
+      "XliffHash": "90cbd8edc46e641d40fcb1431720127c224d9e35",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\9815102964e54baa15f1d709330be6251551239c.3f987737a1656522e4da8ff806d22f57f74ac537.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "hr\\localizations\\north-america\\work-schedule-leave-tasks.md.c8cde6cf3b324e65b3b7d1538184df781a1b14ba.HT": {
+      "SourceFilename": "hr\\localizations\\north-america\\work-schedule-leave-tasks.md",
+      "XliffHash": "c8cde6cf3b324e65b3b7d1538184df781a1b14ba",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\2ebc4a67fdc6641b3377b86f5d517b88bab829b3.efa4a7503039544ffb4c836469e028ce1470909c.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "core\\TOC.md.23ad5e3360291369be767e788bb6237c0a58aca3.HT": {
+      "SourceFilename": "core\\TOC.md",
+      "XliffHash": "23ad5e3360291369be767e788bb6237c0a58aca3",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\fcf4765af8dac296b52a04abd5d417a22e87f0e2.a57b99d5b7d9e965b04baa621dcd2550787be01a.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "platform\\retail\\install-retail-hotfix.md.aaa9f8f1e1b4999fba3fe5727828dc3434fa5187.HT": {
+      "SourceFilename": "platform\\retail\\install-retail-hotfix.md",
+      "XliffHash": "aaa9f8f1e1b4999fba3fe5727828dc3434fa5187",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\442b3cb90a01ecc3ccea1670b80138eb0c83864d.7ca189bdc7295280aee3d24f95cf24cfc1b7fb7a.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "hr\\localizations\\north-america\\worker-position-payroll-tasks.md.96918f79d4f25bc1b79b5c8158a943fd44379571.HT": {
+      "SourceFilename": "hr\\localizations\\north-america\\worker-position-payroll-tasks.md",
+      "XliffHash": "96918f79d4f25bc1b79b5c8158a943fd44379571",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\1ffd74ccd622ab19816fc38ca577b5f3574de2a4.a56c509985c09b0778def8a5058e8904d43299e9.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "retail\\dev-itpro\\retail-component-events-diagnostics-troubleshooting.md.302833ac24aca45a3d8155d31b9dbb04a9af9095.HT": {
+      "SourceFilename": "retail\\dev-itpro\\retail-component-events-diagnostics-troubleshooting.md",
+      "XliffHash": "302833ac24aca45a3d8155d31b9dbb04a9af9095",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\e3ab885eaafe68eefd858c3f1282580f62be9827.df0632b3948bc70d3b1319a56215232c2887c784.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\north-america\\year-end-1099-reporting.md.ea38780aa747256c5b7727618a814aa74545e8f4.HT": {
+      "SourceFilename": "financials\\localizations\\north-america\\year-end-1099-reporting.md",
+      "XliffHash": "ea38780aa747256c5b7727618a814aa74545e8f4",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\6db9c427b537f328e4f1c3698fc59e520f7581dc.875d09e3ff0fb30d0999db0e9f4646d942b27ef5.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "platform\\retail\\commerce-runtime-extensibility.md.75762faa5f1d73d72dfe51ffba193aebed0a8130.HT": {
+      "SourceFilename": "platform\\retail\\commerce-runtime-extensibility.md",
+      "XliffHash": "75762faa5f1d73d72dfe51ffba193aebed0a8130",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\f464fd1a27141ea18a4e310b2ca0edbbc8b733e1.aaf0893b53c98a142b31060ef25fff7ab8f9270a.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "hr\\localizations\\north-america\\existing-earnings.md.2d8ed864f89719fef817d18e2c04878fe18d5f1b.HT": {
+      "SourceFilename": "hr\\localizations\\north-america\\existing-earnings.md",
+      "XliffHash": "2d8ed864f89719fef817d18e2c04878fe18d5f1b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\40764cda50885435f5f21c56a041fc733cb7070f.ae4befe44493771cd8d39f415895b9cc410194ca.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "platform\\retail\\retail-online-store-publishing-architecture.md.4f5511717f675673310da4ac41df7f19c5e41cde.HT": {
+      "SourceFilename": "platform\\retail\\retail-online-store-publishing-architecture.md",
+      "XliffHash": "4f5511717f675673310da4ac41df7f19c5e41cde",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\c34986c2b4996eac554783822e5bdcdf3f737bcb.69d61558da62078ebc614c3916ad19f1a540b1b4.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "retail\\TOC.md.60cf9db15dc896217c545957090d26b888080b6c.HT": {
+      "SourceFilename": "retail\\TOC.md",
+      "XliffHash": "60cf9db15dc896217c545957090d26b888080b6c",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\3a1d0cacc2ec1f0aff2a6be4bc18e6568540fe95.e47c34c1b4bf02f9c7bd0bd5f134ca88fe2c73a3.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\asia-pacific\\gst-malaysia.md.d5bf99bb908218e530319d866e7b49639105e8d7.HT": {
+      "SourceFilename": "financials\\localizations\\asia-pacific\\gst-malaysia.md",
+      "XliffHash": "d5bf99bb908218e530319d866e7b49639105e8d7",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\5c3105051c2a498f1c5dfefbc6a77110dfdd7b39.743a9bcc7a637093f62f92ec43299b919949f64f.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "retail\\dev-itpro\\add-extension-properties.md.688e2dd8c64935eac465bc0090b18efaba26f694.HT": {
+      "SourceFilename": "retail\\dev-itpro\\add-extension-properties.md",
+      "XliffHash": "688e2dd8c64935eac465bc0090b18efaba26f694",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\df78899e25d2d838c693c6cd44ec947e270175ec.3e21c50fe51ceb0daf035be8f11d66b0e5afb821.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "hr\\localizations\\north-america\\pay-statements.md.3129ebc802b7f693cc7ad9c220f5a1498b6950a3.HT": {
+      "SourceFilename": "hr\\localizations\\north-america\\pay-statements.md",
+      "XliffHash": "3129ebc802b7f693cc7ad9c220f5a1498b6950a3",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\55b53ccf73e7f4640e894fa7910e0f822760efe3.42dc8539fb4d2770962627e92de755eb97cc2968.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\asia-pacific\\generate-gst-05-report-singapore.md.8cede88ddda1b91dd43d0e2406c1e5e64f574b2e.HT": {
+      "SourceFilename": "financials\\localizations\\asia-pacific\\generate-gst-05-report-singapore.md",
+      "XliffHash": "8cede88ddda1b91dd43d0e2406c1e5e64f574b2e",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\022dc13deb1911304ca3c921edd8406ab15e9ce9.b3260bb3d9be2d865c95f21504d5205ac43b65ed.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "retail\\dev-itpro\\add-new-custom-control-mpos-screen-layout.md.1724c2f15f581814294a899f2f1f912f054b2830.HT": {
+      "SourceFilename": "retail\\dev-itpro\\add-new-custom-control-mpos-screen-layout.md",
+      "XliffHash": "1724c2f15f581814294a899f2f1f912f054b2830",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\cfd21a8355f8fb2ee803a7610a9aae93f88a6659.55800ebcb07e48a66516997f60b7a1ebc042af8d.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "hr\\performance-management-overview.md.35df99bb14d6355143253f1e8bdcd1ae722e4021.HT": {
+      "SourceFilename": "hr\\performance-management-overview.md",
+      "XliffHash": "35df99bb14d6355143253f1e8bdcd1ae722e4021",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\6a101d63eebdc5470ab343da552703c0c09e952a.b515997e6afdf6fee05b21c10067a94420ed231a.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "retail\\dev-itpro\\TOC.md.c159e75e29eda4242acd3a8d46ed1b06f5ffd5aa.HT": {
+      "SourceFilename": "retail\\dev-itpro\\TOC.md",
+      "XliffHash": "c159e75e29eda4242acd3a8d46ed1b06f5ffd5aa",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\d18e419ddb4f1fc0952cbd2c5bb028c1d73b95c7.6152d882a9dc44e928a92d2a044235c0bf35d391.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "retail\\dev-itpro\\retail-store-system-before-you-begin.md.35544e25ad27db05890fd659136833ad4d0e9a51.HT": {
+      "SourceFilename": "retail\\dev-itpro\\retail-store-system-before-you-begin.md",
+      "XliffHash": "35544e25ad27db05890fd659136833ad4d0e9a51",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\2800fc146ac006c7a292513b2f6d2a2c80d50a9b.3a6b5bdbbe073c60cca4022168455928531be75e.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "platform\\retail\\retail-modern-pos-architecture.md.504d70af56fe698ffe69eb6f4a2e825bbe9650e2.HT": {
+      "SourceFilename": "platform\\retail\\retail-modern-pos-architecture.md",
+      "XliffHash": "504d70af56fe698ffe69eb6f4a2e825bbe9650e2",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\cf19c7e5d2bed33f8837ad671e78fd26ef2ecb45.652dd765710e7ac1a75f37040ef0795b0d3154a7.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "hr\\index.md.9060865bb51fb31dda586fb742f469d39c066244.HT": {
+      "SourceFilename": "hr\\index.md",
+      "XliffHash": "9060865bb51fb31dda586fb742f469d39c066244",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\17208e629bf3642914c1794e9cab458591376bb1.d43d5bbd47f7fc0095e30926c575bccdc6c3f040.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "hr\\localizations\\north-america\\pay-statements-payment-generation-process.md.e0f49cfc7902fcee4348b737cf0a567f6141424c.HT": {
+      "SourceFilename": "hr\\localizations\\north-america\\pay-statements-payment-generation-process.md",
+      "XliffHash": "e0f49cfc7902fcee4348b737cf0a567f6141424c",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\fafa49b7464a57010d0893cd89ca19fb624f274f.c82ab0d3c418149633829c478a74164f5ae1174a.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "retail\\dev-itpro\\trigger-example-blocking-transaction.md.5f1070e05139efcc87cd908d595099eaee8edc2b.HT": {
+      "SourceFilename": "retail\\dev-itpro\\trigger-example-blocking-transaction.md",
+      "XliffHash": "5f1070e05139efcc87cd908d595099eaee8edc2b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\201378b96e4e045616547fc3ec412f6b9b69683f.a995809a6efcdd45792f5a9435d191d402ac702d.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "platform\\retail\\create-retail-experience-app.md.f12b722dfba238e8ffec22f3f66c19c717b57826.HT": {
+      "SourceFilename": "platform\\retail\\create-retail-experience-app.md",
+      "XliffHash": "f12b722dfba238e8ffec22f3f66c19c717b57826",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\569872a81fe9a8aa6f079fc669daf772420aced8.4fb5668102319726af6f2548e445b3fd6a7c962b.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "retail\\dev-itpro\\ecommerce-platform.md.6161490adfea3cff7d86f0f34940aeb2482c5cb2.HT": {
+      "SourceFilename": "retail\\dev-itpro\\ecommerce-platform.md",
+      "XliffHash": "6161490adfea3cff7d86f0f34940aeb2482c5cb2",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\cb419c8101c1400f1a48ab7fd709a614ef430151.a70a3d87aba9ae5451c6f8d8353585de95599b79.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "platform\\retail\\odata-controllers-api.md.71120ce3e8b6cc4e2f3a75ce7ae508da17bca7eb.HT": {
+      "SourceFilename": "platform\\retail\\odata-controllers-api.md",
+      "XliffHash": "71120ce3e8b6cc4e2f3a75ce7ae508da17bca7eb",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\10c00a123385dd256243326b71d3b62d00671db3.1897aea87f04d8d6533cde2ec8da30fd07427c27.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "platform\\retail\\retail-modern-pos-offline.md.369bfd699355b099d8601a1efd6a553a291b788b.HT": {
+      "SourceFilename": "platform\\retail\\retail-modern-pos-offline.md",
+      "XliffHash": "369bfd699355b099d8601a1efd6a553a291b788b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\1eb9639153015dd8723471dc494fed73b34ed41f.603ab36f27ebf7224bd6a3975a0f1cfe7b558ed6.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "platform\\retail\\dev-retail-home-page.md.c6d78a993566cf78691a4e9cb7d3430f25d2955b.HT": {
+      "SourceFilename": "platform\\retail\\dev-retail-home-page.md",
+      "XliffHash": "c6d78a993566cf78691a4e9cb7d3430f25d2955b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\daee75c332f9a651b0e22a4ec9952c45a952f8b7.1de7134045cee19a0ae877cc0aeadd7172e52b33.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "retail\\dev-itpro\\trigger-example-return-policy.md.1b6ca8ddeb152fe8bf19939b94b5bb9e6862f26f.HT": {
+      "SourceFilename": "retail\\dev-itpro\\trigger-example-return-policy.md",
+      "XliffHash": "1b6ca8ddeb152fe8bf19939b94b5bb9e6862f26f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\2cbcfaa689ef1244f2dae2169a7b7740e89bff18.15a6fd95b2a68cbdb6d2a5f83ca73618914c1ebf.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "hr\\TOC.md.e231f0858c6c073d8ac962c0ebf13dc747f30f29.HT": {
+      "SourceFilename": "hr\\TOC.md",
+      "XliffHash": "e231f0858c6c073d8ac962c0ebf13dc747f30f29",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\38386fa87accdb81de8beeee61186f1c4e6fd3c2.458533721ac264726e5adbc998142298c79ac8a4.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "dev-itpro\\TOC.md.9e731891b19cc540035c72c38f54bdbdf6091bab.HT": {
+      "SourceFilename": "dev-itpro\\TOC.md",
+      "XliffHash": "9e731891b19cc540035c72c38f54bdbdf6091bab",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\8b02338e88901769412cecb7d3c41406b9dc7203.c649d25f3666e6dceabbb1b536db8397a2a1253f.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "platform\\retail\\commerce-runtime-overview.md.656944c5f15f398068e4026f173e2322749487bb.HT": {
+      "SourceFilename": "platform\\retail\\commerce-runtime-overview.md",
+      "XliffHash": "656944c5f15f398068e4026f173e2322749487bb",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\7613190bfeeb1fa7d9873ffa0b39a5425b42669e.657eada42dc874b512ce1eccca4c6a0ea3eafdd0.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "hr\\localizations\\north-america\\earning-code-group-tasks.md.35768fadb2ef96cd46b518459aa459052e27d6d0.HT": {
+      "SourceFilename": "hr\\localizations\\north-america\\earning-code-group-tasks.md",
+      "XliffHash": "35768fadb2ef96cd46b518459aa459052e27d6d0",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\a32d0873839e5f8bea10bfd9e56570dd6637c7c6.8ee1e576d9d4df0a88ec3786d10e7ab9758b22c7.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "hr\\localizations\\north-america\\post-payroll-generate-vendor-invoices.md.83d374e34f4bb1dc3285f491d1e8b91caac7ca83.HT": {
+      "SourceFilename": "hr\\localizations\\north-america\\post-payroll-generate-vendor-invoices.md",
+      "XliffHash": "83d374e34f4bb1dc3285f491d1e8b91caac7ca83",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\420cc6c00f7f5db06259353848ee0c6990801f06.2476a9400726a2a00fb9e1c1cabe07a641a71ccd.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "platform\\retail\\integrate-retail-sdk-continuous-build.md.7ee8b20c1a53199d7ff1b70811d073ec5d6321a8.HT": {
+      "SourceFilename": "platform\\retail\\integrate-retail-sdk-continuous-build.md",
+      "XliffHash": "7ee8b20c1a53199d7ff1b70811d073ec5d6321a8",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\8e00e2904946713975c6907c5d1e113ea3fa7b1a.94f489d37214f8d5b7db86794a7af7668d88f0b0.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "platform\\retail\\call-crt-service-offline.md.1c9beb989f3b7f66e918156328913e0628231ac3.HT": {
+      "SourceFilename": "platform\\retail\\call-crt-service-offline.md",
+      "XliffHash": "1c9beb989f3b7f66e918156328913e0628231ac3",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\87a3aebed395491b60b7cd12e9b4835e522bb267.080743d6c825e2de7bbd9bac65b37d47203d5c2b.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "hr\\localizations\\north-america\\garnishment-tax-levy-administrative-fees.md.6c9a43d2a06d8f6f32bafbcb518f93c2566d6f1e.HT": {
+      "SourceFilename": "hr\\localizations\\north-america\\garnishment-tax-levy-administrative-fees.md",
+      "XliffHash": "6c9a43d2a06d8f6f32bafbcb518f93c2566d6f1e",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\08ff0a7f9a2a972eddb61e2b66b8075c31ff8f03.7e3fb4bb2145838363dc1e7665705a31d547b7d9.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "platform\\TOC.md.11dd244874420ec3bec0c4d1272f04277276f631.HT": {
+      "SourceFilename": "platform\\TOC.md",
+      "XliffHash": "11dd244874420ec3bec0c4d1272f04277276f631",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\d801bbd3ad2359ed0e1788553b2b2c320f0331ec.31256364ebcd04efd46466fae8da95bdd9d6be26.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "platform\\retail\\create-windows-installer-payment-connector.md.199c95cb2d21d76fddc530110f0844bbd426765d.HT": {
+      "SourceFilename": "platform\\retail\\create-windows-installer-payment-connector.md",
+      "XliffHash": "199c95cb2d21d76fddc530110f0844bbd426765d",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\05481b477ab1a355dab252d47a87a9a1da01d785.771c4c610999059fb8a5682d2d9a9c5284f0ba3e.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "platform\\retail\\add-customer-preference-channel.md.ffb9af4ebf88a2f6167098eabc54ee0c9002a00f.HT": {
+      "SourceFilename": "platform\\retail\\add-customer-preference-channel.md",
+      "XliffHash": "ffb9af4ebf88a2f6167098eabc54ee0c9002a00f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\31dc5329e059d392fba94adf9115f1a848f3c6ad.db92227dcdacb88b98ff010d2d27cdcfae3a6ce0.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "retail\\dev-itpro\\extend-commerce-data-exchange.md.0e3ec740b0573825aaa396ae15dfa32953c9480b.HT": {
+      "SourceFilename": "retail\\dev-itpro\\extend-commerce-data-exchange.md",
+      "XliffHash": "0e3ec740b0573825aaa396ae15dfa32953c9480b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\27e92028147aeac087d26744d88b7c29f97bde98.2152fcae7c9d923bbb3bc316df9490f87ab98919.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "hr\\localizations\\north-america\\earnings-generation-process.md.2d74a21358d9d5519c4efcdf21397c706968095f.HT": {
+      "SourceFilename": "hr\\localizations\\north-america\\earnings-generation-process.md",
+      "XliffHash": "2d74a21358d9d5519c4efcdf21397c706968095f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\7d69afe6ac38a52c47a7e875150a6dfd3bfcb575.c744d16a8f0877f6813c970f47deda19d697f69e.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\europe\\construction-industry-scheme.md.11a6ff3773b1e857b56553e62fce606f882b2a5e.HT": {
+      "SourceFilename": "financials\\localizations\\europe\\construction-industry-scheme.md",
+      "XliffHash": "11a6ff3773b1e857b56553e62fce606f882b2a5e",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\600550138f0350fe9f453d9181bc6c81296b603d.d77b92d90ee7138cd61800e24e9aa0914911eccc.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "manufacturing\\TOC.md.58b17a1a7b8efe478711496afce320d2cd13fae8.HT": {
+      "SourceFilename": "manufacturing\\TOC.md",
+      "XliffHash": "58b17a1a7b8efe478711496afce320d2cd13fae8",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\f76b0b4bb95c3756aeefc93a05f4ca4524036b2f.c4d3a1154673bd0528affa80828a0c6d1f26ee19.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "platform\\retail\\retail-server-customer-consumer-api.md.d1628feffdd157b9a4f5a2232bec3b3bee0f33a9.HT": {
+      "SourceFilename": "platform\\retail\\retail-server-customer-consumer-api.md",
+      "XliffHash": "d1628feffdd157b9a4f5a2232bec3b3bee0f33a9",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\d59626f842697f6b55f96923263b7cb778edcb97.81a7f51888b98c9f449f4bda02209c106f31f660.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "platform\\retail\\retail-sdk-packaging.md.32a6df69fda5d01c12c314c5c57ccde42d1db38c.HT": {
+      "SourceFilename": "platform\\retail\\retail-sdk-packaging.md",
+      "XliffHash": "32a6df69fda5d01c12c314c5c57ccde42d1db38c",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\936a9a667d47b5c5848a7c46ca544c5c2636004e.e6cc190893c97aa680b77ded841b733824e6e12d.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "hr\\localizations\\north-america\\form-i-9-verification.md.42c1ca2992ee35405aabe93f1efb84ec47e9340f.HT": {
+      "SourceFilename": "hr\\localizations\\north-america\\form-i-9-verification.md",
+      "XliffHash": "42c1ca2992ee35405aabe93f1efb84ec47e9340f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\272b8699bc4764cf519bdd590d1961932674cf03.8bc99b862c6438d333b9f512a1ba013a1f6df593.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "hr\\localizations\\north-america\\garnishment-tax-levy-enrollment-tasks.md.53c67e1770225c42a8780aae17758b61f1decb04.HT": {
+      "SourceFilename": "hr\\localizations\\north-america\\garnishment-tax-levy-enrollment-tasks.md",
+      "XliffHash": "53c67e1770225c42a8780aae17758b61f1decb04",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\27f54f4e8dfad7c274782b0d09bd883a294b7634.1652ab927a012c32be2512ee0634786d7de20f48.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "platform\\retail\\configure-authentication-providers.md.8cee2832d773d58b3d3ccf4c6b94e2ef3c15e4b3.HT": {
+      "SourceFilename": "platform\\retail\\configure-authentication-providers.md",
+      "XliffHash": "8cee2832d773d58b3d3ccf4c6b94e2ef3c15e4b3",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\7ce63a6ee9eb8978f05206fff08f7e213fd473c3.0d466ed1ae310c015eb892498a584ebd65b680e5.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "platform\\retail\\retail-sdk-overview.md.2ff948e8bf9e4fa7abd6a23fd8c3a135e86921c3.HT": {
+      "SourceFilename": "platform\\retail\\retail-sdk-overview.md",
+      "XliffHash": "2ff948e8bf9e4fa7abd6a23fd8c3a135e86921c3",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\59312415217d903905d41ca22c7e8a2e6f7f3773.02eda17a13980115561e2e49279a62729900d12c.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "hr\\localizations\\north-america\\benefit-accrual-plan-tasks.md.74f96bdb95298ee5114bdb1cea5262239d81a1e0.HT": {
+      "SourceFilename": "hr\\localizations\\north-america\\benefit-accrual-plan-tasks.md",
+      "XliffHash": "74f96bdb95298ee5114bdb1cea5262239d81a1e0",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\712a2550bfa0aeb59cbff509b7944917457dff2e.53570d6f3bb511317ca2a4157f55c5debf1d4283.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "hr\\localizations\\north-america\\tax-information-tasks.md.3595032b9d88eb39d95f968e3fc77017a54dfc18.HT": {
+      "SourceFilename": "hr\\localizations\\north-america\\tax-information-tasks.md",
+      "XliffHash": "3595032b9d88eb39d95f968e3fc77017a54dfc18",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\adbdf3c36f318f3cd8dd09e2ab380ac80c8ff36e.06770c11064a6115bd2bcfaeb855c2a66cbdd591.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "hr\\localizations\\north-america\\issue-worker-payments.md.760d88e8549e1468d0ae073db68be310665534da.HT": {
+      "SourceFilename": "hr\\localizations\\north-america\\issue-worker-payments.md",
+      "XliffHash": "760d88e8549e1468d0ae073db68be310665534da",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\4fb3804c65fb90da0379f5dfa0ea2a3a0cbd5693.08e5ab2254db5ffecb9183845ec148784cd39073.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "hr\\localizations\\north-america\\payroll-calculation-frequencies-tasks.md.c2406a7783978e371b65905db12fcf613ff7e856.HT": {
+      "SourceFilename": "hr\\localizations\\north-america\\payroll-calculation-frequencies-tasks.md",
+      "XliffHash": "c2406a7783978e371b65905db12fcf613ff7e856",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\ae5e8e32f69d3bfae4e11995ac689ea4dab96485.e6923f6085a78729f206afd250f54543fd2810f3.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "hr\\localizations\\north-america\\premium-earning-setup-tasks.md.00468bc4615f80cc505166c793691e0547eca4d8.HT": {
+      "SourceFilename": "hr\\localizations\\north-america\\premium-earning-setup-tasks.md",
+      "XliffHash": "00468bc4615f80cc505166c793691e0547eca4d8",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\778b83967bc62976b16e33c74734fe2c4dea7fca.689c2d6670d7e7cd4c8821c79ba3fd10c1b8a153.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "platform\\retail\\retail-sdk-samples.md.adb89849911844fdbe28b450ec103d9487ad7680.HT": {
+      "SourceFilename": "platform\\retail\\retail-sdk-samples.md",
+      "XliffHash": "adb89849911844fdbe28b450ec103d9487ad7680",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\759270a9a076708a77348d9a6a4dd729c3f25e1d.bd484c7b8eb44c0170eb35cba3ab7cb66de7d6da.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\asia-pacific\\set-up-method-of-payment-pay-vendors-australian-banks.md.fd147f578705ffb41680ff691ed9731f8647a2c1.HT": {
+      "SourceFilename": "financials\\localizations\\asia-pacific\\set-up-method-of-payment-pay-vendors-australian-banks.md",
+      "XliffHash": "fd147f578705ffb41680ff691ed9731f8647a2c1",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\4c4034e4f17964c1d31af41599ebf326244bb504.c1a58f2297c0d722bea6200064301cf3ac7afe55.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "hr\\localizations\\north-america\\generate-payroll-reports.md.ddbf54404445f270df38a64ba611c8470fa9f047.HT": {
+      "SourceFilename": "hr\\localizations\\north-america\\generate-payroll-reports.md",
+      "XliffHash": "ddbf54404445f270df38a64ba611c8470fa9f047",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\008b51bf0b58d9c9712c37164e6664e1bb1eeb5b.903697f9250563efe6afc2059a4754cf3d2cbec4.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "retail\\dev-itpro\\provision-dev-vm.md.208d27cbb56441076a87339034eedecf063704d9.HT": {
+      "SourceFilename": "retail\\dev-itpro\\provision-dev-vm.md",
+      "XliffHash": "208d27cbb56441076a87339034eedecf063704d9",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\0e25f4738d538027279f4aa3733b2febd653957b.0ecb4f1347a9f64bf159582ef55d766d22ac581f.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\asia-pacific\\business-activity-statement-bas-overview.md.805a54e0dd8bb3f15c36cd103493ee4305744963.HT": {
+      "SourceFilename": "financials\\localizations\\asia-pacific\\business-activity-statement-bas-overview.md",
+      "XliffHash": "805a54e0dd8bb3f15c36cd103493ee4305744963",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\957e5fa65a617c8ff7f9f8cd68775e5be366af29.ee799e3658bdd2c593c8238e448474de1dee1c58.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "retail\\dev-itpro\\retail-store-scale-unit-configuration-installation.md.112edd240ef7bc6e04793a7159709a2abb909b10.HT": {
+      "SourceFilename": "retail\\dev-itpro\\retail-store-scale-unit-configuration-installation.md",
+      "XliffHash": "112edd240ef7bc6e04793a7159709a2abb909b10",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\2807152c8e85d860a2b2e3d344d66115d7017fc5.7c0fbe2d286cc9593e68d0c55c9cfb4259ee060b.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "hr\\localizations\\north-america\\comply-ada.md.7f029369aa57cc63e4a49a23b83afce722bd7c3a.HT": {
+      "SourceFilename": "hr\\localizations\\north-america\\comply-ada.md",
+      "XliffHash": "7f029369aa57cc63e4a49a23b83afce722bd7c3a",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\29351187372acd83b8e095d1ebc1bfda80dafcbd.7db197ecef58860aeb5d1e259a5e35a1fa355ae1.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "hr\\localizations\\north-america\\benefit-set-up-tasks.md.8729c000cb0d787f81688304c611ce88c6860b6f.HT": {
+      "SourceFilename": "hr\\localizations\\north-america\\benefit-set-up-tasks.md",
+      "XliffHash": "8729c000cb0d787f81688304c611ce88c6860b6f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\cb16e1a0e777295c575050afd36fd7c764779fce.17e1c5faa43a8bf908ed9dc120739e4b740c914c.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "platform\\retail\\retail-sdk-extensibility-samples.md.cc2cbe76f11cc9fd717a40f21e3a893499317daf.HT": {
+      "SourceFilename": "platform\\retail\\retail-sdk-extensibility-samples.md",
+      "XliffHash": "cc2cbe76f11cc9fd717a40f21e3a893499317daf",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\dd5faf3cbe5ff73d619e23bf09a07847161c69f7.c48bfa4e07691926f728f4d93420d2fdde43af11.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "hr\\localizations\\north-america\\existing-payroll-payments.md.c427c554b738f500abe2ba0a0785505140511e15.HT": {
+      "SourceFilename": "hr\\localizations\\north-america\\existing-payroll-payments.md",
+      "XliffHash": "c427c554b738f500abe2ba0a0785505140511e15",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\df189f24a0706749c74c7e47f17f8740985d2ec6.90a8595b21ff23baaca18f904cc120ef4f11c440.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "hr\\localizations\\north-america\\garnishment-tax-levy-set-up-tasks.md.92b631e4895f48446492b03600d6d0b85564e595.HT": {
+      "SourceFilename": "hr\\localizations\\north-america\\garnishment-tax-levy-set-up-tasks.md",
+      "XliffHash": "92b631e4895f48446492b03600d6d0b85564e595",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\13080f3cebc6823594782315223f6c2817d8f310.ee23fcd238ee5663fa7edd67282903b0d82e1526.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "platform\\retail\\deploy-payment-connector.md.437b1669768f74fe8194efd8d29977e9b3888e57.HT": {
+      "SourceFilename": "platform\\retail\\deploy-payment-connector.md",
+      "XliffHash": "437b1669768f74fe8194efd8d29977e9b3888e57",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\334c8789eab0e8dbda9a091001674a7a8295ad68.40a2eeae3c7d88f5929aaaa5a5fcdeb5d6f74b25.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "hr\\localizations\\north-america\\payroll-data-updates.md.747fdc9889f49bd29b5b466a4e78afe9ef0b5bf6.HT": {
+      "SourceFilename": "hr\\localizations\\north-america\\payroll-data-updates.md",
+      "XliffHash": "747fdc9889f49bd29b5b466a4e78afe9ef0b5bf6",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\a308abbf3624081bf246181264c36a95db04aa59.3eab154d2cf8d5a1ceed86b06cc19bf3c0097d23.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "platform\\retail\\commerce-runtime-extensibility-trigger.md.ebcbb1e167fbf1754cbdf2e6fd40274f09fb36ee.HT": {
+      "SourceFilename": "platform\\retail\\commerce-runtime-extensibility-trigger.md",
+      "XliffHash": "ebcbb1e167fbf1754cbdf2e6fd40274f09fb36ee",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\9b78bd1006814b196025444ba315402955481447.adfc052621b521ed9a37e49e1d336ee925812ebc.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "platform\\retail\\retail-device-activation.md.8e81b723dafe7509bf51f4822a34a342c217abd7.HT": {
+      "SourceFilename": "platform\\retail\\retail-device-activation.md",
+      "XliffHash": "8e81b723dafe7509bf51f4822a34a342c217abd7",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\f805b77b3f58e451f029e054ee27ab257ea4ae99.1808762a2967ac31b8802472c6cf92f70260af9d.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "platform\\retail\\hardware-station-extensibility.md.c44e78a20a9306568b84d516ecc81bf127e140aa.HT": {
+      "SourceFilename": "platform\\retail\\hardware-station-extensibility.md",
+      "XliffHash": "c44e78a20a9306568b84d516ecc81bf127e140aa",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\c49cbfe2315d00f7f8168a47f7c84b853e139a90.981acebaed36eb3657ad0fbe398cd57204a1e777.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "hr\\localizations\\north-america\\pay-cycle-pay-period-tasks-sample.md.771bc395a21e658b72ebadb2998cfae51211f2bf.HT": {
+      "SourceFilename": "hr\\localizations\\north-america\\pay-cycle-pay-period-tasks-sample.md",
+      "XliffHash": "771bc395a21e658b72ebadb2998cfae51211f2bf",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\36d08abc8ed454d87391e8944421b9de5d86c1e9.8a696433371788016329f65870b3973be118f3c1.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "hr\\localizations\\north-america\\generate-earnings.md.d4657dd40dee749be486dce0ec872b90bf1052b1.HT": {
+      "SourceFilename": "hr\\localizations\\north-america\\generate-earnings.md",
+      "XliffHash": "d4657dd40dee749be486dce0ec872b90bf1052b1",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\7f8e8921a508918c2ca2695b1d5f3a7f527f330d.8fa8ad0e99719a9cd982f7f8165c618c4e2d80a7.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "platform\\retail\\extend-retail-server-odata-controller.md.3da4c7cc35044c840b165bb459cef7fd7e321c08.HT": {
+      "SourceFilename": "platform\\retail\\extend-retail-server-odata-controller.md",
+      "XliffHash": "3da4c7cc35044c840b165bb459cef7fd7e321c08",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\b39345986bb89953506e51be42cc89624f8bad9d.171e6ecb2a6e8ce31351eec7ffa33fb88c9a5372.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "retail\\dev-itpro\\secure-retail-cloud-pos.md.a44307eec5d1aee3bb85774f390690b439b92abf.HT": {
+      "SourceFilename": "retail\\dev-itpro\\secure-retail-cloud-pos.md",
+      "XliffHash": "a44307eec5d1aee3bb85774f390690b439b92abf",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\e1331a6288031ae1813a701cc81db0f01f42b72b.d7ab1ca747a01e5e559bc4845c685b85acbb7e67.xml",
       "LocXliff": null,
       "LocXliffCommit": null
     }
