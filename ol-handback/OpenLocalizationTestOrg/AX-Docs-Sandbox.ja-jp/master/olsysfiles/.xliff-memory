@@ -11869,6 +11869,16 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ja-jp\\master\\3bc0566ffdbfdf1ae615e7d24b6ba8bb3afc525b.def0bc49ed63ab44d34f38cbd042586425ca81ae.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "financials\\fixed-assets\\200-percent-reducing-balance-depreciation.md.cf22b997c594e90a7cefd98bd9fe89a1120d692b.HT": {
+      "SourceFilename": "financials\\fixed-assets\\200-percent-reducing-balance-depreciation.md",
+      "XliffHash": "cf22b997c594e90a7cefd98bd9fe89a1120d692b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ja-jp\\master\\83bf685ff7820dad85152b1f2bab1eccf1ea92be.a31432e7913b4d691ab598666272b97514e641cc.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }
