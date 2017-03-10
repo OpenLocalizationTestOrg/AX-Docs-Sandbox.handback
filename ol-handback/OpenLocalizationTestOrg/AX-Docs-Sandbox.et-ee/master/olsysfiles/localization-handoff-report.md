@@ -1,33 +1,11 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [financials\fixed-assets\200-percent-reducing-balance-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5f3bce1c1a1b7ee6732ab57cad422663ba576794/financials/fixed-assets/200-percent-reducing-balance-depreciation.md) | HandedOffSuccess | [Details](#83bf685ff7820dad85152b1f2bab1eccf1ea92be2691)
 
 ## Item Details
-##### <a name='83bf685ff7820dad85152b1f2bab1eccf1ea92be2691'></a> Source: [financials\fixed-assets\200-percent-reducing-balance-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5f3bce1c1a1b7ee6732ab57cad422663ba576794/financials/fixed-assets/200-percent-reducing-balance-depreciation.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [200-percent-reducing-balance-depreciation.f0892b1d49ecabf5e77307a2514d5e46c3c45215.et-ee.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/c2e34ac7a10324242dc753bc815bc708e24adc17/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.et-ee/master/basic/200-percent-reducing-balance-depreciation.f0892b1d49ecabf5e77307a2514d5e46c3c45215.et-ee.xlf)
-* Handoff Datetime: 2017-03-09 17:39:56
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* Current Target File: [financials\fixed-assets\200-percent-reducing-balance-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.et-ee/blob/731a10ba9d2c8909240bb44146fb3c003033209f/financials/fixed-assets/200-percent-reducing-balance-depreciation.md)
-* Current Handback File: [200-percent-reducing-balance-depreciation.f0892b1d49ecabf5e77307a2514d5e46c3c45215.et-ee.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/8c6f830890318f7b85c0a81e6c0d371129a12fe4/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.et-ee/master/basic/200-percent-reducing-balance-depreciation.f0892b1d49ecabf5e77307a2514d5e46c3c45215.et-ee.xlf)
-* Current Handback Datetime: 2017-02-27 12:54:15
-* Bilingual File: [200-percent-reducing-balance-depreciation.f0892b1d49ecabf5e77307a2514d5e46c3c45215.et-ee.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/8c6f830890318f7b85c0a81e6c0d371129a12fe4/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.et-ee/master/basic/200-percent-reducing-balance-depreciation.f0892b1d49ecabf5e77307a2514d5e46c3c45215.et-ee.xlf)
-* Bilingual Datetime: 2017-02-27 13:10:29
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
