@@ -22569,8 +22569,8 @@
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
       "BilingualFilePath": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\basic\\accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.de-de.xlf",
-      "BilingualFileCommit": "6217e020463e7c1846ccb729a4d76f20e4b60a08",
-      "BilingualDateTime": "2017-03-10T13:43:40.2441025Z",
+      "BilingualFileCommit": "2e47068f2f7e7678a2f954c6c2abdb0a74fb4358",
+      "BilingualDateTime": "2017-03-10T17:06:20.7162665Z",
       "BilingualException": null
     },
     "5654f8f9ac35961cbe505ccfc0a2b2af7a24624a": {
@@ -24051,8 +24051,8 @@
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
       "BilingualFilePath": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\basic\\accounting-distributions-subledger-journal-entries-free-text-invoices.e9742bb69fb621f583d124bfc8e718f8d49fe785.de-de.xlf",
-      "BilingualFileCommit": "6217e020463e7c1846ccb729a4d76f20e4b60a08",
-      "BilingualDateTime": "2017-03-10T13:43:40.2441025Z",
+      "BilingualFileCommit": "2e47068f2f7e7678a2f954c6c2abdb0a74fb4358",
+      "BilingualDateTime": "2017-03-10T17:06:20.7162665Z",
       "BilingualException": null
     },
     "abe2eb75e90397b278832179f82adaa43b32524c": {
@@ -44045,9 +44045,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\basic\\200-percent-reducing-balance-depreciation.f0892b1d49ecabf5e77307a2514d5e46c3c45215.de-de.xlf",
+      "BilingualFileCommit": "2e47068f2f7e7678a2f954c6c2abdb0a74fb4358",
+      "BilingualDateTime": "2017-03-10T17:06:20.7162665Z",
       "BilingualException": null
     }
   }
