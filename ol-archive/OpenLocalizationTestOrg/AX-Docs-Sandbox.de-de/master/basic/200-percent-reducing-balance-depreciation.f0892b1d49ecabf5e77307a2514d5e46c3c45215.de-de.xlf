@@ -1,14 +1,14 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-6be57c5" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">fcdad9a1398420ced3ca1ed8b74fc320a6a7397e</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-b5c25fc" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3bc0566ffdbfdf1ae615e7d24b6ba8bb3afc525b</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\fixed-assets\200-percent-reducing-balance-depreciation.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">eb1e7a8e739fa3d6e88cbdfd616bee421d353424</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b48ef0a91d8366b9c9d1be9cb6dc614c2ab56601</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">def0bc49ed63ab44d34f38cbd042586425ca81ae</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f85d55b16f0c27a0c4940b0d73c112c048bc8490</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -22,7 +22,7 @@
           <source>200 percent reducing balance depreciation</source>
         </trans-unit>
         <trans-unit id="104" translate="yes" xml:space="preserve">
-          <source>This article gives an overview of the 200 percent reducing balance method of depreciation.</source>
+          <source>TEST UPDATE ON MARCH 7th - call this V2.  Now on March 10th I want to handback this earlier V2 although a V3 of this file is sitting in the handoff location.This article gives an overview of the 200 percent reducing balance method of depreciation.</source>
         </trans-unit>
         <trans-unit id="105" translate="yes" xml:space="preserve">
           <source>When you set up a fixed asset depreciation profile and select <bpt id="p1">**</bpt>200% reducing balance<ept id="p1">**</ept> in the <bpt id="p2">**</bpt>Method<ept id="p2">**</ept> field on the <bpt id="p3">**</bpt>Depreciation profiles<ept id="p3">**</ept> page, fixed assets that are assigned the depreciation profile are depreciated by the same percentage in each depreciation period.</source>
