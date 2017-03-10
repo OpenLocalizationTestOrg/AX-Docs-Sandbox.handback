@@ -16,7 +16,7 @@
           <source>Handing back first version of this file.Accounting distributions and subledger journal entries for free text invoices</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>Accounting distributions are used to define how an amount will be accounted for, such as how the revenue, tax, or charges will be accounted for on a free text invoice.</source>
+          <source>Now handing back second time,of file with same version/filehash. Accounting distributions are used to define how an amount will be accounted for, such as how the revenue, tax, or charges will be accounted for on a free text invoice.</source>
         </trans-unit>
         <trans-unit id="103" translate="yes" xml:space="preserve">
           <source>Every amount that must be accounted for when the free text invoice is journalized will have one or more accounting distributions.</source>
