@@ -21288,9 +21288,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\basic\\accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.de-de.xlf",
+      "BilingualFileCommit": "e01d48319a67e9d0f25e448a6c9055ef3ede077e",
+      "BilingualDateTime": "2017-03-20T13:21:36.2290424Z",
       "BilingualException": null
     },
     "5654f8f9ac35961cbe505ccfc0a2b2af7a24624a": {
