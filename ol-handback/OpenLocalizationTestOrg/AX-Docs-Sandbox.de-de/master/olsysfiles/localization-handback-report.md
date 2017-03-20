@@ -1,11 +1,28 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [financials\accounts-payable\accounting-distributions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/8ea8e756e0148a6bd1e3b83b8701a1b3ccc77517/financials/accounts-payable/accounting-distributions.md) | InSyncHandedBackSuccess | [Details](#d7ac140f838bb4a0aa2511a348ca89205329af8b2434)
 
 ## Item Details
+##### <a name='d7ac140f838bb4a0aa2511a348ca89205329af8b2434'></a> Source: [financials\accounts-payable\accounting-distributions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/8ea8e756e0148a6bd1e3b83b8701a1b3ccc77517/financials/accounts-payable/accounting-distributions.md)
+* Status: InSyncHandedBackSuccess
+* Target File: [financials\accounts-payable\accounting-distributions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/81067fbfac5a5bce2bebe1edf0c895617a129b29/financials/accounts-payable/accounting-distributions.md)
+* Handoff File: [accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/f9005161650b7894eeb3bde2fd81f701bbd86fc0/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.de-de.xlf)
+* Handoff Datetime: 2017-03-14 14:21:10
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: [accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/e01d48319a67e9d0f25e448a6c9055ef3ede077e/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.de-de.xlf)
+* Handback Datetime: 2017-03-20 13:16:43
+* Handback Name: 
+* [Back to Top](#report-top)
+
 
 ## Error Details
 

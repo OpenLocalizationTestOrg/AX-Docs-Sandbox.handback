@@ -5747,8 +5747,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\d7ac140f838bb4a0aa2511a348ca89205329af8b.b41898c939c5d52aaf52b08b0ebcbf6b9de36484.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\basic\\accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.de-de.xlf",
+      "LocXliffCommit": "e01d48319a67e9d0f25e448a6c9055ef3ede077e"
     },
     "manufacturing\\product-information-management\\product-dimensions.md.1413b50f010598b07e1b3518b67bbd90256e45dc.HT": {
       "SourceFilename": "manufacturing\\product-information-management\\product-dimensions.md",
