@@ -13,7 +13,7 @@
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>TEST Accounting distributions</source>
+          <source>TEST second handback Accounting distributions</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
           <source>This article provides information about accounting distributions and describes the options that are available for processing them.</source>
