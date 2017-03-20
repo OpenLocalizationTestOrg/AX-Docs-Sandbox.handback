@@ -940,7 +940,8 @@
     {
       "files": [
         "dev-itpro/TOC.md",
-        "dev-itpro/index.md"
+        "dev-itpro/index.md",
+        "dev-itpro/**/TOC.md"
       ],
       "priorities": [
         {
@@ -981,13 +982,12 @@
         "core/index.md",
         "financials/TOC.md",
         "financials/index.md",
+        "financials/**/TOC.md",
         "hr/TOC.md",
         "hr/index.md",
         "manufacturing/TOC.md",
         "manufacturing/index.md",
-        "platform/TOC.md",
-        "platform/dev-tools/dev-toc.md",
-        "platform/index.md",
+        "manufacturing/**/TOC.md",
         "retail/TOC.md",
         "retail/index.md",
         "retail/**/TOC.md"
@@ -1027,9 +1027,7 @@
     {
       "files": [
         "core/breadcrumb/toc.yml",
-        "core/media/toc.yml",
-        "platform/media/toc.yml",
-        "platform/breadcrumb/toc.yml"
+        "core/media/toc.yml"
       ],
       "priorities": [
         {
@@ -1075,8 +1073,6 @@
         "hr/**/*.md",
         "manufacturing/*.md",
         "manufacturing/**/*.md",
-        "platform/*.md",
-        "platform/**/*.md",
         "retail/*.md",
         "retail/**/*.md"
       ],
