@@ -10989,6 +10989,166 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\b2f3b8fa3b2cb16392fa7af8ebdcc448335f43a7.5936c85b5a9bc78d1c7f996dacfc0b6a45ac1a58.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "dev-itpro\\dev-reference\\formbuildreferencecontrol-classes.md.dfe3cdd6911de573a64eb3f5c93d017808f8e89b.HT": {
+      "SourceFilename": "dev-itpro\\dev-reference\\formbuildreferencecontrol-classes.md",
+      "XliffHash": "dfe3cdd6911de573a64eb3f5c93d017808f8e89b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\3b79c0e231a15bf1a1f729061d01005b3fdf304c.43448b717abba936df817d9be2265a4cb49f9e6b.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "dev-itpro\\lifecycle-services\\ax-2012\\create-tables.md.508d9b3a9fd54cd2c480837c3506f725ea04f249.HT": {
+      "SourceFilename": "dev-itpro\\lifecycle-services\\ax-2012\\create-tables.md",
+      "XliffHash": "508d9b3a9fd54cd2c480837c3506f725ea04f249",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\4a936d5928ed8505589cb32eb3a3e45951021ed2.ead4dc9a10271ef8382b17170b54a33402edc735.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\fixed-assets\\depreciation-book-upgrade-considerations.md.2d41eadff8d7a54b8435215d79fb53d392215061.HT": {
+      "SourceFilename": "financials\\fixed-assets\\depreciation-book-upgrade-considerations.md",
+      "XliffHash": "2d41eadff8d7a54b8435215d79fb53d392215061",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\0955206d13790c5e8e758fb88c082e984ede05b6.199360e97f866a6d1c06fef8b36a26bcdf8871f1.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "manufacturing\\master-planning\\master-plan-site-warehouse-coverage-warehouse-not-mandatory.md.83104c5ed38616367d5a8981a7d1d15011a6dff6.HT": {
+      "SourceFilename": "manufacturing\\master-planning\\master-plan-site-warehouse-coverage-warehouse-not-mandatory.md",
+      "XliffHash": "83104c5ed38616367d5a8981a7d1d15011a6dff6",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\3671024dc097c94638b1579d7cacc8447c49e97b.65b11b3d71196847dc8bea5544a7960a4cd11d40.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\general-ledger\\audit-policy-violations-cases.md.918c9b987df8edb82ca0f754223d7f6e5fde024f.HT": {
+      "SourceFilename": "financials\\general-ledger\\audit-policy-violations-cases.md",
+      "XliffHash": "918c9b987df8edb82ca0f754223d7f6e5fde024f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\77f72c9414f1fad720055e58e3f704b9c713072f.eab62b7085ec8eb7ac0d44ffa7ccf9e9f463dde2.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "dev-itpro\\user-interface\\section-tabbed-list-subpattern.md.2f65fbb09f6295b17b408bfd295ceb4f80c0e406.HT": {
+      "SourceFilename": "dev-itpro\\user-interface\\section-tabbed-list-subpattern.md",
+      "XliffHash": "2f65fbb09f6295b17b408bfd295ceb4f80c0e406",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\1d337f9506426f4410703f5f0abaabdb1c7e819e.bcb15421477b6ac22a7756a54e40548e79075cb4.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "dev-itpro\\dev-tools\\TOC.md.7530bd49b2b89f6c3ede53eac80134257aede992.HT": {
+      "SourceFilename": "dev-itpro\\dev-tools\\TOC.md",
+      "XliffHash": "7530bd49b2b89f6c3ede53eac80134257aede992",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\b5f5db0954bfb879a8fc034484051bbb9fbe1380.67d7d48ffcfc103a093e5d5dbdfcc2145e945aec.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "dev-itpro\\dev-tools\\introduction-visual-studio.md.7102c50a0d348de06a9b2408d600bba000506604.HT": {
+      "SourceFilename": "dev-itpro\\dev-tools\\introduction-visual-studio.md",
+      "XliffHash": "7102c50a0d348de06a9b2408d600bba000506604",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\863b8badc3a47399258bf31f5aaf429898af6d1a.bd1e75a60cae7b2592a5e244e7346639b6620d87.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "manufacturing\\procurement-sourcing\\manage-vendor-collaboration-users.md.1001b9c9d813609dc8396edc61c1c3e2e7280c9a.HT": {
+      "SourceFilename": "manufacturing\\procurement-sourcing\\manage-vendor-collaboration-users.md",
+      "XliffHash": "1001b9c9d813609dc8396edc61c1c3e2e7280c9a",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\cacc5b0dd82c9bc516a43832c68082fa79f4d48b.da0c89cea18ba96fe95db786c9f0b5aae36d0c8f.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "dev-itpro\\dev-reference\\formreferencecontrol-classes.md.f70f3e92366817a1a365b2fb54846bed8075b05c.HT": {
+      "SourceFilename": "dev-itpro\\dev-reference\\formreferencecontrol-classes.md",
+      "XliffHash": "f70f3e92366817a1a365b2fb54846bed8075b05c",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\f01c1d843f7a8e557120732e3b23634f26d6fe64.0e7c8ecdd20eddaa36f702bbeda7a14a320b0508.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "dev-itpro\\dev-tools\\code-editor.md.dc42e4401a5ba646efba8df16caf3e76a6f9cad0.HT": {
+      "SourceFilename": "dev-itpro\\dev-tools\\code-editor.md",
+      "XliffHash": "dc42e4401a5ba646efba8df16caf3e76a6f9cad0",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\04da154235385dd02573a37e4ede031fd62f48d4.5ec3aa411cb17bca423180f94eb36f959eac97af.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "dev-itpro\\lifecycle-services\\ax-2012\\deploy-retail-essentials-devtest-environment-azure.md.66edc68056f2cfff329bd654c28b5eb31cf48193.HT": {
+      "SourceFilename": "dev-itpro\\lifecycle-services\\ax-2012\\deploy-retail-essentials-devtest-environment-azure.md",
+      "XliffHash": "66edc68056f2cfff329bd654c28b5eb31cf48193",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\41811700f69d7aaacb8a84513b1476a5d666397c.48a49c8706ad655d5a9580ddccc0936a41b4b3c3.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "dev-itpro\\lifecycle-services\\monitoring-diagnostics.md.6b3afb1f6f5eceb9b85a757642171d27a5fff362.HT": {
+      "SourceFilename": "dev-itpro\\lifecycle-services\\monitoring-diagnostics.md",
+      "XliffHash": "6b3afb1f6f5eceb9b85a757642171d27a5fff362",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\9cc470d2ef01f4e49f9bc5538e494ce6601b62a9.fc9a34712fa7970781ba242f433b8ce3ac503363.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "dev-itpro\\lifecycle-services\\ax-2012\\upgrade-analysis-lcs.md.f6a17aaa9bb4795b6a9ba1f7fb36308929cbb713.HT": {
+      "SourceFilename": "dev-itpro\\lifecycle-services\\ax-2012\\upgrade-analysis-lcs.md",
+      "XliffHash": "f6a17aaa9bb4795b6a9ba1f7fb36308929cbb713",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\53af33207fbdff4f71ae36d7ffac1ee0bebe4dd9.00c29ab35150594e1f3dc9b27e0d62fcb50f3d2d.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "hr\\localizations\\north-america\\garnishment-tax-levy-set-up-tasks.md.d7a61282857f4356237a5b1bfa3a4aae3f2424d0.HT": {
+      "SourceFilename": "hr\\localizations\\north-america\\garnishment-tax-levy-set-up-tasks.md",
+      "XliffHash": "d7a61282857f4356237a5b1bfa3a4aae3f2424d0",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\ed8448e7557721bdaf54623209c6f0cfd190c416.55ff81d0fe241a00e2fb7ad9139ddcce37caa0f1.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\fixed-assets\\200-percent-reducing-balance-depreciation.md.ff43fbdeafae8f775c18461251a64c559f67120f.HT": {
+      "SourceFilename": "financials\\fixed-assets\\200-percent-reducing-balance-depreciation.md",
+      "XliffHash": "ff43fbdeafae8f775c18461251a64c559f67120f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\617d643517f4c40d6e870d1e7e676b0be28092dd.82aacc42e54480cb9cdddc63bf13e4d85ef68fc2.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }
