@@ -1,11 +1,28 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [financials\accounts-payable\accounts-payable.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/cb108ccea68c06958040cc688ffc4c29660d12d3/financials/accounts-payable/accounts-payable.md) | HandedOffSuccess | [Details](#41fec74762c448793604f7623f2bba6bc30507332488)
 
 ## Item Details
+##### <a name='41fec74762c448793604f7623f2bba6bc30507332488'></a> Source: [financials\accounts-payable\accounts-payable.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/cb108ccea68c06958040cc688ffc4c29660d12d3/financials/accounts-payable/accounts-payable.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [accounts-payable.abd99e977ea528e10b6bead4d6b395a0698f53ad.es-es.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/a622d9084ec9a7c574370bdbbb88bd70cb45cd00/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.es-es/master/basic/accounts-payable.abd99e977ea528e10b6bead4d6b395a0698f53ad.es-es.xlf)
+* Handoff Datetime: 2017-03-21 13:58:18
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
