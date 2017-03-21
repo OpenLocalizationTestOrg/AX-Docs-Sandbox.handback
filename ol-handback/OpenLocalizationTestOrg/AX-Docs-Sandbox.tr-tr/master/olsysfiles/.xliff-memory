@@ -10969,6 +10969,16 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.tr-tr\\master\\b2f3b8fa3b2cb16392fa7af8ebdcc448335f43a7.5936c85b5a9bc78d1c7f996dacfc0b6a45ac1a58.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "financials\\accounts-payable\\accounts-payable.md.384dae018fe1dcfd6d308ec6893b26e4b696667f.HT": {
+      "SourceFilename": "financials\\accounts-payable\\accounts-payable.md",
+      "XliffHash": "384dae018fe1dcfd6d308ec6893b26e4b696667f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.tr-tr\\master\\41fec74762c448793604f7623f2bba6bc3050733.a3486ea8471719a32430d6b64683c878b3bf7b49.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }
