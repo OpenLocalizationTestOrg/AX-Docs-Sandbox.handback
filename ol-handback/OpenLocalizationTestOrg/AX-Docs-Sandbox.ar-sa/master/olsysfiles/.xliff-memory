@@ -3567,8 +3567,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ar-sa\\master\\b6126eb6d76841271dfbfdb64a9f5bdfe183af5f.1cccfb1546de6761132914ed49f01bd038c6c7a3.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ar-sa\\master\\basic\\accounts-payable.abd99e977ea528e10b6bead4d6b395a0698f53ad.ar-sa.xlf",
+      "LocXliffCommit": "f8e7c204fcc24e58f752da85a5a672417ee9970a"
     },
     "financials\\public-sector\\year-end-processing-public-sector.md.069d86eecc9892a95a548a4d5650b18109da25bb.HT": {
       "SourceFilename": "financials\\public-sector\\year-end-processing-public-sector.md",
