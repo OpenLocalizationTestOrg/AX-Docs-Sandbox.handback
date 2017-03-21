@@ -22277,11 +22277,11 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
+      "BilingualFilePath": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ar-sa\\master\\basic\\accounts-payable.abd99e977ea528e10b6bead4d6b395a0698f53ad.ar-sa.xlf",
+      "BilingualFileCommit": "f8e7c204fcc24e58f752da85a5a672417ee9970a",
       "BilingualTargetFilePath": null,
       "BilingualTargetFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualDateTime": "2017-03-21T20:33:53.6205191Z",
       "BilingualException": null
     },
     "e7325cebf2f6a45d84e07f9fd854b5184a760881": {
