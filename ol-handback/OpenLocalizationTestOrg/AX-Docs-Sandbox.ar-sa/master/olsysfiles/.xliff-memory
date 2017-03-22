@@ -10987,8 +10987,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ar-sa\\master\\41fec74762c448793604f7623f2bba6bc3050733.a3486ea8471719a32430d6b64683c878b3bf7b49.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ar-sa\\master\\basic\\accounts-payable.abd99e977ea528e10b6bead4d6b395a0698f53ad.ar-sa.xlf",
+      "LocXliffCommit": "a8fd3b28760d821f48cf43e4ced49569561c7892"
     }
   }
 }
