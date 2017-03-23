@@ -1767,7 +1767,8 @@
     "financials\\accounts-receivable\\accounts-receivables-set-up-overview.md"
   ],
   "3076b002691e2eb37b84de506c5331be469fdfeb": [
-    "financials\\accounts-receivable\\automatic-settlement-prioritization.md"
+    "financials\\accounts-receivable\\automatic-settlement-prioritization.md",
+    "financials\\cash-bank-management\\automatic-settlement-prioritization.md"
   ],
   "17a6a25d99bcefe88af3ced72c9e62e1f9393d14": [
     "financials\\accounts-receivable\\centralized-payments-accounts-receivable.md"
