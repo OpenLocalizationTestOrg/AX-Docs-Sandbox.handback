@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "cb108ccea68c06958040cc688ffc4c29660d12d3",
+  "LastProcessedCommit": "b1dfc35fd0eb8c038b6c1b2f703890db2b95781e",
   "LastTranslatedCommit": null,
   "LastTansformerVersion": null,
   "LastConfigHash": "91841974b69a492f36e6b3d6359bd51c48f04fed",
@@ -24120,7 +24120,8 @@
       "DependencyFrom": null,
       "TokenReference": null,
       "FilePathList": [
-        "financials\\accounts-receivable\\automatic-settlement-prioritization.md"
+        "financials\\accounts-receivable\\automatic-settlement-prioritization.md",
+        "financials\\cash-bank-management\\automatic-settlement-prioritization.md"
       ],
       "HasMetadata": true,
       "TranslationType": 1,
