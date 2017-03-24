@@ -9347,8 +9347,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ar-sa\\master\\e9ba7239b9ff8b9b97c9dabc06fb2c68760d19d4.be56f02d058fa72cfd9d18ada601954c5b0b86e4.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ar-sa\\master\\basic\\deprecated-features.8ffe62975e3930db6bc95bc2615948daf57a9cdd.ar-sa.xlf",
+      "LocXliffCommit": "42008a9ef086087bdd82f872908f7dd126951de2"
     },
     "financials\\fixed-assets\\recalculate-replacement-costs-insured-values-fixed-asset-groups.md.693f019196b31e6a2758e3ac94b1ca474d5cce51.HT": {
       "SourceFilename": "financials\\fixed-assets\\recalculate-replacement-costs-insured-values-fixed-asset-groups.md",
@@ -10997,8 +10997,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ar-sa\\master\\5fe65b1c7e76d4f84a06e33c37a1e8cc45f69e35.04db9d9273b300ef02409334837a2c3440d18337.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ar-sa\\master\\basic\\deprecated-features.75823998cbb2f2052bb1254d9b32042b7527a698.ar-sa.xlf",
+      "LocXliffCommit": "42008a9ef086087bdd82f872908f7dd126951de2"
     },
     "financials\\accounts-payable\\accounts-payable.md.60eef9375ab826d833211be91e30864dc35cbb7a.HT": {
       "SourceFilename": "financials\\accounts-payable\\accounts-payable.md",
@@ -11007,8 +11007,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ar-sa\\master\\f34b14adeaa6fd416af8f5ee329ba538b088eb0b.04b143fa0b3c783eae0f307ddd66363f5f64c477.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ar-sa\\master\\basic\\accounts-payable.abd99e977ea528e10b6bead4d6b395a0698f53ad.ar-sa.xlf",
+      "LocXliffCommit": "42008a9ef086087bdd82f872908f7dd126951de2"
     }
   }
 }
