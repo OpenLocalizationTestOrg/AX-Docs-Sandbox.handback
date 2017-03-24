@@ -6097,8 +6097,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ar-sa\\master\\2fba43a0580267b14a01651ef8d1860f12f95d36.9b3fb31c9b018594e3311f2bdb2ac3aa62e0d9ca.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ar-sa\\master\\basic\\action-search.78e375d5f16ae67b9c9004fbf99402dab448d8bf.ar-sa.xlf",
+      "LocXliffCommit": "e0a812649b15006f8a5d0eaef181317d44f4c2e0"
     },
     "retail\\dev-itpro\\modern-pos-trigger-extensibility.md.17d590ec15766b20eff7502105a401042cd39865.HT": {
       "SourceFilename": "retail\\dev-itpro\\modern-pos-trigger-extensibility.md",
