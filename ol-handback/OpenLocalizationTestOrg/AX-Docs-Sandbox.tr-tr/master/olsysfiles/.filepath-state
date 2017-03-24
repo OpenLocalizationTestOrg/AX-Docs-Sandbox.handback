@@ -1667,6 +1667,9 @@
   "8913e61285d5d180883471991b659ddcb260afe3": [
     "financials\\accounts-payable\\accounting-source-explorer.md"
   ],
+  "f34b14adeaa6fd416af8f5ee329ba538b088eb0b": [
+    "financials\\accounts-payable\\accounts-payable.md"
+  ],
   "41fec74762c448793604f7623f2bba6bc3050733": [
     "financials\\accounts-payable\\accounts-payable.md"
   ],
@@ -3293,5 +3296,8 @@
   ],
   "fbe9945799f1e65ed6ad624a3df270fa4eb72b88": [
     "retail\\work-with-store-inventory.md"
+  ],
+  "5fe65b1c7e76d4f84a06e33c37a1e8cc45f69e35": [
+    "core\\get-started\\deprecated-features.md"
   ]
 }
