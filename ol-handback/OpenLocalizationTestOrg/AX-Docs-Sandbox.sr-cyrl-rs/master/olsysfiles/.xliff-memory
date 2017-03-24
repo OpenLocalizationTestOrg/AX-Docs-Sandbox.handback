@@ -4746,7 +4746,7 @@
       "TranslationType": 1,
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\bda38dc4aa67fa422174d2ffc9cd1554ff5396ec.c7009297f7625909b8c1a4767d3013cf1e432d43.xml",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\5fe65b1c7e76d4f84a06e33c37a1e8cc45f69e35.04db9d9273b300ef02409334837a2c3440d18337.xml",
       "LocXliff": null,
       "LocXliffCommit": null
     },
@@ -12217,6 +12217,16 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\41fec74762c448793604f7623f2bba6bc3050733.a3486ea8471719a32430d6b64683c878b3bf7b49.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\accounts-payable\\accounts-payable.md.60eef9375ab826d833211be91e30864dc35cbb7a.HT": {
+      "SourceFilename": "financials\\accounts-payable\\accounts-payable.md",
+      "XliffHash": "60eef9375ab826d833211be91e30864dc35cbb7a",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\f34b14adeaa6fd416af8f5ee329ba538b088eb0b.04b143fa0b3c783eae0f307ddd66363f5f64c477.xml",
       "LocXliff": null,
       "LocXliffCommit": null
     }
