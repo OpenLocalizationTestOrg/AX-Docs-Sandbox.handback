@@ -1,11 +1,43 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 2
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [core\get-started\deprecated-features.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/fc2ec3850adb86f8283d4cfe05a6f17846b0988a/core/get-started/deprecated-features.md) | HandedOffSuccess | [Details](#5fe65b1c7e76d4f84a06e33c37a1e8cc45f69e3510)
+ [financials\accounts-payable\accounts-payable.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/fc2ec3850adb86f8283d4cfe05a6f17846b0988a/financials/accounts-payable/accounts-payable.md) | HandedOffSuccess | [Details](#f34b14adeaa6fd416af8f5ee329ba538b088eb0b2488)
 
 ## Item Details
+##### <a name='5fe65b1c7e76d4f84a06e33c37a1e8cc45f69e3510'></a> Source: [core\get-started\deprecated-features.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/fc2ec3850adb86f8283d4cfe05a6f17846b0988a/core/get-started/deprecated-features.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [deprecated-features.75823998cbb2f2052bb1254d9b32042b7527a698.ja-jp.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b18f33bb7ed6564d822890317dca0ba757fc3867/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.ja-jp/master/basic/deprecated-features.75823998cbb2f2052bb1254d9b32042b7527a698.ja-jp.xlf)
+* Handoff Datetime: 2017-03-24 13:30:18
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='f34b14adeaa6fd416af8f5ee329ba538b088eb0b2488'></a> Source: [financials\accounts-payable\accounts-payable.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/fc2ec3850adb86f8283d4cfe05a6f17846b0988a/financials/accounts-payable/accounts-payable.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [accounts-payable.abd99e977ea528e10b6bead4d6b395a0698f53ad.ja-jp.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b18f33bb7ed6564d822890317dca0ba757fc3867/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.ja-jp/master/basic/accounts-payable.abd99e977ea528e10b6bead4d6b395a0698f53ad.ja-jp.xlf)
+* Handoff Datetime: 2017-03-24 13:30:18
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
