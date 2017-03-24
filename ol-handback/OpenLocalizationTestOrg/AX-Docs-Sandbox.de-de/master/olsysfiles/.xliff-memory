@@ -9477,8 +9477,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\e9ba7239b9ff8b9b97c9dabc06fb2c68760d19d4.be56f02d058fa72cfd9d18ada601954c5b0b86e4.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\basic\\deprecated-features.8ffe62975e3930db6bc95bc2615948daf57a9cdd.de-de.xlf",
+      "LocXliffCommit": "11ca7cd6ce85d22cd6a1635bbd7fd04145d13d61"
     },
     "dev-itpro\\user-interface\\wizard-form-pattern.md.7d6525fccd95424b621f9e9609b69f68a8fe7b6d.HT": {
       "SourceFilename": "dev-itpro\\user-interface\\wizard-form-pattern.md",
@@ -11137,8 +11137,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\5fe65b1c7e76d4f84a06e33c37a1e8cc45f69e35.04db9d9273b300ef02409334837a2c3440d18337.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\basic\\deprecated-features.75823998cbb2f2052bb1254d9b32042b7527a698.de-de.xlf",
+      "LocXliffCommit": "11ca7cd6ce85d22cd6a1635bbd7fd04145d13d61"
     },
     "financials\\accounts-payable\\accounts-payable.md.60eef9375ab826d833211be91e30864dc35cbb7a.HT": {
       "SourceFilename": "financials\\accounts-payable\\accounts-payable.md",
@@ -11147,8 +11147,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\f34b14adeaa6fd416af8f5ee329ba538b088eb0b.04b143fa0b3c783eae0f307ddd66363f5f64c477.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\basic\\accounts-payable.abd99e977ea528e10b6bead4d6b395a0698f53ad.de-de.xlf",
+      "LocXliffCommit": "11ca7cd6ce85d22cd6a1635bbd7fd04145d13d61"
     }
   }
 }
