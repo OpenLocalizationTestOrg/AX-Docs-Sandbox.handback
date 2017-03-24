@@ -17544,12 +17544,12 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
+      "BilingualFilePath": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\basic\\deprecated-features.8ffe62975e3930db6bc95bc2615948daf57a9cdd.de-de.xlf",
+      "BilingualFileCommit": "11ca7cd6ce85d22cd6a1635bbd7fd04145d13d61",
       "BilingualTargetFilePath": null,
       "BilingualTargetFileCommit": null,
       "BilingualBranch": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualDateTime": "2017-03-24T16:45:20.9957722Z",
       "BilingualException": null
     },
     "a078a584df68dfd3684cfec70adb6bc05670c046": {
@@ -45671,12 +45671,12 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
+      "BilingualFilePath": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\basic\\deprecated-features.75823998cbb2f2052bb1254d9b32042b7527a698.de-de.xlf",
+      "BilingualFileCommit": "11ca7cd6ce85d22cd6a1635bbd7fd04145d13d61",
       "BilingualTargetFilePath": null,
       "BilingualTargetFileCommit": null,
       "BilingualBranch": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualDateTime": "2017-03-24T16:45:20.9957722Z",
       "BilingualException": null
     },
     "f34b14adeaa6fd416af8f5ee329ba538b088eb0b": {
@@ -45712,12 +45712,12 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
+      "BilingualFilePath": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\basic\\accounts-payable.abd99e977ea528e10b6bead4d6b395a0698f53ad.de-de.xlf",
+      "BilingualFileCommit": "11ca7cd6ce85d22cd6a1635bbd7fd04145d13d61",
       "BilingualTargetFilePath": null,
       "BilingualTargetFileCommit": null,
       "BilingualBranch": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualDateTime": "2017-03-24T16:45:20.9957722Z",
       "BilingualException": null
     }
   }
