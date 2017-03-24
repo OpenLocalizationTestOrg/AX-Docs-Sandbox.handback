@@ -78,12 +78,12 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
+      "BilingualFilePath": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ar-sa\\master\\basic\\action-search.78e375d5f16ae67b9c9004fbf99402dab448d8bf.ar-sa.xlf",
+      "BilingualFileCommit": "e0a812649b15006f8a5d0eaef181317d44f4c2e0",
       "BilingualTargetFilePath": null,
       "BilingualTargetFileCommit": null,
       "BilingualBranch": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualDateTime": "2017-03-24T13:37:48.1643967Z",
       "BilingualException": null
     },
     "5ee7a04572e350a7c08d0418bade6d332aa920c6": {
