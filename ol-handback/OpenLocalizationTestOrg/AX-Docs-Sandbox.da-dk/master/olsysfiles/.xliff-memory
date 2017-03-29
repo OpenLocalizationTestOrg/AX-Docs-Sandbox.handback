@@ -13549,6 +13549,16 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\73774e337fc3985e4885aa9b7a82c3d7dfbe7983.32d12b66b3e53dc97846e5bdce377f3f3397521f.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "core\\breadcrumb\\yamlTest.yml.032c8a38c7267e02abc03764e31712ee02e29cdc.HT": {
+      "SourceFilename": "core\\breadcrumb\\yamlTest.yml",
+      "XliffHash": "032c8a38c7267e02abc03764e31712ee02e29cdc",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\d9dc5352103260db4699070662aaf86f0fa6e007.ac39620c97851fd78deabc56f5c9176549f8ffc8.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }
