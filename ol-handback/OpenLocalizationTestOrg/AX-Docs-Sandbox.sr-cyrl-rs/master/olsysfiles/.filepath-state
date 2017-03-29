@@ -4864,5 +4864,8 @@
   ],
   "fbe9945799f1e65ed6ad624a3df270fa4eb72b88": [
     "retail\\work-with-store-inventory.md"
+  ],
+  "d9dc5352103260db4699070662aaf86f0fa6e007": [
+    "core\\breadcrumb\\yamlTest.yml"
   ]
 }
