@@ -1026,7 +1026,7 @@
     },
     {
       "files": [
-        "core/breadcrumb/toc.yml",
+        "core/breadcrumb/*.yml",
         "core/media/toc.yml"
       ],
       "priorities": [
