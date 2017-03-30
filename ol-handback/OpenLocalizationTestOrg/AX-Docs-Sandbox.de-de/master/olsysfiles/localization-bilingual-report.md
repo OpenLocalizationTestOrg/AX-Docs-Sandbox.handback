@@ -1,62 +1,28 @@
 # <a name='report-top'></a> Localization Bilingual Report
 
 ## Summary
- Total Files | 3
+ Total Files | 1
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [core\get-started\deprecated-features.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/fc2ec3850adb86f8283d4cfe05a6f17846b0988a/core/get-started/deprecated-features.md) | InSyncHandedBackSuccess | [Details](#5fe65b1c7e76d4f84a06e33c37a1e8cc45f69e3510)
- [dev-itpro\migration-upgrade\deprecated-features.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5c0c34d84dbba3a71480d50cf5d4fcd83dddedc6/dev-itpro/migration-upgrade/deprecated-features.md) | InSyncHandedBackSuccess | [Details](#e9ba7239b9ff8b9b97c9dabc06fb2c68760d19d41635)
- [financials\accounts-payable\accounts-payable.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/fc2ec3850adb86f8283d4cfe05a6f17846b0988a/financials/accounts-payable/accounts-payable.md) | InSyncHandedBackSuccess | [Details](#f34b14adeaa6fd416af8f5ee329ba538b088eb0b2488)
+ [scm\cost-management\adjust-hand-inventory-cost-values.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/9ccbe5815ebb54e00265e130be9c82491aebabce/scm/cost-management/adjust-hand-inventory-cost-values.md) | InSyncHandedBackSuccess | [Details](#d1ef775c9783b975fd0f852dc7112506d38976053442)
 
 ## Item Details
-##### <a name='5fe65b1c7e76d4f84a06e33c37a1e8cc45f69e3510'></a> Source: [core\get-started\deprecated-features.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/fc2ec3850adb86f8283d4cfe05a6f17846b0988a/core/get-started/deprecated-features.md)
+##### <a name='d1ef775c9783b975fd0f852dc7112506d38976053442'></a> Source: [scm\cost-management\adjust-hand-inventory-cost-values.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/9ccbe5815ebb54e00265e130be9c82491aebabce/scm/cost-management/adjust-hand-inventory-cost-values.md)
 * Status: InSyncHandedBackSuccess
-* Target File: [core\get-started\deprecated-features.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/56219995cba4e914cbae9761c16e4919e092d625/core/get-started/deprecated-features.md)
-* Handoff File: [deprecated-features.75823998cbb2f2052bb1254d9b32042b7527a698.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/e3fb8940480ff60544399c07c228eed7ca937a42/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/deprecated-features.75823998cbb2f2052bb1254d9b32042b7527a698.de-de.xlf)
-* Handoff Datetime: 2017-03-24 13:29:23
+* Target File: [scm\cost-management\adjust-hand-inventory-cost-values.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/3454ecc1a95a6c84a9f51ec8c80abaf99bf56ba1/scm/cost-management/adjust-hand-inventory-cost-values.md)
+* Handoff File: [adjust-hand-inventory-cost-values.f70237871b7b268574daf4557c82797bc0759c16.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/c6d9ccbf006268c80420ec5498696055bfaf129c/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/adjust-hand-inventory-cost-values.f70237871b7b268574daf4557c82797bc0759c16.de-de.xlf)
+* Handoff Datetime: 2017-03-30 15:14:43
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: [deprecated-features.75823998cbb2f2052bb1254d9b32042b7527a698.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/11ca7cd6ce85d22cd6a1635bbd7fd04145d13d61/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/deprecated-features.75823998cbb2f2052bb1254d9b32042b7527a698.de-de.xlf)
-* Handback Datetime: 2017-03-24 16:42:10
+* Handback File: [adjust-hand-inventory-cost-values.f70237871b7b268574daf4557c82797bc0759c16.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/b47c0df1e2ff43c289a4dc645d89c2ce0dc1d180/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/adjust-hand-inventory-cost-values.f70237871b7b268574daf4557c82797bc0759c16.de-de.xlf)
+* Handback Datetime: 2017-03-30 18:30:03
 * Handback Name: 
-* Bilingual File: [deprecated-features.75823998cbb2f2052bb1254d9b32042b7527a698.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/11ca7cd6ce85d22cd6a1635bbd7fd04145d13d61/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/deprecated-features.75823998cbb2f2052bb1254d9b32042b7527a698.de-de.xlf)
-* Bilingual Datetime: 2017-03-24 16:45:20
-* [Back to Top](#report-top)
-
-##### <a name='e9ba7239b9ff8b9b97c9dabc06fb2c68760d19d41635'></a> Source: [dev-itpro\migration-upgrade\deprecated-features.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5c0c34d84dbba3a71480d50cf5d4fcd83dddedc6/dev-itpro/migration-upgrade/deprecated-features.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [dev-itpro\migration-upgrade\deprecated-features.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/56219995cba4e914cbae9761c16e4919e092d625/dev-itpro/migration-upgrade/deprecated-features.md)
-* Handoff File: [deprecated-features.8ffe62975e3930db6bc95bc2615948daf57a9cdd.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/ec947f46e019a5396877472e531b4e8873a22bd7/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/deprecated-features.8ffe62975e3930db6bc95bc2615948daf57a9cdd.de-de.xlf)
-* Handoff Datetime: 2017-03-20 16:43:29
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: [deprecated-features.8ffe62975e3930db6bc95bc2615948daf57a9cdd.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/11ca7cd6ce85d22cd6a1635bbd7fd04145d13d61/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/deprecated-features.8ffe62975e3930db6bc95bc2615948daf57a9cdd.de-de.xlf)
-* Handback Datetime: 2017-03-24 16:42:10
-* Handback Name: 
-* Bilingual File: [deprecated-features.8ffe62975e3930db6bc95bc2615948daf57a9cdd.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/11ca7cd6ce85d22cd6a1635bbd7fd04145d13d61/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/deprecated-features.8ffe62975e3930db6bc95bc2615948daf57a9cdd.de-de.xlf)
-* Bilingual Datetime: 2017-03-24 16:45:20
-* [Back to Top](#report-top)
-
-##### <a name='f34b14adeaa6fd416af8f5ee329ba538b088eb0b2488'></a> Source: [financials\accounts-payable\accounts-payable.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/fc2ec3850adb86f8283d4cfe05a6f17846b0988a/financials/accounts-payable/accounts-payable.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [financials\accounts-payable\accounts-payable.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/56219995cba4e914cbae9761c16e4919e092d625/financials/accounts-payable/accounts-payable.md)
-* Handoff File: [accounts-payable.abd99e977ea528e10b6bead4d6b395a0698f53ad.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/e3fb8940480ff60544399c07c228eed7ca937a42/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/accounts-payable.abd99e977ea528e10b6bead4d6b395a0698f53ad.de-de.xlf)
-* Handoff Datetime: 2017-03-24 13:29:23
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: [accounts-payable.abd99e977ea528e10b6bead4d6b395a0698f53ad.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/11ca7cd6ce85d22cd6a1635bbd7fd04145d13d61/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/accounts-payable.abd99e977ea528e10b6bead4d6b395a0698f53ad.de-de.xlf)
-* Handback Datetime: 2017-03-24 16:42:10
-* Handback Name: 
-* Bilingual File: [accounts-payable.abd99e977ea528e10b6bead4d6b395a0698f53ad.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/11ca7cd6ce85d22cd6a1635bbd7fd04145d13d61/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/accounts-payable.abd99e977ea528e10b6bead4d6b395a0698f53ad.de-de.xlf)
-* Bilingual Datetime: 2017-03-24 16:45:20
+* Bilingual File: [adjust-hand-inventory-cost-values.f70237871b7b268574daf4557c82797bc0759c16.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/b47c0df1e2ff43c289a4dc645d89c2ce0dc1d180/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/adjust-hand-inventory-cost-values.f70237871b7b268574daf4557c82797bc0759c16.de-de.xlf)
+* Bilingual Datetime: 2017-03-30 18:33:12
 * [Back to Top](#report-top)
 
 

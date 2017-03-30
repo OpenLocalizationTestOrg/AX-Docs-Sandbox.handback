@@ -34608,12 +34608,12 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
+      "BilingualFilePath": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\basic\\adjust-hand-inventory-cost-values.f70237871b7b268574daf4557c82797bc0759c16.de-de.xlf",
+      "BilingualFileCommit": "b47c0df1e2ff43c289a4dc645d89c2ce0dc1d180",
       "BilingualTargetFilePath": null,
       "BilingualTargetFileCommit": null,
       "BilingualBranch": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualDateTime": "2017-03-30T18:33:12.5364211Z",
       "BilingualException": null
     },
     "893c6d42fc3de3e07d63f0ac61a287e81685cbad": {
