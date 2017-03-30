@@ -17217,8 +17217,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\d1ef775c9783b975fd0f852dc7112506d3897605.f0ffecf6da23945f0ef8ce5b175a8c7c918cae77.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\basic\\adjust-hand-inventory-cost-values.f70237871b7b268574daf4557c82797bc0759c16.de-de.xlf",
+      "LocXliffCommit": "b47c0df1e2ff43c289a4dc645d89c2ce0dc1d180"
     },
     "hr\\localizations\\noam-usa-issue-worker-payments.md.e93149cf7d84fc34fce2c2afd3f22dc9b363a2ee.HT": {
       "SourceFilename": "hr\\localizations\\noam-usa-issue-worker-payments.md",

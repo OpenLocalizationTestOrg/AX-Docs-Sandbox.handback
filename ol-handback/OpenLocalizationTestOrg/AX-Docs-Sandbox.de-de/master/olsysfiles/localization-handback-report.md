@@ -1,11 +1,28 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [scm\cost-management\adjust-hand-inventory-cost-values.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/9ccbe5815ebb54e00265e130be9c82491aebabce/scm/cost-management/adjust-hand-inventory-cost-values.md) | InSyncHandedBackSuccess | [Details](#d1ef775c9783b975fd0f852dc7112506d38976053442)
 
 ## Item Details
+##### <a name='d1ef775c9783b975fd0f852dc7112506d38976053442'></a> Source: [scm\cost-management\adjust-hand-inventory-cost-values.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/9ccbe5815ebb54e00265e130be9c82491aebabce/scm/cost-management/adjust-hand-inventory-cost-values.md)
+* Status: InSyncHandedBackSuccess
+* Target File: [scm\cost-management\adjust-hand-inventory-cost-values.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/3454ecc1a95a6c84a9f51ec8c80abaf99bf56ba1/scm/cost-management/adjust-hand-inventory-cost-values.md)
+* Handoff File: [adjust-hand-inventory-cost-values.f70237871b7b268574daf4557c82797bc0759c16.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/c6d9ccbf006268c80420ec5498696055bfaf129c/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/adjust-hand-inventory-cost-values.f70237871b7b268574daf4557c82797bc0759c16.de-de.xlf)
+* Handoff Datetime: 2017-03-30 15:14:43
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: [adjust-hand-inventory-cost-values.f70237871b7b268574daf4557c82797bc0759c16.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/b47c0df1e2ff43c289a4dc645d89c2ce0dc1d180/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/adjust-hand-inventory-cost-values.f70237871b7b268574daf4557c82797bc0759c16.de-de.xlf)
+* Handback Datetime: 2017-03-30 18:30:03
+* Handback Name: 
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
