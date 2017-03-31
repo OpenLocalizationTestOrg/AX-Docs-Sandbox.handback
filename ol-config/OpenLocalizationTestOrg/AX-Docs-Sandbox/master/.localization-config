@@ -1089,7 +1089,7 @@
    "includeDependencies":false,
    "autoPush":true,
    "xliffVersion":"1.2",
-   "dontDeleteFiles":true,
+   "dontDeleteFiles":false,
    "translationSysFileDestination":"HandbackRepo",
    "autoHandbackNoChangeXliff":true,
    "markdownTransformerOptions":{  
