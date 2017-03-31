@@ -18999,6 +18999,46 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.nb-no\\master\\ca7cfda8d4b1e2349b6cceeacef6035c467c4036.b34c152af1cbe9c35657ec70e0ec1d3d8c2b7364.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "financials\\advanced-filtering-query-options.md.8806bfaad179452d0ac5a231831cdb41a3c5ec91.HT": {
+      "SourceFilename": "financials\\advanced-filtering-query-options.md",
+      "XliffHash": "8806bfaad179452d0ac5a231831cdb41a3c5ec91",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.nb-no\\master\\5ee7a04572e350a7c08d0418bade6d332aa920c6.d3cee3d85bc4ed46ee9597ee10db57b57c33046f.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "dev-itpro\\dev-ref\\xpp-cs-comparison.md.292dab341116fb8905c5a8861b96703d428bbdd1.HT": {
+      "SourceFilename": "dev-itpro\\dev-ref\\xpp-cs-comparison.md",
+      "XliffHash": "292dab341116fb8905c5a8861b96703d428bbdd1",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.nb-no\\master\\79675df1637a700e5cc7154d9b43af11cbb3d2a6.a51f4b5327a69a8e60271c72e37bf68f3eba02f3.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "dev-itpro\\get-started\\whats-new-dynamics-365-operations-1611.md.09ac6e6e481b17aa45ecb29b40d66fcd7980eff8.HT": {
+      "SourceFilename": "dev-itpro\\get-started\\whats-new-dynamics-365-operations-1611.md",
+      "XliffHash": "09ac6e6e481b17aa45ecb29b40d66fcd7980eff8",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.nb-no\\master\\82d03b6bc190fb612dd2cc7a25dc11875212f1ea.16fb791401249a1e012751bc6a2dd040eb1ebb12.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "scm\\warehousing\\warehouse-mobile-devices-portal.md.cfd9073e95723e8d551b96637bfbb7ed640206ed.HT": {
+      "SourceFilename": "scm\\warehousing\\warehouse-mobile-devices-portal.md",
+      "XliffHash": "cfd9073e95723e8d551b96637bfbb7ed640206ed",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.nb-no\\master\\557e1842d5727edb0dafca4d22efe54150cafd44.0b156f1a865d826a37a4cb497275546d3235627f.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }
