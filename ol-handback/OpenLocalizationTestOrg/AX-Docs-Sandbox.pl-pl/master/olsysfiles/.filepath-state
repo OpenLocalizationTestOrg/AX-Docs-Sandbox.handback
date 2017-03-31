@@ -5,14 +5,8 @@
   "364d7e62dfaf54d3710d1888b8d2347dbe1627a2": [
     "core\\breadcrumb\\toc.yml"
   ],
-  "689d8f9fb0501c5007db21d41f126737af77b89e": [
-    "core\\get-started\\action-search.md"
-  ],
-  "2fba43a0580267b14a01651ef8d1860f12f95d36": [
-    "core\\get-started\\action-search.md"
-  ],
   "5ee7a04572e350a7c08d0418bade6d332aa920c6": [
-    "core\\get-started\\advanced-filtering-query-options.md"
+    "financials\\advanced-filtering-query-options.md"
   ],
   "2c99b2e1f7ddecb61be62832ca1a8d3ac1fd21a8": [
     "core\\get-started\\client-faq.md"
@@ -3086,126 +3080,6 @@
   "6145dc207a37405d2c7ab0e94766cd925518e4a0": [
     "financials\\TOC.md"
   ],
-  "3f9ab358ecbe7a992341610184002dbd97a31a4d": [
-    "hr\\benefit-eligibility-policies.md"
-  ],
-  "1809a6679685e483694a53b7742d80f02ade2cd5": [
-    "hr\\compensation-plans.md"
-  ],
-  "f8d1ba94881b80dc692dc1bdfa0fc695025b2f10": [
-    "hr\\compensation-plans.md"
-  ],
-  "aa97950a22572fb4c934687b550c13dcc8acce0d": [
-    "hr\\courses.md"
-  ],
-  "3c44871956b831a7991a8d4e389cffc4a459157d": [
-    "hr\\courses.md"
-  ],
-  "ee51abe108b3bc0aabc764b991222db6d185e532": [
-    "hr\\create-department-add-department-hierarchy.md"
-  ],
-  "bbf08a9620dbc8ad928fe40a3ae5e9b2a2fcb373": [
-    "hr\\create-fixed-compensation-plans.md"
-  ],
-  "b8143db5b133337603a7f2f46028d91bb81cd947": [
-    "hr\\create-job.md"
-  ],
-  "0c202a21e1e94c7b09cf76aa7a003e0342c0a130": [
-    "hr\\create-job.md"
-  ],
-  "a18e33d6ee4f10599f1ad408c8f7f3aa2473de6f": [
-    "hr\\create-job.md"
-  ],
-  "be156afa73de731e54985485b617bcbae883db3a": [
-    "hr\\create-variable-compensation-plans.md"
-  ],
-  "f1bbc66ecefb12d14d7d707ada2b99ca42b3fdd8": [
-    "hr\\departments-jobs-positions.md"
-  ],
-  "9487af50b5de7733d328ff807978b0bf1f828268": [
-    "hr\\departments-jobs-positions.md"
-  ],
-  "89e82b90a6a65db76c022038f3e9331e40da5261": [
-    "hr\\index.md"
-  ],
-  "f73b45136e44c1b90c09d2fabf2e66866424d226": [
-    "hr\\index.md"
-  ],
-  "17208e629bf3642914c1794e9cab458591376bb1": [
-    "hr\\index.md"
-  ],
-  "905d6656a2664d5a043680164f70b5f3d680b978": [
-    "hr\\loan-items.md"
-  ],
-  "b6d39c7810e38ae665a8de97a9232a16708972cf": [
-    "hr\\loan-items.md"
-  ],
-  "dceab65cd0ec9d6ce21124735166e94853a808e0": [
-    "hr\\loan-items.md"
-  ],
-  "a51f23b39f9084548aff9ad8ced281f2c59f223c": [
-    "hr\\localizations\\noam-usa-generate-payroll-reports.md"
-  ],
-  "9d00d8f6dfa075f53473af31c257deb57c9efa86": [
-    "hr\\manage-benefit-program.md"
-  ],
-  "082f15849226298c1b55652466b04371a9e9f106": [
-    "hr\\manage-benefit-program.md"
-  ],
-  "551e15ed31953d6e5fc99a1177c1310194ea95d0": [
-    "hr\\manage-recruiting-process.md"
-  ],
-  "37d373e2e361a1ca9d54f9e6f51a3a0a1aba4a6b": [
-    "hr\\manage-recruiting-process.md"
-  ],
-  "d330f73ee9cbdd6bdcc197c3783a9230b26e04d8": [
-    "hr\\mass-hire-projects.md"
-  ],
-  "66d242c7d1c8e79fcd808ba32cd5f18363e2e2eb": [
-    "hr\\mass-hire-projects.md"
-  ],
-  "4bd934091c80ab9a4d244499d2bce2c4646c3e99": [
-    "hr\\performance-management-overview.md"
-  ],
-  "0f913486b1bed16cc6d90a3bfd146c06e53a0d6a": [
-    "hr\\performance-management-overview.md"
-  ],
-  "8e09c6b042d557e3b2d608fb5e278169fc3c1d88": [
-    "hr\\distribute-questionnaires.md"
-  ],
-  "bcf59ea8862280675c9fb711d2aab1e8dff18806": [
-    "hr\\evaluate-questionnaire-results.md"
-  ],
-  "b1a7ebd221357540384c77b78834d12f81773ff1": [
-    "hr\\questionnaires.md"
-  ],
-  "39f2904a6b722ad0048ba1d94651098ee642079b": [
-    "hr\\set-up-company-specific-hr-parameters.md"
-  ],
-  "5df6079605d2d8d320c38d302e8e5e2cba51a3f1": [
-    "hr\\set-up-hr-parameters-across-legal-entities.md"
-  ],
-  "31dda85ff2e4a4e5380401b031b2dd74acff394b": [
-    "hr\\skills.md"
-  ],
-  "b9ee73bd2f4057e0a69c17243f838799ee167a39": [
-    "hr\\skills.md"
-  ],
-  "4dd83e8ed0246733ad1336399f69715eb9398beb": [
-    "hr\\skills.md"
-  ],
-  "e2fbadbb5f219b6bbea87c8ef69846d9ff7fc69a": [
-    "hr\\TOC.md"
-  ],
-  "31b88445cf799affb35360dd4152dd6bbdf86154": [
-    "hr\\TOC.md"
-  ],
-  "8d59c06f92d912f663f6b46c5cfbb0188858d8b4": [
-    "hr\\TOC.md"
-  ],
-  "f286436aa4833babaeb3de875ee393d18e5f8eea": [
-    "hr\\workflow-manage-employee-information.md"
-  ],
   "38e422abb532abb72eb581f9d6de3cd7e1a3f0fc": [
     "index.md"
   ],
@@ -3953,12 +3827,6 @@
   "6d7a5b6e8dc0427a73754610e1709810afae7c47": [
     "financials\\localizations\\noam-usa-year-end-1099-reporting.md"
   ],
-  "282c70f8a6ddda5610c17260eb37b0db43b197e3": [
-    "hr\\localizations\\noam-usa-comply-ada.md"
-  ],
-  "25703ea2bde70c5c2d3de9f2dc9d3d1d889e4ac9": [
-    "hr\\design-questionnaires.md"
-  ],
   "d9dcdd63649d6dbff96efe2eec7cad34025ab2ee": [
     "scm\\inventory\\consignment.md"
   ],
@@ -4348,81 +4216,6 @@
   ],
   "eed3398651612743958722814ec5594ec34e4e5e": [
     "financials\\localizations\\emea-set-up-report-inventory-journal-names.md"
-  ],
-  "c2b2b83711479e8318a49ff8f3b091badd3e5735": [
-    "hr\\localizations\\noam-usa-benefit-accrual-plan-tasks.md"
-  ],
-  "b7154b3015c045a4649398f1625cf4fb94a0e4e8": [
-    "hr\\localizations\\noam-usa-benefit-set-up-tasks.md"
-  ],
-  "88c8c815540695d9ba0be7aa7dc378e6aa83b3fd": [
-    "hr\\localizations\\noam-usa-earning-code-group-tasks.md"
-  ],
-  "dd1c9e61cf28822e1461cb7ed9bead1583cbd83c": [
-    "hr\\localizations\\noam-usa-earnings-generation-process.md"
-  ],
-  "7f4b542c02264e5e62af33490bc6028f2b0b4c3f": [
-    "hr\\localizations\\noam-usa-existing-earnings.md"
-  ],
-  "8e4a074a38f32b263edf6da43fffa0dcf60cefcd": [
-    "hr\\localizations\\noam-usa-existing-payroll-payments.md"
-  ],
-  "7ec8c4b0dc09489047c17cec27c631bafbcef9af": [
-    "hr\\localizations\\noam-usa-form-i-9-verification.md"
-  ],
-  "29fcf2db3ce23a3808e015c7604490eb4758f540": [
-    "hr\\localizations\\noam-usa-garnishment-tax-levy-administrative-fees.md"
-  ],
-  "e7b8582b0d1f31b165575493457927f4339b7217": [
-    "hr\\localizations\\noam-usa-garnishment-tax-levy-enrollment-tasks.md"
-  ],
-  "4d60e5617c4ae1cc943b43373a5599fc88deecdf": [
-    "hr\\localizations\\noam-usa-garnishment-tax-levy-set-up-tasks.md"
-  ],
-  "cb40929a5137a3f79d5d2aa72f2a0734d97d7dee": [
-    "hr\\localizations\\noam-usa-generate-earnings.md"
-  ],
-  "7a444240375a13fec6194b787887eb4cc1f71e53": [
-    "hr\\localizations\\noam-usa-issue-worker-payments.md"
-  ],
-  "234b62da1eb24fe56f731e722da72c97f72ccc8d": [
-    "hr\\localizations\\noam-usa-pay-cycle-pay-period-tasks-sample.md"
-  ],
-  "7bd02bcf244d31a735f9452d831437e1b2f719b0": [
-    "hr\\localizations\\noam-usa-payroll.md"
-  ],
-  "57d8cf34b2ddc3c5991c4b2bcf391e7c63e8e41b": [
-    "hr\\localizations\\noam-usa-payroll-calculation-frequencies-tasks.md"
-  ],
-  "6bed7196ab1811ab0f1821f4ee80925c0676d175": [
-    "hr\\localizations\\noam-usa-payroll-data-updates.md"
-  ],
-  "4529d01d99aa906add45a2e2b936e9b43882fdb4": [
-    "hr\\localizations\\noam-usa-pay-statements.md"
-  ],
-  "8fa72cb11dddbad7396eb9f63c5513119ffd8546": [
-    "hr\\localizations\\noam-usa-pay-statements-payment-generation-process.md"
-  ],
-  "1cba395abb5ed57dee3433048c7141414fc22944": [
-    "hr\\localizations\\noam-usa-post-payroll-generate-vendor-invoices.md"
-  ],
-  "e0d21e7d442d2d98186dda645be1df921e9532b3": [
-    "hr\\localizations\\noam-usa-premium-earning-setup-tasks.md"
-  ],
-  "736bc8120b95402d615c746667822544d3a5e50d": [
-    "hr\\localizations\\noam-usa-tax-codes-tax-groups-definitions.md"
-  ],
-  "1470ddddc31c4e3d4df8ca2bf9b71290527134de": [
-    "hr\\localizations\\noam-usa-tax-information-tasks.md"
-  ],
-  "42ca8141c8caa678c6a4583c1a9f7feb903e6c80": [
-    "hr\\localizations\\noam-usa-work-cycle-work-period-tasks.md"
-  ],
-  "55c63563853f687944606e32e76b1b347935c8e3": [
-    "hr\\localizations\\noam-usa-worker-position-payroll-tasks.md"
-  ],
-  "724715ba4acf881a01eae68799dd61faff5ca90c": [
-    "hr\\localizations\\noam-usa-work-schedule-leave-tasks.md"
   ],
   "e220366fd050453bf2f3765b1dd7afdcd655e54d": [
     "retail\\pos-mpos.md"
