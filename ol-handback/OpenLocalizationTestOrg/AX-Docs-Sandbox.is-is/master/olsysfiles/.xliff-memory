@@ -19099,6 +19099,16 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.is-is\\master\\b39ae8ac5df258073b524afaa0afb1ab4a3aa53b.e315afdf2d9e7806f6ddc5aa5587a51b740856d9.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "financials\\advanced-filtering-query-options.md.8806bfaad179452d0ac5a231831cdb41a3c5ec91.HT": {
+      "SourceFilename": "financials\\advanced-filtering-query-options.md",
+      "XliffHash": "8806bfaad179452d0ac5a231831cdb41a3c5ec91",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.is-is\\master\\5ee7a04572e350a7c08d0418bade6d332aa920c6.d3cee3d85bc4ed46ee9597ee10db57b57c33046f.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }

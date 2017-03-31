@@ -1,8 +1,8 @@
 {
-  "LastProcessedCommit": "f15e1f9bcf426ca6b9081c7260858c354d799786",
+  "LastProcessedCommit": "e4ac4aaa858d54355e486cef705a7956e03a8c84",
   "LastTranslatedCommit": null,
   "LastTansformerVersion": null,
-  "LastConfigHash": "74e4e1e2aea797457cbed5a9bf916a6765ea5381",
+  "LastConfigHash": "49ed0541837d70b1a2863316e185ac33c8497774",
   "Items": {
     "364d7e62dfaf54d3710d1888b8d2347dbe1627a2": {
       "FileHash": "364d7e62dfaf54d3710d1888b8d2347dbe1627a2",
@@ -88,19 +88,20 @@
     },
     "5ee7a04572e350a7c08d0418bade6d332aa920c6": {
       "FileHash": "5ee7a04572e350a7c08d0418bade6d332aa920c6",
-      "SourceFileCommit": "5c0c34d84dbba3a71480d50cf5d4fcd83dddedc6",
-      "SourceFilePath": "core\\get-started\\advanced-filtering-query-options.md",
+      "SourceFileCommit": "e4ac4aaa858d54355e486cef705a7956e03a8c84",
+      "SourceFilePath": "financials\\advanced-filtering-query-options.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
       "TokenReference": null,
       "FilePathList": [
-        "core\\get-started\\advanced-filtering-query-options.md"
+        "core\\get-started\\advanced-filtering-query-options.md",
+        "financials\\advanced-filtering-query-options.md"
       ],
       "HasMetadata": true,
       "TranslationType": 1,
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.is-is\\master\\basic\\advanced-filtering-query-options.585cd80a2c7447dadbe434eaebdc5cacac05855b.is-is.xlf",
-      "HandoffFileCommit": "94b43363c2e53c319513abd90e72528e6e41f913",
-      "HandoffDateTime": "2017-03-30T15:16:52.3757109Z",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.is-is\\master\\basic\\advanced-filtering-query-options.e2e5f342281d94cd3d5be4d7e96d3d5d59259241.is-is.xlf",
+      "HandoffFileCommit": "f5d1a6c1874fd1750e5d66ab446c7d0e6975293e",
+      "HandoffDateTime": "2017-03-31T15:32:29.098112Z",
       "HandoffXliffHash": "8806bfaad179452d0ac5a231831cdb41a3c5ec91",
       "HandoffName": null,
       "HandoffPriority": "basic",
