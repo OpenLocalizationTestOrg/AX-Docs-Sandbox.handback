@@ -1,28 +1,11 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [financials\advanced-filtering-query-options.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/e4ac4aaa858d54355e486cef705a7956e03a8c84/financials/advanced-filtering-query-options.md) | HandedOffSuccess | [Details](#5ee7a04572e350a7c08d0418bade6d332aa920c62577)
 
 ## Item Details
-##### <a name='5ee7a04572e350a7c08d0418bade6d332aa920c62577'></a> Source: [financials\advanced-filtering-query-options.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/e4ac4aaa858d54355e486cef705a7956e03a8c84/financials/advanced-filtering-query-options.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [advanced-filtering-query-options.e2e5f342281d94cd3d5be4d7e96d3d5d59259241.ja-jp.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/65bf691e75551e6c18c5e8b608ab72bbd8b67930/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.ja-jp/master/basic/advanced-filtering-query-options.e2e5f342281d94cd3d5be4d7e96d3d5d59259241.ja-jp.xlf)
-* Handoff Datetime: 2017-03-31 15:33:21
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
