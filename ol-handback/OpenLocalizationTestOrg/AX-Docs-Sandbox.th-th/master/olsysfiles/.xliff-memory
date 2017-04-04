@@ -19019,6 +19019,36 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.th-th\\master\\3c47585fa75b1346cbdd927d2fb3e395922a2bf7.c4789f99cb29e996d9819364b230d9d128e85d92.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "scm\\TOC.md.1e0ee8a6c68dbe84db1a3357dc1fb951e0cb7d32.HT": {
+      "SourceFilename": "scm\\TOC.md",
+      "XliffHash": "1e0ee8a6c68dbe84db1a3357dc1fb951e0cb7d32",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.th-th\\master\\3f9145c4e67b8c4418a56e0b95f28be9747f439f.118cce003a42c300d1947386cec01c6e6427c34b.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "scm\\inventory\\TOC.md.bb5de4eae2dbe29908c8a40db9198c112ab510d0.HT": {
+      "SourceFilename": "scm\\inventory\\TOC.md",
+      "XliffHash": "bb5de4eae2dbe29908c8a40db9198c112ab510d0",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.th-th\\master\\5ae8ec3b5abb7ec50912763f2127a418345a818a.46bc3718752b1a7967179afc0bd6f9689a5d584c.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "scm\\cost-management\\TOC.md.644fdd1e51416f83a00588584226c2d0dd9e648b.HT": {
+      "SourceFilename": "scm\\cost-management\\TOC.md",
+      "XliffHash": "644fdd1e51416f83a00588584226c2d0dd9e648b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.th-th\\master\\c956c31dfff510f36d3ce82fd6c0b1e8605a2121.dc350a829e255b0421e5fc5b84fa3a6d3ddc9584.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }
