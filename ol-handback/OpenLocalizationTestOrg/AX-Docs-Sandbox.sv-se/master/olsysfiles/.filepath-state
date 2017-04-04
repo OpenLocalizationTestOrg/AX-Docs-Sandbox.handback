@@ -3812,6 +3812,9 @@
   "1fcdf262ee1e7e1fbbdd0a5fed46fb1867f8d8fd": [
     "scm\\inventory\\inventory-statuses.md"
   ],
+  "5ae8ec3b5abb7ec50912763f2127a418345a818a": [
+    "scm\\inventory\\TOC.md"
+  ],
   "f151f4b4290df0b2bf1b5d1159654bd248a439b1": [
     "scm\\master-planning\\authorize-adjusted-forecast.md"
   ],
@@ -4348,5 +4351,11 @@
   ],
   "557e1842d5727edb0dafca4d22efe54150cafd44": [
     "scm\\warehousing\\warehouse-mobile-devices-portal.md"
+  ],
+  "c956c31dfff510f36d3ce82fd6c0b1e8605a2121": [
+    "scm\\cost-management\\TOC.md"
+  ],
+  "3f9145c4e67b8c4418a56e0b95f28be9747f439f": [
+    "scm\\TOC.md"
   ]
 }
