@@ -1087,7 +1087,6 @@
     }
   ],
    "includeDependencies":false,
-   "forceHandoff": true,
    "autoPush":true,
    "xliffVersion":"1.2",
    "dontDeleteFiles":false,
