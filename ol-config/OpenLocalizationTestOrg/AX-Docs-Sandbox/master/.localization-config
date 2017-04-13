@@ -1065,16 +1065,22 @@
       "files": [
         "core/*.md",
         "core/**/*.md",
+        "core/includes/*.md",
         "dev-itpro/*.md",
         "dev-itpro/**/*.md",
+        "dev-itpro/includes/*.md",
         "financials/*.md",
         "financials/**/*.md",
+        "financials/includes/*.md",
         "hr/*.md",
         "hr/**/*.md",
+        "hr/includes/*.md",
         "scm/*.md",
         "scm/**/*.md",
+        "scm/includes/*.md",
         "retail/*.md",
-        "retail/**/*.md"
+        "retail/**/*.md",
+        "retail/includes/*.md"
       ],
       "priorities": [
         {
