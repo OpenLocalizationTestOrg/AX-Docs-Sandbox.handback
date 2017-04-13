@@ -47,6 +47,9 @@
   "940d086f9c99af54bfcc7911ee7272f9eccba464": [
     "core\\get-started\\display-pages-side-by-side.md"
   ],
+  "2d2a0d7e637b44cec3d0fb5e70ac17e49d824cbe": [
+    "core\\get-started\\fasttrack-dynamics-365-overview.md"
+  ],
   "499039ee4b490cf4eeb9a7c976be0d1f9e493565": [
     "core\\get-started\\fasttrack-dynamics-365-overview.md"
   ],
@@ -128,6 +131,9 @@
   "502e89e66f7b11d8e3e6bda6e00e37dc854664e6": [
     "core\\get-started\\window-management.md"
   ],
+  "0a02712d31a656b0a175d6d5acf8d2ee5fe6346b": [
+    "core\\index.md"
+  ],
   "9fc21448927868af4cbe8848361c1ea9db18c72a": [
     "core\\index.md"
   ],
@@ -142,6 +148,9 @@
   ],
   "5d17447909d8e5db7688290a373550923bfd150d": [
     "core\\media\\toc.yml"
+  ],
+  "e2c0fed649179e8b73dbdab849f923d59e37fcdc": [
+    "core\\organization-administration\\cases.md"
   ],
   "e0d8c1cc26df1778ccbcb8181c5f6908963a7bfe": [
     "core\\organization-administration\\cases.md"
@@ -328,6 +337,9 @@
   ],
   "c3a918d6fcfd39f809c00a97f34b0665f2b93e1d": [
     "core\\organization-administration\\workflow-types-report.md"
+  ],
+  "9f0c7c70f3c9ba921a37381ecacefee22ab0d6b2": [
+    "core\\TOC.md"
   ],
   "e57412d8dd37052ab2390eda4da5d59884223f8c": [
     "core\\TOC.md"
@@ -1037,6 +1049,9 @@
   "b2378a9d13c4ee36cb872eb7f2866ae55de1ad8d": [
     "dev-itpro\\deployment\\csp-download-customersource.md"
   ],
+  "f466939da752a5b332e9ea9ca086514a2e96fed9": [
+    "dev-itpro\\deployment\\deploy-demo-environment.md"
+  ],
   "25fb6f4a3b7e413b26857f9d61ec8a0318276ef6": [
     "dev-itpro\\deployment\\deploy-demo-environment.md"
   ],
@@ -1204,6 +1219,9 @@
   ],
   "a93dbceab97369d59ecfd102d7b524dfbd719be0": [
     "dev-itpro\\dev-ref\\xpp-string-run-time-functions.md"
+  ],
+  "0e3936ccbd3b35ae16be0b713ff18b869d81e14e": [
+    "dev-itpro\\dev-tools\\access-instances.md"
   ],
   "4492235b544464cc5feef3d32b5bd6c48db29d2e": [
     "dev-itpro\\dev-tools\\access-instances.md"
@@ -1571,6 +1589,9 @@
   "718b658541c7b9fd7a8121901043fa78438fbd22": [
     "dev-itpro\\financial\\dimension-entry-control-migration.md"
   ],
+  "38cb1dfa85a0b5cab9769d00e7801ccdf12f046e": [
+    "dev-itpro\\financial\\dimension-entry-control-subpattern.md"
+  ],
   "0a88e230992e17b7f937d828dbd407614850d1e2": [
     "dev-itpro\\financial\\dimension-entry-control-subpattern.md"
   ],
@@ -1628,6 +1649,9 @@
   "f764f66d6ddefe5c7680ceba077d69d888590f06": [
     "dev-itpro\\get-started\\getting-started-home-page.md"
   ],
+  "234ead52b412c74dda181e891da22bfc62646f73": [
+    "dev-itpro\\get-started\\help-connect.md"
+  ],
   "d544c1182c95121b71f3191a25e8692709776cfa": [
     "dev-itpro\\get-started\\help-connect.md"
   ],
@@ -1636,6 +1660,9 @@
   ],
   "fc9fc8b69d8a5d9cabc7c46f9a6a3055407476e7": [
     "dev-itpro\\get-started\\help-connect.md"
+  ],
+  "64a7ed7920d8cb6083dc194d6256ba34d1b3cdb6": [
+    "dev-itpro\\get-started\\help-overview.md"
   ],
   "42e96ba924eea737010edc6ab6a242a2dd72715a": [
     "dev-itpro\\get-started\\help-overview.md"
@@ -1738,6 +1765,9 @@
   ],
   "756b8c268628327054911751a62d25390c190e6c": [
     "dev-itpro\\get-started\\whats-new-platform-update-3.md"
+  ],
+  "7124f2405e453943ffa6a3958016b358fee9e79b": [
+    "dev-itpro\\index.md"
   ],
   "3074ad949d688d3b5205364c58ad5d912b1cbc4f": [
     "dev-itpro\\index.md"
@@ -2023,6 +2053,9 @@
   ],
   "a7ff78a2889cf37a4f6b6411e43e79ba2987f4a8": [
     "dev-itpro\\lifecycle-services\\ax-2012\\install-security-development-tool.md"
+  ],
+  "fc04c2622a881402517ca8acaf7fce1eda8d30c6": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\install-test-data-transfer-tool-beta.md"
   ],
   "ee6f2174efaffcb1212210be7d336a2c65514b89": [
     "dev-itpro\\lifecycle-services\\ax-2012\\install-test-data-transfer-tool-beta.md"
@@ -3032,6 +3065,9 @@
   "90862c122c5bde3af4b7c0f2e0c9d7e08483a612": [
     "dev-itpro\\user-interface\\extensible-controls-layout.md"
   ],
+  "2ad9fe366f8bb236b7c0215419455bf7fede87f8": [
+    "dev-itpro\\user-interface\\factbox-form-patterns.md"
+  ],
   "bf5a4bc713bcaebb3cb11960fc50f72f22d75fe0": [
     "dev-itpro\\user-interface\\factbox-form-patterns.md"
   ],
@@ -3148,6 +3184,9 @@
   ],
   "a92951c437517174959b25a9913be14f3a06ee1e": [
     "dev-itpro\\user-interface\\images-form-grid.md"
+  ],
+  "00c3658105c418f8befdd40da7d1e98388172650": [
+    "dev-itpro\\user-interface\\list-page-form-pattern.md"
   ],
   "e99e5ef96f9dc4cdbd091f2d1c6ae95f309efb61": [
     "dev-itpro\\user-interface\\list-page-form-pattern.md"
@@ -3323,6 +3362,9 @@
   "d3c6230f1dbbff75617f7c1eca02bbf13f592a88": [
     "dev-itpro\\user-interface\\select-form-pattern.md"
   ],
+  "ea7c4baf5027dfc6f76b9e47301038487eba3302": [
+    "dev-itpro\\user-interface\\simple-details-form-pattern.md"
+  ],
   "6a32707d7dab03d1811e40711b32ccedaa6739cd": [
     "dev-itpro\\user-interface\\simple-details-form-pattern.md"
   ],
@@ -3395,6 +3437,9 @@
   "d757b4b943dbb03bcae7148031cf9f9bc7b3bbf6": [
     "dev-itpro\\user-interface\\table-of-contents-form-pattern.md"
   ],
+  "045418c2022e8ffb05998fe04352ff4d072d6f9e": [
+    "dev-itpro\\user-interface\\tabular-fields-subpattern.md"
+  ],
   "0afc288625cacac831c4ed73a5fae29401f64115": [
     "dev-itpro\\user-interface\\tabular-fields-subpattern.md"
   ],
@@ -3404,6 +3449,9 @@
   "75f353d213c5f12115e9d8484afdf8b9fb30c4e7": [
     "dev-itpro\\user-interface\\tabular-fields-subpattern.md"
   ],
+  "017a29d91f4a6c80032e0ebdf2579b02c1c97c9f": [
+    "dev-itpro\\user-interface\\task-double-form-pattern.md"
+  ],
   "3f0bfc44fb9c20a783b6caa8e0d659659df7dd27": [
     "dev-itpro\\user-interface\\task-double-form-pattern.md"
   ],
@@ -3412,6 +3460,9 @@
   ],
   "dc44f07d6711abce3274a58d7fa976b968f8d685": [
     "dev-itpro\\user-interface\\task-double-form-pattern.md"
+  ],
+  "c09be76155ac0ee92209ccc872757f4eec2a88ad": [
+    "dev-itpro\\user-interface\\task-recorder.md"
   ],
   "b2456e88c3a96dea53b7cc2db20966818974a1ce": [
     "dev-itpro\\user-interface\\task-recorder.md"
@@ -3436,6 +3487,9 @@
   ],
   "3a4d2ab502c3f16d099088be5000c4dc591ecf67": [
     "dev-itpro\\user-interface\\task-recorder-quick-reference.md"
+  ],
+  "9f7acb31dd17330c0c45bc2dbdfd07742af54f0d": [
+    "dev-itpro\\user-interface\\task-single-form-pattern.md"
   ],
   "53f32f709bef106c800009f6d49c913188f7026f": [
     "dev-itpro\\user-interface\\task-single-form-pattern.md"
@@ -3466,6 +3520,9 @@
   ],
   "eecf315fa8ef104186fb004dbf47d739ed06ac6b": [
     "dev-itpro\\user-interface\\TOC.md"
+  ],
+  "b2f90a30e5375532049d70a475dd5301509e0668": [
+    "dev-itpro\\user-interface\\toolbar-fields-subpattern.md"
   ],
   "762875df92cc2a19e27ff9d77ab4f7135fcdb583": [
     "dev-itpro\\user-interface\\toolbar-fields-subpattern.md"
@@ -3499,6 +3556,9 @@
   ],
   "0477e640ba4af93788b9c195dfb0210ade26e816": [
     "dev-itpro\\user-interface\\user-interface-development-home-page.md"
+  ],
+  "ccecfa3d6d6689377e89fc14da94d271a6050383": [
+    "dev-itpro\\user-interface\\wizard-form-pattern.md"
   ],
   "e7c21b61f253c2c8ead31e01ac398244e0253294": [
     "dev-itpro\\user-interface\\wizard-form-pattern.md"
@@ -3946,6 +4006,9 @@
   ],
   "8d2b89dc473b8870a6ee86208479e34396bda3aa": [
     "financials\\budgeting\\budgeting-overview.md"
+  ],
+  "a4eab65507978497fdd63ba66b47b48ec2176732": [
+    "financials\\budgeting\\budget-plan.md"
   ],
   "3b1fb9c7ee4c5e3834f7ed4e1e6636959b9cc82a": [
     "financials\\budgeting\\budget-plan.md"
@@ -4649,6 +4712,9 @@
   "00deb7b2648171bf2ff958abe055f153aa043785": [
     "financials\\general-ledger\\sales-tax-calculation-methods-origin-field.md"
   ],
+  "1779f5dce0062667ec15e81791e1fc518474a572": [
+    "financials\\general-ledger\\trial-balance-financial-reports.md"
+  ],
   "3a4c1038591746b9bdba029a964ce8a49c9536be": [
     "financials\\general-ledger\\trial-balance-financial-reports.md"
   ],
@@ -4684,6 +4750,9 @@
   ],
   "a855db937bf1f8c69f546d56056ac650c89acc02": [
     "financials\\general-ledger\\year-end-close.md"
+  ],
+  "f4df6473850656bb3c61d71f6e012ef4a829601d": [
+    "financials\\index.md"
   ],
   "7c461af40102f0de1a11928e4f373ac6d571615d": [
     "financials\\index.md"
@@ -5117,6 +5186,9 @@
   "9487af50b5de7733d328ff807978b0bf1f828268": [
     "hr\\departments-jobs-positions.md"
   ],
+  "d434b2169fa39fde65d261acb0b30cda7a37b143": [
+    "hr\\index.md"
+  ],
   "95e13b2a94e89055598c03f68997e80021d21bdb": [
     "hr\\index.md"
   ],
@@ -5239,9 +5311,6 @@
   ],
   "f286436aa4833babaeb3de875ee393d18e5f8eea": [
     "hr\\workflow-manage-employee-information.md"
-  ],
-  "38e422abb532abb72eb581f9d6de3cd7e1a3f0fc": [
-    "index.md"
   ],
   "143afb7f4a30b6c4143308d9647bf2a8cb9d0d01": [
     "scm\\cost-management\\adjust-hand-inventory-cost-values.md"
@@ -6194,6 +6263,9 @@
   "1ddfc050cef94f4a31f5858b84c89eadfa726b95": [
     "retail\\hybrid-customer-orders.md"
   ],
+  "0d00f33ce8059acd877d1c177e3def0b5f0b73b1": [
+    "retail\\index.md"
+  ],
   "68548df8b47d0856180bb9d4569cae5bb19e373c": [
     "retail\\index.md"
   ],
@@ -6268,6 +6340,9 @@
   ],
   "bf5b75572529bb497d3079752de187f30aa59294": [
     "retail\\pos-application-user-language-settings.md"
+  ],
+  "62070233388c881530055d0a618968e3bf821eff": [
+    "retail\\pos-offline-functionality.md"
   ],
   "e7df6d1b53791b49c4258cdf899179b54ab428ad": [
     "retail\\pos-offline-functionality.md"
@@ -7250,6 +7325,9 @@
   "c57148eb6fc802df49d524cd1e4bd92c66ab4833": [
     "dev-itpro\\migration-upgrade\\download-hotfix-lcs.md"
   ],
+  "69ed105daccc12cb259ab53f308de4dfc65389b9": [
+    "dev-itpro\\migration-upgrade\\install-metadata-hotfix-package.md"
+  ],
   "a34c7cbdbabddb778372291c6311a29f2a8dd399": [
     "dev-itpro\\migration-upgrade\\install-metadata-hotfix-package.md"
   ],
@@ -7553,6 +7631,9 @@
   "b94ae3016487f98c10c57397f67e0328b8676aa3": [
     "scm\\cost-management\\track-running-average-cost-per-inventory-dimension.md"
   ],
+  "aacfc3da818690df6a12e0924efd24371b93f5ce": [
+    "scm\\index.md"
+  ],
   "24b9cb37bd12241bdf68ff3cfb4b3a9d86869d7c": [
     "scm\\index.md"
   ],
@@ -7811,6 +7892,9 @@
   "f240da921d9b3eb9f79ee64080dd99f1c04bbd0e": [
     "dev-itpro\\extensibility\\extend-runbase-class.md"
   ],
+  "b77b61089c359127a7404437c29ef63a01416779": [
+    "dev-itpro\\lcs-solutions\\country-region.md"
+  ],
   "d37ab4fd37da601b75f24d75505d1f963b6583b7": [
     "dev-itpro\\lcs-solutions\\country-region.md"
   ],
@@ -7819,5 +7903,11 @@
   ],
   "6631e836ff55ae2ebafd75d5e67ed631e64cf086": [
     "retail\\sales-performance-products.md"
+  ],
+  "36a7a757f36e189d7bd3f1a8b461825026d8db4e": [
+    "core\\get-started\\onboarding-home.md"
+  ],
+  "26f23940ea2950c8236c3c874965095863f368aa": [
+    "scm\\procurement\\procurement-sourcing.md"
   ]
 }
