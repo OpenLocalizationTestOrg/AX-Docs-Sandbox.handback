@@ -1093,7 +1093,8 @@
     }
   ],
    "includeDependencies":false,
-   "autoPush":true,
+  "autoPush": true,
+  "forceHandoff":  true,
    "xliffVersion":"1.2",
    "dontDeleteFiles":false,
    "translationSysFileDestination":"HandbackRepo",
