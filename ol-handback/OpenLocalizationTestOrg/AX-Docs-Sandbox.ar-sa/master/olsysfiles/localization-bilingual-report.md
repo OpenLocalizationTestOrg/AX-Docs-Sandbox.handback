@@ -1,30 +1,11 @@
 # <a name='report-top'></a> Localization Bilingual Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [dev-itpro\migration-upgrade\deprecated-features.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1b8d6c889c69c63159d73aee2068f2dc4417b351/dev-itpro/migration-upgrade/deprecated-features.md) | InSyncHandedBackSuccess | [Details](#7a07c4e4316fc92e142d5e052f084bedae86c6e81618)
 
 ## Item Details
-##### <a name='7a07c4e4316fc92e142d5e052f084bedae86c6e81618'></a> Source: [dev-itpro\migration-upgrade\deprecated-features.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1b8d6c889c69c63159d73aee2068f2dc4417b351/dev-itpro/migration-upgrade/deprecated-features.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [dev-itpro\migration-upgrade\deprecated-features.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.ar-sa/blob/24c01c42dc72b0946735efff19a01da81b82862f/dev-itpro/migration-upgrade/deprecated-features.md)
-* Handoff File: [deprecated-features.8ffe62975e3930db6bc95bc2615948daf57a9cdd.ar-sa.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/56c2414cff8bb8458c46d53cf48ebafcaccbc4c5/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.ar-sa/master/basic/deprecated-features.8ffe62975e3930db6bc95bc2615948daf57a9cdd.ar-sa.xlf)
-* Handoff Datetime: 2017-04-10 19:32:18
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: [deprecated-features.8ffe62975e3930db6bc95bc2615948daf57a9cdd.ar-sa.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/bd1c34926a809c88e937c070fc7b8fdcef0c3633/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.ar-sa/master/basic/deprecated-features.8ffe62975e3930db6bc95bc2615948daf57a9cdd.ar-sa.xlf)
-* Archive Datetime: 2017-04-10 19:32:20
-* Handback File: [deprecated-features.8ffe62975e3930db6bc95bc2615948daf57a9cdd.ar-sa.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/83859bb05ecf4ae0b442e641a9e9d0c63efc162a/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.ar-sa/master/basic/deprecated-features.8ffe62975e3930db6bc95bc2615948daf57a9cdd.ar-sa.xlf)
-* Handback Datetime: 2017-04-10 19:59:50
-* Handback Name: 
-* Bilingual File: [deprecated-features.8ffe62975e3930db6bc95bc2615948daf57a9cdd.ar-sa.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/83859bb05ecf4ae0b442e641a9e9d0c63efc162a/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.ar-sa/master/basic/deprecated-features.8ffe62975e3930db6bc95bc2615948daf57a9cdd.ar-sa.xlf)
-* Bilingual Datetime: 2017-04-10 20:04:17
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
