@@ -1,4 +1,7 @@
 {
+  "4f771d6e599c2abeafe522da1f151be525e0201b": [
+    "core\\breadcrumb\\toc.yml"
+  ],
   "811e803719c107a28e61de11f95bce3381cd1cbb": [
     "core\\breadcrumb\\toc.yml"
   ],
@@ -46,6 +49,9 @@
   ],
   "940d086f9c99af54bfcc7911ee7272f9eccba464": [
     "core\\get-started\\display-pages-side-by-side.md"
+  ],
+  "8045cd8889596f8a2b479389a68986206860175b": [
+    "core\\get-started\\fasttrack-dynamics-365-overview.md"
   ],
   "2d2a0d7e637b44cec3d0fb5e70ac17e49d824cbe": [
     "core\\get-started\\fasttrack-dynamics-365-overview.md"
@@ -1016,6 +1022,9 @@
   "ba7534b5a0f1da2ac777f16cfcdae0ed2695492a": [
     "dev-itpro\\data-entities\\validations-defaults-unmapped-fields.md"
   ],
+  "a5f1ba8fe5f2751e34dd03cbd701b436a9c876ea": [
+    "dev-itpro\\deployment\\apply-deployable-package-system.md"
+  ],
   "562e6efbcd4b4f99b1cee582d3545ea5d48c23d7": [
     "dev-itpro\\deployment\\apply-deployable-package-system.md"
   ],
@@ -1063,6 +1072,9 @@
   ],
   "d9cd895257f5995d94d48cec7d2bf485f22ea7ca": [
     "dev-itpro\\deployment\\expressroute.md"
+  ],
+  "ce6ee70bf0740ce2a9a9f332681985f0c06f6c09": [
+    "dev-itpro\\deployment\\install-deployable-package.md"
   ],
   "567e30edaf4e003f9b3d33919b308c9727f55531": [
     "dev-itpro\\deployment\\install-deployable-package.md"
@@ -1219,6 +1231,9 @@
   ],
   "a93dbceab97369d59ecfd102d7b524dfbd719be0": [
     "dev-itpro\\dev-ref\\xpp-string-run-time-functions.md"
+  ],
+  "4996506bb32e8debdfbeb3fa353dff6f30c5af21": [
+    "dev-itpro\\dev-tools\\access-instances.md"
   ],
   "0e3936ccbd3b35ae16be0b713ff18b869d81e14e": [
     "dev-itpro\\dev-tools\\access-instances.md"
@@ -1718,6 +1733,9 @@
   "e03d472065939f7222ca8053e5180e6b93ba0ac4": [
     "dev-itpro\\get-started\\TOC.md"
   ],
+  "d78454729b573b00a69a641a3a38d3c01bf75c5e": [
+    "dev-itpro\\get-started\\whats-new-changed.md"
+  ],
   "be37aba890c8197d316928adad50460219edf4f5": [
     "dev-itpro\\get-started\\whats-new-changed.md"
   ],
@@ -1744,6 +1762,9 @@
   ],
   "1b1ea17627aafba76ebdd626125626e0a2852535": [
     "dev-itpro\\get-started\\whats-new-changed-platform-version-7-1-may-2016.md"
+  ],
+  "b902755dcf7f7be601f44777d3a58cd6452fdb20": [
+    "dev-itpro\\get-started\\whats-new-dynamics-365-operations-1611.md"
   ],
   "c0e35e84b18ae372ee7d3c9613313b4c724b49d9": [
     "dev-itpro\\get-started\\whats-new-dynamics-365-operations-1611.md"
@@ -2309,15 +2330,6 @@
   "d0febbe6b76ab61c4b9b3240e84c2b1a43662f23": [
     "dev-itpro\\lifecycle-services\\ax-2012\\work-with-purge-objects-archive-objects.md"
   ],
-  "234abb8eb28d3a8b246ed8d9db09710df80c461a": [
-    "dev-itpro\\lifecycle-services\\ax-support-experience.md"
-  ],
-  "c2c372e589c55f6e1f35dbb646901cc47071ce76": [
-    "dev-itpro\\lifecycle-services\\ax-support-experience.md"
-  ],
-  "76cc887f754d3a24182802cf7e82ff129290b1be": [
-    "dev-itpro\\lifecycle-services\\ax-support-experience.md"
-  ],
   "9c961bfcfc93b49fe7c13aab959b0e28ae54325d": [
     "dev-itpro\\lifecycle-services\\business-process-libraries-business-process-modeler.md"
   ],
@@ -2431,6 +2443,9 @@
   ],
   "ebe74d4e580748939af5fc4c9df042f204093d00": [
     "dev-itpro\\lcs-solutions\\lcs-solutions-app-source.md"
+  ],
+  "c57f3656e68be7f2dcd4be62f39f89af33a9d760": [
+    "dev-itpro\\lifecycle-services\\lcs-support.md"
   ],
   "b3b6d46ef8c4cca2fda06709d915513c3c4bf7b6": [
     "dev-itpro\\lifecycle-services\\lcs-support.md"
@@ -2564,6 +2579,9 @@
   "a2e48bfbd5939845b5c3043240ff77c487ff3d31": [
     "dev-itpro\\migration-upgrade\\deprecated-apis.md"
   ],
+  "9fb0fa0f9338050c07b055187c65c6316f005af7": [
+    "dev-itpro\\migration-upgrade\\deprecated-features.md"
+  ],
   "7a07c4e4316fc92e142d5e052f084bedae86c6e8": [
     "dev-itpro\\migration-upgrade\\deprecated-features.md"
   ],
@@ -2606,6 +2624,9 @@
   "a29fd6c84c30e8f89ea9e2f124783024b0519af2": [
     "dev-itpro\\migration-upgrade\\TOC.md"
   ],
+  "d4e460c43e17319d7e8629ce9170724f58a3797e": [
+    "dev-itpro\\migration-upgrade\\upgrade-data-to-latest-update.md"
+  ],
   "5ae867521ed4139a4cd71b4a6659635cc8a67a89": [
     "dev-itpro\\migration-upgrade\\upgrade-data-to-latest-update.md"
   ],
@@ -2632,6 +2653,9 @@
   ],
   "41f4ec89566a203de664879094fce6e09b728f3c": [
     "dev-itpro\\migration-upgrade\\upgrade-latest-platform-update.md"
+  ],
+  "76f9e5c625d08c616972eae5b30dc686b71b56e0": [
+    "dev-itpro\\migration-upgrade\\upgrade-latest-update.md"
   ],
   "feb4da776aa74f6d2107234006aaba6524df112e": [
     "dev-itpro\\migration-upgrade\\upgrade-latest-update.md"
@@ -2665,6 +2689,9 @@
   ],
   "6b9074af41522bfab0f274a17b4b37348997467c": [
     "dev-itpro\\migration-upgrade\\workflow-subsystem.md"
+  ],
+  "c812b5344092db8e3eaacb53126ec1ea6113dcda": [
+    "dev-itpro\\mobile-apps\\mobile-platform.md"
   ],
   "2c123788edf65c55300862aa910df21acb8ad51e": [
     "dev-itpro\\mobile-apps\\mobile-platform.md"
@@ -2795,17 +2822,14 @@
   "795659248d7d932ba6c2e732540ab708023230c1": [
     "dev-itpro\\migration-upgrade\\install-financial-reporting-binary-hotfix.md"
   ],
-  "7c338ed2840d2bf55f9f5e4eed04f66c80840eb3": [
-    "dev-itpro\\servicing\\TOC.md"
-  ],
-  "c5e86aa6e319728b4f77ca96c1b21fa35073d3b8": [
-    "dev-itpro\\servicing\\TOC.md"
-  ],
   "af87665528f3e27c11663217bca2d9028f3f3ae8": [
     "dev-itpro\\migration-upgrade\\versions-update-policy.md"
   ],
   "84b998ba6a3e430077766a0a10cf264b191725b4": [
     "dev-itpro\\migration-upgrade\\versions-update-policy.md"
+  ],
+  "67cf8167f3b6bc33c16d50b4383065ff7bd3d928": [
+    "dev-itpro\\TOC.md"
   ],
   "37e4375cd499b1454c259f8dfee92dd05baf51c9": [
     "dev-itpro\\TOC.md"
@@ -2980,6 +3004,9 @@
   ],
   "9967b14b3f0a52c91426f7f20770e826818c66b7": [
     "dev-itpro\\user-interface\\create-localizable-labels-client.md"
+  ],
+  "cf1a3d8f4eed012d91cf670a5e248b819b3863fe": [
+    "dev-itpro\\user-interface\\custom-filter-group-subpattern.md"
   ],
   "9c41d57e18d7745b6420218c407d55d3cb11a1f3": [
     "dev-itpro\\user-interface\\custom-filter-group-subpattern.md"
@@ -3460,6 +3487,9 @@
   ],
   "dc44f07d6711abce3274a58d7fa976b968f8d685": [
     "dev-itpro\\user-interface\\task-double-form-pattern.md"
+  ],
+  "df894f9e15c5c8a2b47a24a48f26b11279426f44": [
+    "dev-itpro\\user-interface\\task-recorder.md"
   ],
   "c09be76155ac0ee92209ccc872757f4eec2a88ad": [
     "dev-itpro\\user-interface\\task-recorder.md"
@@ -4249,6 +4279,9 @@
   ],
   "5b3179a4e09ae3a2ade91a41d95ea45465c9a395": [
     "financials\\cost-accounting\\cost-accounting-home-page.md"
+  ],
+  "c25edf3a569b581a90ef32576d1a2c1123e50c5a": [
+    "financials\\cost-accounting\\cost-controlling-mobile-workspace.md"
   ],
   "1cdaf36ee70835e315b812949c1f7aab2914bb02": [
     "financials\\cost-accounting\\cost-controlling-mobile-workspace.md"
@@ -5141,6 +5174,9 @@
   "c2a7b5e11972126baf8755ab2608d69e096ac1ab": [
     "financials\\public-sector\\year-end-processing-public-sector.md"
   ],
+  "0b811387c531f7164d08762d9eca52ca0cf8a275": [
+    "financials\\TOC.md"
+  ],
   "4627afb36aab38c60827d871703adb8ef1ecb52d": [
     "financials\\TOC.md"
   ],
@@ -5189,6 +5225,9 @@
   "bbf08a9620dbc8ad928fe40a3ae5e9b2a2fcb373": [
     "hr\\create-fixed-compensation-plans.md"
   ],
+  "7448dcbc51beb4f7f86f26b3c0dc722f084fdef5": [
+    "hr\\create-job.md"
+  ],
   "161060331791a2397a8ecdfa6a2d4d8cf72f2469": [
     "hr\\create-job.md"
   ],
@@ -5207,6 +5246,9 @@
   "be156afa73de731e54985485b617bcbae883db3a": [
     "hr\\create-variable-compensation-plans.md"
   ],
+  "66a20bbfd269717ff86af0b3ab908f6537f2e42e": [
+    "hr\\departments-jobs-positions.md"
+  ],
   "49e7287d47a30c2385786966ee2d7a26097fb875": [
     "hr\\departments-jobs-positions.md"
   ],
@@ -5215,6 +5257,9 @@
   ],
   "9487af50b5de7733d328ff807978b0bf1f828268": [
     "hr\\departments-jobs-positions.md"
+  ],
+  "d596d77bec7859e064bb001823ec9c05a6a946fe": [
+    "hr\\index.md"
   ],
   "d434b2169fa39fde65d261acb0b30cda7a37b143": [
     "hr\\index.md"
@@ -5267,6 +5312,9 @@
   "37d373e2e361a1ca9d54f9e6f51a3a0a1aba4a6b": [
     "hr\\manage-recruiting-process.md"
   ],
+  "504ec0fb550cf555d16063677a7b3926d6013a66": [
+    "hr\\mass-hire-projects.md"
+  ],
   "714db8c7b25bf86cb006f0cbf21a540ca5dc1deb": [
     "hr\\mass-hire-projects.md"
   ],
@@ -5285,11 +5333,17 @@
   "0f913486b1bed16cc6d90a3bfd146c06e53a0d6a": [
     "hr\\performance-management-overview.md"
   ],
+  "fa0eec951893d531befec86e2cb154c64c3e5efb": [
+    "hr\\distribute-questionnaires.md"
+  ],
   "5ad7ab5b0ce7c5d3364f6383b33d1a1e155a2c46": [
     "hr\\distribute-questionnaires.md"
   ],
   "8e09c6b042d557e3b2d608fb5e278169fc3c1d88": [
     "hr\\distribute-questionnaires.md"
+  ],
+  "31d36591e1b22da4a8d1e93901f229dc3bc84b4a": [
+    "hr\\evaluate-questionnaire-results.md"
   ],
   "afed04e21328f8068bee585df8488093bdaad912": [
     "hr\\evaluate-questionnaire-results.md"
@@ -5315,6 +5369,9 @@
   "5df6079605d2d8d320c38d302e8e5e2cba51a3f1": [
     "hr\\set-up-hr-parameters-across-legal-entities.md"
   ],
+  "d4f07792769aa68193d34de6ebf23ac4234b7eae": [
+    "hr\\skills.md"
+  ],
   "b89f748f58f3d3778e5bc9833fe0f1b45d293353": [
     "hr\\skills.md"
   ],
@@ -5326,6 +5383,9 @@
   ],
   "4dd83e8ed0246733ad1336399f69715eb9398beb": [
     "hr\\skills.md"
+  ],
+  "b923e746f63af4c2a87388601b1fd523bbdf83bd": [
+    "hr\\TOC.md"
   ],
   "e2fbadbb5f219b6bbea87c8ef69846d9ff7fc69a": [
     "hr\\TOC.md"
@@ -5401,6 +5461,9 @@
   ],
   "5360c7b1475763b8e33205bff560393e9ee51882": [
     "scm\\cost-management\\manufactured-items-treated-as-purchased-items.md"
+  ],
+  "2eb865a94291653700568c24af1496c45cf66378": [
+    "scm\\cost-management\\methodology-total-cost-allocation.md"
   ],
   "0c78f4f677ec9d88315faab744438c22bd2e78c0": [
     "scm\\cost-management\\methodology-total-cost-allocation.md"
@@ -6410,6 +6473,9 @@
   "1148adb5e49d7d960f2c3d1429edc4ebb280bf89": [
     "retail\\retail-components.md"
   ],
+  "4cbd9ccb81d1906cfc7dded2028a04722120c323": [
+    "retail\\retail-hardware-station-configuration-installation.md"
+  ],
   "cc724502057de83cf2baa4d42aa8540c2d1026d2": [
     "retail\\retail-hardware-station-configuration-installation.md"
   ],
@@ -6421,6 +6487,9 @@
   ],
   "5fed76e09ef2a64bc2aad2cf6ad7dcfa290acab1": [
     "retail\\retail-hierarchies.md"
+  ],
+  "1971ac832f96bf452cb20350120aaac5f10f24b1": [
+    "retail\\retail-modern-pos-device-activation.md"
   ],
   "d6a612d6523e8963c7957df0647818e77dde8a21": [
     "retail\\retail-modern-pos-device-activation.md"
@@ -6523,6 +6592,9 @@
   ],
   "eb8b785557932bba499789aa3997272f00f9e7f0": [
     "retail\\store-performance-information.md"
+  ],
+  "24b0b9db0fdde04d08b273e71f7fcc90f10e6287": [
+    "retail\\TOC.md"
   ],
   "8bf3f0a4e35107c1b4a0b57ed400139a683a1f6c": [
     "retail\\TOC.md"
@@ -6695,6 +6767,9 @@
   "282c70f8a6ddda5610c17260eb37b0db43b197e3": [
     "hr\\localizations\\noam-usa-comply-ada.md"
   ],
+  "bd98f3d97c4fd1ae214614160e5c3bdb8202bda6": [
+    "hr\\design-questionnaires.md"
+  ],
   "8ec82de8ff792ed7a85f036a6a9d050d763e5ed9": [
     "hr\\design-questionnaires.md"
   ],
@@ -6718,6 +6793,9 @@
   ],
   "1fcdf262ee1e7e1fbbdd0a5fed46fb1867f8d8fd": [
     "scm\\inventory\\inventory-statuses.md"
+  ],
+  "aee98dae8c7e365d4eabd99e4e65b427377bd2bd": [
+    "scm\\inventory\\TOC.md"
   ],
   "5ae8ec3b5abb7ec50912763f2127a418345a818a": [
     "scm\\inventory\\TOC.md"
@@ -7094,17 +7172,26 @@
   "da3e10df2905ed9a1c72ab68ce40b0d115ecbde1": [
     "dev-itpro\\analytics\\TOC.md"
   ],
+  "b50862885003b9430ca22b6d26d7bf6a9a15c3d3": [
+    "dev-itpro\\database\\copy-database-from-azure-sql-to-sql-server.md"
+  ],
   "83f05be75d11599a251707a219d3399dc35b70e3": [
     "dev-itpro\\database\\copy-database-from-azure-sql-to-sql-server.md"
   ],
   "5b688de1e7f91b256e8929de72fee00f5b2c8060": [
     "dev-itpro\\database\\copy-database-from-azure-sql-to-sql-server.md"
   ],
+  "f59bf775543528224efb6c3a83d0640080088ed7": [
+    "dev-itpro\\database\\copy-database-from-sql-server-to-azure-sql.md"
+  ],
   "7fec5282f2999ab63c13dd5ebba8c122bac85d3f": [
     "dev-itpro\\database\\copy-database-from-sql-server-to-azure-sql.md"
   ],
   "12ecb9a47e6e4422875b9dbe0148cefef727de78": [
     "dev-itpro\\database\\copy-database-from-sql-server-to-azure-sql.md"
+  ],
+  "44ad4732832be39f6faed0b3407809d18eac6cf1": [
+    "dev-itpro\\database\\copy-operations-database.md"
   ],
   "d3ac6db44fefbad76426b7a3be984fbf10d2f43e": [
     "dev-itpro\\database\\copy-operations-database.md"
@@ -7238,6 +7325,9 @@
   "1a8c9f31fdca02793dd8d4c75000d0988a4aa17e": [
     "dev-itpro\\dev-ref\\q-classes.md"
   ],
+  "8ecbfa50d279bd1058055f2e27817275afa638d3": [
+    "dev-itpro\\dev-ref\\r-classes.md"
+  ],
   "49c7676627fed77aca607636bc82826861a059dc": [
     "dev-itpro\\dev-ref\\r-classes.md"
   ],
@@ -7279,6 +7369,9 @@
   ],
   "11ca5668196580bf570941798b5127e977dc5071": [
     "dev-itpro\\dev-ref\\x-classes.md"
+  ],
+  "9e7aa25e0a8b34ac5c4fcbf3299261cf3dff9545": [
+    "dev-itpro\\dev-ref\\xpp-data-query.md"
   ],
   "17b037a009910b9d61a57e5546146c0c2445fbbe": [
     "dev-itpro\\dev-ref\\xpp-data-query.md"
@@ -7850,6 +7943,9 @@
   "d70b4ae0a6b177508021ee72481333cf6f265069": [
     "scm\\procurement\\request-quotations.md"
   ],
+  "f4b9b35737590e6776293f8ac619fbfac96f5e10": [
+    "scm\\procurement\\vendor-collaboration-mobile-workspace.md"
+  ],
   "5accd1d0fb58b6b67dac926deebbed262744d36d": [
     "scm\\procurement\\vendor-collaboration-mobile-workspace.md"
   ],
@@ -7946,11 +8042,17 @@
   "557e1842d5727edb0dafca4d22efe54150cafd44": [
     "scm\\warehousing\\warehouse-mobile-devices-portal.md"
   ],
+  "cf6cc13cbaf576da309815adaa8c9f60e26991db": [
+    "scm\\cost-management\\TOC.md"
+  ],
   "f60bb8a75e14775d568d7dc4972beafb6c6f929d": [
     "scm\\cost-management\\TOC.md"
   ],
   "c956c31dfff510f36d3ce82fd6c0b1e8605a2121": [
     "scm\\cost-management\\TOC.md"
+  ],
+  "2847c5a9bc7bf4e32b4cd9e1e2ca4bba475237b9": [
+    "scm\\TOC.md"
   ],
   "8eaffac45d29485351d21c1fd2bebb9ae464c33f": [
     "scm\\TOC.md"
@@ -7964,11 +8066,17 @@
   "f240da921d9b3eb9f79ee64080dd99f1c04bbd0e": [
     "dev-itpro\\extensibility\\extend-runbase-class.md"
   ],
+  "801ae5420bbe6531ed9bc870c18dbd0dbb3a191d": [
+    "dev-itpro\\lcs-solutions\\country-region.md"
+  ],
   "b77b61089c359127a7404437c29ef63a01416779": [
     "dev-itpro\\lcs-solutions\\country-region.md"
   ],
   "d37ab4fd37da601b75f24d75505d1f963b6583b7": [
     "dev-itpro\\lcs-solutions\\country-region.md"
+  ],
+  "234abb8eb28d3a8b246ed8d9db09710df80c461a": [
+    "dev-itpro\\lifecycle-services\\support-experience.md"
   ],
   "277a3b272fd8777890544b634fbc4a5b36362721": [
     "dev-itpro\\user-interface\\keyboard-shortcuts-controls.md"
@@ -7981,5 +8089,47 @@
   ],
   "26f23940ea2950c8236c3c874965095863f368aa": [
     "scm\\procurement\\procurement-sourcing.md"
+  ],
+  "a27e635ef69774b619d9f5d20c3dfa4c0b5f73e9": [
+    "dev-itpro\\database\\database-management-home-page.md"
+  ],
+  "ef7bc749e7a7d89a1ae3c8a7eccda3eed38b0546": [
+    "dev-itpro\\get-started\\whats-new-platform-update-6.md"
+  ],
+  "8e6063926956801974267e5104c94e0035173e80": [
+    "dev-itpro\\lifecycle-services\\premier-support.md"
+  ],
+  "62e150d6ac87a401e82d131bf0fe253e3c6e9763": [
+    "financials\\cost-accounting\\overhead-calculation.md"
+  ],
+  "ed4d61da368f2491796938ccbfea7154201ab933": [
+    "financials\\localizations\\emea-advance-invoice.md"
+  ],
+  "1f3ee68a311d2043c5b914eed5c36b52373adcf3": [
+    "financials\\localizations\\emea-exchange-rate-adjustments.md"
+  ],
+  "b22ab64d64b3586c32345841b2815970745cb686": [
+    "scm\\cost-management\\amortize-constant-costs-manufactured-item.md"
+  ],
+  "e351d898b8c9c436b5f85106cb339ea071846106": [
+    "scm\\cost-management\\backflush-costing.md"
+  ],
+  "9441a8332cd6669b5c50c39f1a2fd39fe111eefd": [
+    "scm\\cost-management\\bom-calculations.md"
+  ],
+  "ff6daa7f286cbf4ca62e8ecee6d8cd90e5ea03a4": [
+    "scm\\cost-management\\charges-manufactured-item.md"
+  ],
+  "f2b8ee5088fea80976d4bd18356e25578e97b0e6": [
+    "scm\\inventory\\arrival-overview.md"
+  ],
+  "235bf8e8c47c7edace793f94062d69c223f008f8": [
+    "scm\\inventory\\inventory-on-hand-mobile-workspace.md"
+  ],
+  "53402aa891ca8464b7487bbc7b133c7c8f8dd155": [
+    "scm\\sales-marketing\\delivery-alternatives.md"
+  ],
+  "5827cc475854e426131b64d4290c1a6280f5f7bd": [
+    "scm\\sales-marketing\\sales-orders-mobile-workspace.md"
   ]
 }
