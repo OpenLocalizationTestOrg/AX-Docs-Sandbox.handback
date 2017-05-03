@@ -1031,7 +1031,7 @@
       ],
       "priorities": [
         {
-          "priority": "premium",
+          "priority": "autohandbackfalse",
           "locales": [
             "ar-sa",
             "zh-cn",
@@ -1097,7 +1097,6 @@
    "xliffVersion":"1.2",
    "dontDeleteFiles":false,
    "translationSysFileDestination":"HandbackRepo",
-   "autoHandbackNoChangeXliff":true,
    "markdownTransformerOptions":{  
       "preset":"CnE"
    }
