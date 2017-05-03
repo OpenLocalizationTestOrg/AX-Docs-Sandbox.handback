@@ -1,11 +1,43 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 2
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [core\breadcrumb\toc.yml](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f5535c1128f43c6cdef102ec8a154615d9cda59a/core/breadcrumb/toc.yml) | HandedOffSuccess | [Details](#4f771d6e599c2abeafe522da1f151be525e0201b4)
+ [core\media\toc.yml](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5c0c34d84dbba3a71480d50cf5d4fcd83dddedc6/core/media/toc.yml) | HandedOffSuccess | [Details](#5d17447909d8e5db7688290a373550923bfd150d64)
 
 ## Item Details
+##### <a name='4f771d6e599c2abeafe522da1f151be525e0201b4'></a> Source: [core\breadcrumb\toc.yml](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f5535c1128f43c6cdef102ec8a154615d9cda59a/core/breadcrumb/toc.yml)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [toc.4f3943a9191cad44feb4b5355ae6bb56f38a4a88.th-th.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/61a050213cb7ffb455d0378ce0bd2fb69542a315/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.th-th/master/autohandbackfalse/toc.4f3943a9191cad44feb4b5355ae6bb56f38a4a88.th-th.xlf)
+* Handoff Datetime: 2017-05-03 16:10:48
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='5d17447909d8e5db7688290a373550923bfd150d64'></a> Source: [core\media\toc.yml](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5c0c34d84dbba3a71480d50cf5d4fcd83dddedc6/core/media/toc.yml)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [toc.89d694b47832600501f2162b7340e241fe863302.th-th.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/61a050213cb7ffb455d0378ce0bd2fb69542a315/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.th-th/master/autohandbackfalse/toc.89d694b47832600501f2162b7340e241fe863302.th-th.xlf)
+* Handoff Datetime: 2017-05-03 16:10:48
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
