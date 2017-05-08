@@ -5,6 +5,7 @@
         "audience": [
           "Developer",
           "Developer, IT Pro",
+          "IT Pro, Developer",
           "IT Pro"
         ]
       },
@@ -132,6 +133,44 @@
             "sv-se",
             "th-th",
             "tr-tr"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "ms.topic": [
+          "index-page"
+         ]
+      },
+      "priorities": [
+        {
+          "priority": "premium",
+          "locales": [
+            "ar-sa",
+            "zh-cn",
+            "cs-cz",
+            "da-dk",
+            "nl-nl",
+            "et-ee",
+            "fi-fi",
+            "fr-fr",
+            "de-de",
+            "hu-hu",
+            "is-is",
+            "it-it",
+            "ja-jp",
+            "lv-lv",
+            "lt-lt",
+            "nb-no",
+            "pl-pl",
+            "pt-br",
+            "ru-ru",
+            "es-es",
+            "sv-se",
+            "th-th",
+            "tr-tr",
+            "sr-cyrl-rs"
           ]
         }
       ]
@@ -717,7 +756,8 @@
     {
       "metadata": {
         "ms.search.region": [
-          "Czech Republic, Hungary"
+          "Czech Republic, Hungary",
+          "Czech Republic, Hungary, Poland"
         ]
       },
       "priorities": [
@@ -726,6 +766,7 @@
           "locales": [
             "cs-cz",
             "hu-hu",
+            "pl-pl",
             "sr-cyrl-rs"
           ]
         }
@@ -942,7 +983,8 @@
         "dev-itpro/TOC.md",
         "dev-itpro/index.md",
         "dev-itpro/**/TOC.md",
-        "retail/dev-itpro/TOC.md"
+        "retail/dev-itpro/TOC.md",
+        "dev-itpro/includes/banner.md"
       ],
       "priorities": [
         {
@@ -978,19 +1020,19 @@
     },
     {
       "files": [
-        "index.md",
         "core/TOC.md",
-        "core/index.md",
         "financials/TOC.md",
-        "financials/index.md",
         "financials/**/TOC.md",
         "hr/TOC.md",
-        "hr/index.md",
         "scm/TOC.md",
-        "scm/index.md",
         "scm/**/TOC.md",
         "retail/TOC.md",
-        "retail/index.md"
+        "core/includes/banner.md",
+        "hr/includes/banner.md",
+        "scm/includes/banner.md",
+        "retail/includes/banner.md",
+        "financials/includes/banner.md",
+        "core/breadcrumb/toc.yml"
       ],
       "priorities": [
         {
@@ -1026,61 +1068,19 @@
     },
     {
       "files": [
-        "core/breadcrumb/toc.yml",
-        "core/media/toc.yml"
-      ],
-      "priorities": [
-        {
-          "priority": "autohandbackfalse",
-          "locales": [
-            "ar-sa",
-            "zh-cn",
-            "cs-cz",
-            "da-dk",
-            "nl-nl",
-            "et-ee",
-            "fi-fi",
-            "fr-fr",
-            "de-de",
-            "hu-hu",
-            "is-is",
-            "it-it",
-            "ja-jp",
-            "lv-lv",
-            "lt-lt",
-            "nb-no",
-            "pl-pl",
-            "pt-br",
-            "ru-ru",
-            "es-es",
-            "sv-se",
-            "th-th",
-            "tr-tr",
-            "sr-cyrl-rs"
-          ]
-        }
-      ]
-    },
-    {
-      "files": [
         "core/*.md",
         "core/**/*.md",
-        "core/includes/*.md",
+        "core/media/toc.yml",
         "dev-itpro/*.md",
         "dev-itpro/**/*.md",
-        "dev-itpro/includes/*.md",
         "financials/*.md",
         "financials/**/*.md",
-        "financials/includes/*.md",
         "hr/*.md",
         "hr/**/*.md",
-        "hr/includes/*.md",
         "scm/*.md",
         "scm/**/*.md",
-        "scm/includes/*.md",
         "retail/*.md",
-        "retail/**/*.md",
-        "retail/includes/*.md"
+        "retail/**/*.md"
       ],
       "priorities": [
         {
@@ -1093,7 +1093,7 @@
     }
   ],
    "includeDependencies":false,
-  "autoPush": true,
+   "autoPush":true,
    "xliffVersion":"1.2",
    "dontDeleteFiles":false,
    "translationSysFileDestination":"HandbackRepo",
