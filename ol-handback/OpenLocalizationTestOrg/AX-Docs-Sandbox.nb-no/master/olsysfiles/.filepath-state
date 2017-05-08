@@ -197,9 +197,6 @@
   "f7844cb0a9cd19eb8147a6d626623795d9f53147": [
     "core\\index.md"
   ],
-  "5d17447909d8e5db7688290a373550923bfd150d": [
-    "core\\media\\toc.yml"
-  ],
   "1064ba35e2694f8747dc7afddb654d0fd942ad75": [
     "core\\organization-administration\\cases.md"
   ],
@@ -1835,6 +1832,9 @@
   "b97d87b2e14afeeb98f9dc4085270b2b2c522b4c": [
     "dev-itpro\\dev-tools\\continuous-delivery-faq.md"
   ],
+  "521f0498d53d0642cac07a7282fc2eead781d0a6": [
+    "dev-itpro\\dev-tools\\continuous-delivery-home-page.md"
+  ],
   "56a8c4efc2281202836996ac73612557a5fad275": [
     "dev-itpro\\dev-tools\\continuous-delivery-home-page.md"
   ],
@@ -2354,6 +2354,9 @@
   "fc9fc8b69d8a5d9cabc7c46f9a6a3055407476e7": [
     "dev-itpro\\get-started\\help-connect.md"
   ],
+  "8b69e0cb1abe1a65e21cae987b05ecd2924847ff": [
+    "dev-itpro\\get-started\\help-overview.md"
+  ],
   "f08434b4c818460009644e77da1b37ba86cc1d54": [
     "dev-itpro\\get-started\\help-overview.md"
   ],
@@ -2566,6 +2569,9 @@
   ],
   "d695aa9e2ebc145286c5116d5f4379d19bc27548": [
     "dev-itpro\\lifecycle-services\\ax-2012\\configuration-functionality-idmf-workspace.md"
+  ],
+  "08186ce74aa50ce4b1b06239247cce1aa3debe92": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\configure-sql-server-integration-services-multiple-versions-dixf.md"
   ],
   "a031b078ee23fcdc95b5ef247474411949347f6a": [
     "dev-itpro\\lifecycle-services\\ax-2012\\configure-sql-server-integration-services-multiple-versions-dixf.md"
@@ -3671,6 +3677,9 @@
   "a29fd6c84c30e8f89ea9e2f124783024b0519af2": [
     "dev-itpro\\migration-upgrade\\TOC.md"
   ],
+  "53309791a516a05422e36e0243196903442ea5eb": [
+    "dev-itpro\\migration-upgrade\\upgrade-data-to-latest-update.md"
+  ],
   "eb6088635293bf2c6f197b8266e39b0feb679837": [
     "dev-itpro\\migration-upgrade\\upgrade-data-to-latest-update.md"
   ],
@@ -3709,6 +3718,9 @@
   ],
   "41f4ec89566a203de664879094fce6e09b728f3c": [
     "dev-itpro\\migration-upgrade\\upgrade-latest-platform-update.md"
+  ],
+  "c184762ea4bced82515c3199e4bd780af5407a9b": [
+    "dev-itpro\\migration-upgrade\\upgrade-latest-update.md"
   ],
   "60c04c3c2d1dd91765271cfc39cd2c5b66e8abf3": [
     "dev-itpro\\migration-upgrade\\upgrade-latest-update.md"
@@ -3943,6 +3955,9 @@
   ],
   "84b998ba6a3e430077766a0a10cf264b191725b4": [
     "dev-itpro\\migration-upgrade\\versions-update-policy.md"
+  ],
+  "8d54bbc39f6408001eacc42476a392fef54e0c1b": [
+    "dev-itpro\\TOC.md"
   ],
   "bd7163c443d25a939d8a15fc3012d15e019a0d79": [
     "dev-itpro\\TOC.md"
@@ -5917,6 +5932,9 @@
   ],
   "5b3179a4e09ae3a2ade91a41d95ea45465c9a395": [
     "financials\\cost-accounting\\cost-accounting-home-page.md"
+  ],
+  "53c7f0945960e6ee8db6ebca6417711674b3d1c7": [
+    "financials\\cost-accounting\\cost-controlling-mobile-workspace.md"
   ],
   "31a9650774b2ddb70827ffa210154ca10c761236": [
     "financials\\cost-accounting\\cost-controlling-mobile-workspace.md"
@@ -9938,6 +9956,9 @@
   "3b7d76d13beccee36c7b5e4ea2aed1f8d0ab9d32": [
     "dev-itpro\\analytics\\run-document-routing-agent-as-windows-service.md"
   ],
+  "4ae0056485b93e5ed74ee217df6e7e2480120e91": [
+    "dev-itpro\\analytics\\TOC.md"
+  ],
   "80ed8cb7b3ad72b7e303fa586560e4f735a48446": [
     "dev-itpro\\analytics\\TOC.md"
   ],
@@ -10489,6 +10510,9 @@
   ],
   "4b3d7802d63b36deb996e7cff79252255b20da02": [
     "financials\\localizations\\emea-nor-nets-import-format.md"
+  ],
+  "3439483500ba518470f4afe88459040bf3490333": [
+    "financials\\localizations\\emea-oioubl-standards-electronic-invoicing.md"
   ],
   "3023747a4349153ce0b25b56dce5593bce741f1a": [
     "financials\\localizations\\emea-oioubl-standards-electronic-invoicing.md"
@@ -11300,11 +11324,17 @@
   "ef7bc749e7a7d89a1ae3c8a7eccda3eed38b0546": [
     "dev-itpro\\get-started\\whats-new-platform-update-6.md"
   ],
+  "41190ee09b7d1f5c93cf9eb26487949ba660961e": [
+    "dev-itpro\\lifecycle-services\\premier-support.md"
+  ],
   "3d1b99c6a44e1b465e7ab36e0884b7d70bb1f4b7": [
     "dev-itpro\\lifecycle-services\\premier-support.md"
   ],
   "8e6063926956801974267e5104c94e0035173e80": [
     "dev-itpro\\lifecycle-services\\premier-support.md"
+  ],
+  "f902e67323f045481123b299e3afe7982db1c342": [
+    "financials\\cost-accounting\\overhead-calculation.md"
   ],
   "bb02e0756d675726f6c3b9f456b980a7ed695463": [
     "financials\\cost-accounting\\overhead-calculation.md"
@@ -11384,14 +11414,26 @@
   "fac872e2ac85a00cc90e5822145aee503438c863": [
     "dev-itpro\\migration-upgrade\\upgrade-budget-planning.md"
   ],
+  "7529cccfd84e486c2ee31eceebfedb124529df0d": [
+    "dev-itpro\\mobile-apps\\Mobile-app-home-page.md"
+  ],
   "e1a9e0eeb45f011ccb2aa091e68aff92782e1ae7": [
     "dev-itpro\\mobile-apps\\Mobile-app-home-page.md"
+  ],
+  "e660bf9ca105357bac242af9f24d0760d9c169b7": [
+    "dev-itpro\\mobile-apps\\mobile-workspaces-released.md"
   ],
   "17a5dcf0f406380fbc4ff242932516894562fe5d": [
     "dev-itpro\\mobile-apps\\mobile-workspaces-released.md"
   ],
+  "21672d269a58503925e259adeef4d77eb53743d1": [
+    "dev-itpro\\mobile-apps\\publish-mobile-workspace.md"
+  ],
   "c556102274362f90f3f9b4fbe7cc7c021306bcb2": [
     "dev-itpro\\mobile-apps\\publish-mobile-workspace.md"
+  ],
+  "bdd5d88a23a7153abba4ae827f24f91d7cbdc14b": [
+    "dev-itpro\\sysadmin\\faq-platform-monthly-updates.md"
   ],
   "412607607dbb4a380a7f8bad1abffa59a207c65e": [
     "dev-itpro\\sysadmin\\faq-platform-monthly-updates.md"
@@ -11404,5 +11446,16 @@
   ],
   "e3e0be36c045acc3750efbb739d79d81ab937c65": [
     "financials\\project-management\\project-time-entry-mobile-workspace.md"
+  ],
+  "51300798c1727f03e79aea10013900a107328aa3": [
+    "core\\includes\\banner.md",
+    "dev-itpro\\includes\\banner.md",
+    "financials\\includes\\banner.md",
+    "hr\\includes\\banner.md",
+    "retail\\includes\\banner.md",
+    "scm\\includes\\banner.md"
+  ],
+  "a09ffcf854b92b9e1d60651217ba65304313f619": [
+    "dev-itpro\\analytics\\practice-manager-power-bi.md"
   ]
 }
