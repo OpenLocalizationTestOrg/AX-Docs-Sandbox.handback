@@ -214,11 +214,7 @@
       ]
     },
     {
-      "metadata": {
-        "ms.search.region": [
-          "Austria"
-        ]
-      },
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Austria)",
       "priorities": [
         {
           "priority": "basic",
@@ -230,11 +226,7 @@
       ]
     },
     {
-      "metadata": {
-        "ms.search.region": [
-          "Belgium"
-        ]
-      },
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Belgium)",
       "priorities": [
         {
           "priority": "basic",
@@ -247,11 +239,7 @@
       ]
     },
     {
-      "metadata": {
-        "ms.search.region": [
-          "Brazil"
-        ]
-      },
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Brazil)",
       "priorities": [
         {
           "priority": "basic",
@@ -263,91 +251,7 @@
       ]
     },
     {
-      "metadata": {
-        "ms.search.region": [
-          "China (PRC)"
-        ]
-      },
-      "priorities": [
-        {
-          "priority": "basic",
-          "locales": [
-            "zh-cn",
-            "sr-cyrl-rs"
-          ]
-        }
-      ]
-    },
-    {
-      "metadata": {
-        "ms.search.region": [
-          "Czech Republic"
-        ]
-      },
-      "priorities": [
-        {
-          "priority": "basic",
-          "locales": [
-            "cs-cz",
-            "sr-cyrl-rs"
-          ]
-        }
-      ]
-    },
-    {
-      "metadata": {
-        "ms.search.region": [
-          "Denmark"
-        ]
-      },
-      "priorities": [
-        {
-          "priority": "basic",
-          "locales": [
-            "da-dk",
-            "sr-cyrl-rs"
-          ]
-        }
-      ]
-    },
-    {
-      "metadata": {
-        "ms.search.region": [
-          "Estonia"
-        ]
-      },
-      "priorities": [
-        {
-          "priority": "basic",
-          "locales": [
-            "et-ee",
-            "sr-cyrl-rs"
-          ]
-        }
-      ]
-    },
-    {
-      "metadata": {
-        "ms.search.region": [
-          "Finland"
-        ]
-      },
-      "priorities": [
-        {
-          "priority": "basic",
-          "locales": [
-            "fi-fi",
-            "sr-cyrl-rs"
-          ]
-        }
-      ]
-    },
-    {
-      "metadata": {
-        "ms.search.region": [
-          "France"
-        ]
-      },
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Canada)",
       "priorities": [
         {
           "priority": "basic",
@@ -359,11 +263,79 @@
       ]
     },
     {
-      "metadata": {
-        "ms.search.region": [
-          "Germany"
-        ]
-      },
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(\"China (PRC)\")",
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "zh-cn",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(\"Czech Republic\")",
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "cs-cz",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Denmark)",
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "da-dk",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Estonia)",
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "et-ee",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Finland)",
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "fi-fi",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(France)",
+      "priorities": [
+        {
+          "priority": "basic",
+          "locales": [
+            "fr-fr",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Germany)",
       "priorities": [
         {
           "priority": "basic",
@@ -375,11 +347,7 @@
       ]
     },
     {
-      "metadata": {
-        "ms.search.region": [
-          "Hungary"
-        ]
-      },
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Hungary)",
       "priorities": [
         {
           "priority": "basic",
@@ -391,11 +359,7 @@
       ]
     },
     {
-      "metadata": {
-        "ms.search.region": [
-          "Iceland"
-        ]
-      },
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(iceland)",
       "priorities": [
         {
           "priority": "basic",
@@ -407,11 +371,7 @@
       ]
     },
     {
-      "metadata": {
-        "ms.search.region": [
-          "Italy"
-        ]
-      },
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Italy)",
       "priorities": [
         {
           "priority": "basic",
@@ -423,11 +383,7 @@
       ]
     },
     {
-      "metadata": {
-        "ms.search.region": [
-          "Japan"
-        ]
-      },
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Japan)",
       "priorities": [
         {
           "priority": "basic",
@@ -439,11 +395,7 @@
       ]
     },
     {
-      "metadata": {
-        "ms.search.region": [
-          "Latvia"
-        ]
-      },
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Latvia)",
       "priorities": [
         {
           "priority": "basic",
@@ -455,11 +407,7 @@
       ]
     },
     {
-      "metadata": {
-        "ms.search.region": [
-          "Lithuania"
-        ]
-      },
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Lithuania)",
       "priorities": [
         {
           "priority": "basic",
@@ -471,11 +419,7 @@
       ]
     },
     {
-      "metadata": {
-        "ms.search.region": [
-          "Mexico"
-        ]
-      },
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Mexico)",
       "priorities": [
         {
           "priority": "basic",
@@ -487,11 +431,7 @@
       ]
     },
     {
-      "metadata": {
-        "ms.search.region": [
-          "Netherlands"
-        ]
-      },
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Netherlands)",
       "priorities": [
         {
           "priority": "basic",
@@ -503,11 +443,7 @@
       ]
     },
     {
-      "metadata": {
-        "ms.search.region": [
-          "Norway"
-        ]
-      },
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Norway)",
       "priorities": [
         {
           "priority": "basic",
@@ -519,11 +455,7 @@
       ]
     },
     {
-      "metadata": {
-        "ms.search.region": [
-          "Poland"
-        ]
-      },
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Poland)",
       "priorities": [
         {
           "priority": "basic",
@@ -535,11 +467,7 @@
       ]
     },
     {
-      "metadata": {
-        "ms.search.region": [
-          "Russia"
-        ]
-      },
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Russia)",
       "priorities": [
         {
           "priority": "basic",
@@ -551,11 +479,7 @@
       ]
     },
     {
-      "metadata": {
-        "ms.search.region": [
-          "Saudi Arabia"
-        ]
-      },
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(\"Saudi Arabia\")",
       "priorities": [
         {
           "priority": "basic",
@@ -567,11 +491,7 @@
       ]
     },
     {
-      "metadata": {
-        "ms.search.region": [
-          "Spain"
-        ]
-      },
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Spain)",
       "priorities": [
         {
           "priority": "basic",
@@ -583,11 +503,7 @@
       ]
     },
     {
-      "metadata": {
-        "ms.search.region": [
-          "Switzerland"
-        ]
-      },
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Switzerland)",
       "priorities": [
         {
           "priority": "basic",
@@ -601,11 +517,7 @@
       ]
     },
     {
-      "metadata": {
-        "ms.search.region": [
-          "Sweden"
-        ]
-      },
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Sweden)",
       "priorities": [
         {
           "priority": "basic",
@@ -617,11 +529,7 @@
       ]
     },
     {
-      "metadata": {
-        "ms.search.region": [
-          "Thailand"
-        ]
-      },
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Thailand)",
       "priorities": [
         {
           "priority": "basic",
@@ -633,346 +541,12 @@
       ]
     },
     {
-      "metadata": {
-        "ms.search.region": [
-          "Turkey"
-        ]
-      },
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Turkey)",
       "priorities": [
         {
           "priority": "basic",
           "locales": [
             "tr-tr",
-            "sr-cyrl-rs"
-          ]
-        }
-      ]
-    },
-    {
-      "metadata": {
-        "ms.search.region": [
-          "Austria, Germany"
-        ]
-      },
-      "priorities": [
-        {
-          "priority": "basic",
-          "locales": [
-            "de-de",
-            "sr-cyrl-rs"
-          ]
-        }
-      ]
-    },
-    {
-      "metadata": {
-        "ms.search.region": [
-          "Latvia, Lithuania"
-        ]
-      },
-      "priorities": [
-        {
-          "priority": "basic",
-          "locales": [
-            "lt-lt",
-            "lv-lv",
-            "sr-cyrl-rs"
-          ]
-        }
-      ]
-    },
-    {
-      "metadata": {
-        "ms.search.region": [
-          "Belgium, Netherlands, Sweden"
-        ]
-      },
-      "priorities": [
-        {
-          "priority": "basic",
-          "locales": [
-            "nl-nl",
-            "fr-fr",
-            "sv-se",
-            "sr-cyrl-rs"
-          ]
-        }
-      ]
-    },
-    {
-      "metadata": {
-        "ms.search.region": [
-          "Austria, Denmark, Italy, Norway, Spain"
-        ]
-      },
-      "priorities": [
-        {
-          "priority": "basic",
-          "locales": [
-            "de-de",
-            "da-dk",
-            "it-it",
-            "nb-no",
-            "es-es",
-            "sr-cyrl-rs"
-          ]
-        }
-      ]
-    },
-    {
-      "metadata": {
-        "ms.search.region": [
-          "Iceland, Norway",
-          "Austria, Denmark, Norway",
-          "Denmark, France, Germany, Ireland, Netherlands, United Kingdom",
-          "Denmark, France, Germany, Iceland, Ireland, Netherlands, United Kingdom",
-          "Belgium, Denmark, Finland, Norway, Switzerland",
-          "Belgium, Norway, Sweden, Switzerland",
-          "Belgium, France, Germany, Norway, Spain, Sweden, Switzerland",
-          "Austria, Belgium, Finland, Germany, Netherlands, Sweden",
-          "Austria, Belgium, Denmark, Finland, Germany, Ireland, Italy, Netherlands, Spain, Sweden, United Kingdom",
-          "Austria, Belgium, Denmark, Finland, France, Germany, Iceland, Ireland, Italy, Netherlands, Norway, Spain, Sweden, United Kingdom"
-        ]
-      },
-      "priorities": [
-        {
-          "priority": "basic",
-          "locales": [
-            "da-dk",
-            "nl-nl",
-            "fi-fi",
-            "fr-fr",
-            "de-de",
-            "is-is",
-            "it-it",
-            "nb-no",
-            "es-es",
-            "sv-se",
-            "sr-cyrl-rs"
-          ]
-        }
-      ]
-    },
-    {
-      "metadata": {
-        "ms.search.region": [
-          "Czech Republic, Hungary",
-          "Czech Republic, Hungary, Poland"
-        ]
-      },
-      "priorities": [
-        {
-          "priority": "basic",
-          "locales": [
-            "cs-cz",
-            "hu-hu",
-            "pl-pl",
-            "sr-cyrl-rs"
-          ]
-        }
-      ]
-    },
-    {
-      "metadata": {
-        "ms.search.region": [
-          "Estonia, Lithuania"
-        ]
-      },
-      "priorities": [
-        {
-          "priority": "basic",
-          "locales": [
-            "et-ee",
-            "lt-lt",
-            "sr-cyrl-rs"
-          ]
-        }
-      ]
-    },
-    {
-      "metadata": {
-        "ms.search.region": [
-          "Estonia, Hungary, Latvia, Lithuania, Poland",
-          "Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland",
-          "Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia"
-        ]
-      },
-      "priorities": [
-        {
-          "priority": "basic",
-          "locales": [
-            "cs-cz",
-            "et-ee",
-            "hu-hu",
-            "lv-lv",
-            "lt-lt",
-            "pl-pl",
-            "ru-ru",
-            "sr-cyrl-rs"
-          ]
-        }
-      ]
-    },
-    {
-      "metadata": {
-        "ms.search.region": [
-          "Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia, Turkey"
-        ]
-      },
-      "priorities": [
-        {
-          "priority": "basic",
-          "locales": [
-            "cs-cz",
-            "et-ee",
-            "hu-hu",
-            "lv-lv",
-            "lt-lt",
-            "pl-pl",
-            "ru-ru",
-            "tr-tr",
-            "sr-cyrl-rs"
-          ]
-        }
-      ]
-    },
-    {
-      "metadata": {
-        "ms.search.region": [
-          "Austria, Belgium, Czech Republic, Estonia, Finland, Germany, Latvia, Lithuania, Netherlands, Sweden"
-        ]
-      },
-      "priorities": [
-        {
-          "priority": "basic",
-          "locales": [
-            "cs-cz",
-            "nl-nl",
-            "et-ee",
-            "fi-fi",
-            "fr-fr",
-            "de-de",
-            "lv-lv",
-            "lt-lt",
-            "sv-se",
-            "sr-cyrl-rs"
-          ]
-        }
-      ]
-    },
-    {
-      "metadata": {
-        "ms.search.region": [
-          "Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Ireland, Italy, Latvia, Lithuania, Netherlands, Poland, Spain, Sweden, United Kingdom",
-          "Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Iceland, Italy, Latvia, Lithuania, Netherlands, Poland, Spain, Sweden, United Kingdom",
-          "Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Netherlands, Poland, Spain, Sweden, United Kingdom"
-        ]
-      },
-      "priorities": [
-        {
-          "priority": "basic",
-          "locales": [
-            "cs-cz",
-            "da-dk",
-            "nl-nl",
-            "et-ee",
-            "fi-fi",
-            "fr-fr",
-            "de-de",
-            "hu-hu",
-            "is-is",
-            "it-it",
-            "lv-lv",
-            "lt-lt",
-            "es-es",
-            "pl-pl",
-            "sv-se",
-            "sr-cyrl-rs"
-          ]
-        }
-      ]
-    },
-    {
-      "metadata": {
-        "ms.search.region": [
-          "Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Netherlands, Norway, Poland, Russia, Spain, Sweden, Turkey, United Kingdom"
-        ]
-      },
-      "priorities": [
-        {
-          "priority": "basic",
-          "locales": [
-            "cs-cz",
-            "da-dk",
-            "nl-nl",
-            "et-ee",
-            "fi-fi",
-            "fr-fr",
-            "de-de",
-            "hu-hu",
-            "is-is",
-            "it-it",
-            "lv-lv",
-            "lt-lt",
-            "nb-no",
-            "es-es",
-            "pl-pl",
-            "ru-ru",
-            "sv-se",
-            "tr-tr",
-            "sr-cyrl-rs"
-          ]
-        }
-      ]
-    },
-    {
-      "metadata": {
-        "ms.search.region": [
-          "China (PRC), Japan",
-          "China (PRC), Japan, Thailand"
-        ]
-      },
-      "priorities": [
-        {
-          "priority": "basic",
-          "locales": [
-            "ja-jp",
-            "th-th",
-            "zh-cn",
-            "sr-cyrl-rs"
-          ]
-        }
-      ]
-    },
-    {
-      "metadata": {
-        "ms.search.region": [
-          "Mexico, Brazil"
-        ]
-      },
-      "priorities": [
-        {
-          "priority": "basic",
-          "locales": [
-            "es-es",
-            "pt-br",
-            "sr-cyrl-rs"
-          ]
-        }
-      ]
-    },
-    {
-      "metadata": {
-        "ms.search.region": [
-          "Canada, United States",
-          "Canada, USA"
-        ]
-      },
-      "priorities": [
-        {
-          "priority": "basic",
-          "locales": [
-            "fr-fr",
             "sr-cyrl-rs"
           ]
         }
