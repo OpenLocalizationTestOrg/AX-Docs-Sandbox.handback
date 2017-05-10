@@ -46,7 +46,7 @@
         "ms.search.region": [
           "Australia",
           "Ireland",
-           "Malaysia",
+          "Malaysia",
           "Singapore",
           "United Kingdom",
           "United States",
@@ -56,6 +56,44 @@
       "priorities": [
         {
           "priority": "do-not-translate",
+          "locales": [
+            "ar-sa",
+            "zh-cn",
+            "cs-cz",
+            "da-dk",
+            "nl-nl",
+            "et-ee",
+            "fi-fi",
+            "fr-fr",
+            "de-de",
+            "hu-hu",
+            "is-is",
+            "it-it",
+            "ja-jp",
+            "lv-lv",
+            "lt-lt",
+            "nb-no",
+            "pl-pl",
+            "pt-br",
+            "ru-ru",
+            "es-es",
+            "sv-se",
+            "th-th",
+            "tr-tr",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": [
+          "Dynamics 365 for Operations glossary"
+        ]
+      },
+      "priorities": [
+        {
+          "priority": "premium",
           "locales": [
             "ar-sa",
             "zh-cn",
@@ -141,7 +179,7 @@
       "metadata": {
         "ms.topic": [
           "index-page"
-         ]
+        ]
       },
       "priorities": [
         {
@@ -666,6 +704,7 @@
       ]
     }
   ],
+   "forceHandoff": true,
    "includeDependencies":false,
    "autoPush":true,
    "xliffVersion":"1.2",
