@@ -11,6 +11,9 @@
   "364d7e62dfaf54d3710d1888b8d2347dbe1627a2": [
     "core\\breadcrumb\\toc.yml"
   ],
+  "586a62c488efe205654e22e3c1cf1614a4ba3f8a": [
+    "core\\get-started\\action-search.md"
+  ],
   "2ff12088d432d3e8693dfd9662cb0ead82fd0191": [
     "core\\get-started\\action-search.md"
   ],
@@ -1316,6 +1319,9 @@
   "6eb455f0b4dbc8740497d0b4b18cce9665b7047d": [
     "dev-itpro\\data-entities\\develop-composite-data-entities.md"
   ],
+  "ad988282a9d86aa6c278b306f1916318105f6b1e": [
+    "dev-itpro\\data-entities\\develop-entity-for-data-migration.md"
+  ],
   "c46d85b21d47983c1f76dd34e3dbec803b337f1c": [
     "dev-itpro\\data-entities\\develop-entity-for-data-migration.md"
   ],
@@ -2353,6 +2359,9 @@
   ],
   "fc9fc8b69d8a5d9cabc7c46f9a6a3055407476e7": [
     "dev-itpro\\get-started\\help-connect.md"
+  ],
+  "413873bb02fa4b040526ca1fd2e614cfef3f7a07": [
+    "dev-itpro\\get-started\\help-overview.md"
   ],
   "8b69e0cb1abe1a65e21cae987b05ecd2924847ff": [
     "dev-itpro\\get-started\\help-overview.md"
@@ -3707,6 +3716,9 @@
   "6e0bc164aaf86deeb06c058d1d5adee3ab90be40": [
     "dev-itpro\\migration-upgrade\\upgrade-home-page.md"
   ],
+  "fb5d2d7d4c2468f200f2d7421b065d2f7213f3ef": [
+    "dev-itpro\\migration-upgrade\\upgrade-latest-platform-update.md"
+  ],
   "cf966960b9ae9ea03c29dc34c97da53301933de0": [
     "dev-itpro\\migration-upgrade\\upgrade-latest-platform-update.md"
   ],
@@ -3955,6 +3967,9 @@
   ],
   "84b998ba6a3e430077766a0a10cf264b191725b4": [
     "dev-itpro\\migration-upgrade\\versions-update-policy.md"
+  ],
+  "ea5b4cc4a17a147371d18ad9d8ca4c0a47e0ccf4": [
+    "dev-itpro\\TOC.md"
   ],
   "8d54bbc39f6408001eacc42476a392fef54e0c1b": [
     "dev-itpro\\TOC.md"
@@ -5903,6 +5918,9 @@
   "e4c07a6afb90535c57f372d5b850919b5b34aaa4": [
     "financials\\cash-bank-management\\set-up-bank-reconciliation-matching-rules.md"
   ],
+  "fdb1267ed8a3a6c2eacfa38ee682c028f1dedd04": [
+    "financials\\cash-bank-management\\set-up-centralized-payments.md"
+  ],
   "474453e7f33526bc7bebc60ef68f560d489a1841": [
     "financials\\cash-bank-management\\set-up-centralized-payments.md"
   ],
@@ -6703,105 +6721,6 @@
   ],
   "1d291ef0cd6a26bf3c455f1b6172257bfd57d7fa": [
     "financials\\localizations\\emea-gbr-cis-construction-industry-scheme.md"
-  ],
-  "8a0c6ee25b7130dcee2cc8eada9e83823db21faf": [
-    "financials\\localizations\\emea-create-post-periodic-journals.md"
-  ],
-  "750ea5f6a4d0de9d25a0e0a79e73ee8669bb3f0a": [
-    "financials\\localizations\\emea-create-post-periodic-journals.md"
-  ],
-  "58ab77aea9e66834c516806e5f0cfe3069c94ff3": [
-    "financials\\localizations\\emea-create-post-periodic-journals.md"
-  ],
-  "f1f0947e2c9961341ca174e6f6c3172518031f53": [
-    "financials\\localizations\\emea-cze-depreciation-suspension-holidays.md"
-  ],
-  "d4e6b2682d1e4a4ce4ab70d3230a1ac0e78aabe1": [
-    "financials\\localizations\\emea-cze-depreciation-suspension-holidays.md"
-  ],
-  "1c987c8f23006e28c18908bbad66688113dcfac4": [
-    "financials\\localizations\\emea-cze-depreciation-suspension-holidays.md"
-  ],
-  "4beb8a4edf7fd6d3a2b98def07812e05397101b0": [
-    "financials\\localizations\\emea-cze-half-depreciation-fixed-asset-disposal.md"
-  ],
-  "7d89c3cb7ca8991fa932a354b6ab95c6ca6d450a": [
-    "financials\\localizations\\emea-cze-half-depreciation-fixed-asset-disposal.md"
-  ],
-  "40bd67a26f006b1e948cb1a82c9299d9a8fb9416": [
-    "financials\\localizations\\emea-cze-half-depreciation-fixed-asset-disposal.md"
-  ],
-  "b92a2bd912421c28b39717ea42ebbbb67c261977": [
-    "financials\\localizations\\emea-amount-printing-forms.md"
-  ],
-  "040690aa4cd309eca16998e98ba9c2dffa79afa2": [
-    "financials\\localizations\\emea-amount-printing-forms.md"
-  ],
-  "870341b81e49c9fc677052e9ef87a580892f486f": [
-    "financials\\localizations\\emea-amount-printing-forms.md"
-  ],
-  "bcef652aca243eedde09592318d0e41204c0777f": [
-    "financials\\localizations\\emea-edit-invoice-id-sales-orders.md"
-  ],
-  "009a987f2266c045b5666230cdd84774c6355944": [
-    "financials\\localizations\\emea-edit-invoice-id-sales-orders.md"
-  ],
-  "2fd92493c4e5b92efb9085a37699c7cb8fa13c1b": [
-    "financials\\localizations\\emea-edit-invoice-id-sales-orders.md"
-  ],
-  "a1d7adbbdb1f7f8cb715effdb2a2861200cc423c": [
-    "financials\\localizations\\emea-petty-cash.md"
-  ],
-  "2954f6952a21241ba18fddfc9bd76b8975c63d9e": [
-    "financials\\localizations\\emea-petty-cash.md"
-  ],
-  "e843abff91f74ff8c2c577f499fa829821fc56ee": [
-    "financials\\localizations\\emea-petty-cash.md"
-  ],
-  "b8a9f12ea3c9bcfb1983b60df48816f7a234cdd1": [
-    "financials\\localizations\\emea-pre-acquisition-acquisition-fixed-asset.md"
-  ],
-  "781828572edaf55382ce1795738bba35756899ca": [
-    "financials\\localizations\\emea-pre-acquisition-acquisition-fixed-asset.md"
-  ],
-  "c51f041a8287b4623bb8f49bb016c08f7de5b9ae": [
-    "financials\\localizations\\emea-pre-acquisition-acquisition-fixed-asset.md"
-  ],
-  "de97f68069f10d5fa14456e49ddd9ff3ed3d5e08": [
-    "financials\\localizations\\emea-set-up-signers-for-printing-forms.md"
-  ],
-  "6d722bf70a7dfd3b451edfeb25f329ab4053bd88": [
-    "financials\\localizations\\emea-set-up-signers-for-printing-forms.md"
-  ],
-  "45d2facde1e5502f4a5863863554a486916c26cd": [
-    "financials\\localizations\\emea-set-up-signers-for-printing-forms.md"
-  ],
-  "6984581a09ce83475a8960554112c0fb4900aa17": [
-    "financials\\localizations\\emea-vat-register-transactions.md"
-  ],
-  "919f1c008f79faa93b5a929e7b81fd2514efa240": [
-    "financials\\localizations\\emea-vat-register-transactions.md"
-  ],
-  "57fbdac09170f1383bcb08ba12593f02ad6aa14c": [
-    "financials\\localizations\\emea-vat-register-transactions.md"
-  ],
-  "3b8a13205f0a001cc911e1475139f34f5b51af8c": [
-    "financials\\localizations\\emea-intrastat.md"
-  ],
-  "06d26b31d274b46557777e1fd6097af57c0fe3ec": [
-    "financials\\localizations\\emea-intrastat.md"
-  ],
-  "e7684508aee2ce93ec51b2da9b2d89368b6ca303": [
-    "financials\\localizations\\emea-intrastat.md"
-  ],
-  "f1e572ae423a05337117bcd5ea3ac3e12bd0d42b": [
-    "financials\\localizations\\emea-invoice-issue-deadline.md"
-  ],
-  "ab1f390254d4f084c09b9c36580e672ac96af9b8": [
-    "financials\\localizations\\emea-invoice-issue-deadline.md"
-  ],
-  "6121be0dd02659e4e8466b0c1381678be64fefc2": [
-    "financials\\localizations\\emea-invoice-issue-deadline.md"
   ],
   "0a034a282f0406f36443d93d753c5a55a65eac0b": [
     "financials\\localizations\\emea-fra-mandats-de-paiement.md"
@@ -9419,42 +9338,6 @@
   "ca7cfda8d4b1e2349b6cceeacef6035c467c4036": [
     "financials\\localizations\\apac-aus-business-activity-statement.md"
   ],
-  "2d37df898bba5f2624ba27144fc9cac0e7ca5c89": [
-    "financials\\localizations\\emea-cze-depreciation-rounding.md"
-  ],
-  "3755bb0e8519a8e304c429254b80882d138a3f28": [
-    "financials\\localizations\\emea-cze-depreciation-rounding.md"
-  ],
-  "26840ba4856b6e137acdf0d1e90d7a76374a3439": [
-    "financials\\localizations\\emea-cze-depreciation-rounding.md"
-  ],
-  "e9db56910f93599dc1f5f2951ce36d6e76fe0637": [
-    "financials\\localizations\\emea-entry-certificates.md"
-  ],
-  "d64e399d0b7ad9d278edff7cbe60b2293efcbaef": [
-    "financials\\localizations\\emea-entry-certificates.md"
-  ],
-  "a951b1f0159ef61704fb772d81ab6a9bc1c80589": [
-    "financials\\localizations\\emea-entry-certificates.md"
-  ],
-  "9308158482b2eda0bd27cee07697b4184fc62253": [
-    "financials\\localizations\\emea-eu-sales-list.md"
-  ],
-  "b9344144ce5e2cd1c702834364f10111c8ba3fa1": [
-    "financials\\localizations\\emea-eu-sales-list.md"
-  ],
-  "1270c04262f66a38863a1938fa32195bfe0d2bbd": [
-    "financials\\localizations\\emea-eu-sales-list.md"
-  ],
-  "92000c1f2740f025ed00c5922b0a28eceec54910": [
-    "financials\\localizations\\emea-transactions-settlement-form.md"
-  ],
-  "012019ccf673b3ca7be6421460bb647ca1d97167": [
-    "financials\\localizations\\emea-transactions-settlement-form.md"
-  ],
-  "00c43ca8f4c742ea36a337492dc01a994c9966af": [
-    "financials\\localizations\\emea-transactions-settlement-form.md"
-  ],
   "4dc3457160a7ab2656517301a473b6f79539d237": [
     "financials\\localizations\\emea-fra-vendor-invoice-payment-holds-public-sector.md"
   ],
@@ -10598,42 +10481,6 @@
   "3d87445f501221cc6e366a08b4a225f0d6012620": [
     "financials\\localizations\\apac-chn-import-golden-tax-data-entity.md"
   ],
-  "0f34bfed64507944cadf5b02e3c7222f17803f92": [
-    "financials\\localizations\\emea-advance-holders.md"
-  ],
-  "a41a3875b233ad4fc2bc33fc19589dbdfd543cc2": [
-    "financials\\localizations\\emea-advance-holders.md"
-  ],
-  "8cfe98e3859778e4fdc61f22b437cb1b4d004549": [
-    "financials\\localizations\\emea-advance-holders.md"
-  ],
-  "422186b595f4dd055320a3f13758e8f1807bf833": [
-    "financials\\localizations\\emea-advance-holders-transactions.md"
-  ],
-  "3993401894c17584577662c800daa57ce668433e": [
-    "financials\\localizations\\emea-advance-holders-transactions.md"
-  ],
-  "c819fbbb4a68dd5b8b192416fedb34827bbf3823": [
-    "financials\\localizations\\emea-advance-holders-transactions.md"
-  ],
-  "c261dabfb7828c647c59bf0370b9e8a006a8837a": [
-    "financials\\localizations\\emea-cze-fixed-assets-depreciation.md"
-  ],
-  "8bce79d7aa913ffc99452389db3879d073076d45": [
-    "financials\\localizations\\emea-cze-fixed-assets-depreciation.md"
-  ],
-  "2ffe6e8209048d3e72a3c958021cb9daf1e7acc0": [
-    "financials\\localizations\\emea-cze-fixed-assets-depreciation.md"
-  ],
-  "125091af63fc857408d8f7e00bd91311e337ec89": [
-    "financials\\localizations\\emea-cze-vat-statement-details.md"
-  ],
-  "86916a1799702a829e7a4b1db18bfe2357d5bce3": [
-    "financials\\localizations\\emea-cze-vat-statement-details.md"
-  ],
-  "a8426fffb3f2cbc9373c484bb4072904c676b8a8": [
-    "financials\\localizations\\emea-cze-vat-statement-details.md"
-  ],
   "f41640dbede6ee371c6742c78cc948c138abb5f8": [
     "financials\\localizations\\emea-fra-commitments-public-sector.md"
   ],
@@ -10672,24 +10519,6 @@
   ],
   "32cd09975861083b8940368ed53ae16e89bcd748": [
     "financials\\localizations\\emea-registration-ids.md"
-  ],
-  "eeee93f2a48205e1b567c3f4421febe0dab6843a": [
-    "financials\\localizations\\emea-set-up-report-inventory-journal-names.md"
-  ],
-  "62455708e95c22cd6aeb2d33a500b35bee3a88ca": [
-    "financials\\localizations\\emea-set-up-report-inventory-journal-names.md"
-  ],
-  "eed3398651612743958722814ec5594ec34e4e5e": [
-    "financials\\localizations\\emea-set-up-report-inventory-journal-names.md"
-  ],
-  "190977af579a025b6f46646dfab153b1879d3e76": [
-    "financials\\localizations\\emea-vat-reporting.md"
-  ],
-  "7b9f02b456a30eae01dcf4c4bc549d61df75f7ce": [
-    "financials\\localizations\\emea-vat-reporting.md"
-  ],
-  "84a639b25c64821e00ca4397f42f69298953e599": [
-    "financials\\localizations\\emea-vat-reporting.md"
   ],
   "ac8d4656047a03fb61edc4d827f20635008c50a5": [
     "hr\\localizations\\noam-usa-benefit-accrual-plan-tasks.md"
@@ -11492,24 +11321,6 @@
   "62e150d6ac87a401e82d131bf0fe253e3c6e9763": [
     "financials\\cost-accounting\\overhead-calculation.md"
   ],
-  "e794425b42266be49ff059d4bf539cc18fc26496": [
-    "financials\\localizations\\emea-advance-invoice.md"
-  ],
-  "ed4d61da368f2491796938ccbfea7154201ab933": [
-    "financials\\localizations\\emea-advance-invoice.md"
-  ],
-  "6a57090c1f9ce27baad87a6dc81404a8db9e36d9": [
-    "financials\\localizations\\emea-cze-credit-note-cash-discount.md"
-  ],
-  "80997565ade6d18f7f76caf81199041992570776": [
-    "financials\\localizations\\emea-cze-credit-note-cash-discount.md"
-  ],
-  "5becb8bcc5aa619edfc0ad2fdcd31a483d003f0a": [
-    "financials\\localizations\\emea-exchange-rate-adjustments.md"
-  ],
-  "1f3ee68a311d2043c5b914eed5c36b52373adcf3": [
-    "financials\\localizations\\emea-exchange-rate-adjustments.md"
-  ],
   "1f849e05a6d68cbfb95849ad6e8b34c599716c50": [
     "scm\\cost-management\\amortize-constant-costs-manufactured-item.md"
   ],
@@ -11582,6 +11393,9 @@
   "fac872e2ac85a00cc90e5822145aee503438c863": [
     "dev-itpro\\migration-upgrade\\upgrade-budget-planning.md"
   ],
+  "39ef3f4f2820ef75272066138f81b17db7f55e92": [
+    "dev-itpro\\mobile-apps\\Mobile-app-home-page.md"
+  ],
   "7529cccfd84e486c2ee31eceebfedb124529df0d": [
     "dev-itpro\\mobile-apps\\Mobile-app-home-page.md"
   ],
@@ -11593,6 +11407,9 @@
   ],
   "17a5dcf0f406380fbc4ff242932516894562fe5d": [
     "dev-itpro\\mobile-apps\\mobile-workspaces-released.md"
+  ],
+  "f2618d40ce225a9382f9fa8097d8d4925996b04d": [
+    "dev-itpro\\mobile-apps\\publish-mobile-workspace.md"
   ],
   "21672d269a58503925e259adeef4d77eb53743d1": [
     "dev-itpro\\mobile-apps\\publish-mobile-workspace.md"
@@ -11626,7 +11443,10 @@
   "a09ffcf854b92b9e1d60651217ba65304313f619": [
     "dev-itpro\\analytics\\practice-manager-power-bi.md"
   ],
-  "367528bd8b2e8f66b982d1b8bb06a71b2831eb73": [
-    "financials\\localizations\\emea-vat-exchange-rate.md"
+  "ca9feb741f061757da0c4ff81fd73b6a2f2034df": [
+    "dev-itpro\\financial\\read-only-entity-financial.md"
+  ],
+  "364fb92d442e5071fde5f4a22d7231a401e8d85e": [
+    "dev-itpro\\lifecycle-services\\planned-maintenance-window-faq.md"
   ]
 }
