@@ -11,6 +11,9 @@
   "364d7e62dfaf54d3710d1888b8d2347dbe1627a2": [
     "core\\breadcrumb\\toc.yml"
   ],
+  "586a62c488efe205654e22e3c1cf1614a4ba3f8a": [
+    "core\\get-started\\action-search.md"
+  ],
   "2ff12088d432d3e8693dfd9662cb0ead82fd0191": [
     "core\\get-started\\action-search.md"
   ],
@@ -1316,6 +1319,9 @@
   "6eb455f0b4dbc8740497d0b4b18cce9665b7047d": [
     "dev-itpro\\data-entities\\develop-composite-data-entities.md"
   ],
+  "ad988282a9d86aa6c278b306f1916318105f6b1e": [
+    "dev-itpro\\data-entities\\develop-entity-for-data-migration.md"
+  ],
   "c46d85b21d47983c1f76dd34e3dbec803b337f1c": [
     "dev-itpro\\data-entities\\develop-entity-for-data-migration.md"
   ],
@@ -2353,6 +2359,9 @@
   ],
   "fc9fc8b69d8a5d9cabc7c46f9a6a3055407476e7": [
     "dev-itpro\\get-started\\help-connect.md"
+  ],
+  "413873bb02fa4b040526ca1fd2e614cfef3f7a07": [
+    "dev-itpro\\get-started\\help-overview.md"
   ],
   "8b69e0cb1abe1a65e21cae987b05ecd2924847ff": [
     "dev-itpro\\get-started\\help-overview.md"
@@ -3707,6 +3716,9 @@
   "6e0bc164aaf86deeb06c058d1d5adee3ab90be40": [
     "dev-itpro\\migration-upgrade\\upgrade-home-page.md"
   ],
+  "fb5d2d7d4c2468f200f2d7421b065d2f7213f3ef": [
+    "dev-itpro\\migration-upgrade\\upgrade-latest-platform-update.md"
+  ],
   "cf966960b9ae9ea03c29dc34c97da53301933de0": [
     "dev-itpro\\migration-upgrade\\upgrade-latest-platform-update.md"
   ],
@@ -3955,6 +3967,9 @@
   ],
   "84b998ba6a3e430077766a0a10cf264b191725b4": [
     "dev-itpro\\migration-upgrade\\versions-update-policy.md"
+  ],
+  "ea5b4cc4a17a147371d18ad9d8ca4c0a47e0ccf4": [
+    "dev-itpro\\TOC.md"
   ],
   "8d54bbc39f6408001eacc42476a392fef54e0c1b": [
     "dev-itpro\\TOC.md"
@@ -5902,6 +5917,9 @@
   ],
   "e4c07a6afb90535c57f372d5b850919b5b34aaa4": [
     "financials\\cash-bank-management\\set-up-bank-reconciliation-matching-rules.md"
+  ],
+  "fdb1267ed8a3a6c2eacfa38ee682c028f1dedd04": [
+    "financials\\cash-bank-management\\set-up-centralized-payments.md"
   ],
   "474453e7f33526bc7bebc60ef68f560d489a1841": [
     "financials\\cash-bank-management\\set-up-centralized-payments.md"
@@ -11378,6 +11396,9 @@
   "fac872e2ac85a00cc90e5822145aee503438c863": [
     "dev-itpro\\migration-upgrade\\upgrade-budget-planning.md"
   ],
+  "39ef3f4f2820ef75272066138f81b17db7f55e92": [
+    "dev-itpro\\mobile-apps\\Mobile-app-home-page.md"
+  ],
   "7529cccfd84e486c2ee31eceebfedb124529df0d": [
     "dev-itpro\\mobile-apps\\Mobile-app-home-page.md"
   ],
@@ -11389,6 +11410,9 @@
   ],
   "17a5dcf0f406380fbc4ff242932516894562fe5d": [
     "dev-itpro\\mobile-apps\\mobile-workspaces-released.md"
+  ],
+  "f2618d40ce225a9382f9fa8097d8d4925996b04d": [
+    "dev-itpro\\mobile-apps\\publish-mobile-workspace.md"
   ],
   "21672d269a58503925e259adeef4d77eb53743d1": [
     "dev-itpro\\mobile-apps\\publish-mobile-workspace.md"
@@ -11421,5 +11445,11 @@
   ],
   "a09ffcf854b92b9e1d60651217ba65304313f619": [
     "dev-itpro\\analytics\\practice-manager-power-bi.md"
+  ],
+  "ca9feb741f061757da0c4ff81fd73b6a2f2034df": [
+    "dev-itpro\\financial\\read-only-entity-financial.md"
+  ],
+  "364fb92d442e5071fde5f4a22d7231a401e8d85e": [
+    "dev-itpro\\lifecycle-services\\planned-maintenance-window-faq.md"
   ]
 }
