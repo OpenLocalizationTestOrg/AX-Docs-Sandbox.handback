@@ -11,6 +11,9 @@
   "364d7e62dfaf54d3710d1888b8d2347dbe1627a2": [
     "core\\breadcrumb\\toc.yml"
   ],
+  "586a62c488efe205654e22e3c1cf1614a4ba3f8a": [
+    "core\\get-started\\action-search.md"
+  ],
   "2ff12088d432d3e8693dfd9662cb0ead82fd0191": [
     "core\\get-started\\action-search.md"
   ],
@@ -1316,6 +1319,9 @@
   "6eb455f0b4dbc8740497d0b4b18cce9665b7047d": [
     "dev-itpro\\data-entities\\develop-composite-data-entities.md"
   ],
+  "ad988282a9d86aa6c278b306f1916318105f6b1e": [
+    "dev-itpro\\data-entities\\develop-entity-for-data-migration.md"
+  ],
   "c46d85b21d47983c1f76dd34e3dbec803b337f1c": [
     "dev-itpro\\data-entities\\develop-entity-for-data-migration.md"
   ],
@@ -2353,6 +2359,9 @@
   ],
   "fc9fc8b69d8a5d9cabc7c46f9a6a3055407476e7": [
     "dev-itpro\\get-started\\help-connect.md"
+  ],
+  "413873bb02fa4b040526ca1fd2e614cfef3f7a07": [
+    "dev-itpro\\get-started\\help-overview.md"
   ],
   "8b69e0cb1abe1a65e21cae987b05ecd2924847ff": [
     "dev-itpro\\get-started\\help-overview.md"
@@ -3707,6 +3716,9 @@
   "6e0bc164aaf86deeb06c058d1d5adee3ab90be40": [
     "dev-itpro\\migration-upgrade\\upgrade-home-page.md"
   ],
+  "fb5d2d7d4c2468f200f2d7421b065d2f7213f3ef": [
+    "dev-itpro\\migration-upgrade\\upgrade-latest-platform-update.md"
+  ],
   "cf966960b9ae9ea03c29dc34c97da53301933de0": [
     "dev-itpro\\migration-upgrade\\upgrade-latest-platform-update.md"
   ],
@@ -3955,6 +3967,9 @@
   ],
   "84b998ba6a3e430077766a0a10cf264b191725b4": [
     "dev-itpro\\migration-upgrade\\versions-update-policy.md"
+  ],
+  "ea5b4cc4a17a147371d18ad9d8ca4c0a47e0ccf4": [
+    "dev-itpro\\TOC.md"
   ],
   "8d54bbc39f6408001eacc42476a392fef54e0c1b": [
     "dev-itpro\\TOC.md"
@@ -5903,6 +5918,9 @@
   "e4c07a6afb90535c57f372d5b850919b5b34aaa4": [
     "financials\\cash-bank-management\\set-up-bank-reconciliation-matching-rules.md"
   ],
+  "fdb1267ed8a3a6c2eacfa38ee682c028f1dedd04": [
+    "financials\\cash-bank-management\\set-up-centralized-payments.md"
+  ],
   "474453e7f33526bc7bebc60ef68f560d489a1841": [
     "financials\\cash-bank-management\\set-up-centralized-payments.md"
   ],
@@ -6698,15 +6716,6 @@
   "d1161c4906923af4c537f81594e0ea3ffec88e3a": [
     "financials\\localizations\\apac-aus-method-of-payment-pay-vendors-banks.md"
   ],
-  "3c5f43cfcc0e2d32817393af975dbfb179ca195a": [
-    "financials\\localizations\\emea-esp-cash-discount-applied-invoice.md"
-  ],
-  "45a7478862f23e2c192d50ecb6334c4a15619e59": [
-    "financials\\localizations\\emea-esp-cash-discount-applied-invoice.md"
-  ],
-  "ecb67ec02962678aee90a8536fd33a36d6093f68": [
-    "financials\\localizations\\emea-esp-cash-discount-applied-invoice.md"
-  ],
   "6e409e1a4bbab050a58263b220735edc6227fa8a": [
     "financials\\localizations\\emea-gbr-cis-construction-industry-scheme.md"
   ],
@@ -6716,87 +6725,6 @@
   "1d291ef0cd6a26bf3c455f1b6172257bfd57d7fa": [
     "financials\\localizations\\emea-gbr-cis-construction-industry-scheme.md"
   ],
-  "9a23041c0dfed312c46479961431f9e5a2e248a5": [
-    "financials\\localizations\\emea-esp-fiscal-data-invoice-account.md"
-  ],
-  "9182212520864a0716682584c4c8873d2543c593": [
-    "financials\\localizations\\emea-esp-fiscal-data-invoice-account.md"
-  ],
-  "04096f601355f28d81c7c7dcaa341e0325addfcf": [
-    "financials\\localizations\\emea-esp-fiscal-data-invoice-account.md"
-  ],
-  "b7b6c161a66168d5df57057dd7cd0c86dc466c64": [
-    "financials\\localizations\\emea-esp-fixed-asset-group-revaluation.md"
-  ],
-  "037779d159e17449e1da7c23e1df72f4e6257dc0": [
-    "financials\\localizations\\emea-esp-fixed-asset-group-revaluation.md"
-  ],
-  "982bbfe80435c3870adb4b1d9f1f4c0d46f2611d": [
-    "financials\\localizations\\emea-esp-fixed-asset-group-revaluation.md"
-  ],
-  "a383b09c3dbc377c51406cf64dc0f7e121a45b2a": [
-    "financials\\localizations\\emea-esp-no-one-time-customer-for-project-contracts.md"
-  ],
-  "7323d917fa54bfbf306f95aaf89167d7e2905db3": [
-    "financials\\localizations\\emea-esp-no-one-time-customer-for-project-contracts.md"
-  ],
-  "06218c254faec6a63a3f6c9ee200cf32cd817e79": [
-    "financials\\localizations\\emea-esp-no-one-time-customer-for-project-contracts.md"
-  ],
-  "8a9b55172df45d6676806dc0deecb1d0dcddea0f": [
-    "financials\\localizations\\emea-esp-sales-purchase-cycle.md"
-  ],
-  "133c89e4aa6b0b4be4896f5ea53eb58cc7db7abf": [
-    "financials\\localizations\\emea-esp-sales-purchase-cycle.md"
-  ],
-  "d48fd0cb75e384969b4e99593ab87476cda979b4": [
-    "financials\\localizations\\emea-esp-sales-purchase-cycle.md"
-  ],
-  "125b17cdba2fca3f255189df5d4529ad43d5235e": [
-    "financials\\localizations\\emea-esp-bill-of-exchange-options.md"
-  ],
-  "525354d9873183f0ca3bb879bee6e81dbd47b995": [
-    "financials\\localizations\\emea-esp-bill-of-exchange-options.md"
-  ],
-  "fb4c2f5d4b0f2b952fadc2163b2250c0fd0b9e5d": [
-    "financials\\localizations\\emea-esp-bill-of-exchange-options.md"
-  ],
-  "5cb67f3352b1adc41aaae191585d80a128a64c31": [
-    "financials\\localizations\\emea-esp-promissory-note-options.md"
-  ],
-  "d94b6f3ab2ec2232ab960ad4e5e1979452abb8b2": [
-    "financials\\localizations\\emea-esp-promissory-note-options.md"
-  ],
-  "82baf809cf691e7a3a7a9e51547a0c2ab9c9f843": [
-    "financials\\localizations\\emea-esp-promissory-note-options.md"
-  ],
-  "53b03f70ea10a340599ef73f12a9a1aa67bfcac4": [
-    "financials\\localizations\\emea-eur-payment-slip-report-giro.md"
-  ],
-  "be1dd4c88f1ab6b4b992556360dcd5d16dca0b57": [
-    "financials\\localizations\\emea-eur-payment-slip-report-giro.md"
-  ],
-  "c795466753ca1515790b7961b989aac6e7d63c2c": [
-    "financials\\localizations\\emea-eur-payment-slip-report-giro.md"
-  ],
-  "3b8a13205f0a001cc911e1475139f34f5b51af8c": [
-    "financials\\localizations\\emea-intrastat.md"
-  ],
-  "06d26b31d274b46557777e1fd6097af57c0fe3ec": [
-    "financials\\localizations\\emea-intrastat.md"
-  ],
-  "e7684508aee2ce93ec51b2da9b2d89368b6ca303": [
-    "financials\\localizations\\emea-intrastat.md"
-  ],
-  "f1e572ae423a05337117bcd5ea3ac3e12bd0d42b": [
-    "financials\\localizations\\emea-invoice-issue-deadline.md"
-  ],
-  "ab1f390254d4f084c09b9c36580e672ac96af9b8": [
-    "financials\\localizations\\emea-invoice-issue-deadline.md"
-  ],
-  "6121be0dd02659e4e8466b0c1381678be64fefc2": [
-    "financials\\localizations\\emea-invoice-issue-deadline.md"
-  ],
   "0a034a282f0406f36443d93d753c5a55a65eac0b": [
     "financials\\localizations\\emea-fra-mandats-de-paiement.md"
   ],
@@ -6805,15 +6733,6 @@
   ],
   "f51eb98479dd48ca87ac40c4f2a9ec7a288228b9": [
     "financials\\localizations\\emea-fra-mandats-de-paiement.md"
-  ],
-  "0a65bf228e69603b91d308aaf026c226bcae4a77": [
-    "financials\\localizations\\emea-esp-opening-sheets-spain.md"
-  ],
-  "7989b242abdf2f3ac56c97a53d27f05303dbc71b": [
-    "financials\\localizations\\emea-esp-opening-sheets-spain.md"
-  ],
-  "aeeda64ce560d0508d1bf5f2f626d576201f0d73": [
-    "financials\\localizations\\emea-esp-opening-sheets-spain.md"
   ],
   "7c3be207f3b17934dc883fbec0a9d6a2f58bfd93": [
     "financials\\localizations\\emea-fra-procurement-sourcing-public-sector.md"
@@ -6832,24 +6751,6 @@
   ],
   "17896328b0ba056650da7f882cc2c5a3334d5100": [
     "financials\\localizations\\emea-fra-titres-de-recette-public-sector.md"
-  ],
-  "63ec3ad034f22bf60788c9dc0f6201060df17e1b": [
-    "financials\\localizations\\latam-mex-diot-declaration-statement.md"
-  ],
-  "2605448fd48392a32c3967585f054e88f5405963": [
-    "financials\\localizations\\latam-mex-diot-declaration-statement.md"
-  ],
-  "c796eb6c14ac9fb7f53327e1396736108e53cbad": [
-    "financials\\localizations\\latam-mex-diot-declaration-statement.md"
-  ],
-  "dd580c4c7625d94a79690ba172d9d7000141f33c": [
-    "financials\\localizations\\latam-mex-isr-declaration-report-supporting-processes.md"
-  ],
-  "36d919505e7daefee5e33e047226608ae406e487": [
-    "financials\\localizations\\latam-mex-isr-declaration-report-supporting-processes.md"
-  ],
-  "e6a2946da63e2a32aaeccd0071452248f8922fff": [
-    "financials\\localizations\\latam-mex-isr-declaration-report-supporting-processes.md"
   ],
   "a0e0c67e013115fb299513560324fe622bf7345f": [
     "financials\\localizations\\noam-usa-form-1099-public-sector.md"
@@ -9440,24 +9341,6 @@
   "ca7cfda8d4b1e2349b6cceeacef6035c467c4036": [
     "financials\\localizations\\apac-aus-business-activity-statement.md"
   ],
-  "e9db56910f93599dc1f5f2951ce36d6e76fe0637": [
-    "financials\\localizations\\emea-entry-certificates.md"
-  ],
-  "d64e399d0b7ad9d278edff7cbe60b2293efcbaef": [
-    "financials\\localizations\\emea-entry-certificates.md"
-  ],
-  "a951b1f0159ef61704fb772d81ab6a9bc1c80589": [
-    "financials\\localizations\\emea-entry-certificates.md"
-  ],
-  "9308158482b2eda0bd27cee07697b4184fc62253": [
-    "financials\\localizations\\emea-eu-sales-list.md"
-  ],
-  "b9344144ce5e2cd1c702834364f10111c8ba3fa1": [
-    "financials\\localizations\\emea-eu-sales-list.md"
-  ],
-  "1270c04262f66a38863a1938fa32195bfe0d2bbd": [
-    "financials\\localizations\\emea-eu-sales-list.md"
-  ],
   "4dc3457160a7ab2656517301a473b6f79539d237": [
     "financials\\localizations\\emea-fra-vendor-invoice-payment-holds-public-sector.md"
   ],
@@ -9466,36 +9349,6 @@
   ],
   "834db5eba21908589ab72e40cfc82bc4cc7cc0a3": [
     "financials\\localizations\\emea-fra-vendor-invoice-payment-holds-public-sector.md"
-  ],
-  "c69eb79ca3d43a18cd6bbca2555d782d94875f8f": [
-    "financials\\localizations\\latam-mex-adjustment-inflation-declaration-report.md"
-  ],
-  "eb24b5eb33fca52805d4aa4bc1d28fc14b0dd64a": [
-    "financials\\localizations\\latam-mex-adjustment-inflation-declaration-report.md"
-  ],
-  "1adc7e82a5a0970c51e7e2cffeb177f977e12a7c": [
-    "financials\\localizations\\latam-mex-adjustment-inflation-declaration-report.md"
-  ],
-  "607b4ca8f7c477b38abb791d1817a846734b0e18": [
-    "financials\\localizations\\latam-mex-CFDI-electronic-invoices.md"
-  ],
-  "6c470a6b7efcbef8c2666996cdd6c71302d1c081": [
-    "financials\\localizations\\latam-mex-CFDI-electronic-invoices.md"
-  ],
-  "06dd35df1db20bbd4af35f8e4d4ca3d552cd76d1": [
-    "financials\\localizations\\latam-mex-CFDI-electronic-invoices.md"
-  ],
-  "d8b556ba651364e60aad734bffb3b98ebab112ea": [
-    "financials\\localizations\\latam-mex-CFDI-electronic-invoices.md"
-  ],
-  "61bb5da3b778408978b12749aec87901d98f8fcb": [
-    "financials\\localizations\\latam-mex-electronic-ledger-accounting-statements.md"
-  ],
-  "bb15b8137372f59d5c7bb3cd34ca92b6ff3f1cc7": [
-    "financials\\localizations\\latam-mex-electronic-ledger-accounting-statements.md"
-  ],
-  "2e5090c11bc22d01516175152a115d3e74b74240": [
-    "financials\\localizations\\latam-mex-electronic-ledger-accounting-statements.md"
   ],
   "6a9e17971746ee95eef1c0a182946f39d2d71015": [
     "financials\\localizations\\noam-usa-year-end-1099-reporting.md"
@@ -10631,15 +10484,6 @@
   "3d87445f501221cc6e366a08b4a225f0d6012620": [
     "financials\\localizations\\apac-chn-import-golden-tax-data-entity.md"
   ],
-  "74f0d63b0a5a88eec425f28bc6a7a59692e28d83": [
-    "financials\\localizations\\emea-bank-reconciliation.md"
-  ],
-  "313e87a5ef08eca6ef0c116a5c9674739277d075": [
-    "financials\\localizations\\emea-bank-reconciliation.md"
-  ],
-  "22d93d7b3618d4f5931c6a7e39d681173734b0b9": [
-    "financials\\localizations\\emea-bank-reconciliation.md"
-  ],
   "f41640dbede6ee371c6742c78cc948c138abb5f8": [
     "financials\\localizations\\emea-fra-commitments-public-sector.md"
   ],
@@ -10678,15 +10522,6 @@
   ],
   "32cd09975861083b8940368ed53ae16e89bcd748": [
     "financials\\localizations\\emea-registration-ids.md"
-  ],
-  "70a6d3ff3c998d59176a700c926dff2ce7222302": [
-    "financials\\localizations\\emea-select-file-formats-for-the-method-of-payments.md"
-  ],
-  "99b13a562f4053dac668d24913970cba1074aca8": [
-    "financials\\localizations\\emea-select-file-formats-for-the-method-of-payments.md"
-  ],
-  "54af22f1f2ec779bf947ae584a3ae09c20e6a364": [
-    "financials\\localizations\\emea-select-file-formats-for-the-method-of-payments.md"
   ],
   "ac8d4656047a03fb61edc4d827f20635008c50a5": [
     "hr\\localizations\\noam-usa-benefit-accrual-plan-tasks.md"
@@ -11561,6 +11396,9 @@
   "fac872e2ac85a00cc90e5822145aee503438c863": [
     "dev-itpro\\migration-upgrade\\upgrade-budget-planning.md"
   ],
+  "39ef3f4f2820ef75272066138f81b17db7f55e92": [
+    "dev-itpro\\mobile-apps\\Mobile-app-home-page.md"
+  ],
   "7529cccfd84e486c2ee31eceebfedb124529df0d": [
     "dev-itpro\\mobile-apps\\Mobile-app-home-page.md"
   ],
@@ -11572,6 +11410,9 @@
   ],
   "17a5dcf0f406380fbc4ff242932516894562fe5d": [
     "dev-itpro\\mobile-apps\\mobile-workspaces-released.md"
+  ],
+  "f2618d40ce225a9382f9fa8097d8d4925996b04d": [
+    "dev-itpro\\mobile-apps\\publish-mobile-workspace.md"
   ],
   "21672d269a58503925e259adeef4d77eb53743d1": [
     "dev-itpro\\mobile-apps\\publish-mobile-workspace.md"
@@ -11591,12 +11432,6 @@
   "9d3b7a4d5184c3c4958f4298f1d3dd4de0cd06d6": [
     "financials\\expense-management\\expense-management-mobile-workspace.md"
   ],
-  "972a0007f6f2735353123b934d5acaec5dec7d72": [
-    "financials\\localizations\\emea-esp-conditional-sales-tax.md"
-  ],
-  "5bb9d85893726ddc49bfdaf8e9a8c69173ce44b0": [
-    "financials\\localizations\\emea-esp-intra-community-vat.md"
-  ],
   "e3e0be36c045acc3750efbb739d79d81ab937c65": [
     "financials\\project-management\\project-time-entry-mobile-workspace.md"
   ],
@@ -11610,5 +11445,11 @@
   ],
   "a09ffcf854b92b9e1d60651217ba65304313f619": [
     "dev-itpro\\analytics\\practice-manager-power-bi.md"
+  ],
+  "ca9feb741f061757da0c4ff81fd73b6a2f2034df": [
+    "dev-itpro\\financial\\read-only-entity-financial.md"
+  ],
+  "364fb92d442e5071fde5f4a22d7231a401e8d85e": [
+    "dev-itpro\\lifecycle-services\\planned-maintenance-window-faq.md"
   ]
 }
