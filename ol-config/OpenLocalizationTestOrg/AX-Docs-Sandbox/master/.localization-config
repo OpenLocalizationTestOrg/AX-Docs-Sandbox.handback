@@ -257,8 +257,7 @@
         {
           "priority": "basic",
           "locales": [
-            "de-de",
-            "sr-cyrl-rs"
+            "de-de"
           ]
         }
       ]
@@ -269,9 +268,7 @@
         {
           "priority": "basic",
           "locales": [
-            "fr-fr",
-            "nl-nl",
-            "sr-cyrl-rs"
+            "fr-fr"
           ]
         }
       ]
@@ -295,7 +292,7 @@
           "priority": "basic",
           "locales": [
             "fr-fr",
-            "sr-cyrl-rs"
+            "pseudo-test"
           ]
         }
       ]
@@ -307,7 +304,7 @@
           "priority": "basic",
           "locales": [
             "zh-cn",
-            "sr-cyrl-rs"
+            "pseudo-test"
           ]
         }
       ]
@@ -319,7 +316,7 @@
           "priority": "basic",
           "locales": [
             "cs-cz",
-            "sr-cyrl-rs"
+            "pseudo-test"
           ]
         }
       ]
@@ -331,7 +328,7 @@
           "priority": "basic",
           "locales": [
             "da-dk",
-            "sr-cyrl-rs"
+            "pseudo-test"
           ]
         }
       ]
@@ -343,7 +340,7 @@
           "priority": "basic",
           "locales": [
             "et-ee",
-            "sr-cyrl-rs"
+            "pseudo-test"
           ]
         }
       ]
@@ -355,7 +352,7 @@
           "priority": "basic",
           "locales": [
             "fi-fi",
-            "sr-cyrl-rs"
+            "pseudo-test"
           ]
         }
       ]
@@ -367,7 +364,7 @@
           "priority": "basic",
           "locales": [
             "fr-fr",
-            "sr-cyrl-rs"
+            "pseudo-test"
           ]
         }
       ]
@@ -379,7 +376,7 @@
           "priority": "basic",
           "locales": [
             "de-de",
-            "sr-cyrl-rs"
+            "pseudo-test"
           ]
         }
       ]
@@ -391,7 +388,7 @@
           "priority": "basic",
           "locales": [
             "hu-hu",
-            "sr-cyrl-rs"
+            "pseudo-test"
           ]
         }
       ]
@@ -403,7 +400,7 @@
           "priority": "basic",
           "locales": [
             "is-is",
-            "sr-cyrl-rs"
+            "pseudo-test"
           ]
         }
       ]
@@ -415,7 +412,7 @@
           "priority": "basic",
           "locales": [
             "it-it",
-            "sr-cyrl-rs"
+            "pseudo-test"
           ]
         }
       ]
@@ -427,7 +424,7 @@
           "priority": "basic",
           "locales": [
             "ja-jp",
-            "sr-cyrl-rs"
+            "pseudo-test"
           ]
         }
       ]
@@ -439,7 +436,7 @@
           "priority": "basic",
           "locales": [
             "lv-lv",
-            "sr-cyrl-rs"
+            "pseudo-test"
           ]
         }
       ]
@@ -451,7 +448,7 @@
           "priority": "basic",
           "locales": [
             "lt-lt",
-            "sr-cyrl-rs"
+            "pseudo-test"
           ]
         }
       ]
@@ -463,7 +460,7 @@
           "priority": "basic",
           "locales": [
             "es-es",
-            "sr-cyrl-rs"
+            "pseudo-test"
           ]
         }
       ]
@@ -475,7 +472,7 @@
           "priority": "basic",
           "locales": [
             "nl-nl",
-            "sr-cyrl-rs"
+            "pseudo-test"
           ]
         }
       ]
@@ -487,7 +484,7 @@
           "priority": "basic",
           "locales": [
             "nb-no",
-            "sr-cyrl-rs"
+            "pseudo-test"
           ]
         }
       ]
@@ -499,7 +496,7 @@
           "priority": "basic",
           "locales": [
             "pl-pl",
-            "sr-cyrl-rs"
+            "pseudo-test"
           ]
         }
       ]
@@ -511,7 +508,7 @@
           "priority": "basic",
           "locales": [
             "ru-ru",
-            "sr-cyrl-rs"
+            "pseudo-test"
           ]
         }
       ]
@@ -523,7 +520,7 @@
           "priority": "basic",
           "locales": [
             "ar-sa",
-            "sr-cyrl-rs"
+            "pseudo-test"
           ]
         }
       ]
@@ -535,7 +532,7 @@
           "priority": "basic",
           "locales": [
             "es-es",
-            "sr-cyrl-rs"
+            "pseudo-test"
           ]
         }
       ]
@@ -549,7 +546,7 @@
             "fr-fr",
             "de-de",
             "it-it",
-            "sr-cyrl-rs"
+            "pseudo-test"
           ]
         }
       ]
@@ -561,7 +558,7 @@
           "priority": "basic",
           "locales": [
             "sv-se",
-            "sr-cyrl-rs"
+            "pseudo-test"
           ]
         }
       ]
@@ -573,7 +570,7 @@
           "priority": "basic",
           "locales": [
             "th-th",
-            "sr-cyrl-rs"
+            "pseudo-test"
           ]
         }
       ]
@@ -585,7 +582,7 @@
           "priority": "basic",
           "locales": [
             "tr-tr",
-            "sr-cyrl-rs"
+            "pseudo-test"
           ]
         }
       ]
