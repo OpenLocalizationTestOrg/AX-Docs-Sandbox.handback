@@ -11,6 +11,9 @@
   "364d7e62dfaf54d3710d1888b8d2347dbe1627a2": [
     "core\\breadcrumb\\toc.yml"
   ],
+  "586a62c488efe205654e22e3c1cf1614a4ba3f8a": [
+    "core\\get-started\\action-search.md"
+  ],
   "2ff12088d432d3e8693dfd9662cb0ead82fd0191": [
     "core\\get-started\\action-search.md"
   ],
@@ -1316,6 +1319,9 @@
   "6eb455f0b4dbc8740497d0b4b18cce9665b7047d": [
     "dev-itpro\\data-entities\\develop-composite-data-entities.md"
   ],
+  "ad988282a9d86aa6c278b306f1916318105f6b1e": [
+    "dev-itpro\\data-entities\\develop-entity-for-data-migration.md"
+  ],
   "c46d85b21d47983c1f76dd34e3dbec803b337f1c": [
     "dev-itpro\\data-entities\\develop-entity-for-data-migration.md"
   ],
@@ -2353,6 +2359,9 @@
   ],
   "fc9fc8b69d8a5d9cabc7c46f9a6a3055407476e7": [
     "dev-itpro\\get-started\\help-connect.md"
+  ],
+  "413873bb02fa4b040526ca1fd2e614cfef3f7a07": [
+    "dev-itpro\\get-started\\help-overview.md"
   ],
   "8b69e0cb1abe1a65e21cae987b05ecd2924847ff": [
     "dev-itpro\\get-started\\help-overview.md"
@@ -3707,6 +3716,9 @@
   "6e0bc164aaf86deeb06c058d1d5adee3ab90be40": [
     "dev-itpro\\migration-upgrade\\upgrade-home-page.md"
   ],
+  "fb5d2d7d4c2468f200f2d7421b065d2f7213f3ef": [
+    "dev-itpro\\migration-upgrade\\upgrade-latest-platform-update.md"
+  ],
   "cf966960b9ae9ea03c29dc34c97da53301933de0": [
     "dev-itpro\\migration-upgrade\\upgrade-latest-platform-update.md"
   ],
@@ -3955,6 +3967,9 @@
   ],
   "84b998ba6a3e430077766a0a10cf264b191725b4": [
     "dev-itpro\\migration-upgrade\\versions-update-policy.md"
+  ],
+  "ea5b4cc4a17a147371d18ad9d8ca4c0a47e0ccf4": [
+    "dev-itpro\\TOC.md"
   ],
   "8d54bbc39f6408001eacc42476a392fef54e0c1b": [
     "dev-itpro\\TOC.md"
@@ -5903,6 +5918,9 @@
   "e4c07a6afb90535c57f372d5b850919b5b34aaa4": [
     "financials\\cash-bank-management\\set-up-bank-reconciliation-matching-rules.md"
   ],
+  "fdb1267ed8a3a6c2eacfa38ee682c028f1dedd04": [
+    "financials\\cash-bank-management\\set-up-centralized-payments.md"
+  ],
   "474453e7f33526bc7bebc60ef68f560d489a1841": [
     "financials\\cash-bank-management\\set-up-centralized-payments.md"
   ],
@@ -6733,96 +6751,6 @@
   ],
   "17896328b0ba056650da7f882cc2c5a3334d5100": [
     "financials\\localizations\\emea-fra-titres-de-recette-public-sector.md"
-  ],
-  "e20712abae4fd0d7076fb68f95cadf1675c77761": [
-    "financials\\localizations\\latam-bra-examples-journals-generated-electronic-payment-return-process.md"
-  ],
-  "f86afb3246012f71b8c18289fcb08a559e36f53e": [
-    "financials\\localizations\\latam-bra-examples-journals-generated-electronic-payment-return-process.md"
-  ],
-  "a8ec7a2bdb0efe79cab21c2493ef9397bdb6a2b8": [
-    "financials\\localizations\\latam-bra-examples-journals-generated-electronic-payment-return-process.md"
-  ],
-  "cdee7f8b3ce21303e38bb24e138726a534ae9b15": [
-    "financials\\localizations\\latam-bra-fiscal-document-text-placeholders.md"
-  ],
-  "2d20ae9d96207f4dedbf80f086733fb6599579f1": [
-    "financials\\localizations\\latam-bra-fiscal-document-text-placeholders.md"
-  ],
-  "7ee712437711ea58dfa5e1fcc44c1114539e5d64": [
-    "financials\\localizations\\latam-bra-fiscal-document-text-placeholders.md"
-  ],
-  "7bf1140e016ed80a6801b23473202f9b8a567ef1": [
-    "financials\\localizations\\latam-bra-icms-tax-fiscal-documents.md"
-  ],
-  "67f9184e95b1fecff291aba4c2ee53474827ca60": [
-    "financials\\localizations\\latam-bra-icms-tax-fiscal-documents.md"
-  ],
-  "21a0ab010fabeb8fef647b11ece561d5e6b86044": [
-    "financials\\localizations\\latam-bra-icms-tax-fiscal-documents.md"
-  ],
-  "c80c9a1db78819e0173810db0d4e98e9e52d25bc": [
-    "financials\\localizations\\latam-bra-import-fiscal-documents.md"
-  ],
-  "de4b274ff1c80e6e975cacad357422bd4b0ddc12": [
-    "financials\\localizations\\latam-bra-import-fiscal-documents.md"
-  ],
-  "e85f2763bbbab6220c831476e3939a7b1c343e5a": [
-    "financials\\localizations\\latam-bra-import-fiscal-documents.md"
-  ],
-  "7af251abf77033f61c65d9f55a5b2a8938cc96e1": [
-    "financials\\localizations\\latam-bra-import-verify-nf-e-xml-documents-danfe-emails.md"
-  ],
-  "cc5e46bdafff3a24e4342e7ed787d52e6c778bcb": [
-    "financials\\localizations\\latam-bra-import-verify-nf-e-xml-documents-danfe-emails.md"
-  ],
-  "47618e885d16092ec43ec01186224e6ee4c243f8": [
-    "financials\\localizations\\latam-bra-import-verify-nf-e-xml-documents-danfe-emails.md"
-  ],
-  "b20cc5f0f5448c3221e1ebd465b920d2ba576c46": [
-    "financials\\localizations\\latam-bra-nf-e-process.md"
-  ],
-  "6a2d661e7bc4a7e4fe8ede91440dccb606bd9b45": [
-    "financials\\localizations\\latam-bra-nf-e-process.md"
-  ],
-  "aa8d34b5a10144e20c18210df2196dbed23088c4": [
-    "financials\\localizations\\latam-bra-nf-e-process.md"
-  ],
-  "5a230aad0f033e0ad84703ddd158b8b0704afdc8": [
-    "financials\\localizations\\latam-bra-purchase-complementary-fiscal-documents.md"
-  ],
-  "8c635ecb81e21342b238f76d9779a3bde04a58f3": [
-    "financials\\localizations\\latam-bra-purchase-complementary-fiscal-documents.md"
-  ],
-  "5f1c4ff1a8881966295319123b6a7e14a5adac17": [
-    "financials\\localizations\\latam-bra-purchase-complementary-fiscal-documents.md"
-  ],
-  "f473a03c461d19a5743047760b7cb355dd5a7c7d": [
-    "financials\\localizations\\latam-bra-sales-complementary-fiscal-documents.md"
-  ],
-  "62446f5422e5be360df383df9c9fec173d2b6ff5": [
-    "financials\\localizations\\latam-bra-sales-complementary-fiscal-documents.md"
-  ],
-  "b03583cab0412721bc8eb5d6bf4ab7680d173319": [
-    "financials\\localizations\\latam-bra-sales-complementary-fiscal-documents.md"
-  ],
-  "3caeeabbc6122c3e9c6ebec67a8e9d30ccec79e9": [
-    "financials\\localizations\\latam-bra-tax-attributes.md"
-  ],
-  "620ab53d0420532847f9de7bf02e313b7c2b07fd": [
-    "financials\\localizations\\latam-bra-tax-attributes.md"
-  ],
-  "7bc0de6272bf3b985593fef6556e57516afa5baa": [
-    "financials\\localizations\\latam-bra-tax-attributes.md"
-  ],
-  "934f159fb4c770348b7d4ae1ea3fa163c2f649a2": [
-    "financials\\localizations\\latam-bra-referenced-fiscal-documents.md"
-  ],
-  "32a1ca25f54ab4035d242f2dbece30b47c3f064e": [
-    "financials\\localizations\\latam-bra-referenced-fiscal-documents.md"
-  ],
-  "18585f2d38ca6dcd639708ee00d089a62478d9ff": [
-    "financials\\localizations\\latam-bra-referenced-fiscal-documents.md"
   ],
   "a0e0c67e013115fb299513560324fe622bf7345f": [
     "financials\\localizations\\noam-usa-form-1099-public-sector.md"
@@ -9422,42 +9350,6 @@
   "834db5eba21908589ab72e40cfc82bc4cc7cc0a3": [
     "financials\\localizations\\emea-fra-vendor-invoice-payment-holds-public-sector.md"
   ],
-  "14036c6c939b5267d7a28122b3338a886ce83838": [
-    "financials\\localizations\\latam-bra-fiscal-documents-fiscal-document-framework.md"
-  ],
-  "76954673617c97fae302ca7032c8dd3a3db21c19": [
-    "financials\\localizations\\latam-bra-fiscal-documents-fiscal-document-framework.md"
-  ],
-  "03b21af759925d959e7105e10d7086479adfdb86": [
-    "financials\\localizations\\latam-bra-fiscal-documents-fiscal-document-framework.md"
-  ],
-  "55f320b61eb4148e0760993cca18b51e8cbcdbed": [
-    "financials\\localizations\\latam-bra-legal-entity-parameters.md"
-  ],
-  "93b06a2e3aa4f59afafbad83dd4b3be27ed97f85": [
-    "financials\\localizations\\latam-bra-legal-entity-parameters.md"
-  ],
-  "3f7d054a59e2bfcc208d569264bcd0d517df2319": [
-    "financials\\localizations\\latam-bra-legal-entity-parameters.md"
-  ],
-  "ed6631a256452253314f683587a0bf2ddf8a0985": [
-    "financials\\localizations\\latam-bra-service-electronic-fiscal-document.md"
-  ],
-  "04891b80a0203982d7391348f6f092567f56c966": [
-    "financials\\localizations\\latam-bra-service-electronic-fiscal-document.md"
-  ],
-  "51f3a4495396f9144dddad48bf83989860118b98": [
-    "financials\\localizations\\latam-bra-service-electronic-fiscal-document.md"
-  ],
-  "d7d0d15f8816ae508f4262d4b9e5200f63ba07c7": [
-    "financials\\localizations\\latam-bra-tax-payments.md"
-  ],
-  "f10f6e26d618d638330783af9b6b1b31bda9bbd5": [
-    "financials\\localizations\\latam-bra-tax-payments.md"
-  ],
-  "fa0033d84c5ed36c4c2cfdee8232fe8946ca81df": [
-    "financials\\localizations\\latam-bra-tax-payments.md"
-  ],
   "6a9e17971746ee95eef1c0a182946f39d2d71015": [
     "financials\\localizations\\noam-usa-year-end-1099-reporting.md"
   ],
@@ -10631,24 +10523,6 @@
   "32cd09975861083b8940368ed53ae16e89bcd748": [
     "financials\\localizations\\emea-registration-ids.md"
   ],
-  "edda637cf79853f8a4b1d88e82615c4e78e7eb37": [
-    "financials\\localizations\\latam-bra-calculate-taxes.md"
-  ],
-  "2d88d9d254d85431b2e883864a9958be8e8856f5": [
-    "financials\\localizations\\latam-bra-calculate-taxes.md"
-  ],
-  "0c8619573fd06393e214f8e4ef51f6a44aaac357": [
-    "financials\\localizations\\latam-bra-calculate-taxes.md"
-  ],
-  "c717df7d80f46bae068986445b30dedf8b74dff9": [
-    "financials\\localizations\\latam-bra-fiscal-books.md"
-  ],
-  "e294b3b8f558474a79c973d06d74266b5c89fd52": [
-    "financials\\localizations\\latam-bra-fiscal-books.md"
-  ],
-  "e3681515df38075f4c75f060110e71bed2059e40": [
-    "financials\\localizations\\latam-bra-fiscal-books.md"
-  ],
   "ac8d4656047a03fb61edc4d827f20635008c50a5": [
     "hr\\localizations\\noam-usa-benefit-accrual-plan-tasks.md"
   ],
@@ -11522,6 +11396,9 @@
   "fac872e2ac85a00cc90e5822145aee503438c863": [
     "dev-itpro\\migration-upgrade\\upgrade-budget-planning.md"
   ],
+  "39ef3f4f2820ef75272066138f81b17db7f55e92": [
+    "dev-itpro\\mobile-apps\\Mobile-app-home-page.md"
+  ],
   "7529cccfd84e486c2ee31eceebfedb124529df0d": [
     "dev-itpro\\mobile-apps\\Mobile-app-home-page.md"
   ],
@@ -11533,6 +11410,9 @@
   ],
   "17a5dcf0f406380fbc4ff242932516894562fe5d": [
     "dev-itpro\\mobile-apps\\mobile-workspaces-released.md"
+  ],
+  "f2618d40ce225a9382f9fa8097d8d4925996b04d": [
+    "dev-itpro\\mobile-apps\\publish-mobile-workspace.md"
   ],
   "21672d269a58503925e259adeef4d77eb53743d1": [
     "dev-itpro\\mobile-apps\\publish-mobile-workspace.md"
@@ -11565,5 +11445,11 @@
   ],
   "a09ffcf854b92b9e1d60651217ba65304313f619": [
     "dev-itpro\\analytics\\practice-manager-power-bi.md"
+  ],
+  "ca9feb741f061757da0c4ff81fd73b6a2f2034df": [
+    "dev-itpro\\financial\\read-only-entity-financial.md"
+  ],
+  "364fb92d442e5071fde5f4a22d7231a401e8d85e": [
+    "dev-itpro\\lifecycle-services\\planned-maintenance-window-faq.md"
   ]
 }
