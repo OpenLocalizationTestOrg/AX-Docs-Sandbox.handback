@@ -11,7 +11,7 @@
   "364d7e62dfaf54d3710d1888b8d2347dbe1627a2": [
     "core\\breadcrumb\\toc.yml"
   ],
-  "586a62c488efe205654e22e3c1cf1614a4ba3f8a": [
+  "dd1333f6208540872d96ca9d1f17df2486838f66": [
     "core\\get-started\\action-search.md"
   ],
   "2ff12088d432d3e8693dfd9662cb0ead82fd0191": [
@@ -23,41 +23,11 @@
   "689d8f9fb0501c5007db21d41f126737af77b89e": [
     "core\\get-started\\action-search.md"
   ],
-  "2fba43a0580267b14a01651ef8d1860f12f95d36": [
+  "586a62c488efe205654e22e3c1cf1614a4ba3f8a": [
     "core\\get-started\\action-search.md"
   ],
-  "e186073d672c05407831f15a66b58ae44d068d0b": [
-    "core\\get-started\\advanced-filtering-query-options.md"
-  ],
-  "443dc62315275694bc6a6eae7635220a51e19122": [
-    "core\\get-started\\advanced-filtering-query-options.md"
-  ],
-  "5ee7a04572e350a7c08d0418bade6d332aa920c6": [
-    "core\\get-started\\advanced-filtering-query-options.md"
-  ],
-  "94f5874cb24b53476843f1a073dc9c4cfdb36ac9": [
-    "core\\get-started\\client-faq.md"
-  ],
-  "29a7d9f03c90186d528b58ae057d7623e339b393": [
-    "core\\get-started\\client-faq.md"
-  ],
-  "2c99b2e1f7ddecb61be62832ca1a8d3ac1fd21a8": [
-    "core\\get-started\\client-faq.md"
-  ],
-  "5a59b759e4c17c8321f2317d323f8e46c58fa646": [
-    "core\\get-started\\client-faq.md"
-  ],
-  "9a47b3b2e11674353af8113a023e98d1ed8643b9": [
-    "core\\get-started\\configure-filter-workspaces.md"
-  ],
-  "5610736408629e84147c27a91b935ae7b65ecaee": [
-    "core\\get-started\\configure-filter-workspaces.md"
-  ],
-  "30d86674bce2ed65b0ccdac0862f208b02b02e5c": [
-    "core\\get-started\\configure-filter-workspaces.md"
-  ],
-  "6a08b40cad7d4d73060dc37b78439de8bf047fb8": [
-    "core\\get-started\\configure-filter-workspaces.md"
+  "2fba43a0580267b14a01651ef8d1860f12f95d36": [
+    "core\\get-started\\action-search.md"
   ],
   "e29d436560590e844e92180a6d1e2ad53d019662": [
     "core\\get-started\\display-pages-side-by-side.md"
@@ -67,6 +37,9 @@
   ],
   "940d086f9c99af54bfcc7911ee7272f9eccba464": [
     "core\\get-started\\display-pages-side-by-side.md"
+  ],
+  "1125d3745c51d454172e58e6aa82f6edb6ff93a6": [
+    "core\\get-started\\fasttrack-dynamics-365-overview.md"
   ],
   "6ceee6e134b22c47df900863c06976790b572241": [
     "core\\get-started\\fasttrack-dynamics-365-overview.md"
@@ -85,6 +58,9 @@
   ],
   "bab33353b44d31fb00a963872c697da781693230": [
     "core\\get-started\\fasttrack-dynamics-365-overview.md"
+  ],
+  "cbf820eb09909d5d83703a6aefc243051626382e": [
+    "core\\get-started\\glossary.md"
   ],
   "dd9f65e045367aeba081d026da53894679ee7ed0": [
     "core\\get-started\\glossary.md"
@@ -2360,6 +2336,9 @@
   "fc9fc8b69d8a5d9cabc7c46f9a6a3055407476e7": [
     "dev-itpro\\get-started\\help-connect.md"
   ],
+  "add4470034a7a1943a9779189ea7babc8a799e69": [
+    "dev-itpro\\get-started\\help-overview.md"
+  ],
   "413873bb02fa4b040526ca1fd2e614cfef3f7a07": [
     "dev-itpro\\get-started\\help-overview.md"
   ],
@@ -2416,6 +2395,9 @@
   ],
   "ae2977a9592472b4b92ed55e5970caf80c81d3de": [
     "dev-itpro\\get-started\\new-updated-task-guides-available-august-2016.md"
+  ],
+  "e0471ded17412396b86f94ffeaddb92f1ebcc5bf": [
+    "dev-itpro\\get-started\\new-updated-task-guides-available-may-2016.md"
   ],
   "d54240eb29ede3c1361f14dea186776f6d11a4d8": [
     "dev-itpro\\get-started\\new-updated-task-guides-available-may-2016.md"
@@ -3967,6 +3949,9 @@
   ],
   "84b998ba6a3e430077766a0a10cf264b191725b4": [
     "dev-itpro\\migration-upgrade\\versions-update-policy.md"
+  ],
+  "9f7b4cc346a89f75d0ecf1636ebef370fdf1bf02": [
+    "dev-itpro\\TOC.md"
   ],
   "ea5b4cc4a17a147371d18ad9d8ca4c0a47e0ccf4": [
     "dev-itpro\\TOC.md"
@@ -5945,6 +5930,9 @@
   "5b3179a4e09ae3a2ade91a41d95ea45465c9a395": [
     "financials\\cost-accounting\\cost-accounting-home-page.md"
   ],
+  "256ac07d1dce7c6a9a513278307e7a0646e1a35a": [
+    "financials\\cost-accounting\\cost-controlling-mobile-workspace.md"
+  ],
   "53c7f0945960e6ee8db6ebca6417711674b3d1c7": [
     "financials\\cost-accounting\\cost-controlling-mobile-workspace.md"
   ],
@@ -6754,6 +6742,9 @@
   ],
   "e75a5283f78ab6ef9166e73066b596cce29d6822": [
     "financials\\localizations\\noam-usa-form-1099-public-sector.md"
+  ],
+  "e3dc9ca769032df1a2a6ea10692f01da8ac6081e": [
+    "financials\\localizations\\TOC.md"
   ],
   "26ba4686b67f1d9407eed95ae41128ca05925927": [
     "financials\\localizations\\TOC.md"
@@ -8492,6 +8483,9 @@
   "fe3c6555c48bff38c5c331ef96bfb9af860c513d": [
     "retail\\dev-itpro\\extend-retail-server-odata-controller.md"
   ],
+  "b9f109aca4f3580306ac130a2cc100f956feea74": [
+    "retail\\dev-itpro\\hardware-station-extensibility.md"
+  ],
   "2bed92494c6270f9e3e5df1260a15122b84628e5": [
     "retail\\dev-itpro\\hardware-station-extensibility.md"
   ],
@@ -8716,6 +8710,9 @@
   ],
   "74f5e8068976f6f617539a26ab83bf3b29785dd0": [
     "retail\\dev-itpro\\secure-retail-cloud-pos.md"
+  ],
+  "4b84e3f64eceb0c017e2141a7540ba7940e7decb": [
+    "retail\\dev-itpro\\TOC.md"
   ],
   "e91ac93332ab64d4b21685c32103d4da3e9771a2": [
     "retail\\dev-itpro\\TOC.md"
@@ -10961,6 +10958,9 @@
   "1fe8a0d90a3f707fa7b0fea0310c819ce5040a42": [
     "scm\\pim\\expression-constraints-table-constraints-product-configuration-models.md"
   ],
+  "6751abe8a47a62147ca250060229af901340a99f": [
+    "scm\\pim\\product-variant-identification-nomenclature.md"
+  ],
   "deda2b7986333e0d865aa87e6b34b6acdc8f6a6d": [
     "scm\\pim\\product-variant-identification-nomenclature.md"
   ],
@@ -11099,15 +11099,6 @@
   "d585ae0716a4bd9c3531e8639cd7c6b3cab780ac": [
     "scm\\procurement\\vendor-collaboration-work-external-vendors.md"
   ],
-  "6ecc9c8268145a3b8263fb659630131d6c27e1dc": [
-    "scm\\production-control\\inventory-on-hand-mobile-workspace.md"
-  ],
-  "9078b397bb38b52eb3fb5d61cef65c70b419d58c": [
-    "scm\\production-control\\inventory-on-hand-mobile-workspace.md"
-  ],
-  "2ad48765528e1d1c6e7c90417b54a248ec79f546": [
-    "scm\\production-control\\inventory-on-hand-mobile-workspace.md"
-  ],
   "4b5830d50297598863b8a7a7611e11a29afeab63": [
     "scm\\production-control\\manage-subcontract-work-production.md"
   ],
@@ -11134,15 +11125,6 @@
   ],
   "556b9859d0b162b11f0bcbfc6552f6fd9a900596": [
     "scm\\production-control\\routes-operations.md"
-  ],
-  "766262392d46b4e6c7e41ed83a1fde6bbeb04749": [
-    "scm\\production-control\\sales-orders-mobile-workspace.md"
-  ],
-  "e80ab96fb8255fe910c480f82c7d935bc9bc8ab0": [
-    "scm\\production-control\\sales-orders-mobile-workspace.md"
-  ],
-  "851c53e1c53fb37488ed86e25e3ede83ca0541db": [
-    "scm\\production-control\\sales-orders-mobile-workspace.md"
   ],
   "c7b099cc59b383f0630f1f25e542104471484556": [
     "scm\\transportation\\create-new-transportation-management-engine.md"
@@ -11252,6 +11234,9 @@
   "f240da921d9b3eb9f79ee64080dd99f1c04bbd0e": [
     "dev-itpro\\extensibility\\extend-runbase-class.md"
   ],
+  "90c3959b6340a014fc00158f8a20a1cc611fa206": [
+    "dev-itpro\\lcs-solutions\\country-region.md"
+  ],
   "e14d0836ee16db4fba9ef49df9a49564aa4c0402": [
     "dev-itpro\\lcs-solutions\\country-region.md"
   ],
@@ -11299,6 +11284,9 @@
   ],
   "ef7bc749e7a7d89a1ae3c8a7eccda3eed38b0546": [
     "dev-itpro\\get-started\\whats-new-platform-update-6.md"
+  ],
+  "c408ca54fc1ba2fe34cf161beeaa615027e2d33e": [
+    "dev-itpro\\lifecycle-services\\premier-support.md"
   ],
   "41190ee09b7d1f5c93cf9eb26487949ba660961e": [
     "dev-itpro\\lifecycle-services\\premier-support.md"
@@ -11348,6 +11336,9 @@
   "f2b8ee5088fea80976d4bd18356e25578e97b0e6": [
     "scm\\inventory\\arrival-overview.md"
   ],
+  "ce42617a0a7a3794a74473d8b7f7864c0f1281b4": [
+    "scm\\inventory\\inventory-on-hand-mobile-workspace.md"
+  ],
   "e703ae80800b993ebca1c7bee455af1be41c7d5f": [
     "scm\\inventory\\inventory-on-hand-mobile-workspace.md"
   ],
@@ -11359,6 +11350,9 @@
   ],
   "53402aa891ca8464b7487bbc7b133c7c8f8dd155": [
     "scm\\sales-marketing\\delivery-alternatives.md"
+  ],
+  "6e5b78bf4291ff30cd05c5055bd42dd569a3bf8a": [
+    "scm\\sales-marketing\\sales-orders-mobile-workspace.md"
   ],
   "119b80e5d8067ffbf75d8b067f4803558c2c94b0": [
     "scm\\sales-marketing\\sales-orders-mobile-workspace.md"
@@ -11390,6 +11384,9 @@
   "fac872e2ac85a00cc90e5822145aee503438c863": [
     "dev-itpro\\migration-upgrade\\upgrade-budget-planning.md"
   ],
+  "48ddd578f14112b2cb4a6ded358b09b554a8c8f9": [
+    "dev-itpro\\mobile-apps\\Mobile-app-home-page.md"
+  ],
   "39ef3f4f2820ef75272066138f81b17db7f55e92": [
     "dev-itpro\\mobile-apps\\Mobile-app-home-page.md"
   ],
@@ -11414,6 +11411,9 @@
   "c556102274362f90f3f9b4fbe7cc7c021306bcb2": [
     "dev-itpro\\mobile-apps\\publish-mobile-workspace.md"
   ],
+  "be956a4d32855271c7033b4da8c3d558d0ada6ca": [
+    "dev-itpro\\sysadmin\\faq-platform-monthly-updates.md"
+  ],
   "bdd5d88a23a7153abba4ae827f24f91d7cbdc14b": [
     "dev-itpro\\sysadmin\\faq-platform-monthly-updates.md"
   ],
@@ -11423,8 +11423,14 @@
   "98be9eed629708566c5ec5594ab09e84e1117e83": [
     "dev-itpro\\user-interface\\powerapps-host-control.md"
   ],
+  "4addd95747690d0eb67dd3c978043e337b02e676": [
+    "financials\\expense-management\\expense-management-mobile-workspace.md"
+  ],
   "9d3b7a4d5184c3c4958f4298f1d3dd4de0cd06d6": [
     "financials\\expense-management\\expense-management-mobile-workspace.md"
+  ],
+  "de4d4f2210d3ba522cd66538210b4f69d4216695": [
+    "financials\\project-management\\project-time-entry-mobile-workspace.md"
   ],
   "e3e0be36c045acc3750efbb739d79d81ab937c65": [
     "financials\\project-management\\project-time-entry-mobile-workspace.md"
@@ -11437,6 +11443,9 @@
     "retail\\includes\\banner.md",
     "scm\\includes\\banner.md"
   ],
+  "c09aaa33d5a8cb93799d4881cb691aad25ef69f3": [
+    "dev-itpro\\analytics\\practice-manager-power-bi.md"
+  ],
   "a09ffcf854b92b9e1d60651217ba65304313f619": [
     "dev-itpro\\analytics\\practice-manager-power-bi.md"
   ],
@@ -11445,5 +11454,14 @@
   ],
   "364fb92d442e5071fde5f4a22d7231a401e8d85e": [
     "dev-itpro\\lifecycle-services\\planned-maintenance-window-faq.md"
+  ],
+  "130575df2dce1d9dbb7e002166d3fa48ea9b265e": [
+    "core\\organization-administration\\client-faq.md"
+  ],
+  "baf7101881b5ed20697b18277164146903465a7e": [
+    "dev-itpro\\mobile-apps\\mobile-workspace-xpp-apis.md"
+  ],
+  "352ebae4fee4c81484ad9c75829d82ca09af333b": [
+    "financials\\accounts-payable\\configure-filter-workspaces.md"
   ]
 }
