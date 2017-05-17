@@ -297,7 +297,7 @@
       ]
     },
     {
-      "metadataExpression": "ms.search.region.Contains(\"China (PRC)\")",
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(\"China (PRC)\")",
       "priorities": [
         {
           "priority": "basic-test",
@@ -308,7 +308,7 @@
       ]
     },
     {
-      "metadataExpression": "ms.search.region.Contains(\"Czech Republic\")",
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(\"Czech Republic\")",
       "priorities": [
         {
           "priority": "basic-test",
@@ -319,7 +319,7 @@
       ]
     },
     {
-      "metadataExpression": "ms.search.region.Contains(Denmark)",
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Denmark)",
       "priorities": [
         {
           "priority": "basic-test",
