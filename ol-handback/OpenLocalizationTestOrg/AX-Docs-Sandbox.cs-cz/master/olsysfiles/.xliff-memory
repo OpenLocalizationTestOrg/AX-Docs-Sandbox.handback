@@ -7376,7 +7376,7 @@
       "TranslationType": 1,
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\5d17447909d8e5db7688290a373550923bfd150d.89440d0792e89e2368762eebaf9943f4d387555c.xml",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\5d17447909d8e5db7688290a373550923bfd150d.de2d16787b649016efa440482f9ad3e32e273a95.xml",
       "LocXliff": null,
       "LocXliffCommit": null
     },
@@ -23247,6 +23247,1096 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\a62b56bd2ac0a7484471190c5f342a1db335ab07.dba15c8f8494430efa0383166e14b2df0f49be92.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\apac-chn-tax-integration.md.da01119ed9b2d0239b2100ab2aa089a5c8a34e09.HT": {
+      "SourceFilename": "financials\\localizations\\apac-chn-tax-integration.md",
+      "XliffHash": "da01119ed9b2d0239b2100ab2aa089a5c8a34e09",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\1f26fad7f5ee4f38a13549fc269eac964fa0f79d.995afeb339d062dc6caf57a04b80601f92392993.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-esp-conditional-sales-tax.md.ae990a647b0739c3b5e35ec814e4bb6ade0d085f.HT": {
+      "SourceFilename": "financials\\localizations\\emea-esp-conditional-sales-tax.md",
+      "XliffHash": "ae990a647b0739c3b5e35ec814e4bb6ade0d085f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\972a0007f6f2735353123b934d5acaec5dec7d72.69f27862e32e28757a57870d943a59c53167d761.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-deu-additional-acquisition-depreciation.md.eebd8de880adad4c6424b3ccea78c609c53026a2.HT": {
+      "SourceFilename": "financials\\localizations\\emea-deu-additional-acquisition-depreciation.md",
+      "XliffHash": "eebd8de880adad4c6424b3ccea78c609c53026a2",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\235f72691e0f2fac21704244a69422a00d2faf4d.6f4612831c0aa29897e5848ffb83ff0330e64ba2.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-fra-naf-codes-siret-numbers.md.f6c6b7969064b6ef4ff1b796281a3cf80bd61d7d.HT": {
+      "SourceFilename": "financials\\localizations\\emea-fra-naf-codes-siret-numbers.md",
+      "XliffHash": "f6c6b7969064b6ef4ff1b796281a3cf80bd61d7d",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\e4c77fc5c473a40c8977fa311a6e526bcf4b4db5.5c0d6bfdf066154ea8d7ac356908ba0ca792d43d.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\apac-chn-bom-comparison.md.c59a8c4e54202b68e319004df5bc18c8624b7578.HT": {
+      "SourceFilename": "financials\\localizations\\apac-chn-bom-comparison.md",
+      "XliffHash": "c59a8c4e54202b68e319004df5bc18c8624b7578",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\d467db4a5278c95b111d547876179981e724873e.20b1913d40561295d129b24411c9d6cd77d7efc8.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\latam-mex-diot-declaration-statement.md.320739358e874ec57d46e5fa3229a1b00ecbe88c.HT": {
+      "SourceFilename": "financials\\localizations\\latam-mex-diot-declaration-statement.md",
+      "XliffHash": "320739358e874ec57d46e5fa3229a1b00ecbe88c",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\63ec3ad034f22bf60788c9dc0f6201060df17e1b.96b2c19e44bf6573a44463dac78027c5f3cc2a63.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\latam-bra-examples-journals-generated-electronic-payment-return-process.md.d07b01e3108a0b014d0fabf8151258b0ec731329.HT": {
+      "SourceFilename": "financials\\localizations\\latam-bra-examples-journals-generated-electronic-payment-return-process.md",
+      "XliffHash": "d07b01e3108a0b014d0fabf8151258b0ec731329",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\e20712abae4fd0d7076fb68f95cadf1675c77761.3327ff5e147b599a43cf9b590c7328d2e0999844.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-pol-fixed-assets-depreciation.md.47798e971bbab71f70fee3e2c37498e3345965d7.HT": {
+      "SourceFilename": "financials\\localizations\\emea-pol-fixed-assets-depreciation.md",
+      "XliffHash": "47798e971bbab71f70fee3e2c37498e3345965d7",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\5e590722bfeb8e79ce7f53fe321c2f02cf8e05d0.cfe59e772dbeb37a2d5415654c739cf2d78e3575.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-esp-fixed-asset-group-revaluation.md.da1aa845192c04165e19615060d49f2039f66d4c.HT": {
+      "SourceFilename": "financials\\localizations\\emea-esp-fixed-asset-group-revaluation.md",
+      "XliffHash": "da1aa845192c04165e19615060d49f2039f66d4c",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\b7b6c161a66168d5df57057dd7cd0c86dc466c64.e3b2c697a0c233039a924d73533480ba5cc72500.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-pol-fixed-asset-disposal-functionality-extension.md.05d75dc1c1d09485f2bc1c440dd512dbe044f3f3.HT": {
+      "SourceFilename": "financials\\localizations\\emea-pol-fixed-asset-disposal-functionality-extension.md",
+      "XliffHash": "05d75dc1c1d09485f2bc1c440dd512dbe044f3f3",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\f9ccbd6dfad01684524c44b123f4ae5afdf69fe5.63cd9c18d9d5bf3a8b1fb019573b7aa711f0cdff.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-ltu-fixed-asset-repair-statement.md.d9db36dedab81ad0d1b32d9f988e82f851d8c44a.HT": {
+      "SourceFilename": "financials\\localizations\\emea-ltu-fixed-asset-repair-statement.md",
+      "XliffHash": "d9db36dedab81ad0d1b32d9f988e82f851d8c44a",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\3f7fc53298ea02c779f4c0c91723eb0b66dbc366.c0875a488a101d7de04eb868a7fa50c743cf16dc.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\apac-jpn-bank-payment-fees-vendors.md.5918241953e3ae70b856157dc7ab9da6c5404815.HT": {
+      "SourceFilename": "financials\\localizations\\apac-jpn-bank-payment-fees-vendors.md",
+      "XliffHash": "5918241953e3ae70b856157dc7ab9da6c5404815",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\e339fd540f16fb466e831624d48a815d6da7a016.9ef9505b06e43787d7799e6e18dd26d6843861af.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-pol-standard-audit-file-saf.md.d9f37dc7920ae43a019ed137f21cfcd290151a31.HT": {
+      "SourceFilename": "financials\\localizations\\emea-pol-standard-audit-file-saf.md",
+      "XliffHash": "d9f37dc7920ae43a019ed137f21cfcd290151a31",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\eb2362d31649fb42f69b8f5a3c66172317a44fbf.34050328e5283fd5bd45640b2ac8e02f62d89c36.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-esp-fiscal-data-invoice-account.md.92611ac3061109ec41e4c6a0590b2040803a0e20.HT": {
+      "SourceFilename": "financials\\localizations\\emea-esp-fiscal-data-invoice-account.md",
+      "XliffHash": "92611ac3061109ec41e4c6a0590b2040803a0e20",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\9a23041c0dfed312c46479961431f9e5a2e248a5.5675c375ee40784b74eeb75932743798b20e557c.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-invoices-packing-slips-numbering.md.a5dd2b8d1403d20e5a8c553629fec1f2b2c6752e.HT": {
+      "SourceFilename": "financials\\localizations\\emea-invoices-packing-slips-numbering.md",
+      "XliffHash": "a5dd2b8d1403d20e5a8c553629fec1f2b2c6752e",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\198839f1e1f2eada32c23d1d3d030c0d326d478b.5ab85b0fb642ac2a2c975cd502078b24bdefa81c.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\apac-chn-tax-integration-vat-customer-invoices.md.8452a218523e7d49ca0b2f864749bd4d91bd7b1d.HT": {
+      "SourceFilename": "financials\\localizations\\apac-chn-tax-integration-vat-customer-invoices.md",
+      "XliffHash": "8452a218523e7d49ca0b2f864749bd4d91bd7b1d",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\19373112353a541ae40ba8f8767ea74f0adaa409.6bd971872cd68bf00f1641c8ef73561c9eab12e4.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-deu-print-separate-label-credit-memo-originating-sales.md.65cc19c93e54d77954e67eb726a28352bf16e612.HT": {
+      "SourceFilename": "financials\\localizations\\emea-deu-print-separate-label-credit-memo-originating-sales.md",
+      "XliffHash": "65cc19c93e54d77954e67eb726a28352bf16e612",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\1a8af20ad589813d3dd524a3aedb84b185b690ff.bccba024b5a7fbb171d42f88762e5602eeb213b8.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-esp-intra-community-vat.md.7e3a994436f7652df7d709a1ad7ba4fd34a5cb9b.HT": {
+      "SourceFilename": "financials\\localizations\\emea-esp-intra-community-vat.md",
+      "XliffHash": "7e3a994436f7652df7d709a1ad7ba4fd34a5cb9b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\5bb9d85893726ddc49bfdaf8e9a8c69173ce44b0.1eeb9e430bb9ef76bead31796a11d5fc6b324f26.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\latam-bra-fiscal-books.md.eeec2f0452e6f7bdefe5174b65c12ec1ffc09fa0.HT": {
+      "SourceFilename": "financials\\localizations\\latam-bra-fiscal-books.md",
+      "XliffHash": "eeec2f0452e6f7bdefe5174b65c12ec1ffc09fa0",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\c717df7d80f46bae068986445b30dedf8b74dff9.6737c19be0f0885fc768d41bd9fd145c61f157e3.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\apac-chn-vouchers.md.8941122b08adc050a5546407340e7b47b5c6159d.HT": {
+      "SourceFilename": "financials\\localizations\\apac-chn-vouchers.md",
+      "XliffHash": "8941122b08adc050a5546407340e7b47b5c6159d",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\f9869bf6d9389c2e0f4b39b310bdd51e90fee38e.7a08f81a54fb05a7d307e8f32ec1f95e7cfb44e6.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-bel-prodcom-report.md.8040eb0ed347b79771de53deb406d345c6e17a89.HT": {
+      "SourceFilename": "financials\\localizations\\emea-bel-prodcom-report.md",
+      "XliffHash": "8040eb0ed347b79771de53deb406d345c6e17a89",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\8db1364414546aa003b5545bc15efe40e7803d65.5e3033936256b4ac04193fb7bac2113861b0cdac.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\apac-chn-depreciation-methods-fixed-assets.md.0f15063c46ef68e7d913f17776c4efb7a2281b16.HT": {
+      "SourceFilename": "financials\\localizations\\apac-chn-depreciation-methods-fixed-assets.md",
+      "XliffHash": "0f15063c46ef68e7d913f17776c4efb7a2281b16",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\0b6c6dae7971b1b4a58a5c4a7cb0cda620a6e578.ee542fc0a1c2b8c28c5e4686dd333f170b337db5.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\latam-bra-referenced-fiscal-documents.md.d838bdde16d14300c4a5c8f6b94cb6dd70e553d4.HT": {
+      "SourceFilename": "financials\\localizations\\latam-bra-referenced-fiscal-documents.md",
+      "XliffHash": "d838bdde16d14300c4a5c8f6b94cb6dd70e553d4",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\934f159fb4c770348b7d4ae1ea3fa163c2f649a2.8547fcc555d6d8bc717fa5b385ef5a96f1298045.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\latam-bra-service-electronic-fiscal-document.md.a8644160bc8050645fa878fbc25e8d9c55ed0351.HT": {
+      "SourceFilename": "financials\\localizations\\latam-bra-service-electronic-fiscal-document.md",
+      "XliffHash": "a8644160bc8050645fa878fbc25e8d9c55ed0351",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\ed6631a256452253314f683587a0bf2ddf8a0985.8cbfcb96c56c1f53fa1161e1aa1566e531a630bc.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-ita-fiscal-books.md.4922332616bd56ac27b55205d1d519d7fc40ce6b.HT": {
+      "SourceFilename": "financials\\localizations\\emea-ita-fiscal-books.md",
+      "XliffHash": "4922332616bd56ac27b55205d1d519d7fc40ce6b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\9db1460ac3b3f11c1280c6a35da87005f145b1c4.7b4fe6924c7d40cf651a6b247aee31fdd8db2025.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\latam-bra-icms-tax-fiscal-documents.md.d512ff5c39fb43ed0a1966958a1cde435eacdca4.HT": {
+      "SourceFilename": "financials\\localizations\\latam-bra-icms-tax-fiscal-documents.md",
+      "XliffHash": "d512ff5c39fb43ed0a1966958a1cde435eacdca4",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\7bf1140e016ed80a6801b23473202f9b8a567ef1.ad595f7b92a07ee2b06f09d5e6fcebd8c3604864.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\latam-bra-sales-complementary-fiscal-documents.md.d1d40f5a51bcd3dfcf00be49fb7cc3e2372c41d9.HT": {
+      "SourceFilename": "financials\\localizations\\latam-bra-sales-complementary-fiscal-documents.md",
+      "XliffHash": "d1d40f5a51bcd3dfcf00be49fb7cc3e2372c41d9",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\f473a03c461d19a5743047760b7cb355dd5a7c7d.9d536d99d51565d5165eac063b29e142383ca6f1.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-vat-reporting.md.e0bdc8f3f9ee4689d8ca4de6d5478ccee1e3f9f7.HT": {
+      "SourceFilename": "financials\\localizations\\emea-vat-reporting.md",
+      "XliffHash": "e0bdc8f3f9ee4689d8ca4de6d5478ccee1e3f9f7",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\190977af579a025b6f46646dfab153b1879d3e76.f100add5ad09c999f2e16d9fb106a55f9e161cba.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-fra-chronological-invoices-vouchers.md.945a1000184977da3deaea6ea99e043477d40e25.HT": {
+      "SourceFilename": "financials\\localizations\\emea-fra-chronological-invoices-vouchers.md",
+      "XliffHash": "945a1000184977da3deaea6ea99e043477d40e25",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\62726abce4d5722ab84236ebd1c04fd986a0f11f.04c815899445993ae1a4c5acb979f479ca155f37.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\apac-tha-withholding-tax.md.68aefb58bfed704a101332ee1268eb8c780beb47.HT": {
+      "SourceFilename": "financials\\localizations\\apac-tha-withholding-tax.md",
+      "XliffHash": "68aefb58bfed704a101332ee1268eb8c780beb47",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\916fa1be164eb70c96038b0227c68a2dc5d4032b.5ffa8557c840dedd6e456a790ef03ac8ed35ea93.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-hun-fixed-assets-depreciation-methods.md.3b49f7aaa3be08ebedbe3189434e957b9aaeb85f.HT": {
+      "SourceFilename": "financials\\localizations\\emea-hun-fixed-assets-depreciation-methods.md",
+      "XliffHash": "3b49f7aaa3be08ebedbe3189434e957b9aaeb85f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\9b8d0663fd884ad5a87e91c41afc529f6850023a.60ba846cecc6837faed29d3596e3b48fccfdc97a.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\apac-jpn-impairment-accounting-fixed-assets.md.eb4118208da561377b8300746effe8e64c84571b.HT": {
+      "SourceFilename": "financials\\localizations\\apac-jpn-impairment-accounting-fixed-assets.md",
+      "XliffHash": "eb4118208da561377b8300746effe8e64c84571b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\8b533ec9373125c813326ff83cc5b724ea2f014c.95919c1c758efad7894b0c38f7c69da732c9bd54.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-eur-payment-slip-report-giro.md.6e497cb510a158d7e2f2d95fe0764688a4b82e12.HT": {
+      "SourceFilename": "financials\\localizations\\emea-eur-payment-slip-report-giro.md",
+      "XliffHash": "6e497cb510a158d7e2f2d95fe0764688a4b82e12",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\53b03f70ea10a340599ef73f12a9a1aa67bfcac4.2e52f7660a5bfd3e919ee64f6470dbaa8acf7055.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-aut-half-year-depreciation.md.906133d00db09c8d70a182734ca33f07af4469f1.HT": {
+      "SourceFilename": "financials\\localizations\\emea-aut-half-year-depreciation.md",
+      "XliffHash": "906133d00db09c8d70a182734ca33f07af4469f1",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\6ca58ad1608f7f8d42ea2626315bebfb568a645a.d28f68c255875e398ca54186718bdccaf724de00.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-fra-apply-penalty-customer-payment-past-due.md.3ed582ca4a0c79d08a12eec17a73825ea498590d.HT": {
+      "SourceFilename": "financials\\localizations\\emea-fra-apply-penalty-customer-payment-past-due.md",
+      "XliffHash": "3ed582ca4a0c79d08a12eec17a73825ea498590d",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\eb800eab303ccf4e27d771c1ae76d23e4aab3c9b.0139d469bb3b7658ada1e3035fc39887abad873a.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-ita-depreciation-of-fixed-assets.md.8dfc460d6e72c02f5cbc6d64e4e56f03a47b3112.HT": {
+      "SourceFilename": "financials\\localizations\\emea-ita-depreciation-of-fixed-assets.md",
+      "XliffHash": "8dfc460d6e72c02f5cbc6d64e4e56f03a47b3112",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\256e52f624c694a8aa8e6ac90de4edbc298201a2.0ff93e677e0df8b9567df5186d9163f1bd35b7a0.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-esp-opening-sheets-spain.md.39362ac6d7dc69143524de2b4fcb17168155443f.HT": {
+      "SourceFilename": "financials\\localizations\\emea-esp-opening-sheets-spain.md",
+      "XliffHash": "39362ac6d7dc69143524de2b4fcb17168155443f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\0a65bf228e69603b91d308aaf026c226bcae4a77.10b29ea30e0fc34208aa099365fb16d61f1cecf8.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-bank-reconciliation.md.84d8e87d1035ad0cfe98ff6a526165a59e9ddfbd.HT": {
+      "SourceFilename": "financials\\localizations\\emea-bank-reconciliation.md",
+      "XliffHash": "84d8e87d1035ad0cfe98ff6a526165a59e9ddfbd",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\74f0d63b0a5a88eec425f28bc6a7a59692e28d83.d7a7fd99beec035dcc79eb674559c62af4d4a0b3.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-che-esr-customer-payments-import.md.b35cb556d038bd4f3b42b7bbcb4435e7f98bb82f.HT": {
+      "SourceFilename": "financials\\localizations\\emea-che-esr-customer-payments-import.md",
+      "XliffHash": "b35cb556d038bd4f3b42b7bbcb4435e7f98bb82f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\7881775d9a7e495e967040759907faa0a1add19e.ae441315a83de660475a19b49e9aa2b0020b7ccc.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\apac-tha-unrealized-vat.md.bc806b82a5dcb9841ca19695cbc2d670b919359c.HT": {
+      "SourceFilename": "financials\\localizations\\apac-tha-unrealized-vat.md",
+      "XliffHash": "bc806b82a5dcb9841ca19695cbc2d670b919359c",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\fae9a741f66333de3dfda1009f44da0fbb12c3a6.d9136ffe53e633702215f68a3b51db00a4be25c8.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\latam-mex-isr-declaration-report-supporting-processes.md.df2a9e7bcf03411872b75faebf27d92317f2d1e8.HT": {
+      "SourceFilename": "financials\\localizations\\latam-mex-isr-declaration-report-supporting-processes.md",
+      "XliffHash": "df2a9e7bcf03411872b75faebf27d92317f2d1e8",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\dd580c4c7625d94a79690ba172d9d7000141f33c.0ea773465b5cbf0a1d8a1c41867bcdd3cacf2c71.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-pol-turnover-balances-statement.md.de57d545e416b3d006a6a1e2d398aef9076405c7.HT": {
+      "SourceFilename": "financials\\localizations\\emea-pol-turnover-balances-statement.md",
+      "XliffHash": "de57d545e416b3d006a6a1e2d398aef9076405c7",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\a6a27898cf0d6a6f3f3c9190c6e372917df6a006.8011e1cb3d7d573f3ff123235917a7905d5ca980.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-pol-returnable-packages.md.ff6e05647bed2f2c88ca5bbd9e6202e180e8c9a3.HT": {
+      "SourceFilename": "financials\\localizations\\emea-pol-returnable-packages.md",
+      "XliffHash": "ff6e05647bed2f2c88ca5bbd9e6202e180e8c9a3",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\a0c2239fe614615b16546048bb457687b5177823.a57535b0f25f34a9bde55b0d7ae0063b38f58590.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\latam-bra-tax-payments.md.4d3ca60cdc5d42797cb468cd831c7093914c0178.HT": {
+      "SourceFilename": "financials\\localizations\\latam-bra-tax-payments.md",
+      "XliffHash": "4d3ca60cdc5d42797cb468cd831c7093914c0178",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\d7d0d15f8816ae508f4262d4b9e5200f63ba07c7.afd1a93630145d3dbace87decfaa7efbb6be0329.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-ltu-vat-statement-details.md.4a4b3018201eb3b8bb58c10fcf50c43fc9e372be.HT": {
+      "SourceFilename": "financials\\localizations\\emea-ltu-vat-statement-details.md",
+      "XliffHash": "4a4b3018201eb3b8bb58c10fcf50c43fc9e372be",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\6d448c7be00749f5fd16b2b106ac86389abfc109.880498c4dd04a02b1aefb915a71c484208ac6cce.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\latam-bra-tax-attributes.md.11dc2b6bc93ff3a9b1023d7233c425542b0dccb4.HT": {
+      "SourceFilename": "financials\\localizations\\latam-bra-tax-attributes.md",
+      "XliffHash": "11dc2b6bc93ff3a9b1023d7233c425542b0dccb4",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\3caeeabbc6122c3e9c6ebec67a8e9d30ccec79e9.d5525f7e9496b144404336d40cbc43d1e5fb6391.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-cze-intra-community-vat-transactions.md.ddb2a69c6d95f49c1dbe080a5a3b81b0156f47a1.HT": {
+      "SourceFilename": "financials\\localizations\\emea-cze-intra-community-vat-transactions.md",
+      "XliffHash": "ddb2a69c6d95f49c1dbe080a5a3b81b0156f47a1",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\74c4f939b89459d10b1165213bce73f7d36d3117.75b1e951a0a55d5ce97b13b5e49c7d8b13023be0.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-swe-payment-formats-import.md.e76560113bfd39d787f66965e114fd4b05729082.HT": {
+      "SourceFilename": "financials\\localizations\\emea-swe-payment-formats-import.md",
+      "XliffHash": "e76560113bfd39d787f66965e114fd4b05729082",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\147af3431185ccd9286cbbc19e4f3c277192c05f.ee32e3c57d392978643697a1f10290ae49cc4bda.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-lva-fixed-assets-location-fields-change.md.486b5043ad13e7d3f99d97e4b53057ca226bb8df.HT": {
+      "SourceFilename": "financials\\localizations\\emea-lva-fixed-assets-location-fields-change.md",
+      "XliffHash": "486b5043ad13e7d3f99d97e4b53057ca226bb8df",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\12670629ab37dde1731171340eaf0d924e3d5dc2.2a16bd16c5d3dd8dddd6ac1748d38621fa2e2e93.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\latam-bra-calculate-taxes.md.38551b9ac482aa3d0a9f69a3e58f031a6bdd9f7e.HT": {
+      "SourceFilename": "financials\\localizations\\latam-bra-calculate-taxes.md",
+      "XliffHash": "38551b9ac482aa3d0a9f69a3e58f031a6bdd9f7e",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\edda637cf79853f8a4b1d88e82615c4e78e7eb37.0bbd40be4d27f152f7389253edf7ad462c644ac7.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\latam-mex-adjustment-inflation-declaration-report.md.b9cad89fd44227082d061e94156941e27070db28.HT": {
+      "SourceFilename": "financials\\localizations\\latam-mex-adjustment-inflation-declaration-report.md",
+      "XliffHash": "b9cad89fd44227082d061e94156941e27070db28",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\c69eb79ca3d43a18cd6bbca2555d782d94875f8f.2b8b244aa6d7904f14282a6738fe6a16ab290425.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-import-create-postal-codes-manually.md.7a10255bb60ec37874dd92439b3ca680cbcb46b2.HT": {
+      "SourceFilename": "financials\\localizations\\emea-import-create-postal-codes-manually.md",
+      "XliffHash": "7a10255bb60ec37874dd92439b3ca680cbcb46b2",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\34ad4a2de437eac6508a7cd7525add11878fcf33.492ceb03f6c88f3feb5669f2f60bf1905931f4b0.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-esp-cash-discount-applied-invoice.md.c737bdd984f6c102e549cdfd0c4cb680ed60734f.HT": {
+      "SourceFilename": "financials\\localizations\\emea-esp-cash-discount-applied-invoice.md",
+      "XliffHash": "c737bdd984f6c102e549cdfd0c4cb680ed60734f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\3c5f43cfcc0e2d32817393af975dbfb179ca195a.aa4fd4fbcc7843e2242e7c5ad46b37d80242311c.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\latam-bra-legal-entity-parameters.md.d329eb2bd94edeb324fe563ee662ee7a2a612f4c.HT": {
+      "SourceFilename": "financials\\localizations\\latam-bra-legal-entity-parameters.md",
+      "XliffHash": "d329eb2bd94edeb324fe563ee662ee7a2a612f4c",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\55f320b61eb4148e0760993cca18b51e8cbcdbed.3e157389478b29c03af3719c4cfeefbd0cb21cd5.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\latam-bra-fiscal-documents-fiscal-document-framework.md.eb9e643161aba10aff27dcbbfdbdea0d5fc91320.HT": {
+      "SourceFilename": "financials\\localizations\\latam-bra-fiscal-documents-fiscal-document-framework.md",
+      "XliffHash": "eb9e643161aba10aff27dcbbfdbdea0d5fc91320",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\14036c6c939b5267d7a28122b3338a886ce83838.3e7e844720a81148b06b0a682513db251331a76a.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\apac-tha-stock-card-reports.md.f510fe294a51bc0f1c7d49ff4767e8a6bbf2787d.HT": {
+      "SourceFilename": "financials\\localizations\\apac-tha-stock-card-reports.md",
+      "XliffHash": "f510fe294a51bc0f1c7d49ff4767e8a6bbf2787d",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\11c3908119967e2448ffce2419f6aebb680ec75f.69e31e3238ac4b04a45ace8cbd4e4d0f709a1321.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\latam-bra-import-fiscal-documents.md.d688adc37f5b8f9e4319421597772859420a2799.HT": {
+      "SourceFilename": "financials\\localizations\\latam-bra-import-fiscal-documents.md",
+      "XliffHash": "d688adc37f5b8f9e4319421597772859420a2799",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\c80c9a1db78819e0173810db0d4e98e9e52d25bc.b80f04df3252246f4e237324b50d495569a1305a.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-deu-gdpdu-audit-data-export.md.2671e05346c0629b2ea9151de38331a58ec2f63a.HT": {
+      "SourceFilename": "financials\\localizations\\emea-deu-gdpdu-audit-data-export.md",
+      "XliffHash": "2671e05346c0629b2ea9151de38331a58ec2f63a",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\a221664d23bbbc95caf6ffd306ab675b70e80df4.a85060f540cf450ec6467d1cc90bc706ccfe170f.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\apac-jpn-fixed-asset-depreciation.md.1c845ebe7c7b314793f6f21528ff7be07d2225d7.HT": {
+      "SourceFilename": "financials\\localizations\\apac-jpn-fixed-asset-depreciation.md",
+      "XliffHash": "1c845ebe7c7b314793f6f21528ff7be07d2225d7",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\0b928c8ee3bce1f5613b7e62b71953b79bad3190.cabdf96b41b850c91e4692a51b05f5870eec9bdb.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-hun-low-cost-fixed-assets.md.59e1ec812b0ee0537e82d7d1ee0ce9d9d24bee25.HT": {
+      "SourceFilename": "financials\\localizations\\emea-hun-low-cost-fixed-assets.md",
+      "XliffHash": "59e1ec812b0ee0537e82d7d1ee0ce9d9d24bee25",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\d2e7338675a77a2c9589179365b785c31e51b616.b3a37a906bdee12686d0a8a7b3b7103a50f07ebf.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-select-file-formats-for-the-method-of-payments.md.4ebcf7cc4ce07d1b72b580a471db5e143426a4c2.HT": {
+      "SourceFilename": "financials\\localizations\\emea-select-file-formats-for-the-method-of-payments.md",
+      "XliffHash": "4ebcf7cc4ce07d1b72b580a471db5e143426a4c2",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\70a6d3ff3c998d59176a700c926dff2ce7222302.395097697d9a978bb88c0045235ec065d9697f42.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-ita-packing-slip-date-verification-on-invoice.md.65eb0f7ea1525bb66726bb95c50202973866dbdf.HT": {
+      "SourceFilename": "financials\\localizations\\emea-ita-packing-slip-date-verification-on-invoice.md",
+      "XliffHash": "65eb0f7ea1525bb66726bb95c50202973866dbdf",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\f15b88cd092bade2d9ac8c833a8ca6deb429b0cb.d2fb3df365d594d283767a2ea8f9bd93d309d087.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-bel-reconciliation-reports.md.2c44919475e6f97e589e422ce7257544aeb0d7a4.HT": {
+      "SourceFilename": "financials\\localizations\\emea-bel-reconciliation-reports.md",
+      "XliffHash": "2c44919475e6f97e589e422ce7257544aeb0d7a4",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\051fe3e40b68c50aeff1a1cfe5b9a5be8a0bc564.bd085cfb05d1f771a85958ec15df62c7c1ba07cd.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-sau-zakat-reporting.md.20b5bbf98f5aae99368cee032950d16406c2ffb0.HT": {
+      "SourceFilename": "financials\\localizations\\emea-sau-zakat-reporting.md",
+      "XliffHash": "20b5bbf98f5aae99368cee032950d16406c2ffb0",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\20ccfa52e4037beb56a318d0cad234e3c7389ba3.14345debbc88d93d60e4490c52d49b3a5f7e6998.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\latam-bra-purchase-complementary-fiscal-documents.md.38767c5fe66bd66b1abeec486b8a59fcf8d8002c.HT": {
+      "SourceFilename": "financials\\localizations\\latam-bra-purchase-complementary-fiscal-documents.md",
+      "XliffHash": "38767c5fe66bd66b1abeec486b8a59fcf8d8002c",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\5a230aad0f033e0ad84703ddd158b8b0704afdc8.a9c8f97e352452221f36798cdbea473b1540dd72.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\latam-mex-electronic-ledger-accounting-statements.md.822001d85086c7c6f91bdab498638c9a519174c6.HT": {
+      "SourceFilename": "financials\\localizations\\latam-mex-electronic-ledger-accounting-statements.md",
+      "XliffHash": "822001d85086c7c6f91bdab498638c9a519174c6",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\61bb5da3b778408978b12749aec87901d98f8fcb.43503cafb0bfcce47e70f8fd3b5bee734e160e6d.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-pol-correction-notes.md.f808079552bc5b587de26fae1151696a2851b862.HT": {
+      "SourceFilename": "financials\\localizations\\emea-pol-correction-notes.md",
+      "XliffHash": "f808079552bc5b587de26fae1151696a2851b862",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\1cde5c805412df63f3dacbf0ff5ba3616ac71c56.479b0e6cad175b824e9354243ae107ff9c888327.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\latam-bra-import-verify-nf-e-xml-documents-danfe-emails.md.579827184d0be247727f906202c0d08ff8284681.HT": {
+      "SourceFilename": "financials\\localizations\\latam-bra-import-verify-nf-e-xml-documents-danfe-emails.md",
+      "XliffHash": "579827184d0be247727f906202c0d08ff8284681",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\7af251abf77033f61c65d9f55a5b2a8938cc96e1.f72eb10b5e60616aae3e71748decd6cc25b5eee8.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-lva-vat-statement-details.md.fe17196d4380aaf753f6b849cf76d1a81cb0884d.HT": {
+      "SourceFilename": "financials\\localizations\\emea-lva-vat-statement-details.md",
+      "XliffHash": "fe17196d4380aaf753f6b849cf76d1a81cb0884d",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\f91171308e682c00d6f78689aef8c6b6a6c7150d.e04a5ca538e389226f02bcef7a13b0704b0e819a.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\apac-jpn-allocation-rules-fixed-assets.md.b60a851f6a492c6985303538dba4accdc06a71b8.HT": {
+      "SourceFilename": "financials\\localizations\\apac-jpn-allocation-rules-fixed-assets.md",
+      "XliffHash": "b60a851f6a492c6985303538dba4accdc06a71b8",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\9170585be32d0c4d60cdd8dea31fe621ee23d183.5c5a8842f671d3ff7b6d1cddf7a135954a6eb6b0.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-credit-note-reverse-fixed-asset-sale.md.d620e08155d326320d3eed283f0e939c1d3c6b3b.HT": {
+      "SourceFilename": "financials\\localizations\\emea-credit-note-reverse-fixed-asset-sale.md",
+      "XliffHash": "d620e08155d326320d3eed283f0e939c1d3c6b3b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\d9074f4d4b5ec2042c1621c5376a49642e57bde5.55bdaf6fe643e8aa1ed3c1daa1d5049deceabdcf.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\apac-jpn-reduction-entry-fixed-assets.md.1ee8c2aba2cf760d0a4263760e02b29caf83c00b.HT": {
+      "SourceFilename": "financials\\localizations\\apac-jpn-reduction-entry-fixed-assets.md",
+      "XliffHash": "1ee8c2aba2cf760d0a4263760e02b29caf83c00b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\5416380c565d1ab75d384fb4407101def2606be8.9252b64bd394a05f7b76a0cef35ae5bb47f6bede.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-esp-bill-of-exchange-options.md.cdd35d72cb5418a344a8ca6f714931cf9a83829e.HT": {
+      "SourceFilename": "financials\\localizations\\emea-esp-bill-of-exchange-options.md",
+      "XliffHash": "cdd35d72cb5418a344a8ca6f714931cf9a83829e",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\125b17cdba2fca3f255189df5d4529ad43d5235e.2d447ab61dc1f260f646937b9359c60c1e624aff.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-nor-nets-import-format.md.b3b16946168a095d31659ae129d2845ae354619a.HT": {
+      "SourceFilename": "financials\\localizations\\emea-nor-nets-import-format.md",
+      "XliffHash": "b3b16946168a095d31659ae129d2845ae354619a",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\46b289218ce0b3f6ca1e04d80131ce521d7cf589.ef61a095e4e1c70d9304737c253566df8414e789.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\apac-jpn-equally-divided-depreciation-method.md.59f0f386246f21dd599fcf491bfa035a796c0b08.HT": {
+      "SourceFilename": "financials\\localizations\\apac-jpn-equally-divided-depreciation-method.md",
+      "XliffHash": "59f0f386246f21dd599fcf491bfa035a796c0b08",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\a606a5051f1c4f39118d1220865654e37c2abe62.3c6af3612054f1fb2ed173fc2da782c6cd490045.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\apac-jpn-impairment-accounting-cash-generating-unit.md.47f502743a852865fc5d29d5301e5c9eff1a7d2d.HT": {
+      "SourceFilename": "financials\\localizations\\apac-jpn-impairment-accounting-cash-generating-unit.md",
+      "XliffHash": "47f502743a852865fc5d29d5301e5c9eff1a7d2d",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\4fb0fce5992356ac25bb54cffcbb7fe50dcfcfd8.fa81fa98253f9ba1cdfded1ab79266dad788f3a1.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\apac-chn-post-inventory-main-accounts-by-site.md.8bdcb5d136fefadf2e7104b213a95ecd97d96b31.HT": {
+      "SourceFilename": "financials\\localizations\\apac-chn-post-inventory-main-accounts-by-site.md",
+      "XliffHash": "8bdcb5d136fefadf2e7104b213a95ecd97d96b31",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\be7df2df51939035d7d8b7470b767a563b4347c4.986c1089e8ee30c094c21215852707ef3aeb171e.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-pol-sales-invoice-duplicates-numbering.md.47329e3ac287f680b89f005d46252aadeb8aaf86.HT": {
+      "SourceFilename": "financials\\localizations\\emea-pol-sales-invoice-duplicates-numbering.md",
+      "XliffHash": "47329e3ac287f680b89f005d46252aadeb8aaf86",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\046dbdda277e8b7cf2c3ac56277be454da49a1df.6ff5343461811a5c9ee33f8499618937dec5cf35.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-pol-line-discount-calculation-from-unit-price.md.b8e7a5da947798c87b18ba283cee514f28b28a92.HT": {
+      "SourceFilename": "financials\\localizations\\emea-pol-line-discount-calculation-from-unit-price.md",
+      "XliffHash": "b8e7a5da947798c87b18ba283cee514f28b28a92",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\a5c6b094513fef3da506f00c52c7069c57213a66.a8d7d4436f8a5d5e68e5164a969baa548560b07f.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\apac-chn-monthly-average-cost-model.md.90607c7780e2bc28ea7a7419bb9702c1ba45ca34.HT": {
+      "SourceFilename": "financials\\localizations\\apac-chn-monthly-average-cost-model.md",
+      "XliffHash": "90607c7780e2bc28ea7a7419bb9702c1ba45ca34",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\ec0b053f99fe44c67082cbe4a3eaa96a201ee892.38b923e81c813dc0cf50064b16fe67f02e404fbf.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-fra-rbsl-depreciation.md.6cd64fe96f16836a0cdd37f3e675264c7671f2ca.HT": {
+      "SourceFilename": "financials\\localizations\\emea-fra-rbsl-depreciation.md",
+      "XliffHash": "6cd64fe96f16836a0cdd37f3e675264c7671f2ca",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\d9adf5a06bd4fd071ba2fd0b20d0311ac06e199d.0b8819841dd113e864c54ed35607b033a3c93961.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-esp-promissory-note-options.md.71ed0626f35be29f6b97c7881bbf1a6ce1a67c3b.HT": {
+      "SourceFilename": "financials\\localizations\\emea-esp-promissory-note-options.md",
+      "XliffHash": "71ed0626f35be29f6b97c7881bbf1a6ce1a67c3b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\5cb67f3352b1adc41aaae191585d80a128a64c31.bdc684b8ffbeaf9e766ccd9c3954261379e4f1e6.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-lva-tax-natural-resources.md.d3af44a67b0505ff869e1a1dbe50643473944808.HT": {
+      "SourceFilename": "financials\\localizations\\emea-lva-tax-natural-resources.md",
+      "XliffHash": "d3af44a67b0505ff869e1a1dbe50643473944808",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\ee3a15e7c40f5aa9851245dc9c82e6eb261479f1.418f5f5b36470ece72fb55f9dc4100e6e3541e59.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-bel-intervat-tax-declaration.md.f4ba40aaf9dfe75dbfbb7736ab13b2ef8433b93b.HT": {
+      "SourceFilename": "financials\\localizations\\emea-bel-intervat-tax-declaration.md",
+      "XliffHash": "f4ba40aaf9dfe75dbfbb7736ab13b2ef8433b93b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\a15ed651cfe15133a79264a1f93d8bde2ebfc140.7d522d6443b8a5d1d6ea8d76a503e2960ee2abe8.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-fra-derogatory-depreciation.md.b9dc27484c3cc7d7c9161915b75086b3d75c735c.HT": {
+      "SourceFilename": "financials\\localizations\\emea-fra-derogatory-depreciation.md",
+      "XliffHash": "b9dc27484c3cc7d7c9161915b75086b3d75c735c",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\266070888ecfa8d06a27f21a3598444944f24b59.4ac03f535446a9810be4116fda164725d096d6ef.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-fra-print-lump-sum-recovery-text.md.f2fe5f402854c936bd462d2f464efb867e3aedec.HT": {
+      "SourceFilename": "financials\\localizations\\emea-fra-print-lump-sum-recovery-text.md",
+      "XliffHash": "f2fe5f402854c936bd462d2f464efb867e3aedec",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\1f916b9eb9a198f2e484305280c2d456480be372.7ff7c23bd489b3dea7b2343b7876b9fc0b229e30.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-est-vat-statement-details.md.e74ba21d38bd43d421b5d6518ac73767ccea6fc9.HT": {
+      "SourceFilename": "financials\\localizations\\emea-est-vat-statement-details.md",
+      "XliffHash": "e74ba21d38bd43d421b5d6518ac73767ccea6fc9",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\d27545272499ada289b9664cc56be75d0e33137a.c3d4d9c4197317ff1d39b58571244a6631aa722e.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\latam-bra-nf-e-process.md.e22fae09cb6478d353b8e0ad0e7806bb5c4c3868.HT": {
+      "SourceFilename": "financials\\localizations\\latam-bra-nf-e-process.md",
+      "XliffHash": "e22fae09cb6478d353b8e0ad0e7806bb5c4c3868",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\b20cc5f0f5448c3221e1ebd465b920d2ba576c46.adfe9945c6cc84c8f2f9076ac6ca11a8694769dd.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-pol-sales-tax-reports.md.218ffef0f3f51c5c0a630c63d525dcf80365922f.HT": {
+      "SourceFilename": "financials\\localizations\\emea-pol-sales-tax-reports.md",
+      "XliffHash": "218ffef0f3f51c5c0a630c63d525dcf80365922f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\cb1eda089c134c10609756118f329fce8544df34.d01226155e292a218b2974d70b8fab72c8265331.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\latam-bra-fiscal-document-text-placeholders.md.f381ba344aeccd93a5e156a62dffc78b836f1b06.HT": {
+      "SourceFilename": "financials\\localizations\\latam-bra-fiscal-document-text-placeholders.md",
+      "XliffHash": "f381ba344aeccd93a5e156a62dffc78b836f1b06",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\cdee7f8b3ce21303e38bb24e138726a534ae9b15.0a75769265fc451ca672fb1db2aa3a4e7f684485.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\apac-jpn-consolidate-invoices.md.afb7eab9e9b0b8ba60b6542ee9ff294f75f29e38.HT": {
+      "SourceFilename": "financials\\localizations\\apac-jpn-consolidate-invoices.md",
+      "XliffHash": "afb7eab9e9b0b8ba60b6542ee9ff294f75f29e38",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\c08fc1acddaf4ca161308dbfecdcdd76cda802c4.637323c2b1296452ffa0cb99bdc52ddcb69c8851.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-hun-fixed-asset-to-inventory.md.c55ca95ab27826e0026c3430faf0b52d9ef00a38.HT": {
+      "SourceFilename": "financials\\localizations\\emea-hun-fixed-asset-to-inventory.md",
+      "XliffHash": "c55ca95ab27826e0026c3430faf0b52d9ef00a38",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\fe654252ea20ced9da740be5a3640708fef0f0f4.d92bc6cd9338349adc67f47ba6546cdf9327b01b.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-aut-vat-statement-details.md.270567277490ed5381e9a73969476c3d4722ea7a.HT": {
+      "SourceFilename": "financials\\localizations\\emea-aut-vat-statement-details.md",
+      "XliffHash": "270567277490ed5381e9a73969476c3d4722ea7a",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\b7ed2f61f5593282b99bf141f4538193cbec13f0.8e82c7d7f9f23d897fe71616d08282105a7ddc83.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-ita-competence-date.md.342e10ef65ceef38e7b0ea12a7df14271555f332.HT": {
+      "SourceFilename": "financials\\localizations\\emea-ita-competence-date.md",
+      "XliffHash": "342e10ef65ceef38e7b0ea12a7df14271555f332",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\e52f5abfa9c683147308568d55d51bafb8169d64.697cc60ae0e10addb04430045c20838c59884297.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-ita-vat-statements-details.md.f70761ed6a84a5c35f40c83a70d5c9a54a6e6098.HT": {
+      "SourceFilename": "financials\\localizations\\emea-ita-vat-statements-details.md",
+      "XliffHash": "f70761ed6a84a5c35f40c83a70d5c9a54a6e6098",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\aa5f20a2e7c201ac721f735c6fe548fcd1d0b5c3.ce9ea4ec266b1ed4c3551c60873e1d97481fad17.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\apac-jpn-progressive-withholding-tax-calculation.md.3fd6742624e2d125a16373929f5a7e3e19b96486.HT": {
+      "SourceFilename": "financials\\localizations\\apac-jpn-progressive-withholding-tax-calculation.md",
+      "XliffHash": "3fd6742624e2d125a16373929f5a7e3e19b96486",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\03f0de364e010461215a0c4f4737314b06ceb955.7a44c5bbfd54f46d69de753d096a4646dbe45a23.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-esp-no-one-time-customer-for-project-contracts.md.740115da0b32043061e035176cece8e3ea1c12b6.HT": {
+      "SourceFilename": "financials\\localizations\\emea-esp-no-one-time-customer-for-project-contracts.md",
+      "XliffHash": "740115da0b32043061e035176cece8e3ea1c12b6",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\a383b09c3dbc377c51406cf64dc0f7e121a45b2a.241559f181897f99ce646def571326a59174c1f4.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\apac-jpn-endorse-bill-of-exchange.md.4e97ce090e66ac51b6953c9bc2cc67ccb82f5a5a.HT": {
+      "SourceFilename": "financials\\localizations\\apac-jpn-endorse-bill-of-exchange.md",
+      "XliffHash": "4e97ce090e66ac51b6953c9bc2cc67ccb82f5a5a",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\173d6c5760c876e04f7cbad74cd5a30fceea22c5.e6c7e65f08fff0f4a5b6bee6668aa119489cb153.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\apac-jpn-asset-retirement-obligation-fixed-assets.md.71078f2523a92da2bfeadb0f7b57a383d6f93d24.HT": {
+      "SourceFilename": "financials\\localizations\\apac-jpn-asset-retirement-obligation-fixed-assets.md",
+      "XliffHash": "71078f2523a92da2bfeadb0f7b57a383d6f93d24",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\df36ce1d158bc1394bdf2ebd33ba9cdb25ba30bc.dae8586f059381c4ea7585b141dd5894c46d47fb.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-bel-coda-bank-statement-import.md.e3cb83f5b4f7f5f71d225903abd19f2f4c51d8c1.HT": {
+      "SourceFilename": "financials\\localizations\\emea-bel-coda-bank-statement-import.md",
+      "XliffHash": "e3cb83f5b4f7f5f71d225903abd19f2f4c51d8c1",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\c9fd101561ad2b699e813d47541a28a0978171a4.0b668776032cab1b810adb37d9b730e68bf92954.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\latam-mex-CFDI-electronic-invoices.md.ca32caf2e1b2dc6e2a5a0025f63e42bacec69715.HT": {
+      "SourceFilename": "financials\\localizations\\latam-mex-CFDI-electronic-invoices.md",
+      "XliffHash": "ca32caf2e1b2dc6e2a5a0025f63e42bacec69715",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\607b4ca8f7c477b38abb791d1817a846734b0e18.bfa9894b7faf4fcd98d932f217dab9063299c84a.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-ita-split-payment-invoices-issued-public-administration.md.300fb61764621b0e4873d48de000a2a38f7f731f.HT": {
+      "SourceFilename": "financials\\localizations\\emea-ita-split-payment-invoices-issued-public-administration.md",
+      "XliffHash": "300fb61764621b0e4873d48de000a2a38f7f731f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\2a6429c0fda290cc56620f5f4ea0f7e26d17f549.4d6886c6c63a2c8212d50b3a150cdecaae471663.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-lva-fixed-assets-accounting.md.501beb36a9d3c2458cccc5696f485a0f8dc4e143.HT": {
+      "SourceFilename": "financials\\localizations\\emea-lva-fixed-assets-accounting.md",
+      "XliffHash": "501beb36a9d3c2458cccc5696f485a0f8dc4e143",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\09534346474d26e23172fc33d6d1bea57ea71446.747ebeec66fb365d60e0001acf7d32774acf27c4.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-ita-black-list-report.md.f2c50dcab28dd88413bea53bf60742bcecb9fbc9.HT": {
+      "SourceFilename": "financials\\localizations\\emea-ita-black-list-report.md",
+      "XliffHash": "f2c50dcab28dd88413bea53bf60742bcecb9fbc9",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\cdadfbd44266b0d406f59c66b63683f1ba53c064.5a2d515d83043ae2aa4aba935a30e5ccd6a48e0c.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\apac-chn-negative-debits-credits.md.e971eae343f3fbef1271ebd9bcc49c686c29ea88.HT": {
+      "SourceFilename": "financials\\localizations\\apac-chn-negative-debits-credits.md",
+      "XliffHash": "e971eae343f3fbef1271ebd9bcc49c686c29ea88",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\db772ad4f7d3ef3d83eb3407ee3e60e8830d223e.d14be5d2238aa7c6c9e7d7737be303734a4711d6.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-esp-sales-purchase-cycle.md.23bf82aa7503c205104c84f97ca062182a4ba71e.HT": {
+      "SourceFilename": "financials\\localizations\\emea-esp-sales-purchase-cycle.md",
+      "XliffHash": "23bf82aa7503c205104c84f97ca062182a4ba71e",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\8a9b55172df45d6676806dc0deecb1d0dcddea0f.829611b55c649ad5681a90a0a791db3b22793e1c.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-aut-packing-material-fee-calculation.md.54abf1f5cb3b4643ed2178e5c1f53e5039d7455f.HT": {
+      "SourceFilename": "financials\\localizations\\emea-aut-packing-material-fee-calculation.md",
+      "XliffHash": "54abf1f5cb3b4643ed2178e5c1f53e5039d7455f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\55578117df512db04cdd335acd11d12fe07e772c.c1ffc89fd89d3c47d403391d47964850c27708fe.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-ita-withholding tax.md.11a1ef546077bea57af80a9b5c9371cf4af34069.HT": {
+      "SourceFilename": "financials\\localizations\\emea-ita-withholding tax.md",
+      "XliffHash": "11a1ef546077bea57af80a9b5c9371cf4af34069",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\0c69966ba36bffe440de3960183611580b6968ca.2752b41e15b03188403e2cea4e38733d97835a98.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "financials\\localizations\\emea-deu-journal-list-report.md.20c9e921af41f882317b09410425dbad3c16b544.HT": {
+      "SourceFilename": "financials\\localizations\\emea-deu-journal-list-report.md",
+      "XliffHash": "20c9e921af41f882317b09410425dbad3c16b544",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\0f53f1e471d082634f1a2b2710cdf1a2fa600010.6c70dd1c0a48af567722dcc70b10a97c6d6f3632.xml",
       "LocXliff": null,
       "LocXliffCommit": null
     }
