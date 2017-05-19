@@ -14,9 +14,6 @@
   "689d8f9fb0501c5007db21d41f126737af77b89e": [
     "core\\get-started\\action-search.md"
   ],
-  "2fba43a0580267b14a01651ef8d1860f12f95d36": [
-    "core\\get-started\\action-search.md"
-  ],
   "e29d436560590e844e92180a6d1e2ad53d019662": [
     "core\\get-started\\display-pages-side-by-side.md"
   ],
@@ -44,28 +41,16 @@
   "87fed576f8cf358520d94f5cd5b326ff9801913a": [
     "core\\get-started\\navigation-search.md"
   ],
-  "1430efd647308d44653679e3c73323e73c95632d": [
-    "core\\get-started\\navigation-search.md"
-  ],
   "734bf8a5cd71d218942e1a57fbb6af8fef4dc998": [
     "core\\get-started\\personalize-user-experience.md"
   ],
   "8965c193839002776b3c61036b23b54625c974a4": [
     "core\\get-started\\personalize-user-experience.md"
   ],
-  "45181776a1bc77f3a6552b8fa46aec2e78ef7b08": [
-    "core\\get-started\\personalize-user-experience.md"
-  ],
   "3be54879494948f75b192fcc22239b9064173220": [
     "core\\get-started\\recently-added-editing-features-in-task-recorder.md"
   ],
   "c4f9ac515eab6ed8b194fc8985f6d3fae40ced38": [
-    "core\\get-started\\recently-added-editing-features-in-task-recorder.md"
-  ],
-  "7be9827c7cb9cc82c1c236ae17a51b16c4c311cd": [
-    "core\\get-started\\recently-added-editing-features-in-task-recorder.md"
-  ],
-  "9201930469ce8ede01c797681bc4981b07de4c84": [
     "core\\get-started\\recently-added-editing-features-in-task-recorder.md"
   ],
   "ef434747c075a32887035fa1d3c0e6fecd4e0a0d": [
@@ -80,19 +65,10 @@
   "6a25593632575dcd71fa4a3c9cf5b83c9f8ecd39": [
     "core\\get-started\\use-lookups-to-find-information.md"
   ],
-  "8cf5408d28a70d83217400b30123e13b55242b1d": [
-    "core\\get-started\\use-lookups-to-find-information.md"
-  ],
   "3029cb441d124e6e5aa427f7fcd95540700254c6": [
     "core\\get-started\\view-export-field-descriptions.md"
   ],
   "d4fc9cdee0e2160e363f9defcf6bdbc57ed4db74": [
-    "core\\get-started\\view-export-field-descriptions.md"
-  ],
-  "7e23bef0c8e21ab89359820706cfbec16af66cbf": [
-    "core\\get-started\\view-export-field-descriptions.md"
-  ],
-  "0a257d2439b9fc190617cf6d318b0a2c18ac9c12": [
     "core\\get-started\\view-export-field-descriptions.md"
   ],
   "c023b1a432a360ab4efbf090c8ebf9a6d6a19289": [
@@ -108,12 +84,6 @@
     "core\\index.md"
   ],
   "15f9d53a2c5d44fdede0660e7ba4ca23f13db768": [
-    "core\\index.md"
-  ],
-  "bc8b4f628d5e519672ea42e994a6ecd6b367849c": [
-    "core\\index.md"
-  ],
-  "f7844cb0a9cd19eb8147a6d626623795d9f53147": [
     "core\\index.md"
   ],
   "5d17447909d8e5db7688290a373550923bfd150d": [
@@ -197,9 +167,6 @@
   "1255cf90498f1968568dd2fa5a1377d989f40182": [
     "core\\organization-administration\\create-workflow.md"
   ],
-  "6fe5cbf6e60141a5ede91c2ff68b31053aa00ef0": [
-    "core\\organization-administration\\create-workflow.md"
-  ],
   "76a25add70335918574e9d7ce6663e0a7d325f7e": [
     "core\\organization-administration\\date-time-zones.md"
   ],
@@ -210,9 +177,6 @@
     "core\\organization-administration\\electronic-signature-overview.md"
   ],
   "820c8cfd426ef760a85371623739b78a407e4c53": [
-    "core\\organization-administration\\electronic-signature-overview.md"
-  ],
-  "f340036cbccb155b8a29d9d642af0c3df0e029ca": [
     "core\\organization-administration\\electronic-signature-overview.md"
   ],
   "ce03d3b55ecdc05f70a36762f7de49b3018b6451": [
@@ -258,9 +222,6 @@
     "core\\organization-administration\\plan-configuration-global-address-book-additional-address-books.md"
   ],
   "abd9ec44530522657f758b35e8f987aa92c3b0e3": [
-    "core\\organization-administration\\plan-configuration-global-address-book-additional-address-books.md"
-  ],
-  "ca81be637eb5b07b084eb6a5d102d2cd78465ff5": [
     "core\\organization-administration\\plan-configuration-global-address-book-additional-address-books.md"
   ],
   "b43a361bdc9b49080d15aab13f2267897b114094": [
@@ -309,12 +270,6 @@
     "core\\TOC.md"
   ],
   "05413e427e14ada8561de3ff3d41f1b6c00eb2df": [
-    "core\\TOC.md"
-  ],
-  "db3638e6128ab9ca3e17cda3daa2e4e51b7d1e58": [
-    "core\\TOC.md"
-  ],
-  "80c8358f889e1d937300a8ce289136e0333f733e": [
     "core\\TOC.md"
   ],
   "90a4962e6276b3c7d7ba9b1386a076f554b200bb": [
@@ -957,9 +912,6 @@
     "dev-itpro\\data-entities\\tips-tricks-import-general-journal-entity.md"
   ],
   "81a52acd1d9baa12fcfe9d848441901894fa5682": [
-    "dev-itpro\\data-entities\\tips-tricks-import-general-journal-entity.md"
-  ],
-  "7ce365f49a4f5fa654102e17f04bddc014ee448a": [
     "dev-itpro\\data-entities\\tips-tricks-import-general-journal-entity.md"
   ],
   "eceb3c4cb1823156121c4cb055aa30d7d46a5231": [
@@ -1607,16 +1559,10 @@
   "8f75131c6be6ce0f23cce456405d5e211912f19a": [
     "dev-itpro\\get-started\\getting-started-home-page.md"
   ],
-  "f764f66d6ddefe5c7680ceba077d69d888590f06": [
-    "dev-itpro\\get-started\\getting-started-home-page.md"
-  ],
   "f9af4de5f15125569d8f3e78f36e6a2b9c2a089b": [
     "dev-itpro\\get-started\\help-connect.md"
   ],
   "5ac5e30cff2239f601778001368fa7aaba478f5c": [
-    "dev-itpro\\get-started\\help-connect.md"
-  ],
-  "fc9fc8b69d8a5d9cabc7c46f9a6a3055407476e7": [
     "dev-itpro\\get-started\\help-connect.md"
   ],
   "add4470034a7a1943a9779189ea7babc8a799e69": [
@@ -1625,28 +1571,16 @@
   "240060606c8a2955c3f0a0d47fb25b0cde64c187": [
     "dev-itpro\\get-started\\help-overview.md"
   ],
-  "5f5e8c3aee47bed15a977c6f31daead62d3dfbe6": [
-    "dev-itpro\\get-started\\help-overview.md"
-  ],
-  "fed8aa7981807106374cd73212ff8b39244ba639": [
-    "dev-itpro\\get-started\\help-overview.md"
-  ],
   "d9e6620c1f4c808646e6f5c3b9f5b607c64c51df": [
     "dev-itpro\\get-started\\new-task-guides-available-february-2016.md"
   ],
   "6462951cba3c289368887a037d4b71187f4523df": [
     "dev-itpro\\get-started\\new-task-guides-available-february-2016.md"
   ],
-  "1a60621b1cf960465182ba45ed38baaf196d59f6": [
-    "dev-itpro\\get-started\\new-task-guides-available-february-2016.md"
-  ],
   "31ee360b2f525ed147dc1fa2819c4aa6efc98267": [
     "dev-itpro\\get-started\\new-task-guides-november-2016.md"
   ],
   "87a0379c9f007692ef1eb65206dc7c39c29e033f": [
-    "dev-itpro\\get-started\\new-task-guides-november-2016.md"
-  ],
-  "574f844ef575ac39ceed76fedb84bb2ade84b50c": [
     "dev-itpro\\get-started\\new-task-guides-november-2016.md"
   ],
   "e5db973d9402d62e1143436ec8d9577fa3df59ea": [
@@ -1667,9 +1601,6 @@
   "9220c093d3f6d6700127c93651db4083be300311": [
     "dev-itpro\\get-started\\system-requirements.md"
   ],
-  "e6f0be4cc9e458ec87108e9601b5e5d744958040": [
-    "dev-itpro\\get-started\\system-requirements.md"
-  ],
   "21ae7f171eba6ba254dcef0b75c4e3935e33089d": [
     "dev-itpro\\get-started\\TOC.md"
   ],
@@ -1688,9 +1619,6 @@
   "2928b86a9dbf001451933f9d17287400cafaf089": [
     "dev-itpro\\get-started\\whats-new-changed-7-0-february-2016.md"
   ],
-  "b41b39eba5d0ba99586d8da2eca39531658189b8": [
-    "dev-itpro\\get-started\\whats-new-changed-7-0-february-2016.md"
-  ],
   "e9752e288eedac687f591275e6a4c71b1e2475f2": [
     "dev-itpro\\get-started\\whats-new-changed-application-version-7-0-1-may-2016.md"
   ],
@@ -1707,9 +1635,6 @@
     "dev-itpro\\get-started\\whats-new-dynamics-365-operations-1611.md"
   ],
   "82d03b6bc190fb612dd2cc7a25dc11875212f1ea": [
-    "dev-itpro\\get-started\\whats-new-dynamics-365-operations-1611.md"
-  ],
-  "b38b34edf5cc23cb295f9a379c54883d914ad782": [
     "dev-itpro\\get-started\\whats-new-dynamics-365-operations-1611.md"
   ],
   "920f692912360df589d8898546379452cdb7e7b7": [
@@ -3014,12 +2939,6 @@
   "b74357405781df4d7df948c6919d79aee4f82052": [
     "dev-itpro\\user-interface\\factbox-form-patterns.md"
   ],
-  "2573c6d20db45c85637a055d4d261a61b24420cf": [
-    "dev-itpro\\user-interface\\factbox-form-patterns.md"
-  ],
-  "74f5128df7454429cab8041a67dc7fa9466fd484": [
-    "dev-itpro\\user-interface\\factbox-form-patterns.md"
-  ],
   "77fef2b47addc47479b0345bb5acf5c39bd5c4dd": [
     "dev-itpro\\user-interface\\fields-field-groups-subpattern.md"
   ],
@@ -3129,9 +3048,6 @@
     "dev-itpro\\user-interface\\list-page-form-pattern.md"
   ],
   "5056b9eca3ac7eba0a4fa6ef7fd7d41710c5818d": [
-    "dev-itpro\\user-interface\\list-page-form-pattern.md"
-  ],
-  "39ab70cd25cb179b29323a1dc00f19c49e2df976": [
     "dev-itpro\\user-interface\\list-page-form-pattern.md"
   ],
   "c7ac464e4bb5e891e95c7a786aa7181ae235afa6": [
@@ -3305,9 +3221,6 @@
   "20231f10deebc1f7dc981e33af3d180aab1fc9e4": [
     "dev-itpro\\user-interface\\simple-details-form-pattern.md"
   ],
-  "507ff575f760f3b7322d05e203ab4289d2bb0f59": [
-    "dev-itpro\\user-interface\\simple-details-form-pattern.md"
-  ],
   "84ca49e7da8fd0656c4ac84cd63b039af1cce95c": [
     "dev-itpro\\user-interface\\simple-list-details-form-pattern.md"
   ],
@@ -3377,16 +3290,10 @@
   "797da5cb17542f6e470f2977d46175b6aabde610": [
     "dev-itpro\\user-interface\\tabular-fields-subpattern.md"
   ],
-  "75f353d213c5f12115e9d8484afdf8b9fb30c4e7": [
-    "dev-itpro\\user-interface\\tabular-fields-subpattern.md"
-  ],
   "4419986decb186088cc691bb2979260e424a233e": [
     "dev-itpro\\user-interface\\task-double-form-pattern.md"
   ],
   "54b152c8369afb711e055b57e02be5851483efbf": [
-    "dev-itpro\\user-interface\\task-double-form-pattern.md"
-  ],
-  "dc44f07d6711abce3274a58d7fa976b968f8d685": [
     "dev-itpro\\user-interface\\task-double-form-pattern.md"
   ],
   "3fbadb5246decf8067856a0f033e4e120e1ff3ba": [
@@ -3419,9 +3326,6 @@
   "9e6306271e3e264824cbf0953356ea6d26a37bb3": [
     "dev-itpro\\user-interface\\task-single-form-pattern.md"
   ],
-  "2547da8436dbfe64f783c0356342ab45681dc39c": [
-    "dev-itpro\\user-interface\\task-single-form-pattern.md"
-  ],
   "d9c2f88ae0b454564b7d35481e480f9f15667a66": [
     "dev-itpro\\user-interface\\testing-forms-custom-patterns.md"
   ],
@@ -3449,12 +3353,6 @@
   "410b583c2da3f1e3b99e68ea57af1b478fd87229": [
     "dev-itpro\\user-interface\\toolbar-fields-subpattern.md"
   ],
-  "e451ad41239545cd6c4466b3d632dc04de997267": [
-    "dev-itpro\\user-interface\\toolbar-fields-subpattern.md"
-  ],
-  "3de2e2de53986ab5b2c81d8c17b202143ea75ceb": [
-    "dev-itpro\\user-interface\\toolbar-fields-subpattern.md"
-  ],
   "3c2b4318a0f2943dd17e453f1536a7209b28861b": [
     "dev-itpro\\user-interface\\toolbar-list-subpattern.md"
   ],
@@ -3480,9 +3378,6 @@
     "dev-itpro\\user-interface\\wizard-form-pattern.md"
   ],
   "75d565de5ce8666c93812216ee35ea24bfbcb5d1": [
-    "dev-itpro\\user-interface\\wizard-form-pattern.md"
-  ],
-  "ae57d0dfb9c9bfbf484e5bdebb87e8a8d38db75d": [
     "dev-itpro\\user-interface\\wizard-form-pattern.md"
   ],
   "2e4c09ebcf97566d8204343d4c5ac88068bd2775": [
@@ -3527,16 +3422,10 @@
   "c0febeaf790fd9d2281f0e98089eb557ca1f7cec": [
     "financials\\accounts-payable\\accounts-payable.md"
   ],
-  "f34b14adeaa6fd416af8f5ee329ba538b088eb0b": [
-    "financials\\accounts-payable\\accounts-payable.md"
-  ],
   "0c10545db1ac13ae94f7792ac09a50437b78d4b3": [
     "financials\\accounts-payable\\accounts-payable-invoice-matching.md"
   ],
   "8d4f84df5722aaff5589cb30314657578fec964f": [
-    "financials\\accounts-payable\\accounts-payable-invoice-matching.md"
-  ],
-  "e7325cebf2f6a45d84e07f9fd854b5184a760881": [
     "financials\\accounts-payable\\accounts-payable-invoice-matching.md"
   ],
   "8581401bfefe4ddf29f32691b5678317e392db96": [
@@ -3578,9 +3467,6 @@
   "30229c0d24aed0bd927993b9af76b32d9bb073ee": [
     "financials\\accounts-payable\\mobile-invoice-approvals.md"
   ],
-  "ec8631ba48393717cd244d2e4ee0a04e870b52d1": [
-    "financials\\accounts-payable\\mobile-invoice-approvals.md"
-  ],
   "5cd2bf3525c99d41c30cdee3002cb08951dbd03d": [
     "financials\\accounts-payable\\positive-pay-overview.md"
   ],
@@ -3608,9 +3494,6 @@
   "f09aef9cf1e516b80f908c34b2b3c3397dde8a0f": [
     "financials\\accounts-payable\\project-invoicing.md"
   ],
-  "11e59fbceaa51997c0d9d0501141c09146942d97": [
-    "financials\\accounts-payable\\project-invoicing.md"
-  ],
   "c947f84e6510073d49045f93af703c16d0ebc1ba": [
     "financials\\accounts-payable\\resolve-invoice-totals-invoice-matching-discrepancies.md"
   ],
@@ -3629,19 +3512,10 @@
   "848df5e3898f37284d7746c59bff8b38d35ac883": [
     "financials\\accounts-payable\\sepa-credit-transfer.md"
   ],
-  "71290e1906d52877c7eb4ad3fc4a73287f7df2a3": [
-    "financials\\accounts-payable\\sepa-credit-transfer.md"
-  ],
-  "28abd5cfde51361e301c25da7918a63f4f51f78c": [
-    "financials\\accounts-payable\\sepa-credit-transfer.md"
-  ],
   "0b96ab8833146041bd41fe8b1b0d9aad28287e29": [
     "financials\\accounts-payable\\settle-partial-customer-payment-or-final-payment-before-discount.md"
   ],
   "ac2c569666b97bc430d3d677366a88446ab76091": [
-    "financials\\accounts-payable\\settle-partial-customer-payment-or-final-payment-before-discount.md"
-  ],
-  "3315409c98ce355670184acf61ae23ea786e95dd": [
     "financials\\accounts-payable\\settle-partial-customer-payment-or-final-payment-before-discount.md"
   ],
   "c7ab943d368c82e7d6c586ec5105210a928e2d31": [
@@ -3666,9 +3540,6 @@
     "financials\\accounts-payable\\settle-partial-vendor-payment-or-final-payment-before-discount.md"
   ],
   "6cd87dc1b34d1d689d5417359e1ec3a34d53afb4": [
-    "financials\\accounts-payable\\settle-partial-vendor-payment-or-final-payment-before-discount.md"
-  ],
-  "89bbf10dc126078b77c7e5c571729a8e72035c2e": [
     "financials\\accounts-payable\\settle-partial-vendor-payment-or-final-payment-before-discount.md"
   ],
   "408d08628da983a865e7eabc8ebe1ec05c390372": [
@@ -3719,9 +3590,6 @@
   "822e621f22f8af63b2a827dcc50a6b0ac68d3e21": [
     "financials\\accounts-payable\\vendor-portal-invoicing-workspace.md"
   ],
-  "4ebcf155106ff124b63d7b77c729fc199f0045aa": [
-    "financials\\accounts-payable\\vendor-portal-invoicing-workspace.md"
-  ],
   "3354fb9a724c46c296e7cc9fad179a50704520bf": [
     "financials\\accounts-payable\\vendor-posting-profiles.md"
   ],
@@ -3743,9 +3611,6 @@
   "03d08f2cf75a8307bc465464917d86efc69be46f": [
     "financials\\accounts-receivable\\accounts-receivable.md"
   ],
-  "650f0600e19855261d7347b04d2ca6ab5543a03d": [
-    "financials\\accounts-receivable\\accounts-receivable.md"
-  ],
   "0740ee62a1d7873fdab3d8951f296ec917d95c7f": [
     "financials\\accounts-receivable\\accounts-receivables-set-up-overview.md"
   ],
@@ -3758,9 +3623,6 @@
   "a751973b49febd6925267d00fb1d2c72114f86b0": [
     "financials\\accounts-receivable\\automatic-settlement-prioritization.md"
   ],
-  "3076b002691e2eb37b84de506c5331be469fdfeb": [
-    "financials\\accounts-receivable\\automatic-settlement-prioritization.md"
-  ],
   "d3fd164ded7feabff716f3d4a71f77aab85418d9": [
     "financials\\accounts-receivable\\centralized-payments-accounts-receivable.md"
   ],
@@ -3771,9 +3633,6 @@
     "financials\\accounts-receivable\\close-accounts-receivable.md"
   ],
   "013c638b93bf2fe97b594de57a363c11e9a98dad": [
-    "financials\\accounts-receivable\\close-accounts-receivable.md"
-  ],
-  "74545c87a5fa59e369ee769026a4a35249033565": [
     "financials\\accounts-receivable\\close-accounts-receivable.md"
   ],
   "050c9f3ba539906bdbfbc5b4e4ee4af336236b73": [
@@ -3806,9 +3665,6 @@
   "6fd78a587d70ec371861084ac9f76b439c821a8f": [
     "financials\\accounts-receivable\\customer-payment-settle-multiple-invoices-multiple-discount-periods.md"
   ],
-  "8d927bcf3b33c9c370977f27b465a27dd8addc02": [
-    "financials\\accounts-receivable\\customer-payment-settle-multiple-invoices-multiple-discount-periods.md"
-  ],
   "11fa0f0afa7ab400c87d6e7558292385ae80c8b2": [
     "financials\\accounts-receivable\\customer-payments-partial-amount.md"
   ],
@@ -3837,9 +3693,6 @@
     "financials\\accounts-receivable\\sepa-direct-debit-overview.md"
   ],
   "849fea6030c665e1724c3fc8f31353dd4bafed27": [
-    "financials\\accounts-receivable\\sepa-direct-debit-overview.md"
-  ],
-  "2befef6ac479befcf7c1f5b5720934c2c3bc323a": [
     "financials\\accounts-receivable\\sepa-direct-debit-overview.md"
   ],
   "a12c5b0ab85ac336592941f1fb62aa62ddc5d40d": [
@@ -3896,9 +3749,6 @@
   "b62e14f7c91692ae97bb332b38b0deeb328cc1bd": [
     "financials\\budgeting\\basic-budgeting-overview-configuration.md"
   ],
-  "6713402f77f7dd89a01235767479aa27832c64ba": [
-    "financials\\budgeting\\basic-budgeting-overview-configuration.md"
-  ],
   "4caef8eb4d11ad5d2ba1ce0e23d869c0b26b5466": [
     "financials\\budgeting\\budget-control-overview-configuration.md"
   ],
@@ -3911,19 +3761,10 @@
   "f7b4efc06b8e64c05da026850b41cb5b68c33ec3": [
     "financials\\budgeting\\budgeting-overview.md"
   ],
-  "42ee0f2c5455a6d8887fc1e87310ce85438afdbf": [
-    "financials\\budgeting\\budgeting-overview.md"
-  ],
-  "8d2b89dc473b8870a6ee86208479e34396bda3aa": [
-    "financials\\budgeting\\budgeting-overview.md"
-  ],
   "cc1931c817cda318ca6fd61f93dd0eab1aa3fbf1": [
     "financials\\budgeting\\budget-plan.md"
   ],
   "81b44aa7af3a05ebc28963f406fab98bfbbb340d": [
-    "financials\\budgeting\\budget-plan.md"
-  ],
-  "42c0beb80edd059328a5f2857135513a0b2d1647": [
     "financials\\budgeting\\budget-plan.md"
   ],
   "8bf0bbdf3fec72761f5db0ffd6d60140e52581c1": [
@@ -3936,9 +3777,6 @@
     "financials\\budgeting\\budget-planning-excel-templates.md"
   ],
   "0e2eb6e7c130f03edbf60a185d397d94b5d61d7d": [
-    "financials\\budgeting\\budget-planning-excel-templates.md"
-  ],
-  "74ee8815a2f262c24e6f4e2e7dcf99a37728a523": [
     "financials\\budgeting\\budget-planning-excel-templates.md"
   ],
   "f2b29978fd0e0cb5e90937a15bd5be6b3674b06c": [
@@ -3957,12 +3795,6 @@
     "financials\\budgeting\\budget-planning-overview-configuration.md"
   ],
   "d5073958f8ffe90e47dc10cde67e081420e559a1": [
-    "financials\\budgeting\\budget-planning-overview-configuration.md"
-  ],
-  "eb8fd2a4eeaf831539461551c93a9bd7c7123b57": [
-    "financials\\budgeting\\budget-planning-overview-configuration.md"
-  ],
-  "3dedb8a5df77e886c46a48967effb089e9c5fe9a": [
     "financials\\budgeting\\budget-planning-overview-configuration.md"
   ],
   "eeba79c99f6eb730a2e5cb14aeeceaa2f5894434": [
@@ -4025,9 +3857,6 @@
   "eb3104ebebf0e94d91eb5b4df82900dccb5c75ea": [
     "financials\\cash-bank-management\\cash-bank-management.md"
   ],
-  "d7168463f994a06ce128f5abf0f4af5ac987ded9": [
-    "financials\\cash-bank-management\\cash-bank-management.md"
-  ],
   "6379f63a367dab51fa3ed6465ed8422a44ef7a7a": [
     "financials\\cash-bank-management\\cash-discount-handling-overpayments.md"
   ],
@@ -4052,9 +3881,6 @@
   "6927ed98c82f174a18d3d8821fbdb302801835c4": [
     "financials\\cash-bank-management\\configure-settlement.md"
   ],
-  "4c3d80a314b7b7ad23c15d005dcddbc9b1c46591": [
-    "financials\\cash-bank-management\\configure-settlement.md"
-  ],
   "adb1f7a2d709b607c3065f4c2fb4d24cb4849ec1": [
     "financials\\cash-bank-management\\foreign-currency-revaluation-accounts-payable-accounts-receivable.md"
   ],
@@ -4067,16 +3893,10 @@
   "9717cf2f36033efe8465906324966242977c6eb2": [
     "financials\\cash-bank-management\\import-bank-statement-file-failed-incorrect-results.md"
   ],
-  "544fd8b5405dfa5165bc3e6ec85536f4ae1a8e3d": [
-    "financials\\cash-bank-management\\import-bank-statement-file-failed-incorrect-results.md"
-  ],
   "3d8225fb38049df3144237b3af869b16d7535206": [
     "financials\\cash-bank-management\\letters-of-credit.md"
   ],
   "9c9afaa7829143c8accac0f7a51a33ea9d22bd67": [
-    "financials\\cash-bank-management\\letters-of-credit.md"
-  ],
-  "2dba69234ac45596b1df4dcfe4719338236ea2e5": [
     "financials\\cash-bank-management\\letters-of-credit.md"
   ],
   "b82d8233eb427acd341255202c30b4857a44a497": [
@@ -4097,9 +3917,6 @@
   "7349771b7f9a1ad4cd5b239f1d10bd3229d2d0df": [
     "financials\\cash-bank-management\\postdated-checks.md"
   ],
-  "7a3c8dd3c183f2fe3ebef6048b455ea0539fa27c": [
-    "financials\\cash-bank-management\\postdated-checks.md"
-  ],
   "b99e8db324592cb32ae6fba7f0e0642100a09638": [
     "financials\\cash-bank-management\\reconcile-bank-statements-advanced-bank-reconciliation.md"
   ],
@@ -4112,9 +3929,6 @@
   "adbfa6f99c481129e8cbf4a2dc4b23b4be1e8b34": [
     "financials\\cash-bank-management\\settlement-overview.md"
   ],
-  "9d087e94b69a3ee3cc7245332de99c0d762afab3": [
-    "financials\\cash-bank-management\\settlement-overview.md"
-  ],
   "7389844e8b05582294f644b31c872866967a6721": [
     "financials\\cash-bank-management\\settlement-overview-centralized-payments.md"
   ],
@@ -4125,9 +3939,6 @@
     "financials\\cash-bank-management\\set-up-advanced-bank-reconciliation-import-process.md"
   ],
   "acf7bacf6e95725024ff0a542a059349593d01a0": [
-    "financials\\cash-bank-management\\set-up-advanced-bank-reconciliation-import-process.md"
-  ],
-  "5ac4d954b3a0e71a352fd446dc531c632eb540f5": [
     "financials\\cash-bank-management\\set-up-advanced-bank-reconciliation-import-process.md"
   ],
   "fc3b12d05d6acb54a3868b67e1168188fcb12a6f": [
@@ -4154,16 +3965,10 @@
   "2e46fdd869cb8651ab7ee04cf58fe6f1e0e27c0b": [
     "financials\\cost-accounting\\cost-accounting-home-page.md"
   ],
-  "5b3179a4e09ae3a2ade91a41d95ea45465c9a395": [
-    "financials\\cost-accounting\\cost-accounting-home-page.md"
-  ],
   "256ac07d1dce7c6a9a513278307e7a0646e1a35a": [
     "financials\\cost-accounting\\cost-controlling-mobile-workspace.md"
   ],
   "8136efb1d2669c39fcc0f80b60e80ecae983d5d8": [
-    "financials\\cost-accounting\\cost-controlling-mobile-workspace.md"
-  ],
-  "bddbfa7d0db8dc729bed11f268540e7fd1cef0aa": [
     "financials\\cost-accounting\\cost-controlling-mobile-workspace.md"
   ],
   "f1eddd4331c424b5af52e951bf8ee4060e3dccb1": [
@@ -4194,9 +3999,6 @@
     "financials\\cost-accounting\\terms-cost-accounting.md"
   ],
   "1ae6b43bdc1812ca822a1abe2a0e823cb797a511": [
-    "financials\\cost-accounting\\terms-cost-accounting.md"
-  ],
-  "70893294e575cad0f86d454912ceacd8cfc1a47d": [
     "financials\\cost-accounting\\terms-cost-accounting.md"
   ],
   "710cfff4b7b6d2f5d0701598f108b79d0e2cb90c": [
@@ -4298,9 +4100,6 @@
   "d57c1811bfed466b7707214b85bc1fcecabbce2b": [
     "financials\\fixed-assets\\factor-depreciation.md"
   ],
-  "5607930d7d81fc572a88a0ac080230050871602c": [
-    "financials\\fixed-assets\\factor-depreciation.md"
-  ],
   "124aa1aec7ff2cee51128ab0bc10e7f679414157": [
     "financials\\fixed-assets\\fixed-asset-acquisition-posting-accounts.md"
   ],
@@ -4337,9 +4136,6 @@
   "cdcf247f33a35ebae4af4ff22c10083642e9f97a": [
     "financials\\fixed-assets\\fixed-assets.md"
   ],
-  "18e7cf6db114e88370d4cf66dd6dceb25501b49a": [
-    "financials\\fixed-assets\\fixed-assets.md"
-  ],
   "602515e9ea5681fd0bbe74525365b6628fee62d3": [
     "financials\\fixed-assets\\fixed-asset-value-model-depreciation-book-merge.md"
   ],
@@ -4364,9 +4160,6 @@
   "4b112eee303604149c7609972a60c2014d4be423": [
     "financials\\fixed-assets\\post-fixed-asset-transactions-posting-layers.md"
   ],
-  "b19e01aaabcb10df1dc509b8c1a209942f72eae8": [
-    "financials\\fixed-assets\\post-fixed-asset-transactions-posting-layers.md"
-  ],
   "5ddaaaf166224a74999f3ab0cfa325f7e2e07221": [
     "financials\\fixed-assets\\recalculate-replacement-costs-insured-values-fixed-asset-groups.md"
   ],
@@ -4377,9 +4170,6 @@
     "financials\\fixed-assets\\reduce-balance-depreciation.md"
   ],
   "0dede1cabccf672475ea242f05d5de06dc8e78c5": [
-    "financials\\fixed-assets\\reduce-balance-depreciation.md"
-  ],
-  "4f10131dcd3246723bbbe26c413142e97d60ea56": [
     "financials\\fixed-assets\\reduce-balance-depreciation.md"
   ],
   "f4c7c657797e2c0daf35ecbe4092c2e3431a92ac": [
@@ -4394,16 +4184,10 @@
   "dde8053df96d03c8c8e52fa6d2fdf7f74e95ec92": [
     "financials\\fixed-assets\\set-up-fixed-assets.md"
   ],
-  "be08c51248e7c921d796c576c50b7dc8db51bcbd": [
-    "financials\\fixed-assets\\set-up-fixed-assets.md"
-  ],
   "3b424d34a1469ac37e96927dea5627f5f2fed8ee": [
     "financials\\fixed-assets\\straight-line-life-remaining-depreciation.md"
   ],
   "9b690b80f148e7ccecba19850bd78c81216d8658": [
-    "financials\\fixed-assets\\straight-line-life-remaining-depreciation.md"
-  ],
-  "3eb68d31260169fd73790376ec87fa3f41c763d5": [
     "financials\\fixed-assets\\straight-line-life-remaining-depreciation.md"
   ],
   "b210a69ee8675127f6799e0531c024c7b48f4e32": [
@@ -4425,9 +4209,6 @@
     "financials\\general-ledger\\audit-policy-rules.md"
   ],
   "137777a70e9f653843005af12c0779a62e27a4cb": [
-    "financials\\general-ledger\\audit-policy-rules.md"
-  ],
-  "e020824f675d1e0536f0a72a4e45d4ab5076d48c": [
     "financials\\general-ledger\\audit-policy-rules.md"
   ],
   "fbc8dd8f14bd6607081f7c479830c142a912339a": [
@@ -4565,9 +4346,6 @@
   "ad60a9daac6b4156126fc978c33b3fe1e86ef5ea": [
     "financials\\general-ledger\\ledger-journal-types.md"
   ],
-  "a393637f19cf4c0bb10e81bfe59db4b499eb8a16": [
-    "financials\\general-ledger\\ledger-journal-types.md"
-  ],
   "b732d666d0d3bf0b5316b37a62587d5767d4eeaf": [
     "financials\\general-ledger\\main-account-types.md"
   ],
@@ -4616,9 +4394,6 @@
   "0a716310a3b813e08d46ac609e8ac6ce9a2db3e6": [
     "financials\\general-ledger\\sales-tax-calculation-methods-origin-field.md"
   ],
-  "00deb7b2648171bf2ff958abe055f153aa043785": [
-    "financials\\general-ledger\\sales-tax-calculation-methods-origin-field.md"
-  ],
   "ff868bcc202d74f94b6e2f9047a34d83e2ac149f": [
     "financials\\general-ledger\\trial-balance-financial-reports.md"
   ],
@@ -4629,9 +4404,6 @@
     "financials\\general-ledger\\view-financial-reports.md"
   ],
   "5535a7897eb328e97a9c8a4ca7986ed5cf9381af": [
-    "financials\\general-ledger\\view-financial-reports.md"
-  ],
-  "f21251cff5a265954b94dc5bfee800ba58eed21a": [
     "financials\\general-ledger\\view-financial-reports.md"
   ],
   "021a74811212f65977407b8454086b0e7b703a2f": [
@@ -4650,9 +4422,6 @@
     "financials\\general-ledger\\year-end-close.md"
   ],
   "22233cfa1df79076c8ea42f75ea309bac990d574": [
-    "financials\\general-ledger\\year-end-close.md"
-  ],
-  "a855db937bf1f8c69f546d56056ac650c89acc02": [
     "financials\\general-ledger\\year-end-close.md"
   ],
   "2a94c3a37c0766f1cd8d8bce4ef8d59eeb7e97d3": [
@@ -4757,25 +4526,16 @@
   "2b6b2e7ca02e0654bb23813a7cbbe8e790dc3901": [
     "financials\\localizations\\TOC.md"
   ],
-  "0b794abf6ca8dde48c25330cd25474c942b62284": [
-    "financials\\localizations\\TOC.md"
-  ],
   "8af9f2c1f6720c5d0a7b98c250a2cc52a5641cef": [
     "financials\\project-management\\intercompany-invoicing.md"
   ],
   "8a606f81e6e66390bf0add3deeeb032ab4cbd90b": [
     "financials\\project-management\\intercompany-invoicing.md"
   ],
-  "38d245f7910bbed493de1bb8631e3562ec912fb3": [
-    "financials\\project-management\\intercompany-invoicing.md"
-  ],
   "56bacbbff03fe9329563981352e1e5fbcfee8c52": [
     "financials\\project-management\\overview-project-management-accounting.md"
   ],
   "7bfacfe69aed9b64d71760181d9a1683b86cbf44": [
-    "financials\\project-management\\overview-project-management-accounting.md"
-  ],
-  "95a92764e8f6890ac9b5791f0d3e3bae10d73a9d": [
     "financials\\project-management\\overview-project-management-accounting.md"
   ],
   "6a9010f34e862400ca0d25ffde3c3d462a77a43a": [
@@ -4802,9 +4562,6 @@
   "82305cfe38e7193cece3b9e7784fb81fd40f9c70": [
     "financials\\project-management\\project-purchase-orders.md"
   ],
-  "80a7ff4485b00c317c18685161645203cd9bb42a": [
-    "financials\\project-management\\project-purchase-orders.md"
-  ],
   "acc4b0a0458a7f67b64634fa20b95f8b73f32479": [
     "financials\\project-management\\project-quotations.md"
   ],
@@ -4820,16 +4577,10 @@
   "c29c95fc6abd13e668c44d3ccf437bb0e879e46b": [
     "financials\\project-management\\project-resourcing.md"
   ],
-  "23a0613589b614a34431bc1c604170444edb5002": [
-    "financials\\project-management\\project-resourcing.md"
-  ],
   "c85c90feb7f314db6b47f64402f8b9455ed53d9d": [
     "financials\\project-management\\work-breakdown-structures.md"
   ],
   "1666691ec122e65128b74056817a0c40551f49b5": [
-    "financials\\project-management\\work-breakdown-structures.md"
-  ],
-  "5de9efd43af2f84d2e80674ec303cf31643820fb": [
     "financials\\project-management\\work-breakdown-structures.md"
   ],
   "bf80905e37d346c824a6b75d07128ccd1090021c": [
@@ -5030,12 +4781,6 @@
   "c7b46a13838f04f56c26cde18fbe8209d2575299": [
     "financials\\TOC.md"
   ],
-  "470ba76f1b2600190537d46c85303ce6d685f914": [
-    "financials\\TOC.md"
-  ],
-  "6145dc207a37405d2c7ab0e94766cd925518e4a0": [
-    "financials\\TOC.md"
-  ],
   "076b4f14a09698b6a0e2f5f3dd4f74ef5b673a8d": [
     "hr\\benefit-eligibility-policies.md"
   ],
@@ -5055,9 +4800,6 @@
     "hr\\courses.md"
   ],
   "aa97950a22572fb4c934687b550c13dcc8acce0d": [
-    "hr\\courses.md"
-  ],
-  "3c44871956b831a7991a8d4e389cffc4a459157d": [
     "hr\\courses.md"
   ],
   "78bf0f63c7b752dde779901dcce88d73dbc42005": [
@@ -5081,9 +4823,6 @@
   "0c202a21e1e94c7b09cf76aa7a003e0342c0a130": [
     "hr\\create-job.md"
   ],
-  "a18e33d6ee4f10599f1ad408c8f7f3aa2473de6f": [
-    "hr\\create-job.md"
-  ],
   "917771596a0c56561bf302ae990d95a987f442e0": [
     "hr\\create-variable-compensation-plans.md"
   ],
@@ -5105,22 +4844,10 @@
   "89e82b90a6a65db76c022038f3e9331e40da5261": [
     "hr\\index.md"
   ],
-  "f73b45136e44c1b90c09d2fabf2e66866424d226": [
-    "hr\\index.md"
-  ],
-  "17208e629bf3642914c1794e9cab458591376bb1": [
-    "hr\\index.md"
-  ],
   "5c17c2fa572ee1b7b53a6f22da3171e3472eaeef": [
     "hr\\loan-items.md"
   ],
   "905d6656a2664d5a043680164f70b5f3d680b978": [
-    "hr\\loan-items.md"
-  ],
-  "b6d39c7810e38ae665a8de97a9232a16708972cf": [
-    "hr\\loan-items.md"
-  ],
-  "dceab65cd0ec9d6ce21124735166e94853a808e0": [
     "hr\\loan-items.md"
   ],
   "f2ebd5cd2a04aa5ac129efcd4ec85dfb7e6ed52f": [
@@ -5162,9 +4889,6 @@
   "4bd934091c80ab9a4d244499d2bce2c4646c3e99": [
     "hr\\performance-management-overview.md"
   ],
-  "0f913486b1bed16cc6d90a3bfd146c06e53a0d6a": [
-    "hr\\performance-management-overview.md"
-  ],
   "4a5e6164f8aea2d4a6a063966c10f33a5e1f0cdd": [
     "hr\\distribute-questionnaires.md"
   ],
@@ -5201,22 +4925,10 @@
   "31dda85ff2e4a4e5380401b031b2dd74acff394b": [
     "hr\\skills.md"
   ],
-  "b9ee73bd2f4057e0a69c17243f838799ee167a39": [
-    "hr\\skills.md"
-  ],
-  "4dd83e8ed0246733ad1336399f69715eb9398beb": [
-    "hr\\skills.md"
-  ],
   "edbc79e12b264574c21c4b6a60543a875bb15082": [
     "hr\\TOC.md"
   ],
   "e2fbadbb5f219b6bbea87c8ef69846d9ff7fc69a": [
-    "hr\\TOC.md"
-  ],
-  "31b88445cf799affb35360dd4152dd6bbdf86154": [
-    "hr\\TOC.md"
-  ],
-  "8d59c06f92d912f663f6b46c5cfbb0188858d8b4": [
     "hr\\TOC.md"
   ],
   "a03b9aa61d754b47905d86114e0da29f1da64b81": [
@@ -5759,9 +5471,6 @@
   "b2f59db59ea49925c3bb5e1d75beee95191220d0": [
     "retail\\define-channel-specific-discounts.md"
   ],
-  "99555b3c3c5193950301addd4a057d0738660cae": [
-    "retail\\define-channel-specific-discounts.md"
-  ],
   "db8b059309ecf4da9728394fc3acb091d60baf4d": [
     "retail\\define-maintain-channel-clients-registers-hw-stations.md"
   ],
@@ -5886,9 +5595,6 @@
     "retail\\dev-itpro\\define-retail-channel-communications-cdx.md"
   ],
   "d3b36ec2a3f859215d93dd7ebf1f1ecfb2731c59": [
-    "retail\\dev-itpro\\define-retail-channel-communications-cdx.md"
-  ],
-  "339cd01216975042fae2691c4cf0dee43478fbe5": [
     "retail\\dev-itpro\\define-retail-channel-communications-cdx.md"
   ],
   "4f4f032bbf60431cf8d6fb87d47407b3b9b10dca": [
@@ -6128,9 +5834,6 @@
   "38edbca942a6cffce4062f89aa7c0062cf345237": [
     "retail\\dev-itpro\\TOC.md"
   ],
-  "8831f1036b2ac64be3644b9bfd384f42edae50ba": [
-    "retail\\dev-itpro\\TOC.md"
-  ],
   "a82c74bbf87fba9d81f3e80c1d56d9aa54a32cb7": [
     "retail\\dev-itpro\\trigger-example-blocking-transaction.md"
   ],
@@ -6180,12 +5883,6 @@
     "retail\\index.md"
   ],
   "4ad48d86662b53915f162f2a3d5096487a478f3f": [
-    "retail\\index.md"
-  ],
-  "0092a946262acac5ecede6e1a5007bcd9fda0c38": [
-    "retail\\index.md"
-  ],
-  "3a7ec90ce4fca3ecdac4459a2117200b445e08b2": [
     "retail\\index.md"
   ],
   "aaf02ce5bf3af94dea12344c9bfc5c8e9be7abb9": [
