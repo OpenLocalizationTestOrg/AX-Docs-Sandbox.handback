@@ -911,6 +911,9 @@
   "3f13e07a1adf74982a8b220296ae72d71075e0e3": [
     "dev-itpro\\data-entities\\tips-tricks-import-general-journal-entity.md"
   ],
+  "81a52acd1d9baa12fcfe9d848441901894fa5682": [
+    "dev-itpro\\data-entities\\tips-tricks-import-general-journal-entity.md"
+  ],
   "eceb3c4cb1823156121c4cb055aa30d7d46a5231": [
     "dev-itpro\\data-entities\\TOC.md"
   ],
@@ -4094,6 +4097,9 @@
   "bb6608072049295185579d33712e46046c6d6827": [
     "financials\\fixed-assets\\factor-depreciation.md"
   ],
+  "d57c1811bfed466b7707214b85bc1fcecabbce2b": [
+    "financials\\fixed-assets\\factor-depreciation.md"
+  ],
   "124aa1aec7ff2cee51128ab0bc10e7f679414157": [
     "financials\\fixed-assets\\fixed-asset-acquisition-posting-accounts.md"
   ],
@@ -4115,6 +4121,9 @@
   "06559cba9e0a19e2530e8cf8559d8b7b272bbf16": [
     "financials\\fixed-assets\\fixed-asset-integration.md"
   ],
+  "9184e98c8afeef496aa709154d3bea26005fe611": [
+    "financials\\fixed-assets\\fixed-asset-integration.md"
+  ],
   "55bf62c2a3ad385038763a7fe56ddca048d4847b": [
     "financials\\fixed-assets\\fixed-asset-mass-update.md"
   ],
@@ -4128,6 +4137,9 @@
     "financials\\fixed-assets\\fixed-assets.md"
   ],
   "602515e9ea5681fd0bbe74525365b6628fee62d3": [
+    "financials\\fixed-assets\\fixed-asset-value-model-depreciation-book-merge.md"
+  ],
+  "6c8c005c7f5ede54ce0b6c8114cac69e2551d467": [
     "financials\\fixed-assets\\fixed-asset-value-model-depreciation-book-merge.md"
   ],
   "e0648d7f89b3e3a1f8fee6501ceb7443be16aa1a": [
@@ -4296,6 +4308,9 @@
     "financials\\general-ledger\\general-ledger-account-balances.md"
   ],
   "2b484acdce456de2b45407464267bb3ba083e2ce": [
+    "financials\\general-ledger\\import-currency-exchange-rates.md"
+  ],
+  "bf66a1b1c9314b454223274810a21913d54b702d": [
     "financials\\general-ledger\\import-currency-exchange-rates.md"
   ],
   "a57badea794667888aebb6b1653c187909afd3b1": [
@@ -4563,6 +4578,9 @@
     "financials\\project-management\\project-resourcing.md"
   ],
   "c85c90feb7f314db6b47f64402f8b9455ed53d9d": [
+    "financials\\project-management\\work-breakdown-structures.md"
+  ],
+  "1666691ec122e65128b74056817a0c40551f49b5": [
     "financials\\project-management\\work-breakdown-structures.md"
   ],
   "bf80905e37d346c824a6b75d07128ccd1090021c": [
@@ -5040,6 +5058,9 @@
     "scm\\cost-management\\update-standard-costs-new-manufactured-item.md"
   ],
   "8bf8462d9714f3445394f86965988558fc609949": [
+    "scm\\cost-management\\update-standard-costs-non-manufacturing-environment.md"
+  ],
+  "be3e5417341094caf0565c1c5ee4f9cbc40f8e76": [
     "scm\\cost-management\\update-standard-costs-non-manufacturing-environment.md"
   ],
   "63731b5ffa4f4a7586782bba5f91ee4b0d5bcd34": [
@@ -6245,6 +6266,9 @@
   "01ab473951bc04c68a0248b37041a116eebcaea9": [
     "scm\\inventory\\consignment.md"
   ],
+  "d9dcdd63649d6dbff96efe2eec7cad34025ab2ee": [
+    "scm\\inventory\\consignment.md"
+  ],
   "d6db0153810ccf2b52ec529946b87a2314af5c81": [
     "scm\\inventory\\enable-quality-management.md"
   ],
@@ -6294,6 +6318,9 @@
     "scm\\master-planning\\manual-adjustments-baseline-forecast.md"
   ],
   "1f1df1e69f3933125bff3eba73d14e8615d7a2a6": [
+    "scm\\procurement\\manage-vendor-collaboration-users.md"
+  ],
+  "380f1bcdf7109dc12fd898199033eac7710d863c": [
     "scm\\procurement\\manage-vendor-collaboration-users.md"
   ],
   "6d4d476e294e1b5cbe91a61a7ffe151a6c865ea6": [
@@ -6941,6 +6968,9 @@
   "d2e1ff40f5735f69a3fcdf3a85335f157e1a1a6f": [
     "dev-itpro\\user-interface\\task-recorder-training-docs.md"
   ],
+  "38bce4a843f0db575c8d1ba08b7dc2ece8366663": [
+    "dev-itpro\\user-interface\\task-recorder-training-docs.md"
+  ],
   "35a57f2fa11a005bd9adc48b10a428259b388741": [
     "financials\\localizations\\apac-aus-low-value-pool-depreciation.md"
   ],
@@ -7292,6 +7322,9 @@
   "34bebe1f7a324f2d77668d0eb3d6b2303f2544a4": [
     "scm\\pim\\calculate-product-configuration-models.md"
   ],
+  "3a82fdb8532c79e33c167c43554a3de7d3061fcb": [
+    "scm\\pim\\calculate-product-configuration-models.md"
+  ],
   "7af287f90e20f4d371655e8497cb14308a0747ca": [
     "scm\\pim\\configuration-rules.md"
   ],
@@ -7323,6 +7356,9 @@
     "scm\\procurement\\collaborate-vendors-vendor-portal.md"
   ],
   "ee1d63d6147d77033f86449aed5820cc5f55aff4": [
+    "scm\\procurement\\procurement-catalogs.md"
+  ],
+  "bf8ee49cc98484f6d651a87a9e9ebbe0173fba5c": [
     "scm\\procurement\\procurement-catalogs.md"
   ],
   "233846b3e2fc962ef27c713724ce10e8fa9b88fd": [
