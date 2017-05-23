@@ -14,6 +14,15 @@
   "689d8f9fb0501c5007db21d41f126737af77b89e": [
     "core\\get-started\\action-search.md"
   ],
+  "130575df2dce1d9dbb7e002166d3fa48ea9b265e": [
+    "core\\get-started\\client-faq.md"
+  ],
+  "2c99b2e1f7ddecb61be62832ca1a8d3ac1fd21a8": [
+    "core\\get-started\\client-faq.md"
+  ],
+  "5a59b759e4c17c8321f2317d323f8e46c58fa646": [
+    "core\\get-started\\client-faq.md"
+  ],
   "e29d436560590e844e92180a6d1e2ad53d019662": [
     "core\\get-started\\display-pages-side-by-side.md"
   ],
@@ -3743,6 +3752,9 @@
   "25c2f85298bb89cb2802c7f0f7ff632c08aeca8f": [
     "financials\\accounts-receivable\\waive-reinstate-reverse-interest-fees.md"
   ],
+  "7df000d997f00642be3a7b6fd1e31928ccbccd0f": [
+    "financials\\budgeting\\basic-budgeting-overview-configuration.md"
+  ],
   "0e3484ee731423798e686b9a70f4f09b5c3c45b4": [
     "financials\\budgeting\\basic-budgeting-overview-configuration.md"
   ],
@@ -3754,6 +3766,9 @@
   ],
   "04e0c066511c1fedf33784944441326201fc2df8": [
     "financials\\budgeting\\budget-control-overview-configuration.md"
+  ],
+  "767a5ca527e4091b66f660dd8ef1321d2ac4e119": [
+    "financials\\budgeting\\budgeting-overview.md"
   ],
   "aacce0449c9490c4ab66cacb9945ed64fa40de34": [
     "financials\\budgeting\\budgeting-overview.md"
@@ -7503,9 +7518,6 @@
     "hr\\includes\\banner.md",
     "retail\\includes\\banner.md",
     "scm\\includes\\banner.md"
-  ],
-  "130575df2dce1d9dbb7e002166d3fa48ea9b265e": [
-    "core\\organization-administration\\client-faq.md"
   ],
   "c66e466584b09c1034cf28118c253508c6c4fdd2": [
     "dev-itpro\\analytics\\power-bi-content-released.md"
