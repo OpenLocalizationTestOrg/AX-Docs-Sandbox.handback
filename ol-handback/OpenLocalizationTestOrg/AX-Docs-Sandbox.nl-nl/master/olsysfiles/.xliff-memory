@@ -24219,6 +24219,16 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.nl-nl\\master\\5becb8bcc5aa619edfc0ad2fdcd31a483d003f0a.aa41e6ba62386fac50980c981ebeefa23fee5b09.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "scm\\cost-management\\configure-filter-workspaces.md.9e3cf4073f04990e5151d3fd002d58aac3483eea.HT": {
+      "SourceFilename": "scm\\cost-management\\configure-filter-workspaces.md",
+      "XliffHash": "9e3cf4073f04990e5151d3fd002d58aac3483eea",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.nl-nl\\master\\352ebae4fee4c81484ad9c75829d82ca09af333b.c15e4c8dc6ae31572fb9a3b95d3877708160120c.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }
