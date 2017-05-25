@@ -674,9 +674,6 @@
   "ec6704cfeb0e1030bed8c79863ae11ea55043191": [
     "dev-itpro\\analytics\\financial-reporter-designer-web-client.md"
   ],
-  "79c986d29b06d6115a80b3d5ac78e13e76362711": [
-    "dev-itpro\\analytics\\financial-reporter-designer-web-client.md"
-  ],
   "a395f5b70d4b564c3c2da992f7fe3486d13bd4eb": [
     "dev-itpro\\analytics\\model-aggregate-data.md"
   ],
@@ -7910,12 +7907,6 @@
   "563d11fb99c8aebce78f8962dbeeac41fb469041": [
     "retail\\dev-itpro\\configure-online-store.md"
   ],
-  "4da710b57d03621fdf9abbf5a9598859e1e9aafd": [
-    "retail\\dev-itpro\\configure-online-store.md"
-  ],
-  "739842009d9ff559b9b714114828e9f59887818d": [
-    "retail\\dev-itpro\\configure-online-store.md"
-  ],
   "10e78d4c94923fa7b9349c6588af05c1fb57f60c": [
     "retail\\dev-itpro\\create-retail-experience-app.md"
   ],
@@ -7935,9 +7926,6 @@
     "retail\\dev-itpro\\create-windows-installer-payment-connector.md"
   ],
   "ba1bb54a29250a2bb59622ee4391b64ac455af33": [
-    "retail\\dev-itpro\\define-retail-channel-communications-cdx.md"
-  ],
-  "d3b36ec2a3f859215d93dd7ebf1f1ecfb2731c59": [
     "retail\\dev-itpro\\define-retail-channel-communications-cdx.md"
   ],
   "4f4f032bbf60431cf8d6fb87d47407b3b9b10dca": [
