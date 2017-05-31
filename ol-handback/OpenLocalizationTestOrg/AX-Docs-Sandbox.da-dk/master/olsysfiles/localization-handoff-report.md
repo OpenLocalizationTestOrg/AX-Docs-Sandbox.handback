@@ -1284,7 +1284,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [toc.4f3943a9191cad44feb4b5355ae6bb56f38a4a88.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/premium/toc.4f3943a9191cad44feb4b5355ae6bb56f38a4a88.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1298,7 +1298,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [action-search.78e375d5f16ae67b9c9004fbf99402dab448d8bf.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/action-search.78e375d5f16ae67b9c9004fbf99402dab448d8bf.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1312,7 +1312,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [advanced-filtering-query-options.585cd80a2c7447dadbe434eaebdc5cacac05855b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/advanced-filtering-query-options.585cd80a2c7447dadbe434eaebdc5cacac05855b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1326,7 +1326,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [client-faq.2f9c9ae85c52e795f61fd37bafa2d1f436312ff1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/client-faq.2f9c9ae85c52e795f61fd37bafa2d1f436312ff1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1340,7 +1340,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [configure-filter-workspaces.6859e231d19991e8dfae401b30341eac0ddecc35.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/configure-filter-workspaces.6859e231d19991e8dfae401b30341eac0ddecc35.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1354,7 +1354,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [display-pages-side-by-side.38fb87a3cae4e69076f54efc109f6ce69c42fc9f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/display-pages-side-by-side.38fb87a3cae4e69076f54efc109f6ce69c42fc9f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1368,7 +1368,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [fasttrack-dynamics-365-overview.a05f3e8a49adf17e3385f1f96840f652ad675dfb.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/fasttrack-dynamics-365-overview.a05f3e8a49adf17e3385f1f96840f652ad675dfb.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1382,7 +1382,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [glossary.0b96a7f0309b9d098796c6a9a3e73b0c200dba99.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/premium/glossary.0b96a7f0309b9d098796c6a9a3e73b0c200dba99.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1396,7 +1396,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [navigation-search.8b7c3f253ccc6f938e37b04b1397193f188ed8b8.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/navigation-search.8b7c3f253ccc6f938e37b04b1397193f188ed8b8.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1410,7 +1410,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [onboarding-home.b994cf80a57facc06197b56cef386744774d06f5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/onboarding-home.b994cf80a57facc06197b56cef386744774d06f5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1424,7 +1424,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [personalize-user-experience.4735a4dd2b2a9258deb1b162f6e81a47f48aa4ce.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/personalize-user-experience.4735a4dd2b2a9258deb1b162f6e81a47f48aa4ce.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1438,7 +1438,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [recently-added-editing-features-in-task-recorder.495ab625248de01186252ac8df4410accd38098f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/recently-added-editing-features-in-task-recorder.495ab625248de01186252ac8df4410accd38098f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1452,7 +1452,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [shortcut-keys.1467b956f13e70f9c6ecbe2a62579bbc87a7d138.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/shortcut-keys.1467b956f13e70f9c6ecbe2a62579bbc87a7d138.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1466,7 +1466,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-lookups-to-find-information.6c95b59469a46db81d7984fbffb5abe565dd16a3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/use-lookups-to-find-information.6c95b59469a46db81d7984fbffb5abe565dd16a3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1480,7 +1480,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [view-export-field-descriptions.23119a5ad40051de5ed7c8426d7aedbc44e574ad.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/view-export-field-descriptions.23119a5ad40051de5ed7c8426d7aedbc44e574ad.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1494,7 +1494,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [window-management.987d74bd4d1121a5864854b7521ad1f0c5d7dff5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/window-management.987d74bd4d1121a5864854b7521ad1f0c5d7dff5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1508,7 +1508,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [banner.ff5170bbaf2ffc1afc8f1ec885ae42a4df20ee6b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/premium/banner.ff5170bbaf2ffc1afc8f1ec885ae42a4df20ee6b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1522,7 +1522,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.ae302b25ad5256540185ec85ca8bbbd8de0be8b4.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/premium/index.ae302b25ad5256540185ec85ca8bbbd8de0be8b4.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1536,7 +1536,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [toc.89d694b47832600501f2162b7340e241fe863302.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/toc.89d694b47832600501f2162b7340e241fe863302.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1550,7 +1550,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [cases.15d75e6d6a37da95205b182a7b258117f6b5a8dc.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/cases.15d75e6d6a37da95205b182a7b258117f6b5a8dc.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1564,7 +1564,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [configure-approval-process-workflow.9e7cafebdda4056cc5276776a98666b2af7b205a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/configure-approval-process-workflow.9e7cafebdda4056cc5276776a98666b2af7b205a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1578,7 +1578,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [configure-approval-step-workflow.5ff1debd5ee6cbed34fb701fa22e7af3a1409a4b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/configure-approval-step-workflow.5ff1debd5ee6cbed34fb701fa22e7af3a1409a4b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1592,7 +1592,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [configure-automated-task-workflow.6397a401c30c2f8dab7599d27b8fc63a67114a99.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/configure-automated-task-workflow.6397a401c30c2f8dab7599d27b8fc63a67114a99.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1606,7 +1606,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [configure-conditional-decision-workflow.e9173a6d191b8d92f12d4666c5746b61a32e339f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/configure-conditional-decision-workflow.e9173a6d191b8d92f12d4666c5746b61a32e339f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1620,7 +1620,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [configure-email.d4c2980913d295e6a5eff8a771ee7a2773359bcf.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/configure-email.d4c2980913d295e6a5eff8a771ee7a2773359bcf.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1634,7 +1634,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [configure-line-item-workflow.c70c5fa3c4aebea7348451d62a513a04287c02fe.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/configure-line-item-workflow.c70c5fa3c4aebea7348451d62a513a04287c02fe.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1648,7 +1648,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [configure-manual-decision-workflow.0e850f54076c4ce529f78fed678b854c7dcdf71e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/configure-manual-decision-workflow.0e850f54076c4ce529f78fed678b854c7dcdf71e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1662,7 +1662,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1676,7 +1676,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [configure-parallel-activity-workflow.8bb305f19f1f3917d1b843f173a1411b995fbe51.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/configure-parallel-activity-workflow.8bb305f19f1f3917d1b843f173a1411b995fbe51.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1690,7 +1690,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [configure-parallel-branch-workflow.39ed85d3798a698464a1f1b50cf53c0daedeeb8e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/configure-parallel-branch-workflow.39ed85d3798a698464a1f1b50cf53c0daedeeb8e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1704,7 +1704,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [configure-workflow-properties.4aab5ae8115c21c1e02b82d3ca91486ac74e5002.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/configure-workflow-properties.4aab5ae8115c21c1e02b82d3ca91486ac74e5002.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1718,7 +1718,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-workflow.c0ac2852891211442fba3babe6296f9db2d9b108.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/create-workflow.c0ac2852891211442fba3babe6296f9db2d9b108.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1732,7 +1732,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [date-time-zones.a69c537baffadc18db18a1e226e3c15c77ec2432.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/date-time-zones.a69c537baffadc18db18a1e226e3c15c77ec2432.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1746,7 +1746,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [electronic-signature-overview.05453fdaad9753d57dbd0dfea59e50887a2fa634.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/electronic-signature-overview.05453fdaad9753d57dbd0dfea59e50887a2fa634.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1760,7 +1760,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [number-sequence-overview.74a1590104507a95bf73f8f2440d1f73500f9b69.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/number-sequence-overview.74a1590104507a95bf73f8f2440d1f73500f9b69.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1774,7 +1774,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [organization-administration-home-page.de21bb6f9e8192f9736bef85de500180d6ddab63.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/organization-administration-home-page.de21bb6f9e8192f9736bef85de500180d6ddab63.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1788,7 +1788,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [organizations-organizational-hierarchies.5d3351ea03378c104f626970bc2fbd88782617a3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/organizations-organizational-hierarchies.5d3351ea03378c104f626970bc2fbd88782617a3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1802,7 +1802,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [overview-global-address-book.ca9d970fbdf036026ebb758eaed3f8399887faf2.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/overview-global-address-book.ca9d970fbdf036026ebb758eaed3f8399887faf2.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1816,7 +1816,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [overview-workflow-system.71c8053da6bbd233ad82c3c1ea9503e67cf40f3f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/overview-workflow-system.71c8053da6bbd233ad82c3c1ea9503e67cf40f3f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1830,7 +1830,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [plan-case-management.c9589d09b4582885d5b6aa9c066bee362b021746.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/plan-case-management.c9589d09b4582885d5b6aa9c066bee362b021746.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1844,7 +1844,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [plan-configuration-global-address-book-additional-address-books.e3ed7b329b94a811d0e6a7de0937b4d3aefc9e47.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/plan-configuration-global-address-book-additional-address-books.e3ed7b329b94a811d0e6a7de0937b4d3aefc9e47.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1858,7 +1858,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [plan-organizational-hierarchy.ac3015fc0aa1857a218503a8de6ef8e6401bbc7e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/plan-organizational-hierarchy.ac3015fc0aa1857a218503a8de6ef8e6401bbc7e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1872,7 +1872,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [qa-address-books.4c67cc482fd4b4198c2861ddb912614f471bec75.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/qa-address-books.4c67cc482fd4b4198c2861ddb912614f471bec75.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1886,7 +1886,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [record-templates.4bf65c8e308dbce51c571bc3187569140f74e111.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/record-templates.4bf65c8e308dbce51c571bc3187569140f74e111.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1900,7 +1900,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [workflow-actions.8aa81c3d5971cff7db95a7904b2b63a15c4ef7d2.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/workflow-actions.8aa81c3d5971cff7db95a7904b2b63a15c4ef7d2.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1914,7 +1914,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [workflow-batch-job-critical.02d3643c2d348a9ca27081ebe431ec469e38a1b2.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/workflow-batch-job-critical.02d3643c2d348a9ca27081ebe431ec469e38a1b2.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1928,7 +1928,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [workflow-elements.4c8fa8e855f828f73b5cd7e38c6b33ca43fbc8db.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/workflow-elements.4c8fa8e855f828f73b5cd7e38c6b33ca43fbc8db.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1942,7 +1942,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [workflow-system-architecture.f26c36015b471b425b5957686cf42feb6444fa73.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/workflow-system-architecture.f26c36015b471b425b5957686cf42feb6444fa73.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1956,7 +1956,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [workflow-types-report.208d97ae8c9b731f1f8ca788ec9d8b57c715f2bb.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/workflow-types-report.208d97ae8c9b731f1f8ca788ec9d8b57c715f2bb.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1970,7 +1970,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [TOC.b62d2b58d8678107b4053b61657b9b0a3b85cf87.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/premium/TOC.b62d2b58d8678107b4053b61657b9b0a3b85cf87.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1984,7 +1984,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [add-bi-workspaces.57136636d1762d2a4cedc709210e30d228bb915f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/add-bi-workspaces.57136636d1762d2a4cedc709210e30d228bb915f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -1998,7 +1998,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [add-contextual-bi-forms.cbbaec70714ecd7d1588ce1c5e3905214a4e8a7c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/add-contextual-bi-forms.cbbaec70714ecd7d1588ce1c5e3905214a4e8a7c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2012,7 +2012,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [advanced-formatting-options-financial-reporting.fc45f0e65beec53d78808d1c4bf4cc45aa695c5e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/advanced-formatting-options-financial-reporting.fc45f0e65beec53d78808d1c4bf4cc45aa695c5e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2026,7 +2026,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [aggregate-data-entities-report.2552ca53ac4feb09710f484df33669ed0a6d7241.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/aggregate-data-entities-report.2552ca53ac4feb09710f484df33669ed0a6d7241.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2040,7 +2040,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [aggregate-measurements-report.bea57942722a964f04ed0faf127f04ae7ba5568d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/aggregate-measurements-report.bea57942722a964f04ed0faf127f04ae7ba5568d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2054,7 +2054,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [analytics.07e77e2ab837ebde281df084b011814cf01d5915.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/analytics.07e77e2ab837ebde281df084b011814cf01d5915.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2068,7 +2068,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [author-distribute-power-bi-reports.925df0e1d7f224ba4b15eb3aaee5833b5575d763.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/author-distribute-power-bi-reports.925df0e1d7f224ba4b15eb3aaee5833b5575d763.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2082,7 +2082,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [bi-reporting-home-page.50b30ee289670fc4682f3df560fe8de71bab4891.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/premium/bi-reporting-home-page.50b30ee289670fc4682f3df560fe8de71bab4891.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2096,7 +2096,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [column-definitions-financial-reports.7df6153112debbe6e6a080b2ee7793aacb7121ef.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/column-definitions-financial-reports.7df6153112debbe6e6a080b2ee7793aacb7121ef.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2110,7 +2110,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [compensation-and-benefits-analysis-power-bi-content-pack.90597155e22c4138661d5a3678d08c065b715aa7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/compensation-and-benefits-analysis-power-bi-content-pack.90597155e22c4138661d5a3678d08c065b715aa7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2124,7 +2124,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [configure-power-bi-integration.f8db6b357ce09b2fa9608506a850e4cc915eea7b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/configure-power-bi-integration.f8db6b357ce09b2fa9608506a850e4cc915eea7b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2138,7 +2138,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [cost-accounting-analysis-content-pack.eb942848f725e235a941d739dbb02c5238349f6a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/cost-accounting-analysis-content-pack.eb942848f725e235a941d739dbb02c5238349f6a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2152,7 +2152,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [cost-management-content-pack.568b6ab2ccd9afc10d6cac8b4c901c1a282e61c7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/cost-management-content-pack.568b6ab2ccd9afc10d6cac8b4c901c1a282e61c7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2166,7 +2166,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-nextgen-reporting-solutions.60e4f00d5834cb56b078e0494dc7a384ec055270.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/create-nextgen-reporting-solutions.60e4f00d5834cb56b078e0494dc7a384ec055270.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2180,7 +2180,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-powerbi-report-dashboard.6fe1174624481e9094c07ba8a1a31b774d19338a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/create-powerbi-report-dashboard.6fe1174624481e9094c07ba8a1a31b774d19338a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2194,7 +2194,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-powerbi-report-data.17e1faf796250af5ff682c718cc6722c7ab453f6.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/create-powerbi-report-data.17e1faf796250af5ff682c718cc6722c7ab453f6.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2208,7 +2208,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [credit-collections-content-pack-power-bi.73280d76d1db1f501dfdb5e236a54eec374d57bd.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/credit-collections-content-pack-power-bi.73280d76d1db1f501dfdb5e236a54eec374d57bd.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2222,7 +2222,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [custom-designs-business-docs.99dfe0e2bd22d59f8dcfa9cd3713869b4674ef68.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/custom-designs-business-docs.99dfe0e2bd22d59f8dcfa9cd3713869b4674ef68.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2236,7 +2236,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [customize-app-suite-reports-with-extensions.cfd13f685769ca75a9a39bdac492ef93f1acebfa.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/customize-app-suite-reports-with-extensions.cfd13f685769ca75a9a39bdac492ef93f1acebfa.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2250,7 +2250,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [design-financial-report-definitions.5f36c9fb0e9957e8139ef914f424b3836d4406d5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/design-financial-report-definitions.5f36c9fb0e9957e8139ef914f424b3836d4406d5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2264,7 +2264,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [design-financial-reports.3e10a050240168a3327d28e0fc16385d7f33402f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/design-financial-reports.3e10a050240168a3327d28e0fc16385d7f33402f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2278,7 +2278,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [document-reporting-services.cb35c6a0a0898ab10f330555fe69b6dd2bf681ad.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/document-reporting-services.cb35c6a0a0898ab10f330555fe69b6dd2bf681ad.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2292,7 +2292,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [download-electronic-reporting-configuration-lcs.2f28b07b845e4d7fa0be24f736fc009972ead4b5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/download-electronic-reporting-configuration-lcs.2f28b07b845e4d7fa0be24f736fc009972ead4b5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2306,7 +2306,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [electronic-reporting-configuration.775391e95f8e3f8789bec0ca1642b8b8ee572094.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/electronic-reporting-configuration.775391e95f8e3f8789bec0ca1642b8b8ee572094.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2320,7 +2320,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [electronic-reporting-destinations.7a2b865c4a9003fee77d77a47d4d3416d748ab2a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/electronic-reporting-destinations.7a2b865c4a9003fee77d77a47d4d3416d748ab2a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2334,7 +2334,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [embed-power-bi-workspaces.742203d5e13a53b8b17f364b6b92c7b6a2741305.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/embed-power-bi-workspaces.742203d5e13a53b8b17f364b6b92c7b6a2741305.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2348,7 +2348,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [employee-competencies-and-development-analysis-power-bi-content-pack.599a2794c9b3d094f50bad1081a4c5e53eb597e6.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/employee-competencies-and-development-analysis-power-bi-content-pack.599a2794c9b3d094f50bad1081a4c5e53eb597e6.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2362,7 +2362,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [expand-app-suite-report-data-sets.8b04e0d8be521ad8f10ce4f243997e9ecf71cdc9.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/expand-app-suite-report-data-sets.8b04e0d8be521ad8f10ce4f243997e9ecf71cdc9.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2376,7 +2376,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [extend-report-menu-items.2b703921dd74d215807ab66af8a6c437312fe6c3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/extend-report-menu-items.2b703921dd74d215807ab66af8a6c437312fe6c3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2390,7 +2390,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [financial-performance-power-bi-content-pack.0ec5789baba94144018bf90e8c71c036fe0efe8e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/financial-performance-power-bi-content-pack.0ec5789baba94144018bf90e8c71c036fe0efe8e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2404,7 +2404,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [financial-report-components.a7e5ac30c435639b9943a7828a99b048ab35c5e9.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/financial-report-components.a7e5ac30c435639b9943a7828a99b048ab35c5e9.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2418,7 +2418,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [financial-reporter-designer-web-client.467b6cc30c5019c5ac1d559b847b312f6862c676.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/financial-reporter-designer-web-client.467b6cc30c5019c5ac1d559b847b312f6862c676.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2432,7 +2432,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [financial-reporting-intro.2a879ccd26fd7463d74d783a1f046dbcf2314d36.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/financial-reporting-intro.2a879ccd26fd7463d74d783a1f046dbcf2314d36.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2446,7 +2446,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [financial-reporting-tree-definitions.be1b2eb2d3786f0417e8266cb7d5cbb19ef2489e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/financial-reporting-tree-definitions.be1b2eb2d3786f0417e8266cb7d5cbb19ef2489e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2460,7 +2460,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [general-electronic-reporting.7a9d30bea5020d8540cb7525a8f2edadaa282cfc.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/general-electronic-reporting.7a9d30bea5020d8540cb7525a8f2edadaa282cfc.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2474,7 +2474,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [general-electronic-reporting-formula-designer.b3ff31ef5565ff7d531eefba44c225480080533c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/general-electronic-reporting-formula-designer.b3ff31ef5565ff7d531eefba44c225480080533c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2488,7 +2488,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [general-electronic-reporting-formulas-list-extension.062eefe7f897a28e645dde25c141b367a16ab557.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/general-electronic-reporting-formulas-list-extension.062eefe7f897a28e645dde25c141b367a16ab557.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2502,7 +2502,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [general-electronic-reporting-manage-configuration-lifecycle.9810bdfba1826b541597971be558bb34db70d12d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/general-electronic-reporting-manage-configuration-lifecycle.9810bdfba1826b541597971be558bb34db70d12d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2516,7 +2516,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [general-electronic-reporting-report-configuration-get-data-powerbi.5a657f6126c44dbf2c643472e6ed6777e9f36e62.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/general-electronic-reporting-report-configuration-get-data-powerbi.5a657f6126c44dbf2c643472e6ed6777e9f36e62.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2530,7 +2530,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [generate-financial-report.ec6ba094871f5817eb6f4b76e9a40bbc0f87ee49.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/generate-financial-report.ec6ba094871f5817eb6f4b76e9a40bbc0f87ee49.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2544,7 +2544,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [information-access-reporting.165a36dd5d5a60e22c7f6ae5ebcd8ed3d71a6b13.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/information-access-reporting.165a36dd5d5a60e22c7f6ae5ebcd8ed3d71a6b13.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2558,7 +2558,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [install-document-routing-agent.d9cb2ed305c82eb08735eee4181f69a13298d4ec.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/install-document-routing-agent.d9cb2ed305c82eb08735eee4181f69a13298d4ec.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2572,7 +2572,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [install-modern-report-design-templates.a0e372b03fa538f8d44685dca0a1db2918062119.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/install-modern-report-design-templates.a0e372b03fa538f8d44685dca0a1db2918062119.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2586,7 +2586,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [key-performance-indicators-report.0016023a44cf8200c12e932c06824c728b867de1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/key-performance-indicators-report.0016023a44cf8200c12e932c06824c728b867de1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2600,7 +2600,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [model-aggregate-data.395717eec33e04eeb013119f324bc2228c39e844.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/model-aggregate-data.395717eec33e04eeb013119f324bc2228c39e844.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2614,7 +2614,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [modify-row-definition-cells-financial-reporting.28f6cad43c04c3c8c4ed51ff50040db32582e301.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/modify-row-definition-cells-financial-reporting.28f6cad43c04c3c8c4ed51ff50040db32582e301.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2628,7 +2628,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [organizational-training-analysis-power-bi-content-pack.3294364fd0448f92c44e3b428edde527cd98a1dc.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/organizational-training-analysis-power-bi-content-pack.3294364fd0448f92c44e3b428edde527cd98a1dc.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2642,7 +2642,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [organize-components-report-designer.f645d2848cb6c455053bddc4f1322d1c6049da14.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/organize-components-report-designer.f645d2848cb6c455053bddc4f1322d1c6049da14.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2656,7 +2656,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [pin-power-bi-reports.1a13daebddc6b9051bdaf997d035ade4de05388a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/pin-power-bi-reports.1a13daebddc6b9051bdaf997d035ade4de05388a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2670,7 +2670,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [power-bi-content-microsoft-partners.c2bc939f7deeed74d1509009316d8aaea4feec04.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/power-bi-content-microsoft-partners.c2bc939f7deeed74d1509009316d8aaea4feec04.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2684,7 +2684,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [power-bi-content-released.3428decd6586edbc078967ac674bf1b88c3f987f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/power-bi-content-released.3428decd6586edbc078967ac674bf1b88c3f987f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2698,7 +2698,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [power-bi-embedded-integration.0c5e61a6c9ae0ec20abbbd9450464eef47d559b3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/power-bi-embedded-integration.0c5e61a6c9ae0ec20abbbd9450464eef47d559b3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2712,7 +2712,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [power-bi-home-page.a5800ecb0555654cfd71a0221e0a793d57a7db6e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/power-bi-home-page.a5800ecb0555654cfd71a0221e0a793d57a7db6e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2726,7 +2726,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [power-bi-integration.1e697d41a83c98e60f7df61878f879941b01cc8b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/power-bi-integration.1e697d41a83c98e60f7df61878f879941b01cc8b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2740,7 +2740,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [power-bi-integration-entity-store.f1e8a81039393908fca5a9b34ab3362305a8cc22.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/power-bi-integration-entity-store.f1e8a81039393908fca5a9b34ab3362305a8cc22.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2754,7 +2754,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [practice-manager-power-bi.351fb5e0d2ec30c65279ff503e9ce0c7ddfa52be.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/practice-manager-power-bi.351fb5e0d2ec30c65279ff503e9ce0c7ddfa52be.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2768,7 +2768,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [prevent-long-running-reports-timing-out.5e0a5f03ce8e9d4d7d8c62b0b4feda3c9317998f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/prevent-long-running-reports-timing-out.5e0a5f03ce8e9d4d7d8c62b0b4feda3c9317998f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2782,7 +2782,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [print-documents.09307e03b99096f266c718735b2eb51aa6c4d9b6.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/print-documents.09307e03b99096f266c718735b2eb51aa6c4d9b6.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2796,7 +2796,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [purchase-content-pack-for-power-bi.9dcb342b06e07439e5ae33fad9a6b95b460d25fd.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/purchase-content-pack-for-power-bi.9dcb342b06e07439e5ae33fad9a6b95b460d25fd.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2810,7 +2810,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [recruiting-analysis-power-bi-content-pack.76c0428aa12702a8a7d28d661e343f2ab3455b19.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/recruiting-analysis-power-bi-content-pack.76c0428aa12702a8a7d28d661e343f2ab3455b19.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2824,7 +2824,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [report-designer-interface.d8df768258b505360ec9cdc4527c7e0d9b999960.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/report-designer-interface.d8df768258b505360ec9cdc4527c7e0d9b999960.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2838,7 +2838,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [reset-financial-reporting-datamart-after-restore.eff69679e6916d3ee6a8a1f967478b0cb98ef110.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/reset-financial-reporting-datamart-after-restore.eff69679e6916d3ee6a8a1f967478b0cb98ef110.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2852,7 +2852,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [retail-channel-performance-dashboard-power-bi-data.02284efd6679d360b7fc80341413f9c570d502a3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/retail-channel-performance-dashboard-power-bi-data.02284efd6679d360b7fc80341413f9c570d502a3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2866,7 +2866,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [row-definitions-financial-reporting.51ca83ef98183f8661273a3f6596b66741df47c3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/row-definitions-financial-reporting.51ca83ef98183f8661273a3f6596b66741df47c3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2880,7 +2880,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [run-document-routing-agent-as-windows-service.84af941924ca72505a85c7130532043e76849602.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/run-document-routing-agent-as-windows-service.84af941924ca72505a85c7130532043e76849602.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2894,7 +2894,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [sales-profitability-performance-content-pack.d2680a47e0db549942c8dbcdee0eb332ab88532e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/sales-profitability-performance-content-pack.d2680a47e0db549942c8dbcdee0eb332ab88532e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2908,7 +2908,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [setup-security-cost-accounting-content-pack.0cce33f86ee14ac1c15aebd668bd89daaa5e73ae.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/setup-security-cost-accounting-content-pack.0cce33f86ee14ac1c15aebd668bd89daaa5e73ae.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2922,7 +2922,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [SSRS-report.779a8c72063af39dc0a7cad6ef7873e452e362b3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/SSRS-report.779a8c72063af39dc0a7cad6ef7873e452e362b3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2936,7 +2936,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [TOC.e308ca3562b4aec9315955f56fd46b50ef387d1f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/TOC.e308ca3562b4aec9315955f56fd46b50ef387d1f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2950,7 +2950,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [user-preferences-financial-report-designer.9991cbad73719305108e7370ca891702e8ca3080.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/user-preferences-financial-report-designer.9991cbad73719305108e7370ca891702e8ca3080.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2964,7 +2964,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [warehouse-power-bi-content.0e90d560ff372f5a757abea2f9bdd0a1ef9959b8.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/warehouse-power-bi-content.0e90d560ff372f5a757abea2f9bdd0a1ef9959b8.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2978,7 +2978,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [workforce-analysis-power-bi-content-pack.8f4f0698ecdd95d3af867a2d8ddc32b4efb8c21a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/workforce-analysis-power-bi-content-pack.8f4f0698ecdd95d3af867a2d8ddc32b4efb8c21a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -2992,7 +2992,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [copy-database-from-azure-sql-to-sql-server.6bfd062792be9730228427cb422ac4d0aab31bb7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/copy-database-from-azure-sql-to-sql-server.6bfd062792be9730228427cb422ac4d0aab31bb7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3006,7 +3006,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [copy-database-from-sql-server-to-azure-sql.56d0acfa8264d826eceb18c0d0f2c9a0e88c4719.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/copy-database-from-sql-server-to-azure-sql.56d0acfa8264d826eceb18c0d0f2c9a0e88c4719.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3020,7 +3020,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [copy-operations-database.5f5a4cea3d8415aaee54827c0a597442f950348f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/copy-operations-database.5f5a4cea3d8415aaee54827c0a597442f950348f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3034,7 +3034,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [database-management.e1f21d7bf55d0c53feb9c4f53b8b62a81080d659.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/database-management.e1f21d7bf55d0c53feb9c4f53b8b62a81080d659.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3048,7 +3048,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [request-point-in-time-restore.85ce77591b8e489cbdc9d9073648bb733e6705a3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/request-point-in-time-restore.85ce77591b8e489cbdc9d9073648bb733e6705a3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3062,7 +3062,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [TOC.09121531419b7fa5503a2466d65236e5d2321bb3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/TOC.09121531419b7fa5503a2466d65236e5d2321bb3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3076,7 +3076,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [behavioral-properties-data-entities.f03c33cecca47f5e5ec2fe48f9e91b987a33abb7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/behavioral-properties-data-entities.f03c33cecca47f5e5ec2fe48f9e91b987a33abb7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3090,7 +3090,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [build-consuming-data-entities.a8d02d954fcee0ac31aa82b49eca5a28f206fd8f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/build-consuming-data-entities.a8d02d954fcee0ac31aa82b49eca5a28f206fd8f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3104,7 +3104,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [configuration-data-projects.e7f690fbb5816e6679ddc4934c071f480c8b7dfd.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/configuration-data-projects.e7f690fbb5816e6679ddc4934c071f480c8b7dfd.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3118,7 +3118,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [configuration-data-templates.4ef218e007c4c8acbba5ec2a52d43da1f5870bbd.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/configuration-data-templates.4ef218e007c4c8acbba5ec2a52d43da1f5870bbd.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3132,7 +3132,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [copy-configuration.5f54cdff770c114bffd83514adb11bbd139692eb.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/copy-configuration.5f54cdff770c114bffd83514adb11bbd139692eb.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3146,7 +3146,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [countryregion-codes-configuration-keys.1d78cef26275c183d73aa751de6f848f792827bb.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/countryregion-codes-configuration-keys.1d78cef26275c183d73aa751de6f848f792827bb.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3160,7 +3160,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [cross-company-behavior.785d1f4c1b42249db99b4fb37fcc88ce31141e55.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/cross-company-behavior.785d1f4c1b42249db99b4fb37fcc88ce31141e55.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3174,7 +3174,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [database-management-home-page.139d4d84f9687990301b0f3f314d57dab6d96739.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/database-management-home-page.139d4d84f9687990301b0f3f314d57dab6d96739.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3188,7 +3188,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-entities.f859a3d581f103420e742391e64f330aa13cd1c7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/data-entities.f859a3d581f103420e742391e64f330aa13cd1c7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3202,7 +3202,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-entities-accounts-payable-taxes.1701d654781c663205f54963a6fb100fd7c9aacd.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/data-entities-accounts-payable-taxes.1701d654781c663205f54963a6fb100fd7c9aacd.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3216,7 +3216,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-entities-accounts-receivable.bd9011adc5917be5c700f3bfb5fe38d1a0fc2ade.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/data-entities-accounts-receivable.bd9011adc5917be5c700f3bfb5fe38d1a0fc2ade.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3230,7 +3230,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-entities-bank.39196d155d2d1bbfa135a3a9f339ec5b1723e974.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/data-entities-bank.39196d155d2d1bbfa135a3a9f339ec5b1723e974.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3244,7 +3244,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-entities-beginning-balances.b3e4450b12f11dc8e0d8ced66864c519522ab9e1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/data-entities-beginning-balances.b3e4450b12f11dc8e0d8ced66864c519522ab9e1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3258,7 +3258,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-entities-budgeting.762bf287a6fc800ab22ad48f617b394b4c8b9853.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/data-entities-budgeting.762bf287a6fc800ab22ad48f617b394b4c8b9853.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3272,7 +3272,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-entities-budget-plan.3955cd1e20016729c8047bac91de8bea4a7adc88.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/data-entities-budget-plan.3955cd1e20016729c8047bac91de8bea4a7adc88.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3286,7 +3286,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-entities-costing.d959723e124bab1884c0659bb57a8d94a04eefa5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/data-entities-costing.d959723e124bab1884c0659bb57a8d94a04eefa5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3300,7 +3300,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-entities-data-packages.f538b0de6d74e414743a5c2db46bdcdd0b2f7268.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/data-entities-data-packages.f538b0de6d74e414743a5c2db46bdcdd0b2f7268.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3314,7 +3314,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-entities-expense-management.f8dbd8a219d20ec7b72fcc029ec894a780872ca3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/data-entities-expense-management.f8dbd8a219d20ec7b72fcc029ec894a780872ca3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3328,7 +3328,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-entities-fixed-assets.14b7ac73ab1284abcfd86485326e60b104c1bbc4.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/data-entities-fixed-assets.14b7ac73ab1284abcfd86485326e60b104c1bbc4.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3342,7 +3342,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-entities-general-ledger.af25d820e64e922d3c1d1b16a7ad547d5524c748.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/data-entities-general-ledger.af25d820e64e922d3c1d1b16a7ad547d5524c748.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3356,7 +3356,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-entities-global-address-book.f4713bdde8d7e3b031c2ff64431783e103eedd20.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/data-entities-global-address-book.f4713bdde8d7e3b031c2ff64431783e103eedd20.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3370,7 +3370,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-entities-human-resources.030bc22c487693a92c18fb97e33930c44bb0807c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/data-entities-human-resources.030bc22c487693a92c18fb97e33930c44bb0807c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3384,7 +3384,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-entities-inventory-management.a8ded4a571c3379e4f0b1d629f35cf516b6a6f48.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/data-entities-inventory-management.a8ded4a571c3379e4f0b1d629f35cf516b6a6f48.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3398,7 +3398,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-entities-master-plan.44dc68e89e60cd50f6f3ff2a20bbb9d352aac0ba.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/data-entities-master-plan.44dc68e89e60cd50f6f3ff2a20bbb9d352aac0ba.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3412,7 +3412,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-entities-procurement-sourcing.c62cde4a4fc0aa51f5b278f561a3655ef8b31443.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/data-entities-procurement-sourcing.c62cde4a4fc0aa51f5b278f561a3655ef8b31443.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3426,7 +3426,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-entities-product-information-management.32eab14462cf2d0194f6448a826d2843ec1445d6.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/data-entities-product-information-management.32eab14462cf2d0194f6448a826d2843ec1445d6.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3440,7 +3440,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-entities-production-control.dba2e7dde75dabe3b47f0ce2c83fcb143c6ea240.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/data-entities-production-control.dba2e7dde75dabe3b47f0ce2c83fcb143c6ea240.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3454,7 +3454,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-entities-project-accounting.c6f523456bdcdf7d3bfbc0846a4f46817bb8acb2.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/data-entities-project-accounting.c6f523456bdcdf7d3bfbc0846a4f46817bb8acb2.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3468,7 +3468,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-entities-public-sector.a621e5fa6f355defb5798b39987aa64cf5c6c4d7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/data-entities-public-sector.a621e5fa6f355defb5798b39987aa64cf5c6c4d7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3482,7 +3482,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-entities-report.8ed124610120d3c07fa9aa38122dd67970356b69.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/data-entities-report.8ed124610120d3c07fa9aa38122dd67970356b69.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3496,7 +3496,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-entities-retail.7ca3fcd4d488cf52052e9227cbc2994db97f1957.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/data-entities-retail.7ca3fcd4d488cf52052e9227cbc2994db97f1957.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3510,7 +3510,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-entities-sales-marketing.fd948e0c7e80eb29e030913a70c0b8dd5d611274.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/data-entities-sales-marketing.fd948e0c7e80eb29e030913a70c0b8dd5d611274.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3524,7 +3524,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-entities-sales-marketing-pre-sales.bea1287bd7e3c7165d12e9f63b96c19598edf4c9.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/data-entities-sales-marketing-pre-sales.bea1287bd7e3c7165d12e9f63b96c19598edf4c9.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3538,7 +3538,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-entities-system-administration.2c4b9f870f26e261c8f299d27167ac169f667055.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/data-entities-system-administration.2c4b9f870f26e261c8f299d27167ac169f667055.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3552,7 +3552,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-entities-workflow.94cae732a7061926341f711f2a1540d1f500cfe6.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/data-entities-workflow.94cae732a7061926341f711f2a1540d1f500cfe6.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3566,7 +3566,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-entity-computed-columns-virtual-fields.31eb533642b0cd30848cd439df4dbed8a99d816b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/data-entity-computed-columns-virtual-fields.31eb533642b0cd30848cd439df4dbed8a99d816b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3580,7 +3580,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-entity-wizard-rules.f76114560fd1bd315b9bd9ade7f4e480f6130201.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/data-entity-wizard-rules.f76114560fd1bd315b9bd9ade7f4e480f6130201.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3594,7 +3594,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-management-integration-data-entity.32c548b020c941b1dad71db8c1be3e6534929ab4.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/data-management-integration-data-entity.32c548b020c941b1dad71db8c1be3e6534929ab4.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3608,7 +3608,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [develop-composite-data-entities.3ad9fd0c61211f0939ddc379f41d10af6546239b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/develop-composite-data-entities.3ad9fd0c61211f0939ddc379f41d10af6546239b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3622,7 +3622,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [develop-entity-for-data-migration.6d0f4ecfbb132b7c9e01b0da15dee4144bf77b40.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/develop-entity-for-data-migration.6d0f4ecfbb132b7c9e01b0da15dee4144bf77b40.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3636,7 +3636,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [metadata-properties.0caae66f8ca0a2fcd99520c33df7f044c160c921.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/metadata-properties.0caae66f8ca0a2fcd99520c33df7f044c160c921.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3650,7 +3650,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [odata.7e865d93924de1b91713a443248887fcdd18f351.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/odata.7e865d93924de1b91713a443248887fcdd18f351.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3664,7 +3664,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [recurring-integrations.0fdad986ac955ef0abfbffda04b88271e1bce35c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/recurring-integrations.0fdad986ac955ef0abfbffda04b88271e1bce35c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3678,7 +3678,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [security-data-entities.da4d240d9b168dd9210ad5af60852426df47d8ed.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/security-data-entities.da4d240d9b168dd9210ad5af60852426df47d8ed.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3692,7 +3692,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [services-home-page.997a5a424398e472d5e58dee5f206f34bc74d9d9.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/services-home-page.997a5a424398e472d5e58dee5f206f34bc74d9d9.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3706,7 +3706,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [support-super-type-sub-type.801204b5db2633ca7e1775ef5b9aeb2b7bbc9427.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/support-super-type-sub-type.801204b5db2633ca7e1775ef5b9aeb2b7bbc9427.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3720,7 +3720,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tips-tricks-import-general-journal-entity.dc3bd73159b01922e8e3da48b4649b5fafdee73f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/tips-tricks-import-general-journal-entity.dc3bd73159b01922e8e3da48b4649b5fafdee73f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3734,7 +3734,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [TOC.b97ccc5c581d668e1f268969d57c149ac67f9b90.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/TOC.b97ccc5c581d668e1f268969d57c149ac67f9b90.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3748,7 +3748,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [troubleshoot-service-authentication.6bfeba208f0ede8af347f2e195c6fe61b6e3f772.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/troubleshoot-service-authentication.6bfeba208f0ede8af347f2e195c6fe61b6e3f772.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3762,7 +3762,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [validations-defaults-unmapped-fields.b5177295de0fafe24c90711cf33985a70a181d8b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/validations-defaults-unmapped-fields.b5177295de0fafe24c90711cf33985a70a181d8b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3776,7 +3776,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [apply-deployable-package-system.6bfeb3d3b384ff1348b8260028e30af30b925e0e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/apply-deployable-package-system.6bfeb3d3b384ff1348b8260028e30af30b925e0e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3790,7 +3790,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [arm-onboarding.ab27d47e0763d56dac42d863115a7050a1e4ad3e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/arm-onboarding.ab27d47e0763d56dac42d863115a7050a1e4ad3e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3804,7 +3804,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-apply-deployable-package.32853ee582c83d7ae5c144e1581b384956f5aea1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/create-apply-deployable-package.32853ee582c83d7ae5c144e1581b384956f5aea1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3818,7 +3818,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [csp-download-customersource.c4936c12eaaa669675fa0bf1fa1addc3e833ddd7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/csp-download-customersource.c4936c12eaaa669675fa0bf1fa1addc3e833ddd7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3832,7 +3832,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [deploy-demo-environment.e24e4feebb4abf9c6d97619c2e4e8a2281e4632b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/deploy-demo-environment.e24e4feebb4abf9c6d97619c2e4e8a2281e4632b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3846,7 +3846,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [expressroute.615f9960fbfee03e4ef53d287083ca9887f6b280.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/expressroute.615f9960fbfee03e4ef53d287083ca9887f6b280.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3860,7 +3860,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [install-deployable-package.e3a1e78e36af61e8e8b8b77a063e5bcb0eca4ad3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/install-deployable-package.e3a1e78e36af61e8e8b8b77a063e5bcb0eca4ad3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3874,7 +3874,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [TOC.d28651616859e6ea875d7a6eaf59c4f183912c0d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/TOC.d28651616859e6ea875d7a6eaf59c4f183912c0d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3888,7 +3888,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [a-classes.6a45e8a7f4c9e343b54f3c31863fd0cc2cad7db8.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/a-classes.6a45e8a7f4c9e343b54f3c31863fd0cc2cad7db8.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3902,7 +3902,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [api-reference.42ff6429ef3a498d0d92a494ab4b4ce049e4fea8.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/api-reference.42ff6429ef3a498d0d92a494ab4b4ce049e4fea8.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3916,7 +3916,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [application-explorer-aot-properties.436ae2ea1a7bcf68344b5f110c19bffa404d406a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/application-explorer-aot-properties.436ae2ea1a7bcf68344b5f110c19bffa404d406a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3930,7 +3930,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [b-classes.7edce9e303534c6604a5c2fbb6a0a5d833093443.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/b-classes.7edce9e303534c6604a5c2fbb6a0a5d833093443.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3944,7 +3944,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [c-classes.e97f1538990f9dcc2ee4ee29fa3757256472fa23.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/c-classes.e97f1538990f9dcc2ee4ee29fa3757256472fa23.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3958,7 +3958,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [d-classes.72d66fc3be861f4eb85e2db90bc22c87704f757a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/d-classes.72d66fc3be861f4eb85e2db90bc22c87704f757a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3972,7 +3972,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [e-classes.9f5b7b26244540e5cc59e36a74bfa5b1750544eb.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/e-classes.9f5b7b26244540e5cc59e36a74bfa5b1750544eb.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -3986,7 +3986,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [fieldbinding-classes.4f7598eeb505945dfa4c0740aa4e45382c0b9d95.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/fieldbinding-classes.4f7598eeb505945dfa4c0740aa4e45382c0b9d95.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4000,7 +4000,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [formbuildbuttoncontrol-classes.566ee522395b022a91592939894bfede37e9d083.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/formbuildbuttoncontrol-classes.566ee522395b022a91592939894bfede37e9d083.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4014,7 +4014,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [formbuildfilterpanecontrol-classes.4d5cc7b43399f034e81abe879fedac06850740bf.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/formbuildfilterpanecontrol-classes.4d5cc7b43399f034e81abe879fedac06850740bf.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4028,7 +4028,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [formbuildreferencecontrol-classes.ce84156ec4e08117b2fd1dace0f97088dc93a611.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/formbuildreferencecontrol-classes.ce84156ec4e08117b2fd1dace0f97088dc93a611.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4042,7 +4042,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [formchangetracker-classes.65a859dbff5b2c9a5d0b67529f0db8cd1092175b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/formchangetracker-classes.65a859dbff5b2c9a5d0b67529f0db8cd1092175b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4056,7 +4056,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [formdataobject-classes.26ab903f2d19d941d2136f4b782487181df0162b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/formdataobject-classes.26ab903f2d19d941d2136f4b782487181df0162b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4070,7 +4070,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [formfasttabsummaryseparator-classes.33d26b5c50cf94d59d99d2ad31ce7109d21a27cf.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/formfasttabsummaryseparator-classes.33d26b5c50cf94d59d99d2ad31ce7109d21a27cf.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4084,7 +4084,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [formgroupcontrol-classes.08543d98f361a56aeb6cebbc69065bfded494ff3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/formgroupcontrol-classes.08543d98f361a56aeb6cebbc69065bfded494ff3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4098,7 +4098,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [formlistboxcontrol-classes.7ae7f6ac242e899aa8d5904db706604f38f9a688.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/formlistboxcontrol-classes.7ae7f6ac242e899aa8d5904db706604f38f9a688.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4112,7 +4112,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [formobject-classes.84800500d2533730c569ebff4ecd62b4b90e6b37.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/formobject-classes.84800500d2533730c569ebff4ecd62b4b90e6b37.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4126,7 +4126,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [formreferencecontrol-classes.b7a8f161f7ef4ff70b7b3addf85606f08ce3072d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/formreferencecontrol-classes.b7a8f161f7ef4ff70b7b3addf85606f08ce3072d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4140,7 +4140,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [formtabcontrol-classes.fb186a74639de78a53ef6469e12da00d94b571de.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/formtabcontrol-classes.fb186a74639de78a53ef6469e12da00d94b571de.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4154,7 +4154,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [g-classes.020643c3cb903c17e08eca1395dff8cd6b9230dc.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/g-classes.020643c3cb903c17e08eca1395dff8cd6b9230dc.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4168,7 +4168,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [h-classes.3f6c00629fbe42deec69f25d08873d3f3a58bff4.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/h-classes.3f6c00629fbe42deec69f25d08873d3f3a58bff4.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4182,7 +4182,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [i-classes.1349491ab1451571baef11e5ef555cd4d9ba73cc.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/i-classes.1349491ab1451571baef11e5ef555cd4d9ba73cc.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4196,7 +4196,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [j-classes.3931ff87f34aedb59d77c64b4e3fb9c1dcb036c3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/j-classes.3931ff87f34aedb59d77c64b4e3fb9c1dcb036c3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4210,7 +4210,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [k-classes.d16f952e2602e5f22a66b2d588bd5dab4305b95d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/k-classes.d16f952e2602e5f22a66b2d588bd5dab4305b95d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4224,7 +4224,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [l-classes.2677897b7a5094b49194bbb82e27ff4435a1fbb0.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/l-classes.2677897b7a5094b49194bbb82e27ff4435a1fbb0.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4238,7 +4238,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [m-classes.07bf3a56043657acea7916bbc78619157954edb5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/m-classes.07bf3a56043657acea7916bbc78619157954edb5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4252,7 +4252,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [n-classes.6c5847a507ce5a31939583637923e9dc10dbe020.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/n-classes.6c5847a507ce5a31939583637923e9dc10dbe020.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4266,7 +4266,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [o-classes.fab9482b6deecbf687cd5ab5b53eafc1e6982d4d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/o-classes.fab9482b6deecbf687cd5ab5b53eafc1e6982d4d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4280,7 +4280,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [p-classes.6f89e26c9443cd348fb5634df69598795b364f35.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/p-classes.6f89e26c9443cd348fb5634df69598795b364f35.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4294,7 +4294,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [q-classes.2d9bee22db0ab760fd03a5a4563bf62585c96291.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/q-classes.2d9bee22db0ab760fd03a5a4563bf62585c96291.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4308,7 +4308,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [r-classes.8bd92bbe86c9c8988091dc166dce941a3d94fe40.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/r-classes.8bd92bbe86c9c8988091dc166dce941a3d94fe40.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4322,7 +4322,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [s-classes.c8ee7183c647f90d2d97ea33f4ac0f626a0f276a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/s-classes.c8ee7183c647f90d2d97ea33f4ac0f626a0f276a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4336,7 +4336,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [system-tables.97f312aa6cb19d87a216fad2c22dcf2ab5c68797.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/system-tables.97f312aa6cb19d87a216fad2c22dcf2ab5c68797.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4350,7 +4350,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [t-classes.16321783de80bf8fa2c154a4104dd779458da39a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/t-classes.16321783de80bf8fa2c154a4104dd779458da39a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4364,7 +4364,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [u-classes.04dde20ff664f5ab19a9eb905b87f08d532c5757.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/u-classes.04dde20ff664f5ab19a9eb905b87f08d532c5757.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4378,7 +4378,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [v-classes.4eb6ca189cd121052447e78e6cf94a5da882c87a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/v-classes.4eb6ca189cd121052447e78e6cf94a5da882c87a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4392,7 +4392,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [w-classes.36b7d37815a0cb2d61454046ed59a3f3c78914eb.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/w-classes.36b7d37815a0cb2d61454046ed59a3f3c78914eb.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4406,7 +4406,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [x-classes.0c99bbf3e04966bedfa45d4eafbf160ca0b21d01.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/x-classes.0c99bbf3e04966bedfa45d4eafbf160ca0b21d01.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4420,7 +4420,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xpp-attribute-classes.ac5d19b02280240f82469afc0c8a292c2157df7d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/xpp-attribute-classes.ac5d19b02280240f82469afc0c8a292c2157df7d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4434,7 +4434,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xpp-business-run-time-functions.591c26d757372b389048a2b6101e8213b8a742c3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/xpp-business-run-time-functions.591c26d757372b389048a2b6101e8213b8a742c3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4448,7 +4448,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xpp-classes-methods.c393d93306d38c870f154e8469aa2595f2613abb.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/xpp-classes-methods.c393d93306d38c870f154e8469aa2595f2613abb.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4462,7 +4462,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xpp-compile-time-functions.eb5f90a3dec2400d5cf894cc89da74c6ef017c12.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/xpp-compile-time-functions.eb5f90a3dec2400d5cf894cc89da74c6ef017c12.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4476,7 +4476,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xpp-container-run-time-functions.685a4b05e6ad6abe9d6ddc60a259b12e3e8d7b2c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/xpp-container-run-time-functions.685a4b05e6ad6abe9d6ddc60a259b12e3e8d7b2c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4490,7 +4490,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xpp-conversion-run-time-functions.f9b492b0df3716597e84b972e4ecae7424715e5f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/xpp-conversion-run-time-functions.f9b492b0df3716597e84b972e4ecae7424715e5f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4504,7 +4504,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xpp-cs-comparison.527d6041bbfc2933ba190ad164f5794ac8a10019.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/xpp-cs-comparison.527d6041bbfc2933ba190ad164f5794ac8a10019.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4518,7 +4518,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xpp-data-query.46d7e5f0cdecd5e4b7ec49e240dc9d4c1ef1eec7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/xpp-data-query.46d7e5f0cdecd5e4b7ec49e240dc9d4c1ef1eec7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4532,7 +4532,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xpp-date-run-time-functions.9e822431d800d87caef110687c8b1bfab2d60c7c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/xpp-date-run-time-functions.9e822431d800d87caef110687c8b1bfab2d60c7c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4546,7 +4546,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xpp-language-reference.38dc03973ffa816af2e4f3bf3c58a0f3f22eab12.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/xpp-language-reference.38dc03973ffa816af2e4f3bf3c58a0f3f22eab12.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4560,7 +4560,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xpp-macros.d0a05a70da96a005ad921f29efdb011e5f0a351c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/xpp-macros.d0a05a70da96a005ad921f29efdb011e5f0a351c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4574,7 +4574,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xpp-math-run-time-functions.213bab156adf58fb19e362d5177c10ceebc2d29c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/xpp-math-run-time-functions.213bab156adf58fb19e362d5177c10ceebc2d29c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4588,7 +4588,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xpp-operator-precedence.5d3e6f039485532b2ef482c138210620e6376e7f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/xpp-operator-precedence.5d3e6f039485532b2ef482c138210620e6376e7f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4602,7 +4602,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xpp-operators.00cfa3ae4d54f02fdb3535e6d60cac22060fa5ba.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/xpp-operators.00cfa3ae4d54f02fdb3535e6d60cac22060fa5ba.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4616,7 +4616,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xpp-reflection-run-time-functions.4594e284460ab79a156745461d3ecfcdae178ab6.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/xpp-reflection-run-time-functions.4594e284460ab79a156745461d3ecfcdae178ab6.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4630,7 +4630,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xpp-run-time-functions.0c3704fe546a53e8114bc1dc3294b1702fd70efb.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/xpp-run-time-functions.0c3704fe546a53e8114bc1dc3294b1702fd70efb.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4644,7 +4644,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xpp-session-run-time-functions.b8961607361cb3e0ed8112b1030cf44941f2a4b8.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/xpp-session-run-time-functions.b8961607361cb3e0ed8112b1030cf44941f2a4b8.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4658,7 +4658,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xpp-statements-loops.87aef6e680095c0fe6c97dc6dbc8e565de744680.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/xpp-statements-loops.87aef6e680095c0fe6c97dc6dbc8e565de744680.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4672,7 +4672,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xpp-string-run-time-functions.54266f9f2b397d2dcc366049e1748aad565e8ae2.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/xpp-string-run-time-functions.54266f9f2b397d2dcc366049e1748aad565e8ae2.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4686,7 +4686,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xpp-syntax.cbb0f8083e5b338139ce9397505b2f1267551867.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/xpp-syntax.cbb0f8083e5b338139ce9397505b2f1267551867.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4700,7 +4700,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xpp-variables-data-types.23cdb8a6a7367cbdd11fb6b38d4af658302b0fe5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/xpp-variables-data-types.23cdb8a6a7367cbdd11fb6b38d4af658302b0fe5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4714,7 +4714,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [access-instances.d9c5fcabf373a823c5767767eb298734dcef4b46.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/access-instances.d9c5fcabf373a823c5767767eb298734dcef4b46.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4728,7 +4728,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [application-explorer.02a3a85d1236d684395ed0c6aef1ca8b6d69b2e2.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/application-explorer.02a3a85d1236d684395ed0c6aef1ca8b6d69b2e2.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4742,7 +4742,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [application-stack-server-architecture.10aeec2f9f7d638afd6348cc76d38109bd448171.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/application-stack-server-architecture.10aeec2f9f7d638afd6348cc76d38109bd448171.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4756,7 +4756,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [author-best-practice-rules.0eefc0f17157cc3749602acbd1e481734c45c4c8.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/author-best-practice-rules.0eefc0f17157cc3749602acbd1e481734c45c4c8.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4770,7 +4770,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [build-debug-project.33c944b8b910c2f3bd0b6094b3e55d1ba2e5daff.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/build-debug-project.33c944b8b910c2f3bd0b6094b3e55d1ba2e5daff.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4784,7 +4784,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [build-operations.6d4c4d14aad3e88983948dbb2e30424c69f57024.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/build-operations.6d4c4d14aad3e88983948dbb2e30424c69f57024.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4798,7 +4798,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [code-editor.7d13c86edb9f11dea86ef78af061dbbb2506d642.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/code-editor.7d13c86edb9f11dea86ef78af061dbbb2506d642.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4812,7 +4812,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [configure-developer-vm.4070db84a08d5a8c8234b75d75fea95a46b1926a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/configure-developer-vm.4070db84a08d5a8c8234b75d75fea95a46b1926a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4826,7 +4826,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [continuous-delivery-faq.49b691a0267b6c866e8d88ec2d9ae6a9ead0d3c3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/continuous-delivery-faq.49b691a0267b6c866e8d88ec2d9ae6a9ead0d3c3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4840,7 +4840,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [continuous-delivery-home-page.1ed311f360ce5aabda39d10383601b69649ab1ab.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/continuous-delivery-home-page.1ed311f360ce5aabda39d10383601b69649ab1ab.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4854,7 +4854,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-data-model-elements.c54003bceab8974a20610c0bf236c60828236fe3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/create-data-model-elements.c54003bceab8974a20610c0bf236c60828236fe3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4868,7 +4868,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [customization-analysis-report.7d996f5f175bf23fd6cdb3de56c781e8e987816c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/customization-analysis-report.7d996f5f175bf23fd6cdb3de56c781e8e987816c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4882,7 +4882,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [database-synchronization.974b6e5f8153be2cb82f415b6d841494a58e6aff.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/database-synchronization.974b6e5f8153be2cb82f415b6d841494a58e6aff.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4896,7 +4896,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [date-effectivity.61e8bb005190e196854a2d3e930d4fa1f73cfcdf.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/date-effectivity.61e8bb005190e196854a2d3e930d4fa1f73cfcdf.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4910,7 +4910,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [debug-x-issue-against-copy-of-production.61f43c5fc90b7c09f47f5e15d8d74891d6918e4d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/debug-x-issue-against-copy-of-production.61f43c5fc90b7c09f47f5e15d8d74891d6918e4d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4924,7 +4924,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [debug-xpp.7b9ebd308f9d033766c6e5f0c85098299721c909.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/debug-xpp.7b9ebd308f9d033766c6e5f0c85098299721c909.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4938,7 +4938,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [design-best-practices.78e27a1d6a5f56f588872c324da5c6c559d55331.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/design-best-practices.78e27a1d6a5f56f588872c324da5c6c559d55331.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4952,7 +4952,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [developer-home-page.03dfcd17ae58422821c32ba141072b22764affab.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/developer-home-page.03dfcd17ae58422821c32ba141072b22764affab.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4966,7 +4966,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [developer-tools-add-ins.88abedb010afbcd2813787d8ec4ce56b011c4178.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/developer-tools-add-ins.88abedb010afbcd2813787d8ec4ce56b011c4178.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4980,7 +4980,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [development-system-requirements.634f254bc277c00faf0f8696f5bc3b2cfd77ed35.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/development-system-requirements.634f254bc277c00faf0f8696f5bc3b2cfd77ed35.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -4994,7 +4994,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [development-tools.3786794aa256e75941ef7d5fcca8a1528b0350ba.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/development-tools.3786794aa256e75941ef7d5fcca8a1528b0350ba.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5008,7 +5008,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [element-designers.0efd00cc5de043d0d06ccfa938e894be3aa070c4.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/element-designers.0efd00cc5de043d0d06ccfa938e894be3aa070c4.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5022,7 +5022,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [element-usage.1687d343ac815edb4eee00909ea56ffc7e2ac7fe.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/element-usage.1687d343ac815edb4eee00909ea56ffc7e2ac7fe.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5036,7 +5036,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [enable-development-machine.80efde5a3cd84e4ae69faddf657c5ae0f86bc8f0.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/enable-development-machine.80efde5a3cd84e4ae69faddf657c5ae0f86bc8f0.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5050,7 +5050,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [event-handler-result-class.636b6666a62c994731e3b7e99ef75948161b5989.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/event-handler-result-class.636b6666a62c994731e3b7e99ef75948161b5989.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5064,7 +5064,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [fleet-management-sample.9c0043562ddcb091e33bd29646d4b2370c283b12.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/fleet-management-sample.9c0043562ddcb091e33bd29646d4b2370c283b12.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5078,7 +5078,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [get-evaluation-copy.523384f870ada4793b49fd4fa9ab4bd9ca7c3037.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/get-evaluation-copy.523384f870ada4793b49fd4fa9ab4bd9ca7c3037.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5092,7 +5092,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [introduction-fleet-management-sample.3c046dee4e0d897c46760be2b02c3211375b47b4.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/introduction-fleet-management-sample.3c046dee4e0d897c46760be2b02c3211375b47b4.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5106,7 +5106,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [introduction-visual-studio.7ce9be48342fd5d7988bb66153e989d14aa47401.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/introduction-visual-studio.7ce9be48342fd5d7988bb66153e989d14aa47401.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5120,7 +5120,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [isv-licensing.a418b62994eac9172e970a69cef24a1d3980517d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/isv-licensing.a418b62994eac9172e970a69cef24a1d3980517d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5134,7 +5134,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [linq-provider-c.9e33480121bae87883f1de89d71690f4837bff46.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/linq-provider-c.9e33480121bae87883f1de89d71690f4837bff46.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5148,7 +5148,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [lock-models.0548cde84664c7289eacb4988734fbdefb43eaf3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/lock-models.0548cde84664c7289eacb4988734fbdefb43eaf3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5162,7 +5162,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [metadata-search-visual-studio.20d5e9ff1180577840c2833e53e166afbcbf6946.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/metadata-search-visual-studio.20d5e9ff1180577840c2833e53e166afbcbf6946.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5176,7 +5176,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [models.b50b96761909867b865228138bd7c874bdb208f3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/models.b50b96761909867b865228138bd7c874bdb208f3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5190,7 +5190,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [models-export-import.a043594f9d51036284eceb0b3091f2eff75d9321.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/models-export-import.a043594f9d51036284eceb0b3091f2eff75d9321.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5204,7 +5204,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [model-split.3ed8d8fa5c3b1b6331a86f98c3beba320e3681b0.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/model-split.3ed8d8fa5c3b1b6331a86f98c3beba320e3681b0.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5218,7 +5218,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [new-x-debugger-features.6d6f5986510a6e07ed3ec1c20ad07a6f3ae15469.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/new-x-debugger-features.6d6f5986510a6e07ed3ec1c20ad07a6f3ae15469.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5232,7 +5232,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [programming-language-support.b539fcccd4e0f34e14162d6808006550d38c764e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/programming-language-support.b539fcccd4e0f34e14162d6808006550d38c764e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5246,7 +5246,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [projects.7452a568ae255e9d68b2d3182c2d9df22412b320.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/projects.7452a568ae255e9d68b2d3182c2d9df22412b320.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5260,7 +5260,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [sign-up-preview-subscription.97946348458e9103fe904e1081c3ad6428f03dca.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/sign-up-preview-subscription.97946348458e9103fe904e1081c3ad6428f03dca.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5274,7 +5274,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [TOC.9ff42d7fecd0fb410e90a3a9e0dd05e6bb9ea69c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/TOC.9ff42d7fecd0fb410e90a3a9e0dd05e6bb9ea69c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5288,7 +5288,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [update-development-tools.199db1996115e43271a741a9d42f61c0aecfb380.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/update-development-tools.199db1996115e43271a741a9d42f61c0aecfb380.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5302,7 +5302,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [write-business-logic.6e254870c1e1a9293e48e6587dc9b6ca700a983b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/write-business-logic.6e254870c1e1a9293e48e6587dc9b6ca700a983b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5316,7 +5316,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [class-extensions.2429885ff1087358134e8871d7da7be628c74415.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/class-extensions.2429885ff1087358134e8871d7da7be628c74415.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5330,7 +5330,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [customization-overlayering-extensions.7d8b06c4683f8b0b34825216b9bf3562a62c1ea1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/customization-overlayering-extensions.7d8b06c4683f8b0b34825216b9bf3562a62c1ea1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5344,7 +5344,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [customize-model-elements-extensions.5eea351321f0968e2dac623d54ee76d835e57a3b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/customize-model-elements-extensions.5eea351321f0968e2dac623d54ee76d835e57a3b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5358,7 +5358,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [extend-number-sequence-scope.3f33fc86e88f7b2b69c06e8877f13981ef08cf67.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/extend-number-sequence-scope.3f33fc86e88f7b2b69c06e8877f13981ef08cf67.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5372,7 +5372,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [extend-runbase-class.e00935f559ab029ecbdd7daed90956bcb3b69947.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/extend-runbase-class.e00935f559ab029ecbdd7daed90956bcb3b69947.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5386,7 +5386,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [extensibility-home-page.9e5cea6c1a51e5f9d4df08a28d3dae2ae1a52e6b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/extensibility-home-page.9e5cea6c1a51e5f9d4df08a28d3dae2ae1a52e6b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5400,7 +5400,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [activate-financial-dimensions.90efca3e9cd22463de7597612fc2336774c201b0.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/activate-financial-dimensions.90efca3e9cd22463de7597612fc2336774c201b0.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5414,7 +5414,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [add-dimensions-excel-templates.aa45f52e664818f6ce09cbd90642f80d25fb0761.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/add-dimensions-excel-templates.aa45f52e664818f6ce09cbd90642f80d25fb0761.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5428,7 +5428,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-exchange-rate-providers.c44ed6ff78584138c59c704610fb47c75ca8a1f8.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/create-exchange-rate-providers.c44ed6ff78584138c59c704610fb47c75ca8a1f8.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5442,7 +5442,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [dimensionable-entities.50e15f2de7682ee3c3df3f10fde2441c1210adcf.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/dimensionable-entities.50e15f2de7682ee3c3df3f10fde2441c1210adcf.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5456,7 +5456,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [dimension-entry-control-dialog-support.3c124a031a35270dbb32f4f2215cc19f28d3898a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/dimension-entry-control-dialog-support.3c124a031a35270dbb32f4f2215cc19f28d3898a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5470,7 +5470,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [dimension-entry-control-migration.bf42064e009ababedefaca127c96a1c7c277a67b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/dimension-entry-control-migration.bf42064e009ababedefaca127c96a1c7c277a67b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5484,7 +5484,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [dimension-entry-control-subpattern.3ab1a4dba23d296b865fdfb5ce5bf3b81aa081d4.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/dimension-entry-control-subpattern.3ab1a4dba23d296b865fdfb5ce5bf3b81aa081d4.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5498,7 +5498,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [dimension-entry-control-uptake.36438f1c299b010f22aeefa25c7aa61c6f879c6c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/dimension-entry-control-uptake.36438f1c299b010f22aeefa25c7aa61c6f879c6c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5512,7 +5512,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [dimension-expression-builder-subpattern.15937fc1fb1b5698abeb16a0b832433ff1e6b1f2.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/dimension-expression-builder-subpattern.15937fc1fb1b5698abeb16a0b832433ff1e6b1f2.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5526,7 +5526,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [dimensions.c7196dd6a0109de87e7972ff06802d171140ff2b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/dimensions.c7196dd6a0109de87e7972ff06802d171140ff2b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5540,7 +5540,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [dimensions-overview.451fa8c142ee3104a0aa6a24df49e175af9e39d7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/dimensions-overview.451fa8c142ee3104a0aa6a24df49e175af9e39d7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5554,7 +5554,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [financial-dimension-configuration-integration.45301d067dcf9a5e9e2ed451eb10a2f8f6013264.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/financial-dimension-configuration-integration.45301d067dcf9a5e9e2ed451eb10a2f8f6013264.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5568,7 +5568,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [financial-dimensions-main-accounts-right-left-language.5aec9fd0a9a677fe286d8c1ec1b67d78c5f3b4be.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/financial-dimensions-main-accounts-right-left-language.5aec9fd0a9a677fe286d8c1ec1b67d78c5f3b4be.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5582,7 +5582,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [read-only-entity-financial.74bb34178a6309296079b4beead96501d9b1bffe.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/read-only-entity-financial.74bb34178a6309296079b4beead96501d9b1bffe.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5596,7 +5596,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [segmented-entry-control-conversion.c2548b1a0539f23149850d763cf571edafb7c050.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/segmented-entry-control-conversion.c2548b1a0539f23149850d763cf571edafb7c050.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5610,7 +5610,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [segmented-entry-control-dialog-support.a08b36b6a2409b3c499fc84a443f44750ac28700.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/segmented-entry-control-dialog-support.a08b36b6a2409b3c499fc84a443f44750ac28700.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5624,7 +5624,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [segmented-entry-control-metadata-specification.741e4240bf189de9027993610240148402a8595d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/segmented-entry-control-metadata-specification.741e4240bf189de9027993610240148402a8595d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5638,7 +5638,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [segmented-entry-control-migration-guidance.c43c3c35a48ceae097cfdcbf4acfea0cb08c0e58.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/segmented-entry-control-migration-guidance.c43c3c35a48ceae097cfdcbf4acfea0cb08c0e58.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5652,7 +5652,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [segmented-entry-control-parm-method-specification.ac3506e2488505cc89ac88ce7259487c8952a76c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/segmented-entry-control-parm-method-specification.ac3506e2488505cc89ac88ce7259487c8952a76c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5666,7 +5666,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [TOC.01e35be64cfdfe6380d744ec2e2b8fddde4799bc.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/TOC.01e35be64cfdfe6380d744ec2e2b8fddde4799bc.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5680,7 +5680,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [ax-2012-features-not-implemented-but-not-deprecated.afeb1b75b11a52b20c6ce0cf5e1405b4092c353f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/ax-2012-features-not-implemented-but-not-deprecated.afeb1b75b11a52b20c6ce0cf5e1405b4092c353f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5694,7 +5694,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [demo-data.13786df60ecab17e1584e80ee5d54ca8526ddb91.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/demo-data.13786df60ecab17e1584e80ee5d54ca8526ddb91.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5708,7 +5708,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [getting-started-home-page.8766ea88a42377ad0d32559a4075b8f38d83a39c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/getting-started-home-page.8766ea88a42377ad0d32559a4075b8f38d83a39c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5722,7 +5722,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [help-connect.0bcbf81b6e6ccf4a648522bfe20129d2c51391be.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/help-connect.0bcbf81b6e6ccf4a648522bfe20129d2c51391be.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5736,7 +5736,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [help-overview.b869462a6d420a048d3fd3f10919bb7a7d51e2c7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/help-overview.b869462a6d420a048d3fd3f10919bb7a7d51e2c7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5750,7 +5750,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [new-task-guides-available-february-2016.ec30e15831f84d6b312ac49810e747972b99d6b1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/new-task-guides-available-february-2016.ec30e15831f84d6b312ac49810e747972b99d6b1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5764,7 +5764,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [new-task-guides-november-2016.9ff0a6dfffceb2634209ffa2d07a1722edf814bf.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/new-task-guides-november-2016.9ff0a6dfffceb2634209ffa2d07a1722edf814bf.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5778,7 +5778,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [new-updated-task-guides-available-august-2016.58bdcff33dea8821a34fba226f065c25dcb9e05e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/new-updated-task-guides-available-august-2016.58bdcff33dea8821a34fba226f065c25dcb9e05e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5792,7 +5792,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [new-updated-task-guides-available-may-2016.5207490da0f1f972f9fc2441a34c1702125d72da.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/new-updated-task-guides-available-may-2016.5207490da0f1f972f9fc2441a34c1702125d72da.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5806,7 +5806,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [system-requirements.7d121c546503381e5dacbab8e88f26f343056744.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/system-requirements.7d121c546503381e5dacbab8e88f26f343056744.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5820,7 +5820,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [TOC.20c1746f5a4b7163956a389bd18f05f7002d4769.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/TOC.20c1746f5a4b7163956a389bd18f05f7002d4769.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5834,7 +5834,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [whats-new-changed.f583ea9f8e370bdb1fed612787f91a75f641a04e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/whats-new-changed.f583ea9f8e370bdb1fed612787f91a75f641a04e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5848,7 +5848,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [whats-new-changed-7-0-february-2016.610bbcfa170abb8328ea7384f13218b89fe7fe3f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/whats-new-changed-7-0-february-2016.610bbcfa170abb8328ea7384f13218b89fe7fe3f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5862,7 +5862,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [whats-new-changed-application-version-7-0-1-may-2016.5e7cd49ab652efbf5408addfc65f721c3cda6e86.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/whats-new-changed-application-version-7-0-1-may-2016.5e7cd49ab652efbf5408addfc65f721c3cda6e86.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5876,7 +5876,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [whats-new-changed-platform-version-7-1-may-2016.0cd05d67ae02cc7f95543db684290f772dca5b8d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/whats-new-changed-platform-version-7-1-may-2016.0cd05d67ae02cc7f95543db684290f772dca5b8d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5890,7 +5890,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [whats-new-dynamics-365-operations-1611.a09066ab4cddeae78227ce4f923c7979f75bfb93.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/whats-new-dynamics-365-operations-1611.a09066ab4cddeae78227ce4f923c7979f75bfb93.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5904,7 +5904,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [whats-new-platform-update-2.97131820860182c7341ce2331a8d166e90a646c0.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/whats-new-platform-update-2.97131820860182c7341ce2331a8d166e90a646c0.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5918,7 +5918,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [whats-new-platform-update-3.2a8de5382d52421edd48a9f7a746a557e6f80647.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/whats-new-platform-update-3.2a8de5382d52421edd48a9f7a746a557e6f80647.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5932,7 +5932,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [whats-new-platform-update-4.281488579becd17fdc3b69b528a0ba7871d35e82.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/whats-new-platform-update-4.281488579becd17fdc3b69b528a0ba7871d35e82.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5946,7 +5946,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [whats-new-platform-update-5.2fefafe5b91a3bfa47e2800338f46061ca95d335.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/whats-new-platform-update-5.2fefafe5b91a3bfa47e2800338f46061ca95d335.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5960,7 +5960,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [whats-new-platform-update-6.dbd2421d73dbaf68050524de1bd35bb87bc2d225.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/whats-new-platform-update-6.dbd2421d73dbaf68050524de1bd35bb87bc2d225.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5974,7 +5974,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [whats-new-platform-update-7.1cdcbe98d7519c091232f56f2eba00ed95fb40d6.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/whats-new-platform-update-7.1cdcbe98d7519c091232f56f2eba00ed95fb40d6.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -5988,7 +5988,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [banner.ff5170bbaf2ffc1afc8f1ec885ae42a4df20ee6b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/premium/banner.ff5170bbaf2ffc1afc8f1ec885ae42a4df20ee6b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6002,7 +6002,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.fb87281ef628436b88d3e05b1b2c7b496889daa2.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/index.fb87281ef628436b88d3e05b1b2c7b496889daa2.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6016,7 +6016,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [apply-country-context.79336dc1a7801ec2a79c033e6d16de571a071484.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/apply-country-context.79336dc1a7801ec2a79c033e6d16de571a071484.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6030,7 +6030,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [app-validation-lcs-solutions.cdd158d5d308dc44225b5d75c3f1cffd5c5523d2.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/app-validation-lcs-solutions.cdd158d5d308dc44225b5d75c3f1cffd5c5523d2.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6044,7 +6044,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [business-process-modeler-libraries-lcs-solutions.2931d0b714ed2408f39c2e8be1bcf97525c7a648.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/business-process-modeler-libraries-lcs-solutions.2931d0b714ed2408f39c2e8be1bcf97525c7a648.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6058,7 +6058,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [classify-localization-features.d984c3c7d5309ca628f9372f0856bafc2c8e8ae4.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/classify-localization-features.d984c3c7d5309ca628f9372f0856bafc2c8e8ae4.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6072,7 +6072,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [code-migration-lcs-solutions.d8b036ec685f8582c3033e79d9581d0cd47cd296.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/code-migration-lcs-solutions.d8b036ec685f8582c3033e79d9581d0cd47cd296.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6086,7 +6086,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [country-region.25039eba4aeffb6c856d86095cd713a4a54ac690.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/premium/country-region.25039eba4aeffb6c856d86095cd713a4a54ac690.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6100,7 +6100,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [database-backup-lcs-solutions.3c5fdaafa292af01b697dce18ba8093d3ac3984d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/database-backup-lcs-solutions.3c5fdaafa292af01b697dce18ba8093d3ac3984d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6114,7 +6114,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [lcs-solutions-app-source.df4fbfefea65c9548ce890fa74e294746567b44a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/lcs-solutions-app-source.df4fbfefea65c9548ce890fa74e294746567b44a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6128,7 +6128,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [marketing-content-lcs-solutions.1c20687aa46ee24ec3dd3a8a49360bdd55b0590b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/marketing-content-lcs-solutions.1c20687aa46ee24ec3dd3a8a49360bdd55b0590b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6142,7 +6142,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [methodologies-lcs-solutions.a5e32ecc25b4f0ea52bbcce5d40ce25cb1c37bad.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/methodologies-lcs-solutions.a5e32ecc25b4f0ea52bbcce5d40ce25cb1c37bad.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6156,7 +6156,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [process-data-packages-lcs-solutions.cf9f8f975a5b2a521c721efe200300166e62f1f7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/process-data-packages-lcs-solutions.cf9f8f975a5b2a521c721efe200300166e62f1f7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6170,7 +6170,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [regulatory-certifications.d031b4f89f069879f1f5a65304bed302564398b1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/regulatory-certifications.d031b4f89f069879f1f5a65304bed302564398b1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6184,7 +6184,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [regulatory-watch-communication.10843644bc7d02ad3adbb0e2df4a2bf07da27fe7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/regulatory-watch-communication.10843644bc7d02ad3adbb0e2df4a2bf07da27fe7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6198,7 +6198,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [separate-localization-models.5511fba012bce87f1ebf57ba1b9aeb4b34567c52.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/separate-localization-models.5511fba012bce87f1ebf57ba1b9aeb4b34567c52.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6212,7 +6212,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [submit-localization-alerts.e2a6d9d3ac67170131704e4a5df42ca1d7315e23.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/submit-localization-alerts.e2a6d9d3ac67170131704e4a5df42ca1d7315e23.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6226,7 +6226,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [analysis-functionality-idmf-workspace.3c9522a3f07d8ee0bf246156d54d48b141b82bf4.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/analysis-functionality-idmf-workspace.3c9522a3f07d8ee0bf246156d54d48b141b82bf4.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6240,7 +6240,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [cloud-hosted-environments-lcs.c2a11fff3e07211b462eb172348088e962874448.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/cloud-hosted-environments-lcs.c2a11fff3e07211b462eb172348088e962874448.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6254,7 +6254,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [code-upgrade-tool-user-guide.3049e14c228d36951f899ec7945c22147c0d68f7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/code-upgrade-tool-user-guide.3049e14c228d36951f899ec7945c22147c0d68f7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6268,7 +6268,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [configuration-functionality-idmf-workspace.d432af43d55e417ed4594b7e819396f8f085214f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/configuration-functionality-idmf-workspace.d432af43d55e417ed4594b7e819396f8f085214f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6282,7 +6282,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [configure-sql-server-integration-services-multiple-versions-dixf.047f8f0cfce28ee8ca44db2690a5720b0ca4bca5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/configure-sql-server-integration-services-multiple-versions-dixf.047f8f0cfce28ee8ca44db2690a5720b0ca4bca5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6296,7 +6296,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [copy-compare-entity-data-between-companies-dixf.2bcc563100ef2bb1f5bb9a17397f093d4c34b72a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/copy-compare-entity-data-between-companies-dixf.2bcc563100ef2bb1f5bb9a17397f093d4c34b72a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6310,7 +6310,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [copy-data-between-companies-dixf.66c1127a1ea9fdc07a847fe4aafa7da7edc7d071.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/copy-data-between-companies-dixf.66c1127a1ea9fdc07a847fe4aafa7da7edc7d071.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6324,7 +6324,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [copy-data-between-instances-dixf.c109b466b2b80a72626e552805611bf220dbff14.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/copy-data-between-instances-dixf.c109b466b2b80a72626e552805611bf220dbff14.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6338,7 +6338,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-archive-objects.2bc480b6a638d28381168d4153b6ec37752283d8.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/create-archive-objects.2bc480b6a638d28381168d4153b6ec37752283d8.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6352,7 +6352,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-custom-target-entity-dixf.e38e62f6f20c21e174c7910a1235bae510be903a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/create-custom-target-entity-dixf.e38e62f6f20c21e174c7910a1235bae510be903a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6366,7 +6366,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-purge-objects.6ce5243e177cd541f96081b240a0b0875b1ce2c1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/create-purge-objects.6ce5243e177cd541f96081b240a0b0875b1ce2c1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6380,7 +6380,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-tables.02a1c5142455142150f43779b4f85ffbf9884645.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/create-tables.02a1c5142455142150f43779b4f85ffbf9884645.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6394,7 +6394,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [customization-analysis-lcs.1842a08d285f7937db8a60077cb211bdf8b6767a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/customization-analysis-lcs.1842a08d285f7937db8a60077cb211bdf8b6767a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6408,7 +6408,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [define-edit-entry-point-permissions.6173600ba7ae8f726cedd77a5c7b383ce08f4679.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/define-edit-entry-point-permissions.6173600ba7ae8f726cedd77a5c7b383ce08f4679.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6422,7 +6422,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [demo-files-dixf.62577dc0d0ab8461062dfaafc809dd045036e89e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/demo-files-dixf.62577dc0d0ab8461062dfaafc809dd045036e89e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6436,7 +6436,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [deploy-2012-r3-azure-lcs.806befea28326456802367f2769debf000c262ec.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/deploy-2012-r3-azure-lcs.806befea28326456802367f2769debf000c262ec.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6450,7 +6450,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [deploy-ax-2012-r3-ax-2012-r3-cu8-demo-environment-azure.e79495dff4b1d99f6c6860df316943cc995d5ef6.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/deploy-ax-2012-r3-ax-2012-r3-cu8-demo-environment-azure.e79495dff4b1d99f6c6860df316943cc995d5ef6.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6464,7 +6464,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [deploy-development-environment-azure.482e643d77faed18a1700a7a947d201cda0f0625.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/deploy-development-environment-azure.482e643d77faed18a1700a7a947d201cda0f0625.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6478,7 +6478,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [deploy-high-availability-environment-azure.b75108943042d39a32cc20aed0b195db1192f139.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/deploy-high-availability-environment-azure.b75108943042d39a32cc20aed0b195db1192f139.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6492,7 +6492,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [deploy-retail-ecommerce-devtest-environment-azure.52988047bf21349b2e480cd2a70daf440bad012a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/deploy-retail-ecommerce-devtest-environment-azure.52988047bf21349b2e480cd2a70daf440bad012a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6506,7 +6506,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [deploy-retail-essentials-demo-environment-azure.b548c4351c729ac7010d1e77ca377f407a19552c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/deploy-retail-essentials-demo-environment-azure.b548c4351c729ac7010d1e77ca377f407a19552c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6520,7 +6520,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [deploy-retail-essentials-devtest-environment-azure.ad813143fda12fbdb4b1a00df3e923f53c4ee0d5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/deploy-retail-essentials-devtest-environment-azure.ad813143fda12fbdb4b1a00df3e923f53c4ee0d5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6534,7 +6534,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [deploy-retail-mobility-devtest-environment-azure.f35699403128e92817413c4c1e8472ef24471723.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/deploy-retail-mobility-devtest-environment-azure.f35699403128e92817413c4c1e8472ef24471723.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6548,7 +6548,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [deploy-test-environment-azure.f0e21fa4a25e67b4518b9325d8a01b666e760082.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/deploy-test-environment-azure.f0e21fa4a25e67b4518b9325d8a01b666e760082.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6562,7 +6562,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [entities-dixf.b46df502f4c270d62eb50ca069cbe0cacd421291.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/entities-dixf.b46df502f4c270d62eb50ca069cbe0cacd421291.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6576,7 +6576,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [import-data-csv-data-source-dixf.a0374b0f87148624d9ba31d6fdf0425e7fddde79.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/import-data-csv-data-source-dixf.a0374b0f87148624d9ba31d6fdf0425e7fddde79.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6590,7 +6590,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [import-data-odbc-data-source-dixf.484161751ee0dce8caab82c2fbde2e72ebdd81d2.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/import-data-odbc-data-source-dixf.484161751ee0dce8caab82c2fbde2e72ebdd81d2.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6604,7 +6604,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [import-demo-data-ax-2012-r3-test-data-transfer-tool.3de31afbd62cff13d8fac820a3bf11ff6c22be36.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/import-demo-data-ax-2012-r3-test-data-transfer-tool.3de31afbd62cff13d8fac820a3bf11ff6c22be36.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6618,7 +6618,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [infrastructure-estimator-lcs.f7c24f5b5ab0aeaa0323f25d562776028355fb31.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/infrastructure-estimator-lcs.f7c24f5b5ab0aeaa0323f25d562776028355fb31.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6632,7 +6632,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [installation-guide-idmf.94a9ab7e08298df825b6d849277ab4446953588e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/installation-guide-idmf.94a9ab7e08298df825b6d849277ab4446953588e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6646,7 +6646,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [install-ax-2012-r3.b5a913fa5b5592d1314836ccfe25243d56781bd6.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/install-ax-2012-r3.b5a913fa5b5592d1314836ccfe25243d56781bd6.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6660,7 +6660,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [install-dixf.ce200b4dd2881e287fcd581574348dac2a9c1e04.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/install-dixf.ce200b4dd2881e287fcd581574348dac2a9c1e04.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6674,7 +6674,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [install-dixf-ax-2012-r2-cu7-ss-2014.cf766341cf048cf290f36759110f50793f73d813.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/install-dixf-ax-2012-r2-cu7-ss-2014.cf766341cf048cf290f36759110f50793f73d813.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6688,7 +6688,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [install-run-system-diagnostics-lcs.2f2c9c74489eae009733286b791cd7791186a4f5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/install-run-system-diagnostics-lcs.2f2c9c74489eae009733286b791cd7791186a4f5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6702,7 +6702,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [install-security-development-tool.b6138fecb1785ef6c7f3e3323af76feacc5d306f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/install-security-development-tool.b6138fecb1785ef6c7f3e3323af76feacc5d306f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6716,7 +6716,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [install-test-data-transfer-tool-beta.3ce6f60390021e5566902a480eaaff5a09e76763.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/install-test-data-transfer-tool-beta.3ce6f60390021e5566902a480eaaff5a09e76763.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6730,7 +6730,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [join-enterprise-portal-servers-single-server-farm.9137443e76f78b36b792b756fa082c6169e826ae.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/join-enterprise-portal-servers-single-server-farm.9137443e76f78b36b792b756fa082c6169e826ae.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6744,7 +6744,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [lcs-downloadable-tools-formerly-informationsource.759e8af62643139a94631bd5f411fe437496a76e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/lcs-downloadable-tools-formerly-informationsource.759e8af62643139a94631bd5f411fe437496a76e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6758,7 +6758,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [license-sizing-estimator-lcs.25a30dcfab4ef32f48a4125a6dd8d333b0b61749.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/license-sizing-estimator-lcs.25a30dcfab4ef32f48a4125a6dd8d333b0b61749.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6772,7 +6772,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [maintain-idmf.5dca05efc0de1aaa5d25647ae751aca21426b0b4.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/maintain-idmf.5dca05efc0de1aaa5d25647ae751aca21426b0b4.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6786,7 +6786,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [manage-2012-r3-deployment-azure.72ce4f14c05f6e53d9f9d301a5b056862af96ea1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/manage-2012-r3-deployment-azure.72ce4f14c05f6e53d9f9d301a5b056862af96ea1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6800,7 +6800,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [methodologies-lcs.7267c9bd07e7032375235c0d61406341561888bb.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/methodologies-lcs.7267c9bd07e7032375235c0d61406341561888bb.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6814,7 +6814,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [microsoft-idmf.47f7b6e4841a02b85d11e2f72a855101a49b1449.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/microsoft-idmf.47f7b6e4841a02b85d11e2f72a855101a49b1449.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6828,7 +6828,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [migrate-data-dixf.4fa0b76579487cee2bb64d4e5ef74911a372ce22.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/migrate-data-dixf.4fa0b76579487cee2bb64d4e5ef74911a372ce22.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6842,7 +6842,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [overview-idmf.75ba45ae5d1910ce2571a17b8a43b78f041d51a1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/overview-idmf.75ba45ae5d1910ce2571a17b8a43b78f041d51a1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6856,7 +6856,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [overview-security-development-tool-user-interface.d9e3711afb3da1f3bb447aaed15078e1c298f116.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/overview-security-development-tool-user-interface.d9e3711afb3da1f3bb447aaed15078e1c298f116.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6870,7 +6870,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [performance-benchmark-software-development-toolkit-sdk-2012.f0be14793b61f927c002928d4176c9051533b1d4.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/performance-benchmark-software-development-toolkit-sdk-2012.f0be14793b61f927c002928d4176c9051533b1d4.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6884,7 +6884,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [plan-2012-r3-deployment-azure.66a051154abffd875e3df746ad498b473ed1ee7a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/plan-2012-r3-deployment-azure.66a051154abffd875e3df746ad498b473ed1ee7a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6898,7 +6898,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [projects-lcs.52e9d72311bf951b297dbc3bb40ee2c57d0aba01.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/projects-lcs.52e9d72311bf951b297dbc3bb40ee2c57d0aba01.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6912,7 +6912,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [quick-import-export.9d56921b506819ee1e1e11b57cda0e99671533fb.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/quick-import-export.9d56921b506819ee1e1e11b57cda0e99671533fb.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6926,7 +6926,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [record-entry-points-enterprise-portal.9e86c13c5a4bebc3d443a6e0e4aed1f753039634.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/record-entry-points-enterprise-portal.9e86c13c5a4bebc3d443a6e0e4aed1f753039634.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6940,7 +6940,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [rfp-responses-lcs.88865d571e750dcec68119b3a863e5baff43303b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/rfp-responses-lcs.88865d571e750dcec68119b3a863e5baff43303b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6954,7 +6954,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [run-test-data-transfer-tool-beta.d2d21ea8dfbfa538648bf9d785c1d4cededf739e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/run-test-data-transfer-tool-beta.d2d21ea8dfbfa538648bf9d785c1d4cededf739e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6968,7 +6968,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [schedule-purge-analysis-tasks.59fa76ee4f9444066fe27b64dcc0026e4d8ca450.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/schedule-purge-analysis-tasks.59fa76ee4f9444066fe27b64dcc0026e4d8ca450.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6982,7 +6982,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [security-development-tool-user-guide.ed4822b55448ef7041a9d076d466d90a8867d56b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/security-development-tool-user-guide.ed4822b55448ef7041a9d076d466d90a8867d56b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -6996,7 +6996,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [security-upgrade-advisor-tool-user-guide.0248eb9d0f881a493b0da730df12c808b560dbe1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/security-upgrade-advisor-tool-user-guide.0248eb9d0f881a493b0da730df12c808b560dbe1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7010,7 +7010,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [system-diagnostics-lcs.4aa49d246764d473868db7be268d1dc0995b195d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/system-diagnostics-lcs.4aa49d246764d473868db7be268d1dc0995b195d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7024,7 +7024,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [table-properties.6e2bfebab1393134df31967549de3ffa878b49b9.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/table-properties.6e2bfebab1393134df31967549de3ffa878b49b9.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7038,7 +7038,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [test-data-transfer-tool-beta-2012.a5689d06ad5168438ee68893bb2576a883741255.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/test-data-transfer-tool-beta-2012.a5689d06ad5168438ee68893bb2576a883741255.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7052,7 +7052,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [troubleshoot-2012-r3-deployment-azure.d74f87e1fdb4280b11d0e4d8161ff4bde30c2e9a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/troubleshoot-2012-r3-deployment-azure.d74f87e1fdb4280b11d0e4d8161ff4bde30c2e9a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7066,7 +7066,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [troubleshoot-idmf.5bc5e759f5ef0843633bc385ab2a96a0ccd24aec.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/troubleshoot-idmf.5bc5e759f5ef0843633bc385ab2a96a0ccd24aec.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7080,7 +7080,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [update-2012-r3-lcs.6d15f559da7356091cf04bc0e9213edba363b96c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/update-2012-r3-lcs.6d15f559da7356091cf04bc0e9213edba363b96c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7094,7 +7094,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [upgrade-analysis-lcs.d9dc17e84276d6698f80b6ee3615b79561436737.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/upgrade-analysis-lcs.d9dc17e84276d6698f80b6ee3615b79561436737.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7108,7 +7108,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [usage-profiler-lcs.d65c2ef64fa58eb89090c1bdb6352422815f10c3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/usage-profiler-lcs.d65c2ef64fa58eb89090c1bdb6352422815f10c3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7122,7 +7122,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [user-guide-dixf.2696e495d4a486b1a12ee114dfe9647fe3e35ec5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/user-guide-dixf.2696e495d4a486b1a12ee114dfe9647fe3e35ec5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7136,7 +7136,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [view-status-purge-archive-jobs.0b948b1ee2e075478abfa0120a8b5eb07df30d31.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/view-status-purge-archive-jobs.0b948b1ee2e075478abfa0120a8b5eb07df30d31.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7150,7 +7150,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [work-with-purge-objects-archive-objects.0e9e0ebb8f74a928d8400516cc19465a7515ec7a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/work-with-purge-objects-archive-objects.0e9e0ebb8f74a928d8400516cc19465a7515ec7a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7164,7 +7164,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [business-process-libraries-business-process-modeler.c50b7fb4487718ca32b7a7b568cb1ed8b2d17007.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/business-process-libraries-business-process-modeler.c50b7fb4487718ca32b7a7b568cb1ed8b2d17007.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7178,7 +7178,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [business-process-modeler-lcs.ce11bef6675786372c74c105c9e66459ad456b16.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/business-process-modeler-lcs.ce11bef6675786372c74c105c9e66459ad456b16.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7192,7 +7192,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [cloud-powered-support-lcs.4c489733c768231930d04cf2207e14972b8f1732.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/cloud-powered-support-lcs.4c489733c768231930d04cf2207e14972b8f1732.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7206,7 +7206,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [configuration-manager-lcs.10448cce8a9a681f0ef7a9e2333ea4efc655a832.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/configuration-manager-lcs.10448cce8a9a681f0ef7a9e2333ea4efc655a832.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7220,7 +7220,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [configure-execute-code-upgrade.331b83f9d7933e3850ec03006ae0b00e192797a4.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/configure-execute-code-upgrade.331b83f9d7933e3850ec03006ae0b00e192797a4.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7234,7 +7234,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [configure-lcs-security.30d242593d76c3eecf7fe46596d840d1c8f5029e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/configure-lcs-security.30d242593d76c3eecf7fe46596d840d1c8f5029e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7248,7 +7248,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [copy-configuration-lcs.65323f40c92adb18a3895f088c52c9221a4829ac.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/copy-configuration-lcs.65323f40c92adb18a3895f088c52c9221a4829ac.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7262,7 +7262,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-methodology.2f350b61bbbf118eb99e51cd1bf67f4ed617150a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/create-methodology.2f350b61bbbf118eb99e51cd1bf67f4ed617150a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7276,7 +7276,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [flowcharts-business-process-modeler.5a2f6ce1532bde795831144ff34fe787e1fbd4d4.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/flowcharts-business-process-modeler.5a2f6ce1532bde795831144ff34fe787e1fbd4d4.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7290,7 +7290,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [getting-started-lcs.8bd5a6be166048dd3af9b8887e954e31ee4d32c4.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/getting-started-lcs.8bd5a6be166048dd3af9b8887e954e31ee4d32c4.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7304,7 +7304,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [issue-search-lcs.3ae810fa02a51303248a379e769dbc3bc5dc334d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/issue-search-lcs.3ae810fa02a51303248a379e769dbc3bc5dc334d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7318,7 +7318,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [known-issues.da00bcbf00d543dfd1c522f5aa09de085e9da934.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/known-issues.da00bcbf00d543dfd1c522f5aa09de085e9da934.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7332,7 +7332,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [lcs.42896ecaaed4ef703ee6e0539124e6bd57ed530b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/lcs.42896ecaaed4ef703ee6e0539124e6bd57ed530b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7346,7 +7346,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [lcs-support.341ff0ac396e2a634bac7872e1f6c4719451ec7a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/lcs-support.341ff0ac396e2a634bac7872e1f6c4719451ec7a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7360,7 +7360,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [lcs-user-guide.049f44a9f81be8b4572c3b34ed16231cdea56b54.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/lcs-user-guide.049f44a9f81be8b4572c3b34ed16231cdea56b54.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7374,7 +7374,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [lcs-works-lcs.3240f1f6da27d848ac7fb0f78da5bae2c215e527.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/lcs-works-lcs.3240f1f6da27d848ac7fb0f78da5bae2c215e527.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7388,7 +7388,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [monitoring-diagnostics.490ae75e63517fe5db78f7fc26fc23c23ca011cb.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/monitoring-diagnostics.490ae75e63517fe5db78f7fc26fc23c23ca011cb.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7402,7 +7402,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [planned-maintenance-window-faq.a59867b4fe474a33ccbd36b87a560ac81d9e5fe5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/planned-maintenance-window-faq.a59867b4fe474a33ccbd36b87a560ac81d9e5fe5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7416,7 +7416,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [premier-support.a62ad4c25c611bfed532d0d273c17c4b9b255dab.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/premier-support.a62ad4c25c611bfed532d0d273c17c4b9b255dab.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7430,7 +7430,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-up-configuration-manager-lcs.e80265b85ff3a60818fc852842abdac9672faa67.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/set-up-configuration-manager-lcs.e80265b85ff3a60818fc852842abdac9672faa67.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7444,7 +7444,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [submit-request-dynamics-service-engineering-team.4f36d439bb0dede0b2df1f4a9f2b4ce94f1b7ff5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/submit-request-dynamics-service-engineering-team.4f36d439bb0dede0b2df1f4a9f2b4ce94f1b7ff5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7458,7 +7458,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [support-experience.d34ce4c05ebbf97de9c855f9193400470b3efb9c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/support-experience.d34ce4c05ebbf97de9c855f9193400470b3efb9c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7472,7 +7472,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [TOC.af5b83e9c1a6888cca003c33b4c640a25893d34d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/TOC.af5b83e9c1a6888cca003c33b4c640a25893d34d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7486,7 +7486,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [upload-business-processes-bpm-task-recorder.f91d9e659c0795dab0333e5766028caa3e08aded.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/upload-business-processes-bpm-task-recorder.f91d9e659c0795dab0333e5766028caa3e08aded.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7500,7 +7500,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [whats-new-lcs.ff96b72a67e22ca7d0322b1037f771b0d51cb09f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/whats-new-lcs.ff96b72a67e22ca7d0322b1037f771b0d51cb09f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7514,7 +7514,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [code-migration-context-menus.c660e61d2dbc93eaf4717ab0538256f011c0c050.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/code-migration-context-menus.c660e61d2dbc93eaf4717ab0538256f011c0c050.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7528,7 +7528,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [code-migration-double-click.28dc5990544742302c038dd84b12adbf6fefb007.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/code-migration-double-click.28dc5990544742302c038dd84b12adbf6fefb007.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7542,7 +7542,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [configure-vso-solution.9596ae3367190343c76ed9fc26c72a88f3a104c8.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/configure-vso-solution.9596ae3367190343c76ed9fc26c72a88f3a104c8.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7556,7 +7556,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [data-model-changes-resource-management.601da6c1090d6ed3349d220865cc4dfcedf79910.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/data-model-changes-resource-management.601da6c1090d6ed3349d220865cc4dfcedf79910.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7570,7 +7570,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [delegates-migration.b9e84f3afb2b5b3a8c2d5762f18e50294ee4e8e7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/delegates-migration.b9e84f3afb2b5b3a8c2d5762f18e50294ee4e8e7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7584,7 +7584,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [deprecated-apis.a344a2d4abbe96ebbbe6f1ea8d10808492c3f752.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/deprecated-apis.a344a2d4abbe96ebbbe6f1ea8d10808492c3f752.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7598,7 +7598,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [deprecated-features.8ffe62975e3930db6bc95bc2615948daf57a9cdd.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/deprecated-features.8ffe62975e3930db6bc95bc2615948daf57a9cdd.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7612,7 +7612,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [download-hotfix-lcs.5f2884916e09d24f044b8e9d8890d9a42f9be74c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/download-hotfix-lcs.5f2884916e09d24f044b8e9d8890d9a42f9be74c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7626,7 +7626,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [in-memory-real-time-aggregate-models.a6d478501c06754d2f4720d7cdb5ecde9de2a606.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/in-memory-real-time-aggregate-models.a6d478501c06754d2f4720d7cdb5ecde9de2a606.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7640,7 +7640,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [install-financial-reporting-binary-hotfix.c09e92149e4358f8087af51cb13d3724e6d59241.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/install-financial-reporting-binary-hotfix.c09e92149e4358f8087af51cb13d3724e6d59241.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7654,7 +7654,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [install-metadata-hotfix-package.a401f94856fa25c2b313ae89fa115aad4f691a84.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/install-metadata-hotfix-package.a401f94856fa25c2b313ae89fa115aad4f691a84.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7668,7 +7668,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [migrate-upgraded-cube-entity-store.d67aca76b7ddaae88d74c942c70437f82296e2f1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/migrate-upgraded-cube-entity-store.d67aca76b7ddaae88d74c942c70437f82296e2f1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7682,7 +7682,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [patch-reporting-service-environment.09a2969d07804fa7ec64090bacb4eaa0aedb120d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/patch-reporting-service-environment.09a2969d07804fa7ec64090bacb4eaa0aedb120d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7696,7 +7696,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [prepare-migration.c5cd12289bacef0f13c1a969d8ae657ec87d2008.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/prepare-migration.c5cd12289bacef0f13c1a969d8ae657ec87d2008.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7710,7 +7710,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [single-voucher-and-currency-revaluation-upgrade.f971dfdda632b6ad05d87f7b92ec3d12124f66ec.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/single-voucher-and-currency-revaluation-upgrade.f971dfdda632b6ad05d87f7b92ec3d12124f66ec.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7724,7 +7724,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [TOC.799585d38d4047a5eca4c73e4f7014c9bf6addfc.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/TOC.799585d38d4047a5eca4c73e4f7014c9bf6addfc.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7738,7 +7738,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [update-platform-each-release.35eee0bff1b7cddd374db7daf606980748a3136d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/update-platform-each-release.35eee0bff1b7cddd374db7daf606980748a3136d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7752,7 +7752,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [upgrade-budget-planning.56671a5f3cba9d8d2b6de92c03dc2c0be4744b44.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/upgrade-budget-planning.56671a5f3cba9d8d2b6de92c03dc2c0be4744b44.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7766,7 +7766,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [upgrade-data-to-latest-update.c08287af3b3aa8f15308408c7de2f01013415cf0.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/upgrade-data-to-latest-update.c08287af3b3aa8f15308408c7de2f01013415cf0.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7780,7 +7780,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [upgrade-home-page.879fa703c175e4e0ad4ad4eb9996e893841bcba1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/upgrade-home-page.879fa703c175e4e0ad4ad4eb9996e893841bcba1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7794,7 +7794,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [upgrade-latest-platform-update.78b1d38253b1c29dcf93daf28dfbaa8d4b5969e1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/upgrade-latest-platform-update.78b1d38253b1c29dcf93daf28dfbaa8d4b5969e1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7808,7 +7808,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [upgrade-latest-update.b51e57ced272152eec37d78081ab89c0423df38e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/upgrade-latest-update.b51e57ced272152eec37d78081ab89c0423df38e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7822,7 +7822,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [upgrade-sandbox-environment.2f56922699fff8fad7f78cc9c8ca46b294fd7f59.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/upgrade-sandbox-environment.2f56922699fff8fad7f78cc9c8ca46b294fd7f59.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7836,7 +7836,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [versions-update-policy.9803a3e9e2503f029f05240c5619f932aac674ea.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/versions-update-policy.9803a3e9e2503f029f05240c5619f932aac674ea.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7850,7 +7850,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [vso-machine-renaming.bec12363c065de0cb0b073fe865ae37a519a1f0d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/vso-machine-renaming.bec12363c065de0cb0b073fe865ae37a519a1f0d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7864,7 +7864,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [workflow-subsystem.5970d18daf32e6734e818937a213f9b85b159677.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/workflow-subsystem.5970d18daf32e6734e818937a213f9b85b159677.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7878,7 +7878,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [Mobile-app-home-page.e5a9e5e9d7b26605f2ce2114d4633d071a7e9f10.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/Mobile-app-home-page.e5a9e5e9d7b26605f2ce2114d4633d071a7e9f10.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7892,7 +7892,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [mobile-platform.76308d7ac36364c2f89f131c399390ab4c3ebb28.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/mobile-platform.76308d7ac36364c2f89f131c399390ab4c3ebb28.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7906,7 +7906,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [mobile-workspaces-released.e57c743b41755a83c1df9ca27d0375bb10b77c7d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/mobile-workspaces-released.e57c743b41755a83c1df9ca27d0375bb10b77c7d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7920,7 +7920,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [mobile-workspace-xpp-apis.82acd3a0b675425370038f5bc62494d3075cd029.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/mobile-workspace-xpp-apis.82acd3a0b675425370038f5bc62494d3075cd029.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7934,7 +7934,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [publish-mobile-workspace.4c20daf0662cb911ed13de9fa44050c3bfa7f9e5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/publish-mobile-workspace.4c20daf0662cb911ed13de9fa44050c3bfa7f9e5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7948,7 +7948,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [customize-open-office-menu.da257b920ea49e6b27f13a7cce57817e9a996551.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/customize-open-office-menu.da257b920ea49e6b27f13a7cce57817e9a996551.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7962,7 +7962,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [office-integration.703b22010d94d157ea1df86ac301a95a31cc278b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/office-integration.703b22010d94d157ea1df86ac301a95a31cc278b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7976,7 +7976,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [office-integration-edit-excel.3db169b193c84a44069cacb0eb9a759655d691e4.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/office-integration-edit-excel.3db169b193c84a44069cacb0eb9a759655d691e4.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -7990,7 +7990,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [office-integration-troubleshooting.b3a47fc7107aaf1f8b77ea16d2ac385bc90f18c9.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/office-integration-troubleshooting.b3a47fc7107aaf1f8b77ea16d2ac385bc90f18c9.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8004,7 +8004,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [office-integration-tutorial.a326953713d0c89c987a5ac58850bfb5ad698a3a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/office-integration-tutorial.a326953713d0c89c987a5ac58850bfb5ad698a3a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8018,7 +8018,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-excel-add-in.b6a861cb6d8c53a73e22a51b4adef35072a45477.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/use-excel-add-in.b6a861cb6d8c53a73e22a51b4adef35072a45477.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8032,7 +8032,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [continuous-build-test-automation.58ad81bfc85b31c17979105ccae29185c6893941.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/continuous-build-test-automation.58ad81bfc85b31c17979105ccae29185c6893941.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8046,7 +8046,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [performance-timer.c6cd72a5b3985533565e4d891b5cd7ee069fa762.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/performance-timer.c6cd72a5b3985533565e4d891b5cd7ee069fa762.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8060,7 +8060,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [perfsdk-tutorial.7a07c404444b74ccd577791dec2f52ad64acdff5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/perfsdk-tutorial.7a07c404444b74ccd577791dec2f52ad64acdff5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8074,7 +8074,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [testing-support.98af45e323da4fb83dbb26fdbd6f6848dd951bb6.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/testing-support.98af45e323da4fb83dbb26fdbd6f6848dd951bb6.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8088,7 +8088,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [testing-validation.271edefe3d8b2318cb0c0ebd88b515c3122559e7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/testing-validation.271edefe3d8b2318cb0c0ebd88b515c3122559e7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8102,7 +8102,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [trace-parser.ef68f21cf5e0796aa82f0dc967e5854976328932.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/trace-parser.ef68f21cf5e0796aa82f0dc967e5854976328932.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8116,7 +8116,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [trace-trace-tutorial.5585b4cef7cbefe5b73e6ab7eeeb1eedf10fde43.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/trace-trace-tutorial.5585b4cef7cbefe5b73e6ab7eeeb1eedf10fde43.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8130,7 +8130,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [batch-processing-overview.2cf038d70fdb1af0bb818dd20562d83a4eefbc05.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/batch-processing-overview.2cf038d70fdb1af0bb818dd20562d83a4eefbc05.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8144,7 +8144,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [batch-server-overview.54bc0f46dce26089a6ff8602f1e8674fe5d5d6a7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/batch-server-overview.54bc0f46dce26089a6ff8602f1e8674fe5d5d6a7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8158,7 +8158,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [cross-company-data-sharing.ea775c9ca566294b64a58369007fe05d614773a6.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/cross-company-data-sharing.ea775c9ca566294b64a58369007fe05d614773a6.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8172,7 +8172,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [faq-platform-monthly-updates.78b714aa08f7985879c09896ae68337b61e8e801.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/faq-platform-monthly-updates.78b714aa08f7985879c09896ae68337b61e8e801.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8186,7 +8186,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [legal-terms-privacy-statement.b21c2374d34854023a38d4b5ecec55e6b9ef2db8.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/legal-terms-privacy-statement.b21c2374d34854023a38d4b5ecec55e6b9ef2db8.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8200,7 +8200,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [license-codes-configuration-keys-report.8bf2e04fd17657da83cc7a465d2eb41dd35c37a1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/license-codes-configuration-keys-report.8bf2e04fd17657da83cc7a465d2eb41dd35c37a1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8214,7 +8214,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [maintenance-mode.916e2426203e3cc3ac5022fdb338a6fe631d95b9.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/maintenance-mode.916e2426203e3cc3ac5022fdb338a6fe631d95b9.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8228,7 +8228,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [role-based-security.9d2520e784498fdae57787f47783ace84b4f6e1a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/role-based-security.9d2520e784498fdae57787f47783ace84b4f6e1a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8242,7 +8242,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [security-architecture.c01ee43977176e20d2c7a3f1ffc5f6977e149608.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/security-architecture.c01ee43977176e20d2c7a3f1ffc5f6977e149608.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8256,7 +8256,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [system-administration-home-page.3b79c5d7cd16dafd4673e431667cf5c351a2f068.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/system-administration-home-page.3b79c5d7cd16dafd4673e431667cf5c351a2f068.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8270,7 +8270,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [TOC.5671553e05d1950b4bee96e3b7020a1b8edbdd82.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/TOC.5671553e05d1950b4bee96e3b7020a1b8edbdd82.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8284,7 +8284,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [TOC.567a8270326887bc7a1dc2ebcb83be5b54fee423.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/premium/TOC.567a8270326887bc7a1dc2ebcb83be5b54fee423.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8298,7 +8298,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [action-controls.8dc471538d7d4a092a8530669266600650c1ed44.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/action-controls.8dc471538d7d4a092a8530669266600650c1ed44.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8312,7 +8312,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [add-templates-open-lines-excel-menu.e268ba485005e4e5888955043667de725975c810.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/add-templates-open-lines-excel-menu.e268ba485005e4e5888955043667de725975c810.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8326,7 +8326,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [advanced-selection-form-pattern.a39430a844e03d880ad1503aead6ae618b1dd313.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/advanced-selection-form-pattern.a39430a844e03d880ad1503aead6ae618b1dd313.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8340,7 +8340,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [bidirectional-support.9abe2c0867ca117821bfa31c5f45deb34cb03e18.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/bidirectional-support.9abe2c0867ca117821bfa31c5f45deb34cb03e18.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8354,7 +8354,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [build-customer-form.3e6d10b35388287f9d5d64595ba3819b1d7e75c1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/build-customer-form.3e6d10b35388287f9d5d64595ba3819b1d7e75c1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8368,7 +8368,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [build-extensible-control.0e3b706d3bb743f24524f45d06bc2e4e073ad2cf.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/build-extensible-control.0e3b706d3bb743f24524f45d06bc2e4e073ad2cf.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8382,7 +8382,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [build-navigation.5e57cd11b92f655ddce71d3df72a5adff09e5c86.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/build-navigation.5e57cd11b92f655ddce71d3df72a5adff09e5c86.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8396,7 +8396,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [build-rental-charge-type-form.fe8dda2083b440b1ec8ec9e2d70c76d4758a2cdf.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/build-rental-charge-type-form.fe8dda2083b440b1ec8ec9e2d70c76d4758a2cdf.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8410,7 +8410,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [build-workspace.cdddb60a21c00903c651b7826ecabe9ad229890d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/build-workspace.cdddb60a21c00903c651b7826ecabe9ad229890d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8424,7 +8424,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [build-workspaces.c9f043d965909c37554fbd09f644813d67f9d730.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/build-workspaces.c9f043d965909c37554fbd09f644813d67f9d730.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8438,7 +8438,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [check-box-tree-controls.0abddf75badb37eebaf4b208f05792f7ade01e8b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/check-box-tree-controls.0abddf75badb37eebaf4b208f05792f7ade01e8b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8452,7 +8452,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [contextual-data-entry-lookups.0fa494c0b44ca4ff291c4e5ebd7efa6f39385917.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/contextual-data-entry-lookups.0fa494c0b44ca4ff291c4e5ebd7efa6f39385917.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8466,7 +8466,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [control-checklist.3ae930c67065da08df0e1c11a6e8c0ce28336410.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/control-checklist.3ae930c67065da08df0e1c11a6e8c0ce28336410.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8480,7 +8480,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [control-extensibility.dcee93d53dcb02f8e21b0ac77e452c9110ba0ac0.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/control-extensibility.dcee93d53dcb02f8e21b0ac77e452c9110ba0ac0.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8494,7 +8494,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-deep-links.0cc42b5fcb99cefc044534e6227b33c9d5d47058.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/create-deep-links.0cc42b5fcb99cefc044534e6227b33c9d5d47058.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8508,7 +8508,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-icons-workspace-tiles.de4737850e6f1a4dd25e22a333fda3253bffe189.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/create-icons-workspace-tiles.de4737850e6f1a4dd25e22a333fda3253bffe189.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8522,7 +8522,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-localizable-labels-client.ec273b840d0f8ad24cb8e576bb5049ee2609f371.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/create-localizable-labels-client.ec273b840d0f8ad24cb8e576bb5049ee2609f371.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8536,7 +8536,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [custom-filter-group-subpattern.5fb332a0e4560f64a9a6db9925661b3f5d9134a4.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/custom-filter-group-subpattern.5fb332a0e4560f64a9a6db9925661b3f5d9134a4.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8550,7 +8550,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [customize-field-help.ec1dd324c4e14cebdedcb3efdceea0c5198b97e6.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/customize-field-help.ec1dd324c4e14cebdedcb3efdceea0c5198b97e6.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8564,7 +8564,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [details-master-form-pattern.448f9b31145a5e3caa8a035181c224be77c0a6a7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/details-master-form-pattern.448f9b31145a5e3caa8a035181c224be77c0a6a7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8578,7 +8578,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [details-transaction-form-pattern.d840d1a046769ebc15a59b06776798ddca0109a0.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/details-transaction-form-pattern.d840d1a046769ebc15a59b06776798ddca0109a0.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8592,7 +8592,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [dialog-form-pattern.9b419c6ce491b779da4f09a6cbeaeeaf04ebef9a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/dialog-form-pattern.9b419c6ce491b779da4f09a6cbeaeeaf04ebef9a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8606,7 +8606,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [drop-dialog-form-pattern.5e3637bcbd1e367708dbfb13a0264b5c937bdb87.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/drop-dialog-form-pattern.5e3637bcbd1e367708dbfb13a0264b5c937bdb87.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8620,7 +8620,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [enable-accessibility.3e31bee435b0a7f303edbb9b1aa9f6835ece2713.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/enable-accessibility.3e31bee435b0a7f303edbb9b1aa9f6835ece2713.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8634,7 +8634,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [extensible-control-programming-reference.f77045c1e7ccc1861b48d1a40a2386ca23fa4ff7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/extensible-control-programming-reference.f77045c1e7ccc1861b48d1a40a2386ca23fa4ff7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8648,7 +8648,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [extensible-controls-layout.08945f447dfb2cd7ef44e020582b31e40e52622b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/extensible-controls-layout.08945f447dfb2cd7ef44e020582b31e40e52622b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8662,7 +8662,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [factbox-form-patterns.389071844d9888f0faf62b9d20b3f00a12306fe1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/factbox-form-patterns.389071844d9888f0faf62b9d20b3f00a12306fe1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8676,7 +8676,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [fields-field-groups-subpattern.6f35d25a6644ee13ebc1e46c420ab5e22ba75af7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/fields-field-groups-subpattern.6f35d25a6644ee13ebc1e46c420ab5e22ba75af7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8690,7 +8690,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [file-upload-control.4e17b65342d889e904ce01294bc8094bd405b304.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/file-upload-control.4e17b65342d889e904ce01294bc8094bd405b304.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8704,7 +8704,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [fill-text-subpattern.34a1b030ff65c86c84255938c4c7400f296ecfaf.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/fill-text-subpattern.34a1b030ff65c86c84255938c4c7400f296ecfaf.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8718,7 +8718,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [filtering.cfc0e3db573f324c7d18f31052b7a647c3655cca.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/filtering.cfc0e3db573f324c7d18f31052b7a647c3655cca.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8732,7 +8732,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [filters-toolbar-subpattern.968ac6580d8116eaba649a9a0c20441111d96484.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/filters-toolbar-subpattern.968ac6580d8116eaba649a9a0c20441111d96484.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8746,7 +8746,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [form-styles-patterns.aac66e4b0f0efd66c2fcafd545b11af0ced0c977.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/form-styles-patterns.aac66e4b0f0efd66c2fcafd545b11af0ced0c977.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8760,7 +8760,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [gantt-development-guide.581b8a311b407a4f0e583c5722efaedcebda438e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/gantt-development-guide.581b8a311b407a4f0e583c5722efaedcebda438e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8774,7 +8774,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [general-form-guidelines.b39cb48298b03c57c76324074263d6d5ccfded94.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/general-form-guidelines.b39cb48298b03c57c76324074263d6d5ccfded94.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8788,7 +8788,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [hierarchy-viewer-control.a917ad49ac256c18f8760296520c8954c172cd77.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/hierarchy-viewer-control.a917ad49ac256c18f8760296520c8954c172cd77.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8802,7 +8802,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [horizontal-fields-buttons-group-subpattern.2f08c3c739adfe0a406a5ac5717d40d39b275ae0.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/horizontal-fields-buttons-group-subpattern.2f08c3c739adfe0a406a5ac5717d40d39b275ae0.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8816,7 +8816,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [image-preview-subpattern.b46ce7a0c9e24134eded4ca93dfd143dbdae00c8.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/image-preview-subpattern.b46ce7a0c9e24134eded4ca93dfd143dbdae00c8.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8830,7 +8830,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [images-form-grid.87e23564b339ecf3cf4173dd98b542b7093510db.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/images-form-grid.87e23564b339ecf3cf4173dd98b542b7093510db.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8844,7 +8844,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [keyboard-shortcuts-controls.b0d05baa2bf2af06f57673cb2d2f7a3eb59bb9f4.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/keyboard-shortcuts-controls.b0d05baa2bf2af06f57673cb2d2f7a3eb59bb9f4.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8858,7 +8858,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [list-page-form-pattern.de4dadcb6197696d9d1263a7fd246c0c832de756.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/list-page-form-pattern.de4dadcb6197696d9d1263a7fd246c0c832de756.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8872,7 +8872,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [list-panel-subpattern.060d5c81aa17b9fb932c443c9f15a56f809221da.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/list-panel-subpattern.060d5c81aa17b9fb932c443c9f15a56f809221da.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8886,7 +8886,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [lookup-form-pattern.98a278f11b0495064964f17b79a927566a3e47e7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/lookup-form-pattern.98a278f11b0495064964f17b79a927566a3e47e7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8900,7 +8900,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [lookups-controls.89c666dede790e7253f59112a3d17c579dad890a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/lookups-controls.89c666dede790e7253f59112a3d17c579dad890a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8914,7 +8914,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [messaging-api-center-bar-details.2964480e9b10f30149ce03c4de8812fe2f3620c1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/messaging-api-center-bar-details.2964480e9b10f30149ce03c4de8812fe2f3620c1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8928,7 +8928,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [messaging-user.2998adaa8e1cafbee1591ee0f845b299de5b0a65.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/messaging-user.2998adaa8e1cafbee1591ee0f845b299de5b0a65.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8942,7 +8942,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [nested-simple-list-details-subpattern.c077797c9b01e30bcfbb9598997f994714723034.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/nested-simple-list-details-subpattern.c077797c9b01e30bcfbb9598997f994714723034.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8956,7 +8956,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [page-layout.31c820ca4e34e70f3377423f3cbc76511fa86d01.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/page-layout.31c820ca4e34e70f3377423f3cbc76511fa86d01.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8970,7 +8970,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [page-navigation.8d0e2128b62e7294c4bc1472bc46a6df00703d73.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/page-navigation.8d0e2128b62e7294c4bc1472bc46a6df00703d73.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8984,7 +8984,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [powerapps-host-control.caad90786bd91b7bc89ab577fc5d8e00c52312a7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/powerapps-host-control.caad90786bd91b7bc89ab577fc5d8e00c52312a7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -8998,7 +8998,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [public-javascript-apis.601696fbd3f05bd9dadeaedb8376fa16b9f6000f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/public-javascript-apis.601696fbd3f05bd9dadeaedb8376fa16b9f6000f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9012,7 +9012,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [section-chart-form-pattern.f14287e67c3d7ecf3df796a88b7a13399cb352bc.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/section-chart-form-pattern.f14287e67c3d7ecf3df796a88b7a13399cb352bc.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9026,7 +9026,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [section-list-form-pattern.a6255867f00d7822f2a0168bceb0852ee1a2eaa2.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/section-list-form-pattern.a6255867f00d7822f2a0168bceb0852ee1a2eaa2.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9040,7 +9040,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [section-powerbi-subpattern.47f593b0e6aea08cefa7cf3afc2ab809c5b3ed1a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/section-powerbi-subpattern.47f593b0e6aea08cefa7cf3afc2ab809c5b3ed1a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9054,7 +9054,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [section-related-links-subpattern.550e664f50c3f48c39b4722bad81594cacd788b7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/section-related-links-subpattern.550e664f50c3f48c39b4722bad81594cacd788b7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9068,7 +9068,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [section-stacked-chart-subpattern.34fe4ece2d8e8afb28944847e76523daa6450816.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/section-stacked-chart-subpattern.34fe4ece2d8e8afb28944847e76523daa6450816.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9082,7 +9082,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [section-tabbed-list-subpattern.d47e9cb38c643021c6894c4a4e980f242a601c5c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/section-tabbed-list-subpattern.d47e9cb38c643021c6894c4a4e980f242a601c5c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9096,7 +9096,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [section-tiles-subpattern.b9d129d9623a80ae81bc352ea193ddaa51fc097a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/section-tiles-subpattern.b9d129d9623a80ae81bc352ea193ddaa51fc097a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9110,7 +9110,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [select-form-pattern.998e024b8f29b9686791eb21afcdb8bc4dd12a7c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/select-form-pattern.998e024b8f29b9686791eb21afcdb8bc4dd12a7c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9124,7 +9124,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [simple-details-form-pattern.ac50ce15bb0840c463cb6dbcdfe3e6e5cf389281.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/simple-details-form-pattern.ac50ce15bb0840c463cb6dbcdfe3e6e5cf389281.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9138,7 +9138,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [simple-list-details-form-pattern.85f8f4c5bd3cf19af561389502f4d44186d45d0e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/simple-list-details-form-pattern.85f8f4c5bd3cf19af561389502f4d44186d45d0e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9152,7 +9152,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [simple-list-form-pattern.83ca3cca63dbe0450e1002c568e21b0d2aebfd2d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/simple-list-form-pattern.83ca3cca63dbe0450e1002c568e21b0d2aebfd2d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9166,7 +9166,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [sizing-input-controls-grid-columns.8312a5b8cbdc4c12592b04a0a55dd9c170c4c11d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/sizing-input-controls-grid-columns.8312a5b8cbdc4c12592b04a0a55dd9c170c4c11d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9180,7 +9180,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [slider-messagebox.804d2a1f6b0ff2256db51f6dd70ad71e28644ded.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/slider-messagebox.804d2a1f6b0ff2256db51f6dd70ad71e28644ded.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9194,7 +9194,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [specify-color-font-background-controls.dbe98c97cf700547ef74b9a9f6cbecaf3c2fae66.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/specify-color-font-background-controls.dbe98c97cf700547ef74b9a9f6cbecaf3c2fae66.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9208,7 +9208,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [symbol-font.a44d52b1de3b1ba20cfeffa71923c6da0eb84322.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/symbol-font.a44d52b1de3b1ba20cfeffa71923c6da0eb84322.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9222,7 +9222,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [system-defined-buttons.1c2ca2e95336c83a56fa6bff091f99f78d9fcfbf.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/system-defined-buttons.1c2ca2e95336c83a56fa6bff091f99f78d9fcfbf.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9236,7 +9236,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [table-of-contents-form-pattern.ff5717adbb258fd061bc153244179936fb28dfce.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/table-of-contents-form-pattern.ff5717adbb258fd061bc153244179936fb28dfce.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9250,7 +9250,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tabular-fields-subpattern.8ae81cb2fdc125663b8e20bae6c8754eecc44bb3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/tabular-fields-subpattern.8ae81cb2fdc125663b8e20bae6c8754eecc44bb3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9264,7 +9264,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [task-double-form-pattern.eed53f97ab6146e5e26e3a85b8d72889c5b71684.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/task-double-form-pattern.eed53f97ab6146e5e26e3a85b8d72889c5b71684.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9278,7 +9278,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [task-recorder.6beb04f6d6959c65b73c32f815de8b7fba2d71cd.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/task-recorder.6beb04f6d6959c65b73c32f815de8b7fba2d71cd.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9292,7 +9292,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [task-recorder-control-text.eca0622d8f1d51f81ef49473579c5df3a1d2653a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/task-recorder-control-text.eca0622d8f1d51f81ef49473579c5df3a1d2653a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9306,7 +9306,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [task-recorder-quick-reference.bde1dca4477ac64bc599da70a84cf7c1e1c34e45.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/task-recorder-quick-reference.bde1dca4477ac64bc599da70a84cf7c1e1c34e45.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9320,7 +9320,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [task-recorder-training-docs.659ef36a97d81aa314d12eb92d4f47e71838e24a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/task-recorder-training-docs.659ef36a97d81aa314d12eb92d4f47e71838e24a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9334,7 +9334,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [task-single-form-pattern.95767f52324e94fb57632ad7a5e4f89864baf440.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/task-single-form-pattern.95767f52324e94fb57632ad7a5e4f89864baf440.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9348,7 +9348,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [testing-forms-custom-patterns.b3281ce85304fa9eb7f0340ad8b47f1db5df4fed.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/testing-forms-custom-patterns.b3281ce85304fa9eb7f0340ad8b47f1db5df4fed.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9362,7 +9362,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tile-list-caching-workspaces.20b9c580eda4f919c6008713fa93b4b15e560319.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/tile-list-caching-workspaces.20b9c580eda4f919c6008713fa93b4b15e560319.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9376,7 +9376,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [TOC.bf0329a076a70c6d256681d8662a6770cd5efc91.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/TOC.bf0329a076a70c6d256681d8662a6770cd5efc91.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9390,7 +9390,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [toolbar-fields-subpattern.85320a09e97e38d324e9491855e35f716c547cc8.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/toolbar-fields-subpattern.85320a09e97e38d324e9491855e35f716c547cc8.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9404,7 +9404,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [toolbar-list-subpattern.78de0fb1f6e81d43559b33b1057d4c4409287974.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/toolbar-list-subpattern.78de0fb1f6e81d43559b33b1057d4c4409287974.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9418,7 +9418,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [user-interface-development-home-page.473d8f60ae6185d63ae02bb5056d881ebc70b344.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/user-interface-development-home-page.473d8f60ae6185d63ae02bb5056d881ebc70b344.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9432,7 +9432,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [wizard-form-pattern.4b6e746c8fafc62ef4c4f3fab1bc9ee2de52a50a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/wizard-form-pattern.4b6e746c8fafc62ef4c4f3fab1bc9ee2de52a50a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9446,7 +9446,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [workspace-filter-group-subpattern.3d18714ccfc8a68f64c64f3741a5b48c39380300.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/workspace-filter-group-subpattern.3d18714ccfc8a68f64c64f3741a5b48c39380300.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9460,7 +9460,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [workspace-form-pattern.d660155b28a38cbdbcfb1dacc6925ce00620d81b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/workspace-form-pattern.d660155b28a38cbdbcfb1dacc6925ce00620d81b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9474,7 +9474,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9488,7 +9488,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [accounting-distributions-subledger-journal-entries-vendor-invoices.9d1f080dc619395c5fda6229acfb7f00d1c70ef3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/accounting-distributions-subledger-journal-entries-vendor-invoices.9d1f080dc619395c5fda6229acfb7f00d1c70ef3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9502,7 +9502,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [accounting-source-explorer.c676bb605b567e9325780798e4243e8241ee39b7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/accounting-source-explorer.c676bb605b567e9325780798e4243e8241ee39b7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9516,7 +9516,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [accounts-payable.abd99e977ea528e10b6bead4d6b395a0698f53ad.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/premium/accounts-payable.abd99e977ea528e10b6bead4d6b395a0698f53ad.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9530,7 +9530,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [accounts-payable-invoice-matching.d3f2a734440fb93b494324a879452a636cc0a612.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/accounts-payable-invoice-matching.d3f2a734440fb93b494324a879452a636cc0a612.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9544,7 +9544,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [accounts-payable-overview.fb00c4b7225819162d11ced7e6f01469fa9c4ce7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/accounts-payable-overview.fb00c4b7225819162d11ced7e6f01469fa9c4ce7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9558,7 +9558,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [centralized-payments-accounts-payable.a3870a016c556b9ec2be2a08212e2b4ce5f95aa9.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/centralized-payments-accounts-payable.a3870a016c556b9ec2be2a08212e2b4ce5f95aa9.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9572,7 +9572,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-vendor-payments-payment-proposal.7bd7d78f7c9933d07462166c6cebe9b5956cc29c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/create-vendor-payments-payment-proposal.7bd7d78f7c9933d07462166c6cebe9b5956cc29c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9586,7 +9586,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [default-offset-accounts-vendor-invoice-journals.e354ec978ac3c59ffa37e8455119ba4b5d8445b4.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/default-offset-accounts-vendor-invoice-journals.e354ec978ac3c59ffa37e8455119ba4b5d8445b4.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9600,7 +9600,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [invoice-matching-intercompany-purchase-orders.6991ddf33057bfb07f634aa049dfcdd59b207a3e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/invoice-matching-intercompany-purchase-orders.6991ddf33057bfb07f634aa049dfcdd59b207a3e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9614,7 +9614,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [mobile-invoice-approvals.7141cb659296e30d3d417bfe9c195fbf3b8859dd.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/mobile-invoice-approvals.7141cb659296e30d3d417bfe9c195fbf3b8859dd.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9628,7 +9628,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [positive-pay-overview.770cf174d9f6ab648aee17b5d360cf1d3e57cc01.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/positive-pay-overview.770cf174d9f6ab648aee17b5d360cf1d3e57cc01.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9642,7 +9642,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [prepayments-invoices-vs-prepayments.32642a2196ce99361572ea2218ff5e554b88a398.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/prepayments-invoices-vs-prepayments.32642a2196ce99361572ea2218ff5e554b88a398.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9656,7 +9656,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [project-cost-accrual-purchase-receipts.74d9667081fcf9146d59de931638920251da39f9.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/project-cost-accrual-purchase-receipts.74d9667081fcf9146d59de931638920251da39f9.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9670,7 +9670,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [project-invoicing.cf067685dc953dac54fd85759e7de9eefbcb4a54.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/project-invoicing.cf067685dc953dac54fd85759e7de9eefbcb4a54.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9684,7 +9684,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [resolve-invoice-totals-invoice-matching-discrepancies.4310854157eafdf835f9588a67148de8f32d2749.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/resolve-invoice-totals-invoice-matching-discrepancies.4310854157eafdf835f9588a67148de8f32d2749.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9698,7 +9698,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [reverse-vendor-payment.9cf6974e6f505b82cf4fd51f62093a6cb5f22042.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/reverse-vendor-payment.9cf6974e6f505b82cf4fd51f62093a6cb5f22042.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9712,7 +9712,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [sepa-credit-transfer.3b1a762ed4c6e8de54f32ae3c3d924aab97b015a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/sepa-credit-transfer.3b1a762ed4c6e8de54f32ae3c3d924aab97b015a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9726,7 +9726,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [settle-partial-customer-payment-or-final-payment-before-discount.e9d73a9bbe8383b342e275e59778628e6beaefe2.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/settle-partial-customer-payment-or-final-payment-before-discount.e9d73a9bbe8383b342e275e59778628e6beaefe2.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9740,7 +9740,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [settle-partial-vendor-payment-before-discount-or-final-payment-after.001fa026ccf34be237092916092368faca9494aa.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/settle-partial-vendor-payment-before-discount-or-final-payment-after.001fa026ccf34be237092916092368faca9494aa.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9754,7 +9754,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [settle-partial-vendor-payment-discounts-vendor-credit-notes.125f0a9f6632cbbc7c39e4e6bd728552b853088e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/settle-partial-vendor-payment-discounts-vendor-credit-notes.125f0a9f6632cbbc7c39e4e6bd728552b853088e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9768,7 +9768,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [settle-partial-vendor-payment-multiple-discount-periods.6fb9d075d3eeb6dbd026861a8fceb8e927f3d1b4.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/settle-partial-vendor-payment-multiple-discount-periods.6fb9d075d3eeb6dbd026861a8fceb8e927f3d1b4.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9782,7 +9782,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [settle-partial-vendor-payment-or-final-payment-before-discount.a001b1ffd103771e808c0be63634dd26f15c3af1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/settle-partial-vendor-payment-or-final-payment-before-discount.a001b1ffd103771e808c0be63634dd26f15c3af1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9796,7 +9796,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-up-generate-positive-pay-files.7cb3ab4799982d9de70c5af5ce749fb1517ed32a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/set-up-generate-positive-pay-files.7cb3ab4799982d9de70c5af5ce749fb1517ed32a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9810,7 +9810,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [single-voucher-multiple-customer-vendor-records.0884b4537e818fb8e59d52e20558e0fb55f53e26.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/single-voucher-multiple-customer-vendor-records.0884b4537e818fb8e59d52e20558e0fb55f53e26.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9824,7 +9824,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [take-cash-discount-outside-cash-discount-timeframe.3796c4af8a4766942ada163e5ed5de9dff4ce127.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/take-cash-discount-outside-cash-discount-timeframe.3796c4af8a4766942ada163e5ed5de9dff4ce127.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9838,7 +9838,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [take-discount-more-calculated-discount-vendor-payment.ebf55bf880c8bc50940c283b1450d881d3e02db9.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/take-discount-more-calculated-discount-vendor-payment.ebf55bf880c8bc50940c283b1450d881d3e02db9.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9852,7 +9852,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [three-way-matching-policies.224aee51a7647b6142334a9126107aa8bfda4b7a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/three-way-matching-policies.224aee51a7647b6142334a9126107aa8bfda4b7a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9866,7 +9866,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [vendor-invoices-overview.c9c5dbec16eddcacbaf3ac05349c618e079baa2d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/vendor-invoices-overview.c9c5dbec16eddcacbaf3ac05349c618e079baa2d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9880,7 +9880,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [vendor-payments-partial-amount.d43f3e1f797ee045870672edfd6da20ee3e3e31d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/vendor-payments-partial-amount.d43f3e1f797ee045870672edfd6da20ee3e3e31d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9894,7 +9894,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [vendor-portal-invoicing-workspace.765d9f0b093ceba509ba99e0b922dfa8e26926dc.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/vendor-portal-invoicing-workspace.765d9f0b093ceba509ba99e0b922dfa8e26926dc.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9908,7 +9908,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [vendor-posting-profiles.d3f07384ca26e11c00a1f9bb651e57a534f234e3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/vendor-posting-profiles.d3f07384ca26e11c00a1f9bb651e57a534f234e3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9922,7 +9922,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [accounting-distributions-subledger-journal-entries-free-text-invoices.e9742bb69fb621f583d124bfc8e718f8d49fe785.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/accounting-distributions-subledger-journal-entries-free-text-invoices.e9742bb69fb621f583d124bfc8e718f8d49fe785.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9936,7 +9936,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [accounts-receivable.ca8c0011044c5453fdf3d5b239d3077db0ffc899.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/premium/accounts-receivable.ca8c0011044c5453fdf3d5b239d3077db0ffc899.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9950,7 +9950,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [accounts-receivables-set-up-overview.457c3317d1756fb09e69947e5691eb5096230f8e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/accounts-receivables-set-up-overview.457c3317d1756fb09e69947e5691eb5096230f8e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9964,7 +9964,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [automatic-settlement-prioritization.31c8ade532491c097abd2215bb5db141142fad9e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/automatic-settlement-prioritization.31c8ade532491c097abd2215bb5db141142fad9e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9978,7 +9978,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [centralized-payments-accounts-receivable.1f709d74c7dec09344abb60c2016a5541e4479a7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/centralized-payments-accounts-receivable.1f709d74c7dec09344abb60c2016a5541e4479a7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -9992,7 +9992,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [close-accounts-receivable.9f06f6941a3386014b11923fdc4fd2f97a5a7fd0.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/close-accounts-receivable.9f06f6941a3386014b11923fdc4fd2f97a5a7fd0.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10006,7 +10006,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [collections-credit-accounts-receivable.7d329ad5afffdb891bed03a73211491bc91a88e0.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/collections-credit-accounts-receivable.7d329ad5afffdb891bed03a73211491bc91a88e0.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10020,7 +10020,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [configure-customer-invoices.3bed40b69a02afbf0dc0a6f63875a0aafb419627.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/configure-customer-invoices.3bed40b69a02afbf0dc0a6f63875a0aafb419627.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10034,7 +10034,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [correct-free-text-invoice.53e8ef7669a6c04a8fee6fd60222e29bd80869b2.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/correct-free-text-invoice.53e8ef7669a6c04a8fee6fd60222e29bd80869b2.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10048,7 +10048,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [credit-card-authorizations.762a70393a1130194398bed790ef397efffb47cb.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/credit-card-authorizations.762a70393a1130194398bed790ef397efffb47cb.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10062,7 +10062,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [customer-payment-settle-multiple-invoices-multiple-discount-periods.4ac7d4857cd5c782e9a08b9a2a0f7397e088642d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/customer-payment-settle-multiple-invoices-multiple-discount-periods.4ac7d4857cd5c782e9a08b9a2a0f7397e088642d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10076,7 +10076,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [customer-payments-partial-amount.6938b6a50b83c65674bd67edd5768b1054e49f4a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/customer-payments-partial-amount.6938b6a50b83c65674bd67edd5768b1054e49f4a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10090,7 +10090,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [customer-posting-profiles.a88ff898bb070eedfca8a1979a2f6bc01b86ccdf.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/customer-posting-profiles.a88ff898bb070eedfca8a1979a2f6bc01b86ccdf.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10104,7 +10104,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [reimburse-customers.e6cffed8fc11ede176e69b2e846a0dfb39424218.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/reimburse-customers.e6cffed8fc11ede176e69b2e846a0dfb39424218.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10118,7 +10118,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [sepa-direct-debit-mandate.781f8fce825644559aa1ed2a065487fcb5f2f8ee.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/sepa-direct-debit-mandate.781f8fce825644559aa1ed2a065487fcb5f2f8ee.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10132,7 +10132,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [sepa-direct-debit-overview.dc3fb371a605d92871dc391270e0e3e48b8f9649.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/sepa-direct-debit-overview.dc3fb371a605d92871dc391270e0e3e48b8f9649.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10146,7 +10146,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [settle-partial-customer-payment-before-discount-or-final-payment-after.deb455c87b73bc2aab233b998571612f2dc76f06.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/settle-partial-customer-payment-before-discount-or-final-payment-after.deb455c87b73bc2aab233b998571612f2dc76f06.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10160,7 +10160,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [settle-partial-customer-payment-discounts-credit-notes.db5352fa58f471faf05e0b6c9a81ea953a242338.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/settle-partial-customer-payment-discounts-credit-notes.db5352fa58f471faf05e0b6c9a81ea953a242338.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10174,7 +10174,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [settle-partial-customer-payment-multiple-discount-periods.1aa76fa5b5e7ed43f6293fb20d899e89d3c33f8f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/settle-partial-customer-payment-multiple-discount-periods.1aa76fa5b5e7ed43f6293fb20d899e89d3c33f8f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10188,7 +10188,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-up-bills-exchange.fcb8e0d418a2636ba7d003a476c4d52b56ec7c4e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/set-up-bills-exchange.fcb8e0d418a2636ba7d003a476c4d52b56ec7c4e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10202,7 +10202,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-up-collections.8b59f22a91ef12e7642de8b6bf5cd0a1fcd3e3ef.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/set-up-collections.8b59f22a91ef12e7642de8b6bf5cd0a1fcd3e3ef.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10216,7 +10216,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-up-interest-rates-interest-code.d9541058f231d2d5e016ad4017e7e1ef2db18ff5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/set-up-interest-rates-interest-code.d9541058f231d2d5e016ad4017e7e1ef2db18ff5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10230,7 +10230,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-up-process-recurring-invoices.5c754354a623fd897306981e8e2692d70e5db38c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/set-up-process-recurring-invoices.5c754354a623fd897306981e8e2692d70e5db38c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10244,7 +10244,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [waive-reinstate-reverse-interest-fees.f46dae48a1b915df97f2dbe0d9362503a3e4b83d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/waive-reinstate-reverse-interest-fees.f46dae48a1b915df97f2dbe0d9362503a3e4b83d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10258,7 +10258,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [basic-budgeting-overview-configuration.b85ab4d33ec417fb9c2c5496eeafea47a150d2ae.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/basic-budgeting-overview-configuration.b85ab4d33ec417fb9c2c5496eeafea47a150d2ae.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10272,7 +10272,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [budget-control-overview-configuration.cd9bb4fe68c3792000a12eeb5db164ef005db005.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/budget-control-overview-configuration.cd9bb4fe68c3792000a12eeb5db164ef005db005.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10286,7 +10286,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [budgeting-overview.f6b74e5392d859f959fa26bd2df6437d02d5378a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/premium/budgeting-overview.f6b74e5392d859f959fa26bd2df6437d02d5378a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10300,7 +10300,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [budget-plan.a4cf6b97cb06e44f0e17eb6fed2c80bb7581b8c5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/budget-plan.a4cf6b97cb06e44f0e17eb6fed2c80bb7581b8c5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10314,7 +10314,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [budget-planning-data-allocation.b5e5290663f4d8db2f20a245096c554f1ef2466b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/budget-planning-data-allocation.b5e5290663f4d8db2f20a245096c554f1ef2466b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10328,7 +10328,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [budget-planning-excel-templates.9cb20263dd7fbe98aef6dfb5f358f9d46d9b5850.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/budget-planning-excel-templates.9cb20263dd7fbe98aef6dfb5f358f9d46d9b5850.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10342,7 +10342,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [budget-planning-integration-other-modules.d85828feee7c0ce03fa5516d291170f2cc54326b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/budget-planning-integration-other-modules.d85828feee7c0ce03fa5516d291170f2cc54326b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10356,7 +10356,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [budget-planning-justification-docs.345163806a6f37684cc2a6877876994d918535b2.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/budget-planning-justification-docs.345163806a6f37684cc2a6877876994d918535b2.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10370,7 +10370,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [budget-planning-overview-configuration.edfaaaab5e8af53dfc029315a9eb95f9202b152a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/budget-planning-overview-configuration.edfaaaab5e8af53dfc029315a9eb95f9202b152a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10384,7 +10384,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [consolidation-account-groups-consolidation-accounts.9ecf009a0e9607c15043bf545621baad7cb687a1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/consolidation-account-groups-consolidation-accounts.9ecf009a0e9607c15043bf545621baad7cb687a1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10398,7 +10398,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [consolidation-elimination-overview.960ece579c810800c3f76d61a17f2bdd56ae7804.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/consolidation-elimination-overview.960ece579c810800c3f76d61a17f2bdd56ae7804.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10412,7 +10412,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-budget-transaction-accounts-total-accounts.04b7e07aac9c32ee7b3f77913ba42a7d0f1c09a9.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/create-budget-transaction-accounts-total-accounts.04b7e07aac9c32ee7b3f77913ba42a7d0f1c09a9.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10426,7 +10426,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [fiscal-calendars-fiscal-years-periods.e47b87956673ce79e303102fcf8010664e1374dd.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/fiscal-calendars-fiscal-years-periods.e47b87956673ce79e303102fcf8010664e1374dd.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10440,7 +10440,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [position-budgeting-set-up-issues.cf2c4df8294e194e3ed1b1e2abe94279bab0fcb6.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/position-budgeting-set-up-issues.cf2c4df8294e194e3ed1b1e2abe94279bab0fcb6.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10454,7 +10454,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [position-forecasting.1903b47cc50122ffd9f8abda090cf88874e2fe39.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/position-forecasting.1903b47cc50122ffd9f8abda090cf88874e2fe39.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10468,7 +10468,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [advanced-bank-reconciliation-mt940-data-entity-upgrade-steps.81f90a31c49035c7fec89db979974dae7a4269e6.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/advanced-bank-reconciliation-mt940-data-entity-upgrade-steps.81f90a31c49035c7fec89db979974dae7a4269e6.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10482,7 +10482,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [advanced-bank-reconciliation-overview.8b0d5cf75651361bb354b1632380db311351d7bd.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/advanced-bank-reconciliation-overview.8b0d5cf75651361bb354b1632380db311351d7bd.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10496,7 +10496,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [cash-bank-management.350776f74284f7777fdea2638008a55b4465765e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/premium/cash-bank-management.350776f74284f7777fdea2638008a55b4465765e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10510,7 +10510,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [cash-discount-handling-overpayments.5434edeea32c525bfad4aa0b8718cb48dcc73fd1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/cash-discount-handling-overpayments.5434edeea32c525bfad4aa0b8718cb48dcc73fd1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10524,7 +10524,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [cash-discounts.4ca4f313a740491632b29693bd8bb9efd268898e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/cash-discounts.4ca4f313a740491632b29693bd8bb9efd268898e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10538,7 +10538,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [configure-advanced-bank-reconciliation.3329e0daee1f30118538712d4423d90f1e1f1932.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/configure-advanced-bank-reconciliation.3329e0daee1f30118538712d4423d90f1e1f1932.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10552,7 +10552,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [configure-settlement.0c04f09fca1beb05b661f0b24fd9cafe770a6695.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/configure-settlement.0c04f09fca1beb05b661f0b24fd9cafe770a6695.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10566,7 +10566,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [foreign-currency-revaluation-accounts-payable-accounts-receivable.21bc4d831145ae1ae8f6c3d51df5b9ac014607d0.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/foreign-currency-revaluation-accounts-payable-accounts-receivable.21bc4d831145ae1ae8f6c3d51df5b9ac014607d0.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10580,7 +10580,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [import-bank-statement-file-failed-incorrect-results.f769d940ed9170076410b1e5d5115d5fc6b35ca4.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/import-bank-statement-file-failed-incorrect-results.f769d940ed9170076410b1e5d5115d5fc6b35ca4.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10594,7 +10594,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [letters-of-credit.3acf69d45fe39745106a0ee897c29f8c6363d1ca.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/letters-of-credit.3acf69d45fe39745106a0ee897c29f8c6363d1ca.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10608,7 +10608,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [letters-of-credit-import-collections.8643abf173861804ae0be0aab99f1f7b1caee457.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/letters-of-credit-import-collections.8643abf173861804ae0be0aab99f1f7b1caee457.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10622,7 +10622,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [letters-of-guarantee.3c8b117ec2ffb6294ff8bc54879744d40ce08e44.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/letters-of-guarantee.3c8b117ec2ffb6294ff8bc54879744d40ce08e44.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10636,7 +10636,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [postdated-checks.38998759be079f019e174eb43b41f7a8b4275abf.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/postdated-checks.38998759be079f019e174eb43b41f7a8b4275abf.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10650,7 +10650,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [reconcile-bank-statements-advanced-bank-reconciliation.9c166e6edbd011f94f951d228bd6bdb2c4f221da.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/reconcile-bank-statements-advanced-bank-reconciliation.9c166e6edbd011f94f951d228bd6bdb2c4f221da.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10664,7 +10664,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [settlement-overview.023b600f9ca40e0ce4df5b91754c6663a4573e64.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/settlement-overview.023b600f9ca40e0ce4df5b91754c6663a4573e64.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10678,7 +10678,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [settlement-overview-centralized-payments.772688e2f960cec3c2ee1c92067512b12ea88e33.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/settlement-overview-centralized-payments.772688e2f960cec3c2ee1c92067512b12ea88e33.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10692,7 +10692,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-up-advanced-bank-reconciliation-import-process.3415bf1e98c9cc5b38aad985d1db035bb93f8ece.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/set-up-advanced-bank-reconciliation-import-process.3415bf1e98c9cc5b38aad985d1db035bb93f8ece.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10706,7 +10706,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-up-bank-reconciliation-matching-rules.b90657e2c02ecda8bd171fc084ef52072faa2c99.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/set-up-bank-reconciliation-matching-rules.b90657e2c02ecda8bd171fc084ef52072faa2c99.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10720,7 +10720,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-up-centralized-payments.e7c728ba198d72f707be91fb83d73e1f666d63ba.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/set-up-centralized-payments.e7c728ba198d72f707be91fb83d73e1f666d63ba.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10734,7 +10734,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [upgrade-bank-journal-composite-entity.38d1486d69980586b0b03662a5bbc8b2e38087e6.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/upgrade-bank-journal-composite-entity.38d1486d69980586b0b03662a5bbc8b2e38087e6.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10748,7 +10748,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [cost-accounting-home-page.dfa91efbc95341c317d3e7a9b1111abe6829b94c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/cost-accounting-home-page.dfa91efbc95341c317d3e7a9b1111abe6829b94c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10762,7 +10762,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [cost-controlling-mobile-workspace.b874a57f1f2cbb79e014e8153a3739addad12cf4.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/cost-controlling-mobile-workspace.b874a57f1f2cbb79e014e8153a3739addad12cf4.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10776,7 +10776,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [cost-elements.a2e3882fa75db3d6c8577930894008fa4d361746.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/cost-elements.a2e3882fa75db3d6c8577930894008fa4d361746.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10790,7 +10790,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [cost-objects.fd8190dfe49f4f39b67990cb98118d29e40129cf.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/cost-objects.fd8190dfe49f4f39b67990cb98118d29e40129cf.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10804,7 +10804,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [map-cost-elements-dimension-members.456af7ff50435153bc1df2a25de6a00850d750d7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/map-cost-elements-dimension-members.456af7ff50435153bc1df2a25de6a00850d750d7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10818,7 +10818,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [overhead-calculation.e8aaffdaba3b338c808b1b3267e250adcfda5893.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/overhead-calculation.e8aaffdaba3b338c808b1b3267e250adcfda5893.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10832,7 +10832,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [terms-cost-accounting.837dfd5d6e3321097394a1cd5b20b7bcc0e42483.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/terms-cost-accounting.837dfd5d6e3321097394a1cd5b20b7bcc0e42483.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10846,7 +10846,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [expense-management.042ba373a8ea8817dc9a9166f7dc86d49c0c3cff.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/expense-management.042ba373a8ea8817dc9a9166f7dc86d49c0c3cff.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10860,7 +10860,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [expense-management-mobile-workspace.977228bc03c5d0d382bd3e77baef3286a089a294.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/expense-management-mobile-workspace.977228bc03c5d0d382bd3e77baef3286a089a294.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10874,7 +10874,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [plan-expense-management.ee5a6e90a522ceff2419936c5d0bc32594133f80.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/plan-expense-management.ee5a6e90a522ceff2419936c5d0bc32594133f80.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10888,7 +10888,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [125-percent-reducing-balance-depreciation.f2923d2f20e80e01c50b878e0504ce3db35a2ff0.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/125-percent-reducing-balance-depreciation.f2923d2f20e80e01c50b878e0504ce3db35a2ff0.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10902,7 +10902,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [150-percent-reducing-balance-depreciation.cad059fa33adcc13f8de41959a5cecfa373a7d0d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/150-percent-reducing-balance-depreciation.cad059fa33adcc13f8de41959a5cecfa373a7d0d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10916,7 +10916,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [175-percent-reducing-balance-depreciation.4159b5ea508458b0a16bf03122e9fa9491546088.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/175-percent-reducing-balance-depreciation.4159b5ea508458b0a16bf03122e9fa9491546088.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10930,7 +10930,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [200-percent-reducing-balance-depreciation.f0892b1d49ecabf5e77307a2514d5e46c3c45215.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/200-percent-reducing-balance-depreciation.f0892b1d49ecabf5e77307a2514d5e46c3c45215.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10944,7 +10944,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [acquire-assets-procurement.65689fda0db556addf17b45d48904f22e1de72e3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/acquire-assets-procurement.65689fda0db556addf17b45d48904f22e1de72e3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10958,7 +10958,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [bonus-depreciation.815ee42559c1dbf3eeb2de21aee241c5467885c0.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/bonus-depreciation.815ee42559c1dbf3eeb2de21aee241c5467885c0.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10972,7 +10972,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [consumption-depreciation.a44f2cb3f6f3f778f8012d4172f1feae6d44f6a0.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/consumption-depreciation.a44f2cb3f6f3f778f8012d4172f1feae6d44f6a0.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -10986,7 +10986,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [depreciation-book-upgrade-considerations.17c1e3dbca414bca48d46ac1ce4557a08b6fdf24.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/depreciation-book-upgrade-considerations.17c1e3dbca414bca48d46ac1ce4557a08b6fdf24.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11000,7 +11000,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [depreciation-effects-reversals.b27f2edb6d582625613c3d7878e804aef2e2c4c2.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/depreciation-effects-reversals.b27f2edb6d582625613c3d7878e804aef2e2c4c2.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11014,7 +11014,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [depreciation-methods-conventions.8b2c25afa63ab3d84ee5dcabeae13c96e2d8cc13.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/depreciation-methods-conventions.8b2c25afa63ab3d84ee5dcabeae13c96e2d8cc13.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11028,7 +11028,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [derived-books.cd609fcf0e9e2c0e967eb0e6a8914aa720c5198a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/derived-books.cd609fcf0e9e2c0e967eb0e6a8914aa720c5198a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11042,7 +11042,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [enter-fixed-asset-transactions.46424509190f189d895c8781b4dd6599cbdc7639.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/enter-fixed-asset-transactions.46424509190f189d895c8781b4dd6599cbdc7639.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11056,7 +11056,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [factor-depreciation.3a4827436381fd558e9330632a1f16c9d15a1262.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/factor-depreciation.3a4827436381fd558e9330632a1f16c9d15a1262.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11070,7 +11070,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [fixed-asset-acquisition-posting-accounts.88389e88e47b4bc3891325047ff385cfbf387c7a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/fixed-asset-acquisition-posting-accounts.88389e88e47b4bc3891325047ff385cfbf387c7a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11084,7 +11084,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [fixed-asset-depreciation.8900e04704a2a1208f421abb794c22c13a26eb6e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/fixed-asset-depreciation.8900e04704a2a1208f421abb794c22c13a26eb6e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11098,7 +11098,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [fixed-asset-disposal-posting-accounts.44590f2abd1b11ff5caba8679b1bc7f9f0b39199.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/fixed-asset-disposal-posting-accounts.44590f2abd1b11ff5caba8679b1bc7f9f0b39199.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11112,7 +11112,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [fixed-asset-integration.17af65c3a8302c1bcc555b9f39bd616e3312c9f0.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/fixed-asset-integration.17af65c3a8302c1bcc555b9f39bd616e3312c9f0.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11126,7 +11126,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [fixed-asset-mass-update.ad455a4cc3296a7214d1ca9e5b8fce7d7693cca5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/fixed-asset-mass-update.ad455a4cc3296a7214d1ca9e5b8fce7d7693cca5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11140,7 +11140,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [fixed-assets.ee7bc08533bf143bcebb40fdb9ce8c29368576bf.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/premium/fixed-assets.ee7bc08533bf143bcebb40fdb9ce8c29368576bf.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11154,7 +11154,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [fixed-asset-value-model-depreciation-book-merge.92074f82d126205ae52284b0e7bad2c4c877677e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/fixed-asset-value-model-depreciation-book-merge.92074f82d126205ae52284b0e7bad2c4c877677e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11168,7 +11168,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [manual-depreciation.d8eacf270241c0df63cb01aed25a200b2b99acdb.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/manual-depreciation.d8eacf270241c0df63cb01aed25a200b2b99acdb.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11182,7 +11182,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [post-derived-value-models.dc21644883e465b7ae743d6fccb61baa8587f0ee.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/post-derived-value-models.dc21644883e465b7ae743d6fccb61baa8587f0ee.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11196,7 +11196,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [post-fixed-asset-transactions-posting-layers.8bf5b1cd116bf1dee41c54160c750932825cf965.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/post-fixed-asset-transactions-posting-layers.8bf5b1cd116bf1dee41c54160c750932825cf965.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11210,7 +11210,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [recalculate-replacement-costs-insured-values-fixed-asset-groups.fc5a1c76e548ee15820ef99d2c85e84c1b094dcc.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/recalculate-replacement-costs-insured-values-fixed-asset-groups.fc5a1c76e548ee15820ef99d2c85e84c1b094dcc.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11224,7 +11224,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [reduce-balance-depreciation.020746765f3314994cc97ff549e43ab24dabc10e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/reduce-balance-depreciation.020746765f3314994cc97ff549e43ab24dabc10e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11238,7 +11238,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [round-off-amount-depreciation-calculations.84804a5a442319e8c09b07a98cdd985d03dfadff.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/round-off-amount-depreciation-calculations.84804a5a442319e8c09b07a98cdd985d03dfadff.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11252,7 +11252,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-up-fixed-assets.424293fc8e1ecb9f42d998cffd8a84e3d6114ea2.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/set-up-fixed-assets.424293fc8e1ecb9f42d998cffd8a84e3d6114ea2.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11266,7 +11266,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [straight-line-life-remaining-depreciation.14ba07d977bbdd188a11f37b48eb564713e98724.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/straight-line-life-remaining-depreciation.14ba07d977bbdd188a11f37b48eb564713e98724.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11280,7 +11280,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [straight-line-service-life-depreciation.0117fa462b2d8da5c704361028f8f6b8dc2b2c36.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/straight-line-service-life-depreciation.0117fa462b2d8da5c704361028f8f6b8dc2b2c36.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11294,7 +11294,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [accruals-overview.5cdb1e96d4f7b40224443becf0f9e6ae0a7f66cf.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/accruals-overview.5cdb1e96d4f7b40224443becf0f9e6ae0a7f66cf.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11308,7 +11308,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [audit-policy-rules.f5cab025f4f9d595b9a7f7318cea6eeaa0a62cac.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/audit-policy-rules.f5cab025f4f9d595b9a7f7318cea6eeaa0a62cac.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11322,7 +11322,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [audit-policy-violations-cases.cc661a313648df02c7d6693ea8085aaf1421f78c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/audit-policy-violations-cases.cc661a313648df02c7d6693ea8085aaf1421f78c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11336,7 +11336,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [balance-sheet-financial-reports.9245f431bad206e77cb769397dee8334d13015dc.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/balance-sheet-financial-reports.9245f431bad206e77cb769397dee8334d13015dc.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11350,7 +11350,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [close-general-ledger-at-period-end.08f5856960d038f988ecb672bebdc330545a2673.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/close-general-ledger-at-period-end.08f5856960d038f988ecb672bebdc330545a2673.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11364,7 +11364,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [convert-accounting-reporting-currencies.d99655ba7ddf5c3b5879b3a418d28cc4f8a81517.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/convert-accounting-reporting-currencies.d99655ba7ddf5c3b5879b3a418d28cc4f8a81517.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11378,7 +11378,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [currency-revaluation-consolidation-company.c478e1259b8d687f304ab3e4d929bdac8289fbf6.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/currency-revaluation-consolidation-company.c478e1259b8d687f304ab3e4d929bdac8289fbf6.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11392,7 +11392,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [elimination-rules.9b2dc3c1152b0a9abc3a3dcd12ffaabb8288de29.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/elimination-rules.9b2dc3c1152b0a9abc3a3dcd12ffaabb8288de29.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11406,7 +11406,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [enter-account-dimension-combinations-segmented-entry-control.f1b16c66c7fa09409e3590e9fc86b3bcda655133.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/enter-account-dimension-combinations-segmented-entry-control.f1b16c66c7fa09409e3590e9fc86b3bcda655133.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11420,7 +11420,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [example-balanced-journals-interunit-accounting.0eddb9b9fe47c90502bbe3157c10e6788e0a7606.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/example-balanced-journals-interunit-accounting.0eddb9b9fe47c90502bbe3157c10e6788e0a7606.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11434,7 +11434,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [example-posting-definitions.cd704a729bb8be63bc2fe70deb51ea41cdbb06fa.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/example-posting-definitions.cd704a729bb8be63bc2fe70deb51ea41cdbb06fa.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11448,7 +11448,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [financial-dimensions.991b23dd799e6dfbaf93d747b1e27b876cb5e74e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/financial-dimensions.991b23dd799e6dfbaf93d747b1e27b876cb5e74e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11462,7 +11462,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [financial-period-close-workspace.027bff630b97008f75b95b1c744300823400a69b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/financial-period-close-workspace.027bff630b97008f75b95b1c744300823400a69b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11476,7 +11476,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [financial-reporting-getting-started.f1737a7ceb469636fd93dbed1e53e7b5bf5aced2.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/financial-reporting-getting-started.f1737a7ceb469636fd93dbed1e53e7b5bf5aced2.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11490,7 +11490,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [foreign-currency-revaluation-general-ledger.fbb7c8bf08ab873770d4831bd644cccaea9bacfd.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/foreign-currency-revaluation-general-ledger.fbb7c8bf08ab873770d4831bd644cccaea9bacfd.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11504,7 +11504,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [general-journal-processing.a9d1aafff8dae12e71a981e7f445f407f336432a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/general-journal-processing.a9d1aafff8dae12e71a981e7f445f407f336432a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11518,7 +11518,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [general-ledger.eec3ed72855c2b4133c9a92f8fd1483756a5094c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/general-ledger.eec3ed72855c2b4133c9a92f8fd1483756a5094c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11532,7 +11532,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [general-ledger-account-balances.39ea3edbb9f486d4ca25c98ffa8f5150219bfdc2.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/general-ledger-account-balances.39ea3edbb9f486d4ca25c98ffa8f5150219bfdc2.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11546,7 +11546,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [import-currency-exchange-rates.685ddd39e0d62c0f8bb234434d6106fdce0a88a1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/import-currency-exchange-rates.685ddd39e0d62c0f8bb234434d6106fdce0a88a1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11560,7 +11560,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [income-statement-financial-report.36585770e5f005843d00346c29d083fedca90149.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/income-statement-financial-report.36585770e5f005843d00346c29d083fedca90149.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11574,7 +11574,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [indirect-taxes-overview.5f321d401af23d2a63de8fc15d7f1642d16a0245.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/indirect-taxes-overview.5f321d401af23d2a63de8fc15d7f1642d16a0245.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11588,7 +11588,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [intercompany-accounting-setup.c99e7a523aad27fdc0e838606a6e05a0ce62f1ae.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/intercompany-accounting-setup.c99e7a523aad27fdc0e838606a6e05a0ce62f1ae.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11602,7 +11602,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [ledger-allocation-rules.6cc147c55cac4bb6a4c734fc1245c2b9b21a41d8.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/ledger-allocation-rules.6cc147c55cac4bb6a4c734fc1245c2b9b21a41d8.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11616,7 +11616,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [ledger-journal-types.03e4e4bf7fff900ba930156a0dc52942cd7767a2.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/ledger-journal-types.03e4e4bf7fff900ba930156a0dc52942cd7767a2.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11630,7 +11630,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [main-account-types.5db4ce6b2d3c8fe9d1d578d06972d03c8d1e9f36.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/main-account-types.5db4ce6b2d3c8fe9d1d578d06972d03c8d1e9f36.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11644,7 +11644,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [marginal-base-field.0658003306480e647a7158e5a74218170f7e27cd.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/marginal-base-field.0658003306480e647a7158e5a74218170f7e27cd.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11658,7 +11658,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [open-lines-excel-journals-documents.93ab47267fb999a4ce3956c7d46e6689e1cc8f37.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/open-lines-excel-journals-documents.93ab47267fb999a4ce3956c7d46e6689e1cc8f37.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11672,7 +11672,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [plan-chart-of-accounts.5324ddc6e8eaacb832494151a467f141ec902fd3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/plan-chart-of-accounts.5324ddc6e8eaacb832494151a467f141ec902fd3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11686,7 +11686,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [posting-definitions.7cb7e3ed7596a886ac51f84abe3ecd897b4da2b3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/posting-definitions.7cb7e3ed7596a886ac51f84abe3ecd897b4da2b3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11700,7 +11700,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [process-allocations.676b2c26d13d850f51bd1fd60cdc64a56530064f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/process-allocations.676b2c26d13d850f51bd1fd60cdc64a56530064f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11714,7 +11714,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [round-sales-tax-payments.bb10a85a715808ca78d85f9290f97d3bd4cbca00.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/round-sales-tax-payments.bb10a85a715808ca78d85f9290f97d3bd4cbca00.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11728,7 +11728,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [sales-tax-calculation-methods-origin-field.dbbdeee42b08c3cd4413699a8abf29a105750759.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/sales-tax-calculation-methods-origin-field.dbbdeee42b08c3cd4413699a8abf29a105750759.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11742,7 +11742,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [trial-balance-financial-reports.c161630859897ccd701480e96c920dad2028f537.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/trial-balance-financial-reports.c161630859897ccd701480e96c920dad2028f537.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11756,7 +11756,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [view-financial-reports.2a3bfed584a62394d03683ac9ebcb77a3a131b22.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/view-financial-reports.2a3bfed584a62394d03683ac9ebcb77a3a131b22.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11770,7 +11770,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [view-journal-entries-transactions.fe9420b9a89f2ee5aa9ec17dad935b77d45e0c45.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/view-journal-entries-transactions.fe9420b9a89f2ee5aa9ec17dad935b77d45e0c45.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11784,7 +11784,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [whole-amount-interval-options-sales-tax-codes.d94b6e5aeafd36a6c828563618f01499c07162ea.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/whole-amount-interval-options-sales-tax-codes.d94b6e5aeafd36a6c828563618f01499c07162ea.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11798,7 +11798,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [year-end-close.7f871f373e98cae9c49026fb2d0b1473ab4b7cc1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/year-end-close.7f871f373e98cae9c49026fb2d0b1473ab4b7cc1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11812,7 +11812,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [banner.ff5170bbaf2ffc1afc8f1ec885ae42a4df20ee6b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/premium/banner.ff5170bbaf2ffc1afc8f1ec885ae42a4df20ee6b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11826,7 +11826,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.b2a7ba7beb8961ac1e364337b032b044bb4a963c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/premium/index.b2a7ba7beb8961ac1e364337b032b044bb4a963c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11840,7 +11840,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [apac-aus-business-activity-statement.64c25310fedcefc5545956479565d3438c45abd0.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/apac-aus-business-activity-statement.64c25310fedcefc5545956479565d3438c45abd0.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11854,7 +11854,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [apac-aus-low-value-pool-depreciation.46cd0bfbbc96b410cd51c4938403d42db9936847.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/apac-aus-low-value-pool-depreciation.46cd0bfbbc96b410cd51c4938403d42db9936847.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11868,7 +11868,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [apac-aus-method-of-payment-pay-vendors-banks.dcbed7f13c37c9005fe441fcb7d8ad81a5a5363e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/apac-aus-method-of-payment-pay-vendors-banks.dcbed7f13c37c9005fe441fcb7d8ad81a5a5363e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11882,7 +11882,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [apac-chn-bom-comparison.9cacd7d4625bba55c472e66230ef98ab17426fae.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/apac-chn-bom-comparison.9cacd7d4625bba55c472e66230ef98ab17426fae.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11896,7 +11896,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [apac-chn-depreciation-methods-fixed-assets.a9ac6cdb05f359c410ebe00a285b4744f13c3051.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/apac-chn-depreciation-methods-fixed-assets.a9ac6cdb05f359c410ebe00a285b4744f13c3051.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11910,7 +11910,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [apac-chn-import-golden-tax-data-entity.8461965791fb176e20af521f08582b48c68c0781.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/apac-chn-import-golden-tax-data-entity.8461965791fb176e20af521f08582b48c68c0781.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11924,7 +11924,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [apac-chn-monthly-average-cost-model.0c45c6d5a9888b53e2394831f795ecbea1668662.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/apac-chn-monthly-average-cost-model.0c45c6d5a9888b53e2394831f795ecbea1668662.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11938,7 +11938,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [apac-chn-negative-debits-credits.bd894c911cd33875bc63e512029e65af959ec7d3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/apac-chn-negative-debits-credits.bd894c911cd33875bc63e512029e65af959ec7d3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11952,7 +11952,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [apac-chn-post-inventory-main-accounts-by-site.b9c80c736436eb0596d70eadc5cdb0abb9385c0f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/apac-chn-post-inventory-main-accounts-by-site.b9c80c736436eb0596d70eadc5cdb0abb9385c0f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11966,7 +11966,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [apac-chn-tax-integration.502b637440bcafea80aade4f9b79377760043a96.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/apac-chn-tax-integration.502b637440bcafea80aade4f9b79377760043a96.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11980,7 +11980,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [apac-chn-tax-integration-vat-customer-invoices.15b04caf3f9a0eaf8e846173b433d33522480a18.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/apac-chn-tax-integration-vat-customer-invoices.15b04caf3f9a0eaf8e846173b433d33522480a18.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -11994,7 +11994,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [apac-chn-vouchers.e0a68a549f3230db698f74a884b03d556ff5914e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/apac-chn-vouchers.e0a68a549f3230db698f74a884b03d556ff5914e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12008,7 +12008,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [apac-jpn-allocation-rules-fixed-assets.1e6318ea897562b87e9d1c23f7cdccbc45575252.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/apac-jpn-allocation-rules-fixed-assets.1e6318ea897562b87e9d1c23f7cdccbc45575252.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12022,7 +12022,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [apac-jpn-asset-retirement-obligation-fixed-assets.271f19805ae2f0134cc5d23a6fa726d7691f8f1a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/apac-jpn-asset-retirement-obligation-fixed-assets.271f19805ae2f0134cc5d23a6fa726d7691f8f1a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12036,7 +12036,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [apac-jpn-bank-payment-fees-vendors.38398dacfc4cdece30ae8c4d14e0c30ad047a374.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/apac-jpn-bank-payment-fees-vendors.38398dacfc4cdece30ae8c4d14e0c30ad047a374.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12050,7 +12050,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [apac-jpn-consolidate-invoices.532df779c6bd0732dbf923ced548683a397279f7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/apac-jpn-consolidate-invoices.532df779c6bd0732dbf923ced548683a397279f7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12064,7 +12064,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [apac-jpn-endorse-bill-of-exchange.000ebfc879b0e02df9f95c9a7eebd856ce157f52.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/apac-jpn-endorse-bill-of-exchange.000ebfc879b0e02df9f95c9a7eebd856ce157f52.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12078,7 +12078,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [apac-jpn-equally-divided-depreciation-method.1f21c47bcbf0a9f4bc5aadcd11d4a2cb0047195e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/apac-jpn-equally-divided-depreciation-method.1f21c47bcbf0a9f4bc5aadcd11d4a2cb0047195e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12092,7 +12092,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [apac-jpn-fixed-asset-depreciation.1b8f30a1ef2f1880768994ea8e91aca41f7a041b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/apac-jpn-fixed-asset-depreciation.1b8f30a1ef2f1880768994ea8e91aca41f7a041b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12106,7 +12106,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [apac-jpn-impairment-accounting-cash-generating-unit.ae088f0914285d4a9d8b9e352d0c7415e3668fbf.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/apac-jpn-impairment-accounting-cash-generating-unit.ae088f0914285d4a9d8b9e352d0c7415e3668fbf.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12120,7 +12120,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [apac-jpn-impairment-accounting-fixed-assets.72c9729ed00d1f95d9ae5182a20f98a860e2ace4.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/apac-jpn-impairment-accounting-fixed-assets.72c9729ed00d1f95d9ae5182a20f98a860e2ace4.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12134,7 +12134,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [apac-jpn-progressive-withholding-tax-calculation.170b3d782447e232c54f07b9cd0edac6987c01ac.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/apac-jpn-progressive-withholding-tax-calculation.170b3d782447e232c54f07b9cd0edac6987c01ac.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12148,7 +12148,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [apac-jpn-reduction-entry-fixed-assets.1f0a0a764d70e1079a974c7496e2d75fecf1a005.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/apac-jpn-reduction-entry-fixed-assets.1f0a0a764d70e1079a974c7496e2d75fecf1a005.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12162,7 +12162,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [apac-mys-gst.a1413b3a7a24298d6e19a11bedf2d408efe56870.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/apac-mys-gst.a1413b3a7a24298d6e19a11bedf2d408efe56870.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12176,7 +12176,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [apac-sgp-generate-gst-05-report.004ee096536cde233942dc125c1c2e447c7ea9b9.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/apac-sgp-generate-gst-05-report.004ee096536cde233942dc125c1c2e447c7ea9b9.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12190,7 +12190,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [apac-tha-stock-card-reports.7216841a13dab4992756e2729a9bfe059d6c1fdc.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/apac-tha-stock-card-reports.7216841a13dab4992756e2729a9bfe059d6c1fdc.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12204,7 +12204,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [apac-tha-unrealized-vat.7f694dca57628602eb6616fd7a06e28e0d5fe10e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/apac-tha-unrealized-vat.7f694dca57628602eb6616fd7a06e28e0d5fe10e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12218,7 +12218,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [apac-tha-withholding-tax.fc5255094b6a6ffe57d97f3a8ca1bb26b3b099ca.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/apac-tha-withholding-tax.fc5255094b6a6ffe57d97f3a8ca1bb26b3b099ca.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12232,7 +12232,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-advance-holders.f1f72da0a838f993e1d816f6aadea06443860744.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-advance-holders.f1f72da0a838f993e1d816f6aadea06443860744.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12246,7 +12246,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-advance-holders-transactions.04124b1b10dc1ff4e375c2bf87437b251f0a58ef.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-advance-holders-transactions.04124b1b10dc1ff4e375c2bf87437b251f0a58ef.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12260,7 +12260,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-advance-invoice.6d4d8d2e2292c5bfecb9d424c227574af08f3bc1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-advance-invoice.6d4d8d2e2292c5bfecb9d424c227574af08f3bc1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12274,7 +12274,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-amount-printing-forms.201cfc8c587689303f044d50c913fc08f9c38ade.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-amount-printing-forms.201cfc8c587689303f044d50c913fc08f9c38ade.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12288,7 +12288,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-aut-half-year-depreciation.a48d3be7fb0e18aa9db33315f8b78989692e2eef.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-aut-half-year-depreciation.a48d3be7fb0e18aa9db33315f8b78989692e2eef.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12302,7 +12302,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-aut-packing-material-fee-calculation.8e3cc73018d9b3ca7c9451b93fc6c51a2395c2b7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-aut-packing-material-fee-calculation.8e3cc73018d9b3ca7c9451b93fc6c51a2395c2b7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12316,7 +12316,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-aut-vat-statement-details.74bed2444937ab4f44b087817782ea7f62e35230.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-aut-vat-statement-details.74bed2444937ab4f44b087817782ea7f62e35230.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12330,7 +12330,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-bank-reconciliation.e59f6b2f895a0952834c1d38c4697c56d0b03a1b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-bank-reconciliation.e59f6b2f895a0952834c1d38c4697c56d0b03a1b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12344,7 +12344,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-bel-coda-bank-statement-import.7cf861700a6412e51eaa10bcb01be697686899df.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-bel-coda-bank-statement-import.7cf861700a6412e51eaa10bcb01be697686899df.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12358,7 +12358,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-bel-intervat-tax-declaration.e1d80940ad09e8b7e0d4d0b12d55453ae961e05e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-bel-intervat-tax-declaration.e1d80940ad09e8b7e0d4d0b12d55453ae961e05e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12372,7 +12372,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-bel-prodcom-report.4c2800f5debcd40ff5caf88b9da60a900514d889.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-bel-prodcom-report.4c2800f5debcd40ff5caf88b9da60a900514d889.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12386,7 +12386,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-bel-reconciliation-reports.ab4eb011b54a32c2823e76a14fca0c51dca122be.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-bel-reconciliation-reports.ab4eb011b54a32c2823e76a14fca0c51dca122be.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12400,7 +12400,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-che-esr-customer-payments-import.8682f830d2f9247f1a858d020d691c41b3bceed7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-che-esr-customer-payments-import.8682f830d2f9247f1a858d020d691c41b3bceed7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12414,7 +12414,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-create-post-periodic-journals.854eb002eeb6ed53282a5a63e7ed192474701b36.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-create-post-periodic-journals.854eb002eeb6ed53282a5a63e7ed192474701b36.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12428,7 +12428,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-credit-note-reverse-fixed-asset-sale.38ee02b0d86bdc521f479d5fafd889b7d20d54a9.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-credit-note-reverse-fixed-asset-sale.38ee02b0d86bdc521f479d5fafd889b7d20d54a9.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12442,7 +12442,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-cze-credit-note-cash-discount.b4651ccc13f3a3640adeb522e82bc224121069d3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-cze-credit-note-cash-discount.b4651ccc13f3a3640adeb522e82bc224121069d3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12456,7 +12456,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-cze-depreciation-rounding.f111796a3df6397811b2cd796a2ada406f4ec076.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-cze-depreciation-rounding.f111796a3df6397811b2cd796a2ada406f4ec076.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12470,7 +12470,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-cze-depreciation-suspension-holidays.d1b8e9ad0ab63acbe6fc55b1777ac8eaf4a84189.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-cze-depreciation-suspension-holidays.d1b8e9ad0ab63acbe6fc55b1777ac8eaf4a84189.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12484,7 +12484,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-cze-fixed-assets-depreciation.a25b37c7ced87cc68a373849e9cee934bee18c73.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-cze-fixed-assets-depreciation.a25b37c7ced87cc68a373849e9cee934bee18c73.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12498,7 +12498,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-cze-half-depreciation-fixed-asset-disposal.7bec7fc649db1f661028b3f19a6e0dd93ca08b7f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-cze-half-depreciation-fixed-asset-disposal.7bec7fc649db1f661028b3f19a6e0dd93ca08b7f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12512,7 +12512,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-cze-intra-community-vat-transactions.f0c9c2ac9dfcd12be180e9ba792a246bb6e5f353.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-cze-intra-community-vat-transactions.f0c9c2ac9dfcd12be180e9ba792a246bb6e5f353.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12526,7 +12526,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-cze-vat-statement-details.6aff9c10a8c0f49b8f843097e1e4162faae88477.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-cze-vat-statement-details.6aff9c10a8c0f49b8f843097e1e4162faae88477.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12540,7 +12540,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-deu-additional-acquisition-depreciation.fa141e773ce957ce60f569a0327bfce7a23bc9b6.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-deu-additional-acquisition-depreciation.fa141e773ce957ce60f569a0327bfce7a23bc9b6.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12554,7 +12554,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-deu-gdpdu-audit-data-export.1a02b50f86ddbd4d838750e80e393827445e2fc1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-deu-gdpdu-audit-data-export.1a02b50f86ddbd4d838750e80e393827445e2fc1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12568,7 +12568,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-deu-journal-list-report.0bea95c832e567a3721cce7d28b4bb195057d6de.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-deu-journal-list-report.0bea95c832e567a3721cce7d28b4bb195057d6de.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12582,7 +12582,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-deu-print-separate-label-credit-memo-originating-sales.fb8be48692139a4e8ec67dcbef7fc318cc395e98.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-deu-print-separate-label-credit-memo-originating-sales.fb8be48692139a4e8ec67dcbef7fc318cc395e98.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12596,7 +12596,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-edit-invoice-id-sales-orders.39ae3f4c6b60171f5571f647aea3d78b97d46e88.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-edit-invoice-id-sales-orders.39ae3f4c6b60171f5571f647aea3d78b97d46e88.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12610,7 +12610,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-entry-certificates.5931ce58a932fb7de9f25918c20868379dd4ea83.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic-test/emea-entry-certificates.5931ce58a932fb7de9f25918c20868379dd4ea83.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12624,7 +12624,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-esp-bill-of-exchange-options.34b66dcb3b2c16f3f995bccf474a09288de4d01f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-esp-bill-of-exchange-options.34b66dcb3b2c16f3f995bccf474a09288de4d01f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12638,7 +12638,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-esp-cash-discount-applied-invoice.740405b0f09694c40610fd3d9cbc9fc4d8d1092c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-esp-cash-discount-applied-invoice.740405b0f09694c40610fd3d9cbc9fc4d8d1092c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12652,7 +12652,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-esp-conditional-sales-tax.f3e2172b9a80632958a80bc196cde07995a4090e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-esp-conditional-sales-tax.f3e2172b9a80632958a80bc196cde07995a4090e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12666,7 +12666,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-esp-fiscal-data-invoice-account.f4b00b19da2014bd1886c32e42598f4ca5a7f01a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-esp-fiscal-data-invoice-account.f4b00b19da2014bd1886c32e42598f4ca5a7f01a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12680,7 +12680,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-esp-fixed-asset-group-revaluation.27c4870a23b93ad49ce77dd0ac6d55a20452a10d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-esp-fixed-asset-group-revaluation.27c4870a23b93ad49ce77dd0ac6d55a20452a10d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12694,7 +12694,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-esp-intra-community-vat.3f0b193980ef7c1ba65352126d79d0566dc388bc.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-esp-intra-community-vat.3f0b193980ef7c1ba65352126d79d0566dc388bc.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12708,7 +12708,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-esp-no-one-time-customer-for-project-contracts.6ce333bf2135aa4e191f8055a3731ac4de411a17.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-esp-no-one-time-customer-for-project-contracts.6ce333bf2135aa4e191f8055a3731ac4de411a17.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12722,7 +12722,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-esp-opening-sheets-spain.86fee913db0f6b79dfa93ee7e57be6517a7eebeb.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-esp-opening-sheets-spain.86fee913db0f6b79dfa93ee7e57be6517a7eebeb.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12736,7 +12736,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-esp-promissory-note-options.0bd694b2b6368db3e8d7e69ffbb10d50a28359af.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-esp-promissory-note-options.0bd694b2b6368db3e8d7e69ffbb10d50a28359af.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12750,7 +12750,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-esp-sales-purchase-cycle.0fd75405a5f8558f752ed559d6a076b8d19b370f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-esp-sales-purchase-cycle.0fd75405a5f8558f752ed559d6a076b8d19b370f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12764,7 +12764,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-est-vat-statement-details.5508b7299247f3f50726250e5cceca299c8d1829.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-est-vat-statement-details.5508b7299247f3f50726250e5cceca299c8d1829.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12778,7 +12778,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-eur-payment-slip-report-giro.68a038840b0203dd6b7fc77400bfa2dda190a2ee.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic-test/emea-eur-payment-slip-report-giro.68a038840b0203dd6b7fc77400bfa2dda190a2ee.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12792,7 +12792,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-eu-sales-list.2c2994d8688de91d18e3533622a32c2bdf8c0b8a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic-test/emea-eu-sales-list.2c2994d8688de91d18e3533622a32c2bdf8c0b8a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12806,7 +12806,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-exchange-rate-adjustments.f1d5c74f71182ad014ea265b3225a033e66bfa91.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-exchange-rate-adjustments.f1d5c74f71182ad014ea265b3225a033e66bfa91.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12820,7 +12820,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-fra-apply-penalty-customer-payment-past-due.ee9e170dc92ba6a7f87e4582bdb7ae41025ed6c5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-fra-apply-penalty-customer-payment-past-due.ee9e170dc92ba6a7f87e4582bdb7ae41025ed6c5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12834,7 +12834,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-fra-chronological-invoices-vouchers.47f71a845a443068603d1f083c2d93ea97d050e2.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-fra-chronological-invoices-vouchers.47f71a845a443068603d1f083c2d93ea97d050e2.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12848,7 +12848,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-fra-commitments-public-sector.85187cbe60d3ff2055c5497139fb442c06130c91.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/emea-fra-commitments-public-sector.85187cbe60d3ff2055c5497139fb442c06130c91.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12862,7 +12862,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-fra-derogatory-depreciation.ee3b54884856bcc810b4bff4c5be6be896dc0354.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-fra-derogatory-depreciation.ee3b54884856bcc810b4bff4c5be6be896dc0354.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12876,7 +12876,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-fra-mandats-de-paiement.d2d02b88ab7fa384c66a272db2ba41c6d92e1033.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/emea-fra-mandats-de-paiement.d2d02b88ab7fa384c66a272db2ba41c6d92e1033.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12890,7 +12890,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-fra-naf-codes-siret-numbers.ee5f77b6b3d207f9225ee00dfb6a7ebe3e95727f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-fra-naf-codes-siret-numbers.ee5f77b6b3d207f9225ee00dfb6a7ebe3e95727f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12904,7 +12904,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-fra-print-lump-sum-recovery-text.84e9c50708a8c1ca96f672221ebad3b3f0e7cfff.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-fra-print-lump-sum-recovery-text.84e9c50708a8c1ca96f672221ebad3b3f0e7cfff.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12918,7 +12918,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-fra-procurement-sourcing-public-sector.dfb69eaa8b974b7ddd113e6488ab79e1dccc3c21.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/emea-fra-procurement-sourcing-public-sector.dfb69eaa8b974b7ddd113e6488ab79e1dccc3c21.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12932,7 +12932,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-fra-public-sector-accounting.bd79fe2229ef91f7cf2ee3589de2f267219debd2.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/emea-fra-public-sector-accounting.bd79fe2229ef91f7cf2ee3589de2f267219debd2.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12946,7 +12946,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-fra-rbsl-depreciation.71543f15786495400928b12ca622c5cc53c60407.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-fra-rbsl-depreciation.71543f15786495400928b12ca622c5cc53c60407.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12960,7 +12960,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-fra-titres-de-recette-public-sector.fdd011c3b2e0bcbea471f052c5b6d6377bfcd2fe.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/emea-fra-titres-de-recette-public-sector.fdd011c3b2e0bcbea471f052c5b6d6377bfcd2fe.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12974,7 +12974,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-fra-vendor-invoice-payment-holds-public-sector.22e7d8bb7b6b97005f1608dd83b21bb916b62bdd.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/emea-fra-vendor-invoice-payment-holds-public-sector.22e7d8bb7b6b97005f1608dd83b21bb916b62bdd.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -12988,7 +12988,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-gbr-cis-construction-industry-scheme.2d083782bfde58ba0f56e6222f0e5202f6acb0a6.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/emea-gbr-cis-construction-industry-scheme.2d083782bfde58ba0f56e6222f0e5202f6acb0a6.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13002,7 +13002,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-hun-fixed-assets-depreciation-methods.10274a87b5c9f29fd55000f21ae7d1e03fb5804e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-hun-fixed-assets-depreciation-methods.10274a87b5c9f29fd55000f21ae7d1e03fb5804e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13016,7 +13016,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-hun-fixed-asset-to-inventory.07db65fc59b903f5c0bf184e373ddfe4ffba07a6.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-hun-fixed-asset-to-inventory.07db65fc59b903f5c0bf184e373ddfe4ffba07a6.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13030,7 +13030,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-hun-low-cost-fixed-assets.5a161b606e2a757c69aaeae0936299418a7cfaf8.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-hun-low-cost-fixed-assets.5a161b606e2a757c69aaeae0936299418a7cfaf8.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13044,7 +13044,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-import-create-postal-codes-manually.b5393af9edceb7c5872f975c3a24c727261d5ffb.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-import-create-postal-codes-manually.b5393af9edceb7c5872f975c3a24c727261d5ffb.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13058,7 +13058,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-intrastat.500883b7befc2e4d3d3e6393679b8873cfc7e896.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic-test/emea-intrastat.500883b7befc2e4d3d3e6393679b8873cfc7e896.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13072,7 +13072,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-invoice-issue-deadline.28b1ae5f3f64a45db1fe765746eb1d1d8af0bdb5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic-test/emea-invoice-issue-deadline.28b1ae5f3f64a45db1fe765746eb1d1d8af0bdb5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13086,7 +13086,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-invoices-packing-slips-numbering.3ed12da2522bcc11ce760306c02c5d7fcc1f3597.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-invoices-packing-slips-numbering.3ed12da2522bcc11ce760306c02c5d7fcc1f3597.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13100,7 +13100,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-ita-black-list-report.7c74201cbae4fee9f6c17157e7e904f494da7af5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-ita-black-list-report.7c74201cbae4fee9f6c17157e7e904f494da7af5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13114,7 +13114,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-ita-competence-date.c88e3620854a65e98914b99f70cdbac22a80c418.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-ita-competence-date.c88e3620854a65e98914b99f70cdbac22a80c418.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13128,7 +13128,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-ita-depreciation-of-fixed-assets.c1e3c1d4ceaee081aebc7642846d6d923d22c73e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-ita-depreciation-of-fixed-assets.c1e3c1d4ceaee081aebc7642846d6d923d22c73e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13142,7 +13142,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-ita-fiscal-books.d46a8be1ff27305e7af1c5c5b885e9660ad6b1b9.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-ita-fiscal-books.d46a8be1ff27305e7af1c5c5b885e9660ad6b1b9.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13156,7 +13156,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-ita-packing-slip-date-verification-on-invoice.3b50835b0f68e1a69ad551f983b4e23fc9d85440.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-ita-packing-slip-date-verification-on-invoice.3b50835b0f68e1a69ad551f983b4e23fc9d85440.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13170,7 +13170,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-ita-split-payment-invoices-issued-public-administration.c6013bc6ec2de33c11d70302273aba27685a1064.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-ita-split-payment-invoices-issued-public-administration.c6013bc6ec2de33c11d70302273aba27685a1064.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13184,7 +13184,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-ita-vat-statements-details.e7f622255e917b76036895273238154c66ce18b7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-ita-vat-statements-details.e7f622255e917b76036895273238154c66ce18b7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13198,7 +13198,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-ita-withholding tax.898c3062111bfa0e28de1adddf3ff415524ecd6e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-ita-withholding%20tax.898c3062111bfa0e28de1adddf3ff415524ecd6e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13212,7 +13212,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-ltu-fixed-asset-repair-statement.58ebec934468ab67230fedb1ae04d22f31202bbe.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-ltu-fixed-asset-repair-statement.58ebec934468ab67230fedb1ae04d22f31202bbe.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13226,7 +13226,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-ltu-vat-statement-details.7d37434e10824753e6d63e42e1327d1a9492d5ea.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-ltu-vat-statement-details.7d37434e10824753e6d63e42e1327d1a9492d5ea.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13240,7 +13240,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-lva-fixed-assets-accounting.9d5c8d721c21466101355b4ffb6b0bf9b617fea1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-lva-fixed-assets-accounting.9d5c8d721c21466101355b4ffb6b0bf9b617fea1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13254,7 +13254,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-lva-fixed-assets-location-fields-change.52c2b9ec5f32280f5723146f6f108fcbb1d62703.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-lva-fixed-assets-location-fields-change.52c2b9ec5f32280f5723146f6f108fcbb1d62703.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13268,7 +13268,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-lva-tax-natural-resources.7360221ca66540f3053b09e9fc58b2775aa25e23.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-lva-tax-natural-resources.7360221ca66540f3053b09e9fc58b2775aa25e23.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13282,7 +13282,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-lva-vat-statement-details.2eb82ffad3782812d5d12eee60ac5b07b2fc083d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-lva-vat-statement-details.2eb82ffad3782812d5d12eee60ac5b07b2fc083d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13296,7 +13296,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-nor-nets-import-format.83aa4b29846e3a5c8ce2a35f357087a6cc232e7f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-nor-nets-import-format.83aa4b29846e3a5c8ce2a35f357087a6cc232e7f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13310,7 +13310,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-oioubl-standards-electronic-invoicing.f201ed7da0302308ecfbfcb70aed4c93c218e440.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/emea-oioubl-standards-electronic-invoicing.f201ed7da0302308ecfbfcb70aed4c93c218e440.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13324,7 +13324,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-petty-cash.80a5cfdb2852626e74473c59ca8502e5f927d89b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-petty-cash.80a5cfdb2852626e74473c59ca8502e5f927d89b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13338,7 +13338,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-pol-correction-notes.7939232680274471a28be947b567a36d40958ae3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-pol-correction-notes.7939232680274471a28be947b567a36d40958ae3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13352,7 +13352,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-pol-fixed-asset-disposal-functionality-extension.edbc832245a6cf18d2519fa036e53d03a6049631.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-pol-fixed-asset-disposal-functionality-extension.edbc832245a6cf18d2519fa036e53d03a6049631.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13366,7 +13366,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-pol-fixed-assets-depreciation.af32ca457e041e86de3c9eac1325b2f1313f0ff0.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-pol-fixed-assets-depreciation.af32ca457e041e86de3c9eac1325b2f1313f0ff0.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13380,7 +13380,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-pol-line-discount-calculation-from-unit-price.417140515ad3c7ef431a1f14f4e67ac9011396e7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-pol-line-discount-calculation-from-unit-price.417140515ad3c7ef431a1f14f4e67ac9011396e7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13394,7 +13394,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-pol-returnable-packages.a47f8d176e3886ee249f8551bedb0024f317b30c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-pol-returnable-packages.a47f8d176e3886ee249f8551bedb0024f317b30c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13408,7 +13408,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-pol-sales-invoice-duplicates-numbering.34649abb03422fb8afe25ddec6b99dbf05b63d1e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-pol-sales-invoice-duplicates-numbering.34649abb03422fb8afe25ddec6b99dbf05b63d1e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13422,7 +13422,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-pol-sales-tax-reports.300831ef5dbcaded5adecc77cacce189b9a0d783.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-pol-sales-tax-reports.300831ef5dbcaded5adecc77cacce189b9a0d783.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13436,7 +13436,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-pol-standard-audit-file-saf.ffa2f65103193fec972684cc545dfa2e2e29b557.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-pol-standard-audit-file-saf.ffa2f65103193fec972684cc545dfa2e2e29b557.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13450,7 +13450,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-pol-turnover-balances-statement.dbf808c0d43496766a6e7558876149e4f33e556a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-pol-turnover-balances-statement.dbf808c0d43496766a6e7558876149e4f33e556a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13464,7 +13464,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-pre-acquisition-acquisition-fixed-asset.9dec1d9d30763362a5d2a905b04e82c6de3d3e90.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-pre-acquisition-acquisition-fixed-asset.9dec1d9d30763362a5d2a905b04e82c6de3d3e90.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13478,7 +13478,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-registration-ids.fa5347aad0d50a424e1f6456512eadd1f4281f7e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/emea-registration-ids.fa5347aad0d50a424e1f6456512eadd1f4281f7e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13492,7 +13492,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-sau-zakat-reporting.5e0275ee64c71782557b806d22ab6a0e4cf3426b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-sau-zakat-reporting.5e0275ee64c71782557b806d22ab6a0e4cf3426b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13506,7 +13506,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-select-file-formats-for-the-method-of-payments.8d0c4b31eaa5d635e3baa6ffcc23aba0a4af594e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-select-file-formats-for-the-method-of-payments.8d0c4b31eaa5d635e3baa6ffcc23aba0a4af594e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13520,7 +13520,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-set-up-report-inventory-journal-names.45d79484ab2d3eef8177410dde301e78ceca2d07.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-set-up-report-inventory-journal-names.45d79484ab2d3eef8177410dde301e78ceca2d07.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13534,7 +13534,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-set-up-signers-for-printing-forms.e32b8b25b9ce374388d667112b351af8798e1db0.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-set-up-signers-for-printing-forms.e32b8b25b9ce374388d667112b351af8798e1db0.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13548,7 +13548,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-swe-payment-formats-import.d2a57be351a7f90de1586892e6b184b74497ccc0.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-swe-payment-formats-import.d2a57be351a7f90de1586892e6b184b74497ccc0.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13562,7 +13562,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-transactions-settlement-form.a6fb129da77601335d536b0e4cab049c07d9ee45.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-transactions-settlement-form.a6fb129da77601335d536b0e4cab049c07d9ee45.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13576,7 +13576,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-vat-exchange-rate.cd13fd348774d576fe639c5a2d4f9836ef86ff3a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-vat-exchange-rate.cd13fd348774d576fe639c5a2d4f9836ef86ff3a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13590,7 +13590,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-vat-register-transactions.760b259de1500b48f54e3923e13fdc56f2f6dc36.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-vat-register-transactions.760b259de1500b48f54e3923e13fdc56f2f6dc36.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13604,7 +13604,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [emea-vat-reporting.a5bb0d5168a67be5442cfa84c5ee20435ec1a218.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/emea-vat-reporting.a5bb0d5168a67be5442cfa84c5ee20435ec1a218.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13618,7 +13618,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [latam-bra-calculate-taxes.63a6b5174428211c74fbcd5b2a0cfa0a9cd982de.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/latam-bra-calculate-taxes.63a6b5174428211c74fbcd5b2a0cfa0a9cd982de.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13632,7 +13632,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [latam-bra-examples-journals-generated-electronic-payment-return-p.5fc2d9917f819d3fe2b935005807427f0f6204e4.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/latam-bra-examples-journals-generated-electronic-payment-return-p.5fc2d9917f819d3fe2b935005807427f0f6204e4.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13646,7 +13646,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [latam-bra-fiscal-books.7581e289e946f27dc8dce7b8c622c06356af9cc7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/latam-bra-fiscal-books.7581e289e946f27dc8dce7b8c622c06356af9cc7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13660,7 +13660,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [latam-bra-fiscal-documents-fiscal-document-framework.6caa6652947eb608cce1d9d73e0913b2c74bc006.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/latam-bra-fiscal-documents-fiscal-document-framework.6caa6652947eb608cce1d9d73e0913b2c74bc006.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13674,7 +13674,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [latam-bra-fiscal-document-text-placeholders.bde7b4866c60d356058c39ce7b5a54a9829b0640.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/latam-bra-fiscal-document-text-placeholders.bde7b4866c60d356058c39ce7b5a54a9829b0640.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13688,7 +13688,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [latam-bra-icms-tax-fiscal-documents.06d827cabcb9197bf29cc87a2d8d7196e3f50e03.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/latam-bra-icms-tax-fiscal-documents.06d827cabcb9197bf29cc87a2d8d7196e3f50e03.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13702,7 +13702,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [latam-bra-import-fiscal-documents.d721f00ca54fa6ea9bff2f6dd8dc18ba2e4890e5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/latam-bra-import-fiscal-documents.d721f00ca54fa6ea9bff2f6dd8dc18ba2e4890e5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13716,7 +13716,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [latam-bra-import-verify-nf-e-xml-documents-danfe-emails.b2538def3509f95ca263382d3220e9fdb577ec61.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/latam-bra-import-verify-nf-e-xml-documents-danfe-emails.b2538def3509f95ca263382d3220e9fdb577ec61.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13730,7 +13730,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [latam-bra-legal-entity-parameters.b3f9660f44804c4d938d3a900eb078940dc39a0b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/latam-bra-legal-entity-parameters.b3f9660f44804c4d938d3a900eb078940dc39a0b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13744,7 +13744,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [latam-bra-nf-e-process.00d7455c23e8e493fa1cbdec428a1b243af94c5f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/latam-bra-nf-e-process.00d7455c23e8e493fa1cbdec428a1b243af94c5f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13758,7 +13758,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [latam-bra-purchase-complementary-fiscal-documents.01b10fd7ad4893771d0ae7eb4d347a53ea5c8ec2.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/latam-bra-purchase-complementary-fiscal-documents.01b10fd7ad4893771d0ae7eb4d347a53ea5c8ec2.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13772,7 +13772,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [latam-bra-referenced-fiscal-documents.e36907a220695a2e7a888cfe12d6a4c22f12521b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/latam-bra-referenced-fiscal-documents.e36907a220695a2e7a888cfe12d6a4c22f12521b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13786,7 +13786,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [latam-bra-sales-complementary-fiscal-documents.8b82b71b108f8b946fcfc29affdf61a660b5b698.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/latam-bra-sales-complementary-fiscal-documents.8b82b71b108f8b946fcfc29affdf61a660b5b698.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13800,7 +13800,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [latam-bra-service-electronic-fiscal-document.42870fc833776fbcafb04b45b30a310c7e728232.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/latam-bra-service-electronic-fiscal-document.42870fc833776fbcafb04b45b30a310c7e728232.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13814,7 +13814,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [latam-bra-tax-attributes.7bc09b90ea7f03505186fecfbbcb33aebf87a734.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/latam-bra-tax-attributes.7bc09b90ea7f03505186fecfbbcb33aebf87a734.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13828,7 +13828,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [latam-bra-tax-payments.a71a7910bb01703469f9809eb9145ab611414e4e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/latam-bra-tax-payments.a71a7910bb01703469f9809eb9145ab611414e4e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13842,7 +13842,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [latam-mex-adjustment-inflation-declaration-report.63d7c5b42c66ae792590e3ae1ab712459222d45f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/latam-mex-adjustment-inflation-declaration-report.63d7c5b42c66ae792590e3ae1ab712459222d45f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13856,7 +13856,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [latam-mex-CFDI-electronic-invoices.27b4f2b4727381d246b9b0c1e5b484219c873525.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/latam-mex-CFDI-electronic-invoices.27b4f2b4727381d246b9b0c1e5b484219c873525.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13870,7 +13870,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [latam-mex-diot-declaration-statement.26bfa113b3fc28b6863f53af4018da593752d3aa.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/latam-mex-diot-declaration-statement.26bfa113b3fc28b6863f53af4018da593752d3aa.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13884,7 +13884,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [latam-mex-electronic-ledger-accounting-statements.4e9e9a9984fa467194b22500ad3af7dc9d074bc8.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/latam-mex-electronic-ledger-accounting-statements.4e9e9a9984fa467194b22500ad3af7dc9d074bc8.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13898,7 +13898,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [latam-mex-isr-declaration-report-supporting-processes.ecefc5399ce5aea8705e320132bb16da7138a07e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/need-to-investigate/latam-mex-isr-declaration-report-supporting-processes.ecefc5399ce5aea8705e320132bb16da7138a07e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13912,7 +13912,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [noam-usa-form-1099-public-sector.ced3a2d573e87d86aebc4a230f0dcca917676d3b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/noam-usa-form-1099-public-sector.ced3a2d573e87d86aebc4a230f0dcca917676d3b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13926,7 +13926,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [noam-usa-year-end-1099-reporting.b4371845677a2ae3e9d957233007b1d87dff2c9d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/noam-usa-year-end-1099-reporting.b4371845677a2ae3e9d957233007b1d87dff2c9d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13940,7 +13940,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#e3dc9ca769032df1a2a6ea10692f01da8ac6081e3102handoff_transform_failed)
@@ -13955,7 +13955,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [intercompany-invoicing.9be479cf8f114ec351f25eef5ec753ff5264958b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/intercompany-invoicing.9be479cf8f114ec351f25eef5ec753ff5264958b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13969,7 +13969,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [overview-project-management-accounting.f56b7e4f73cbc36f30807bfa8b91abb2a54e6175.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/overview-project-management-accounting.f56b7e4f73cbc36f30807bfa8b91abb2a54e6175.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13983,7 +13983,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [project-contracts.0dcd644ad1394e99b38901657f9f90f399ba09b9.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/project-contracts.0dcd644ad1394e99b38901657f9f90f399ba09b9.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -13997,7 +13997,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [project-forecasts-budgets.b7d8501b01f3d0ac9da7031264cadbf13b9b10e1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/project-forecasts-budgets.b7d8501b01f3d0ac9da7031264cadbf13b9b10e1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14011,7 +14011,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [project-purchase-orders.0125eccd25076c8ce1f4893901c19140b03a53bb.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/project-purchase-orders.0125eccd25076c8ce1f4893901c19140b03a53bb.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14025,7 +14025,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [project-quotations.4de572405f7e167d9b97d5af75a025b53b63791c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/project-quotations.4de572405f7e167d9b97d5af75a025b53b63791c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14039,7 +14039,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [project-resourcing.24ffd5e69db877f9001e54dabd4f55d4cd539894.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/project-resourcing.24ffd5e69db877f9001e54dabd4f55d4cd539894.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14053,7 +14053,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [project-time-entry-mobile-workspace.6879f8a8bbdf1aa8367ff5e063b9b2b7bee5c998.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/project-time-entry-mobile-workspace.6879f8a8bbdf1aa8367ff5e063b9b2b7bee5c998.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14067,7 +14067,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [work-breakdown-structures.6ef2c82b0afacec14a1dd99432785933009845f2.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/work-breakdown-structures.6ef2c82b0afacec14a1dd99432785933009845f2.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14081,7 +14081,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [accounts-payable-public-sector.65f72140e16c5e54756dddabd3c735c62c954d81.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/accounts-payable-public-sector.65f72140e16c5e54756dddabd3c735c62c954d81.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14095,7 +14095,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [accounts-receivable-public-sector.15d9ee0527dad77e9eec104df4afb39eff370132.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/accounts-receivable-public-sector.15d9ee0527dad77e9eec104df4afb39eff370132.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14109,7 +14109,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [advanced-ledger-entries-public-sector.8818ecff22721349162b829b2164de91522c7058.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/advanced-ledger-entries-public-sector.8818ecff22721349162b829b2164de91522c7058.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14123,7 +14123,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [billing-classifications-billing-codes-public-sector.805a097151e70993527518267d714f45d86f71c3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/billing-classifications-billing-codes-public-sector.805a097151e70993527518267d714f45d86f71c3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14137,7 +14137,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [budget-analysis-public-sector.7fd771030e8ad7a74be4232ab4c55679fe0675e0.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/budget-analysis-public-sector.7fd771030e8ad7a74be4232ab4c55679fe0675e0.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14151,7 +14151,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [budgeting-public-sector.580682dad4207b897a602559da497ae287b9be6c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/budgeting-public-sector.580682dad4207b897a602559da497ae287b9be6c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14165,7 +14165,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [derived-financial-hierarchies-public-sector.d743a2a5a73afd7eb10ccf38abfda320beac2e96.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/derived-financial-hierarchies-public-sector.d743a2a5a73afd7eb10ccf38abfda320beac2e96.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14179,7 +14179,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [fixed-asset-public-sector.97f5264564e33409a31bf6c885baba7190119374.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/fixed-asset-public-sector.97f5264564e33409a31bf6c885baba7190119374.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14193,7 +14193,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [free-text-invoices-public-sector.64991ba5089a60a7bf42c28e5d987239ef377a8d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/free-text-invoices-public-sector.64991ba5089a60a7bf42c28e5d987239ef377a8d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14207,7 +14207,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [funds-public-sector.4aed0f5e872ef5f2f500e4307ecccc03a391d54d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/funds-public-sector.4aed0f5e872ef5f2f500e4307ecccc03a391d54d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14221,7 +14221,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [general-ledger-public-sector.87589be408f11c21497de8d8fb801a344294b605.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/general-ledger-public-sector.87589be408f11c21497de8d8fb801a344294b605.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14235,7 +14235,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [one-time-vendors-public-sector.b42f641f706f2d9f20b946eaa28db0561e6b8251.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/one-time-vendors-public-sector.b42f641f706f2d9f20b946eaa28db0561e6b8251.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14249,7 +14249,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [plan-one-time-vendors-public-sector.164c30a17df29bb21da17481d5bd7ad36db7d7c5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/plan-one-time-vendors-public-sector.164c30a17df29bb21da17481d5bd7ad36db7d7c5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14263,7 +14263,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [plan-public-sector-functionality.2b370355e854c8932f8840164f667ef7024dd6eb.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/plan-public-sector-functionality.2b370355e854c8932f8840164f667ef7024dd6eb.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14277,7 +14277,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [posting-definitions-public-sector.4877ee0851dc72abf97a84f21bade18dfa08ae58.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/posting-definitions-public-sector.4877ee0851dc72abf97a84f21bade18dfa08ae58.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14291,7 +14291,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [preliminary-budgets-apportionments-public-sector.48ff34d749bba231d1f3ade1a1d4d220470868a5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/preliminary-budgets-apportionments-public-sector.48ff34d749bba231d1f3ade1a1d4d220470868a5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14305,7 +14305,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [procurement-sourcing-public-sector.64ab52f21dafa5d3a7ddece3a560716a2b85e618.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/procurement-sourcing-public-sector.64ab52f21dafa5d3a7ddece3a560716a2b85e618.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14319,7 +14319,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [public-sector-functionality.5058455acb2ed828dae1d133f8c1519004d00557.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/public-sector-functionality.5058455acb2ed828dae1d133f8c1519004d00557.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14333,7 +14333,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [purchase-order-codes-public-sector.e741d9f81afc106db92f7943a540cfba5d432eb6.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/purchase-order-codes-public-sector.e741d9f81afc106db92f7943a540cfba5d432eb6.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14347,7 +14347,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [reimbursements-public-sector.f245837585c36b9cbdce3cd941895570912241c3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/reimbursements-public-sector.f245837585c36b9cbdce3cd941895570912241c3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14361,7 +14361,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [security-roles-public-sector.010a5729aba585d3a9196646d7cbb93c2ed2557a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/security-roles-public-sector.010a5729aba585d3a9196646d7cbb93c2ed2557a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14375,7 +14375,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [settlement-priority-public-sector.107ed9a7a7e6f2650f2616c713a8a7ebcb282105.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/settlement-priority-public-sector.107ed9a7a7e6f2650f2616c713a8a7ebcb282105.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14389,7 +14389,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [year-end-processing-public-sector.13b23b5d68da2e44142b0f5edb63019ff4786818.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/year-end-processing-public-sector.13b23b5d68da2e44142b0f5edb63019ff4786818.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14403,7 +14403,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [TOC.88d6c824c09df77e700e0bdcc0353c342395bad5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/premium/TOC.88d6c824c09df77e700e0bdcc0353c342395bad5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14417,7 +14417,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [benefit-eligibility-policies.168e2d45716f8681f742a7279903157ee4b20d9d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/benefit-eligibility-policies.168e2d45716f8681f742a7279903157ee4b20d9d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14431,7 +14431,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [compensation-plans.375bae81f91c0a51ab6ac56629cef127bcc3b779.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/compensation-plans.375bae81f91c0a51ab6ac56629cef127bcc3b779.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14445,7 +14445,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [courses.710b57e6196b99fdf89824a7e28d6ca6eeb27ccc.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/courses.710b57e6196b99fdf89824a7e28d6ca6eeb27ccc.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14459,7 +14459,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-department-add-department-hierarchy.3df2c125a6245f59aa37c4df892d850278163e46.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/create-department-add-department-hierarchy.3df2c125a6245f59aa37c4df892d850278163e46.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14473,7 +14473,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-fixed-compensation-plans.c29adbeb184c453f8ddda96a19ed487a0e4ead1a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/create-fixed-compensation-plans.c29adbeb184c453f8ddda96a19ed487a0e4ead1a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14487,7 +14487,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-job.c5065a9f708a59e701e390288d35c3647edc88b7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/create-job.c5065a9f708a59e701e390288d35c3647edc88b7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14501,7 +14501,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-variable-compensation-plans.08b594b64350628f813c292576b4208991a57746.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/create-variable-compensation-plans.08b594b64350628f813c292576b4208991a57746.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14515,7 +14515,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [departments-jobs-positions.52059c8beb776ae69ae0fe876eea0b8b553b4cf9.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/departments-jobs-positions.52059c8beb776ae69ae0fe876eea0b8b553b4cf9.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14529,7 +14529,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [design-questionnaires.fd2a8e8b90ea8d7fc951a1ca7355918023d7550e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/design-questionnaires.fd2a8e8b90ea8d7fc951a1ca7355918023d7550e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14543,7 +14543,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [distribute-questionnaires.82037092d49a6ba4b16629dd5264982c8d3694b6.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/distribute-questionnaires.82037092d49a6ba4b16629dd5264982c8d3694b6.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14557,7 +14557,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [evaluate-questionnaire-results.1f3a13b24229777fc4194bcba2989446a9ef66d6.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/evaluate-questionnaire-results.1f3a13b24229777fc4194bcba2989446a9ef66d6.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14571,7 +14571,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [banner.ff5170bbaf2ffc1afc8f1ec885ae42a4df20ee6b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/premium/banner.ff5170bbaf2ffc1afc8f1ec885ae42a4df20ee6b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14585,7 +14585,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.b7185970df05b8705ca4e77a96476ae4b89bab86.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/premium/index.b7185970df05b8705ca4e77a96476ae4b89bab86.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14599,7 +14599,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [loan-items.cc0fed4ec20c3e16b9c1128aa4ad268fd82b43c3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/loan-items.cc0fed4ec20c3e16b9c1128aa4ad268fd82b43c3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14613,7 +14613,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [noam-usa-benefit-accrual-plan-tasks.c1ddb0c4d40c4b5699a1377f4f2f40785237fda1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/noam-usa-benefit-accrual-plan-tasks.c1ddb0c4d40c4b5699a1377f4f2f40785237fda1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14627,7 +14627,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [noam-usa-benefit-set-up-tasks.73612f71580605db84fc4863ce129c2205c4f27a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/noam-usa-benefit-set-up-tasks.73612f71580605db84fc4863ce129c2205c4f27a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14641,7 +14641,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [noam-usa-comply-ada.8bd4ce5f30963004cc320b71a38902c692401006.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/noam-usa-comply-ada.8bd4ce5f30963004cc320b71a38902c692401006.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14655,7 +14655,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [noam-usa-earning-code-group-tasks.83071aef186f52c186b6089a7c6591148b7cc1bf.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/noam-usa-earning-code-group-tasks.83071aef186f52c186b6089a7c6591148b7cc1bf.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14669,7 +14669,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [noam-usa-earnings-generation-process.2d2eb7ac92918be9534e724d247d53b47f875f5e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/noam-usa-earnings-generation-process.2d2eb7ac92918be9534e724d247d53b47f875f5e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14683,7 +14683,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [noam-usa-existing-earnings.49569fa9b28aadce84b2aadc76d099da12570f5a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/noam-usa-existing-earnings.49569fa9b28aadce84b2aadc76d099da12570f5a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14697,7 +14697,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [noam-usa-existing-payroll-payments.bb8e96dae03a26dded42653c25c036ebf5a829ad.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/noam-usa-existing-payroll-payments.bb8e96dae03a26dded42653c25c036ebf5a829ad.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14711,7 +14711,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [noam-usa-form-i-9-verification.d8c0477b47de5092e2a14abec9c240776a2f63f7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/noam-usa-form-i-9-verification.d8c0477b47de5092e2a14abec9c240776a2f63f7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14725,7 +14725,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [noam-usa-garnishment-tax-levy-administrative-fees.cae2d5403e22936cc9f38db032ad72fca4d74383.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/noam-usa-garnishment-tax-levy-administrative-fees.cae2d5403e22936cc9f38db032ad72fca4d74383.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14739,7 +14739,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [noam-usa-garnishment-tax-levy-enrollment-tasks.7e6611487f3b5b118409b627b425153cd678de5d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/noam-usa-garnishment-tax-levy-enrollment-tasks.7e6611487f3b5b118409b627b425153cd678de5d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14753,7 +14753,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [noam-usa-garnishment-tax-levy-set-up-tasks.70bb5191dc206430a560e56865dfcca3151c668f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/noam-usa-garnishment-tax-levy-set-up-tasks.70bb5191dc206430a560e56865dfcca3151c668f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14767,7 +14767,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [noam-usa-generate-earnings.df69144d2ec3c468881a11e2bfd137404068db4a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/noam-usa-generate-earnings.df69144d2ec3c468881a11e2bfd137404068db4a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14781,7 +14781,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [noam-usa-generate-payroll-reports.c119b52e73a14ebcf84f7c7a7d3e2f4f597bfa8b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/noam-usa-generate-payroll-reports.c119b52e73a14ebcf84f7c7a7d3e2f4f597bfa8b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14795,7 +14795,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [noam-usa-issue-worker-payments.02e0d0b23ca6f862fa312bcee5f6e70120466179.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/noam-usa-issue-worker-payments.02e0d0b23ca6f862fa312bcee5f6e70120466179.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14809,7 +14809,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [noam-usa-pay-cycle-pay-period-tasks-sample.6b6f8766c70b3367508064720e4c367f788e8f90.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/noam-usa-pay-cycle-pay-period-tasks-sample.6b6f8766c70b3367508064720e4c367f788e8f90.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14823,7 +14823,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [noam-usa-payroll.6c6689b30192fc77add3249d40f34b56a1bb2c0f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/noam-usa-payroll.6c6689b30192fc77add3249d40f34b56a1bb2c0f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14837,7 +14837,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [noam-usa-payroll-calculation-frequencies-tasks.097d8c1be4066176e68b6917625ad2e607b0c428.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/noam-usa-payroll-calculation-frequencies-tasks.097d8c1be4066176e68b6917625ad2e607b0c428.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14851,7 +14851,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [noam-usa-payroll-data-updates.b3b397ea4b9533c0399a9f20f396d58858f2c9ac.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/noam-usa-payroll-data-updates.b3b397ea4b9533c0399a9f20f396d58858f2c9ac.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14865,7 +14865,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [noam-usa-pay-statements.b36e136a16a27763c28dfde5b65e3d8438152864.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/noam-usa-pay-statements.b36e136a16a27763c28dfde5b65e3d8438152864.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14879,7 +14879,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [noam-usa-pay-statements-payment-generation-process.e4c5d929ff1af16dc7c370abf7ad1038ab846411.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/noam-usa-pay-statements-payment-generation-process.e4c5d929ff1af16dc7c370abf7ad1038ab846411.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14893,7 +14893,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [noam-usa-post-payroll-generate-vendor-invoices.6904f8d465a64f85ee4f330fb2f35c2ea92a9f05.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/noam-usa-post-payroll-generate-vendor-invoices.6904f8d465a64f85ee4f330fb2f35c2ea92a9f05.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14907,7 +14907,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [noam-usa-premium-earning-setup-tasks.3d9cb9b5503407dd330f525aa06cd261f7867acb.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/noam-usa-premium-earning-setup-tasks.3d9cb9b5503407dd330f525aa06cd261f7867acb.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14921,7 +14921,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [noam-usa-tax-codes-tax-groups-definitions.198159f44c2c2466fe12c18c704482f1414f65c8.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/noam-usa-tax-codes-tax-groups-definitions.198159f44c2c2466fe12c18c704482f1414f65c8.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14935,7 +14935,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [noam-usa-tax-information-tasks.5b8b5b6b91d1e29f5c01ed5a801997c8870e8714.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/noam-usa-tax-information-tasks.5b8b5b6b91d1e29f5c01ed5a801997c8870e8714.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14949,7 +14949,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [noam-usa-work-cycle-work-period-tasks.095f6818bd7ee7ebf3370c807f573ac98ff05fc2.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/noam-usa-work-cycle-work-period-tasks.095f6818bd7ee7ebf3370c807f573ac98ff05fc2.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14963,7 +14963,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [noam-usa-worker-position-payroll-tasks.333a47776057b37b54be5d7a898e4055e54494c2.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/noam-usa-worker-position-payroll-tasks.333a47776057b37b54be5d7a898e4055e54494c2.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14977,7 +14977,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [noam-usa-work-schedule-leave-tasks.99a863d1885a265f0a2fa90a8443f8b798a61c90.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/noam-usa-work-schedule-leave-tasks.99a863d1885a265f0a2fa90a8443f8b798a61c90.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -14991,7 +14991,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [manage-benefit-program.b8da19b768f7ce4c8c699936a76225147936b30e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/manage-benefit-program.b8da19b768f7ce4c8c699936a76225147936b30e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15005,7 +15005,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [manage-recruiting-process.eae70e7b6eac12d2fadddffbc6d8867dc4178ff9.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/manage-recruiting-process.eae70e7b6eac12d2fadddffbc6d8867dc4178ff9.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15019,7 +15019,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [mass-hire-projects.b8fb24ce650b1f4eabc9193c9d19a0cabde07ac5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/mass-hire-projects.b8fb24ce650b1f4eabc9193c9d19a0cabde07ac5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15033,7 +15033,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [performance-management-overview.3cca05153bc9e9ad0e3659dda2df90af0fa1ebc1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/performance-management-overview.3cca05153bc9e9ad0e3659dda2df90af0fa1ebc1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15047,7 +15047,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [questionnaires.f65a842c0556f3a7ca624d6b509ec303b76d2f61.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/questionnaires.f65a842c0556f3a7ca624d6b509ec303b76d2f61.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15061,7 +15061,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-up-company-specific-hr-parameters.e4c81fc59b4e1d58bdfa1eeca3bc2ba5b65fa23b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/set-up-company-specific-hr-parameters.e4c81fc59b4e1d58bdfa1eeca3bc2ba5b65fa23b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15075,7 +15075,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-up-hr-parameters-across-legal-entities.1a5aca2d65f26f46dd26c31be61f22c3d993be9b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/set-up-hr-parameters-across-legal-entities.1a5aca2d65f26f46dd26c31be61f22c3d993be9b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15089,7 +15089,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [skills.4e6cab5518067fa92f8ef68d2dfb7e538e2e5ce5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/skills.4e6cab5518067fa92f8ef68d2dfb7e538e2e5ce5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15103,7 +15103,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [TOC.70f1ba7b44aef34d474bfc479411fe49ad0b5821.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/premium/TOC.70f1ba7b44aef34d474bfc479411fe49ad0b5821.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15117,7 +15117,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [workflow-manage-employee-information.11bc19fe7905c25639b1eb4e553d830996b7267d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/workflow-manage-employee-information.11bc19fe7905c25639b1eb4e553d830996b7267d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15131,7 +15131,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [add-recommendations-control-pos-screen.81804f86d17e5b1215eb018ce06d726562e1e9e7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/add-recommendations-control-pos-screen.81804f86d17e5b1215eb018ce06d726562e1e9e7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15145,7 +15145,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [analyze-sales-trends-patterns.dd678039910cf44fe3fc35d3f4ea7119efc3729f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/analyze-sales-trends-patterns.dd678039910cf44fe3fc35d3f4ea7119efc3729f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15159,7 +15159,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [assess-customer-product-profitability.2a3c7b8b70205aed5cae6ac14ead75fc80fe3fe5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/assess-customer-product-profitability.2a3c7b8b70205aed5cae6ac14ead75fc80fe3fe5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15173,7 +15173,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [call-center-catalogs.3a4638691cfed2755813d86a1999a36ed2862454.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/call-center-catalogs.3a4638691cfed2755813d86a1999a36ed2862454.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15187,7 +15187,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [call-center-functionality.6ed3e427f73b7344ceee711f303ffd11fe29c900.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/call-center-functionality.6ed3e427f73b7344ceee711f303ffd11fe29c900.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15201,7 +15201,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [commerce-essentials.c24cafe065e51d13676ea67f7e4008841990d958.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/commerce-essentials.c24cafe065e51d13676ea67f7e4008841990d958.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15215,7 +15215,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-call-center-catalogs.a0225c3797ab043597aa75b94b1ee35a318cce9f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/create-call-center-catalogs.a0225c3797ab043597aa75b94b1ee35a318cce9f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15229,7 +15229,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-manage-attributes.872aeebd3baf4e630f80fdc2cf33ee756333058f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/create-manage-attributes.872aeebd3baf4e630f80fdc2cf33ee756333058f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15243,7 +15243,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [customer-orders-overview.5365304fdd889e552d3a19abf8965b3088b8a586.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/customer-orders-overview.5365304fdd889e552d3a19abf8965b3088b8a586.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15257,7 +15257,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [define-channel-specific-discounts.bf3a65330f583e238600a22109780047d2af1ebe.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/define-channel-specific-discounts.bf3a65330f583e238600a22109780047d2af1ebe.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15271,7 +15271,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [define-maintain-channel-clients-registers-hw-stations.76a41d94b8699c78559508f6e5a4b8563ee6d8ab.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/define-maintain-channel-clients-registers-hw-stations.76a41d94b8699c78559508f6e5a4b8563ee6d8ab.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15285,7 +15285,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [define-maintain-retail-channels.176096bed2b678b0b38249ec2c5beb391606a07d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/define-maintain-retail-channels.176096bed2b678b0b38249ec2c5beb391606a07d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15299,7 +15299,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [add-customer-preference-channel.d0088ac5e1ea65e5fca18938fc489daf8a3a0f2f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/add-customer-preference-channel.d0088ac5e1ea65e5fca18938fc489daf8a3a0f2f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15313,7 +15313,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [add-extension-properties.e8a3fe953d1761bbace37f4df7b8d41c1e986fdf.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/add-extension-properties.e8a3fe953d1761bbace37f4df7b8d41c1e986fdf.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15327,7 +15327,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [add-new-custom-control-mpos-screen-layout.829d5f9aaa041e1c4f1be1b500869a55922870db.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/add-new-custom-control-mpos-screen-layout.829d5f9aaa041e1c4f1be1b500869a55922870db.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15341,7 +15341,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [add-properties-sales-order.060d0f47ccbcd7ae04df093b3b64ff11fd297f16.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/add-properties-sales-order.060d0f47ccbcd7ae04df093b3b64ff11fd297f16.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15355,7 +15355,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [call-crt-service-offline.24ee8f11ee32fe6c88d90334c52026b27bfafb82.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/call-crt-service-offline.24ee8f11ee32fe6c88d90334c52026b27bfafb82.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15369,7 +15369,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [commerce-runtime-extensibility.6de42feaf574f09bd884cb3b7c8a259e064a159b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/commerce-runtime-extensibility.6de42feaf574f09bd884cb3b7c8a259e064a159b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15383,7 +15383,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [commerce-runtime-extensibility-trigger.d65bc790b1c82d3b9086b5694aa10efb79584cac.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/commerce-runtime-extensibility-trigger.d65bc790b1c82d3b9086b5694aa10efb79584cac.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15397,7 +15397,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [commerce-runtime-overview.c7a858df5babf7ee7174ad0d04eb3fbd35a89f66.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/commerce-runtime-overview.c7a858df5babf7ee7174ad0d04eb3fbd35a89f66.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15411,7 +15411,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [configure-authentication-providers.facf2334da0e8b2d56db8e4491b0cc9d291dbf03.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/configure-authentication-providers.facf2334da0e8b2d56db8e4491b0cc9d291dbf03.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15425,7 +15425,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [configure-online-store.51cba27a9e3267c613a14e216d3efe56397fd9ad.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/configure-online-store.51cba27a9e3267c613a14e216d3efe56397fd9ad.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15439,7 +15439,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-retail-experience-app.fc677f844075054ab0c1619e80f611481d7f6886.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/create-retail-experience-app.fc677f844075054ab0c1619e80f611481d7f6886.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15453,7 +15453,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-windows-installer-payment-connector.ebc6a2bd41bc2c4e0bbd9022575da59afaf60a89.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/create-windows-installer-payment-connector.ebc6a2bd41bc2c4e0bbd9022575da59afaf60a89.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15467,7 +15467,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [define-retail-channel-communications-cdx.ce25f5f9f01a728fff4ef8e644bcdeeb12ac72f3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/define-retail-channel-communications-cdx.ce25f5f9f01a728fff4ef8e644bcdeeb12ac72f3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15481,7 +15481,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [deploy-payment-connector.51f32c14411a37d71a51def418d0a951dfbf9420.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/deploy-payment-connector.51f32c14411a37d71a51def418d0a951dfbf9420.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15495,7 +15495,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [dev-retail-home-page.aecc92bab9d88f2be649c65c1521af921a5daa4a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/dev-retail-home-page.aecc92bab9d88f2be649c65c1521af921a5daa4a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15509,7 +15509,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [ecommerce-platform.097b7e0220f69a46218739f68e1c5e6ffc0138aa.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/ecommerce-platform.097b7e0220f69a46218739f68e1c5e6ffc0138aa.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15523,7 +15523,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [ecommerce-platform-sdk.279ed2917d9c399218cfc108c2b66b01e10c591e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/ecommerce-platform-sdk.279ed2917d9c399218cfc108c2b66b01e10c591e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15537,7 +15537,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [extend-commerce-data-exchange.84588a78c345d7f5b3f171e9d863c2b69af9f4bd.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/extend-commerce-data-exchange.84588a78c345d7f5b3f171e9d863c2b69af9f4bd.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15551,7 +15551,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [extend-metadata.90ddd36f8a5afe20ce39be1d33f55af5fb62aca1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/extend-metadata.90ddd36f8a5afe20ce39be1d33f55af5fb62aca1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15565,7 +15565,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [extend-retail-server-odata-controller.167481424daf11505613d4f1d435655d2b318183.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/extend-retail-server-odata-controller.167481424daf11505613d4f1d435655d2b318183.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15579,7 +15579,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#b9f109aca4f3580306ac130a2cc100f956feea743256handoff_transform_failed)
@@ -15594,7 +15594,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [install-retail-hotfix.9c779fc6cd10f879ae16f5da28e7dab24ef07d5b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/install-retail-hotfix.9c779fc6cd10f879ae16f5da28e7dab24ef07d5b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15608,7 +15608,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [modern-pos-trigger-extensibility.2800c67446ec8f614a34630b13b4483033235af8.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/modern-pos-trigger-extensibility.2800c67446ec8f614a34630b13b4483033235af8.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15622,7 +15622,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [odata-controllers-api.c93ca292480e94b8c7483b3795c7a70e23b41626.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/odata-controllers-api.c93ca292480e94b8c7483b3795c7a70e23b41626.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15636,7 +15636,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [provision-dev-vm.459571c60f627cf3b31cef703bc626f363dd437e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/provision-dev-vm.459571c60f627cf3b31cef703bc626f363dd437e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15650,7 +15650,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [retail-component-events-diagnostics-troubleshooting.f53f33768ebd428438ac28a91bf8fdc5cf0fe91c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/retail-component-events-diagnostics-troubleshooting.f53f33768ebd428438ac28a91bf8fdc5cf0fe91c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15664,7 +15664,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [retail-device-activation.244595b3d5bcd5f455824c0f2065cab18567b88a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/retail-device-activation.244595b3d5bcd5f455824c0f2065cab18567b88a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15678,7 +15678,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [retail-modern-pos-architecture.b141220c7083b30552e22e4b7aa5b5d19eb97417.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/retail-modern-pos-architecture.b141220c7083b30552e22e4b7aa5b5d19eb97417.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15692,7 +15692,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [retail-modern-pos-offline.e963dad111005d7dcf5b5f638e644d97fe145e8c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/retail-modern-pos-offline.e963dad111005d7dcf5b5f638e644d97fe145e8c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15706,7 +15706,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [retail-online-store-publishing-architecture.ec7a8cb3c5653fe940f308d6e5e27071d2970fc5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/retail-online-store-publishing-architecture.ec7a8cb3c5653fe940f308d6e5e27071d2970fc5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15720,7 +15720,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [integrate-retail-sdk-continuous-build.31af8b94f041ad25f202159953dc3691ba0e8d59.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/integrate-retail-sdk-continuous-build.31af8b94f041ad25f202159953dc3691ba0e8d59.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15734,7 +15734,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [retail-sdk-extensibility-samples.ee86cc1544b30ae1988a3c29860a067f01e700c1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/retail-sdk-extensibility-samples.ee86cc1544b30ae1988a3c29860a067f01e700c1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15748,7 +15748,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [retail-sdk-overview.656243bdfbb28808232f3ac27efe3d6b2f7378b0.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/retail-sdk-overview.656243bdfbb28808232f3ac27efe3d6b2f7378b0.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15762,7 +15762,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [retail-sdk-packaging.949158ac480efe2414855a0479819840240bbe09.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/retail-sdk-packaging.949158ac480efe2414855a0479819840240bbe09.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15776,7 +15776,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [retail-sdk-samples.1e39b4433cd0fb79ff23eb292b27c527d7bba539.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/retail-sdk-samples.1e39b4433cd0fb79ff23eb292b27c527d7bba539.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15790,7 +15790,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [retail-server-architecture.17f03bf6e979f82349cf4c0e2ad59969f575a6af.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/retail-server-architecture.17f03bf6e979f82349cf4c0e2ad59969f575a6af.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15804,7 +15804,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [retail-server-customer-consumer-api.18fc169c1c1cc23071554055870b89d4f21364f4.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/retail-server-customer-consumer-api.18fc169c1c1cc23071554055870b89d4f21364f4.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15818,7 +15818,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [retail-store-scale-unit-configuration-installation.44ef173c02df1c230b91a09924f3ed9d67eb2650.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/retail-store-scale-unit-configuration-installation.44ef173c02df1c230b91a09924f3ed9d67eb2650.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15832,7 +15832,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [retail-store-system-begin.a65ae389471cd1626cd97f2a3db96a81711eceac.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/retail-store-system-begin.a65ae389471cd1626cd97f2a3db96a81711eceac.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15846,7 +15846,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [secure-retail-cloud-pos.f9326173db1d28a6d1f7283b111c0e105dcf279c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/secure-retail-cloud-pos.f9326173db1d28a6d1f7283b111c0e105dcf279c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15860,7 +15860,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#4b84e3f64eceb0c017e2141a7540ba7940e7decb3422handoff_transform_failed)
@@ -15875,7 +15875,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [trigger-example-blocking-transaction.765e5d8671f162e20e5c67934161c965744d998f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/trigger-example-blocking-transaction.765e5d8671f162e20e5c67934161c965744d998f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15889,7 +15889,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [trigger-example-return-policy.571e6b863a65ef3f94e8a66fae3da5503a679879.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/trigger-example-return-policy.571e6b863a65ef3f94e8a66fae3da5503a679879.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15903,7 +15903,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [email-receipts.2d4652d0ae9eb76b571e4bf4827ca21baf682052.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/email-receipts.2d4652d0ae9eb76b571e4bf4827ca21baf682052.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15917,7 +15917,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [enable-configure-retail-functionality.f60d4fa9b05c9d6d2ec48ed918b6d86f5e0ed735.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/enable-configure-retail-functionality.f60d4fa9b05c9d6d2ec48ed918b6d86f5e0ed735.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15931,7 +15931,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [extended-logon.8b337311372dd1ea525d08bdd6e6d0bb31601df9.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/extended-logon.8b337311372dd1ea525d08bdd6e6d0bb31601df9.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15945,7 +15945,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [hybrid-customer-orders.626442aa55d66ad9ce298fc6b338e43b2e8b9859.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/hybrid-customer-orders.626442aa55d66ad9ce298fc6b338e43b2e8b9859.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15959,7 +15959,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [banner.ff5170bbaf2ffc1afc8f1ec885ae42a4df20ee6b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/premium/banner.ff5170bbaf2ffc1afc8f1ec885ae42a4df20ee6b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15973,7 +15973,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.b824957e70e2b5355c8b5d0c6ef1ab8d441a30a6.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/premium/index.b824957e70e2b5355c8b5d0c6ef1ab8d441a30a6.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -15987,7 +15987,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [info-codes-retail.59d1b41662b0f4b5e2e860fd9fd1789b977ec0c1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/info-codes-retail.59d1b41662b0f4b5e2e860fd9fd1789b977ec0c1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16001,7 +16001,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [install-pos-layout-designer.0bcac33b00eb0e457ba498c30e036b195f99e85d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/install-pos-layout-designer.0bcac33b00eb0e457ba498c30e036b195f99e85d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16015,7 +16015,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [microsoft-tested-pos-hardware-peripherals.c05387a9d571ef7746bc5cbaa57267ee8225c4a2.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/microsoft-tested-pos-hardware-peripherals.c05387a9d571ef7746bc5cbaa57267ee8225c4a2.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16029,7 +16029,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [monitor-sales-margin-performance.dad03ca9012eb2c18aeb619aa00f4fc68e454098.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/monitor-sales-margin-performance.dad03ca9012eb2c18aeb619aa00f4fc68e454098.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16043,7 +16043,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [online-stores.3ea456b550b1604ac6a46a2a6703a7f14e9afe4b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/online-stores.3ea456b550b1604ac6a46a2a6703a7f14e9afe4b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16057,7 +16057,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [optimal-combination-overlapping-discounts.2746e37aa76da5e645358eb34e4a779b06af64c5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/optimal-combination-overlapping-discounts.2746e37aa76da5e645358eb34e4a779b06af64c5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16071,7 +16071,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [organizational-hierarchies-commerce-essentials.95bc744cd829d0cbe39ff98994d44e592980c800.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/organizational-hierarchies-commerce-essentials.95bc744cd829d0cbe39ff98994d44e592980c800.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16085,7 +16085,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [payment-methods.ebc19bbc4c61a94e49ceeaad4f5e241f333aa348.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/payment-methods.ebc19bbc4c61a94e49ceeaad4f5e241f333aa348.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16099,7 +16099,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [personalized-product-recommendations.9541a383310c8141e0f1c7a661acfe5617afe655.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/personalized-product-recommendations.9541a383310c8141e0f1c7a661acfe5617afe655.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16113,7 +16113,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [pos-application-user-language-settings.ebf7092160739ad35974669e954fd1b6870ac6c1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/pos-application-user-language-settings.ebf7092160739ad35974669e954fd1b6870ac6c1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16127,7 +16127,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [pos-offline-functionality.cb1e8b869245812a11b7239b3de35cabeeea1f54.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/pos-offline-functionality.cb1e8b869245812a11b7239b3de35cabeeea1f54.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16141,7 +16141,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [pos-sales-groups-track-commissions.87bd3253a4048e0e2a3a164a8a78379607e8088e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/pos-sales-groups-track-commissions.87bd3253a4048e0e2a3a164a8a78379607e8088e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16155,7 +16155,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [pos-screen-layouts.7e57faf28d87131db8e3f82ec5909dcb8bf19a6a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/pos-screen-layouts.7e57faf28d87131db8e3f82ec5909dcb8bf19a6a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16169,7 +16169,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [price-adjustments-discounts.e5c8b77c48b2dbd24b4b8755a639c2b7571991be.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/price-adjustments-discounts.e5c8b77c48b2dbd24b4b8755a639c2b7571991be.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16183,7 +16183,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [receipt-templates-printing.7029639b6d43ce8ffdf585d40a236e174f1e8f70.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/receipt-templates-printing.7029639b6d43ce8ffdf585d40a236e174f1e8f70.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16197,7 +16197,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [retail-components.3b0f7e339d3f7a4c335bf43b853c36748865ad39.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/retail-components.3b0f7e339d3f7a4c335bf43b853c36748865ad39.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16211,7 +16211,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [retail-hardware-station-configuration-installation.79fd53bff49d826eaeaa949f906798b09dfa0707.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/retail-hardware-station-configuration-installation.79fd53bff49d826eaeaa949f906798b09dfa0707.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16225,7 +16225,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [retail-hierarchies.bfc771a5a1bd56eea9d2f807d5a19dda407c2fb6.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/retail-hierarchies.bfc771a5a1bd56eea9d2f807d5a19dda407c2fb6.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16239,7 +16239,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [retail-modern-pos-device-activation.4176a0512f5220e816973ca29c465f1c1a288c49.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/retail-modern-pos-device-activation.4176a0512f5220e816973ca29c465f1c1a288c49.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16253,7 +16253,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [retail-peripheral-simulator.360dc97d386d4ecef96ab7f53e21abc463b19c30.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/retail-peripheral-simulator.360dc97d386d4ecef96ab7f53e21abc463b19c30.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16267,7 +16267,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [retail-peripherals-overview.0be022b387792598676e60c1243ed2a319ec8741.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/retail-peripherals-overview.0be022b387792598676e60c1243ed2a319ec8741.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16281,7 +16281,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [retail-time-attendance.668abfa716486e8f62d9b8c17b670bf659f582aa.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/retail-time-attendance.668abfa716486e8f62d9b8c17b670bf659f582aa.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16295,7 +16295,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [sales-performance-products.060a5e357a72b16ea0cc5e1f4cb104778e2fe986.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/sales-performance-products.060a5e357a72b16ea0cc5e1f4cb104778e2fe986.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16309,7 +16309,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-up-activation-accounts-validate-devices-hq.3cbab9718df639f50d0e75e80e4995be210e1c73.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/set-up-activation-accounts-validate-devices-hq.3cbab9718df639f50d0e75e80e4995be210e1c73.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16323,7 +16323,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-up-assortments.818f0373c08b94df6ba2e9da06f841974ec6c9e5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/set-up-assortments.818f0373c08b94df6ba2e9da06f841974ec6c9e5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16337,7 +16337,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-up-bar-code-masks.4cb9beb273e3a554985e45d73097efc484f255b9.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/set-up-bar-code-masks.4cb9beb273e3a554985e45d73097efc484f255b9.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16351,7 +16351,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-up-bar-codes.43d8f9422f8d254d1ef0bfaaee6f2929b976f20c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/set-up-bar-codes.43d8f9422f8d254d1ef0bfaaee6f2929b976f20c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16365,7 +16365,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-up-continuity-program.827ba8f1ecfe227824b787155434aace549c473b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/set-up-continuity-program.827ba8f1ecfe227824b787155434aace549c473b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16379,7 +16379,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-up-customer-loyalty-program.9928cb798556e53a937e8188d8a4294c1b03b4bb.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/set-up-customer-loyalty-program.9928cb798556e53a937e8188d8a4294c1b03b4bb.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16393,7 +16393,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-up-fraud-alerts.b886722d8cc4333dff351e2a6f6a730cebb5f773.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/set-up-fraud-alerts.b886722d8cc4333dff351e2a6f6a730cebb5f773.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16407,7 +16407,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-up-manage-images-retail-mpos.7879fd43f2f6ee0ef28df51aa314dfe3dc9f504b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/set-up-manage-images-retail-mpos.7879fd43f2f6ee0ef28df51aa314dfe3dc9f504b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16421,7 +16421,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-up-order-processing-options.8b7faf681f20283c69e99e71bd3ee66d5d6e8dbd.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/set-up-order-processing-options.8b7faf681f20283c69e99e71bd3ee66d5d6e8dbd.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16435,7 +16435,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-up-retail-products.61461f9be5e6a2a94b367d0c7e3ada6083b3acf8.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/set-up-retail-products.61461f9be5e6a2a94b367d0c7e3ada6083b3acf8.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16449,7 +16449,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-up-rfm-analysis.b9f51ccbb4569b7e5dd8c5afdf4c6ed2f2434eed.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/set-up-rfm-analysis.b9f51ccbb4569b7e5dd8c5afdf4c6ed2f2434eed.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16463,7 +16463,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [shift-drawer-management.15d4a61eb22417c4cd3812671746d9c8e6657235.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/shift-drawer-management.15d4a61eb22417c4cd3812671746d9c8e6657235.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16477,7 +16477,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [store-performance-information.0f6f4db6dd79570779eeda7ffb8e739e0fa24419.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/store-performance-information.0f6f4db6dd79570779eeda7ffb8e739e0fa24419.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16491,7 +16491,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [task-recorder-retail-pos.5554a4967cd01de27b21812285285bc8b28a2a26.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/task-recorder-retail-pos.5554a4967cd01de27b21812285285bc8b28a2a26.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16505,7 +16505,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [TOC.9ee4e534c65b6bdce0d8fb2b073c617379b2d75c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/premium/TOC.9ee4e534c65b6bdce0d8fb2b073c617379b2d75c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16519,7 +16519,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [work-with-order-holds.39fa37cae0ebdd653668aeaef72a39c5c083b419.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/work-with-order-holds.39fa37cae0ebdd653668aeaef72a39c5c083b419.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16533,7 +16533,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [work-with-payments.46282f2959a88aceee6c16e8dda732b215589468.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/work-with-payments.46282f2959a88aceee6c16e8dda732b215589468.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16547,7 +16547,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [work-with-store-inventory.4101490f52116423ed865b29013643d2d313c0d8.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/work-with-store-inventory.4101490f52116423ed865b29013643d2d313c0d8.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16561,7 +16561,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [adjust-hand-inventory-cost-values.f70237871b7b268574daf4557c82797bc0759c16.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/adjust-hand-inventory-cost-values.f70237871b7b268574daf4557c82797bc0759c16.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16575,7 +16575,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [amortize-constant-costs-manufactured-item.d9b624a661dd7ae5e3f22e7b0290e8958d59ff42.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/amortize-constant-costs-manufactured-item.d9b624a661dd7ae5e3f22e7b0290e8958d59ff42.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16589,7 +16589,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [backflush-costing.2ef1d321821a11a74e4866c87f8651e3deebf3f8.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/backflush-costing.2ef1d321821a11a74e4866c87f8651e3deebf3f8.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16603,7 +16603,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [bom-calculation-groups.6a8015f24bc1d6532339d14c4b7f11526e1b9fa6.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/bom-calculation-groups.6a8015f24bc1d6532339d14c4b7f11526e1b9fa6.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16617,7 +16617,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [bom-calculations.e6490efc35726b127eeba5c15f025db42626b861.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/bom-calculations.e6490efc35726b127eeba5c15f025db42626b861.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16631,7 +16631,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [charges-manufactured-item.230c8c7d7e4bebca4c631e9670e2b55fc21444b2.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/charges-manufactured-item.230c8c7d7e4bebca4c631e9670e2b55fc21444b2.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16645,7 +16645,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [common-sources-of-production-variances.c10a6d7d2d701ad208eaf6e75e340065390c5425.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/common-sources-of-production-variances.c10a6d7d2d701ad208eaf6e75e340065390c5425.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16659,7 +16659,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [cost-categories-used-production-control-project-management-accounting.588598eb745034cbec53b1457d4164c66f66b8c1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/cost-categories-used-production-control-project-management-accounting.588598eb745034cbec53b1457d4164c66f66b8c1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16673,7 +16673,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [cost-categories-used-production-routings.e2d8b1514cc145610f83e26c4adaee3bcd25f272.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/cost-categories-used-production-routings.e2d8b1514cc145610f83e26c4adaee3bcd25f272.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16687,7 +16687,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [cost-entries.e9e14186d0696b9be47d5056ea6e8db222878b1e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/cost-entries.e9e14186d0696b9be47d5056ea6e8db222878b1e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16701,7 +16701,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [cost-groups.0d7b87df0cc7870a38c466824cba0ecf7052698b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/cost-groups.0d7b87df0cc7870a38c466824cba0ecf7052698b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16715,7 +16715,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [costing-sheets.916d0f3801545c92339d5679c283223755cc95af.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/costing-sheets.916d0f3801545c92339d5679c283223755cc95af.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16729,7 +16729,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [costing-versions.1b5504788bb2b79039ed77d492afe4507a8198f2.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/costing-versions.1b5504788bb2b79039ed77d492afe4507a8198f2.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16743,7 +16743,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [cost-object.05b6978fa290d4da864fbf88a84efdea27f15a4f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/cost-object.05b6978fa290d4da864fbf88a84efdea27f15a4f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16757,7 +16757,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [fifo-physical-value-marking.800c6babc930936a2c3074ac42bf0d8acef5851b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/fifo-physical-value-marking.800c6babc930936a2c3074ac42bf0d8acef5851b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16771,7 +16771,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [include-physical-value.991c5561a19954bc75c22f3054b347cf92d295a8.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/include-physical-value.991c5561a19954bc75c22f3054b347cf92d295a8.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16785,7 +16785,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [information-used-bom-calculations-standard-costs.a398164cdaac92bd74d2b6143b8ff62a14412f69.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/information-used-bom-calculations-standard-costs.a398164cdaac92bd74d2b6143b8ff62a14412f69.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16799,7 +16799,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [inventory-close.f8e43df505e77d67a5b81a9eb8ecda0f8c1c4718.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/inventory-close.f8e43df505e77d67a5b81a9eb8ecda0f8c1c4718.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16813,7 +16813,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [lifo-date-physical-value-marking.f680b1c0b6cd3c26fbbbeefe3c0f114abd23e6c0.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/lifo-date-physical-value-marking.f680b1c0b6cd3c26fbbbeefe3c0f114abd23e6c0.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16827,7 +16827,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [lifo-physical-value-marking.46caecd783f7fd32b27e043a1fb40cb7b9598335.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/lifo-physical-value-marking.46caecd783f7fd32b27e043a1fb40cb7b9598335.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16841,7 +16841,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [manage-standard-cost-updates.7168e6ffe86e7fad084b9d9c7ad9eb74bff23ce9.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/manage-standard-cost-updates.7168e6ffe86e7fad084b9d9c7ad9eb74bff23ce9.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16855,7 +16855,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [manufactured-items-treated-as-purchased-items.cc8486f6125c7330a2e8952d37374b587876edb7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/manufactured-items-treated-as-purchased-items.cc8486f6125c7330a2e8952d37374b587876edb7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16869,7 +16869,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [methodology-total-cost-allocation.ba25e7571364654221d5de6eefc8bba8a36a2b24.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/methodology-total-cost-allocation.ba25e7571364654221d5de6eefc8bba8a36a2b24.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16883,7 +16883,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [moving-average.3d20f5641bdbbc02708d7d063e12f3cd1cb14b22.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/moving-average.3d20f5641bdbbc02708d7d063e12f3cd1cb14b22.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16897,7 +16897,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [physical-financial-updates.9c7cc98c8050cec691d73ed8d354a49deee33f9c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/physical-financial-updates.9c7cc98c8050cec691d73ed8d354a49deee33f9c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16911,7 +16911,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [physical-quantity.40a41f5a3d18e4f12ff7792e5649b9a147dbbee4.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/physical-quantity.40a41f5a3d18e4f12ff7792e5649b9a147dbbee4.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16925,7 +16925,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [prerequisites-standard-cost-conversion.3cd5b4e1001f456656b877997d22f8f54f7ca20a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/prerequisites-standard-cost-conversion.3cd5b4e1001f456656b877997d22f8f54f7ca20a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16939,7 +16939,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [production-order-cost-analysis.a428935148331adbc97214fe54588f1bc74b9053.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/production-order-cost-analysis.a428935148331adbc97214fe54588f1bc74b9053.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16953,7 +16953,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [production-order-cost-estimation.0d5c46868a87b3ea25827092405624d380b7d40f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/production-order-cost-estimation.0d5c46868a87b3ea25827092405624d380b7d40f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16967,7 +16967,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [production-posting.ea2670ce4f785eda126a78e96c45e5faa40697ce.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/production-posting.ea2670ce4f785eda126a78e96c45e5faa40697ce.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16981,7 +16981,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [running-average-cost-price.40f926c2b6aef20e32aa560e25ac99bd6667bfe3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/running-average-cost-price.40f926c2b6aef20e32aa560e25ac99bd6667bfe3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -16995,7 +16995,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [simulate-cost-changes-costing-version-planned-costs.f58c1e0c781877b6cc82c8af711ade91eb41339b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/simulate-cost-changes-costing-version-planned-costs.f58c1e0c781877b6cc82c8af711ade91eb41339b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17009,7 +17009,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [standard-cost-conversion-overview.76894c331862cf5930895236bb35b2d62c6a6958.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/standard-cost-conversion-overview.76894c331862cf5930895236bb35b2d62c6a6958.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17023,7 +17023,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [TOC.061caf9844366c2357aeaa90b2775c5a980155b4.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/premium/TOC.061caf9844366c2357aeaa90b2775c5a980155b4.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17037,7 +17037,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [track-running-average-cost-per-inventory-dimension.a859c18c75d80ea9e5381cbfffbd1f66615a85cc.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/track-running-average-cost-per-inventory-dimension.a859c18c75d80ea9e5381cbfffbd1f66615a85cc.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17051,7 +17051,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [update-standard-costs-manufacturing-environment.daec768776e5ee053a5f1324f6360945801d4a76.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/update-standard-costs-manufacturing-environment.daec768776e5ee053a5f1324f6360945801d4a76.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17065,7 +17065,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [update-standard-costs-new-manufactured-item.96eed05989d0bcae8e6d0c736e361210331e7ddb.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/update-standard-costs-new-manufactured-item.96eed05989d0bcae8e6d0c736e361210331e7ddb.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17079,7 +17079,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [update-standard-costs-non-manufacturing-environment.6035efe876b84469250da584b923040add2dfe92.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/update-standard-costs-non-manufacturing-environment.6035efe876b84469250da584b923040add2dfe92.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17093,7 +17093,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [weighted-average-date.12d23d42b5d45212c61be96fb83ee47fb06bbf7c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/weighted-average-date.12d23d42b5d45212c61be96fb83ee47fb06bbf7c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17107,7 +17107,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [weighted-average-physical-value-marking.d81d71bfbd31f25ce88efda3290f9cc365f79acd.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/weighted-average-physical-value-marking.d81d71bfbd31f25ce88efda3290f9cc365f79acd.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17121,7 +17121,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [banner.ff5170bbaf2ffc1afc8f1ec885ae42a4df20ee6b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/premium/banner.ff5170bbaf2ffc1afc8f1ec885ae42a4df20ee6b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17135,7 +17135,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.dc0f10fc720e5f94c8190d85d2a1745dde31309a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/premium/index.dc0f10fc720e5f94c8190d85d2a1745dde31309a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17149,7 +17149,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [arrival-overview.7cc220f0a81056e8deb4f12e714ae057736f2c82.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/arrival-overview.7cc220f0a81056e8deb4f12e714ae057736f2c82.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17163,7 +17163,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [consignment.57373680bfc034ea2bc5e2bf2cc58576ca4a9cf5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/consignment.57373680bfc034ea2bc5e2bf2cc58576ca4a9cf5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17177,7 +17177,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [enable-nonconformance-management.2def5eb2d60314de13e726eb1ae755d76344c67b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/enable-nonconformance-management.2def5eb2d60314de13e726eb1ae755d76344c67b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17191,7 +17191,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [enable-quality-management.1307bc0dafe09349cf57132d99485027eae01cfe.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/enable-quality-management.1307bc0dafe09349cf57132d99485027eae01cfe.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17205,7 +17205,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [inventory-blocking.f323bd607c189aa9960c7c31312b8fcedfc445fc.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/inventory-blocking.f323bd607c189aa9960c7c31312b8fcedfc445fc.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17219,7 +17219,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [inventory-journals.ac14005e3ce70b35eac59fe758fca4609c1bebab.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/inventory-journals.ac14005e3ce70b35eac59fe758fca4609c1bebab.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17233,7 +17233,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [inventory-locations.c52a9482c8727e4ba492451d6c5851a6159d6d6f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/inventory-locations.c52a9482c8727e4ba492451d6c5851a6159d6d6f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17247,7 +17247,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [inventory-on-hand-mobile-workspace.73df66f31c38deb259bc5204987842c93d47e1ff.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/inventory-on-hand-mobile-workspace.73df66f31c38deb259bc5204987842c93d47e1ff.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17261,7 +17261,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [inventory-statuses.3d860325e233af3cb2a5099976cede67110f78ac.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/inventory-statuses.3d860325e233af3cb2a5099976cede67110f78ac.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17275,7 +17275,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [inventory-tag-counting.72932d898fb440d3f7793398884ce990d325252d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/inventory-tag-counting.72932d898fb440d3f7793398884ce990d325252d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17289,7 +17289,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [merge-inventory-batches.fb165e877c33c081779ed3e875f69a0ffe51968b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/merge-inventory-batches.fb165e877c33c081779ed3e875f69a0ffe51968b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17303,7 +17303,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [quality-management-processes.985d55060e4b346939c748b71d8c4e4e89188228.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/quality-management-processes.985d55060e4b346939c748b71d8c4e4e89188228.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17317,7 +17317,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [quarantine-orders.55d093b0304b3f8f35525582d77eb170115d6f0e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/quarantine-orders.55d093b0304b3f8f35525582d77eb170115d6f0e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17331,7 +17331,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [reserve-inventory-quantities.2c82f4ad95b2c6661e91f0ca583fadf0d18e54b0.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/reserve-inventory-quantities.2c82f4ad95b2c6661e91f0ca583fadf0d18e54b0.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17345,7 +17345,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-up-consignment.3e838bca8fd5ddad07907ec448473bf81f14d81b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/set-up-consignment.3e838bca8fd5ddad07907ec448473bf81f14d81b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17359,7 +17359,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [TOC.fcdaa3db4b12ba1743d4413fc0dec4691e59a695.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/premium/TOC.fcdaa3db4b12ba1743d4413fc0dec4691e59a695.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17373,7 +17373,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [trace-items-raw-materials-inventory-production-sales.e68ba64b685a1bb876e4f4fa4e5a8d17546da7fd.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/trace-items-raw-materials-inventory-production-sales.e68ba64b685a1bb876e4f4fa4e5a8d17546da7fd.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17387,7 +17387,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [action-messages.8815d5d04e0a0c052dc7d2ae82e7dbc6cb7142a8.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/action-messages.8815d5d04e0a0c052dc7d2ae82e7dbc6cb7142a8.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17401,7 +17401,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [authorize-adjusted-forecast.f0dbfe09fd82da517e47f7c2f8305c765d241716.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/authorize-adjusted-forecast.f0dbfe09fd82da517e47f7c2f8305c765d241716.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17415,7 +17415,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [coverage-settings.9f9b83f3b2d7f5d0aa0fcba78763c57425806740.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/coverage-settings.9f9b83f3b2d7f5d0aa0fcba78763c57425806740.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17429,7 +17429,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [delays.cb6d34ae5916363515f01f6a282b3f989eb191ea.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/delays.cb6d34ae5916363515f01f6a282b3f989eb191ea.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17443,7 +17443,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [demand-forecasting-setup.f5a025dfdc5b82f2bfd2fb8c648aa76b798b9ac5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/demand-forecasting-setup.f5a025dfdc5b82f2bfd2fb8c648aa76b798b9ac5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17457,7 +17457,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [generate-statistical-baseline-forecast.4c7146b5bd022876d2db562d01ead5699578e014.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/generate-statistical-baseline-forecast.4c7146b5bd022876d2db562d01ead5699578e014.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17471,7 +17471,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [import-historical-data.611e90432bd58d712efae10cff040bc498b0f22e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/import-historical-data.611e90432bd58d712efae10cff040bc498b0f22e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17485,7 +17485,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [introduction-demand-forecasting.60157eae91b39594973bc045b1d3107fdcd316bc.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/introduction-demand-forecasting.60157eae91b39594973bc045b1d3107fdcd316bc.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17499,7 +17499,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [maintain-planned-orders.35265a1f7c6f3296897df0fcd5d613f11f72cfbe.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/maintain-planned-orders.35265a1f7c6f3296897df0fcd5d613f11f72cfbe.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17513,7 +17513,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [manual-adjustments-baseline-forecast.2db437a9a3c9ca40d4b205f7101161397dd47016.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/manual-adjustments-baseline-forecast.2db437a9a3c9ca40d4b205f7101161397dd47016.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17527,7 +17527,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [master-plan-bom-version-determined.1f9ad6aeb71968772e85df1f92f4de9d67cb0401.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/master-plan-bom-version-determined.1f9ad6aeb71968772e85df1f92f4de9d67cb0401.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17541,7 +17541,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [master-plan-explosion-bom-version.74efcc644f7fc811f7423d2b57e6a99a29cbd31c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/master-plan-explosion-bom-version.74efcc644f7fc811f7423d2b57e6a99a29cbd31c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17555,7 +17555,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [master-plan-multisite-functionality.518c916f01247d8271751bbe70ec366fc7d5485d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/master-plan-multisite-functionality.518c916f01247d8271751bbe70ec366fc7d5485d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17569,7 +17569,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [master-plans.c7ce2799e0db9f8812d0a557bd56fd0127dfb6fa.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/master-plans.c7ce2799e0db9f8812d0a557bd56fd0127dfb6fa.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17583,7 +17583,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [master-plan-site-coverage-warehouse-mandatory.bb1e3d32ffbf8c8ec82f8008377196eb0a35f746.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/master-plan-site-coverage-warehouse-mandatory.bb1e3d32ffbf8c8ec82f8008377196eb0a35f746.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17597,7 +17597,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [master-plan-site-coverage-warehouse-not-mandatory.41e5189f8d868c9c2507654e5be5fbb275061731.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/master-plan-site-coverage-warehouse-not-mandatory.41e5189f8d868c9c2507654e5be5fbb275061731.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17611,7 +17611,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [master-plan-site-warehouse-coverage-warehouse-mandatory.4f23c24b092949436a591d0a6cad1ba558dffb30.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/master-plan-site-warehouse-coverage-warehouse-mandatory.4f23c24b092949436a591d0a6cad1ba558dffb30.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17625,7 +17625,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [master-plan-site-warehouse-coverage-warehouse-not-mandatory.e39bc60e18881c1d20d8982b4d153a7edbbb38f1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/master-plan-site-warehouse-coverage-warehouse-not-mandatory.e39bc60e18881c1d20d8982b4d153a7edbbb38f1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17639,7 +17639,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [monitor-forecast-accuracy.9798e9366344be39da9e9554d9491d8de69606ea.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/monitor-forecast-accuracy.9798e9366344be39da9e9554d9491d8de69606ea.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17653,7 +17653,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [reduction-keys.4c248142680b542dd0303f8318fb567cc1a2035a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/reduction-keys.4c248142680b542dd0303f8318fb567cc1a2035a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17667,7 +17667,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [remove-historical-outliers-calculating-demand-forecast.87071943b4500350ad3314c780e7ec9b439f761f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/remove-historical-outliers-calculating-demand-forecast.87071943b4500350ad3314c780e7ec9b439f761f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17681,7 +17681,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [trace-explosion.f5930a2d6177b04c2207b75172cbfd4bae27b6de.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/trace-explosion.f5930a2d6177b04c2207b75172cbfd4bae27b6de.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17695,7 +17695,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [build-product-configuration-model.8ff30cd0e8d77eb14f47c35dabd3b118ed6aedc7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/build-product-configuration-model.8ff30cd0e8d77eb14f47c35dabd3b118ed6aedc7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17709,7 +17709,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [calculate-product-configuration-models.2ce61da6227ee8efb3562e82c9d24582cfbbe5d5.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/calculate-product-configuration-models.2ce61da6227ee8efb3562e82c9d24582cfbbe5d5.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17723,7 +17723,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [configuration-rules.8e523661db7aeb643b6c9cf35a23123fbc0ad324.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/configuration-rules.8e523661db7aeb643b6c9cf35a23123fbc0ad324.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17737,7 +17737,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [dimension-based-product-configuration.c217c00a691b4f5646f36a57e330a12f678ee7e7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/dimension-based-product-configuration.c217c00a691b4f5646f36a57e330a12f678ee7e7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17751,7 +17751,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [expression-constraints-table-constraints-product-configuration-models.e31b7dfc9bd1afeb8fa256a8e6b74ba8434b3db6.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/expression-constraints-table-constraints-product-configuration-models.e31b7dfc9bd1afeb8fa256a8e6b74ba8434b3db6.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17765,7 +17765,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [product-configuration-models.a3d5e54d19ad5c93432d2b30fa357ecb21828341.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/product-configuration-models.a3d5e54d19ad5c93432d2b30fa357ecb21828341.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17779,7 +17779,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [product-dimensions.3679d11e838ce2ba3be8ffec7e6d942f7cc51df2.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/product-dimensions.3679d11e838ce2ba3be8ffec7e6d942f7cc51df2.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17793,7 +17793,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [product-variant-identification-nomenclature.3471d6528b2a65ad0ade2b800fbb82d0d01f1577.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/product-variant-identification-nomenclature.3471d6528b2a65ad0ade2b800fbb82d0d01f1577.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17807,7 +17807,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [reuse-product-configurations.0e4a47b47b0a947ad6bc21298bca1c867f58e4a4.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/reuse-product-configurations.0e4a47b47b0a947ad6bc21298bca1c867f58e4a4.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17821,7 +17821,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [search-products-product-variants.8a3875afe8da666b0df47a8c702ddedb98595574.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/search-products-product-variants.8a3875afe8da666b0df47a8c702ddedb98595574.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17835,7 +17835,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-up-maintain-product-configuration-model.21462ea25c917d7dbcc33e61b22c79980e427133.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/set-up-maintain-product-configuration-model.21462ea25c917d7dbcc33e61b22c79980e427133.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17849,7 +17849,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [system-defined-user-defined-table-constraints.0bbb55f775114bda7645260292e6e9e40fae8e5b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/system-defined-user-defined-table-constraints.0bbb55f775114bda7645260292e6e9e40fae8e5b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17863,7 +17863,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [translations-product-related-information.24a7bffffdaa1327ffbc50900ed1a4ba6e5cec04.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/translations-product-related-information.24a7bffffdaa1327ffbc50900ed1a4ba6e5cec04.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17877,7 +17877,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [collaborate-vendors-vendor-portal.bb73d6498a5026a49b84b72b5b97ad111023ab91.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/collaborate-vendors-vendor-portal.bb73d6498a5026a49b84b72b5b97ad111023ab91.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17891,7 +17891,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [configure-security-vendor-portal-users.83b749c0ca8694c4c9a5e400684b510aebc02f10.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/configure-security-vendor-portal-users.83b749c0ca8694c4c9a5e400684b510aebc02f10.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17905,7 +17905,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [manage-vendor-collaboration-users.78dad7223ecd2ec4ab063d64b740d1239fd25eaf.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/manage-vendor-collaboration-users.78dad7223ecd2ec4ab063d64b740d1239fd25eaf.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17919,7 +17919,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [procurement-catalogs.09452de2c252ba6e6cc9b1f6c8d0309c17ad78af.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/procurement-catalogs.09452de2c252ba6e6cc9b1f6c8d0309c17ad78af.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17933,7 +17933,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [procurement-sourcing.5d5a736a7549592800e44b050351ae0d19391b9f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/procurement-sourcing.5d5a736a7549592800e44b050351ae0d19391b9f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17947,7 +17947,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [procurement-sourcing-overview.407d50d5149cbc45a158864dcaf580d28ae5fa4b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/procurement-sourcing-overview.407d50d5149cbc45a158864dcaf580d28ae5fa4b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17961,7 +17961,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [procurement-sourcing-workflows.28db9226c0e2887d132aec9ad2b4241c40f9d3ec.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/procurement-sourcing-workflows.28db9226c0e2887d132aec9ad2b4241c40f9d3ec.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17975,7 +17975,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [product-receipt-against-purchase-orders.4b240c93fe46d95890b982422731463d93830384.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/product-receipt-against-purchase-orders.4b240c93fe46d95890b982422731463d93830384.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -17989,7 +17989,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [purchase-agreements.11b4ed4ce2fe38a1b1ed8280c8a34aa283f0842a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/purchase-agreements.11b4ed4ce2fe38a1b1ed8280c8a34aa283f0842a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18003,7 +18003,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [purchase-order-approval-confirmation.b4dbaf66e0cf4e42c6b52a4d49c8435ff829e1b4.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/purchase-order-approval-confirmation.b4dbaf66e0cf4e42c6b52a4d49c8435ff829e1b4.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18017,7 +18017,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [purchase-order-creation.89e9dc85f9d9b4ef69ad6a3d112c8b29a35614e6.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/purchase-order-creation.89e9dc85f9d9b4ef69ad6a3d112c8b29a35614e6.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18031,7 +18031,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [purchase-order-overview.b2e46ca87648bc0684a47ffc3267272a4810d4fa.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/purchase-order-overview.b2e46ca87648bc0684a47ffc3267272a4810d4fa.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18045,7 +18045,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [purchase-policies.f0d78c8896919fcd515ee7d70052359780e0f042.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/purchase-policies.f0d78c8896919fcd515ee7d70052359780e0f042.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18059,7 +18059,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [purchase-requisitions-overview.46fde5b1ad9544c967f849e5064cc449b2e84a04.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/purchase-requisitions-overview.46fde5b1ad9544c967f849e5064cc449b2e84a04.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18073,7 +18073,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [purchase-requisitions-workflow.80387fe86e9510ca5fd4ecc7c3121d74772774e4.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/purchase-requisitions-workflow.80387fe86e9510ca5fd4ecc7c3121d74772774e4.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18087,7 +18087,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [request-quotations.94cbcf4b3da776bec26f3db30b742e8c3ca0b7fa.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/request-quotations.94cbcf4b3da776bec26f3db30b742e8c3ca0b7fa.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18101,7 +18101,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-up-maintain-vendor-collaboration.a988f09a0b784b512cbe46a5ca210e998f15043e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/set-up-maintain-vendor-collaboration.a988f09a0b784b512cbe46a5ca210e998f15043e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18115,7 +18115,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [set-up-vendor-accounts.002f4eeb8105ce0b064614178ee76b820c0c3481.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/set-up-vendor-accounts.002f4eeb8105ce0b064614178ee76b820c0c3481.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18129,7 +18129,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [vendor-agreements-project-contracts.1f1cdd56429bb1636366d0953a3325c07cd7a3a1.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/vendor-agreements-project-contracts.1f1cdd56429bb1636366d0953a3325c07cd7a3a1.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18143,7 +18143,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [vendor-collaboration-mobile-workspace.84b4d5f35df87c01542ab01c09a20ff03cbe98e8.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/vendor-collaboration-mobile-workspace.84b4d5f35df87c01542ab01c09a20ff03cbe98e8.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18157,7 +18157,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [vendor-collaboration-work-customers-dynamics-365-operations.11ecd3c680ce82f8ecd56789ff9aa1860b3faab0.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/vendor-collaboration-work-customers-dynamics-365-operations.11ecd3c680ce82f8ecd56789ff9aa1860b3faab0.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18171,7 +18171,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [vendor-collaboration-work-external-vendors.ce0ac25f6cbf9fe9327dae06b43fde8ac06442d4.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/vendor-collaboration-work-external-vendors.ce0ac25f6cbf9fe9327dae06b43fde8ac06442d4.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18185,7 +18185,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [activity-based-subcontracting.9c3e5dd621a778689ee03c5cab175479aa2342e3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/activity-based-subcontracting.9c3e5dd621a778689ee03c5cab175479aa2342e3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18199,7 +18199,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [allocate-time-jobs-job-bundle.b2260de0254848f2f512a60fc131958e3327e862.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/allocate-time-jobs-job-bundle.b2260de0254848f2f512a60fc131958e3327e862.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18213,7 +18213,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [batch-attributes.4822b10754d73c7295d94099846983ce96e1ffad.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/batch-attributes.4822b10754d73c7295d94099846983ce96e1ffad.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18227,7 +18227,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [bill-of-material-bom.fe58c07a167259ddc939524b780d7c875a55b05b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/bill-of-material-bom.fe58c07a167259ddc939524b780d7c875a55b05b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18241,7 +18241,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [bom-designer-functionality.c370a8c871c57f6346abeec29a44120b38bd0d29.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/bom-designer-functionality.c370a8c871c57f6346abeec29a44120b38bd0d29.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18255,7 +18255,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [consolidated-batch-orders.2ad3dd4f4da5dad38e232eb0c5a76e260d71f5f4.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/consolidated-batch-orders.2ad3dd4f4da5dad38e232eb0c5a76e260d71f5f4.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18269,7 +18269,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [consumption.514aeae2c03158e3869c3611b48b5c26dc72cbb6.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/consumption.514aeae2c03158e3869c3611b48b5c26dc72cbb6.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18283,7 +18283,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-production-orders.6d61a306f5aed16b52298c224511638ffbfb2158.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/create-production-orders.6d61a306f5aed16b52298c224511638ffbfb2158.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18297,7 +18297,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [default-order-settings.31d4f5d3e39119dcb4455f0c11042d17d644627b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/default-order-settings.31d4f5d3e39119dcb4455f0c11042d17d644627b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18311,7 +18311,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [job-scheduling.9506b113784239f6bc5521eec8963623ab74fb64.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/job-scheduling.9506b113784239f6bc5521eec8963623ab74fb64.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18325,7 +18325,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [kanban-transfer-board-support-barcode-scanner.31e0254e4448717ec214ba74c5d43d9252dfc1cb.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/kanban-transfer-board-support-barcode-scanner.31e0254e4448717ec214ba74c5d43d9252dfc1cb.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18339,7 +18339,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [lean-manufacturing-kanban-job-scheduling.f2bdd51a60430b10373f30904765323a1531d62e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/lean-manufacturing-kanban-job-scheduling.f2bdd51a60430b10373f30904765323a1531d62e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18353,7 +18353,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [lean-manufacturing-modeling-lean-organization.b6f107af1c86258fde45ebfac17c09e9b2c5f451.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/lean-manufacturing-modeling-lean-organization.b6f107af1c86258fde45ebfac17c09e9b2c5f451.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18367,7 +18367,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [lean-manufacturing-overview.a66bdc11a698d838a6237aae6571a68c795edf77.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/lean-manufacturing-overview.a66bdc11a698d838a6237aae6571a68c795edf77.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18381,7 +18381,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [manage-subcontract-work-production.4127d09dd94f917924ff1d12f35d1849f1bffef8.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/manage-subcontract-work-production.4127d09dd94f917924ff1d12f35d1849f1bffef8.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18395,7 +18395,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [mixed-mode-plan.fc0fa09f5d4a81a6862874983cda80a2a6bc6664.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/mixed-mode-plan.fc0fa09f5d4a81a6862874983cda80a2a6bc6664.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18409,7 +18409,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [operation-scheduling-options.abceca69ac24bdc3ec11d4a55573aad1c41e8c2c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/operation-scheduling-options.abceca69ac24bdc3ec11d4a55573aad1c41e8c2c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18423,7 +18423,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [operations-resources.66dece7a173a55211e7b6af3d914c9678773afd8.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/operations-resources.66dece7a173a55211e7b6af3d914c9678773afd8.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18437,7 +18437,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [operations-scheduling.c916372cca404480a4cccd6afbbb97824785fb0b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/operations-scheduling.c916372cca404480a4cccd6afbbb97824785fb0b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18451,7 +18451,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [production-feedback.195e7f4c1659c4ecca239095ccc8a66d4e5365de.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/production-feedback.195e7f4c1659c4ecca239095ccc8a66d4e5365de.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18465,7 +18465,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [production-order-defaults-manufacturing-execution.17a52399507e42fb0ced9c4e3b1562258ebbb22e.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/production-order-defaults-manufacturing-execution.17a52399507e42fb0ced9c4e3b1562258ebbb22e.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18479,7 +18479,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [production-process-overview.a6afa7485dad926b121457b11b2e39519f79d945.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/production-process-overview.a6afa7485dad926b121457b11b2e39519f79d945.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18493,7 +18493,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [production-set-up-requirements.304a3e942153349b351baa536bf86d0ed27f3119.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/production-set-up-requirements.304a3e942153349b351baa536bf86d0ed27f3119.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18507,7 +18507,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [registration-manufacturing-execution.b6c8fc4e2c2dcfe1737d5e0153f3d78b59075ba3.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/registration-manufacturing-execution.b6c8fc4e2c2dcfe1737d5e0153f3d78b59075ba3.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18521,7 +18521,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [release-production-orders.0583e112b1d21bf9e5c331d7078d5425c9c5f242.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/release-production-orders.0583e112b1d21bf9e5c331d7078d5425c9c5f242.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18535,7 +18535,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [report-boms-as-finished.bd07f061c19d2b56d269ec1ed10a7c4881a6db94.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/report-boms-as-finished.bd07f061c19d2b56d269ec1ed10a7c4881a6db94.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18549,7 +18549,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [report-production-orders-as-finished.5eb7181d8d0032524c9a72c5bcd5e3539b4de78d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/report-production-orders-as-finished.5eb7181d8d0032524c9a72c5bcd5e3539b4de78d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18563,7 +18563,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [resource-capabilities.23e57c621d691c1c8e16d48bd27b5092c202a22c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/resource-capabilities.23e57c621d691c1c8e16d48bd27b5092c202a22c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18577,7 +18577,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [reverse-production-order-status.4e17f68120eb4aeabff333fd85c9b44ec0aff4b7.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/reverse-production-order-status.4e17f68120eb4aeabff333fd85c9b44ec0aff4b7.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18591,7 +18591,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [routes-operations.36308eb1a69066614e6f914185906e5a38456f90.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/routes-operations.36308eb1a69066614e6f914185906e5a38456f90.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18605,7 +18605,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [substitute-items-bom-lines.6ea08268dc6d86e6877605ce3b47c158f0a3063a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/substitute-items-bom-lines.6ea08268dc6d86e6877605ce3b47c158f0a3063a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18619,7 +18619,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [time-attendance-registrations.cb18897e30f843e0b9c813f31c96ca0ce178d2c4.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/time-attendance-registrations.cb18897e30f843e0b9c813f31c96ca0ce178d2c4.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18633,7 +18633,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [delivery-alternatives.65895c9377163fe439f8978918c78dc515c9d25a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/delivery-alternatives.65895c9377163fe439f8978918c78dc515c9d25a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18647,7 +18647,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [delivery-dates-available-promise-calculations.6900b458107daa80837d7a7c10f68f4ff550ce99.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/delivery-dates-available-promise-calculations.6900b458107daa80837d7a7c10f68f4ff550ce99.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18661,7 +18661,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [delivery-schedules.f031d8163d53f600f425fb730b38abe31d15a388.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/delivery-schedules.f031d8163d53f600f425fb730b38abe31d15a388.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18675,7 +18675,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [direct-deliveries.3f9fd97fccfd9e8576e7543182c3272cc2d2de25.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/direct-deliveries.3f9fd97fccfd9e8576e7543182c3272cc2d2de25.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18689,7 +18689,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [order-entry-deadlines.aa0c00a3cfa7dc826ae95e6be96bfc5e5dba06fe.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/order-entry-deadlines.aa0c00a3cfa7dc826ae95e6be96bfc5e5dba06fe.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18703,7 +18703,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [overview-sales-marketing.07986a05f78acfafb65f1917d75eab5ac30374cc.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/overview-sales-marketing.07986a05f78acfafb65f1917d75eab5ac30374cc.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18717,7 +18717,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [price-simulation.e0a183a2f3a1ca7aa65bfb32313ac44a57340f57.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/price-simulation.e0a183a2f3a1ca7aa65bfb32313ac44a57340f57.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18731,7 +18731,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [register-serial-numbers-sales-process.5ff44866919b35a5b99eb55844262e78dbd4679d.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/register-serial-numbers-sales-process.5ff44866919b35a5b99eb55844262e78dbd4679d.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18745,7 +18745,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [reserve-same-batch-sales-order.6828ac744d2cb7226bca45a8c97d4b08c2e591dc.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/reserve-same-batch-sales-order.6828ac744d2cb7226bca45a8c97d4b08c2e591dc.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18759,7 +18759,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [sales-agreements.8b0c1a9a657d818a9a58733d46488b4dc6f3f1f6.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/sales-agreements.8b0c1a9a657d818a9a58733d46488b4dc6f3f1f6.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18773,7 +18773,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [sales-orders-mobile-workspace.07b2c025e8747478502d1c29e03def241f69de3a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/sales-orders-mobile-workspace.07b2c025e8747478502d1c29e03def241f69de3a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18787,7 +18787,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [TOC.d3131609f323869793af6df8eab02cf98f2b752b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/premium/TOC.d3131609f323869793af6df8eab02cf98f2b752b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18801,7 +18801,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-bill-of-lading.39ac99a59b68ca15fe3acb20f7bf36bd987cf68a.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/create-bill-of-lading.39ac99a59b68ca15fe3acb20f7bf36bd987cf68a.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18815,7 +18815,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-new-transportation-management-engine.8959347443901a063ca51cf98bd58f3917ef10ff.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/create-new-transportation-management-engine.8959347443901a063ca51cf98bd58f3917ef10ff.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18829,7 +18829,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [plan-freight-transportation-routes-multiple-stops.06e810e424c2d03dd0f39254f4166d0456616311.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/plan-freight-transportation-routes-multiple-stops.06e810e424c2d03dd0f39254f4166d0456616311.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18843,7 +18843,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [plan-loads-hub-consolidation.e93b3f12d1d8a7b52edef6961bee2a5a191d63be.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/plan-loads-hub-consolidation.e93b3f12d1d8a7b52edef6961bee2a5a191d63be.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18857,7 +18857,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [reconcile-freight-transportation-management.f4081ac5d7c1c39a490aa52a6d9c4005d25172d0.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/reconcile-freight-transportation-management.f4081ac5d7c1c39a490aa52a6d9c4005d25172d0.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18871,7 +18871,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [transportation-management-engines.46d7e754be53f2da0a6a5524372b25e44d8f4f26.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/transportation-management-engines.46d7e754be53f2da0a6a5524372b25e44d8f4f26.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18885,7 +18885,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [transportation-management-overview.70794d25da954da44754971595fa77a8ded02ad8.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/transportation-management-overview.70794d25da954da44754971595fa77a8ded02ad8.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18899,7 +18899,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [change-warehouse-mobile-device-displays.d61f5dcc85d6f4c81d3194f2c866c2c775eec0fe.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/change-warehouse-mobile-device-displays.d61f5dcc85d6f4c81d3194f2c866c2c775eec0fe.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18913,7 +18913,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [configure-app-field-names-priorities-warehouse.2e215b5405a855957a23629da360ff6e611f6c9b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/configure-app-field-names-priorities-warehouse.2e215b5405a855957a23629da360ff6e611f6c9b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18927,7 +18927,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [configure-mobile-devices-warehouse.2d6c0b95b71d395f4073b3167be32742302ca46f.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/configure-mobile-devices-warehouse.2d6c0b95b71d395f4073b3167be32742302ca46f.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18941,7 +18941,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [control-warehouse-location-directives.c87207912a180104247c5e115ab2142db2d9722b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/control-warehouse-location-directives.c87207912a180104247c5e115ab2142db2d9722b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18955,7 +18955,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [cycle-counting.8d3cbe0645964a5cc58f0ccf4feaefd7410d1a3b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/cycle-counting.8d3cbe0645964a5cc58f0ccf4feaefd7410d1a3b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18969,7 +18969,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [install-configure-warehousing-app.551a2a08ba440d177dbbd8c38248a7fffd996d19.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/install-configure-warehousing-app.551a2a08ba440d177dbbd8c38248a7fffd996d19.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18983,7 +18983,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [manage-warehouse-workers.df2f66d55be18838470579b32d202873ac5382df.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/manage-warehouse-workers.df2f66d55be18838470579b32d202873ac5382df.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -18997,7 +18997,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [pack-materials-packing-material-fees.d2d6e679024854231c2ae84b20f9006cd6e5024c.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/pack-materials-packing-material-fees.d2d6e679024854231c2ae84b20f9006cd6e5024c.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -19011,7 +19011,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [replenishment.e9daaecd537d725b167fe98e63cc49444d23cd40.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/replenishment.e9daaecd537d725b167fe98e63cc49444d23cd40.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -19025,7 +19025,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [sales-returns.1c54bd707ad02b6ea21a9deecf5c400883c3ea60.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/sales-returns.1c54bd707ad02b6ea21a9deecf5c400883c3ea60.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -19039,7 +19039,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [unit-measure-stocking-policies.e9fe3b900754c9bd3b5a08d6051963a45cf344d2.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/unit-measure-stocking-policies.e9fe3b900754c9bd3b5a08d6051963a45cf344d2.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -19053,7 +19053,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [warehouse-configuration.319dd232ffc626df1cc4c0e01e685aa23fcf8598.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/warehouse-configuration.319dd232ffc626df1cc4c0e01e685aa23fcf8598.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -19067,7 +19067,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [warehouse-mobile-devices-portal.ad5d70c7f1cb4d920c6897b866910b3978e54e5b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/do-not-translate/warehouse-mobile-devices-portal.ad5d70c7f1cb4d920c6897b866910b3978e54e5b.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -19081,7 +19081,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [warehouse-work-policies.67ae24a272e196cc0c6868ce4e4d55a8c63c1afe.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/9c5776b43a79e4124bedce2f0a73ce32d9e587de/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/warehouse-work-policies.67ae24a272e196cc0c6868ce4e4d55a8c63c1afe.da-dk.xlf)
-* Handoff Datetime: 2017-05-31 10:17:38
+* Handoff Datetime: 2017-05-31 11:16:27
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
