@@ -255,9 +255,10 @@
       "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Austria)",
       "priorities": [
         {
-          "priority": "basic-test",
+          "priority": "basic",
           "locales": [
-            "de-de"
+            "de-de",
+            "sr-cyrl-rs"
           ]
         }
       ]
@@ -266,9 +267,11 @@
       "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Belgium)",
       "priorities": [
         {
-          "priority": "basic-test",
+          "priority": "basic",
           "locales": [
-            "fr-fr"
+            "fr-fr",
+            "nl-nl",
+            "sr-cyrl-rs"
           ]
         }
       ]
@@ -277,7 +280,7 @@
       "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Brazil)",
       "priorities": [
         {
-          "priority": "basic-test",
+          "priority": "basic",
           "locales": [
             "pt-br",
             "sr-cyrl-rs"
@@ -289,9 +292,10 @@
       "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Canada)",
       "priorities": [
         {
-          "priority": "basic-test",
+          "priority": "basic",
           "locales": [
-            "fr-fr"
+            "fr-fr",
+            "sr-cyrl-rs"
           ]
         }
       ]
@@ -300,9 +304,10 @@
       "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(\"China (PRC)\")",
       "priorities": [
         {
-          "priority": "basic-test",
+          "priority": "basic",
           "locales": [
-            "zh-cn"
+            "zh-cn",
+            "sr-cyrl-rs"      
           ]
         }
       ]
@@ -311,9 +316,10 @@
       "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(\"Czech Republic\")",
       "priorities": [
         {
-          "priority": "basic-test",
+          "priority": "basic",
           "locales": [
-            "cs-cz"
+            "cs-cz",
+            "sr-cyrl-rs" 
           ]
         }
       ]
@@ -322,9 +328,10 @@
       "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Denmark)",
       "priorities": [
         {
-          "priority": "basic-test",
+          "priority": "basic",
           "locales": [
-            "da-dk"
+            "da-dk",
+            "sr-cyrl-rs" 
           ]
         }
       ]
@@ -333,9 +340,10 @@
       "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Estonia)",
       "priorities": [
         {
-          "priority": "basic-test",
+          "priority": "basic",
           "locales": [
-            "et-ee"
+            "et-ee",
+            "sr-cyrl-rs" 
           ]
         }
       ]
@@ -344,9 +352,10 @@
       "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Finland)",
       "priorities": [
         {
-          "priority": "basic-test",
+          "priority": "basic",
           "locales": [
-            "fi-fi"
+            "fi-fi",
+            "sr-cyrl-rs" 
           ]
         }
       ]
@@ -355,9 +364,10 @@
       "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(France)",
       "priorities": [
         {
-          "priority": "basic-test",
+          "priority": "basic",
           "locales": [
-            "fr-fr"
+            "fr-fr",
+            "sr-cyrl-rs" 
           ]
         }
       ]
@@ -366,9 +376,10 @@
       "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Germany)",
       "priorities": [
         {
-          "priority": "basic-test",
+          "priority": "basic",
           "locales": [
-            "de-de"
+            "de-de",
+            "sr-cyrl-rs" 
           ]
         }
       ]
@@ -377,9 +388,10 @@
       "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Hungary)",
       "priorities": [
         {
-          "priority": "basic-test",
+          "priority": "basic",
           "locales": [
-            "hu-hu"
+            "hu-hu",
+            "sr-cyrl-rs" 
           ]
         }
       ]
@@ -388,9 +400,10 @@
       "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(iceland)",
       "priorities": [
         {
-          "priority": "basic-test",
+          "priority": "basic",
           "locales": [
-            "is-is"
+            "is-is",
+            "sr-cyrl-rs" 
           ]
         }
       ]
@@ -399,9 +412,10 @@
       "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Italy)",
       "priorities": [
         {
-          "priority": "basic-test",
+          "priority": "basic",
           "locales": [
-            "it-it"
+            "it-it",
+            "sr-cyrl-rs" 
           ]
         }
       ]
@@ -410,9 +424,10 @@
       "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Japan)",
       "priorities": [
         {
-          "priority": "basic-test",
+          "priority": "basic",
           "locales": [
-            "ja-jp"
+            "ja-jp",
+            "sr-cyrl-rs" 
           ]
         }
       ]
@@ -421,9 +436,10 @@
       "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Latvia)",
       "priorities": [
         {
-          "priority": "basic-test",
+          "priority": "basic",
           "locales": [
-            "lv-lv"
+            "lv-lv",
+            "sr-cyrl-rs" 
           ]
         }
       ]
@@ -432,9 +448,10 @@
       "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Lithuania)",
       "priorities": [
         {
-          "priority": "basic-test",
+          "priority": "basic",
           "locales": [
-            "lt-lt"
+            "lt-lt",
+            "sr-cyrl-rs" 
           ]
         }
       ]
@@ -443,9 +460,10 @@
       "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Mexico)",
       "priorities": [
         {
-          "priority": "basic-test",
+          "priority": "basic",
           "locales": [
-            "es-es"
+            "es-es",
+            "sr-cyrl-rs" 
           ]
         }
       ]
@@ -454,9 +472,10 @@
       "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Netherlands)",
       "priorities": [
         {
-          "priority": "basic-test",
+          "priority": "basic",
           "locales": [
-            "nl-nl"
+            "nl-nl",
+            "sr-cyrl-rs" 
           ]
         }
       ]
@@ -465,9 +484,10 @@
       "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Norway)",
       "priorities": [
         {
-          "priority": "basic-test",
+          "priority": "basic",
           "locales": [
-            "nb-no"
+            "nb-no",
+            "sr-cyrl-rs" 
           ]
         }
       ]
@@ -476,9 +496,10 @@
       "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Poland)",
       "priorities": [
         {
-          "priority": "basic-test",
+          "priority": "basic",
           "locales": [
-            "pl-pl"
+            "pl-pl",
+            "sr-cyrl-rs" 
           ]
         }
       ]
@@ -487,9 +508,10 @@
       "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Russia)",
       "priorities": [
         {
-          "priority": "basic-test",
+          "priority": "basic",
           "locales": [
-            "ru-ru"
+            "ru-ru",
+            "sr-cyrl-rs" 
           ]
         }
       ]
@@ -498,9 +520,10 @@
       "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(\"Saudi Arabia\")",
       "priorities": [
         {
-          "priority": "basic-test",
+          "priority": "basic",
           "locales": [
-            "ar-sa"
+            "ar-sa",
+            "sr-cyrl-rs" 
           ]
         }
       ]
@@ -509,9 +532,10 @@
       "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Spain)",
       "priorities": [
         {
-          "priority": "basic-test",
+          "priority": "basic",
           "locales": [
-            "es-es"
+            "es-es",
+            "sr-cyrl-rs" 
           ]
         }
       ]
@@ -520,11 +544,12 @@
       "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Switzerland)",
       "priorities": [
         {
-          "priority": "basic-test",
+          "priority": "basic",
           "locales": [
             "fr-fr",
             "de-de",
-            "it-it"
+            "it-it",
+            "sr-cyrl-rs" 
           ]
         }
       ]
@@ -533,9 +558,10 @@
       "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Sweden)",
       "priorities": [
         {
-          "priority": "basic-test",
+          "priority": "basic",
           "locales": [
-            "sv-se"
+            "sv-se",
+            "sr-cyrl-rs" 
           ]
         }
       ]
@@ -544,9 +570,10 @@
       "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Thailand)",
       "priorities": [
         {
-          "priority": "basic-test",
+          "priority": "basic",
           "locales": [
-            "th-th"
+            "th-th",
+            "sr-cyrl-rs" 
           ]
         }
       ]
@@ -555,9 +582,10 @@
       "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(Turkey)",
       "priorities": [
         {
-          "priority": "basic-test",
+          "priority": "basic",
           "locales": [
-            "tr-tr"
+            "tr-tr",
+            "sr-cyrl-rs" 
           ]
         }
       ]
@@ -670,36 +698,12 @@
         {
           "priority": "need-to-investigate",
           "locales": [
-            "ar-sa",
-            "zh-cn",
-            "cs-cz",
-            "da-dk",
-            "nl-nl",
-            "et-ee",
-            "fi-fi",
-            "fr-fr",
-            "de-de",
-            "hu-hu",
-            "is-is",
-            "it-it",
-            "ja-jp",
-            "lv-lv",
-            "lt-lt",
-            "nb-no",
-            "pl-pl",
-            "pt-br",
-            "ru-ru",
-            "es-es",
-            "sv-se",
-            "th-th",
-            "tr-tr",
             "sr-cyrl-rs"
           ]
         }
       ]
     }
   ],
-  "forceHandoff":true,
   "autoHandbackNoChangeXliff":true,
    "includeDependencies":false,
    "autoPush":true,
