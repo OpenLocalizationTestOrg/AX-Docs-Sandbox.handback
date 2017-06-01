@@ -2144,6 +2144,9 @@
   "97b78d4880b138886f9b3d2d360420a066500e57": [
     "dev-itpro\\dev-ref\\xpp-container-run-time-functions.md"
   ],
+  "fcd78049fbfb2cd2f277ffbc6c0dccbc4d083552": [
+    "dev-itpro\\dev-ref\\xpp-conversion-run-time-functions.md"
+  ],
   "abbebd60d6269ec2a153fb864cccf807f65e68ff": [
     "dev-itpro\\dev-ref\\xpp-conversion-run-time-functions.md"
   ],
@@ -2179,6 +2182,9 @@
   ],
   "8dda45013a08bf49c9cfe314923f61beb4355904": [
     "dev-itpro\\dev-ref\\xpp-math-run-time-functions.md"
+  ],
+  "4a1e13db2297c38256e7640abeef857c0f442225": [
+    "dev-itpro\\dev-ref\\xpp-operators.md"
   ],
   "3e826cbe91d214e88b123b3443ee98f1d185dc3a": [
     "dev-itpro\\dev-ref\\xpp-operators.md"
@@ -2261,6 +2267,9 @@
   "8301d9963e374c9094baa2dfa72c1e922fc04a5f": [
     "dev-itpro\\dev-tools\\access-instances.md"
   ],
+  "f861ff8def50afc87df3fb0c7a30aed1d177165a": [
+    "dev-itpro\\dev-tools\\application-explorer.md"
+  ],
   "ea3dc3e17721025794b108c5ecf83ae96a3b9ea3": [
     "dev-itpro\\dev-tools\\application-explorer.md"
   ],
@@ -2318,6 +2327,9 @@
   "8b1d343807e5a33d8ce48e2e45b806298ff92b07": [
     "dev-itpro\\dev-tools\\build-debug-project.md"
   ],
+  "a31920e6dd48bfe7718597858bb73b3908fec116": [
+    "dev-itpro\\dev-tools\\build-operations.md"
+  ],
   "28af499a88a588f511a2b9e23a7f96ec03e3cc5d": [
     "dev-itpro\\dev-tools\\build-operations.md"
   ],
@@ -2329,6 +2341,9 @@
   ],
   "6bacdf6dfae4318556e57c8ed2b33c7daa06cf1e": [
     "dev-itpro\\dev-tools\\build-operations.md"
+  ],
+  "a369baa93b16dc3cb8bb5497bfef037e31753d92": [
+    "dev-itpro\\dev-tools\\code-editor.md"
   ],
   "003c97dbce6c32ea49979b7369b939e4654a3d1e": [
     "dev-itpro\\dev-tools\\code-editor.md"
@@ -2371,6 +2386,9 @@
   ],
   "b97d87b2e14afeeb98f9dc4085270b2b2c522b4c": [
     "dev-itpro\\dev-tools\\continuous-delivery-faq.md"
+  ],
+  "19e7dda748c9bdbf0716dd9e518ac4125e05c39a": [
+    "dev-itpro\\dev-tools\\continuous-delivery-home-page.md"
   ],
   "b055ca921873d4b0f402c4ef26c0409d53c96f62": [
     "dev-itpro\\dev-tools\\continuous-delivery-home-page.md"
@@ -2480,6 +2498,9 @@
   "2b7b67064914ada1e943801f533086c0db23eabb": [
     "dev-itpro\\dev-tools\\design-best-practices.md"
   ],
+  "905ee344b27761a47cde1f47cbac2d23a2ea1736": [
+    "dev-itpro\\dev-tools\\developer-home-page.md"
+  ],
   "b79d4feac98f611a6b52e5d5287595229ad90794": [
     "dev-itpro\\dev-tools\\developer-home-page.md"
   ],
@@ -2497,6 +2518,9 @@
   ],
   "d2570ccc3a667ef218cc8317f793a0ad7e9c3ba5": [
     "dev-itpro\\dev-tools\\developer-home-page.md"
+  ],
+  "28358a4e6413c7cfde0ccf1c2e4e1c59f3e389ca": [
+    "dev-itpro\\dev-tools\\developer-tools-add-ins.md"
   ],
   "fff0e06c7e6a850cf3238632cbd96eaa18354802": [
     "dev-itpro\\dev-tools\\developer-tools-add-ins.md"
@@ -2525,18 +2549,6 @@
   "dbfafdb3a21db481e9b688c957c806f878c6228b": [
     "dev-itpro\\dev-tools\\development-system-requirements.md"
   ],
-  "27820239fa7b5f71977a1d78a7169244c000545a": [
-    "dev-itpro\\dev-tools\\development-tools.md"
-  ],
-  "9c163269266510e8998e6a266cc97c99a64aad51": [
-    "dev-itpro\\dev-tools\\development-tools.md"
-  ],
-  "3f83d8c39887875d1930395b0b30a1bc64facef8": [
-    "dev-itpro\\dev-tools\\development-tools.md"
-  ],
-  "1f301b105ee9f017b25b5c4a1680a6524b7f2e3f": [
-    "dev-itpro\\dev-tools\\development-tools.md"
-  ],
   "0295ecb2222491297753c9a95cbc0e108cd87dd9": [
     "dev-itpro\\dev-tools\\element-designers.md"
   ],
@@ -2548,6 +2560,9 @@
   ],
   "793e367205ee9d0731ef2836eccbec3a9168a0fb": [
     "dev-itpro\\dev-tools\\element-designers.md"
+  ],
+  "17b0cc3e51104fc833e48fa118258483189ce879": [
+    "dev-itpro\\dev-tools\\element-usage.md"
   ],
   "51fc27de84206a43b5b4a0a2ba99b3f01bfca894": [
     "dev-itpro\\dev-tools\\element-usage.md"
@@ -2618,6 +2633,9 @@
   "138a5769a8acea59c9325a8caf081e0847b0ebcc": [
     "dev-itpro\\dev-tools\\introduction-fleet-management-sample.md"
   ],
+  "418602adebe1bc18b9918b685bca1a7652770466": [
+    "dev-itpro\\dev-tools\\introduction-visual-studio.md"
+  ],
   "659ee4eba9e4e84905525b48f796a8defad8926c": [
     "dev-itpro\\dev-tools\\introduction-visual-studio.md"
   ],
@@ -2683,6 +2701,9 @@
   ],
   "209e1b64f09432f8ee428b60681eab44fbecbf90": [
     "dev-itpro\\dev-tools\\metadata-search-visual-studio.md"
+  ],
+  "788e218cf1d9b025390d9e4ef2320e889aca65bb": [
+    "dev-itpro\\dev-tools\\models.md"
   ],
   "2b63c96f8d87095c1b5a09c206b1c77e7e71d7e9": [
     "dev-itpro\\dev-tools\\models.md"
@@ -2771,6 +2792,9 @@
   "57f60626a37f616e6779ce913825f7486e49039c": [
     "dev-itpro\\dev-tools\\sign-up-preview-subscription.md"
   ],
+  "664fba77d80a339ed269ed9252543667ed6f73be": [
+    "dev-itpro\\dev-tools\\TOC.md"
+  ],
   "117e505ebfc96e10b099fd6e6d2e94a8d599b8c9": [
     "dev-itpro\\dev-tools\\TOC.md"
   ],
@@ -2821,6 +2845,9 @@
   ],
   "10da8093da37dd891f73dace2b2dde961cf7d2ac": [
     "dev-itpro\\extensibility\\class-extensions.md"
+  ],
+  "87c76e727b228ec352784af1d1915584088d7f8f": [
+    "dev-itpro\\extensibility\\customization-overlayering-extensions.md"
   ],
   "2d484dd28daeaf56f47d2703c5a7150c6512d7d9": [
     "dev-itpro\\extensibility\\customization-overlayering-extensions.md"
@@ -4991,6 +5018,9 @@
   "0aae8e098a6e6f2337b83c8ee082ad85fa9529bd": [
     "dev-itpro\\perf-test\\performance-timer.md"
   ],
+  "f14f7cddb415d01f88cfda6f7a36c2947c06f71a": [
+    "dev-itpro\\perf-test\\perfsdk-tutorial.md"
+  ],
   "a067444165cc00a770b2ec472253ceb77f7a27dc": [
     "dev-itpro\\perf-test\\perfsdk-tutorial.md"
   ],
@@ -5092,6 +5122,9 @@
   ],
   "84b998ba6a3e430077766a0a10cf264b191725b4": [
     "dev-itpro\\migration-upgrade\\versions-update-policy.md"
+  ],
+  "eee664b44526a240dee3ee4391f775472d941d73": [
+    "dev-itpro\\TOC.md"
   ],
   "380b0eb1ad04ad4bc47883e302fcea6cbfa8bff5": [
     "dev-itpro\\TOC.md"
@@ -9506,6 +9539,9 @@
   "e75a5283f78ab6ef9166e73066b596cce29d6822": [
     "financials\\localizations\\noam-usa-form-1099-public-sector.md"
   ],
+  "f991a287efec4586e1c691a8d83747b8369dea99": [
+    "financials\\localizations\\TOC.md"
+  ],
   "e3dc9ca769032df1a2a6ea10692f01da8ac6081e": [
     "financials\\localizations\\TOC.md"
   ],
@@ -11906,6 +11942,9 @@
   "74f5e8068976f6f617539a26ab83bf3b29785dd0": [
     "retail\\dev-itpro\\secure-retail-cloud-pos.md"
   ],
+  "97451b236452fa9d2c905bf4a2989213541df621": [
+    "retail\\dev-itpro\\TOC.md"
+  ],
   "4b84e3f64eceb0c017e2141a7540ba7940e7decb": [
     "retail\\dev-itpro\\TOC.md"
   ],
@@ -12019,6 +12058,9 @@
   ],
   "3a7ec90ce4fca3ecdac4459a2117200b445e08b2": [
     "retail\\index.md"
+  ],
+  "0ca9dff9658a3776485d83ccede935c39ad52e09": [
+    "retail\\info-codes-retail.md"
   ],
   "5790f54a531336b30ee140ebf8b9c782d8b347f7": [
     "retail\\info-codes-retail.md"
@@ -12190,6 +12232,9 @@
   ],
   "01f249cbdabc6febf23dcd7103d4587cecdaad08": [
     "retail\\price-adjustments-discounts.md"
+  ],
+  "9b34c26209b9aa48604b9cd51220e5812b1fbf22": [
+    "retail\\receipt-templates-printing.md"
   ],
   "94370625dbd393e5dddd818fa365a3c32f108873": [
     "retail\\receipt-templates-printing.md"
@@ -13156,6 +13201,9 @@
   ],
   "919ca82764e7864b285eb9d202eb7c8afdd0ff18": [
     "scm\\procurement\\purchase-policies.md"
+  ],
+  "e114542ea5fa53bfe25ad31575929a0af72bec53": [
+    "scm\\procurement\\set-up-maintain-vendor-collaboration.md"
   ],
   "95dbb19934a507598853f7083149c01c3e709a80": [
     "scm\\procurement\\set-up-maintain-vendor-collaboration.md"
@@ -15620,6 +15668,9 @@
   "11cd2242b5a575ae87b0dbcf6f8ce268fcea5377": [
     "scm\\procurement\\vendor-collaboration-work-customers-dynamics-365-operations.md"
   ],
+  "d1a686cbad30e2ce82601b70cbd835a240690907": [
+    "scm\\procurement\\vendor-collaboration-work-external-vendors.md"
+  ],
   "b141ed78306504949eae641377b5c5a2b0599572": [
     "scm\\procurement\\vendor-collaboration-work-external-vendors.md"
   ],
@@ -15715,6 +15766,9 @@
   ],
   "ffc1523d53732616d77511f39b72efc8f97744eb": [
     "scm\\warehousing\\cycle-counting.md"
+  ],
+  "92449fb2e373b97894e184dd66763bf82b87dcd5": [
+    "scm\\warehousing\\install-configure-warehousing-app.md"
   ],
   "46b4809ae89f90295766e95ce78a8f019de0cdae": [
     "scm\\warehousing\\install-configure-warehousing-app.md"
@@ -16136,6 +16190,9 @@
   "e1a9e0eeb45f011ccb2aa091e68aff92782e1ae7": [
     "dev-itpro\\mobile-apps\\Mobile-app-home-page.md"
   ],
+  "ac000f4b42d96265fe8eda1d5842b555300f2311": [
+    "dev-itpro\\mobile-apps\\mobile-workspaces-released.md"
+  ],
   "7d9b5870d8b1c64e3d444900253b06bbb76b6feb": [
     "dev-itpro\\mobile-apps\\mobile-workspaces-released.md"
   ],
@@ -16144,6 +16201,9 @@
   ],
   "17a5dcf0f406380fbc4ff242932516894562fe5d": [
     "dev-itpro\\mobile-apps\\mobile-workspaces-released.md"
+  ],
+  "7f53592e59f4a94d97656f6b12c381bea93fc1e0": [
+    "dev-itpro\\mobile-apps\\publish-mobile-workspace.md"
   ],
   "542c1fdd9f9a201fa61fafb02988ce042021bef2": [
     "dev-itpro\\mobile-apps\\publish-mobile-workspace.md"
@@ -16271,8 +16331,14 @@
   "638f5b622bde200b555146fc13f593ccf67e934b": [
     "core\\organization-administration\\workflow-batch-job-critical.md"
   ],
+  "485706d30a81bcfe2ae9dc3ff00133e0c3a361c3": [
+    "dev-itpro\\data-entities\\configuration-data-projects.md"
+  ],
   "ab0bff9a4185a7fb7f69ff2fb3701589ce4da6d6": [
     "dev-itpro\\data-entities\\configuration-data-projects.md"
+  ],
+  "7e7a55a5ead266dba0f6cda028f8f80d968bb911": [
+    "dev-itpro\\data-entities\\configuration-data-templates.md"
   ],
   "e9b832904e5d080df201f9b2a6187eb970008050": [
     "dev-itpro\\data-entities\\configuration-data-templates.md"
@@ -16283,6 +16349,9 @@
   "60e9113fdccc9341e5f4c9ae3dcfd894c4d6ba24": [
     "dev-itpro\\financial\\dimensionable-entities.md"
   ],
+  "6c3ef6b8b82d8f91df466ceb9208a084c82206bd": [
+    "dev-itpro\\get-started\\whats-new-platform-update-7.md"
+  ],
   "1f9833d0c6ae24403914ccaeb0ee0be91cc1ea61": [
     "dev-itpro\\get-started\\whats-new-platform-update-7.md"
   ],
@@ -16291,5 +16360,26 @@
   ],
   "0d1e2b9a51c2d7a7c30c2458b7babf8ac5c08118": [
     "scm\\master-planning\\import-historical-data.md"
+  ],
+  "e9e900bafe8a912bdb2707706ebf6f26e7eba621": [
+    "dev-itpro\\dev-tools\\development-tools-overview.md"
+  ],
+  "ff68608b56d18226b698916b38c230f7da3aebca": [
+    "dev-itpro\\dev-tools\\exclude-test-packages.md"
+  ],
+  "bafb6ffe788e36495353dab34622ccc27645b7f3": [
+    "dev-itpro\\dev-tools\\manage-runtime-packages.md"
+  ],
+  "e977451721afb458ef738dcf3efeab38a6bac95e": [
+    "dev-itpro\\dev-tools\\version-control-metadata-navigation.md"
+  ],
+  "dae7f110d170862641259badadab8380eaa37c49": [
+    "dev-itpro\\dev-tools\\version-models-build.md"
+  ],
+  "5362a11e99454b82ae3fb81f74367dac368626ca": [
+    "financials\\localizations\\emea-esp-print-checks-with-spanish-layout.md"
+  ],
+  "416f76d0bd2cd4adce77e2130a7039007749a873": [
+    "retail\\dev-itpro\\retail-sdk\\loyalty-extension-sample.md"
   ]
 }
