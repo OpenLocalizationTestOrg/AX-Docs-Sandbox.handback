@@ -2688,7 +2688,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\96ff984310ce5877c37a22f182064a5038d71752.933c24ccdb247fc440cb7ec2d14139fec28bb074.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\basic\\accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.cs-cz.xlf",
-      "LocXliffCommit": "a81b5ccd96d52610fc91ba1003db2017b9163afb"
+      "LocXliffCommit": "e873b20d7e29c47c64aba4d914d5833d28a30124"
     },
     "retail\\email-receipts.md.75d50cdfddf4aeac07cebb5c39d39aace8d87314.HT": {
       "SourceFilename": "retail\\email-receipts.md",
@@ -6118,7 +6118,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\99535abef547b928eaf7d6d79a29e5e2ed245f03.4088452a2aadeda4aba7696af19da91ed77cab3e.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\basic\\150-percent-reducing-balance-depreciation.cad059fa33adcc13f8de41959a5cecfa373a7d0d.cs-cz.xlf",
-      "LocXliffCommit": "a81b5ccd96d52610fc91ba1003db2017b9163afb"
+      "LocXliffCommit": "e873b20d7e29c47c64aba4d914d5833d28a30124"
     },
     "dev-itpro\\financial-dimensions\\add-dimensions-excel-templates.md.44b3747ab4012bd1054f24fcf62693297530f4bd.HT": {
       "SourceFilename": "dev-itpro\\financial-dimensions\\add-dimensions-excel-templates.md",
@@ -6678,7 +6678,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\5376278b2db7a998796f2f84ec23bd2f848bfe59.9b9503dbd27479aae859bfc3b38b587a2e8e2df5.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\basic\\200-percent-reducing-balance-depreciation.f0892b1d49ecabf5e77307a2514d5e46c3c45215.cs-cz.xlf",
-      "LocXliffCommit": "a81b5ccd96d52610fc91ba1003db2017b9163afb"
+      "LocXliffCommit": "e873b20d7e29c47c64aba4d914d5833d28a30124"
     },
     "dev-itpro\\lifecycle-services\\submit-request-dynamics-service-engineering-team.md.4cd18bef6118abbda30ee3e457fc288825bf569b.HT": {
       "SourceFilename": "dev-itpro\\lifecycle-services\\submit-request-dynamics-service-engineering-team.md",
@@ -20978,7 +20978,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\40bbb07deb455d922244fc3856871cda7107543e.14f35b47d911350b6e3b12d4ed32511b67cdc2ec.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\basic\\175-percent-reducing-balance-depreciation.4159b5ea508458b0a16bf03122e9fa9491546088.cs-cz.xlf",
-      "LocXliffCommit": "a81b5ccd96d52610fc91ba1003db2017b9163afb"
+      "LocXliffCommit": "e873b20d7e29c47c64aba4d914d5833d28a30124"
     },
     "financials\\localizations\\emea-fra-commitments-public-sector.md.306ee828b2a7a159a7c738f126bd0c843c004d09.HT": {
       "SourceFilename": "financials\\localizations\\emea-fra-commitments-public-sector.md",
