@@ -6,74 +6,74 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [financials\accounts-payable\accounting-distributions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/650c8b60ba8204e8990cf607c1c9901b8f0bb762/financials/accounts-payable/accounting-distributions.md) | InSyncHandedBackSuccess | [Details](#527ca0aa977c928204a1db165a77e20483931bda2517)
- [financials\fixed-assets\150-percent-reducing-balance-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/650c8b60ba8204e8990cf607c1c9901b8f0bb762/financials/fixed-assets/150-percent-reducing-balance-depreciation.md) | InSyncHandedBackSuccess | [Details](#0ec99c4bb0c86b1097a22fdc9785928267b80ade2787)
- [financials\fixed-assets\175-percent-reducing-balance-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/650c8b60ba8204e8990cf607c1c9901b8f0bb762/financials/fixed-assets/175-percent-reducing-balance-depreciation.md) | InSyncHandedBackSuccess | [Details](#cf428d61f89ea70a83e440c656fbc84d7dbded8d2788)
- [financials\fixed-assets\200-percent-reducing-balance-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/650c8b60ba8204e8990cf607c1c9901b8f0bb762/financials/fixed-assets/200-percent-reducing-balance-depreciation.md) | InSyncHandedBackSuccess | [Details](#c4cbbe5690fb9c8a2190b5fe5d8f506cb9cc8e102789)
+ [financials\accounts-payable\accounting-distributions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/accounting-distributions.md) | InSyncHandedBackSuccess | [Details](#96ff984310ce5877c37a22f182064a5038d717522572)
+ [financials\fixed-assets\150-percent-reducing-balance-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/fixed-assets/150-percent-reducing-balance-depreciation.md) | InSyncHandedBackSuccess | [Details](#99535abef547b928eaf7d6d79a29e5e2ed245f032842)
+ [financials\fixed-assets\175-percent-reducing-balance-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/fixed-assets/175-percent-reducing-balance-depreciation.md) | InSyncHandedBackSuccess | [Details](#40bbb07deb455d922244fc3856871cda7107543e2843)
+ [financials\fixed-assets\200-percent-reducing-balance-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/fixed-assets/200-percent-reducing-balance-depreciation.md) | InSyncHandedBackSuccess | [Details](#5376278b2db7a998796f2f84ec23bd2f848bfe592844)
 
 ## Item Details
-##### <a name='527ca0aa977c928204a1db165a77e20483931bda2517'></a> Source: [financials\accounts-payable\accounting-distributions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/650c8b60ba8204e8990cf607c1c9901b8f0bb762/financials/accounts-payable/accounting-distributions.md)
+##### <a name='96ff984310ce5877c37a22f182064a5038d717522572'></a> Source: [financials\accounts-payable\accounting-distributions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/accounting-distributions.md)
 * Status: InSyncHandedBackSuccess
-* Target File: [financials\accounts-payable\accounting-distributions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/blob/d73847ffad1b20fb763ee461cb55d8dbe76b532b/financials/accounts-payable/accounting-distributions.md)
-* Handoff File: [accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.cs-cz.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/062cec6977125e55e54a5ed948f0bf729d471169/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/master/basic/accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.cs-cz.xlf)
-* Handoff Datetime: 2017-04-28 19:27:38
+* Target File: [financials\accounts-payable\accounting-distributions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/blob/6f161963e28374f6ce84dd86f7757cc5b38a2c04/financials/accounts-payable/accounting-distributions.md)
+* Handoff File: [accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.cs-cz.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/5e3b0bfadf6bb1b7788b9ec3bd02b4fd18854fef/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/master/basic/accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.cs-cz.xlf)
+* Handoff Datetime: 2017-06-01 13:02:52
 * Handoff Reason: Include
 * Handoff Name: 
-* Archive File: [accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.cs-cz.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b96529575c9cbd843946bc4278faac63183d9f41/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/master/basic/accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.cs-cz.xlf)
-* Archive Datetime: 2017-04-28 19:27:43
-* Handback File: [accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.cs-cz.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/a81b5ccd96d52610fc91ba1003db2017b9163afb/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/master/basic/accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.cs-cz.xlf)
-* Handback Datetime: 2017-04-28 19:53:22
+* Archive File: [accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.cs-cz.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/d6fd1614b565d61fb7bd9dae77cac5e5739ea375/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/master/basic/accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.cs-cz.xlf)
+* Archive Datetime: 2017-06-01 13:03:00
+* Handback File: [accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.cs-cz.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/e873b20d7e29c47c64aba4d914d5833d28a30124/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/master/basic/accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.cs-cz.xlf)
+* Handback Datetime: 2017-06-01 13:26:57
 * Handback Name: 
-* Bilingual File: [accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.cs-cz.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/a81b5ccd96d52610fc91ba1003db2017b9163afb/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/master/basic/accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.cs-cz.xlf)
-* Bilingual Datetime: 2017-04-28 19:57:27
+* Bilingual File: [accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.cs-cz.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/e873b20d7e29c47c64aba4d914d5833d28a30124/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/master/basic/accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.cs-cz.xlf)
+* Bilingual Datetime: 2017-06-01 13:32:10
 * [Back to Top](#report-top)
 
-##### <a name='0ec99c4bb0c86b1097a22fdc9785928267b80ade2787'></a> Source: [financials\fixed-assets\150-percent-reducing-balance-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/650c8b60ba8204e8990cf607c1c9901b8f0bb762/financials/fixed-assets/150-percent-reducing-balance-depreciation.md)
+##### <a name='99535abef547b928eaf7d6d79a29e5e2ed245f032842'></a> Source: [financials\fixed-assets\150-percent-reducing-balance-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/fixed-assets/150-percent-reducing-balance-depreciation.md)
 * Status: InSyncHandedBackSuccess
-* Target File: [financials\fixed-assets\150-percent-reducing-balance-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/blob/d73847ffad1b20fb763ee461cb55d8dbe76b532b/financials/fixed-assets/150-percent-reducing-balance-depreciation.md)
-* Handoff File: [150-percent-reducing-balance-depreciation.cad059fa33adcc13f8de41959a5cecfa373a7d0d.cs-cz.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/062cec6977125e55e54a5ed948f0bf729d471169/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/master/basic/150-percent-reducing-balance-depreciation.cad059fa33adcc13f8de41959a5cecfa373a7d0d.cs-cz.xlf)
-* Handoff Datetime: 2017-04-28 19:27:38
+* Target File: [financials\fixed-assets\150-percent-reducing-balance-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/blob/6f161963e28374f6ce84dd86f7757cc5b38a2c04/financials/fixed-assets/150-percent-reducing-balance-depreciation.md)
+* Handoff File: [150-percent-reducing-balance-depreciation.cad059fa33adcc13f8de41959a5cecfa373a7d0d.cs-cz.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/5e3b0bfadf6bb1b7788b9ec3bd02b4fd18854fef/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/master/basic/150-percent-reducing-balance-depreciation.cad059fa33adcc13f8de41959a5cecfa373a7d0d.cs-cz.xlf)
+* Handoff Datetime: 2017-06-01 13:02:52
 * Handoff Reason: Include
 * Handoff Name: 
-* Archive File: [150-percent-reducing-balance-depreciation.cad059fa33adcc13f8de41959a5cecfa373a7d0d.cs-cz.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b96529575c9cbd843946bc4278faac63183d9f41/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/master/basic/150-percent-reducing-balance-depreciation.cad059fa33adcc13f8de41959a5cecfa373a7d0d.cs-cz.xlf)
-* Archive Datetime: 2017-04-28 19:27:43
-* Handback File: [150-percent-reducing-balance-depreciation.cad059fa33adcc13f8de41959a5cecfa373a7d0d.cs-cz.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/a81b5ccd96d52610fc91ba1003db2017b9163afb/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/master/basic/150-percent-reducing-balance-depreciation.cad059fa33adcc13f8de41959a5cecfa373a7d0d.cs-cz.xlf)
-* Handback Datetime: 2017-04-28 19:53:22
+* Archive File: [150-percent-reducing-balance-depreciation.cad059fa33adcc13f8de41959a5cecfa373a7d0d.cs-cz.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/d6fd1614b565d61fb7bd9dae77cac5e5739ea375/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/master/basic/150-percent-reducing-balance-depreciation.cad059fa33adcc13f8de41959a5cecfa373a7d0d.cs-cz.xlf)
+* Archive Datetime: 2017-06-01 13:03:00
+* Handback File: [150-percent-reducing-balance-depreciation.cad059fa33adcc13f8de41959a5cecfa373a7d0d.cs-cz.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/e873b20d7e29c47c64aba4d914d5833d28a30124/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/master/basic/150-percent-reducing-balance-depreciation.cad059fa33adcc13f8de41959a5cecfa373a7d0d.cs-cz.xlf)
+* Handback Datetime: 2017-06-01 13:26:57
 * Handback Name: 
-* Bilingual File: [150-percent-reducing-balance-depreciation.cad059fa33adcc13f8de41959a5cecfa373a7d0d.cs-cz.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/a81b5ccd96d52610fc91ba1003db2017b9163afb/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/master/basic/150-percent-reducing-balance-depreciation.cad059fa33adcc13f8de41959a5cecfa373a7d0d.cs-cz.xlf)
-* Bilingual Datetime: 2017-04-28 19:57:27
+* Bilingual File: [150-percent-reducing-balance-depreciation.cad059fa33adcc13f8de41959a5cecfa373a7d0d.cs-cz.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/e873b20d7e29c47c64aba4d914d5833d28a30124/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/master/basic/150-percent-reducing-balance-depreciation.cad059fa33adcc13f8de41959a5cecfa373a7d0d.cs-cz.xlf)
+* Bilingual Datetime: 2017-06-01 13:32:10
 * [Back to Top](#report-top)
 
-##### <a name='cf428d61f89ea70a83e440c656fbc84d7dbded8d2788'></a> Source: [financials\fixed-assets\175-percent-reducing-balance-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/650c8b60ba8204e8990cf607c1c9901b8f0bb762/financials/fixed-assets/175-percent-reducing-balance-depreciation.md)
+##### <a name='40bbb07deb455d922244fc3856871cda7107543e2843'></a> Source: [financials\fixed-assets\175-percent-reducing-balance-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/fixed-assets/175-percent-reducing-balance-depreciation.md)
 * Status: InSyncHandedBackSuccess
-* Target File: [financials\fixed-assets\175-percent-reducing-balance-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/blob/d73847ffad1b20fb763ee461cb55d8dbe76b532b/financials/fixed-assets/175-percent-reducing-balance-depreciation.md)
-* Handoff File: [175-percent-reducing-balance-depreciation.4159b5ea508458b0a16bf03122e9fa9491546088.cs-cz.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/062cec6977125e55e54a5ed948f0bf729d471169/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/master/basic/175-percent-reducing-balance-depreciation.4159b5ea508458b0a16bf03122e9fa9491546088.cs-cz.xlf)
-* Handoff Datetime: 2017-04-28 19:27:38
+* Target File: [financials\fixed-assets\175-percent-reducing-balance-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/blob/6f161963e28374f6ce84dd86f7757cc5b38a2c04/financials/fixed-assets/175-percent-reducing-balance-depreciation.md)
+* Handoff File: [175-percent-reducing-balance-depreciation.4159b5ea508458b0a16bf03122e9fa9491546088.cs-cz.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/5e3b0bfadf6bb1b7788b9ec3bd02b4fd18854fef/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/master/basic/175-percent-reducing-balance-depreciation.4159b5ea508458b0a16bf03122e9fa9491546088.cs-cz.xlf)
+* Handoff Datetime: 2017-06-01 13:02:52
 * Handoff Reason: Include
 * Handoff Name: 
-* Archive File: [175-percent-reducing-balance-depreciation.4159b5ea508458b0a16bf03122e9fa9491546088.cs-cz.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b96529575c9cbd843946bc4278faac63183d9f41/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/master/basic/175-percent-reducing-balance-depreciation.4159b5ea508458b0a16bf03122e9fa9491546088.cs-cz.xlf)
-* Archive Datetime: 2017-04-28 19:27:43
-* Handback File: [175-percent-reducing-balance-depreciation.4159b5ea508458b0a16bf03122e9fa9491546088.cs-cz.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/a81b5ccd96d52610fc91ba1003db2017b9163afb/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/master/basic/175-percent-reducing-balance-depreciation.4159b5ea508458b0a16bf03122e9fa9491546088.cs-cz.xlf)
-* Handback Datetime: 2017-04-28 19:53:22
+* Archive File: [175-percent-reducing-balance-depreciation.4159b5ea508458b0a16bf03122e9fa9491546088.cs-cz.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/d6fd1614b565d61fb7bd9dae77cac5e5739ea375/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/master/basic/175-percent-reducing-balance-depreciation.4159b5ea508458b0a16bf03122e9fa9491546088.cs-cz.xlf)
+* Archive Datetime: 2017-06-01 13:03:00
+* Handback File: [175-percent-reducing-balance-depreciation.4159b5ea508458b0a16bf03122e9fa9491546088.cs-cz.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/e873b20d7e29c47c64aba4d914d5833d28a30124/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/master/basic/175-percent-reducing-balance-depreciation.4159b5ea508458b0a16bf03122e9fa9491546088.cs-cz.xlf)
+* Handback Datetime: 2017-06-01 13:26:57
 * Handback Name: 
-* Bilingual File: [175-percent-reducing-balance-depreciation.4159b5ea508458b0a16bf03122e9fa9491546088.cs-cz.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/a81b5ccd96d52610fc91ba1003db2017b9163afb/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/master/basic/175-percent-reducing-balance-depreciation.4159b5ea508458b0a16bf03122e9fa9491546088.cs-cz.xlf)
-* Bilingual Datetime: 2017-04-28 19:57:27
+* Bilingual File: [175-percent-reducing-balance-depreciation.4159b5ea508458b0a16bf03122e9fa9491546088.cs-cz.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/e873b20d7e29c47c64aba4d914d5833d28a30124/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/master/basic/175-percent-reducing-balance-depreciation.4159b5ea508458b0a16bf03122e9fa9491546088.cs-cz.xlf)
+* Bilingual Datetime: 2017-06-01 13:32:10
 * [Back to Top](#report-top)
 
-##### <a name='c4cbbe5690fb9c8a2190b5fe5d8f506cb9cc8e102789'></a> Source: [financials\fixed-assets\200-percent-reducing-balance-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/650c8b60ba8204e8990cf607c1c9901b8f0bb762/financials/fixed-assets/200-percent-reducing-balance-depreciation.md)
+##### <a name='5376278b2db7a998796f2f84ec23bd2f848bfe592844'></a> Source: [financials\fixed-assets\200-percent-reducing-balance-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/fixed-assets/200-percent-reducing-balance-depreciation.md)
 * Status: InSyncHandedBackSuccess
-* Target File: [financials\fixed-assets\200-percent-reducing-balance-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/blob/d73847ffad1b20fb763ee461cb55d8dbe76b532b/financials/fixed-assets/200-percent-reducing-balance-depreciation.md)
-* Handoff File: [200-percent-reducing-balance-depreciation.f0892b1d49ecabf5e77307a2514d5e46c3c45215.cs-cz.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/062cec6977125e55e54a5ed948f0bf729d471169/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/master/basic/200-percent-reducing-balance-depreciation.f0892b1d49ecabf5e77307a2514d5e46c3c45215.cs-cz.xlf)
-* Handoff Datetime: 2017-04-28 19:27:38
+* Target File: [financials\fixed-assets\200-percent-reducing-balance-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/blob/6f161963e28374f6ce84dd86f7757cc5b38a2c04/financials/fixed-assets/200-percent-reducing-balance-depreciation.md)
+* Handoff File: [200-percent-reducing-balance-depreciation.f0892b1d49ecabf5e77307a2514d5e46c3c45215.cs-cz.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/5e3b0bfadf6bb1b7788b9ec3bd02b4fd18854fef/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/master/basic/200-percent-reducing-balance-depreciation.f0892b1d49ecabf5e77307a2514d5e46c3c45215.cs-cz.xlf)
+* Handoff Datetime: 2017-06-01 13:02:52
 * Handoff Reason: Include
 * Handoff Name: 
-* Archive File: [200-percent-reducing-balance-depreciation.f0892b1d49ecabf5e77307a2514d5e46c3c45215.cs-cz.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b96529575c9cbd843946bc4278faac63183d9f41/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/master/basic/200-percent-reducing-balance-depreciation.f0892b1d49ecabf5e77307a2514d5e46c3c45215.cs-cz.xlf)
-* Archive Datetime: 2017-04-28 19:27:43
-* Handback File: [200-percent-reducing-balance-depreciation.f0892b1d49ecabf5e77307a2514d5e46c3c45215.cs-cz.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/a81b5ccd96d52610fc91ba1003db2017b9163afb/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/master/basic/200-percent-reducing-balance-depreciation.f0892b1d49ecabf5e77307a2514d5e46c3c45215.cs-cz.xlf)
-* Handback Datetime: 2017-04-28 19:53:22
+* Archive File: [200-percent-reducing-balance-depreciation.f0892b1d49ecabf5e77307a2514d5e46c3c45215.cs-cz.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/d6fd1614b565d61fb7bd9dae77cac5e5739ea375/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/master/basic/200-percent-reducing-balance-depreciation.f0892b1d49ecabf5e77307a2514d5e46c3c45215.cs-cz.xlf)
+* Archive Datetime: 2017-06-01 13:03:00
+* Handback File: [200-percent-reducing-balance-depreciation.f0892b1d49ecabf5e77307a2514d5e46c3c45215.cs-cz.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/e873b20d7e29c47c64aba4d914d5833d28a30124/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/master/basic/200-percent-reducing-balance-depreciation.f0892b1d49ecabf5e77307a2514d5e46c3c45215.cs-cz.xlf)
+* Handback Datetime: 2017-06-01 13:26:57
 * Handback Name: 
-* Bilingual File: [200-percent-reducing-balance-depreciation.f0892b1d49ecabf5e77307a2514d5e46c3c45215.cs-cz.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/a81b5ccd96d52610fc91ba1003db2017b9163afb/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/master/basic/200-percent-reducing-balance-depreciation.f0892b1d49ecabf5e77307a2514d5e46c3c45215.cs-cz.xlf)
-* Bilingual Datetime: 2017-04-28 19:57:27
+* Bilingual File: [200-percent-reducing-balance-depreciation.f0892b1d49ecabf5e77307a2514d5e46c3c45215.cs-cz.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/e873b20d7e29c47c64aba4d914d5833d28a30124/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/master/basic/200-percent-reducing-balance-depreciation.f0892b1d49ecabf5e77307a2514d5e46c3c45215.cs-cz.xlf)
+* Bilingual Datetime: 2017-06-01 13:32:10
 * [Back to Top](#report-top)
 
 
