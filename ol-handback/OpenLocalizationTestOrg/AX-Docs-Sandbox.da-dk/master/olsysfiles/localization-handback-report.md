@@ -1,11 +1,28 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [scm\cost-management\backflush-costing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/scm/cost-management/backflush-costing.md) | InSyncHandedBackSuccess | [Details](#fb8fa9f5f17b8d658e2d0fea3a9659ab095626113562)
 
 ## Item Details
+##### <a name='fb8fa9f5f17b8d658e2d0fea3a9659ab095626113562'></a> Source: [scm\cost-management\backflush-costing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/scm/cost-management/backflush-costing.md)
+* Status: InSyncHandedBackSuccess
+* Target File: [scm\cost-management\backflush-costing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/blob/ff4ed49234cd4090617fc7efa3b0d40b99e7131d/scm/cost-management/backflush-costing.md)
+* Handoff File: [backflush-costing.2ef1d321821a11a74e4866c87f8651e3deebf3f8.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/a992a399ab74e80c58d47f2151a6d5f5f6d0cd2b/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/backflush-costing.2ef1d321821a11a74e4866c87f8651e3deebf3f8.da-dk.xlf)
+* Handoff Datetime: 2017-06-01 13:03:57
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: [backflush-costing.2ef1d321821a11a74e4866c87f8651e3deebf3f8.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/563ddc2a1a7ff2587b74bc79d5cdca4aeb946152/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/backflush-costing.2ef1d321821a11a74e4866c87f8651e3deebf3f8.da-dk.xlf)
+* Handback Datetime: 2017-06-01 13:27:22
+* Handback Name: 
+* [Back to Top](#report-top)
+
 
 ## Error Details
 

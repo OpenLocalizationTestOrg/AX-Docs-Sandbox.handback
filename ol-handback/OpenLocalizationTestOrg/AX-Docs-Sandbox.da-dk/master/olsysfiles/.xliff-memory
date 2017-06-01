@@ -21487,8 +21487,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\fb8fa9f5f17b8d658e2d0fea3a9659ab09562611.c7ed57795178656bcee5ce9ea9030e9b87edde74.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\basic\\backflush-costing.2ef1d321821a11a74e4866c87f8651e3deebf3f8.da-dk.xlf",
+      "LocXliffCommit": "563ddc2a1a7ff2587b74bc79d5cdca4aeb946152"
     },
     "financials\\TOC.md.225f9fc07131a5fadaf198edaf8d550cc4b7bfbf.HT": {
       "SourceFilename": "financials\\TOC.md",
