@@ -316,7 +316,7 @@
       "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(\"Czech Republic\")",
       "priorities": [
         {
-          "priority": "basic",
+          "priority": "test",
           "locales": [
             "cs-cz",
             "sr-cyrl-rs" 
