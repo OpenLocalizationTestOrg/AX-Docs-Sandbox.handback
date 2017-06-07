@@ -316,22 +316,9 @@
       "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(\"Czech Republic\")",
       "priorities": [
         {
-          "priority": "test",
+          "priority": "basic",
           "locales": [
             "cs-cz",
-            "sr-cyrl-rs" 
-          ]
-        }
-      ]
-    },
-     {
-      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(\"Czech Republic\") |\ "audience.Contains(\"Application User\") && ms.search.region.Contains(\"Denmark\")",
-      "priorities": [
-        {
-          "priority": "test",
-          "locales": [
-            "cs-cz",
-            "da-dk",
             "sr-cyrl-rs" 
           ]
         }
@@ -717,7 +704,6 @@
       ]
     }
   ],
-  "forceHandoff": true,
   "autoHandbackNoChangeXliff":true,
    "includeDependencies":false,
    "autoPush":true,
