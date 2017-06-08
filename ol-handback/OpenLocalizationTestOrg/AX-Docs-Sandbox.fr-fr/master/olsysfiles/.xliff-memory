@@ -167,8 +167,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\505ecdac2f8f7bca18c0510ee883b221d43e6226.9621ecaf0865eb4adb5321e9d8ec6590858dc87f.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\record-templates.4bf65c8e308dbce51c571bc3187569140f74e111.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "manufacturing\\warehouse-management\\warehouse-mobile-devices-portal.md.38b35e2e8ac6e6197cdc08a0c4fd28241f7c6302.HT": {
       "SourceFilename": "manufacturing\\warehouse-management\\warehouse-mobile-devices-portal.md",
@@ -317,8 +317,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\ffa60ad4890a783c05bbde09aa00189fb30bd706.30e161963057d4349964ca90d652489432fdd313.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\set-up-assortments.818f0373c08b94df6ba2e9da06f841974ec6c9e5.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "core\\organization-administration\\configure-workflow-properties.md.a41f87bad969256a4918dcbb9654cac5e6189bca.HT": {
       "SourceFilename": "core\\organization-administration\\configure-workflow-properties.md",
@@ -767,8 +767,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\7d146f3dfe1d71e8d3031a851f47fac35d0f1a58.5d3f23cfb30e9e8734f6f86c7d2ca26efb58df59.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\shortcut-keys.1467b956f13e70f9c6ecbe2a62579bbc87a7d138.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\analytics-bi-reporting\\install-modern-report-design-templates.md.f641f02f55a0889869dc187f89d9aa9072021e09.HT": {
       "SourceFilename": "dev-itpro\\analytics-bi-reporting\\install-modern-report-design-templates.md",
@@ -787,8 +787,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\c67bbc5be31d337c5247851eba4ec00705451aa1.98060cd23212b5c9336ebd8001db185bab756e8b.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\recalculate-replacement-costs-insured-values-fixed-asset-groups.fc5a1c76e548ee15820ef99d2c85e84c1b094dcc.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\analytics-bi-reporting\\user-preferences-financial-report-designer.md.b38fdb7db7f6291747c4e33984d71c53851dc8c8.HT": {
       "SourceFilename": "dev-itpro\\analytics-bi-reporting\\user-preferences-financial-report-designer.md",
@@ -857,8 +857,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\08d7c4981aba7e7c092a6f21d3b63635e76437bf.4eaede4bdd22bba618e89093a16c6032836b08d6.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\take-discount-more-calculated-discount-vendor-payment.ebf55bf880c8bc50940c283b1450d881d3e02db9.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "financials\\cash-bank-management\\postdated-checks.md.40d0148c7aee931b996f4b4e47b8cc722e4ae233.HT": {
       "SourceFilename": "financials\\cash-bank-management\\postdated-checks.md",
@@ -957,8 +957,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\08f87cbb37f8b52ec5554c8ab940d96a77c53d20.2114af36c44cef3b5b528f2465403df8da105739.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\settle-partial-customer-payment-multiple-discount-periods.1aa76fa5b5e7ed43f6293fb20d899e89d3c33f8f.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "financials\\accounts-payable\\project-invoicing.md.d81049a095e65fefbdd7e6faf4e553fd4a93451a.HT": {
       "SourceFilename": "financials\\accounts-payable\\project-invoicing.md",
@@ -1237,8 +1237,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\021f0ce8ee73ede482b2b74fce93f61a886288fc.413b7196fc6dec44bc109a471a6a29ead2deec4c.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\retail-time-attendance.668abfa716486e8f62d9b8c17b670bf659f582aa.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "retail\\dev-itpro\\install-retail-hotfix.md.aaa9f8f1e1b4999fba3fe5727828dc3434fa5187.HT": {
       "SourceFilename": "retail\\dev-itpro\\install-retail-hotfix.md",
@@ -1647,8 +1647,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\04521c20ddeca1154b134b23c1db69f45c554ed3.ebebdeb5b0fc3c5dad9226afc9327ea554f51c2d.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\set-up-customer-loyalty-program.9928cb798556e53a937e8188d8a4294c1b03b4bb.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\dev-reference\\r-classes.md.fd6d30d07f120b24e1ed60eca773930b2c2a9a53.HT": {
       "SourceFilename": "dev-itpro\\dev-reference\\r-classes.md",
@@ -1787,8 +1787,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\4f8b77efabe0c002654dac0b80d721a79dc42003.30f33f7c059a2174dd457bf181123a8bb1aaf30d.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\reverse-vendor-payment.9cf6974e6f505b82cf4fd51f62093a6cb5f22042.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\analytics-bi-reporting\\sales-profitability-performance-content-pack.md.1396eb031860a0366e30b9a2306ed500c51fbc21.HT": {
       "SourceFilename": "dev-itpro\\analytics-bi-reporting\\sales-profitability-performance-content-pack.md",
@@ -1807,8 +1807,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\5ff3d87f610489608f0bebadd9bb4c9c5c727992.9a959891852bcb3b049562a7dd1372c3cdfa4001.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\straight-line-service-life-depreciation.0117fa462b2d8da5c704361028f8f6b8dc2b2c36.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "manufacturing\\cost-management\\common-sources-of-production-variances.md.86e807057645c4cf01c9c1cdc992b364c9834007.HT": {
       "SourceFilename": "manufacturing\\cost-management\\common-sources-of-production-variances.md",
@@ -1837,8 +1837,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\4d3682c486e80afd03ec5805575357f4e87781f2.0a1b9382b0db6391df5db21bc0dfa06e48866acb.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\set-up-collections.8b59f22a91ef12e7642de8b6bf5cd0a1fcd3e3ef.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\data-entities\\cross-company-behavior.md.e7912919468edd49d68d1b8ab2cc5f315f665ad2.HT": {
       "SourceFilename": "dev-itpro\\data-entities\\cross-company-behavior.md",
@@ -2057,8 +2057,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\8d5a9d9267c14ee045388c3b3b42b26f2fff45ea.f5e82f4f691725c92358f2944a933881d31d958b.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\round-off-amount-depreciation-calculations.84804a5a442319e8c09b07a98cdd985d03dfadff.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "financials\\public-sector\\budget-analysis-public-sector.md.cddde7a5881cf4e62c8521ea13c4aa9cb0d51546.HT": {
       "SourceFilename": "financials\\public-sector\\budget-analysis-public-sector.md",
@@ -2307,8 +2307,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\5e5043d5951015fc14d29989ef4cab20a8b24f3b.50a9c8eb8d538c393d316837f30783e2a063a15d.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\work-with-store-inventory.4101490f52116423ed865b29013643d2d313c0d8.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\dev-tools\\enable-development-machine.md.07ed2b2085ba30a36d75b86c6fa3daa658f2633e.HT": {
       "SourceFilename": "dev-itpro\\dev-tools\\enable-development-machine.md",
@@ -2467,8 +2467,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\4fbbd4d4b4ff9ecfcb30cd0ded2bc366d07dc1c4.a65007df9dbe30e026bb218903e69053b142f4dc.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\settle-partial-customer-payment-discounts-credit-notes.db5352fa58f471faf05e0b6c9a81ea953a242338.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\dev-tools\\database-synchronization.md.5a2820e017f5fa1f9aad4fe02e637539a9db2cbb.HT": {
       "SourceFilename": "dev-itpro\\dev-tools\\database-synchronization.md",
@@ -2777,8 +2777,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\930264f9c22cbde102b59237e432df7d7e4836c8.a7ac829cac75c35c1ceda75ecb7d1e0e8c5e7b40.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\work-with-payments.46282f2959a88aceee6c16e8dda732b215589468.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\data-entities\\data-entities-workflow.md.006e5d169ae776a6c70bf82c8c845bfd04d94871.HT": {
       "SourceFilename": "dev-itpro\\data-entities\\data-entities-workflow.md",
@@ -2837,8 +2837,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\8b58cb4f9de393b3f381dbe0aa4330d5ebd62795.993ed32d563833a503a5aa99086bbab283d43a06.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\whats-new-changed-application-version-7-0-1-may-2016.5e7cd49ab652efbf5408addfc65f721c3cda6e86.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "retail\\assess-customer-product-profitability.md.62f7a76ebb286ae5be474a82c8a4fabaecc0582e.HT": {
       "SourceFilename": "retail\\assess-customer-product-profitability.md",
@@ -2877,8 +2877,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\f13a193692a2d0dc3ec1536923a85717e11544c5.b61033bb6d6f56599fa6cfb02c4bf862f285cac4.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\set-up-bills-exchange.fcb8e0d418a2636ba7d003a476c4d52b56ec7c4e.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\lifecycle-services\\configure-lcs-security.md.af4e4a09a9ecf85c51851cdec1b1795ac674912c.HT": {
       "SourceFilename": "dev-itpro\\lifecycle-services\\configure-lcs-security.md",
@@ -3047,8 +3047,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\b9595cf287f59ddb7543f36b2b541200f70a9c96.9746aa019b28f556b5875084fbda3524d7010c88.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\set-up-interest-rates-interest-code.d9541058f231d2d5e016ad4017e7e1ef2db18ff5.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "manufacturing\\procurement-sourcing\\purchase-requisitions-workflow.md.1ae9d9cf8f13f52dbcf5ad1ce38f866657f859c8.HT": {
       "SourceFilename": "manufacturing\\procurement-sourcing\\purchase-requisitions-workflow.md",
@@ -3187,8 +3187,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\f227a630f7d1245d5db810d6d48df2b20f699185.f52ddf9fe4a2e201614aea805c81e02036c675c5.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\settle-partial-vendor-payment-discounts-vendor-credit-notes.125f0a9f6632cbbc7c39e4e6bd728552b853088e.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\user-interface\\file-upload-control.md.47a73ca07cb5add8453013de54f742362343e129.HT": {
       "SourceFilename": "dev-itpro\\user-interface\\file-upload-control.md",
@@ -3207,8 +3207,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\e49d7d931b0796e4d62065793e7e79745c816682.87fe27e4d446b098352fe4c4a262e5cb86a79f03.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\shift-drawer-management.15d4a61eb22417c4cd3812671746d9c8e6657235.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\analytics-bi-reporting\\document-reporting-services.md.62a360c229aec3d3321b544e913f25d923c04f8f.HT": {
       "SourceFilename": "dev-itpro\\analytics-bi-reporting\\document-reporting-services.md",
@@ -3417,8 +3417,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\a3a12080efcb138365c26981abd51222c51663ff.ee0674ecde84166438562ab00b59cbab8f986c9a.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\workflow-elements.4c8fa8e855f828f73b5cd7e38c6b33ca43fbc8db.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "hr\\localizations\\north-america\\benefit-accrual-plan-tasks.md.04f550092f6ba3584eed10126f424be0d9cb691f.HT": {
       "SourceFilename": "hr\\localizations\\north-america\\benefit-accrual-plan-tasks.md",
@@ -3477,8 +3477,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\5e18a488fed92de3278b438af67ae72fdbe229b4.726d2497301083721c5e50471dda1c2752c451cc.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\work-with-order-holds.39fa37cae0ebdd653668aeaef72a39c5c083b419.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\analytics-bi-reporting\\setup-security-cost-accounting-content-pack.md.f2db9f332b690e5437cfc871eb4effd2ea62acf3.HT": {
       "SourceFilename": "dev-itpro\\analytics-bi-reporting\\setup-security-cost-accounting-content-pack.md",
@@ -3717,8 +3717,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\868018a921fd9ecf21dcd935c435ed0ccbf443ba.1ee2ea20658910f2b2007f27caf1918e8eb629ae.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\reimbursements-public-sector.f245837585c36b9cbdce3cd941895570912241c3.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "financials\\public-sector\\accounts-receivable-public-sector.md.ddbea278f30b55a8b049fc7d5a41d5c513ccb621.HT": {
       "SourceFilename": "financials\\public-sector\\accounts-receivable-public-sector.md",
@@ -3877,8 +3877,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\2544b299267ec6e21adf5c657c23f545fc66a0b3.f42331cddb14f5d3622662d906bb0db7514e28b4.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\retail-hierarchies.bfc771a5a1bd56eea9d2f807d5a19dda407c2fb6.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "manufacturing\\warehouse-management\\cycle-counting.md.1ad1c77d82e8aff797a569d54870d83a584cb1e1.HT": {
       "SourceFilename": "manufacturing\\warehouse-management\\cycle-counting.md",
@@ -4207,8 +4207,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\7b71cbe75f2d7e8f20201e8fa50df8ea1021c4de.f8be84a2e35febea690c82a0fe628797614ceca1.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\set-up-bar-code-masks.4cb9beb273e3a554985e45d73097efc484f255b9.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "financials\\cash-bank-management\\configure-settlement.md.21331214d31aeff0d6279013f6c0f87503202ad6.HT": {
       "SourceFilename": "financials\\cash-bank-management\\configure-settlement.md",
@@ -4307,8 +4307,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\b1038ea950141f0e7d4678cac9edd3b0bd5beb6f.bdb1dfd63f7621ee777e60b3b83f1eb41728d622.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\single-voucher-multiple-customer-vendor-records.0884b4537e818fb8e59d52e20558e0fb55f53e26.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "manufacturing\\warehouse-management\\configure-mobile-devices-warehouse_work.md.92947ad2c74dfc778f63e41c25406e3ffd8f0a67.HT": {
       "SourceFilename": "manufacturing\\warehouse-management\\configure-mobile-devices-warehouse_work.md",
@@ -4407,8 +4407,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\a0fdea7560c6a43f973cc79ebc117ce1e21d73fb.8f3584f42a55754e6eefa93067b70e3b264bee9f.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\set-up-retail-products.61461f9be5e6a2a94b367d0c7e3ada6083b3acf8.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "financials\\project-management\\work-breakdown-structures.md.40231f50725eb7ef219e20515874e30bf9f945e5.HT": {
       "SourceFilename": "financials\\project-management\\work-breakdown-structures.md",
@@ -4697,8 +4697,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\c0a9eec6bdf67deca885b30082b958869e64aae2.be04c137f2ee0dc196499510057175d90cbe4daa.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\set-up-continuity-program.827ba8f1ecfe227824b787155434aace549c473b.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "financials\\localizations\\north-america\\form-1099-public-sector.md.df5ec27f072e29bfe0da6a970d3b81423d05db1f.HT": {
       "SourceFilename": "financials\\localizations\\north-america\\form-1099-public-sector.md",
@@ -4837,8 +4837,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\7255f2b7e49f56a731d0e3745b4752091013668b.e40557f10478753c62a507480e6e8f59596f8dec.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\set-up-fraud-alerts.b886722d8cc4333dff351e2a6f6a730cebb5f773.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\analytics-bi-reporting\\pin-power-bi-reports.md.99c9e752cd42743aee7ad2d0563db4784f7f6e9a.HT": {
       "SourceFilename": "dev-itpro\\analytics-bi-reporting\\pin-power-bi-reports.md",
@@ -5057,8 +5057,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\568000b37fa067dfd34b4ee0642e4ba6cbe3aa54.239b27a2055c9855cc160ccd9baa75c873c9f6d0.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\qa-address-books.4c67cc482fd4b4198c2861ddb912614f471bec75.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "manufacturing\\inventory-management\\enable-quality-management.md.c1a9bad4ec8aaa653967c63b509211acb9fd41cf.HT": {
       "SourceFilename": "manufacturing\\inventory-management\\enable-quality-management.md",
@@ -5307,8 +5307,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\16ff8ebb0e620f45c4d290ee5076d5505abf3436.33503b4d30dc631b8cdaa302ae5cffebcd21d74a.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\vendor-invoices-overview.c9c5dbec16eddcacbaf3ac05349c618e079baa2d.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "financials\\budgeting\\consolidation-elimination-overview.md.09f365d95a71236ebce42ba66399050d35bc85d3.HT": {
       "SourceFilename": "financials\\budgeting\\consolidation-elimination-overview.md",
@@ -5647,8 +5647,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\e1a3560013271fc1b83bdb931aef2153b1d07317.e39b70b32ecc131e6655ac8399a3d557b2d7374c.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\set-up-company-specific-hr-parameters.e4c81fc59b4e1d58bdfa1eeca3bc2ba5b65fa23b.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "hr\\localizations\\north-america\\form-i-9-verification.md.949825d96909b4b4f78103d4ddf8a2b4afe7610a.HT": {
       "SourceFilename": "hr\\localizations\\north-america\\form-i-9-verification.md",
@@ -5767,8 +5767,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\f93d548adc4ae81eb89ac7c01cdae79d20b763aa.aa31e5e33adace9e47440f01cf47caa973ef2f22.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\set-up-hr-parameters-across-legal-entities.1a5aca2d65f26f46dd26c31be61f22c3d993be9b.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\lifecycle-services\\ax-2012\\analysis-functionality-idmf-workspace.md.674de4b1bf4f8395bdb5083e462a0c5982fbaea6.HT": {
       "SourceFilename": "dev-itpro\\lifecycle-services\\ax-2012\\analysis-functionality-idmf-workspace.md",
@@ -5977,8 +5977,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\b9f66a9a907cf01046c78677a3f1d55f112fa8c7.db256a49ca7672b74487640cd0e08fc8006c7b0c.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\three-way-matching-policies.224aee51a7647b6142334a9126107aa8bfda4b7a.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\user-interface\\select-form-pattern.md.fce5ac3e8ecae2b5ad868731ed46fffaa2045fa7.HT": {
       "SourceFilename": "dev-itpro\\user-interface\\select-form-pattern.md",
@@ -6287,8 +6287,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\c3201166eb7054205647a54ed80f98968fcfda6e.32876a5c020a5f86c0715cd4c9cfc039a501a257.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\reimburse-customers.e6cffed8fc11ede176e69b2e846a0dfb39424218.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "financials\\general-ledger\\year-end-close.md.e2fe27f73f27fbb6838c567dfabeddc9adea5656.HT": {
       "SourceFilename": "financials\\general-ledger\\year-end-close.md",
@@ -6317,8 +6317,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\7ec117598a6a008e5b274179659b515824029874.4f6637df22fb44b69973767d38c9d77c15b0d06c.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\round-sales-tax-payments.bb10a85a715808ca78d85f9290f97d3bd4cbca00.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\lifecycle-services\\ax-2012\\install-run-system-diagnostics-lcs.md.6f736c42f8a3102abdc05be4a85a4de866ee7714.HT": {
       "SourceFilename": "dev-itpro\\lifecycle-services\\ax-2012\\install-run-system-diagnostics-lcs.md",
@@ -6367,8 +6367,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\52b56274c8b72c67bc0a50f23114cebc510f1667.3c0151fc4b326896fc557d7eabcf7200dcf1fa7e.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\set-up-order-processing-options.8b7faf681f20283c69e99e71bd3ee66d5d6e8dbd.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "hr\\benefit-eligibility-policies.md.150e5f53acf4fb1a3a2c215bd0143dc77b764c26.HT": {
       "SourceFilename": "hr\\benefit-eligibility-policies.md",
@@ -6647,8 +6647,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\2dbb8874323631a9bddb226834adf87d014c1c2f.8f26df5a6bf7107a6944b838048061ee475984be.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\vendor-posting-profiles.d3f07384ca26e11c00a1f9bb651e57a534f234e3.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "manufacturing\\inventory-management\\quality-management-processes.md.31e12752ab052e34e17f451133610d83d42307de.HT": {
       "SourceFilename": "manufacturing\\inventory-management\\quality-management-processes.md",
@@ -6737,8 +6737,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\97f5aa378aa11cb89176cbcba63e32f690833d47.36afd9cf3ec711df0c348a8079e55fdba462d9ff.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\waive-reinstate-reverse-interest-fees.f46dae48a1b915df97f2dbe0d9362503a3e4b83d.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\analytics-bi-reporting\\aggregate-data-entities-report.md.74bcba3ff5d335081c4ae6e4a0a10f7e77340762.HT": {
       "SourceFilename": "dev-itpro\\analytics-bi-reporting\\aggregate-data-entities-report.md",
@@ -6757,8 +6757,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\353880e162e38c7b2e89656be8cdffe5fbc30250.8f025650783e6f8ca41921adfc35b6fff8dae030.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\trial-balance-financial-reports.c161630859897ccd701480e96c920dad2028f537.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "manufacturing\\production-control\\report-boms-as-finished.md.5b3e21b3350c3890d85e16605e25df958e1bfa03.HT": {
       "SourceFilename": "manufacturing\\production-control\\report-boms-as-finished.md",
@@ -6857,8 +6857,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\15da62064521ec614764c42b57a20d32b110587a.49ab4d13318690503a9de1afc9ce82c270142b76.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\take-cash-discount-outside-cash-discount-timeframe.3796c4af8a4766942ada163e5ed5de9dff4ce127.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "financials\\general-ledger\\balance-sheet-financial-reports.md.323b48f08006318f684b89dc58f09012329ec446.HT": {
       "SourceFilename": "financials\\general-ledger\\balance-sheet-financial-reports.md",
@@ -7087,8 +7087,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\9f7c47c3dc22b2f3c2ea08085326be08011eca4e.8075d55683817eb225b8092b27806e2df22e8ecc.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\retail-peripherals-overview.0be022b387792598676e60c1243ed2a319ec8741.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\dev-tools\\get-evaluation-copy.md.92c7d3b7ceac20aae05919aa6dd3aaf0f26a2e3f.HT": {
       "SourceFilename": "dev-itpro\\dev-tools\\get-evaluation-copy.md",
@@ -7127,8 +7127,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\ebf80efa32b21184a8effdde4d46c4d0d2179efd.8f19bc6b566e1330b44f6154071b42f07324257a.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\sepa-direct-debit-mandate.781f8fce825644559aa1ed2a065487fcb5f2f8ee.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "financials\\accounts-receivable\\collections-credit-accounts-receivable.md.1b58e6d6a3d09578abfafc1c9a72d67a2c6c6361.HT": {
       "SourceFilename": "financials\\accounts-receivable\\collections-credit-accounts-receivable.md",
@@ -7177,8 +7177,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\81368294164ca4ca1915d73f8f5622e61f5d1fc8.2284a6b15d7555a4e9ff0522bf50f2290990fe59.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\reconcile-bank-statements-advanced-bank-reconciliation.9c166e6edbd011f94f951d228bd6bdb2c4f221da.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "financials\\accounts-payable\\invoice-matching-intercompany-purchase-orders.md.304a0703e9ee66b85b92bd7e57a2f431f8d4bd40.HT": {
       "SourceFilename": "financials\\accounts-payable\\invoice-matching-intercompany-purchase-orders.md",
@@ -7227,8 +7227,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\e89ba808b9f78c987ef98b5999e158f91b46a4b3.4095b17c831ff01e10c0583df5b7139e3d10fa96.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\set-up-bank-reconciliation-matching-rules.b90657e2c02ecda8bd171fc084ef52072faa2c99.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\lifecycle-services\\ax-2012\\join-enterprise-portal-servers-single-server-farm.md.fd22ca918716c6e3e9374f6d202118edfcfbd1bb.HT": {
       "SourceFilename": "dev-itpro\\lifecycle-services\\ax-2012\\join-enterprise-portal-servers-single-server-farm.md",
@@ -7277,8 +7277,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\f82ed69aaaf4d3345ef4e74a338124465dcf2358.1d81b12f369429136f4047198450692bd85cdeb8.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\set-up-generate-positive-pay-files.7cb3ab4799982d9de70c5af5ce749fb1517ed32a.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "financials\\fixed-assets\\150-percent-reducing-balance-depreciation.md.ebda8743b09ca867869537148ce17fabe3253a5d.HT": {
       "SourceFilename": "financials\\fixed-assets\\150-percent-reducing-balance-depreciation.md",
@@ -7487,8 +7487,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\8773773d9686bf5061958fbe414ed1fef7288f81.fc192620ac21947b8497f1ee1c28c860f6b17157.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\resolve-invoice-totals-invoice-matching-discrepancies.4310854157eafdf835f9588a67148de8f32d2749.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "manufacturing\\warehouse-management\\pack-materials-packing-material-fees.md.dbaa1874aee496b116a93be541b1a07126175997.HT": {
       "SourceFilename": "manufacturing\\warehouse-management\\pack-materials-packing-material-fees.md",
@@ -8017,8 +8017,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\48812d33be6b84bbe0eac15adc4bd41a3ea8706b.2e92fd778159db63e815e26f031196a471f0e58a.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\vendor-payments-partial-amount.d43f3e1f797ee045870672edfd6da20ee3e3e31d.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "manufacturing\\sales-marketing\\delivery-dates-available-promise-calculations.md.3a11d3f62c57793d9cb0fa34d831c2fb51a59880.HT": {
       "SourceFilename": "manufacturing\\sales-marketing\\delivery-dates-available-promise-calculations.md",
@@ -8147,8 +8147,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\1d5deb781d938dd31326826049372f705bdf6938.4a6d7f2106e00c7094e2180f2abb075b05585a0b.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\set-up-rfm-analysis.b9f51ccbb4569b7e5dd8c5afdf4c6ed2f2434eed.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "financials\\localizations\\asia-pacific\\gst-malaysia.md.e2023869c4cdc84019144f9b5519437a5045e072.HT": {
       "SourceFilename": "financials\\localizations\\asia-pacific\\gst-malaysia.md",
@@ -8377,8 +8377,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\f182f719d2e20673db9b576d9831e060c351a550.52ddd772d8fce11818a6f4588c5c381fd7726c20.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\set-up-bar-codes.43d8f9422f8d254d1ef0bfaaee6f2929b976f20c.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\lifecycle-services\\submit-request-dynamics-service-engineering-team.md.4cd18bef6118abbda30ee3e457fc288825bf569b.HT": {
       "SourceFilename": "dev-itpro\\lifecycle-services\\submit-request-dynamics-service-engineering-team.md",
@@ -8437,8 +8437,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\1a454a487a0879234eee76a39b2f095d1d80ea1e.cfe3946f51c24fb091e65931ce32d84495a9ad9e.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\settle-partial-vendor-payment-before-discount-or-final-payment-after.001fa026ccf34be237092916092368faca9494aa.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "financials\\fixed-assets\\post-derived-value-models.md.671774a160a3204fd20c92e7bb830f19d57874bc.HT": {
       "SourceFilename": "financials\\fixed-assets\\post-derived-value-models.md",
@@ -8847,8 +8847,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\894aaaaa844447030dae73826d326f99366aa068.8bea933e70e42f803209c544b42d2ba399acd0c1.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\retail-peripheral-simulator.360dc97d386d4ecef96ab7f53e21abc463b19c30.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "manufacturing\\inventory-management\\trace-items-raw-materials-inventory-production-sales.md.d2e4baaafdf1e4f98d1d9dcd255e395d710f0087.HT": {
       "SourceFilename": "manufacturing\\inventory-management\\trace-items-raw-materials-inventory-production-sales.md",
@@ -8957,8 +8957,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\e31e24e06bb069ebe565a63b1cc4ff4c66dcf452.b1532ee41fc11c38322141836b1e52edffce34d5.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\store-performance-information.0f6f4db6dd79570779eeda7ffb8e739e0fa24419.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\user-interface\\lookup-form-pattern.md.5a5f2aa3f99e7d28aa11f9a31f9343c9d04d785d.HT": {
       "SourceFilename": "dev-itpro\\user-interface\\lookup-form-pattern.md",
@@ -9287,8 +9287,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\463a81d615e6820b6ab45592cd21e28a76c6c04d.8bd232a1a5f4ea2168aedeec8fa9becbc00ef345.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\set-up-process-recurring-invoices.5c754354a623fd897306981e8e2692d70e5db38c.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "financials\\general-ledger\\posting-definitions.md.427af382cfc440cf90a57a1170199bb7a418bf63.HT": {
       "SourceFilename": "financials\\general-ledger\\posting-definitions.md",
@@ -9307,8 +9307,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\11cf53af2db453471175cec5de63d38f8b680c9b.f33c105d9e5f0f1f136b62cdcf0843cb56e2e91e.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\quick-import-export.9d56921b506819ee1e1e11b57cda0e99671533fb.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "manufacturing\\production-control\\time-attendance-registrations.md.06a8c773039e71aa5f284d3eeb016f26cf0d4b76.HT": {
       "SourceFilename": "manufacturing\\production-control\\time-attendance-registrations.md",
@@ -9407,8 +9407,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\43413aad9d537e518f7276ccab11ce01d23cf13f.b2e27b10cb5377be2ea0243f557fdeedfa314df1.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\upgrade-bank-journal-composite-entity.38d1486d69980586b0b03662a5bbc8b2e38087e6.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\dev-tools\\developer-tools-add-ins.md.d36e6fb3c75698f487f2f386e7c0d143f7c40d15.HT": {
       "SourceFilename": "dev-itpro\\dev-tools\\developer-tools-add-ins.md",
@@ -10057,8 +10057,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\dd8e6fb1100cdbb8f0b5ad778b322243c72529ba.9db1e01382a5f677c43fc5307e2d45a0f343ffba.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\settlement-overview-centralized-payments.772688e2f960cec3c2ee1c92067512b12ea88e33.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\analytics-bi-reporting\\design-financial-reports.md.176417cf8a7f2d1531d5db1919923ac794eac5a9.HT": {
       "SourceFilename": "dev-itpro\\analytics-bi-reporting\\design-financial-reports.md",
@@ -10267,8 +10267,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\fe14f765555d8b0f05777a1b7fb0f5edda96ef63.6d4e467fd3f786984d125f74bcb6e59fc4626c17.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\workflow-actions.8aa81c3d5971cff7db95a7904b2b63a15c4ef7d2.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "hr\\use-workflow-to-manage-employee-information.md.953fcd4b404c6ed4c7b088dff2d4b63117e9615d.HT": {
       "SourceFilename": "hr\\use-workflow-to-manage-employee-information.md",
@@ -10367,8 +10367,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\b2f75266283e633438978757504782f395c54bed.bfc75a03897c165e9be764ab400a0e5d6c962e06.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\settle-partial-vendor-payment-multiple-discount-periods.6fb9d075d3eeb6dbd026861a8fceb8e927f3d1b4.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "manufacturing\\product-information-management\\system-defined-user-defined-table-constraints.md.04810edab614cde85d39210145e5aecc4a2f4f6a.HT": {
       "SourceFilename": "manufacturing\\product-information-management\\system-defined-user-defined-table-constraints.md",
@@ -10617,8 +10617,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\4b5e773645f5446b02c627a1d333b359dd0fe808.dd2e9effd08e2eddb42a991ccd656ff6152e710f.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\purchase-order-codes-public-sector.e741d9f81afc106db92f7943a540cfba5d432eb6.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\office-integration\\office-integration-tutorial.md.a8f588c0924a2668bc6aa3d2eb6597adb2bc515f.HT": {
       "SourceFilename": "dev-itpro\\office-integration\\office-integration-tutorial.md",
@@ -10737,8 +10737,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\093047d43a39fa723eb99e3daf34cf33fa81a099.0607ca40286317477be0f7e08ebfa468d023d75c.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\whole-amount-interval-options-sales-tax-codes.d94b6e5aeafd36a6c828563618f01499c07162ea.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "hr\\localizations\\north-america\\garnishment-tax-levy-administrative-fees.md.6c9a43d2a06d8f6f32bafbcb518f93c2566d6f1e.HT": {
       "SourceFilename": "hr\\localizations\\north-america\\garnishment-tax-levy-administrative-fees.md",
@@ -10867,8 +10867,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\4399cf66e423d2e6436c664e6485a77d9ad75d69.e68b0ba27b679fe7f4c2555aaa15610ff3f353ce.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\settle-partial-customer-payment-before-discount-or-final-payment-after.deb455c87b73bc2aab233b998571612f2dc76f06.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "core\\get-started\\configure-filter-workspaces.md.3e0998a707d7035ed9a83739e377515b2a163665.HT": {
       "SourceFilename": "core\\get-started\\configure-filter-workspaces.md",
@@ -10957,8 +10957,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\06915686e1421742c2f1dd1ebbb02491f04431fd.da6c5f5e0cde1e3d918fdc129ae9f71859b4e288.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\set-up-manage-images-retail-mpos.7879fd43f2f6ee0ef28df51aa314dfe3dc9f504b.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "manufacturing\\production-control\\bill-of-material-bom.md.e5e82a75192598f69a9655ba131de25e8a0bac2e.HT": {
       "SourceFilename": "manufacturing\\production-control\\bill-of-material-bom.md",
@@ -11807,8 +11807,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\8c772f9adf9a0f50cde62744f676da669936ff8e.fee0821a96442a1a9047ddfa7076305e830d24d4.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\set-up-fixed-assets.424293fc8e1ecb9f42d998cffd8a84e3d6114ea2.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "financials\\cash-bank-management\\import-bank-statement-file-failed-incorrect-results.md.3bcdd7e749e30f4a02772387910eb5f8d9b4b0f1.HT": {
       "SourceFilename": "financials\\cash-bank-management\\import-bank-statement-file-failed-incorrect-results.md",
@@ -11867,8 +11867,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\1a700f61bcc6e6d9c699987999be25649862b0d8.a6417b9e781c293a5edbf2021bb898b3a30cbe96.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\work-breakdown-structures.6ef2c82b0afacec14a1dd99432785933009845f2.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "financials\\fixed-assets\\fixed-assets.md.8b994b4ed4706bf0df9707aabf1443b935faffaa.HT": {
       "SourceFilename": "financials\\fixed-assets\\fixed-assets.md",
@@ -12207,8 +12207,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\50a6a23febc725eb05d30d5db4f97ca699607461.59848b19fda6499903203e2f86a00852184a5f5c.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\year-end-close.7f871f373e98cae9c49026fb2d0b1473ab4b7cc1.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\TOC.md.ab45eee67edcd5081e335c360015b16861f69a67.HT": {
       "SourceFilename": "dev-itpro\\TOC.md",
@@ -12577,8 +12577,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\652fbdb7a96c516ca1fc17357683d94b85cd93f3.4b0b95b092fde2b23e2dd0443dba0edef6262b64.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\use-lookups-to-find-information.6c95b59469a46db81d7984fbffb5abe565dd16a3.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "financials\\budgeting\\budgeting-overview.md.af8dfd62436106af6eaa07c39df9ec3c29ce7da9.HT": {
       "SourceFilename": "financials\\budgeting\\budgeting-overview.md",
@@ -12837,8 +12837,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\f3b20b033fc701204cbb3f62468a421b3bdd6a80.699bb2fec2192d8d16e75158f732651d853c18d1.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\sepa-direct-debit-overview.dc3fb371a605d92871dc391270e0e3e48b8f9649.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "financials\\fixed-assets\\factor-depreciation.md.c9fd3ca5c0da1deaea864940ee87254e3eaf9614.HT": {
       "SourceFilename": "financials\\fixed-assets\\factor-depreciation.md",
@@ -12987,8 +12987,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\765825ba43cad44b076ea6628d2787011e97fc57.5de404788757af971901275ea49c68f225214e02.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\straight-line-life-remaining-depreciation.14ba07d977bbdd188a11f37b48eb564713e98724.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "financials\\fixed-assets\\reduce-balance-depreciation.md.06cd0b192f2edec0be9082656c19650cf58c45b2.HT": {
       "SourceFilename": "financials\\fixed-assets\\reduce-balance-depreciation.md",
@@ -12997,8 +12997,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\114264fba678e9dc222a304fc7e2c2214b213c98.369c811a6bf09c4ab73a28d9436d6be45cc8f916.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\reduce-balance-depreciation.020746765f3314994cc97ff549e43ab24dabc10e.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\user-interface\\section-list-form-pattern.md.7be3568f8907d110a3787e581c442fb1e584c662.HT": {
       "SourceFilename": "dev-itpro\\user-interface\\section-list-form-pattern.md",
@@ -13147,8 +13147,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\f07fafed4ef80f8d6c692ef24e29252ffdf95b75.98f21588260c2c3f81b3440c55cb7c8c77d5e12f.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\settlement-priority-public-sector.107ed9a7a7e6f2650f2616c713a8a7ebcb282105.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "retail\\dev-itpro\\hardware-station-extensibility.md.474479c0246229b778093f3379c97f4ba03c1bdb.HT": {
       "SourceFilename": "retail\\dev-itpro\\hardware-station-extensibility.md",
@@ -13237,8 +13237,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\fda4dca4339c09757477b04166b17d5f92f46a7c.452617e22edf9e740b6a7e55680d246f1f89d421.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\set-up-advanced-bank-reconciliation-import-process.3415bf1e98c9cc5b38aad985d1db035bb93f8ece.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\user-interface\\drop-dialog-form-pattern.md.c2db3ba3e6783bf674ccd6d1d6d7c113e5b9a719.HT": {
       "SourceFilename": "dev-itpro\\user-interface\\drop-dialog-form-pattern.md",
@@ -13357,8 +13357,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\7ce12337c22542aea2002ffc5abd09e4f4d770c1.27721dde8394f9a6af0b8c832a50fa9830873003.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\terms-cost-accounting.837dfd5d6e3321097394a1cd5b20b7bcc0e42483.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "financials\\accounts-payable\\accounts-payable.md.80fe27a0b0e6c9b0f8bef9df16fe7adf42752e9f.HT": {
       "SourceFilename": "financials\\accounts-payable\\accounts-payable.md",
@@ -13657,8 +13657,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\acf92df86fbae784fa9bd462f2ee0b5ae3ac91e5.8acedda2fa3173e0b63c637907900775b70a6f45.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\year-end-processing-public-sector.13b23b5d68da2e44142b0f5edb63019ff4786818.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\perf-test\\testing-validation.md.c8f628cd0b3b413c86908a0e563459364514241c.HT": {
       "SourceFilename": "dev-itpro\\perf-test\\testing-validation.md",
@@ -13767,8 +13767,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\346dde3acdaca367c80cc092f0d8faa2dc28c6b6.4a4c52bd00cc02116eecdc10e716d0167f49e796.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\purchase-order-approval-confirmation.b4dbaf66e0cf4e42c6b52a4d49c8435ff829e1b4.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\financial\\TOC.md.b2db0cb6ede651c6d7c4086d24b98c1c0ab4f9db.HT": {
       "SourceFilename": "dev-itpro\\financial\\TOC.md",
@@ -13837,8 +13837,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\b8692a3033cd665402721ea18ba8c28557c049de.6cc4ad724ae1a057501a7095f87b5f51717d1079.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\set-up-consignment.3e838bca8fd5ddad07907ec448473bf81f14d81b.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\dev-ref\\formfasttabsummaryseparator-classes.md.e777951875ac34647909054d5c852e87a322c5b7.HT": {
       "SourceFilename": "dev-itpro\\dev-ref\\formfasttabsummaryseparator-classes.md",
@@ -13917,8 +13917,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\81332eed9cf3745442007f98d36bc56e7095d9f8.018489e3460fcaa6931e29cd6e8df8a27dba233b.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\registration-manufacturing-execution.b6c8fc4e2c2dcfe1737d5e0153f3d78b59075ba3.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\analytics\\organizational-training-analysis-power-bi-content-pack.md.9152bcefe3f1381a298a9906d483953a86ab9932.HT": {
       "SourceFilename": "dev-itpro\\analytics\\organizational-training-analysis-power-bi-content-pack.md",
@@ -13987,8 +13987,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\88633426fd23370f64730480629ab33ad7124812.ea1e767f9194c12724e7a2411eb6b04d10a7c4a6.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\reconcile-freight-transportation-management.f4081ac5d7c1c39a490aa52a6d9c4005d25172d0.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "scm\\warehousing\\configure-mobile-devices-warehouse.md.0e6f07711403873cb754d01a5c9c40462041a0be.HT": {
       "SourceFilename": "scm\\warehousing\\configure-mobile-devices-warehouse.md",
@@ -14217,8 +14217,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\bee95a2f3d9727e9123aa0abcf41325e6cac1efd.d9c0c726d7445c36ec58963d2999cab95f4a8819.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\set-up-vendor-accounts.002f4eeb8105ce0b064614178ee76b820c0c3481.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "scm\\production-control\\default-order-settings.md.eee8082bb76d16ae3326db20c07434cc0587b77a.HT": {
       "SourceFilename": "scm\\production-control\\default-order-settings.md",
@@ -14457,8 +14457,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\cfeb5a6d980318871c74baa58d5d48bf11a6bb58.3e670dcf16e13b65b4c188753d161b5616ec7760.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\reverse-production-order-status.4e17f68120eb4aeabff333fd85c9b44ec0aff4b7.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\analytics\\financial-performance-power-bi-content-pack.md.e02553ed443a9c640156bf7a71a5e402a14f79ad.HT": {
       "SourceFilename": "dev-itpro\\analytics\\financial-performance-power-bi-content-pack.md",
@@ -14557,8 +14557,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\6e223c2d9a683d7b92b73d3fe3d3c8b22684d22c.3e5ceda8a12e0c08a57c693116a19c09b4267106.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\standard-cost-conversion-overview.76894c331862cf5930895236bb35b2d62c6a6958.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "hr\\localizations\\noam-usa-benefit-accrual-plan-tasks.md.3bd6f408aa1d56c5f40093b8bc8b29457ea286b0.HT": {
       "SourceFilename": "hr\\localizations\\noam-usa-benefit-accrual-plan-tasks.md",
@@ -14707,8 +14707,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\1b033e4bf6705b3c9a33f2184666158049909a80.0244706a8b81fe61a13290d212afb3b404a7da82.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\release-production-orders.0583e112b1d21bf9e5c331d7078d5425c9c5f242.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\financial\\financial-dimensions-main-accounts-right-left-language.md.7c6b0ac9c575869406840662ee892d331d57ea62.HT": {
       "SourceFilename": "dev-itpro\\financial\\financial-dimensions-main-accounts-right-left-language.md",
@@ -14727,8 +14727,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\472b977dcffb4cadb91621586763e0fd471d5c46.38f30601878bc2a0cd5046f26bb0e8220f54410d.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\update-standard-costs-non-manufacturing-environment.6035efe876b84469250da584b923040add2dfe92.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\analytics\\general-electronic-reporting-formulas-list-extension.md.3ae1eb1ee1a4e931fc3ffbbe9e36e63d46c1402a.HT": {
       "SourceFilename": "dev-itpro\\analytics\\general-electronic-reporting-formulas-list-extension.md",
@@ -14807,8 +14807,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\a06b821bd8e23abb8af5e7e7ef93acc85e87386a.c117e2724f27d14ef94ae0c6100c8b930b75f173.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\reuse-product-configurations.0e4a47b47b0a947ad6bc21298bca1c867f58e4a4.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\lcs-solutions\\process-data-packages-lcs-solutions.md.baa1e5ec823a847b7d69b306c8cd8816154cfbce.HT": {
       "SourceFilename": "dev-itpro\\lcs-solutions\\process-data-packages-lcs-solutions.md",
@@ -15167,8 +15167,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\f420341a7d5d12825a983ee96e814f0eedbc60c4.57ac022e2549b6ce4d1a7b41782b440191b09913.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\sales-tax-calculation-methods-origin-field.dbbdeee42b08c3cd4413699a8abf29a105750759.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\dev-ref\\xpp-reflection-run-time-functions.md.aef5763681ee8ba7d53f66947f2b42a9e450864d.HT": {
       "SourceFilename": "dev-itpro\\dev-ref\\xpp-reflection-run-time-functions.md",
@@ -15337,8 +15337,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\240174c1399f778313a800e0ed5f19fdd899fc07.3dfecb010a8e47f00c2f8917265197337afa439f.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\unit-measure-stocking-policies.e9fe3b900754c9bd3b5a08d6051963a45cf344d2.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\deployment\\csp-download-customersource.md.2b2418c13b6797ee0defaa944af2416f207cd5e6.HT": {
       "SourceFilename": "dev-itpro\\deployment\\csp-download-customersource.md",
@@ -15377,8 +15377,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\796bf42f103bd6d14e872138d07e4a911ddcab1a.631ec443003708e3619a5bd178222f0ca223fd88.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\transportation-management-overview.70794d25da954da44754971595fa77a8ded02ad8.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "financials\\localizations\\apac-sgp-generate-gst-05-report.md.8cede88ddda1b91dd43d0e2406c1e5e64f574b2e.HT": {
       "SourceFilename": "financials\\localizations\\apac-sgp-generate-gst-05-report.md",
@@ -15457,8 +15457,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\6cfc342121e0c5919784911275234fc99c85ede8.85c0fbeccbe7a6bcb1f4bcbe3af5999492c5341e.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\settle-partial-vendor-payment-or-final-payment-before-discount.a001b1ffd103771e808c0be63634dd26f15c3af1.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "scm\\procurement\\procurement-sourcing-overview.md.7b88e21520463aa2da879f5529751af237342a34.HT": {
       "SourceFilename": "scm\\procurement\\procurement-sourcing-overview.md",
@@ -15567,8 +15567,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\cd9e85a54335f321d78a480d1f8ab345b9c8a00b.395c4752ebd40e59822881edab7e3736c27314f2.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\setup-security-cost-accounting-content-pack.0cce33f86ee14ac1c15aebd668bd89daaa5e73ae.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "scm\\warehousing\\install-configure-warehousing-app.md.29c509763eaa535667d480d831650f49d8cc0b53.HT": {
       "SourceFilename": "scm\\warehousing\\install-configure-warehousing-app.md",
@@ -15587,8 +15587,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\2d28e92fa853d155bc62932625e0e714cdf4edcc.cda437a5aeb97cd68fead6c85662e290bd1c942c.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\purchase-requisitions-workflow.80387fe86e9510ca5fd4ecc7c3121d74772774e4.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "scm\\master-planning\\maintain-planned-orders.md.73d3f9c881798cfb074f478d12a09224b6c68676.HT": {
       "SourceFilename": "scm\\master-planning\\maintain-planned-orders.md",
@@ -15697,8 +15697,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\d356017ac0413b92ff9734800231ba1979dac242.2d779b27b5cb4a63e127adabe5b56ad52c5928fd.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\sales-agreements.8b0c1a9a657d818a9a58733d46488b4dc6f3f1f6.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\dev-ref\\e-classes.md.bb2063968297954716c04e5d9a738eace55b7bb5.HT": {
       "SourceFilename": "dev-itpro\\dev-ref\\e-classes.md",
@@ -15767,8 +15767,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\d984a6af2b48f02120ea61b385522a6400d93d4a.fd67e6eddf989c7cb5c13bb7876ab9180fbdb39f.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\register-serial-numbers-sales-process.5ff44866919b35a5b99eb55844262e78dbd4679d.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\analytics\\create-powerbi-report-dashboard.md.26d679a4758916a5e8f5e3f2726ea311a4dc08bf.HT": {
       "SourceFilename": "dev-itpro\\analytics\\create-powerbi-report-dashboard.md",
@@ -16267,8 +16267,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\4f5ca047835fcbb2567f0b97347b356e1b594980.b927d295c291f791ad41060d8e694521f7e59cb9.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\track-running-average-cost-per-inventory-dimension.a859c18c75d80ea9e5381cbfffbd1f66615a85cc.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\analytics\\financial-reporting-tree-definitions.md.a5537138666e43d103a41ed18b56a249ffa4cdec.HT": {
       "SourceFilename": "dev-itpro\\analytics\\financial-reporting-tree-definitions.md",
@@ -16397,8 +16397,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\52607d645c6eaf4ff97d2c4bf8abc6ec1374fd7e.2e98ecd140d13ad7707dbe80f904c702c61d5756.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\report-production-orders-as-finished.5eb7181d8d0032524c9a72c5bcd5e3539b4de78d.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\dev-ref\\xpp-math-run-time-functions.md.49c3f249f83f9c3fb18043eab603c21f43a6f5a6.HT": {
       "SourceFilename": "dev-itpro\\dev-ref\\xpp-math-run-time-functions.md",
@@ -16457,8 +16457,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\bdec28ba1fe3650f59520cb42a71497c54a7d93e.ffb31d80f7f18fa120ca81a3ba187bb9e25cdeb2.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\sales-returns.1c54bd707ad02b6ea21a9deecf5c400883c3ea60.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "core\\organization-administration\\plan-configuration-global-address-book-additional-address-books.md.c4b135e0f3b2149d0f43c9d18b5ba29cfe6ec099.HT": {
       "SourceFilename": "core\\organization-administration\\plan-configuration-global-address-book-additional-address-books.md",
@@ -16607,8 +16607,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\72735c9e3fb4291076f0b577f45384dec319b2a7.50400375a849420678ecef412f6f4d9fb9aea46f.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\remove-historical-outliers-calculating-demand-forecast.87071943b4500350ad3314c780e7ec9b439f761f.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "financials\\budgeting\\budget-planning-overview-configuration.md.a2bf3752e276646027cf5962dbe75b5dd28925db.HT": {
       "SourceFilename": "financials\\budgeting\\budget-planning-overview-configuration.md",
@@ -16637,8 +16637,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\ce3ff2ac0a5bd9bd342baa05425d7d0957ab8a09.bd69add847a8fcafa389da3e2b36da330325ed0f.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\reduction-keys.4c248142680b542dd0303f8318fb567cc1a2035a.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\get-started\\whats-new-dynamics-365-operations-1611.md.09ac6e6e481b17aa45ecb29b40d66fcd7980eff8.HT": {
       "SourceFilename": "dev-itpro\\get-started\\whats-new-dynamics-365-operations-1611.md",
@@ -16727,8 +16727,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\3abc4e6f648ecc10105346ce181d8bc752d95f17.6e01b1d059285072a6bd312ea6c6ae28ba59e2e5.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\routes-operations.36308eb1a69066614e6f914185906e5a38456f90.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\user-interface\\build-customer-form.md.a56c7a36380fe179998154e00584c52bf743dd73.HT": {
       "SourceFilename": "dev-itpro\\user-interface\\build-customer-form.md",
@@ -16777,8 +16777,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\f6b4ccf4d7f9727819831b07221d859e3c5cdd39.2b45141f0df3f69d7505a136de89029e5b3c16a1.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\resource-capabilities.23e57c621d691c1c8e16d48bd27b5092c202a22c.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\data-entities\\data-entities-sales-marketing.md.4c1ea53ac08f28ca21320a586b0db196eca49946.HT": {
       "SourceFilename": "dev-itpro\\data-entities\\data-entities-sales-marketing.md",
@@ -16817,8 +16817,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\4b12a2c8983cf7bef770417f76df324293f06fb2.76d563d522b07d0524db115a4256a8f89fe0faaa.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\recruiting-analysis-power-bi-content-pack.76c0428aa12702a8a7d28d661e343f2ab3455b19.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "scm\\procurement\\vendor-collaboration-work-customers-dynamics-365-operations.md.b93bba81a81dfa08d7ac2710049ef7ae7c813e52.HT": {
       "SourceFilename": "scm\\procurement\\vendor-collaboration-work-customers-dynamics-365-operations.md",
@@ -16827,8 +16827,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\1649014855d8d5e0f1225a661c9b6bae6490f597.92b8b61499341c32e66be6c7f111482324290ce5.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\vendor-collaboration-work-customers-dynamics-365-operations.11ecd3c680ce82f8ecd56789ff9aa1860b3faab0.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "scm\\sales-marketing\\order-entry-deadlines.md.ee26e64252d352970a9c66aa827e91b1ce567c36.HT": {
       "SourceFilename": "scm\\sales-marketing\\order-entry-deadlines.md",
@@ -16897,8 +16897,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\f463da3a8db0f5e255f3d097759193598df883b6.ddfa072eb8410978648c01ad9d356c4f53f0b639.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\questionnaires.f65a842c0556f3a7ca624d6b509ec303b76d2f61.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\dev-tools\\build-debug-project.md.3a149db1ec8317001c91535c8219a62f74de6d21.HT": {
       "SourceFilename": "dev-itpro\\dev-tools\\build-debug-project.md",
@@ -16957,8 +16957,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\7b21d4e93ec22715d530b75f75f3ba475e561f62.58b9ecdb2639ea5df66dc10390d37a388614459b.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\vendor-agreements-project-contracts.1f1cdd56429bb1636366d0953a3325c07cd7a3a1.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "scm\\cost-management\\cost-categories-used-production-control-project-management-accounting.md.0819329d1a51f34c917fdbe230e00280487261ee.HT": {
       "SourceFilename": "scm\\cost-management\\cost-categories-used-production-control-project-management-accounting.md",
@@ -16977,8 +16977,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\1a1740f322972b1c37f23a0422fdcb4435253710.4e5fbdff37110c59b46a8f8a29ef18816d4d09ad.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\tips-tricks-import-general-journal-entity.dc3bd73159b01922e8e3da48b4649b5fafdee73f.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "scm\\cost-management\\costing-sheets.md.7c8bf254f18a45fc819ee7eaeed08951f84e6a31.HT": {
       "SourceFilename": "scm\\cost-management\\costing-sheets.md",
@@ -17067,8 +17067,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\3960cc3eb9b8d488973d258db45aa0ab9f1dd988.89a6d8200c77ee83aa6cb763e328aecec87a9382.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\search-products-product-variants.8a3875afe8da666b0df47a8c702ddedb98595574.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "scm\\sales-marketing\\overview-sales-marketing.md.5f907e5515602fda93643b9ae7adf372eb04e4cc.HT": {
       "SourceFilename": "scm\\sales-marketing\\overview-sales-marketing.md",
@@ -17107,8 +17107,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\26b5029068904d4af5849eab9135f50b3291f642.3ec6d329a23876e400249f864c5249ef8302dc5b.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\report-boms-as-finished.bd07f061c19d2b56d269ec1ed10a7c4881a6db94.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "scm\\production-control\\sales-orders-mobile-workspace.md.b2151689214d0896d5c21660622afa61b5f881f0.HT": {
       "SourceFilename": "scm\\production-control\\sales-orders-mobile-workspace.md",
@@ -17177,8 +17177,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\a73ce12f1064c44b2af0fa4f33c63f1a6bddab89.c46d3d46cbd8b6f6886514d67a3bf23415f5d8f1.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\running-average-cost-price.40f926c2b6aef20e32aa560e25ac99bd6667bfe3.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "financials\\accounts-payable\\settle-partial-customer-payment-or-final-payment-before-discount.md.2701afe8b38bd95c7188cdb6fef3174bc674e5d2.HT": {
       "SourceFilename": "financials\\accounts-payable\\settle-partial-customer-payment-or-final-payment-before-discount.md",
@@ -17187,8 +17187,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\08b5fc87fdee476cd978bcc242cea324ac4bcee2.0134e7c0f7a5562caf5ba0938c957142fb274289.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\settle-partial-customer-payment-or-final-payment-before-discount.e9d73a9bbe8383b342e275e59778628e6beaefe2.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "scm\\procurement\\set-up-maintain-vendor-collaboration.md.c4d3dc8acc3306864a4028fd69bc8054b877a557.HT": {
       "SourceFilename": "scm\\procurement\\set-up-maintain-vendor-collaboration.md",
@@ -17307,8 +17307,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\d232473a1df0b821c6f39553ad826c61ff9ecff8.189d1ba734c4c85e3a93dd4ab2cd6256c6cd8137.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\translations-product-related-information.24a7bffffdaa1327ffbc50900ed1a4ba6e5cec04.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\analytics\\configure-power-bi-integration.md.985288c8f5d73167d044e27d9533f2b1f3af1f3d.HT": {
       "SourceFilename": "dev-itpro\\analytics\\configure-power-bi-integration.md",
@@ -17377,8 +17377,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\63d8c5827a95693a903428322367a4eec61f17d8.0ea547ea91fd13e77e58f4a0a78b8b3cdef0b815.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\quarantine-orders.55d093b0304b3f8f35525582d77eb170115d6f0e.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\data-entities\\data-entities-costing.md.c6493e379db96f8c21a73920c7af03f13cbbc57e.HT": {
       "SourceFilename": "dev-itpro\\data-entities\\data-entities-costing.md",
@@ -17407,8 +17407,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\6c9cdf361e4d4543e6aca962e9ec712428bc76e6.ab7034d5424417b8d9fb7591aed674db6877fe7e.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\warehouse-work-policies.67ae24a272e196cc0c6868ce4e4d55a8c63c1afe.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\analytics\\create-powerbi-report-data.md.eacd9bc07de3f7594860bb3a382d5d7a61ce7f04.HT": {
       "SourceFilename": "dev-itpro\\analytics\\create-powerbi-report-data.md",
@@ -17477,8 +17477,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\c47486fa12a985797373c9d0e3b766fd69157366.f8db75695be619173e75db48d887ab0b3e8e11d9.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\security-roles-public-sector.010a5729aba585d3a9196646d7cbb93c2ed2557a.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\deployment\\apply-deployable-package-system.md.0c24494a2bfd42b2af3466f6a58b8b493ee012bf.HT": {
       "SourceFilename": "dev-itpro\\deployment\\apply-deployable-package-system.md",
@@ -17577,8 +17577,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\2a3f611d29e041a5f05e3f93fd2330f4218b9dd1.d183c832ffeb430e44d91ab74a92544af0fe586c.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\workforce-analysis-power-bi-content-pack.8f4f0698ecdd95d3af867a2d8ddc32b4efb8c21a.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "financials\\accounts-payable\\mobile-invoice-approvals.md.7cbac797931487964c1629b88f253d837bd92616.HT": {
       "SourceFilename": "financials\\accounts-payable\\mobile-invoice-approvals.md",
@@ -17617,8 +17617,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\8b44dc66cdcd1ede59cb9bb4ed05be27dd465599.bbf5e7584ac8ba6fbd04fde55867b342e6fb82c4.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\task-recorder-training-docs.659ef36a97d81aa314d12eb92d4f47e71838e24a.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "scm\\inventory\\reserve-inventory-quantities.md.7afabaedb6686e71fc9b9c0be51bd26535c9c770.HT": {
       "SourceFilename": "scm\\inventory\\reserve-inventory-quantities.md",
@@ -17627,8 +17627,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\942a1e9ddcf6e0952da66b239e1884cb83369175.4f5939280c75a4acc93a7e15c730a1aa2548e022.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\reserve-inventory-quantities.2c82f4ad95b2c6661e91f0ca583fadf0d18e54b0.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "scm\\procurement\\purchase-requisitions-overview.md.1a318bf014fbcf81fc61b246add90e2a583cffe1.HT": {
       "SourceFilename": "scm\\procurement\\purchase-requisitions-overview.md",
@@ -17637,8 +17637,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\38e7fba3fbd12de3a1cd9ac7b1c627834978ba30.fb65e80503e71ecff3717a4316618c6d3f3c16a8.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\purchase-requisitions-overview.46fde5b1ad9544c967f849e5064cc449b2e84a04.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\dev-tools\\application-explorer.md.ef3f4edf1c816eefbc27d70bd7ea20e703fb96e0.HT": {
       "SourceFilename": "dev-itpro\\dev-tools\\application-explorer.md",
@@ -17757,8 +17757,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\74ad59504d6bbea0c604e0f0b83e74c915e84019.d523a2303d06209f59e15354f372df1dc974be08.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\update-standard-costs-manufacturing-environment.daec768776e5ee053a5f1324f6360945801d4a76.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "scm\\procurement\\configure-security-vendor-portal-users.md.06a7852fc68888a571da61cae736c643178d981a.HT": {
       "SourceFilename": "scm\\procurement\\configure-security-vendor-portal-users.md",
@@ -17837,8 +17837,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\07dc838b38b060d45930a24b13be3dc283457282.d73a12b2f56dafb333ff305a202a49e5ecd7ca7b.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\simulate-cost-changes-costing-version-planned-costs.f58c1e0c781877b6cc82c8af711ade91eb41339b.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\dev-ref\\application-explorer-aot-properties.md.efc43d235999070c59c1aeea1354382d31314f47.HT": {
       "SourceFilename": "dev-itpro\\dev-ref\\application-explorer-aot-properties.md",
@@ -17957,8 +17957,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\f5db69ed204b9503fb710426f449f38e76591641.e8c8bd94fbcae35b9437e9f37ee15e7ad2e404f9.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\transportation-management-engines.46d7e754be53f2da0a6a5524372b25e44d8f4f26.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "financials\\localizations\\emea-fra-derogatory-depreciation.md.b9dc27484c3cc7d7c9161915b75086b3d75c735c.HT": {
       "SourceFilename": "financials\\localizations\\emea-fra-derogatory-depreciation.md",
@@ -18127,8 +18127,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\d8f1b5614811faad3fda15809e4e606c93e6b786.7adeca70e17c94fa6af14afcf90aeb766fe10ed7.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\update-standard-costs-new-manufactured-item.96eed05989d0bcae8e6d0c736e361210331e7ddb.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\analytics\\electronic-reporting-configuration.md.739b34f8c265b1cb9bd0981c50e3eb981b4beabe.HT": {
       "SourceFilename": "dev-itpro\\analytics\\electronic-reporting-configuration.md",
@@ -18327,8 +18327,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\5c901dfa448a320d447b43dd5ab80417229f388b.95562fbb34ec1a3b5ebbf0bd213736c724678945.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\trace-items-raw-materials-inventory-production-sales.e68ba64b685a1bb876e4f4fa4e5a8d17546da7fd.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "scm\\cost-management\\weighted-average-physical-value-marking.md.083a10d157249c6b4f82cfb4dc4c6748f0d8a61b.HT": {
       "SourceFilename": "scm\\cost-management\\weighted-average-physical-value-marking.md",
@@ -18447,8 +18447,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\c548a2abcda261cb2bdf9d22425227e857df9c07.8032fb8f059fd8a30c87d16af89fc3a38dd4df23.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\trace-explosion.f5930a2d6177b04c2207b75172cbfd4bae27b6de.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "financials\\localizations\\emea-eu-sales-list.md.42d8628a8c1d54d720f2d1fe181d9b7df74695ca.HT": {
       "SourceFilename": "financials\\localizations\\emea-eu-sales-list.md",
@@ -18497,8 +18497,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\12193e4c266abc7bf0349ba9a78dbbbd9d00938d.f432f682d58c331a7975757e88dd2f7c59ac4300.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\time-attendance-registrations.cb18897e30f843e0b9c813f31c96ca0ce178d2c4.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "scm\\production-control\\inventory-on-hand-mobile-workspace.md.7c420d24107a29153df8528531c8814a96890d3c.HT": {
       "SourceFilename": "scm\\production-control\\inventory-on-hand-mobile-workspace.md",
@@ -18607,8 +18607,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\4b1d70a446bb4255375a36393778fe2ee6d6fa4e.3c842ec485375437c5cf036265eb1de1ad479ce9.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\system-defined-user-defined-table-constraints.0bbb55f775114bda7645260292e6e9e40fae8e5b.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\analytics\\bi-reporting-home-page.md.65c6bdaaacd6f23f99fb25afa22114df2cceadcc.HT": {
       "SourceFilename": "dev-itpro\\analytics\\bi-reporting-home-page.md",
@@ -18627,8 +18627,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\6ff44d517eb64d6472802ad057b680f4d2c7c1d5.41edcc827ba9f390dd5dbcf2bbed48cfe7b7e5ee.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\settlement-overview.023b600f9ca40e0ce4df5b91754c6663a4573e64.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "hr\\localizations\\noam-usa-work-cycle-work-period-tasks.md.f5178cfc988c74d6afc24de1031292fd6307e922.HT": {
       "SourceFilename": "hr\\localizations\\noam-usa-work-cycle-work-period-tasks.md",
@@ -18717,8 +18717,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\8307ad3be2bc2799abdf057123b6022c7032b191.8dbb4fc874bff3a9504ced3cecf441d9434f5660.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\set-up-maintain-product-configuration-model.21462ea25c917d7dbcc33e61b22c79980e427133.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\sysadmin\\maintenance-mode.md.8499d0bd5f18326ed995f6b2537288fd0d5b4f8a.HT": {
       "SourceFilename": "dev-itpro\\sysadmin\\maintenance-mode.md",
@@ -18767,8 +18767,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\88fa3fb97621e0f4a226a45b36809e824c807420.b3f92b368b58d418aa6560057690085bfbb1a469.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\purchase-order-overview.b2e46ca87648bc0684a47ffc3267272a4810d4fa.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "scm\\procurement\\request-quotations.md.b58eec28f4859e6e111d26719884fc651ecd5813.HT": {
       "SourceFilename": "scm\\procurement\\request-quotations.md",
@@ -18777,8 +18777,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\d681f4c107a9dbc1ea8c5e1de38b2d45cf19bcfa.b1e522553376d860fa3b1e5c5b6f217b01a91d9e.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\request-quotations.94cbcf4b3da776bec26f3db30b742e8c3ca0b7fa.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\analytics\\embed-power-bi-workspaces.md.e0b25b6625c4c9433e3316dfb1a4953b0b81335c.HT": {
       "SourceFilename": "dev-itpro\\analytics\\embed-power-bi-workspaces.md",
@@ -18947,8 +18947,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\5bd0c12ace98cf7d3c04ad4fdb5b2da72907dbf0.beb80e393854ba6c28e1faa97377858c155226db.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\substitute-items-bom-lines.6ea08268dc6d86e6877605ce3b47c158f0a3063a.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\migration-upgrade\\data-model-changes-resource-management.md.61c45e9ba17987c5ce0533e66fe865ab1c0e9425.HT": {
       "SourceFilename": "dev-itpro\\migration-upgrade\\data-model-changes-resource-management.md",
@@ -18977,8 +18977,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\8b02dbc0181c08611674cdf571075c20d78cebdc.fd0200a6862ee83436c87f2a0f1888eeb965fd6a.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\view-financial-reports.2a3bfed584a62394d03683ac9ebcb77a3a131b22.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\analytics\\power-bi-integration.md.06caf652a07bc94eeedf87d7401a05e99f40dc62.HT": {
       "SourceFilename": "dev-itpro\\analytics\\power-bi-integration.md",
@@ -18997,8 +18997,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\806860e5df9252c074e04e9e1670f4215fd94ca2.72421704cfdf3144a889abed1a1cf9d9edc2d925.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\workflow-manage-employee-information.11bc19fe7905c25639b1eb4e553d830996b7267d.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "scm\\master-planning\\delays.md.dc89c426ccb05cb0ea0b191e67692c6e3b87db8e.HT": {
       "SourceFilename": "scm\\master-planning\\delays.md",
@@ -19097,8 +19097,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\1b63173d1efe45bf048b9c2eed4dc6250c9ee9f1.b875142e107a660e65346e25d816eb00f0e4b9f2.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\reserve-same-batch-sales-order.6828ac744d2cb7226bca45a8c97d4b08c2e591dc.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "scm\\master-planning\\demand-forecasting-setup.md.00902b5141f730f8dcbae507370f08bed0c19554.HT": {
       "SourceFilename": "scm\\master-planning\\demand-forecasting-setup.md",
@@ -19307,8 +19307,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\83111c4d2b41f6e2fba41d550f153174d72d4710.8b446a69e2a8f339b8a6b96c4354b2afaf4db68f.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\replenishment.e9daaecd537d725b167fe98e63cc49444d23cd40.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "retail\\index.md.ca7f0c60ca646bd37f5de9d86e0e0b2e58803a89.HT": {
       "SourceFilename": "retail\\index.md",
@@ -19417,8 +19417,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\272856c01074a352e3945f29e9cdf7655aaf22ba.61ef5cfb11b38db69d4ca2b5c9c6c92a82af19f4.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\recently-added-editing-features-in-task-recorder.495ab625248de01186252ac8df4410accd38098f.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\deployment\\csp-download-customersource.md.9edee7710c479e9af8855f5d2e8775d3b9c35224.HT": {
       "SourceFilename": "dev-itpro\\deployment\\csp-download-customersource.md",
@@ -19457,8 +19457,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\d3c6d817424be79b09ccdd89deb7f31599fe9bf5.77681c1e6c3cfb592f4e12014c3621e3b05b925a.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\single-voucher-and-currency-revaluation-upgrade.f971dfdda632b6ad05d87f7b92ec3d12124f66ec.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\dev-tools\\TOC.md.adabf6c0103d503ffcf0a9c8dc61dad0a34e66a0.HT": {
       "SourceFilename": "dev-itpro\\dev-tools\\TOC.md",
@@ -19937,8 +19937,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\cd84c03baa4f7a9d38e380c37ed2020ee3387954.62fccab7871d83d654f95f8acff041af3e518bad.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\view-export-field-descriptions.23119a5ad40051de5ed7c8426d7aedbc44e574ad.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "scm\\cost-management\\weighted-average-date.md.4f72950a30af43f570361b97af9b8ccaa6f3d2b6.HT": {
       "SourceFilename": "scm\\cost-management\\weighted-average-date.md",
@@ -19947,8 +19947,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\2a0d3fe9dcdb58e40d519b2792700dd6d40bb99d.4a2cd2f468cf32568d062c8cbd509fa1b99c5bec.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\weighted-average-date.12d23d42b5d45212c61be96fb83ee47fb06bbf7c.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "retail\\dev-itpro\\trigger-example-blocking-transaction.md.1f52045f95e67cace4c41eeed0b601765d7b1282.HT": {
       "SourceFilename": "retail\\dev-itpro\\trigger-example-blocking-transaction.md",
@@ -20197,8 +20197,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\c6c6b40d8934d1059c54678df8d4fc6530db1b24.e21cd8ce4501a58f443e4902e6871a83c4ed1017.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\purchase-order-creation.89e9dc85f9d9b4ef69ad6a3d112c8b29a35614e6.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "retail\\dev-itpro\\retail-store-scale-unit-configuration-installation.md.2cc71ac8f324fd207684a04b5247b7c481b99fc0.HT": {
       "SourceFilename": "retail\\dev-itpro\\retail-store-scale-unit-configuration-installation.md",
@@ -20227,8 +20227,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\cf0886725e2d8d4031e19810e75755f4306b7c49.b3967b7ae11cc49971fdecfd87e953845f67dc57.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\row-definitions-financial-reporting.51ca83ef98183f8661273a3f6596b66741df47c3.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\lcs-solutions\\app-validation-lcs-solutions.md.4b5b5e4b82781b1609e517b54ed5febda35da291.HT": {
       "SourceFilename": "dev-itpro\\lcs-solutions\\app-validation-lcs-solutions.md",
@@ -20287,8 +20287,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\2d0af259fd6da8a57bada919f44a2902d9a5854d.fd3501b9051a54cc778bc8864d815f1d34194a3d.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\quality-management-processes.985d55060e4b346939c748b71d8c4e4e89188228.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "financials\\accounts-payable\\sepa-credit-transfer.md.95dba6835a2dc5c7c1dba268125b8951683a78cd.HT": {
       "SourceFilename": "financials\\accounts-payable\\sepa-credit-transfer.md",
@@ -20297,8 +20297,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\8f1a220babc333fe2091e9286afc565ebeecf036.438f4a5e8d5ae9a90e169790242d4582dd5796b4.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\sepa-credit-transfer.3b1a762ed4c6e8de54f32ae3c3d924aab97b015a.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\user-interface\\build-extensible-control.md.651dce75c95913b207bf35794b86c84d11d761f2.HT": {
       "SourceFilename": "dev-itpro\\user-interface\\build-extensible-control.md",
@@ -20377,8 +20377,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\d227452e48914170404f0ee5163a05e6b875e69f.1a3d53ac0232afd9915cd9c3034659a70aedfdde.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\reset-financial-reporting-datamart-after-restore.eff69679e6916d3ee6a8a1f967478b0cb98ef110.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "retail\\pos-screen-layouts.md.32d225225392db2a5b195f33a9bf3f7832cbac9b.HT": {
       "SourceFilename": "retail\\pos-screen-layouts.md",
@@ -20437,8 +20437,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\08c086767303f6f52e085f8f56b5d09f1e46878f.58326ae7b1077fd9fad0faae3b8a8e73b3422fad.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\warehouse-configuration.319dd232ffc626df1cc4c0e01e685aa23fcf8598.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\lifecycle-services\\ax-2012\\deploy-test-environment-azure.md.f6e1bb66306e88c949af40973d035eef95846657.HT": {
       "SourceFilename": "dev-itpro\\lifecycle-services\\ax-2012\\deploy-test-environment-azure.md",
@@ -20537,8 +20537,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\7c8fe2fea08dbad625cd373ca316135ac4e29e13.7a21ac8839de53381762f4b9e7d4409421ff2d74.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\vendor-portal-invoicing-workspace.765d9f0b093ceba509ba99e0b922dfa8e26926dc.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\analytics\\add-contextual-bi-forms.md.26404e018954cc49bfa2e718edd472254fe446a5.HT": {
       "SourceFilename": "dev-itpro\\analytics\\add-contextual-bi-forms.md",
@@ -20667,8 +20667,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\aba59096bf1ffc9ce6448cb7c0f9bd5d2936d7d7.8250d47121b700e214d5b1780c6c00273eb852ce.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\whats-new-changed-7-0-february-2016.610bbcfa170abb8328ea7384f13218b89fe7fe3f.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "retail\\sales-performance-products.md.57e7d323f76168b5b0562c5fe87ea9b0b4fa1da5.HT": {
       "SourceFilename": "retail\\sales-performance-products.md",
@@ -20677,8 +20677,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\d2a1601e42f0ad31888709bb8a51ad74b4ca60c2.1749ce02a92a74227b4ed2a2a5503a087e7b59f8.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\sales-performance-products.060a5e357a72b16ea0cc5e1f4cb104778e2fe986.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "financials\\cost-accounting\\map-cost-elements-dimension-members.md.68c19585579b469d2dfa3cdfa688bd7007b21607.HT": {
       "SourceFilename": "financials\\cost-accounting\\map-cost-elements-dimension-members.md",
@@ -20797,8 +20797,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\775a836748949a86b64a0ddec15ee4519b1c5127.9dc15b88bb5410f971f84c92cd8189c1f490b565.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\report-designer-interface.d8df768258b505360ec9cdc4527c7e0d9b999960.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\dev-tools\\debug-xpp.md.82128f8a97e1e74aaaa5a455a66c7d181b2e53cc.HT": {
       "SourceFilename": "dev-itpro\\dev-tools\\debug-xpp.md",
@@ -20967,8 +20967,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\cdbca6d9c71c901a1f4e7a8e5a2f9be1d3efb355.e9d8a86d13c25925bfa7e82b89f7e1615dd6658b.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\weighted-average-physical-value-marking.d81d71bfbd31f25ce88efda3290f9cc365f79acd.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\lifecycle-services\\whats-new-lcs.md.404402095d7d54308056e358d404da6c17f141c6.HT": {
       "SourceFilename": "dev-itpro\\lifecycle-services\\whats-new-lcs.md",
@@ -21037,8 +21037,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\8607f27bc36d62865b03f433c24c90763e8e0bec.5ddee208d1de697394ef54f720a86558bb4a1155.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\view-journal-entries-transactions.fe9420b9a89f2ee5aa9ec17dad935b77d45e0c45.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\dev-ref\\api-reference.md.8ff5b539f6b57a88bb25266ab36187bf88f3cb8e.HT": {
       "SourceFilename": "dev-itpro\\dev-ref\\api-reference.md",
@@ -21087,8 +21087,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\7d77428f07967985cf60ab252305819a6fd9d037.cd204439d65ba4d9833dde9dc7badd6f7e87d486.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\user-preferences-financial-report-designer.9991cbad73719305108e7370ca891702e8ca3080.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\extensibility\\customization-overlayering-extensions.md.2a439cc14043c1f7362460244db3ffd0681eb15f.HT": {
       "SourceFilename": "dev-itpro\\extensibility\\customization-overlayering-extensions.md",
@@ -21397,8 +21397,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\e19fee87dae6e5d425f36dac0db4ea89534a8510.84227f3818ae0af27c951f20d328630e38bde181.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\vendor-collaboration-mobile-workspace.84b4d5f35df87c01542ab01c09a20ff03cbe98e8.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\TOC.md.22b60b7a621c966ec5a7868be2d725d28f8c8a01.HT": {
       "SourceFilename": "dev-itpro\\TOC.md",
@@ -21417,8 +21417,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\ae940cdbab2166d8fe3f2f396c84ed4a09c2ca7e.cf29ce6c1d0bf89897038bec5eda023fbf32450a.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\skills.4e6cab5518067fa92f8ef68d2dfb7e538e2e5ce5.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\mobile-apps\\mobile-platform.md.66b3d3e31c9c7118eb76d1a4949d69d610973174.HT": {
       "SourceFilename": "dev-itpro\\mobile-apps\\mobile-platform.md",
@@ -21927,8 +21927,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\357f7071d801b13518c83170f8d0e7946dd9dede.1f7fcfd1dda6b909bc3eef68e932dcb447e0f704.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\sales-profitability-performance-content-pack.d2680a47e0db549942c8dbcdee0eb332ab88532e.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\analytics\\cost-accounting-analysis-content-pack.md.2f88918ffb2e78631996cb17edd82e065d04cc9b.HT": {
       "SourceFilename": "dev-itpro\\analytics\\cost-accounting-analysis-content-pack.md",
@@ -22037,8 +22037,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\65cb3247b2b894a0e51f479ba3fae04ed0fe4a56.cc6744855aad36ddbc6f641d43d0b5955ddb9937.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\whats-new-dynamics-365-operations-1611.a09066ab4cddeae78227ce4f923c7979f75bfb93.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\lifecycle-services\\ax-2012\\install-dixf.md.044c89dd24c19fcb103677a7cd8b31bde97fcc37.HT": {
       "SourceFilename": "dev-itpro\\lifecycle-services\\ax-2012\\install-dixf.md",
@@ -22167,8 +22167,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\fafa323c3949c09707c81ec41edae25ad2677eeb.0b770fc7522dd6cf2eeb01be7148663c0cbfba0e.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\upgrade-budget-planning.56671a5f3cba9d8d2b6de92c03dc2c0be4744b44.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\sysadmin\\TOC.md.03678cb3b9fc840116a423a89e451d0326d51fc8.HT": {
       "SourceFilename": "dev-itpro\\sysadmin\\TOC.md",
@@ -22377,8 +22377,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\c391fb70d837db9c0f167b392291fc1c5cc2bb53.ca4903a3d4598b2deb1d845511d7c91cd43d398c.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\use-excel-add-in.b6a861cb6d8c53a73e22a51b4adef35072a45477.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "core\\organization-administration\\overview-global-address-book.md.3c5814dd4882a52c88629cfb704f3fe11498fe71.HT": {
       "SourceFilename": "core\\organization-administration\\overview-global-address-book.md",
@@ -22577,8 +22577,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\cba8d990c18f2db414d837118a54edfa09cba486.55af47984c38d3c4a6de92a7a5dc28ad6e893d78.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\warehouse-power-bi-content.0e90d560ff372f5a757abea2f9bdd0a1ef9959b8.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\get-started\\whats-new-changed.md.2d3f1100f4878e05de9a3011520257791d6db948.HT": {
       "SourceFilename": "dev-itpro\\get-started\\whats-new-changed.md",
@@ -22857,8 +22857,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\60cc59911cf2d10d73206885eb97b346ec3e3e87.8497dfa7d0d81dc576e0033cbe7f53ce0e803557.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\set-up-centralized-payments.e7c728ba198d72f707be91fb83d73e1f666d63ba.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "core\\get-started\\action-search.md.13055253349ef536a82b0dfe1b2a99b3943883a2.HT": {
       "SourceFilename": "core\\get-started\\action-search.md",
@@ -23137,8 +23137,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\11898146a13756a6bb22a769e37e8773484e0d04.db0cee0211bde09a7901f88859db830255207f52.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\sales-orders-mobile-workspace.07b2c025e8747478502d1c29e03def241f69de3a.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\lcs-solutions\\country-region.md.dcaafb74b4e0e8962270f62e8059e868c2672694.HT": {
       "SourceFilename": "dev-itpro\\lcs-solutions\\country-region.md",
@@ -24397,8 +24397,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\3ca86a3353d3f613057dd77754266fc69975229f.a3c54ed49d2b8534bce55fcb8f7b7f81418c6c43.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\task-recorder-retail-pos.5554a4967cd01de27b21812285285bc8b28a2a26.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\data-entities\\configuration-data-templates.md.360c119bfc3c5ed85bc0bd67070ba5befeda0dd8.HT": {
       "SourceFilename": "dev-itpro\\data-entities\\configuration-data-templates.md",
@@ -24447,8 +24447,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\de2f71a21c5aac953349559c84283d0f76082d42.1bd550aac420bcbbee3593fc3e154da580389766.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\system-requirements.7d121c546503381e5dacbab8e88f26f343056744.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "core\\organization-administration\\workflow-batch-job-critical.md.a972cb8a7b9bc65ded76428e202b4aac65c460c7.HT": {
       "SourceFilename": "core\\organization-administration\\workflow-batch-job-critical.md",
@@ -24537,8 +24537,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\55a3252aa2d84ac5af68a1a6eebeaa909d95b33b.94a64cc77b288aff07d1fb39cafa4ca833037c7d.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\whats-new-changed.f583ea9f8e370bdb1fed612787f91a75f641a04e.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\perf-test\\testing-validation.md.8f7bbaa0fa1744d865b912da26f94a25e2beadce.HT": {
       "SourceFilename": "dev-itpro\\perf-test\\testing-validation.md",
@@ -24617,8 +24617,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\5208dc64d86345de4e53c5e293fbc861351a63ef.cc2e056ba08617ddcd8026c556f081c61a3a3054.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\purchase-policies.f0d78c8896919fcd515ee7d70052359780e0f042.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\extensibility\\customization-overlayering-extensions.md.b1a69f584e9bc7941c522a150ae5ae03d27c689f.HT": {
       "SourceFilename": "dev-itpro\\extensibility\\customization-overlayering-extensions.md",
@@ -25047,8 +25047,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\9b34c26209b9aa48604b9cd51220e5812b1fbf22.fba6cabba5b1669537cbf0d38de4a512f850181c.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\receipt-templates-printing.7029639b6d43ce8ffdf585d40a236e174f1e8f70.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\dev-tools\\version-control-metadata-navigation.md.3ad6034fde392287bf6756ce65ee23e6ae678efa.HT": {
       "SourceFilename": "dev-itpro\\dev-tools\\version-control-metadata-navigation.md",
@@ -25267,8 +25267,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\d1a686cbad30e2ce82601b70cbd835a240690907.180cfefac1dc856b060e1390beb6c3e9a4666091.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\basic\\vendor-collaboration-work-external-vendors.ce0ac25f6cbf9fe9327dae06b43fde8ac06442d4.fr-fr.xlf",
+      "LocXliffCommit": "e0ac3492c83a9e48c2c3e53281b96630be685714"
     },
     "dev-itpro\\dev-tools\\TOC.md.af61f7015c5505d12395a69f3a246eeda793fa14.HT": {
       "SourceFilename": "dev-itpro\\dev-tools\\TOC.md",

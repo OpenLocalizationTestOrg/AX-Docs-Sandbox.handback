@@ -173,15 +173,6 @@
   "cbd2a0afaf805e1dfc34562dbda4290cdb786357": [
     "core\\get-started\\recently-added-editing-features-in-task-recorder.md"
   ],
-  "c4f9ac515eab6ed8b194fc8985f6d3fae40ced38": [
-    "core\\get-started\\recently-added-editing-features-in-task-recorder.md"
-  ],
-  "7be9827c7cb9cc82c1c236ae17a51b16c4c311cd": [
-    "core\\get-started\\recently-added-editing-features-in-task-recorder.md"
-  ],
-  "9201930469ce8ede01c797681bc4981b07de4c84": [
-    "core\\get-started\\recently-added-editing-features-in-task-recorder.md"
-  ],
   "7d146f3dfe1d71e8d3031a851f47fac35d0f1a58": [
     "core\\get-started\\shortcut-keys.md"
   ],
@@ -206,9 +197,6 @@
   "6a25593632575dcd71fa4a3c9cf5b83c9f8ecd39": [
     "core\\get-started\\use-lookups-to-find-information.md"
   ],
-  "8cf5408d28a70d83217400b30123e13b55242b1d": [
-    "core\\get-started\\use-lookups-to-find-information.md"
-  ],
   "cd84c03baa4f7a9d38e380c37ed2020ee3387954": [
     "core\\get-started\\view-export-field-descriptions.md"
   ],
@@ -216,15 +204,6 @@
     "core\\get-started\\view-export-field-descriptions.md"
   ],
   "1c09430dc3739e05da0d18d3b0594a181d23b3b4": [
-    "core\\get-started\\view-export-field-descriptions.md"
-  ],
-  "d4fc9cdee0e2160e363f9defcf6bdbc57ed4db74": [
-    "core\\get-started\\view-export-field-descriptions.md"
-  ],
-  "7e23bef0c8e21ab89359820706cfbec16af66cbf": [
-    "core\\get-started\\view-export-field-descriptions.md"
-  ],
-  "0a257d2439b9fc190617cf6d318b0a2c18ac9c12": [
     "core\\get-started\\view-export-field-descriptions.md"
   ],
   "e204e4cee4fe60ec25682af40aab8de1f6a61a91": [
@@ -1097,12 +1076,6 @@
   "35d34f9a356f8a041f2abf0aa8d6c3a6d9ca4a46": [
     "dev-itpro\\analytics\\sales-profitability-performance-content-pack.md"
   ],
-  "6de5c1be473bae2dab32d68f054cc39b3addfb79": [
-    "dev-itpro\\analytics\\sales-profitability-performance-content-pack.md"
-  ],
-  "3e6b48768bb8e69d46f1555d9300f3b878b01ff1": [
-    "dev-itpro\\analytics\\sales-profitability-performance-content-pack.md"
-  ],
   "cd9e85a54335f321d78a480d1f8ab345b9c8a00b": [
     "dev-itpro\\analytics\\setup-security-cost-accounting-content-pack.md"
   ],
@@ -1134,9 +1107,6 @@
     "dev-itpro\\analytics\\user-preferences-financial-report-designer.md"
   ],
   "09d4fcfe438b291b82755f35fe8ed69370fdada7": [
-    "dev-itpro\\analytics\\user-preferences-financial-report-designer.md"
-  ],
-  "371c095e925ba833216263eed6595e749acc6ab7": [
     "dev-itpro\\analytics\\user-preferences-financial-report-designer.md"
   ],
   "2a3f611d29e041a5f05e3f93fd2330f4218b9dd1": [
@@ -1800,9 +1770,6 @@
     "dev-itpro\\data-entities\\tips-tricks-import-general-journal-entity.md"
   ],
   "81a52acd1d9baa12fcfe9d848441901894fa5682": [
-    "dev-itpro\\data-entities\\tips-tricks-import-general-journal-entity.md"
-  ],
-  "7ce365f49a4f5fa654102e17f04bddc014ee448a": [
     "dev-itpro\\data-entities\\tips-tricks-import-general-journal-entity.md"
   ],
   "7b4acdb96c7961b781aeb146f32e508732d6e9f6": [
@@ -3158,18 +3125,6 @@
   "de2f71a21c5aac953349559c84283d0f76082d42": [
     "dev-itpro\\get-started\\system-requirements.md"
   ],
-  "86053196a3aad6b7b5d7830860e1af347dd969d8": [
-    "dev-itpro\\get-started\\system-requirements.md"
-  ],
-  "562eda885fc05145f43a5b63191a7936d59e3e6d": [
-    "dev-itpro\\get-started\\system-requirements.md"
-  ],
-  "9220c093d3f6d6700127c93651db4083be300311": [
-    "dev-itpro\\get-started\\system-requirements.md"
-  ],
-  "e6f0be4cc9e458ec87108e9601b5e5d744958040": [
-    "dev-itpro\\get-started\\system-requirements.md"
-  ],
   "49da1ce000a7c604d496b67db58f08147ff65019": [
     "dev-itpro\\get-started\\TOC.md"
   ],
@@ -3182,18 +3137,6 @@
   "55a3252aa2d84ac5af68a1a6eebeaa909d95b33b": [
     "dev-itpro\\get-started\\whats-new-changed.md"
   ],
-  "c9f1e32986238739fc7eee519fd1d17a6ce6731e": [
-    "dev-itpro\\get-started\\whats-new-changed.md"
-  ],
-  "d78454729b573b00a69a641a3a38d3c01bf75c5e": [
-    "dev-itpro\\get-started\\whats-new-changed.md"
-  ],
-  "be37aba890c8197d316928adad50460219edf4f5": [
-    "dev-itpro\\get-started\\whats-new-changed.md"
-  ],
-  "2896a11f79d5cbb00137a439e0a2c8caaee705a0": [
-    "dev-itpro\\get-started\\whats-new-changed.md"
-  ],
   "aba59096bf1ffc9ce6448cb7c0f9bd5d2936d7d7": [
     "dev-itpro\\get-started\\whats-new-changed-7-0-february-2016.md"
   ],
@@ -3201,12 +3144,6 @@
     "dev-itpro\\get-started\\whats-new-changed-7-0-february-2016.md"
   ],
   "0b446bdb4081980e845503c74a2526af9a319502": [
-    "dev-itpro\\get-started\\whats-new-changed-7-0-february-2016.md"
-  ],
-  "2928b86a9dbf001451933f9d17287400cafaf089": [
-    "dev-itpro\\get-started\\whats-new-changed-7-0-february-2016.md"
-  ],
-  "b41b39eba5d0ba99586d8da2eca39531658189b8": [
     "dev-itpro\\get-started\\whats-new-changed-7-0-february-2016.md"
   ],
   "8b58cb4f9de393b3f381dbe0aa4330d5ebd62795": [
@@ -3237,18 +3174,6 @@
     "dev-itpro\\get-started\\whats-new-dynamics-365-operations-1611.md"
   ],
   "67faa02d445cc4c6e78fe5471605d8c0a2da21de": [
-    "dev-itpro\\get-started\\whats-new-dynamics-365-operations-1611.md"
-  ],
-  "b902755dcf7f7be601f44777d3a58cd6452fdb20": [
-    "dev-itpro\\get-started\\whats-new-dynamics-365-operations-1611.md"
-  ],
-  "c0e35e84b18ae372ee7d3c9613313b4c724b49d9": [
-    "dev-itpro\\get-started\\whats-new-dynamics-365-operations-1611.md"
-  ],
-  "82d03b6bc190fb612dd2cc7a25dc11875212f1ea": [
-    "dev-itpro\\get-started\\whats-new-dynamics-365-operations-1611.md"
-  ],
-  "b38b34edf5cc23cb295f9a379c54883d914ad782": [
     "dev-itpro\\get-started\\whats-new-dynamics-365-operations-1611.md"
   ],
   "f421726b99d321fadf4d4526dac3c335c087f893": [
@@ -4751,9 +4676,6 @@
   "cf3fcb5a382aceaa02408c195559c6910dd0b19d": [
     "dev-itpro\\migration-upgrade\\single-voucher-and-currency-revaluation-upgrade.md"
   ],
-  "d42c753d0dc8b8efc2a0d2a26da32a4951d85503": [
-    "dev-itpro\\migration-upgrade\\single-voucher-and-currency-revaluation-upgrade.md"
-  ],
   "94fd86bc47ad8d1e7b88b81251db51e2f3982faa": [
     "dev-itpro\\migration-upgrade\\TOC.md"
   ],
@@ -4974,12 +4896,6 @@
     "dev-itpro\\office-integration\\use-excel-add-in.md"
   ],
   "f80d5d49cae3107390a605e9605d8af65bf2342d": [
-    "dev-itpro\\office-integration\\use-excel-add-in.md"
-  ],
-  "17791107fe18d699f71aaf23a3719270cb6f8235": [
-    "dev-itpro\\office-integration\\use-excel-add-in.md"
-  ],
-  "8af663b47117759ed3b2e2ed8eee85ae4df100d1": [
     "dev-itpro\\office-integration\\use-excel-add-in.md"
   ],
   "02f2a03f367d3c24afa87d512a8c8d6e4b40f2c3": [
@@ -6647,15 +6563,6 @@
   "c4c8df849912c74f62963e71e9596fd95db839f1": [
     "financials\\accounts-payable\\sepa-credit-transfer.md"
   ],
-  "848df5e3898f37284d7746c59bff8b38d35ac883": [
-    "financials\\accounts-payable\\sepa-credit-transfer.md"
-  ],
-  "71290e1906d52877c7eb4ad3fc4a73287f7df2a3": [
-    "financials\\accounts-payable\\sepa-credit-transfer.md"
-  ],
-  "28abd5cfde51361e301c25da7918a63f4f51f78c": [
-    "financials\\accounts-payable\\sepa-credit-transfer.md"
-  ],
   "08b5fc87fdee476cd978bcc242cea324ac4bcee2": [
     "financials\\accounts-payable\\settle-partial-customer-payment-or-final-payment-before-discount.md"
   ],
@@ -6666,9 +6573,6 @@
     "financials\\accounts-payable\\settle-partial-customer-payment-or-final-payment-before-discount.md"
   ],
   "ac2c569666b97bc430d3d677366a88446ab76091": [
-    "financials\\accounts-payable\\settle-partial-customer-payment-or-final-payment-before-discount.md"
-  ],
-  "3315409c98ce355670184acf61ae23ea786e95dd": [
     "financials\\accounts-payable\\settle-partial-customer-payment-or-final-payment-before-discount.md"
   ],
   "1a454a487a0879234eee76a39b2f095d1d80ea1e": [
@@ -6717,9 +6621,6 @@
     "financials\\accounts-payable\\settle-partial-vendor-payment-or-final-payment-before-discount.md"
   ],
   "6cd87dc1b34d1d689d5417359e1ec3a34d53afb4": [
-    "financials\\accounts-payable\\settle-partial-vendor-payment-or-final-payment-before-discount.md"
-  ],
-  "89bbf10dc126078b77c7e5c571729a8e72035c2e": [
     "financials\\accounts-payable\\settle-partial-vendor-payment-or-final-payment-before-discount.md"
   ],
   "f82ed69aaaf4d3345ef4e74a338124465dcf2358": [
@@ -6813,12 +6714,6 @@
     "financials\\accounts-payable\\vendor-portal-invoicing-workspace.md"
   ],
   "2c868e530b8e5f0a9a86759d6e5a0192680d5a7b": [
-    "financials\\accounts-payable\\vendor-portal-invoicing-workspace.md"
-  ],
-  "822e621f22f8af63b2a827dcc50a6b0ac68d3e21": [
-    "financials\\accounts-payable\\vendor-portal-invoicing-workspace.md"
-  ],
-  "4ebcf155106ff124b63d7b77c729fc199f0045aa": [
     "financials\\accounts-payable\\vendor-portal-invoicing-workspace.md"
   ],
   "2dbb8874323631a9bddb226834adf87d014c1c2f": [
@@ -7038,9 +6933,6 @@
     "financials\\accounts-receivable\\sepa-direct-debit-overview.md"
   ],
   "849fea6030c665e1724c3fc8f31353dd4bafed27": [
-    "financials\\accounts-receivable\\sepa-direct-debit-overview.md"
-  ],
-  "2befef6ac479befcf7c1f5b5720934c2c3bc323a": [
     "financials\\accounts-receivable\\sepa-direct-debit-overview.md"
   ],
   "4399cf66e423d2e6436c664e6485a77d9ad75d69": [
@@ -7550,9 +7442,6 @@
   "adbfa6f99c481129e8cbf4a2dc4b23b4be1e8b34": [
     "financials\\cash-bank-management\\settlement-overview.md"
   ],
-  "9d087e94b69a3ee3cc7245332de99c0d762afab3": [
-    "financials\\cash-bank-management\\settlement-overview.md"
-  ],
   "dd8e6fb1100cdbb8f0b5ad778b322243c72529ba": [
     "financials\\cash-bank-management\\settlement-overview-centralized-payments.md"
   ],
@@ -7577,9 +7466,6 @@
   "acf7bacf6e95725024ff0a542a059349593d01a0": [
     "financials\\cash-bank-management\\set-up-advanced-bank-reconciliation-import-process.md"
   ],
-  "5ac4d954b3a0e71a352fd446dc531c632eb540f5": [
-    "financials\\cash-bank-management\\set-up-advanced-bank-reconciliation-import-process.md"
-  ],
   "e89ba808b9f78c987ef98b5999e158f91b46a4b3": [
     "financials\\cash-bank-management\\set-up-bank-reconciliation-matching-rules.md"
   ],
@@ -7593,18 +7479,6 @@
     "financials\\cash-bank-management\\set-up-bank-reconciliation-matching-rules.md"
   ],
   "60cc59911cf2d10d73206885eb97b346ec3e3e87": [
-    "financials\\cash-bank-management\\set-up-centralized-payments.md"
-  ],
-  "fdb1267ed8a3a6c2eacfa38ee682c028f1dedd04": [
-    "financials\\cash-bank-management\\set-up-centralized-payments.md"
-  ],
-  "474453e7f33526bc7bebc60ef68f560d489a1841": [
-    "financials\\cash-bank-management\\set-up-centralized-payments.md"
-  ],
-  "f2706fb1b7b33b78868182faa392145817525be6": [
-    "financials\\cash-bank-management\\set-up-centralized-payments.md"
-  ],
-  "815282422a6d7b8eef7d0628cf10b715449e1d1d": [
     "financials\\cash-bank-management\\set-up-centralized-payments.md"
   ],
   "43413aad9d537e518f7276ccab11ce01d23cf13f": [
@@ -7710,9 +7584,6 @@
     "financials\\cost-accounting\\terms-cost-accounting.md"
   ],
   "1ae6b43bdc1812ca822a1abe2a0e823cb797a511": [
-    "financials\\cost-accounting\\terms-cost-accounting.md"
-  ],
-  "70893294e575cad0f86d454912ceacd8cfc1a47d": [
     "financials\\cost-accounting\\terms-cost-accounting.md"
   ],
   "b9a9c99db03620268ad806ae362b3654c16a6e53": [
@@ -8057,9 +7928,6 @@
   "0dede1cabccf672475ea242f05d5de06dc8e78c5": [
     "financials\\fixed-assets\\reduce-balance-depreciation.md"
   ],
-  "4f10131dcd3246723bbbe26c413142e97d60ea56": [
-    "financials\\fixed-assets\\reduce-balance-depreciation.md"
-  ],
   "8d5a9d9267c14ee045388c3b3b42b26f2fff45ea": [
     "financials\\fixed-assets\\round-off-amount-depreciation-calculations.md"
   ],
@@ -8084,9 +7952,6 @@
   "dde8053df96d03c8c8e52fa6d2fdf7f74e95ec92": [
     "financials\\fixed-assets\\set-up-fixed-assets.md"
   ],
-  "be08c51248e7c921d796c576c50b7dc8db51bcbd": [
-    "financials\\fixed-assets\\set-up-fixed-assets.md"
-  ],
   "765825ba43cad44b076ea6628d2787011e97fc57": [
     "financials\\fixed-assets\\straight-line-life-remaining-depreciation.md"
   ],
@@ -8097,9 +7962,6 @@
     "financials\\fixed-assets\\straight-line-life-remaining-depreciation.md"
   ],
   "9b690b80f148e7ccecba19850bd78c81216d8658": [
-    "financials\\fixed-assets\\straight-line-life-remaining-depreciation.md"
-  ],
-  "3eb68d31260169fd73790376ec87fa3f41c763d5": [
     "financials\\fixed-assets\\straight-line-life-remaining-depreciation.md"
   ],
   "5ff3d87f610489608f0bebadd9bb4c9c5c727992": [
@@ -8510,9 +8372,6 @@
   "0a716310a3b813e08d46ac609e8ac6ce9a2db3e6": [
     "financials\\general-ledger\\sales-tax-calculation-methods-origin-field.md"
   ],
-  "00deb7b2648171bf2ff958abe055f153aa043785": [
-    "financials\\general-ledger\\sales-tax-calculation-methods-origin-field.md"
-  ],
   "353880e162e38c7b2e89656be8cdffe5fbc30250": [
     "financials\\general-ledger\\trial-balance-financial-reports.md"
   ],
@@ -8540,9 +8399,6 @@
   "5535a7897eb328e97a9c8a4ca7986ed5cf9381af": [
     "financials\\general-ledger\\view-financial-reports.md"
   ],
-  "f21251cff5a265954b94dc5bfee800ba58eed21a": [
-    "financials\\general-ledger\\view-financial-reports.md"
-  ],
   "8607f27bc36d62865b03f433c24c90763e8e0bec": [
     "financials\\general-ledger\\view-journal-entries-transactions.md"
   ],
@@ -8550,9 +8406,6 @@
     "financials\\general-ledger\\view-journal-entries-transactions.md"
   ],
   "f60ddc2bef975a9c8352a6cccf5369f831840d92": [
-    "financials\\general-ledger\\view-journal-entries-transactions.md"
-  ],
-  "a6848ea9c05536ac18a038b1864c9ccb9408964c": [
     "financials\\general-ledger\\view-journal-entries-transactions.md"
   ],
   "093047d43a39fa723eb99e3daf34cf33fa81a099": [
@@ -8577,9 +8430,6 @@
     "financials\\general-ledger\\year-end-close.md"
   ],
   "22233cfa1df79076c8ea42f75ea309bac990d574": [
-    "financials\\general-ledger\\year-end-close.md"
-  ],
-  "a855db937bf1f8c69f546d56056ac650c89acc02": [
     "financials\\general-ledger\\year-end-close.md"
   ],
   "d23e508121326df8bf219ffa96d9eb545b4e8441": [
@@ -8912,9 +8762,6 @@
   "1666691ec122e65128b74056817a0c40551f49b5": [
     "financials\\project-management\\work-breakdown-structures.md"
   ],
-  "5de9efd43af2f84d2e80674ec303cf31643820fb": [
-    "financials\\project-management\\work-breakdown-structures.md"
-  ],
   "725e1b8eca0d2453d4f21f5526f9b7e5c4fc8f0e": [
     "financials\\public-sector\\accounts-payable-public-sector.md"
   ],
@@ -9212,9 +9059,6 @@
   "3e4dae7f987515588ce370473b576a62b5dd803d": [
     "financials\\public-sector\\security-roles-public-sector.md"
   ],
-  "9c64526ff73dea22843270c2ab5d93e97b2f9d7e": [
-    "financials\\public-sector\\security-roles-public-sector.md"
-  ],
   "f07fafed4ef80f8d6c692ef24e29252ffdf95b75": [
     "financials\\public-sector\\settlement-priority-public-sector.md"
   ],
@@ -9227,9 +9071,6 @@
   "2e843acf552725ddad0cad64df38e49b07c8c835": [
     "financials\\public-sector\\settlement-priority-public-sector.md"
   ],
-  "7ed209f9df27c27e6f776e9d7894de2bd3fccdd9": [
-    "financials\\public-sector\\settlement-priority-public-sector.md"
-  ],
   "acf92df86fbae784fa9bd462f2ee0b5ae3ac91e5": [
     "financials\\public-sector\\year-end-processing-public-sector.md"
   ],
@@ -9240,9 +9081,6 @@
     "financials\\public-sector\\year-end-processing-public-sector.md"
   ],
   "73774e337fc3985e4885aa9b7a82c3d7dfbe7983": [
-    "financials\\public-sector\\year-end-processing-public-sector.md"
-  ],
-  "c2a7b5e11972126baf8755ab2608d69e096ac1ab": [
     "financials\\public-sector\\year-end-processing-public-sector.md"
   ],
   "24f33a2a557595f0e8fc7137b4512c446c51c044": [
@@ -9572,18 +9410,6 @@
   "d4f07792769aa68193d34de6ebf23ac4234b7eae": [
     "hr\\skills.md"
   ],
-  "b89f748f58f3d3778e5bc9833fe0f1b45d293353": [
-    "hr\\skills.md"
-  ],
-  "31dda85ff2e4a4e5380401b031b2dd74acff394b": [
-    "hr\\skills.md"
-  ],
-  "b9ee73bd2f4057e0a69c17243f838799ee167a39": [
-    "hr\\skills.md"
-  ],
-  "4dd83e8ed0246733ad1336399f69715eb9398beb": [
-    "hr\\skills.md"
-  ],
   "edbc79e12b264574c21c4b6a60543a875bb15082": [
     "hr\\TOC.md"
   ],
@@ -9875,9 +9701,6 @@
   "0e8c2fb1afdb9b88cf7f7f7729c170d166d9c595": [
     "scm\\cost-management\\weighted-average-date.md"
   ],
-  "d05059f1b1da12ec27bd83d43275c82ac6130590": [
-    "scm\\cost-management\\weighted-average-date.md"
-  ],
   "cdbca6d9c71c901a1f4e7a8e5a2f9be1d3efb355": [
     "scm\\cost-management\\weighted-average-physical-value-marking.md"
   ],
@@ -9885,9 +9708,6 @@
     "scm\\cost-management\\weighted-average-physical-value-marking.md"
   ],
   "d8e664c287b32bd57aa82bda00a303cc41dd5b35": [
-    "scm\\cost-management\\weighted-average-physical-value-marking.md"
-  ],
-  "1afd7855fd05d0bacb60a7a45bba68e7041a4f4b": [
     "scm\\cost-management\\weighted-average-physical-value-marking.md"
   ],
   "e97257955f4f8fa86c8bf957a182aa71d4fbc8ef": [
@@ -11474,18 +11294,6 @@
   "9b34c26209b9aa48604b9cd51220e5812b1fbf22": [
     "retail\\receipt-templates-printing.md"
   ],
-  "94370625dbd393e5dddd818fa365a3c32f108873": [
-    "retail\\receipt-templates-printing.md"
-  ],
-  "a0a105ade7e47d7c554d62ee112ed03437bb7521": [
-    "retail\\receipt-templates-printing.md"
-  ],
-  "0efe82ef7f2f0eea87537804d2a1f9ab37ed9e23": [
-    "retail\\receipt-templates-printing.md"
-  ],
-  "fabaacbc7187b38a1745c2139a9eb7760f2be987": [
-    "retail\\receipt-templates-printing.md"
-  ],
   "6c30240b0be49c25574c35f61073c28d0fe38b68": [
     "retail\\retail-components.md"
   ],
@@ -12248,15 +12056,6 @@
   "5208dc64d86345de4e53c5e293fbc861351a63ef": [
     "scm\\procurement\\purchase-policies.md"
   ],
-  "3df3144b08c54441699d9c0b48fe507857877586": [
-    "scm\\procurement\\purchase-policies.md"
-  ],
-  "8be01866882f1bcde052ef91e27fc68cfe6097d6": [
-    "scm\\procurement\\purchase-policies.md"
-  ],
-  "919ca82764e7864b285eb9d202eb7c8afdd0ff18": [
-    "scm\\procurement\\purchase-policies.md"
-  ],
   "e114542ea5fa53bfe25ad31575929a0af72bec53": [
     "scm\\procurement\\set-up-maintain-vendor-collaboration.md"
   ],
@@ -12821,9 +12620,6 @@
   "f38b0e7e286309dca8272923aad8a927717c22dd": [
     "dev-itpro\\analytics\\report-designer-interface.md"
   ],
-  "58c56aca6f339a5ec13703605334dd45b208ab2c": [
-    "dev-itpro\\analytics\\report-designer-interface.md"
-  ],
   "d227452e48914170404f0ee5163a05e6b875e69f": [
     "dev-itpro\\analytics\\reset-financial-reporting-datamart-after-restore.md"
   ],
@@ -12831,9 +12627,6 @@
     "dev-itpro\\analytics\\reset-financial-reporting-datamart-after-restore.md"
   ],
   "b09f13d0cc1bcce36db247f596cbf9b1ca8f2fc5": [
-    "dev-itpro\\analytics\\reset-financial-reporting-datamart-after-restore.md"
-  ],
-  "3967cbb869fbb23d5d7716f619e4c22b4a273921": [
     "dev-itpro\\analytics\\reset-financial-reporting-datamart-after-restore.md"
   ],
   "0f3522e97cef5381dfc4d353d993df4833e6dc38": [
@@ -12855,9 +12648,6 @@
     "dev-itpro\\analytics\\row-definitions-financial-reporting.md"
   ],
   "a611098db7354b25c9f0bfd21453f08006a815a4": [
-    "dev-itpro\\analytics\\row-definitions-financial-reporting.md"
-  ],
-  "a2f92effd1cfdc1d5da2c5ec895c0487a6fc82a4": [
     "dev-itpro\\analytics\\row-definitions-financial-reporting.md"
   ],
   "638cc899914990a296c9dcf0c5f7b2e64e12e141": [
@@ -14219,9 +14009,6 @@
   "c0d89af82bd0b9f114556e860fcbc434990f9262": [
     "scm\\inventory\\quality-management-processes.md"
   ],
-  "2deec6d262e87daf4704ce21ce64546f9c9d638b": [
-    "scm\\inventory\\quality-management-processes.md"
-  ],
   "b8692a3033cd665402721ea18ba8c28557c049de": [
     "scm\\inventory\\set-up-consignment.md"
   ],
@@ -14378,9 +14165,6 @@
   "758872c875c8b2c85c5eb5f2d6c1a5a649644f17": [
     "scm\\procurement\\purchase-order-creation.md"
   ],
-  "de8fa93bfc0119d6f9433fb4215c326abdda2899": [
-    "scm\\procurement\\purchase-order-creation.md"
-  ],
   "88fa3fb97621e0f4a226a45b36809e824c807420": [
     "scm\\procurement\\purchase-order-overview.md"
   ],
@@ -14438,12 +14222,6 @@
   "f4b9b35737590e6776293f8ac619fbfac96f5e10": [
     "scm\\procurement\\vendor-collaboration-mobile-workspace.md"
   ],
-  "5accd1d0fb58b6b67dac926deebbed262744d36d": [
-    "scm\\procurement\\vendor-collaboration-mobile-workspace.md"
-  ],
-  "9f441508b745d22218316128572c9ec6aeb7207b": [
-    "scm\\procurement\\vendor-collaboration-mobile-workspace.md"
-  ],
   "1649014855d8d5e0f1225a661c9b6bae6490f597": [
     "scm\\procurement\\vendor-collaboration-work-customers-dynamics-365-operations.md"
   ],
@@ -14457,18 +14235,6 @@
     "scm\\procurement\\vendor-collaboration-work-customers-dynamics-365-operations.md"
   ],
   "d1a686cbad30e2ce82601b70cbd835a240690907": [
-    "scm\\procurement\\vendor-collaboration-work-external-vendors.md"
-  ],
-  "b141ed78306504949eae641377b5c5a2b0599572": [
-    "scm\\procurement\\vendor-collaboration-work-external-vendors.md"
-  ],
-  "c8947f9335b3a2de83ab00bad1043ee14d35f2c8": [
-    "scm\\procurement\\vendor-collaboration-work-external-vendors.md"
-  ],
-  "0bbe5bd0f51cc44cf069d37c114482a25f01ffb7": [
-    "scm\\procurement\\vendor-collaboration-work-external-vendors.md"
-  ],
-  "d585ae0716a4bd9c3531e8639cd7c6b3cab780ac": [
     "scm\\procurement\\vendor-collaboration-work-external-vendors.md"
   ],
   "582807f9f416d3e6e73226dfd2e22af2d6331acd": [
@@ -14589,9 +14355,6 @@
     "scm\\warehousing\\warehouse-configuration.md"
   ],
   "95f25ab83d3d051c628573dcdac711af7817248f": [
-    "scm\\warehousing\\warehouse-configuration.md"
-  ],
-  "437f2348603db432df6d7589e4043d8145c52a1e": [
     "scm\\warehousing\\warehouse-configuration.md"
   ],
   "706243d8e5ce82c334a3dfee3f5bc65e3e2fd646": [
@@ -14838,12 +14601,6 @@
     "scm\\sales-marketing\\sales-orders-mobile-workspace.md"
   ],
   "6e5b78bf4291ff30cd05c5055bd42dd569a3bf8a": [
-    "scm\\sales-marketing\\sales-orders-mobile-workspace.md"
-  ],
-  "119b80e5d8067ffbf75d8b067f4803558c2c94b0": [
-    "scm\\sales-marketing\\sales-orders-mobile-workspace.md"
-  ],
-  "5827cc475854e426131b64d4290c1a6280f5f7bd": [
     "scm\\sales-marketing\\sales-orders-mobile-workspace.md"
   ],
   "675e2a929e084e5289564fbd59cd623b1f4b8d77": [
