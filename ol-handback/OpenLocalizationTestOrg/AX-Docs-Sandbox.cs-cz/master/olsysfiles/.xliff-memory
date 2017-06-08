@@ -25899,6 +25899,96 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\d0dcc265e999aeb917a41fb0c706efe1af70fe9a.933c24ccdb247fc440cb7ec2d14139fec28bb074.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "dev-itpro\\analytics\\emea-fra-commitments-public-sector.md.306ee828b2a7a159a7c738f126bd0c843c004d09.HT": {
+      "SourceFilename": "dev-itpro\\analytics\\emea-fra-commitments-public-sector.md",
+      "XliffHash": "306ee828b2a7a159a7c738f126bd0c843c004d09",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\72dd259bdcc6e76265d8bde20a51c0cf006ff47a.3c2c7b24bc19fa55ff7fee7ea06855973a091788.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "core\\get-started\\action-search.md.24e213a5d0ed5e6e64087d8ee766e43e76df0662.HT": {
+      "SourceFilename": "core\\get-started\\action-search.md",
+      "XliffHash": "24e213a5d0ed5e6e64087d8ee766e43e76df0662",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\5d440f462a9296f07cc55ab2ec2111bdd73b2bcf.ca5de145bd7c4424023390a79f0edbc7673e270f.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "hr\\assess-customer-product-profitability.md.62f7a76ebb286ae5be474a82c8a4fabaecc0582e.HT": {
+      "SourceFilename": "hr\\assess-customer-product-profitability.md",
+      "XliffHash": "62f7a76ebb286ae5be474a82c8a4fabaecc0582e",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\7a3cb6557ec270c00ae9eca5391e9013176b599c.f61bffba08eef82344b687205a892a9ce7bfce5f.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "scm\\advanced-filtering-query-options.md.7022ffbbe1c78fc1aeea93efa30302cfff17591f.HT": {
+      "SourceFilename": "scm\\advanced-filtering-query-options.md",
+      "XliffHash": "7022ffbbe1c78fc1aeea93efa30302cfff17591f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\53a1da9395c7e3c152f406aa513ec39767b75782.98fbefc093cd12172addabc6f8edb7bcf72b40ef.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "scm\\action-search.md.c4876d13867f4b6b5438759683dd91e89609d241.HT": {
+      "SourceFilename": "scm\\action-search.md",
+      "XliffHash": "c4876d13867f4b6b5438759683dd91e89609d241",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\ac461ac245885e38053037f88893d3243d81415d.5e2e99ec66092a2bd1f83cfbd30bc66947c27b59.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "dev-itpro\\analytics\\emea-intrastat.md.bd75a09f1d91d8a206873c29968eba750a1173c3.HT": {
+      "SourceFilename": "dev-itpro\\analytics\\emea-intrastat.md",
+      "XliffHash": "bd75a09f1d91d8a206873c29968eba750a1173c3",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\20f44002368239e4f229e3cbc9f63791ea3c5563.f55388170bccfd5d411cdf72cec499cea3b496e9.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "hr\\analyze-sales-trends-patterns.md.e24691af0d4917410793976d50b9fc1fe6629f3d.HT": {
+      "SourceFilename": "hr\\analyze-sales-trends-patterns.md",
+      "XliffHash": "e24691af0d4917410793976d50b9fc1fe6629f3d",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\aab453d3fca968cc295ed36cf6952d48acb5a6c4.0930535eb259097adf3ad58464656654dd0f36fb.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "hr\\add-recommendations-control-pos-screen.md.a46cd6b93e927924bad60edbe72469b7d8228b0a.HT": {
+      "SourceFilename": "hr\\add-recommendations-control-pos-screen.md",
+      "XliffHash": "a46cd6b93e927924bad60edbe72469b7d8228b0a",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\99f1ffea5d050431c5c63a90092d4f9534fb922b.9e3b96312899ffb12d3b6b77a9238caf94eb18b5.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "scm\\client-faq.md.998ac8dd903f260d9c703af05e3744b2462787f9.HT": {
+      "SourceFilename": "scm\\client-faq.md",
+      "XliffHash": "998ac8dd903f260d9c703af05e3744b2462787f9",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.cs-cz\\master\\2b495bd8cfc6791cf147a40fd951c0b13b2b1332.b130f40251ea33acca977f7fcf5babfe73f65b3c.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }
