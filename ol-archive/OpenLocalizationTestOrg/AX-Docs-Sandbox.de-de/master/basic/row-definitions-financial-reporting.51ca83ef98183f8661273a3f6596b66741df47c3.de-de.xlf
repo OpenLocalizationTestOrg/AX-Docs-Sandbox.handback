@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a2f92effd1cfdc1d5da2c5ec895c0487a6fc82a4</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">cf0886725e2d8d4031e19810e75755f4306b7c49</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\analytics\row-definitions-financial-reporting.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">abfa6b180df6f8196023d2960c9c02a8765d0560</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">96c02256862cd6d82390ea03477db9d126a17e61</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b3967b7ae11cc49971fdecfd87e953845f67dc57</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9de1bfdbb3d318fcdd4418149f7d671db958b9c2</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -418,7 +418,7 @@
           <source>See also</source>
         </trans-unit>
         <trans-unit id="236" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Financial reporting for Microsoft Dynamics 365 for Operations<ept id="p1">](financial-reporting-intro.md)</ept></source>
+          <source><bpt id="p1">[</bpt>Financial reporting<ept id="p1">](financial-reporting-intro.md)</ept></source>
         </trans-unit>
       </group>
     </body>

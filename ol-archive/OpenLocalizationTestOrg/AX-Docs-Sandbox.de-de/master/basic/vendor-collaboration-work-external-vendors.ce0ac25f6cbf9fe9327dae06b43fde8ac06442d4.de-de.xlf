@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d585ae0716a4bd9c3531e8639cd7c6b3cab780ac</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d1a686cbad30e2ce82601b70cbd835a240690907</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">scm\procurement\vendor-collaboration-work-external-vendors.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8460443075eeabe4b0d36f604e70b8b5bf5e237a</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5b59a788fbdfd481225e01c471168c3d4e2bfeff</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">180cfefac1dc856b060e1390beb6c3e9a4666091</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1a3e4dc5f32b9fba4525715ac5ccd2c56af71353</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -67,7 +67,7 @@
           <source>Select one of the response types.</source>
         </trans-unit>
         <trans-unit id="119" translate="yes" xml:space="preserve">
-          <source>Click <bpt id="p1">**</bpt>Edit.<ept id="p1">**</ept></source>
+          <source>Click <bpt id="p1">**</bpt>Edit<ept id="p1">**</ept>.</source>
         </trans-unit>
         <trans-unit id="120" translate="yes" xml:space="preserve">
           <source>Enter the information that you want vendors to see in the <bpt id="p1">**</bpt>Information message<ept id="p1">**</ept> box.</source>
@@ -133,7 +133,7 @@
           <source>Purchase orders are prepared in Dynamics 365 for Operations.</source>
         </trans-unit>
         <trans-unit id="141" translate="yes" xml:space="preserve">
-          <source>When the PO has a status of <bpt id="p1">**</bpt>Approved<ept id="p1">**</ept>, you send it to the vendor using the **Send for confirmation **action on the <bpt id="p2">**</bpt>Purchase order<ept id="p2">**</ept> page.</source>
+          <source>When the PO has a status of <bpt id="p1">**</bpt>Approved<ept id="p1">**</ept>, you send it to the vendor using the <bpt id="p2">**</bpt>Send for confirmation<ept id="p2">**</ept> action on the <bpt id="p3">**</bpt>Purchase order<ept id="p3">**</ept> page.</source>
         </trans-unit>
         <trans-unit id="142" translate="yes" xml:space="preserve">
           <source>The PO status changes to <bpt id="p1">**</bpt>In External Review<ept id="p1">**</ept>.</source>
@@ -154,7 +154,7 @@
           <source>When a vendor has accepted a purchase order, the PO may be automatically confirmed, or it may need to be manually confirmed.</source>
         </trans-unit>
         <trans-unit id="148" translate="yes" xml:space="preserve">
-          <source>This depends on whether the **Vendor activation **field is set to <bpt id="p1">**</bpt>Active (PO is auto-confirmed)<ept id="p1">**</ept> for the vendor, or to <bpt id="p2">**</bpt>Active (PO is not auto-confirmed)<ept id="p2">**</ept>.</source>
+          <source>This depends on whether the <bpt id="p1">**</bpt>Vendor activation<ept id="p1">**</ept> field is set to <bpt id="p2">**</bpt>Active (PO is auto-confirmed)<ept id="p2">**</ept> for the vendor, or to <bpt id="p3">**</bpt>Active (PO is not auto-confirmed)<ept id="p3">**</ept>.</source>
         </trans-unit>
         <trans-unit id="149" translate="yes" xml:space="preserve">
           <source>The following table shows the typical exchange of information, depending on how the vendor responds when you send a PO for confirmation.</source>

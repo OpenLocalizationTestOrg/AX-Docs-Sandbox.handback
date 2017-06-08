@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">818fb054742b935d002a7341e54a37eca0bb4761</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4c2f98803164d5c761d2089152c077cfb9e83c43</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">core\organization-administration\configure-parallel-activity-workflow.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8aa85e43b6bd8408d59e37b477e05a27501c669d</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a69af6943c17c641feb7fe15b0c9aefe1695a1eb</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ccd7c010877b368e54f2eb1bf9b2df0734134f0c</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">eb9a269d9b31ee4db3588939e3856aeb1a65ed10</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -67,7 +67,7 @@
           <source>The order of the branches is not important because all the branches of a parallel activity run at the same time.</source>
         </trans-unit>
         <trans-unit id="119" translate="yes" xml:space="preserve">
-          <source>To configure each branch, see <bpt id="p1">[</bpt>Configure a parallel branch<ept id="p1">](http://axhelp.dynamics.com/en/wiki/configure-a-parallel-branch/)</ept>.</source>
+          <source>To configure each branch, see <bpt id="p1">[</bpt>Configure a parallel branch<ept id="p1">](configure-parallel-branch-workflow.md)</ept>.</source>
         </trans-unit>
       </group>
     </body>

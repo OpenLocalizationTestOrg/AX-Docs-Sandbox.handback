@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">579e393ef64bc5ad72d129ac08ac215c524d5c55</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">159fe64b7a37ffdcbcd6c122116c2e110300122b</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">core\organization-administration\configure-approval-process-workflow.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">86e08ca339f5535aaa648d4655243275d25e652d</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">26a668931c5da8f1262d673a50a15e79f7ed8dc6</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e1ea598f36956b1e53f7ce87b149606b15a17406</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f4e3b7e383f7ebd5549986c02c14fdd37b0d5940</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -349,7 +349,7 @@
           <source>To add an approval step, drag the step from the <bpt id="p1">**</bpt>Workflow elements<ept id="p1">**</ept> area to the canvas.</source>
         </trans-unit>
         <trans-unit id="213" translate="yes" xml:space="preserve">
-          <source>To configure an approval step, see <bpt id="p1">[</bpt>Configure an approval step<ept id="p1">](http://axhelp.dynamics.com/en/wiki/configure-an-approval-step/)</ept>.</source>
+          <source>To configure an approval step, see <bpt id="p1">[</bpt>Configure an approval step<ept id="p1">](configure-approval-step-workflow.md)</ept>.</source>
         </trans-unit>
       </group>
     </body>

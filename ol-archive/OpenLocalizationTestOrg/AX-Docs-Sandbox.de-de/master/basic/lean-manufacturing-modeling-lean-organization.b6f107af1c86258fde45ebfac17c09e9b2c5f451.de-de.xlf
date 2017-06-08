@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">536b20d5c4c2030800df25d0d227deaac386aee5</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ec9191054a1b3587ebbde16acf278084cbd22660</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">scm\production-control\lean-manufacturing-modeling-lean-organization.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2316d6b02c58ec2160d3de90f4e8a5818f88cb10</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ffcbeabba596aeff656aa55886aefc1b814ef947</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">eeb75772ad01986af8f1f08daebfb1f867410591</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e171393d3ff704ef275ae42f53d55e445b7f6343</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -70,7 +70,7 @@
           <source>However, this model doesn't add complexity for the shop floor workers, because all scenarios use the same activity-based user interface.</source>
         </trans-unit>
         <trans-unit id="120" translate="yes" xml:space="preserve">
-          <source>Semifinished products (nonBOM levels)</source>
+          <source>Semi-finished products (non-BOM levels)</source>
         </trans-unit>
         <trans-unit id="121" translate="yes" xml:space="preserve">
           <source>Lean manufacturing for Dynamics AX integrates kanbans for inventoried products and semi-finished products in a single framework, and therefore offers a unified user experience for all cases.</source>

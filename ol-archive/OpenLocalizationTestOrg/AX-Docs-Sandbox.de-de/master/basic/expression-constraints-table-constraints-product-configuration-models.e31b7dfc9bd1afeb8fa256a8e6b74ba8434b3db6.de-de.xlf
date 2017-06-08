@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1fe8a0d90a3f707fa7b0fea0310c819ce5040a42</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0bad513590ec0b0d495664d81f2e5f92e162bdd7</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">scm\pim\expression-constraints-table-constraints-product-configuration-models.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7098a89730c5f2414c234e6b92df2ac16271f96f</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1e4986dd48d7d93fc1d752488f6ba1d428164f16</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">560eea675d7b9ff1c31c7fe707afde10b9e38e22</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">40b71f8d4f32dbce6f72488c23de126e03c7f432</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -85,7 +85,7 @@
           <source>The first table shows the cabinet finishes and fronts that are generally available for configuration.</source>
         </trans-unit>
         <trans-unit id="125" translate="yes" xml:space="preserve">
-          <source>The values are defined for the **Cabinet finish **and <bpt id="p1">**</bpt>Front grill<ept id="p1">**</ept> attribute types.</source>
+          <source>The values are defined for the <bpt id="p1">**</bpt>Cabinet finish<ept id="p1">**</ept> and <bpt id="p2">**</bpt>Front grill<ept id="p2">**</ept> attribute types.</source>
         </trans-unit>
         <trans-unit id="126" translate="yes" xml:space="preserve">
           <source>Attribute type</source>

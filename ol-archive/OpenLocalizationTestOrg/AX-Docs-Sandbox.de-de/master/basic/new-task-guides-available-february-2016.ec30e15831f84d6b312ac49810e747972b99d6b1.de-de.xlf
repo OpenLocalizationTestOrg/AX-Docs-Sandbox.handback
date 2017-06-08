@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6462951cba3c289368887a037d4b71187f4523df</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3c99753f22e537fdc026342dce12389fb9acc83a</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\get-started\new-task-guides-available-february-2016.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ac573c7c10827da52c0e5c7a933d2907db4048b3</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a9d262f59409d41f6c55b3d1024f68338332f89f</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3bc64836772a0ad69a0cd9b8a0aea198f873c1eb</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1b0681741d77b7977003e6af1af61d6b749b240f</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -16,7 +16,7 @@
           <source>New task guides (February 2016)</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>This wiki lists the Task guides that were released to the Microsoft BPM libraries as of February 2016.</source>
+          <source>This topic lists the Task guides that were released to the Microsoft BPM libraries as of February 2016.</source>
         </trans-unit>
         <trans-unit id="103" translate="yes" xml:space="preserve">
           <source>The libraries that were published include the (February 2016) APQC Unified Library for Microsoft Dynamics 365 for Operations, and (February 2016) Getting started.</source>
@@ -25,7 +25,7 @@
           <source>New task guides (February 2016)</source>
         </trans-unit>
         <trans-unit id="105" translate="yes" xml:space="preserve">
-          <source>This wiki lists the Task guides that were released to the Microsoft BPM libraries as of February 2016.</source>
+          <source>This topic lists the Task guides that were released to the Microsoft BPM libraries as of February 2016.</source>
         </trans-unit>
         <trans-unit id="106" translate="yes" xml:space="preserve">
           <source>The libraries that were published include the (February 2016) APQC Unified Library for Microsoft Dynamics 365 for Operations, and (February 2016) Getting started.</source>

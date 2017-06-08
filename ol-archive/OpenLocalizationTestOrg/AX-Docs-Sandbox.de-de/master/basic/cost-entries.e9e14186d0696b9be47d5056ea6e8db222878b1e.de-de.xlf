@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">55f5ee731c40acc40e8fe20c24d4ed707fe2c81a</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1045ecbf7080f12bc60336609180173544e4e0eb</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">scm\cost-management\cost-entries.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c91de471db4b90cfd58369a245b17fb45a079c61</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1a43551742eb6ecb9cdb4d64a27fe93abd6bd927</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">50095d6ee2441878a8471059a4809f11bdfdd538</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4e8d3109d6c321f35d30668a74f865f4ce1983f5</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -127,84 +127,78 @@
           <source>Lot ID</source>
         </trans-unit>
         <trans-unit id="139" translate="yes" xml:space="preserve">
-          <source>Reference Lot</source>
-        </trans-unit>
-        <trans-unit id="140" translate="yes" xml:space="preserve">
-          <source>Return Lot ID</source>
-        </trans-unit>
-        <trans-unit id="141" translate="yes" xml:space="preserve">
           <source>Quantity</source>
         </trans-unit>
-        <trans-unit id="142" translate="yes" xml:space="preserve">
+        <trans-unit id="140" translate="yes" xml:space="preserve">
           <source>Amount</source>
         </trans-unit>
-        <trans-unit id="143" translate="yes" xml:space="preserve">
+        <trans-unit id="141" translate="yes" xml:space="preserve">
           <source>00001</source>
         </trans-unit>
-        <trans-unit id="144" translate="yes" xml:space="preserve">
+        <trans-unit id="142" translate="yes" xml:space="preserve">
           <source>01-01-2015</source>
         </trans-unit>
-        <trans-unit id="145" translate="yes" xml:space="preserve">
+        <trans-unit id="143" translate="yes" xml:space="preserve">
           <source>Purchase order</source>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>100001</source>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>0000101</source>
         </trans-unit>
         <trans-unit id="146" translate="yes" xml:space="preserve">
-          <source>100001</source>
+          <source>100.00</source>
         </trans-unit>
         <trans-unit id="147" translate="yes" xml:space="preserve">
-          <source>0000101</source>
-        </trans-unit>
-        <trans-unit id="148" translate="yes" xml:space="preserve">
-          <source>100.00</source>
-        </trans-unit>
-        <trans-unit id="149" translate="yes" xml:space="preserve">
           <source>1000.00</source>
         </trans-unit>
-        <trans-unit id="150" translate="yes" xml:space="preserve">
+        <trans-unit id="148" translate="yes" xml:space="preserve">
           <source>00002</source>
         </trans-unit>
-        <trans-unit id="151" translate="yes" xml:space="preserve">
+        <trans-unit id="149" translate="yes" xml:space="preserve">
           <source>20-01-2015</source>
         </trans-unit>
-        <trans-unit id="152" translate="yes" xml:space="preserve">
+        <trans-unit id="150" translate="yes" xml:space="preserve">
           <source>Purchase order</source>
         </trans-unit>
-        <trans-unit id="153" translate="yes" xml:space="preserve">
+        <trans-unit id="151" translate="yes" xml:space="preserve">
           <source>100001</source>
         </trans-unit>
-        <trans-unit id="154" translate="yes" xml:space="preserve">
+        <trans-unit id="152" translate="yes" xml:space="preserve">
           <source>0000101</source>
         </trans-unit>
-        <trans-unit id="155" translate="yes" xml:space="preserve">
+        <trans-unit id="153" translate="yes" xml:space="preserve">
           <source>100.00</source>
         </trans-unit>
-        <trans-unit id="156" translate="yes" xml:space="preserve">
+        <trans-unit id="154" translate="yes" xml:space="preserve">
           <source>00003</source>
         </trans-unit>
-        <trans-unit id="157" translate="yes" xml:space="preserve">
+        <trans-unit id="155" translate="yes" xml:space="preserve">
           <source>31-01-2015</source>
         </trans-unit>
-        <trans-unit id="158" translate="yes" xml:space="preserve">
+        <trans-unit id="156" translate="yes" xml:space="preserve">
           <source>Adjustment</source>
         </trans-unit>
-        <trans-unit id="159" translate="yes" xml:space="preserve">
+        <trans-unit id="157" translate="yes" xml:space="preserve">
           <source>100001</source>
         </trans-unit>
-        <trans-unit id="160" translate="yes" xml:space="preserve">
+        <trans-unit id="158" translate="yes" xml:space="preserve">
           <source>0000101</source>
         </trans-unit>
-        <trans-unit id="161" translate="yes" xml:space="preserve">
+        <trans-unit id="159" translate="yes" xml:space="preserve">
           <source>15.00</source>
         </trans-unit>
-        <trans-unit id="162" translate="yes" xml:space="preserve">
+        <trans-unit id="160" translate="yes" xml:space="preserve">
           <source>The <bpt id="p1">**</bpt>Cost entries<ept id="p1">**</ept> page enables filtering by document ID and document date.</source>
         </trans-unit>
-        <trans-unit id="163" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> Cost entries are available only for <bpt id="p2">[</bpt>cost objects<ept id="p2">](cost-object.md)</ept> or released products.</source>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>Cost entries are available only for <bpt id="p1">[</bpt>cost objects<ept id="p1">](cost-object.md)</ept> or released products.</source>
         </trans-unit>
-        <trans-unit id="164" translate="yes" xml:space="preserve">
+        <trans-unit id="162" translate="yes" xml:space="preserve">
           <source>See also</source>
         </trans-unit>
-        <trans-unit id="165" translate="yes" xml:space="preserve">
+        <trans-unit id="163" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Cost objects<ept id="p1">](cost-object.md)</ept></source>
         </trans-unit>
       </group>

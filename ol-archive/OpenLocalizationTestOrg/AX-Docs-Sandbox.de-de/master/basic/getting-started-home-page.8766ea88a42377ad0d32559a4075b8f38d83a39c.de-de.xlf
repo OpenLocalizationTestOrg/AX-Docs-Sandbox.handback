@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8f75131c6be6ce0f23cce456405d5e211912f19a</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">12bac20fa921c54ed2eddc983a7a8aed3d95fa19</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\get-started\getting-started-home-page.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e77c46ba4be94d874ab8c706b45bc8b61f5fcaef</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">120edd8a395987463da3bf12ab4933a66c7d9109</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9ffb2a4802fe1e6a5f431ad89137b41d26804e8f</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">55872e24662d00cce2875226fea4d51dd1320d95</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -40,7 +40,7 @@
           <source><bpt id="p1">[</bpt>Lifecycle Services (LCS) for Microsoft Dynamics 365 for Operations customers<ept id="p1">](../lifecycle-services/lcs-works-lcs.md)</ept></source>
         </trans-unit>
         <trans-unit id="110" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>How customers who purchased Microsoft Dynamics 365 for Operations through a Cloud Service Provider can get the on-premises version of Dynamics 365 for Operations 2012<ept id="p1">](../deployment/csp-download-customersource.md)</ept></source>
+          <source><bpt id="p1">[</bpt>How customers who purchased Microsoft Dynamics 365 for Operations through a Cloud Service Provider can get the on-premises version of Dynamics AX 2012<ept id="p1">](../deployment/csp-download-customersource.md)</ept></source>
         </trans-unit>
         <trans-unit id="111" translate="yes" xml:space="preserve">
           <source>User interface</source>
@@ -130,15 +130,12 @@
           <source>See also</source>
         </trans-unit>
         <trans-unit id="140" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Creating New Training Libraries for Dynamics 365 for Operations within Lifecycle Services using the Task Recorder (External link)<ept id="p1">](https://docs.com/mufife/163372c6-f366-4c5a-94fa-93e2c25f878a/creating-new-training-libraries-for-dynamics-ax)</ept></source>
-        </trans-unit>
-        <trans-unit id="141" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>New Task guides (February 2016)<ept id="p1">](new-task-guides-available-february-2016.md)</ept></source>
         </trans-unit>
-        <trans-unit id="142" translate="yes" xml:space="preserve">
+        <trans-unit id="141" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>New or updated Task guides (May 2016)<ept id="p1">](new-updated-task-guides-available-may-2016.md)</ept></source>
         </trans-unit>
-        <trans-unit id="143" translate="yes" xml:space="preserve">
+        <trans-unit id="142" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>New or updated Task guides (November 2016)<ept id="p1">](new-task-guides-november-2016.md)</ept></source>
         </trans-unit>
       </group>

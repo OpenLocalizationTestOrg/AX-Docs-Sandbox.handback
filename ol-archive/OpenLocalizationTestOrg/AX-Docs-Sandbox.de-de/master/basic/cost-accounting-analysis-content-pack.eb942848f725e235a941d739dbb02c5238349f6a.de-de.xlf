@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">50e7bd92ee693f59fd013226aee22bd1a54c81e2</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5ce75a6145bde4a8c33ed785c7d2a60a52416676</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\analytics\cost-accounting-analysis-content-pack.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">728647dadcc92709f2a22b084bdd19133e2863a6</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2071d9a3c22df1ca5e1404a9a9afe4e9f904d8b9</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5a474092bd91db1bdec94436387ce8939f4fa4fd</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2f88918ffb2e78631996cb17edd82e065d04cc9b</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -55,7 +55,7 @@
           <source>The <bpt id="p1">**</bpt>Cost accounting analysis<ept id="p1">**</ept> Power BI content lets cost accountants analyze how cost flows through the cost objects of the whole organization.</source>
         </trans-unit>
         <trans-unit id="115" translate="yes" xml:space="preserve">
-          <source>To learn more about Cost accounting, see <bpt id="p1">[</bpt>Cost accounting home page<ept id="p1">](/dynamics365/operations/financials/cost-accounting/cost-accounting-home-page.md)</ept>.</source>
+          <source>To learn more about Cost accounting, see <bpt id="p1">[</bpt>Cost accounting home page<ept id="p1">](/dynamics365/operations/financials/cost-accounting/cost-accounting-home-page)</ept>.</source>
         </trans-unit>
         <trans-unit id="116" translate="yes" xml:space="preserve">
           <source>By defining access-level security in Cost accounting and combining it with row-level security in Power BI, you can grant all cost object owners access to the <bpt id="p1">**</bpt>Cost accounting analysis<ept id="p1">**</ept> Power BI content.</source>
@@ -76,7 +76,7 @@
           <source>For more information about how to download the content and connect it to your Dynamics 365 for Operations data, see <bpt id="p1">[</bpt>Power BI content in LCS from Microsoft and your partners<ept id="p1">](power-bi-content-microsoft-partners.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="122" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> KB4011327** **is a prerequisite for the <bpt id="p2">**</bpt>Cost accounting analysis<ept id="p2">**</ept> Power BI content.</source>
+          <source>NOTE - <bpt id="p1">**</bpt>KB4011327<ept id="p1">**</ept> is a prerequisite for this Power BI content.</source>
         </trans-unit>
         <trans-unit id="123" translate="yes" xml:space="preserve">
           <source>After you sign in to Lifecycle Services, you can access the KB here: <bpt id="p1">&lt;</bpt>https://fix.lcs.dynamics.com/issue/results/?q=kb4011327<ept id="p1">&gt;</ept>.</source>

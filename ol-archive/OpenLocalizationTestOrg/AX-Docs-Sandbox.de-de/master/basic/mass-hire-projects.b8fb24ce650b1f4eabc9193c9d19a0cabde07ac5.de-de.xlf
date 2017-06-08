@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d330f73ee9cbdd6bdcc197c3783a9230b26e04d8</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">538733c2b3453ad928f42dafb618303d9964452f</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">hr\mass-hire-projects.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e864db22d32881d26c3b176149bc456448860547</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7f0dce30f1c63a6d04a47e9e7863e8d03124e9f3</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b6dd1c836935910796f1ec1727bbde6063df0cb7</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">402ba764bdd8998e65260e53e0f89cefbd716c5c</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -85,7 +85,7 @@
           <source>A position record will be created for each position and a worker record will be created and assigned to the correct position for each person who you hire.</source>
         </trans-unit>
         <trans-unit id="125" translate="yes" xml:space="preserve">
-          <source>Masshire project statuses</source>
+          <source>Mass hire project statuses</source>
         </trans-unit>
         <trans-unit id="126" translate="yes" xml:space="preserve">
           <source>A mass hire project can have the following statuses.</source>

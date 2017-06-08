@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">812fbb3cc3159783e9908e537c366ffc7f934092</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">40bbb07deb455d922244fc3856871cda7107543e</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\fixed-assets\175-percent-reducing-balance-depreciation.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5866321dce12ae41bd077c8e39c3cb1591aa0e53</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5dc9a46e032a755ec55383386a8a30108c68ba02</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">14f35b47d911350b6e3b12d4ed32511b67cdc2ec</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1ceb89166b0c5ea9662fc7a83c88b56c84893c8b</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -91,7 +91,7 @@
           <source>Fiscal calendars are set up on the <bpt id="p1">**</bpt>Fiscal calendars<ept id="p1">**</ept> page.</source>
         </trans-unit>
         <trans-unit id="127" translate="yes" xml:space="preserve">
-          <source>For more information, see <bpt id="p1">[</bpt>Fiscal calendars, fiscal years, and periods.<ept id="p1">](\financials\budgeting\fiscal-calendars-fiscal-years-periods.md)</ept>.</source>
+          <source>For more information, see <bpt id="p1">[</bpt>Fiscal calendars, fiscal years, and periods.<ept id="p1">](..\budgeting\fiscal-calendars-fiscal-years-periods.md)</ept>.</source>
         </trans-unit>
         <trans-unit id="128" translate="yes" xml:space="preserve">
           <source>For example, for the fiscal year July 1 through June 30, the depreciation calculation starts on July 1.</source>

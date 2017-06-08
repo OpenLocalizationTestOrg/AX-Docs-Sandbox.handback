@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">15af90d007d77a490db7cb540ef96b4104dbba7e</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">30580b059a4c240ad540a9c347b0551df0ab5c02</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">scm\pim\product-configuration-models.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9a8b5ad4a925cc8f2377086c030a89b3695b3795</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a5aa7442228a06b7198cb634e35dcafb3d5c9510</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">bdc350a6f697cf3c44e99f907129dbd560e8bdf1</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d536ed54cf6d950e33b3511e5b6ca17950c3d1ed</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -187,7 +187,7 @@
           <source>The Product configuration solver is used to solve the constraints, and you must use the solver syntax when you write the constraints.</source>
         </trans-unit>
         <trans-unit id="159" translate="yes" xml:space="preserve">
-          <source>For more information, see the wiki link about expression constraints and table constraints.</source>
+          <source>For more information, see the topic link about expression constraints and table constraints.</source>
         </trans-unit>
         <trans-unit id="160" translate="yes" xml:space="preserve">
           <source>Table constraints must be defined before they can be applied to a component in a product configuration model.</source>

@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2c98039c9fa8179408394f9f66b9fca0f8cad3fe</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c871cf4e5ee7f359010aac1fa0fef81e0e0df564</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">scm\production-control\bom-designer-functionality.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d2918ca799099e9909cfa46a2a745b21cb78fde3</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">91d9372a72f27963544f834d6000235baa115bf6</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">fac7b35223067921af444a94ee29b9f204a9c39d</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2f23af1bdcbb2ff789a043bfb88c3489873bdd0b</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -172,7 +172,7 @@
           <source>Adding and editing BOMs and BOM lines</source>
         </trans-unit>
         <trans-unit id="154" translate="yes" xml:space="preserve">
-          <source>Use the **BOM lines **or <bpt id="p1">**</bpt>BOM<ept id="p1">**</ept> functions to modify the BOM lines or BOM.</source>
+          <source>Use the <bpt id="p1">**</bpt>BOM lines<ept id="p1">**</ept> or <bpt id="p2">**</bpt>BOM<ept id="p2">**</ept> functions to modify the BOM lines or BOM.</source>
         </trans-unit>
         <trans-unit id="155" translate="yes" xml:space="preserve">
           <source>When you select a node in the tree, the type of the node determines that functions that are available.</source>

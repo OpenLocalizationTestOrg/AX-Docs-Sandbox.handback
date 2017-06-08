@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b33cbf67c00b6baea4393e82d19300085781af29</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">abda7cfb5826ce3a9e1b3c2f2d1052312dcee922</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">retail\install-pos-layout-designer.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">08d8f75a94faf7978580555875baf375e7c0d470</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2d6a025958161a3dfb315246efd4aa2b5260b939</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2a815f6ff71b4de149228151699fdab120b04d3e</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b5ffa8fe20d17262caefee29e9e3e934b32640af</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -37,7 +37,7 @@
           <source>Layouts also include the overall appearance of the sales interface that is presented to workers.</source>
         </trans-unit>
         <trans-unit id="109" translate="yes" xml:space="preserve">
-          <source>Install the oneclick designer</source>
+          <source>Install the one-click designer</source>
         </trans-unit>
         <trans-unit id="110" translate="yes" xml:space="preserve">
           <source>In Microsoft Dynamics 365 for Operations, use the menu in the upper left to navigate to <bpt id="p1">**</bpt>Retail<ept id="p1">**</ept> <bpt id="p2">**</bpt>and commerce<ept id="p2">**</ept> <ph id="ph1">&amp;gt;</ph> <bpt id="p3">**</bpt>Channel setup<ept id="p3">**</ept> <ph id="ph2">&amp;gt;</ph> <bpt id="p4">**</bpt>POS setup<ept id="p4">**</ept> <ph id="ph3">&amp;gt;</ph> <bpt id="p5">**</bpt>POS<ept id="p5">**</ept> <ph id="ph4">&amp;gt;</ph> <bpt id="p6">**</bpt>Screen layouts<ept id="p6">**</ept>.</source>

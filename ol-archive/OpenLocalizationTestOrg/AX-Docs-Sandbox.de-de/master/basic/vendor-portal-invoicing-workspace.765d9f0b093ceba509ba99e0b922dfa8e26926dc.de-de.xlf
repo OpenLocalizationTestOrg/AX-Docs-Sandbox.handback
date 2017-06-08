@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">822e621f22f8af63b2a827dcc50a6b0ac68d3e21</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7c8fe2fea08dbad625cd373ca316135ac4e29e13</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\accounts-payable\vendor-portal-invoicing-workspace.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">eb725d428b71e6175aa6ce6e5ceaf3b65a1b8bba</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">85b105b42051377081e5a8a56bfb6116a893cd55</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7a21ac8839de53381762f4b9e7d4409421ff2d74</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b9e7adf8086259f5724da4b44ffdb984b8fb0e97</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -100,7 +100,7 @@
           <source>You can attach files, notes, images, and URLs to an invoice before submitting it.</source>
         </trans-unit>
         <trans-unit id="130" translate="yes" xml:space="preserve">
-          <source>For more information, see <bpt id="p1">[</bpt>Collaborating with vendors by using the Vendor portal<ept id="p1">](/dynamics365/operations/scm/procurement/collaborate-vendors-vendor-portal)</ept></source>
+          <source>For more information, see <bpt id="p1">[</bpt>Collaborating with vendors by using the Vendor portal<ept id="p1">](/dynamics365/operations/supply-chain/procurement/collaborate-vendors-vendor-portal)</ept></source>
         </trans-unit>
       </group>
     </body>

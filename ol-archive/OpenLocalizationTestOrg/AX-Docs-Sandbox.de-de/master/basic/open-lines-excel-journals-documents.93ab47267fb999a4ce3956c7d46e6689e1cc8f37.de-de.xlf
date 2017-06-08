@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">087339cb3002b42bcb985c2ccfc2d97c752a817c</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a43bf66de7602aa9fb47925996ec5b979e1f8dac</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\general-ledger\open-lines-excel-journals-documents.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ad7b3b9e9da4f45e11faec7408dc4ad916d35a4b</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3a47175d826a2998fb0a017d35e5b92a446db474</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">aa08b04a8035294843b3a1ee496ddd026ce0209c</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d355670f988381d9975facf0888576c05ed37f00</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -148,7 +148,7 @@
           <source>To add financial dimensions to a template, additional changes are required.</source>
         </trans-unit>
         <trans-unit id="146" translate="yes" xml:space="preserve">
-          <source>For additional information, see <bpt id="p1">[</bpt>Add dimensions to the Microsoft Excel template<ept id="p1">](\dev-itpro\financial-dimensions\add-dimensions-excel-templates)</ept>.</source>
+          <source>For additional information, see <bpt id="p1">[</bpt>Add dimensions to the Microsoft Excel template<ept id="p1">](/dynamics365/operations/dev-itpro/financial/add-dimensions-excel-templates)</ept>.</source>
         </trans-unit>
         <trans-unit id="147" translate="yes" xml:space="preserve">
           <source>After dimensions are added to the entity, they are available in the Excel designer and can be added to the template.</source>

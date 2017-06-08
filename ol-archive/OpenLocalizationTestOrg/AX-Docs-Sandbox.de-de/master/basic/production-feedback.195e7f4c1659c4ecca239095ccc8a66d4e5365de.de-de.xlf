@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c1192695351fe1eab4beb471e5b8d4eb7a384c70</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">80a1f0311aab3574262795e8e36c8a6b07b0952f</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">scm\production-control\production-feedback.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7918c69fab99436ecdde94459c5ce7f33a95f655</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a3d1866864873c9d0e1a54fff177b533b297b892</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">57a438841f97c204d71d011218c0ba60af597c3b</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">18d27abfbe709a5d382a2983bb02e67326996acb</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -49,7 +49,7 @@
           <source>Production feedback can also be updated on the <bpt id="p1">**</bpt>Job card terminal<ept id="p1">**</ept> and <bpt id="p2">**</bpt>Job card device<ept id="p2">**</ept> pages.</source>
         </trans-unit>
         <trans-unit id="113" translate="yes" xml:space="preserve">
-          <source>These pages enable production feedback to be updated on the shop floor and are part of the manufacturing execution functionality in the **Production control **module.</source>
+          <source>These pages enable production feedback to be updated on the shop floor and are part of the manufacturing execution functionality in the <bpt id="p1">**</bpt>Production control<ept id="p1">**</ept> module.</source>
         </trans-unit>
         <trans-unit id="114" translate="yes" xml:space="preserve">
           <source>The <bpt id="p1">**</bpt>Job card terminal<ept id="p1">**</ept> page has a configurable user interface that shows a list of the released jobs in a prioritized order for a selected work area.</source>

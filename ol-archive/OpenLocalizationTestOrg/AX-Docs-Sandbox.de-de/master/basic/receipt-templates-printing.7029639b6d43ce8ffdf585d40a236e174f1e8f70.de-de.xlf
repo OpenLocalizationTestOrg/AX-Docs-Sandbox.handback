@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">fabaacbc7187b38a1745c2139a9eb7760f2be987</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9b34c26209b9aa48604b9cd51220e5812b1fbf22</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">retail\receipt-templates-printing.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a1f1be0567f82ec748d11d9948f3bc8760f70eb7</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">eb65e6f03e19a4b69ddfb7823be05621d4af37e5</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">fba6cabba5b1669537cbf0d38de4a512f850181c</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c2d2cb52817f93736e59baa65f3deb7fc5c88fb3</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -157,36 +157,45 @@
           <source><bpt id="p1">**</bpt>Variable<ept id="p1">**</ept> – This check box is selected automatically if the element contains a variable and can't be customized.</source>
         </trans-unit>
         <trans-unit id="149" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">**</bpt>Font type<ept id="p1">**</ept> – Set the font style to either <bpt id="p2">**</bpt>Normal<ept id="p2">**</ept> or <bpt id="p3">**</bpt>Bold<ept id="p3">**</ept>.</source>
+          <source><bpt id="p1">**</bpt>Font type<ept id="p1">**</ept> – Set the font style to either <bpt id="p2">**</bpt>Regular<ept id="p2">**</ept> or <bpt id="p3">**</bpt>Bold<ept id="p3">**</ept>.</source>
         </trans-unit>
         <trans-unit id="150" translate="yes" xml:space="preserve">
-          <source>Bold letters use two times as much space as normal letters.</source>
+          <source>Bold letters use two times as much space as regular letters.</source>
         </trans-unit>
         <trans-unit id="151" translate="yes" xml:space="preserve">
           <source>Therefore, some characters might be truncated.</source>
         </trans-unit>
         <trans-unit id="152" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">**</bpt>Delete<ept id="p1">**</ept> – Click this button to remove the selected part from the form layout.</source>
+          <source><bpt id="p1">**</bpt>Font size<ept id="p1">**</ept> – Set the font size to either <bpt id="p2">**</bpt>Regular<ept id="p2">**</ept> or <bpt id="p3">**</bpt>Large<ept id="p3">**</ept>.</source>
         </trans-unit>
         <trans-unit id="153" translate="yes" xml:space="preserve">
-          <source>Assign receipt profiles</source>
+          <source>Large letters are two times higher than regular letters.</source>
         </trans-unit>
         <trans-unit id="154" translate="yes" xml:space="preserve">
-          <source>Receipt profiles are assigned directly to printers through the hardware profile.</source>
+          <source>Therefore, using large letters may lead to overlapping text in the receipt.</source>
         </trans-unit>
         <trans-unit id="155" translate="yes" xml:space="preserve">
-          <source>Open the hardware profile by clicking <bpt id="p1">**</bpt>Retail and commerce<ept id="p1">**</ept> <ph id="ph1">&amp;gt;</ph> <bpt id="p2">**</bpt>Channel setup<ept id="p2">**</ept> <ph id="ph2">&amp;gt;</ph> <bpt id="p3">**</bpt>POS setup<ept id="p3">**</ept> <ph id="ph3">&amp;gt;</ph> <bpt id="p4">**</bpt>POS profiles<ept id="p4">**</ept> <ph id="ph4">&amp;gt;</ph> <bpt id="p5">**</bpt>Hardware profile<ept id="p5">**</ept>.</source>
+          <source><bpt id="p1">**</bpt>Delete<ept id="p1">**</ept> – Click this button to remove the selected part from the form layout.</source>
         </trans-unit>
         <trans-unit id="156" translate="yes" xml:space="preserve">
-          <source>Select the printer, and then, in the <bpt id="p1">**</bpt>Receipt profile<ept id="p1">**</ept> field, assign the receipt profile to use on the register.</source>
+          <source>Assign receipt profiles</source>
         </trans-unit>
         <trans-unit id="157" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> If two printers are used, one printer can be used to print standard 40-column thermal receipts.</source>
+          <source>Receipt profiles are assigned directly to printers through the hardware profile.</source>
         </trans-unit>
         <trans-unit id="158" translate="yes" xml:space="preserve">
-          <source>The second printer is typically used to print full-page receipt types that require more information.</source>
+          <source>Open the hardware profile by clicking <bpt id="p1">**</bpt>Retail and commerce<ept id="p1">**</ept> <ph id="ph1">&amp;gt;</ph> <bpt id="p2">**</bpt>Channel setup<ept id="p2">**</ept> <ph id="ph2">&amp;gt;</ph> <bpt id="p3">**</bpt>POS setup<ept id="p3">**</ept> <ph id="ph3">&amp;gt;</ph> <bpt id="p4">**</bpt>POS profiles<ept id="p4">**</ept> <ph id="ph4">&amp;gt;</ph> <bpt id="p5">**</bpt>Hardware profile<ept id="p5">**</ept>.</source>
         </trans-unit>
         <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>Select the printer, and then, in the <bpt id="p1">**</bpt>Receipt profile<ept id="p1">**</ept> field, assign the receipt profile to use on the register.</source>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> If two printers are used, one printer can be used to print standard 40-column thermal receipts.</source>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>The second printer is typically used to print full-page receipt types that require more information.</source>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
           <source>These receipt types include customer order receipts and customer invoices.</source>
         </trans-unit>
       </group>

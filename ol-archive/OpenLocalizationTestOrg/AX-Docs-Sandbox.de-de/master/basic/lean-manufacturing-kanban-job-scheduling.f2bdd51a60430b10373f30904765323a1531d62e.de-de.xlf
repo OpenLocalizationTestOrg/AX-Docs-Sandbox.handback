@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">062cbbc8a4fd3b4dc738f24ee0606a3741736377</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">27db57170ccc23c2ea18a49c1a3e5950c870fa13</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">scm\production-control\lean-manufacturing-kanban-job-scheduling.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c1fb00f88242451152d4eee603f355919e27314a</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f672cad9d52e7b11aab395a12d3f9349e7b6581b</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">eea390863003342429102a6674ab9e9957b61dc4</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f5c5721d4d817e93ce399f865cce5a8353d5232b</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -55,7 +55,7 @@
           <source>For example, the economic batch size for a specific item (or item family) is 30.</source>
         </trans-unit>
         <trans-unit id="115" translate="yes" xml:space="preserve">
-          <source>Instead of creating kanbans that use the product quantity, 30, you can configure the kanban rule so that it has a product quantity of 10 and an **Automatic planning quantity **value of <bpt id="p1">**</bpt>3<ept id="p1">**</ept>.</source>
+          <source>Instead of creating kanbans that use the product quantity, 30, you can configure the kanban rule so that it has a product quantity of 10 and an <bpt id="p1">**</bpt>Automatic planning quantity<ept id="p1">**</ept> value of <bpt id="p2">**</bpt>3<ept id="p2">**</ept>.</source>
         </trans-unit>
         <trans-unit id="116" translate="yes" xml:space="preserve">
           <source>Although automatic planning schedules the kanban jobs for the work cell only when three unplanned jobs exist, it's fully transparent to the planner and the shop floor supervisor that two unplanned jobs might be awaiting execution.</source>

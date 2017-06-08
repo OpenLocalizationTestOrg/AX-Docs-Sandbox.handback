@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1afd7855fd05d0bacb60a7a45bba68e7041a4f4b</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">cdbca6d9c71c901a1f4e7a8e5a2f9be1d3efb355</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">scm\cost-management\weighted-average-physical-value-marking.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c07db3a7c99a0196b1e6d9561a80223008bb0fd9</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">083a10d157249c6b4f82cfb4dc4c6748f0d8a61b</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e9d8a86d13c25925bfa7e82b89f7e1615dd6658b</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8852e81d0f50d10a231212da64f89b374ed7713f</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -145,7 +145,7 @@
           <source>WeightedAverage DS without Include Physical Value</source>
         </trans-unit>
         <trans-unit id="145" translate="yes" xml:space="preserve">
-          <source>Key to diagram</source>
+          <source><bpt id="p1">**</bpt>Key to diagram<ept id="p1">**</ept></source>
         </trans-unit>
         <trans-unit id="146" translate="yes" xml:space="preserve">
           <source>Inventory transactions are represented by vertical arrows.</source>
@@ -292,7 +292,7 @@
           <source>Weighted Average SS without Include Physical Value</source>
         </trans-unit>
         <trans-unit id="194" translate="yes" xml:space="preserve">
-          <source>Key to diagram</source>
+          <source><bpt id="p1">**</bpt>Key to diagram<ept id="p1">**</ept></source>
         </trans-unit>
         <trans-unit id="195" translate="yes" xml:space="preserve">
           <source>Inventory transactions are represented by vertical arrows.</source>
@@ -412,7 +412,7 @@
           <source>Weighted average DS with Include Physical Value</source>
         </trans-unit>
         <trans-unit id="234" translate="yes" xml:space="preserve">
-          <source>Key to diagram</source>
+          <source><bpt id="p1">**</bpt>Key to diagram<ept id="p1">**</ept></source>
         </trans-unit>
         <trans-unit id="235" translate="yes" xml:space="preserve">
           <source>Inventory transactions are represented by vertical arrows.</source>
@@ -559,7 +559,7 @@
           <source>WeightedAverage SS with Include Physical Value</source>
         </trans-unit>
         <trans-unit id="283" translate="yes" xml:space="preserve">
-          <source>Key to diagram</source>
+          <source><bpt id="p1">**</bpt>Key to diagram<ept id="p1">**</ept></source>
         </trans-unit>
         <trans-unit id="284" translate="yes" xml:space="preserve">
           <source>Inventory transactions are represented by vertical arrows.</source>
@@ -739,7 +739,7 @@
           <source>Weighted Average with Marking</source>
         </trans-unit>
         <trans-unit id="343" translate="yes" xml:space="preserve">
-          <source>Key to diagram</source>
+          <source><bpt id="p1">**</bpt>Key to diagram<ept id="p1">**</ept></source>
         </trans-unit>
         <trans-unit id="344" translate="yes" xml:space="preserve">
           <source>Inventory transactions are represented by vertical arrows.</source>

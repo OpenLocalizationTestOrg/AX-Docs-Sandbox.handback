@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">de8fa93bfc0119d6f9433fb4215c326abdda2899</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c6c6b40d8934d1059c54678df8d4fc6530db1b24</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">scm\procurement\purchase-order-creation.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">15de0147f9d416c887e31f883e35f3654562257f</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">28c32cfb30aefa2e7dfeaa7916366c43a3286e64</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e21cd8ce4501a58f443e4902e6871a83c4ed1017</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1ab4a7cd642aaa5138eab5d7783a3bf5c81dd004</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -235,7 +235,7 @@
           <source>After you’ve added the header and lines to the PO, you must often complete additional steps before the order is ready to be confirmed.</source>
         </trans-unit>
         <trans-unit id="175" translate="yes" xml:space="preserve">
-          <source>Because so many options are available, you might find it helpful to use <bpt id="p1">[</bpt>Action search<ept id="p1">](/dynamics365/operations/action-search)</ept> to find the relevant menu item.</source>
+          <source>Because so many options are available, you might find it helpful to use <bpt id="p1">[</bpt>Action search<ept id="p1">](/dynamics365/operations/get-started/action-search)</ept> to find the relevant menu item.</source>
         </trans-unit>
         <trans-unit id="176" translate="yes" xml:space="preserve">
           <source>You can configure products on the order so that they have supplementary items.</source>

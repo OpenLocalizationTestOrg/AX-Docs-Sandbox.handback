@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">51c053e6c130d20258e02284d097431a18bb38cb</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6ddd496aecf850a4c98043780f98e9fba8e62b49</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\fixed-assets\depreciation-methods-conventions.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">362050bcc53e5d7de112db4ca81c0405143aadf0</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d334b97798e6cc59ce459e95ae46fee9fd64f594</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">90bda4f727a2c47435224f86c4e9760f386463d1</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">51c65af22c0a41aa8d65ec59c65445fc021ff05e</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -16,13 +16,13 @@
           <source>Depreciation methods and conventions</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>This article provides an overview of the depreciation conventions and depreciation methods that are supported by Microsoft Dynamics AX.</source>
+          <source>This article provides an overview of the depreciation conventions and depreciation methods that are supported by Microsoft Dynamics 365 for Operations.</source>
         </trans-unit>
         <trans-unit id="103" translate="yes" xml:space="preserve">
           <source>Depreciation methods and conventions</source>
         </trans-unit>
         <trans-unit id="104" translate="yes" xml:space="preserve">
-          <source>This article provides an overview of the depreciation conventions and depreciation methods that are supported by Microsoft Dynamics AX.</source>
+          <source>This article provides an overview of the depreciation conventions and depreciation methods that are supported by Microsoft Dynamics 365 for Operations.</source>
         </trans-unit>
         <trans-unit id="105" translate="yes" xml:space="preserve">
           <source>You can select various depreciation methods and conventions.</source>

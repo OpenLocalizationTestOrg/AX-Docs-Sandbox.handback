@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">58c56aca6f339a5ec13703605334dd45b208ab2c</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">775a836748949a86b64a0ddec15ee4519b1c5127</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\analytics\report-designer-interface.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0908c8eab75db5a2cd2ba36b65409a467540e5aa</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3fbec11dbafd56a7d0ca683fa8bcddad212475f2</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9dc15b88bb5410f971f84c92cd8189c1f490b565</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9783b0f7c911c4528cef382caab18a18e9e74592</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -625,7 +625,7 @@
           <source>Help</source>
         </trans-unit>
         <trans-unit id="305" translate="yes" xml:space="preserve">
-          <source>Open the Dynamics 365 for Operations help wiki page for financial reporting.</source>
+          <source>Open the Dynamics 365 for Operations help topic page for financial reporting.</source>
         </trans-unit>
         <trans-unit id="306" translate="yes" xml:space="preserve">
           <source>Report Designer toolbar buttons</source>
@@ -916,10 +916,10 @@
           <source>See also</source>
         </trans-unit>
         <trans-unit id="402" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Financial reporting for Microsoft Dynamics ERP<ept id="p1">](financial-reporting-intro.md)</ept></source>
+          <source><bpt id="p1">[</bpt>Financial reporting<ept id="p1">](financial-reporting-intro.md)</ept></source>
         </trans-unit>
         <trans-unit id="403" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Generate a financial report<ept id="p1">](\financials\general-ledger\generate-financial-report.md)</ept></source>
+          <source><bpt id="p1">[</bpt>Generate a financial report<ept id="p1">](generate-financial-report.md)</ept></source>
         </trans-unit>
       </group>
     </body>

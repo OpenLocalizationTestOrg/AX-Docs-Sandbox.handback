@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">758c516b378b4858c248fbca2befc6b9c47cc32a</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d3669de6314e65c78ce5d401dae2e7481ec38b68</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">scm\procurement\procurement-sourcing-overview.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1f4982440f6fdd43d71056518775e148c8b1c25e</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7b88e21520463aa2da879f5529751af237342a34</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ac6767d42a59298d001584cf680122f30576a246</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4c0bb61592b11f2283586020940086b58ad32b09</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -61,7 +61,7 @@
           <source>The purchase inquiry can be used to help establish terms like prices, discounts, and delivery date for the order.</source>
         </trans-unit>
         <trans-unit id="117" translate="yes" xml:space="preserve">
-          <source>If vendors are set up to use the <bpt id="p1">**</bpt>Vendor<ept id="p1">**</ept> portal,* * purchase inquiry functionality is disabled.</source>
+          <source>If vendors are set up to use the <bpt id="p1">**</bpt>Vendor<ept id="p1">**</ept> portal, purchase inquiry functionality is disabled.</source>
         </trans-unit>
         <trans-unit id="118" translate="yes" xml:space="preserve">
           <source>Instead the order is shared on the <bpt id="p1">**</bpt>Vendor<ept id="p1">**</ept> portal, and when a <bpt id="p2">*</bpt>confirmation request<ept id="p2">*</ept> is sent the vendor can directly confirm the order.</source>

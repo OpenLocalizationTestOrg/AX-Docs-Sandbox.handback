@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">013c638b93bf2fe97b594de57a363c11e9a98dad</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6e8e87df88aace213f50db617229383eba4d86ec</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\accounts-receivable\close-accounts-receivable.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8a5ae2d3f322d31ae326efec0f6f437fa30a15c9</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9afee0668eeb85fcd3b16a7395e3187449fa93c2</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">67d9857df20dde302059f11f74a86968273273e0</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7be0453ed2057c9cf88b9c1065ba9c95454084fb</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -67,39 +67,63 @@
           <source>Journal voucher</source>
         </trans-unit>
         <trans-unit id="119" translate="yes" xml:space="preserve">
-          <source><ph id="ph1">-   </ph><bpt id="p1">**</bpt>Payment journal<ept id="p1">**</ept> – Generate, process, and post payments.</source>
+          <source><bpt id="p1">**</bpt>Payment journal<ept id="p1">**</ept> – Generate, process, and post payments.</source>
         </trans-unit>
         <trans-unit id="120" translate="yes" xml:space="preserve">
-          <source>| Packing slip posting                 | Update packing slips for sales orders.</source>
+          <source><bpt id="p1">**</bpt>Draw bill of exchange journal<ept id="p1">**</ept> – Post bills of exchange.</source>
         </trans-unit>
         <trans-unit id="121" translate="yes" xml:space="preserve">
-          <source>| | Post free text invoice               | Post free text invoices.</source>
+          <source><bpt id="p1">**</bpt>Protest bill of exchange journal<ept id="p1">**</ept> – Post protested bills of exchange.</source>
         </trans-unit>
         <trans-unit id="122" translate="yes" xml:space="preserve">
-          <source>| | Posting invoice                      | Post invoices for sales orders.</source>
+          <source><bpt id="p1">**</bpt>Redraw bill of exchange journal<ept id="p1">**</ept> – Post redrawn bills of exchange.</source>
         </trans-unit>
         <trans-unit id="123" translate="yes" xml:space="preserve">
-          <source>| | Posting picking list                 |Update picking lists for sales orders.</source>
+          <source><bpt id="p1">**</bpt>Remittance journal<ept id="p1">**</ept> – Post remittances.</source>
         </trans-unit>
         <trans-unit id="124" translate="yes" xml:space="preserve">
-          <source>|</source>
+          <source><bpt id="p1">**</bpt>Settle bill of exchange journal<ept id="p1">**</ept> – Post settled bills of exchange</source>
         </trans-unit>
         <trans-unit id="125" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">**</bpt>Business process component task<ept id="p1">**</ept></source>
+          <source>Packing slip posting</source>
         </trans-unit>
         <trans-unit id="126" translate="yes" xml:space="preserve">
-          <source>Create and submit the EU sales list</source>
+          <source>Update packing slips for sales orders.</source>
         </trans-unit>
         <trans-unit id="127" translate="yes" xml:space="preserve">
-          <source>Page name</source>
+          <source>Post free text invoice</source>
         </trans-unit>
         <trans-unit id="128" translate="yes" xml:space="preserve">
-          <source>Usage</source>
+          <source>Post free text invoices.</source>
         </trans-unit>
         <trans-unit id="129" translate="yes" xml:space="preserve">
-          <source>EU sales list</source>
+          <source>Posting invoice</source>
         </trans-unit>
         <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Post invoices for sales orders.</source>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>Posting picking list</source>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Update picking lists for sales orders.</source>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Business process component task<ept id="p1">**</ept></source>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Create and submit the EU sales list</source>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>Page name</source>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Usage</source>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>EU sales list</source>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
           <source>Report on European Union (EU) sales to the tax authority for value-added tax (VAT) declaration purposes.</source>
         </trans-unit>
       </group>

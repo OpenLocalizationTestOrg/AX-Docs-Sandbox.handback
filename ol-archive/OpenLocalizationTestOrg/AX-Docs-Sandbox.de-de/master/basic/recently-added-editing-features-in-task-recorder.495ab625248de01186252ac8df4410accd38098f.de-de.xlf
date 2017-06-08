@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c4f9ac515eab6ed8b194fc8985f6d3fae40ced38</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">272856c01074a352e3945f29e9cdf7655aaf22ba</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">core\get-started\recently-added-editing-features-in-task-recorder.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">44d8cbd2a0977a71362c3d3338478c34d01302c8</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9d08814f70c3a3debf41e8d085f569c20d9195ed</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">61ef5cfb11b38db69d4ca2b5c9c6c92a82af19f4</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">cf2fef5d0906aa85ce9e0b6ad88a21664fe47770</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -16,13 +16,13 @@
           <source>Recently added editing features in task recorder</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>If you use task recorder to create task guides, you can edit your files more efficiently using the functionality described in this wiki.</source>
+          <source>If you use task recorder to create task guides, you can edit your files more efficiently using the functionality described in this topic.</source>
         </trans-unit>
         <trans-unit id="103" translate="yes" xml:space="preserve">
           <source>Recently added editing features in task recorder</source>
         </trans-unit>
         <trans-unit id="104" translate="yes" xml:space="preserve">
-          <source>If you use task recorder to create task guides, you can edit your files more efficiently using the functionality described in this wiki.</source>
+          <source>If you use task recorder to create task guides, you can edit your files more efficiently using the functionality described in this topic.</source>
         </trans-unit>
         <trans-unit id="105" translate="yes" xml:space="preserve">
           <source>These features are available on the <bpt id="p1">**</bpt>Settings <ph id="ph1">&amp;gt;</ph> Task recorder <ph id="ph2">&amp;gt;</ph> Edit recording<ept id="p1">**</ept> menu.</source>

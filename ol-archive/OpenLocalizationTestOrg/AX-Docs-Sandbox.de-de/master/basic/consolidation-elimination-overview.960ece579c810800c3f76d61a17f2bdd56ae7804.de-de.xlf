@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3868605826e3c6f0714736ffa8630d1569e17d6f</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c9568d1cac05db83d00108e8b16c03aa4c807cac</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\budgeting\consolidation-elimination-overview.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">08238a15ecacf1957fe9163443cb478d0d30cfe1</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">09f365d95a71236ebce42ba66399050d35bc85d3</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b9ef653c685120450ba2c624a7dea1191b30d4dc</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6cdbabdb77c9467c4b575bf16b13cc73b5262de8</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -223,7 +223,7 @@
           <source>By using the <bpt id="p1">**</bpt>Export company balances<ept id="p1">**</ept> option to export from one instance and then using the <bpt id="p2">**</bpt>Consolidate with import<ept id="p2">**</ept> option on the other instance, you can consolidate the data.</source>
         </trans-unit>
         <trans-unit id="171" translate="yes" xml:space="preserve">
-          <source>For more information, see <bpt id="p1">[</bpt>Currency revalution in a consolidation company<ept id="p1">](\finanicials\general-ledger\currency-revaluation-consolidation-company)</ept>.</source>
+          <source>For more information, see <bpt id="p1">[</bpt>Currency revalution in a consolidation company<ept id="p1">](..\general-ledger\currency-revaluation-consolidation-company.md)</ept>.</source>
         </trans-unit>
       </group>
     </body>

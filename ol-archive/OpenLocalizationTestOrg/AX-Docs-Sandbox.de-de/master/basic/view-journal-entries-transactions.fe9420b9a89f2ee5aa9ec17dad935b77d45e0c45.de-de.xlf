@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a6848ea9c05536ac18a038b1864c9ccb9408964c</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8607f27bc36d62865b03f433c24c90763e8e0bec</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\general-ledger\view-journal-entries-transactions.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f5212aec4a8ce181b8e18068f33a8e6af97f2a36</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">97def280632a4cc4e4311cfbeeaec874e5220d13</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5ddee208d1de697394ef54f720a86558bb4a1155</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a0f668452c8c75e4796963b52336d7a54559088b</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -100,7 +100,16 @@
           <source>It also shows each line of the journal that was used as an offset.</source>
         </trans-unit>
         <trans-unit id="130" translate="yes" xml:space="preserve">
-          <source>For more information, see <bpt id="p1">[</bpt>General ledger account balances<ept id="p1">](general-ledger-account-balances.md)</ept>, <bpt id="p2">[</bpt>Accounting source explorer<ept id="p2">](\financials\accounts-payable\accounting-source-explorer)</ept> and <bpt id="p3">[</bpt>Financial reporting<ept id="p3">](financial-reporting-getting-started.md)</ept></source>
+          <source>See also</source>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>General ledger account balances<ept id="p1">](general-ledger-account-balances.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Accounting source explorer<ept id="p1">](..\accounts-payable\accounting-source-explorer.md)</ept></source>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Financial reporting<ept id="p1">](financial-reporting-getting-started.md)</ept></source>
         </trans-unit>
       </group>
     </body>

@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f2ac69ddf485139b057dafa20e5f1a961fc32067</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">bfeca6506d2452bf7582bdd206f8c3ad3f2a4330</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">scm\master-planning\action-messages.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">186ff586abc532282f59c15292dec29e29b026ff</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4c49044c94f911b8cbeec2eff60c160165cb3b41</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0b1bcdc9fa8648f7277a7f7a81aa0a6374462018</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ee7f744ba1a4bf2295f6f34c3252bffef09a03d9</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -19,7 +19,7 @@
           <source>An action message is a system-generated suggestion to change an existing planned or firmed order.</source>
         </trans-unit>
         <trans-unit id="103" translate="yes" xml:space="preserve">
-          <source>undocumented</source>
+          <source>Action messages</source>
         </trans-unit>
         <trans-unit id="104" translate="yes" xml:space="preserve">
           <source>An action message is a system-generated suggestion to change an existing planned or firmed order.</source>
@@ -43,7 +43,7 @@
           <source>You can set up how action messages are calculated for a coverage group that you attach to an item.</source>
         </trans-unit>
         <trans-unit id="111" translate="yes" xml:space="preserve">
-          <source>Selecting action messages</source>
+          <source>Select action messages</source>
         </trans-unit>
         <trans-unit id="112" translate="yes" xml:space="preserve">
           <source>On the <bpt id="p1">**</bpt>Coverage groups<ept id="p1">**</ept> page, you can select the action messages that you want the system to generate, and the coverage groups or items that the messages apply to.</source>

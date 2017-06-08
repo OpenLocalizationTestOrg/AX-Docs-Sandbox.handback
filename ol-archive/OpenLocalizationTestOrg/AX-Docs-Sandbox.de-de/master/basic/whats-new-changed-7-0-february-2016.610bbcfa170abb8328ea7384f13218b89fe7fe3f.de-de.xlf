@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2928b86a9dbf001451933f9d17287400cafaf089</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">aba59096bf1ffc9ce6448cb7c0f9bd5d2936d7d7</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\get-started\whats-new-changed-7-0-february-2016.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0ba467f638b8f35980c9f0e075009251b86bf936</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7b52ff656c2a453e369bc5151abd00b8afe1a9ff</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8250d47121b700e214d5b1780c6c00273eb852ce</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">77af3745f0ca3b397deaa638697dcbe3102fcc29</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -886,7 +886,7 @@
           <source>The Help system in the current version of Dynamics AX displays task guides that are stored in Microsoft Dynamics Lifecycle Services (LCS) BPM.</source>
         </trans-unit>
         <trans-unit id="392" translate="yes" xml:space="preserve">
-          <source>The Help system also displays topics from the Microsoft wiki.</source>
+          <source>The Help system also displays topics from the Microsoft docs site.</source>
         </trans-unit>
         <trans-unit id="393" translate="yes" xml:space="preserve">
           <source>For more information, see <bpt id="p1">[</bpt>Dynamics AX Help - Getting Started<ept id="p1">](help-overview.md)</ept> and <bpt id="p2">[</bpt>New task guides available (February 2016)<ept id="p2">](new-task-guides-available-february-2016.md)</ept>.</source>
@@ -898,7 +898,7 @@
           <source>You can download and customize the task guides that Microsoft provides.</source>
         </trans-unit>
         <trans-unit id="396" translate="yes" xml:space="preserve">
-          <source>The wiki provides a faster and more flexible way to create, deliver, and update product documentation.</source>
+          <source>The topic provides a faster and more flexible way to create, deliver, and update product documentation.</source>
         </trans-unit>
         <trans-unit id="397" translate="yes" xml:space="preserve">
           <source>Therefore, it helps guarantee that you have access to the latest technical information.</source>

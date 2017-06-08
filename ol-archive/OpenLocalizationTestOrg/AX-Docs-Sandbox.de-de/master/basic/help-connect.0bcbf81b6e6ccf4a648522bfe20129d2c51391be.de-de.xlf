@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5ac5e30cff2239f601778001368fa7aaba478f5c</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">86c7cb3961ba5170c32979e77aaa5f506ffac8a1</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dev-itpro\get-started\help-connect.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">cc89ca78515f8ca6ef5c297b8a0bef82707f36e1</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4ee3cc211ee2c597055deee22c0f26b10c50ad43</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9b25409a217cd305f58e40e2bf200e6adb213528</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">62e24c80e86a4d98250070e8331453cca0e1c1d6</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -52,10 +52,10 @@
           <source><bpt id="p1">[</bpt><ph id="ph1">![</ph>System Parameters form with Help settings<ept id="p1">](./media/system-parameters_ops-1024x437.png)](./media/system-parameters_ops.png)</ept> On the <bpt id="p2">**</bpt>System parameters<ept id="p2">**</ept> page, follow these steps:</source>
         </trans-unit>
         <trans-unit id="114" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">**</bpt>Important:<ept id="p1">**</ept> The first time that you open the <bpt id="p2">**</bpt>Help<ept id="p2">**</ept> tab, you must connect to Lifecycle Services.</source>
+          <source>The first time that you open the <bpt id="p1">**</bpt>Help<ept id="p1">**</ept> tab, you must connect to Lifecycle Services.</source>
         </trans-unit>
         <trans-unit id="115" translate="yes" xml:space="preserve">
-          <source>Be sure to click the link in the middle of the form, wait for the connection, close the dialog box, and then click <bpt id="p1">**</bpt>OK<ept id="p1">**</ept> to get to the <bpt id="p2">**</bpt>System Parameters<ept id="p2">**</ept> page.<bpt id="p3">[</bpt><bpt id="p4">![</bpt>Connect to LCS<ept id="p4">]</ept><bpt id="p5">(./media/connect-to-lcs-crop-1024x365.png "</bpt>Connect to LCS<ept id="p5">")</ept><ept id="p3">](./media/connect-to-lcs-crop.png)</ept></source>
+          <source>Be sure to click the link in the middle of the form, wait for the connection, close the dialog box, and then click <bpt id="p1">**</bpt>OK<ept id="p1">**</ept> to get to the <bpt id="p2">**</bpt>System Parameters<ept id="p2">**</ept> page.<bpt id="p3">[</bpt><bpt id="p4">![</bpt>Connect to LCS<ept id="p4">](./media/connect-to-lcs-crop-1024x365.png "Connect to LCS")</ept><ept id="p3">](./media/connect-to-lcs-crop.png)</ept></source>
         </trans-unit>
         <trans-unit id="116" translate="yes" xml:space="preserve">
           <source>Select the Lifecycle Services project to connect to.</source>
@@ -91,7 +91,7 @@
           <source>The language that a task guide appears in is controlled for each user by the Language settings under <bpt id="p1">**</bpt>Options<ept id="p1">**</ept> <ph id="ph1">&amp;gt;</ph> <bpt id="p2">**</bpt>Preferences<ept id="p2">**</ept>.</source>
         </trans-unit>
         <trans-unit id="127" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> Even though many task guides have been translated, right now the Dynamics 365 for Operations client is not showing the translated task guide names.</source>
+          <source>Even though many task guides have been translated, right now the Dynamics 365 for Operations client is not showing the translated task guide names.</source>
         </trans-unit>
         <trans-unit id="128" translate="yes" xml:space="preserve">
           <source>Also, only the task guides that were released in February 2016 are available in translation in the May library.</source>
@@ -131,9 +131,6 @@
         </trans-unit>
         <trans-unit id="140" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>How to create a task recording to use as documentation or training<ept id="p1">](../user-interface/task-recorder-training-docs.md)</ept></source>
-        </trans-unit>
-        <trans-unit id="141" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Creating New Training Libraries for Dynamics 365 for Operations within Lifecycle Services using the Task Recorder (External link)<ept id="p1">](https://docs.com/mufife/163372c6-f366-4c5a-94fa-93e2c25f878a/creating-new-training-libraries-for-dynamics-ax)</ept></source>
         </trans-unit>
       </group>
     </body>

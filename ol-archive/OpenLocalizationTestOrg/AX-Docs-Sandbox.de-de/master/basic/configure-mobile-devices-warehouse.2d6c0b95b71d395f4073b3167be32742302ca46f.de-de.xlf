@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">34d7b246d74d1546b54494944903d160e31f7678</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6a7658c56e2d0712c6aa27a4bb8ffc02bbd01d6c</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">scm\warehousing\configure-mobile-devices-warehouse.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">40cd73eb451ef4461a080d3f735d4c6570b0c20a</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0e6f07711403873cb754d01a5c9c40462041a0be</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c0fe03c5e9a1954e4123ced2ed3f096650a212fa</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">33644eecda76a179526de215fe0475973bab2e75</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -829,304 +829,302 @@
           <source>Select this option to display the status of items in inventory.</source>
         </trans-unit>
         <trans-unit id="373" translate="yes" xml:space="preserve">
-          <source>For more information, see <bpt id="p1">&lt;a href="/inventory/inventory-statuses.md"&gt;</bpt>Advantages of using Inventory statuses<ept id="p1">&lt;/a&gt;</ept>.</source>
-        </trans-unit>
-        <trans-unit id="374" translate="yes" xml:space="preserve">
           <source>This option is available for all menu items that use existing work, except cycle counting.</source>
         </trans-unit>
-        <trans-unit id="375" translate="yes" xml:space="preserve">
+        <trans-unit id="374" translate="yes" xml:space="preserve">
           <source>Display summary of pick screen</source>
         </trans-unit>
-        <trans-unit id="376" translate="yes" xml:space="preserve">
+        <trans-unit id="375" translate="yes" xml:space="preserve">
           <source>Select this option to display a summary of picking work for the selected work order.</source>
         </trans-unit>
-        <trans-unit id="377" translate="yes" xml:space="preserve">
+        <trans-unit id="376" translate="yes" xml:space="preserve">
           <source>The summary is displayed until the first work line is processed for the work order.</source>
         </trans-unit>
-        <trans-unit id="378" translate="yes" xml:space="preserve">
+        <trans-unit id="377" translate="yes" xml:space="preserve">
           <source>Generate license plate</source>
         </trans-unit>
-        <trans-unit id="379" translate="yes" xml:space="preserve">
+        <trans-unit id="378" translate="yes" xml:space="preserve">
           <source>Select this option to generate a unique license plate number, based on the number sequence selection.</source>
         </trans-unit>
-        <trans-unit id="380" translate="yes" xml:space="preserve">
+        <trans-unit id="379" translate="yes" xml:space="preserve">
           <source>For example, you can generate a license plate number for items that are received for purchase orders.</source>
         </trans-unit>
-        <trans-unit id="381" translate="yes" xml:space="preserve">
+        <trans-unit id="380" translate="yes" xml:space="preserve">
           <source>Group put away</source>
         </trans-unit>
-        <trans-unit id="382" translate="yes" xml:space="preserve">
+        <trans-unit id="381" translate="yes" xml:space="preserve">
           <source>Select this option to group the put-away work.</source>
         </trans-unit>
-        <trans-unit id="383" translate="yes" xml:space="preserve">
+        <trans-unit id="382" translate="yes" xml:space="preserve">
           <source>This option is available when the work was grouped either by the worker or by Microsoft Dynamics 365 for Operations.</source>
         </trans-unit>
-        <trans-unit id="384" translate="yes" xml:space="preserve">
+        <trans-unit id="383" translate="yes" xml:space="preserve">
           <source>When the worker has finished all the picking work in the group, put-away work is created for the same group.</source>
         </trans-unit>
-        <trans-unit id="385" translate="yes" xml:space="preserve">
+        <trans-unit id="384" translate="yes" xml:space="preserve">
           <source>Inventory adjustment types</source>
         </trans-unit>
-        <trans-unit id="386" translate="yes" xml:space="preserve">
+        <trans-unit id="385" translate="yes" xml:space="preserve">
           <source>Select the inventory adjustment type that determines the inventory counting journal that is used to post the adjustment, and whether to remove reservations.</source>
         </trans-unit>
-        <trans-unit id="387" translate="yes" xml:space="preserve">
+        <trans-unit id="386" translate="yes" xml:space="preserve">
           <source>This field is available only for the <bpt id="p1">&lt;strong&gt;</bpt>Adjustment in<ept id="p1">&lt;/strong&gt;</ept> or <bpt id="p2">&lt;strong&gt;</bpt>Adjustment out<ept id="p2">&lt;/strong&gt;</ept> work creation process.</source>
         </trans-unit>
-        <trans-unit id="388" translate="yes" xml:space="preserve">
+        <trans-unit id="387" translate="yes" xml:space="preserve">
           <source>Override batch number</source>
         </trans-unit>
-        <trans-unit id="389" translate="yes" xml:space="preserve">
+        <trans-unit id="388" translate="yes" xml:space="preserve">
           <source>Select this option to let workers who are reporting a quantity as finished for a production order enter a batch number that differs from the batch number that is assigned to the production order.</source>
         </trans-unit>
-        <trans-unit id="390" translate="yes" xml:space="preserve">
+        <trans-unit id="389" translate="yes" xml:space="preserve">
           <source>Override target license plate</source>
         </trans-unit>
-        <trans-unit id="391" translate="yes" xml:space="preserve">
+        <trans-unit id="390" translate="yes" xml:space="preserve">
           <source>Select this option to let workers specify a target license plate number that differs from the suggested target license plate.</source>
         </trans-unit>
-        <trans-unit id="392" translate="yes" xml:space="preserve">
+        <trans-unit id="391" translate="yes" xml:space="preserve">
           <source>Use this option when the first pick for a work order is for the entire quantity of an item on a license plate.</source>
         </trans-unit>
-        <trans-unit id="393" translate="yes" xml:space="preserve">
+        <trans-unit id="392" translate="yes" xml:space="preserve">
           <source>This option is useful when, for example, a pallet is reused.</source>
         </trans-unit>
-        <trans-unit id="394" translate="yes" xml:space="preserve">
+        <trans-unit id="393" translate="yes" xml:space="preserve">
           <source>Pick and pack</source>
         </trans-unit>
-        <trans-unit id="395" translate="yes" xml:space="preserve">
+        <trans-unit id="394" translate="yes" xml:space="preserve">
           <source>Select this option to let workers combine work for a sales order or load into a single work unit.</source>
         </trans-unit>
-        <trans-unit id="396" translate="yes" xml:space="preserve">
+        <trans-unit id="395" translate="yes" xml:space="preserve">
           <source>A worker can perform work only for the sales order or load.</source>
         </trans-unit>
-        <trans-unit id="397" translate="yes" xml:space="preserve">
+        <trans-unit id="396" translate="yes" xml:space="preserve">
           <source>This option is useful when, for example, you must increase a quantity for a sales order after the load, shipment, and work have been created for the sales order.</source>
         </trans-unit>
-        <trans-unit id="398" translate="yes" xml:space="preserve">
+        <trans-unit id="397" translate="yes" xml:space="preserve">
           <source>This option is available when the menu item uses existing work, and the work is directed by the user or system.</source>
         </trans-unit>
-        <trans-unit id="399" translate="yes" xml:space="preserve">
+        <trans-unit id="398" translate="yes" xml:space="preserve">
           <source>None</source>
         </trans-unit>
-        <trans-unit id="400" translate="yes" xml:space="preserve">
+        <trans-unit id="399" translate="yes" xml:space="preserve">
           <source>Indicate whether the worker must pick the oldest batch in a location first.</source>
         </trans-unit>
-        <trans-unit id="401" translate="yes" xml:space="preserve">
+        <trans-unit id="400" translate="yes" xml:space="preserve">
           <source>The following options are available:</source>
         </trans-unit>
-        <trans-unit id="402" translate="yes" xml:space="preserve">
+        <trans-unit id="401" translate="yes" xml:space="preserve">
           <source><bpt id="p1">&lt;strong&gt;</bpt>None<ept id="p1">&lt;/strong&gt;</ept> – The worker can pick any batch in the location.</source>
         </trans-unit>
-        <trans-unit id="403" translate="yes" xml:space="preserve">
+        <trans-unit id="402" translate="yes" xml:space="preserve">
           <source>The worker receives no message.</source>
         </trans-unit>
-        <trans-unit id="404" translate="yes" xml:space="preserve">
+        <trans-unit id="403" translate="yes" xml:space="preserve">
           <source><bpt id="p1">&lt;strong&gt;</bpt>Warn<ept id="p1">&lt;/strong&gt;</ept> – The worker can pick any batch in the location, but he or she receives a warning message if a batch isn't the oldest batch.</source>
         </trans-unit>
-        <trans-unit id="405" translate="yes" xml:space="preserve">
+        <trans-unit id="404" translate="yes" xml:space="preserve">
           <source><bpt id="p1">&lt;strong&gt;</bpt>Force<ept id="p1">&lt;/strong&gt;</ept> – The worker must pick the oldest batch in the location.</source>
         </trans-unit>
-        <trans-unit id="406" translate="yes" xml:space="preserve">
+        <trans-unit id="405" translate="yes" xml:space="preserve">
           <source>The worker receives an error message if a batch isn't the oldest batch.</source>
         </trans-unit>
-        <trans-unit id="407" translate="yes" xml:space="preserve">
+        <trans-unit id="406" translate="yes" xml:space="preserve">
           <source><bpt id="p1">&lt;strong&gt;</bpt>Note:<ept id="p1">&lt;/strong&gt;</ept> This option is relevant only if <bpt id="p2">&lt;strong&gt;</bpt>Batch number<ept id="p2">&lt;/strong&gt;</ept> is lower than <bpt id="p3">&lt;strong&gt;</bpt>Location<ept id="p3">&lt;/strong&gt;</ept> in the reservation hierarchy that is assigned to the item.</source>
         </trans-unit>
-        <trans-unit id="408" translate="yes" xml:space="preserve">
+        <trans-unit id="407" translate="yes" xml:space="preserve">
           <source>Print label</source>
         </trans-unit>
-        <trans-unit id="409" translate="yes" xml:space="preserve">
+        <trans-unit id="408" translate="yes" xml:space="preserve">
           <source>Select this option to let workers print license plate labels.</source>
         </trans-unit>
-        <trans-unit id="410" translate="yes" xml:space="preserve">
+        <trans-unit id="409" translate="yes" xml:space="preserve">
           <source>System grouping field</source>
         </trans-unit>
-        <trans-unit id="411" translate="yes" xml:space="preserve">
+        <trans-unit id="410" translate="yes" xml:space="preserve">
           <source>Select the field that determine how Microsoft Dynamics 365 for Operations will group picking work for workers.</source>
         </trans-unit>
-        <trans-unit id="412" translate="yes" xml:space="preserve">
+        <trans-unit id="411" translate="yes" xml:space="preserve">
           <source>For example, if you select the <bpt id="p1">&lt;strong&gt;</bpt>ShipmentId<ept id="p1">&lt;/strong&gt;</ept> field, the worker will scan the shipment ID to group the picking work.</source>
         </trans-unit>
-        <trans-unit id="413" translate="yes" xml:space="preserve">
+        <trans-unit id="412" translate="yes" xml:space="preserve">
           <source>All work for the shipment is then assigned to the worker.</source>
         </trans-unit>
-        <trans-unit id="414" translate="yes" xml:space="preserve">
+        <trans-unit id="413" translate="yes" xml:space="preserve">
           <source>This field requires that you create a menu item to use existing work that is grouped by the system.</source>
         </trans-unit>
-        <trans-unit id="415" translate="yes" xml:space="preserve">
+        <trans-unit id="414" translate="yes" xml:space="preserve">
           <source>You must also enter text in the <bpt id="p1">&lt;strong&gt;</bpt>System grouping label<ept id="p1">&lt;/strong&gt;</ept> field to instruct the worker what to scan.</source>
         </trans-unit>
-        <trans-unit id="416" translate="yes" xml:space="preserve">
+        <trans-unit id="415" translate="yes" xml:space="preserve">
           <source>System grouping label</source>
         </trans-unit>
-        <trans-unit id="417" translate="yes" xml:space="preserve">
+        <trans-unit id="416" translate="yes" xml:space="preserve">
           <source>Enter the text that will instruct the worker what to scan when picking work is grouped by Microsoft Dynamics 365 for Operations.</source>
         </trans-unit>
-        <trans-unit id="418" translate="yes" xml:space="preserve">
+        <trans-unit id="417" translate="yes" xml:space="preserve">
           <source>For example, if you're using the <bpt id="p1">&lt;strong&gt;</bpt>ShipmentId<ept id="p1">&lt;/strong&gt;</ept> field to group picking work by shipment, you might enter <bpt id="p2">&lt;strong&gt;</bpt>Shipment ID<ept id="p2">&lt;/strong&gt;</ept> in the field.</source>
         </trans-unit>
-        <trans-unit id="419" translate="yes" xml:space="preserve">
+        <trans-unit id="418" translate="yes" xml:space="preserve">
           <source>This field requires that you create a menu item to use existing work that is grouped by the system.</source>
         </trans-unit>
-        <trans-unit id="420" translate="yes" xml:space="preserve">
+        <trans-unit id="419" translate="yes" xml:space="preserve">
           <source>You must also select the field to group by in the <bpt id="p1">&lt;strong&gt;</bpt>System grouping field<ept id="p1">&lt;/strong&gt;</ept> field.</source>
         </trans-unit>
-        <trans-unit id="421" translate="yes" xml:space="preserve">
+        <trans-unit id="420" translate="yes" xml:space="preserve">
           <source>Use default data</source>
         </trans-unit>
-        <trans-unit id="422" translate="yes" xml:space="preserve">
+        <trans-unit id="421" translate="yes" xml:space="preserve">
           <source>Select this option to enable the <bpt id="p1">&lt;strong&gt;</bpt>Default data<ept id="p1">&lt;/strong&gt;</ept> button on the Action Pane, where you can select fields to display data that a worker typically requires in his or her daily work.</source>
         </trans-unit>
-        <trans-unit id="423" translate="yes" xml:space="preserve">
+        <trans-unit id="422" translate="yes" xml:space="preserve">
           <source>This option is useful if, for example, a worker often picks items from the same location.</source>
         </trans-unit>
-        <trans-unit id="424" translate="yes" xml:space="preserve">
+        <trans-unit id="423" translate="yes" xml:space="preserve">
           <source>You can select the <bpt id="p1">&lt;strong&gt;</bpt>From location<ept id="p1">&lt;/strong&gt;</ept> field to display the location by default.</source>
         </trans-unit>
-        <trans-unit id="425" translate="yes" xml:space="preserve">
+        <trans-unit id="424" translate="yes" xml:space="preserve">
           <source>Validated User Directed Field</source>
         </trans-unit>
-        <trans-unit id="426" translate="yes" xml:space="preserve">
+        <trans-unit id="425" translate="yes" xml:space="preserve">
           <source>Select the field that the worker will scan to group the work.</source>
         </trans-unit>
-        <trans-unit id="427" translate="yes" xml:space="preserve">
+        <trans-unit id="426" translate="yes" xml:space="preserve">
           <source>For example, if you select <bpt id="p1">&lt;strong&gt;</bpt>LoadId<ept id="p1">&lt;/strong&gt;</ept>, a worker can pick any work that is associated with a selected load.</source>
         </trans-unit>
-        <trans-unit id="428" translate="yes" xml:space="preserve">
+        <trans-unit id="427" translate="yes" xml:space="preserve">
           <source>You must also enter text in the <bpt id="p1">&lt;strong&gt;</bpt>Validated User Directed Label<ept id="p1">&lt;/strong&gt;</ept> field to instruct the worker what to scan.</source>
         </trans-unit>
-        <trans-unit id="429" translate="yes" xml:space="preserve">
+        <trans-unit id="428" translate="yes" xml:space="preserve">
           <source>Validated User Directed Label</source>
         </trans-unit>
-        <trans-unit id="430" translate="yes" xml:space="preserve">
+        <trans-unit id="429" translate="yes" xml:space="preserve">
           <source>Enter the text that will instruct the worker what to scan when picking work is grouped by a validated user-directed field.</source>
         </trans-unit>
-        <trans-unit id="431" translate="yes" xml:space="preserve">
+        <trans-unit id="430" translate="yes" xml:space="preserve">
           <source>For example, if you’re using the <bpt id="p1">&lt;strong&gt;</bpt>LoadId<ept id="p1">&lt;/strong&gt;</ept> field to group picking work for a load, you might enter <bpt id="p2">&lt;strong&gt;</bpt>Load ID<ept id="p2">&lt;/strong&gt;</ept> in the field.</source>
         </trans-unit>
-        <trans-unit id="432" translate="yes" xml:space="preserve">
+        <trans-unit id="431" translate="yes" xml:space="preserve">
           <source>Work template code</source>
         </trans-unit>
-        <trans-unit id="433" translate="yes" xml:space="preserve">
+        <trans-unit id="432" translate="yes" xml:space="preserve">
           <source>Select the work template that will create the work for a process.</source>
         </trans-unit>
-        <trans-unit id="434" translate="yes" xml:space="preserve">
+        <trans-unit id="433" translate="yes" xml:space="preserve">
           <source>For example, if you receive an item for a purchase order, the put-away work will be generated based on the work template.</source>
         </trans-unit>
-        <trans-unit id="435" translate="yes" xml:space="preserve">
+        <trans-unit id="434" translate="yes" xml:space="preserve">
           <source>If you don't select a work template, Microsoft Dynamics 365 for Operations assigns a template, based on query criteria.</source>
         </trans-unit>
-        <trans-unit id="436" translate="yes" xml:space="preserve">
+        <trans-unit id="435" translate="yes" xml:space="preserve">
           <source>For more information on work templates, see <bpt id="p1">&lt;a href="control-warehouse-location-directives.md"&gt;</bpt>Controlling warehouse work with work templates and location directives<ept id="p1">&lt;/a&gt;</ept>.</source>
         </trans-unit>
-        <trans-unit id="437" translate="yes" xml:space="preserve">
+        <trans-unit id="436" translate="yes" xml:space="preserve">
           <source>Require workers to confirm the product, location, or quantity when they pick items</source>
         </trans-unit>
-        <trans-unit id="438" translate="yes" xml:space="preserve">
+        <trans-unit id="437" translate="yes" xml:space="preserve">
           <source>You can set up work confirmations that require that a worker use a mobile device to register the location or quantity when he or she performs work in the warehouse.</source>
         </trans-unit>
-        <trans-unit id="439" translate="yes" xml:space="preserve">
+        <trans-unit id="438" translate="yes" xml:space="preserve">
           <source>Work confirmations help guarantee that the worker is at the correct location or is handling the correct quantity of items.</source>
         </trans-unit>
-        <trans-unit id="440" translate="yes" xml:space="preserve">
+        <trans-unit id="439" translate="yes" xml:space="preserve">
           <source>You can also enable Microsoft Dynamics 365 for Operations to automatically confirm the worker’s registration.</source>
         </trans-unit>
-        <trans-unit id="441" translate="yes" xml:space="preserve">
+        <trans-unit id="440" translate="yes" xml:space="preserve">
           <source>If you enable automatic confirmation, you can't also require confirmations for location or quantity.</source>
         </trans-unit>
-        <trans-unit id="442" translate="yes" xml:space="preserve">
+        <trans-unit id="441" translate="yes" xml:space="preserve">
           <source>Work confirmations also include products and product variants.</source>
         </trans-unit>
-        <trans-unit id="443" translate="yes" xml:space="preserve">
+        <trans-unit id="442" translate="yes" xml:space="preserve">
           <source>Additionally, you can register confirmations by scanning a bar code.</source>
         </trans-unit>
-        <trans-unit id="444" translate="yes" xml:space="preserve">
+        <trans-unit id="443" translate="yes" xml:space="preserve">
           <source>To confirm products and product variants, you must enter an ID for the product or product variant.</source>
         </trans-unit>
-        <trans-unit id="445" translate="yes" xml:space="preserve">
+        <trans-unit id="444" translate="yes" xml:space="preserve">
           <source>This ID can be a product ID, product search ID, external ID, GTIN, or bar code.</source>
         </trans-unit>
-        <trans-unit id="446" translate="yes" xml:space="preserve">
+        <trans-unit id="445" translate="yes" xml:space="preserve">
           <source>After you enter the ID or scan the bar code, the dimensions for the product variant are displayed on the mobile device.</source>
         </trans-unit>
-        <trans-unit id="447" translate="yes" xml:space="preserve">
+        <trans-unit id="446" translate="yes" xml:space="preserve">
           <source>The following table describes the various work types that you can use work confirmations with.</source>
         </trans-unit>
-        <trans-unit id="448" translate="yes" xml:space="preserve">
+        <trans-unit id="447" translate="yes" xml:space="preserve">
           <source>Option</source>
         </trans-unit>
-        <trans-unit id="449" translate="yes" xml:space="preserve">
+        <trans-unit id="448" translate="yes" xml:space="preserve">
           <source>Description</source>
         </trans-unit>
-        <trans-unit id="450" translate="yes" xml:space="preserve">
+        <trans-unit id="449" translate="yes" xml:space="preserve">
           <source>Pick</source>
         </trans-unit>
-        <trans-unit id="451" translate="yes" xml:space="preserve">
+        <trans-unit id="450" translate="yes" xml:space="preserve">
           <source>Require confirmation when items are picked.</source>
         </trans-unit>
-        <trans-unit id="452" translate="yes" xml:space="preserve">
+        <trans-unit id="451" translate="yes" xml:space="preserve">
           <source>Put</source>
         </trans-unit>
-        <trans-unit id="453" translate="yes" xml:space="preserve">
+        <trans-unit id="452" translate="yes" xml:space="preserve">
           <source>Require confirmation when items are put in a location.</source>
         </trans-unit>
-        <trans-unit id="454" translate="yes" xml:space="preserve">
+        <trans-unit id="453" translate="yes" xml:space="preserve">
           <source>Counting</source>
         </trans-unit>
-        <trans-unit id="455" translate="yes" xml:space="preserve">
+        <trans-unit id="454" translate="yes" xml:space="preserve">
           <source>Require confirmation during cycle counting.</source>
         </trans-unit>
-        <trans-unit id="456" translate="yes" xml:space="preserve">
+        <trans-unit id="455" translate="yes" xml:space="preserve">
           <source>Adjustments</source>
         </trans-unit>
-        <trans-unit id="457" translate="yes" xml:space="preserve">
+        <trans-unit id="456" translate="yes" xml:space="preserve">
           <source>Require confirmation when inventory quantities are adjusted.</source>
         </trans-unit>
-        <trans-unit id="458" translate="yes" xml:space="preserve">
+        <trans-unit id="457" translate="yes" xml:space="preserve">
           <source>Custom</source>
         </trans-unit>
-        <trans-unit id="459" translate="yes" xml:space="preserve">
+        <trans-unit id="458" translate="yes" xml:space="preserve">
           <source>Require confirmation for custom work.</source>
         </trans-unit>
-        <trans-unit id="460" translate="yes" xml:space="preserve">
+        <trans-unit id="459" translate="yes" xml:space="preserve">
           <source>Quarantine</source>
         </trans-unit>
-        <trans-unit id="461" translate="yes" xml:space="preserve">
+        <trans-unit id="460" translate="yes" xml:space="preserve">
           <source>Require confirmation when items are moved to quarantine.</source>
         </trans-unit>
-        <trans-unit id="462" translate="yes" xml:space="preserve">
+        <trans-unit id="461" translate="yes" xml:space="preserve">
           <source>License plate building</source>
         </trans-unit>
-        <trans-unit id="463" translate="yes" xml:space="preserve">
+        <trans-unit id="462" translate="yes" xml:space="preserve">
           <source>Require confirmation when items are consolidated to build a license plate.</source>
         </trans-unit>
-        <trans-unit id="464" translate="yes" xml:space="preserve">
+        <trans-unit id="463" translate="yes" xml:space="preserve">
           <source>Print</source>
         </trans-unit>
-        <trans-unit id="465" translate="yes" xml:space="preserve">
+        <trans-unit id="464" translate="yes" xml:space="preserve">
           <source>Require confirmation when license plate labels are printed.</source>
         </trans-unit>
-        <trans-unit id="466" translate="yes" xml:space="preserve">
+        <trans-unit id="465" translate="yes" xml:space="preserve">
           <source>Status change</source>
         </trans-unit>
-        <trans-unit id="467" translate="yes" xml:space="preserve">
+        <trans-unit id="466" translate="yes" xml:space="preserve">
           <source>Require confirmation when the status of inventory is changed.</source>
         </trans-unit>
-        <trans-unit id="468" translate="yes" xml:space="preserve">
+        <trans-unit id="467" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> You can require product confirmation only for pick and put work types.</source>
         </trans-unit>
-        <trans-unit id="469" translate="yes" xml:space="preserve">
+        <trans-unit id="468" translate="yes" xml:space="preserve">
           <source>See also</source>
         </trans-unit>
-        <trans-unit id="470" translate="yes" xml:space="preserve">
+        <trans-unit id="469" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Warehouse mobile device display settings<ept id="p1">](change-warehouse-mobile-device-displays.md)</ept></source>
         </trans-unit>
-        <trans-unit id="471" translate="yes" xml:space="preserve">
+        <trans-unit id="470" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Set up a mobile device menu item for completing work of type Purchase order (task guide)<ept id="p1">](https://ax.help.dynamics.com/en/wiki/set-up-a-mobile-device-menu-item-for-completing-work-of-type-purchase-order/)</ept></source>
         </trans-unit>
-        <trans-unit id="472" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Set up a mobile device menu item to register received items (task guide)<ept id="p1">](https://ax.help.dynamics.com/en/wiki/set-up-a-mobile-device-menu-item-to-register-received-items/)</ept></source>
+        <trans-unit id="471" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set up a mobile device menu item to register received items (task guide)<ept id="p1">](https://ax.help.dynamics.com/en/wiki/set-up-a-mobile-device-menu-item-to-register-received-items/)</ept><ph id="ph1">
+</ph><bpt id="p2">[</bpt>Advantages of using Inventory statuses<ept id="p2">](../inventory/inventory-statuses.md)</ept></source>
         </trans-unit>
       </group>
     </body>

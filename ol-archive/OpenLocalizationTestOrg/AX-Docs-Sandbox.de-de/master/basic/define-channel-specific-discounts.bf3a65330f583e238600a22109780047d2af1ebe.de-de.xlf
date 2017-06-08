@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b2f59db59ea49925c3bb5e1d75beee95191220d0</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">750f61198550a248d70fd531c3cb2ff86ca37f50</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">retail\define-channel-specific-discounts.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4b4bbe2bc678f8df57c8fbd1df2e648e99893abc</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">28678bd2cf8267e6f75b853161f597c9f13ea5eb</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">abc031bd899997a61373c272c56831fba85474a8</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">59a75e880e5fc1f214717a463501051145955ba4</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -52,7 +52,7 @@
           <source>Price groups</source>
         </trans-unit>
         <trans-unit id="114" translate="yes" xml:space="preserve">
-          <source><ph id="ph1">\[</ph>caption id="attachment<ph id="ph2">\_</ph>256084" align="alignnone" width="640"<ph id="ph3">\]</ph><bpt id="p1">[</bpt><ph id="ph4">![</ph>Price groups<ept id="p1">](./media/price-groups-1024x608.png)](./media/price-groups.png)</ept> Price group links for Retail<ph id="ph5">\[</ph>/caption<ph id="ph6">\]</ph></source>
+          <source><bpt id="p1">[</bpt><ph id="ph1">![</ph>Price groups<ept id="p1">](./media/price-groups-1024x608.png)](./media/price-groups.png)</ept></source>
         </trans-unit>
         <trans-unit id="115" translate="yes" xml:space="preserve">
           <source>The diagram above illustrates the relationship between entities that may be on a transaction (channel, catalog, affiliation, customer, loyalty card) and the various discount types that can be configured.</source>

@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">37f4df5d0b79208a8c565bc9101ddde193a6ef5b</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1cfaeab1562716aa4c91806b228f17625e25dfff</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\general-ledger\process-allocations.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7a10f118ef0eb80e52540d74dd0c55df5a9a152e</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0391bb71ae94d58f4f71756a5f94d8ee09a1ed7b</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">efdd1924d0127241a4bf589270290997c85880fd</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c0023daa7d840a197c26cf829e40808819d2bec0</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -43,7 +43,7 @@
           <source>Manually allocate transaction amounts by using the Split action in accounting distributions, or by applying financial dimension default templates to a document.</source>
         </trans-unit>
         <trans-unit id="111" translate="yes" xml:space="preserve">
-          <source>For more information, see <bpt id="p1">[</bpt>Accounting distributions.<ept id="p1">](\accounts-payable\accounting-distributions.md)</ept></source>
+          <source>For more information, see <bpt id="p1">[</bpt>Accounting distributions.<ept id="p1">](../accounts-payable/accounting-distributions.md)</ept></source>
         </trans-unit>
         <trans-unit id="112" translate="yes" xml:space="preserve">
           <source>Automatically allocate transactions amounts based on allocation terms defined on individual main account.</source>

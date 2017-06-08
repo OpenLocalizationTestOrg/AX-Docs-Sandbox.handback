@@ -2,13 +2,13 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-19c43bb" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9f441508b745d22218316128572c9ec6aeb7207b</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8f4e279" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e19fee87dae6e5d425f36dac0db4ea89534a8510</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">scm\procurement\vendor-collaboration-mobile-workspace.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">basic</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ce3c4014a5be670c0bec20a147adf60df60e1392</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1f2d643e3393ee0ca9b370597502dde8b2295b3b</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">84227f3818ae0af27c951f20d328630e38bde181</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">038d037a80bdbaef0d39ffefa4bee1b0f56d39a7</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -37,28 +37,28 @@
           <source>Read about the Microsoft Dynamics 365 for Operations mobile platform</source>
         </trans-unit>
         <trans-unit id="109" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">&lt;a href="/dynamics365/operations/dev-itpro/mobile-apps/mobile-platform"&gt;</bpt>Dynamics 365 for Operations mobile platform<ept id="p1">&lt;/a&gt;</ept></source>
+          <source><bpt id="p1">&lt;a href="https://ax.help.dynamics.com/en/wiki/mobile-development-handbook/"&gt;</bpt>Dynamics 365 for Operations mobile platform<ept id="p1">&lt;/a&gt;</ept></source>
         </trans-unit>
         <trans-unit id="110" translate="yes" xml:space="preserve">
           <source>Dynamics 365 for Operations</source>
         </trans-unit>
         <trans-unit id="111" translate="yes" xml:space="preserve">
-          <source>Be sure that you’re using an environment that has Microsoft Dynamics 365 for Operations version 1611 and Microsoft Dynamics for Operations platform update 3 (November 2016).</source>
+          <source>Be sure that you are using an environment that has Microsoft Dynamics 365 for Operations version 1611 and Microsoft Dynamics for Operations platform update 3 (November 2016).</source>
         </trans-unit>
         <trans-unit id="112" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">&lt;span style="color: #000000;"&gt;</bpt>Mobile device that has the Dynamics 365 for Operations app installed<ept id="p1">&lt;/span&gt;</ept></source>
+          <source><bpt id="p1">&lt;span style="color: #000000"&gt;</bpt>Mobile device that has the Dynamics 365 for Operations app installed<ept id="p1">&lt;/span&gt;</ept></source>
         </trans-unit>
         <trans-unit id="113" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">&lt;span style="color: #000000;"&gt;</bpt>Download the Dynamics 365 for Operations app from your mobile app store.<ept id="p1">&lt;/span&gt;</ept></source>
+          <source><bpt id="p1">&lt;span style="color: #000000"&gt;</bpt>Download the Dynamics 365 for Operations app from your mobile app store.<ept id="p1">&lt;/span&gt;</ept></source>
         </trans-unit>
         <trans-unit id="114" translate="yes" xml:space="preserve">
-          <source>Hotfix KB 3215650</source>
+          <source>Hotfix KB 4013633</source>
         </trans-unit>
         <trans-unit id="115" translate="yes" xml:space="preserve">
           <source>Install the hotfix to enable the workspaces that are provided in Dynamics 365 for Operations.</source>
         </trans-unit>
         <trans-unit id="116" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">&lt;span style="color: #ff0000;"&gt;</bpt><bpt id="p2">&lt;span style="color: #000000;"&gt;</bpt>Hotfix KB 3216943<ept id="p2">&lt;/span&gt;</ept><ept id="p1"> &lt;/span&gt;</ept></source>
+          <source><bpt id="p1">&lt;span style="color: #ff0000"&gt;</bpt><bpt id="p2">&lt;span style="color: #000000"&gt;</bpt>Hotfix KB 3216943<ept id="p2">&lt;/span&gt;</ept><ept id="p1"> &lt;/span&gt;</ept></source>
         </trans-unit>
         <trans-unit id="117" translate="yes" xml:space="preserve">
           <source>Install the hotfix to enable the vendor collaboration mobile workspace.</source>
@@ -70,16 +70,16 @@
           <source>Follow the steps described in the following topics to set up and work with the vendor collaboration web interface.</source>
         </trans-unit>
         <trans-unit id="120" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">&lt;a href="vendor-collaboration-work-external-vendors.md"&gt;</bpt>Use vendor collaboration to work with external vendors<ept id="p1">&lt;/a&gt;</ept></source>
+          <source><bpt id="p1">&lt;a href="https://ax.help.dynamics.com/en/wiki/using-vendor-collaboration-to-work-with-external-vendors/"&gt;</bpt>Use vendor collaboration to work with external vendors<ept id="p1">&lt;/a&gt;</ept></source>
         </trans-unit>
         <trans-unit id="121" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">&lt;a href="manage-vendor-collaboration-users.md"&gt;</bpt>Manage vendor collaboration users<ept id="p1">&lt;/a&gt;</ept></source>
+          <source><bpt id="p1">&lt;a href="https://ax.help.dynamics.com/en/wiki/manage-vendor-collaboration-users/"&gt;</bpt>Manage vendor collaboration users<ept id="p1">&lt;/a&gt;</ept></source>
         </trans-unit>
         <trans-unit id="122" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">&lt;a href="set-up-maintain-vendor-collaboration.md"&gt;</bpt>Set up and maintain vendor collaboration<ept id="p1">&lt;/a&gt;</ept></source>
+          <source><bpt id="p1">&lt;a href="https://ax.help.dynamics.com/en/wiki/set-up-and-maintain-vendor-collaboration/"&gt;</bpt>Set up and maintain vendor collaboration<ept id="p1">&lt;/a&gt;</ept></source>
         </trans-unit>
         <trans-unit id="123" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">&lt;a href="vendor-collaboration-work-customers-dynamics-365-operations.md"&gt;</bpt>Use vendor collaboration to work with customers in Dynamics 365 for Operations<ept id="p1">&lt;/a&gt;</ept></source>
+          <source><bpt id="p1">&lt;a href="https://ax.help.dynamics.com/en/wiki/using-vendor-collaboration-to-work-with-customers-in-dynamics-365-for-operations/"&gt;</bpt>Use vendor collaboration to work with customers in Dynamics 365 for Operations<ept id="p1">&lt;/a&gt;</ept></source>
         </trans-unit>
         <trans-unit id="124" translate="yes" xml:space="preserve">
           <source>Overview</source>
@@ -163,7 +163,7 @@
           <source>For example, enter <bpt id="p1">**</bpt>USMF<ept id="p1">**</ept>.</source>
         </trans-unit>
         <trans-unit id="151" translate="yes" xml:space="preserve">
-          <source>The first time that you sign in, you’re prompted for the user name and password for your Microsoft Dynamics 365 for Operations account.</source>
+          <source>The first time that you sign in, you are prompted for the user name and password for your Microsoft Dynamics 365 for Operations account.</source>
         </trans-unit>
         <trans-unit id="152" translate="yes" xml:space="preserve">
           <source>After you log in the app, no workspaces are visible.</source>
