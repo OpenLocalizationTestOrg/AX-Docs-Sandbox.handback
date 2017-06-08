@@ -6998,7 +6998,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\6a4c9d51aad30aea3eab4cd8df0a4856f90e9474.31d3072ebb563bdf925353dbc3df0d9e535a8e04.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\basic\\info-codes-retail.59d1b41662b0f4b5e2e860fd9fd1789b977ec0c1.da-dk.xlf",
-      "LocXliffCommit": "9fee99d4843397a4d8f7d67daa6225b1267e59dd"
+      "LocXliffCommit": "23809320401e2050d9a03f7f1f5a71948c947f99"
     },
     "manufacturing\\transportation-management\\create-bill-of-lading.md.57b0aaf082ec66f089555b5672db1ff6bace6677.HT": {
       "SourceFilename": "manufacturing\\transportation-management\\create-bill-of-lading.md",
@@ -14808,7 +14808,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\09d37fce2df4e409da187ac00dbc005dd56c7eb8.dfcd191f40a84bc0f870df8b89153a02351630c1.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\basic\\emea-entry-certificates.5931ce58a932fb7de9f25918c20868379dd4ea83.da-dk.xlf",
-      "LocXliffCommit": "9fee99d4843397a4d8f7d67daa6225b1267e59dd"
+      "LocXliffCommit": "23809320401e2050d9a03f7f1f5a71948c947f99"
     },
     "scm\\production-control\\bom-designer-functionality.md.91d9372a72f27963544f834d6000235baa115bf6.HT": {
       "SourceFilename": "scm\\production-control\\bom-designer-functionality.md",
@@ -15638,7 +15638,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\0d1525a69998e1800ed29238a5861f764824134c.569e40dde0b4328fcaadf8adfbaecbf7d02a5b7f.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\basic\\emea-eur-payment-slip-report-giro.68a038840b0203dd6b7fc77400bfa2dda190a2ee.da-dk.xlf",
-      "LocXliffCommit": "9fee99d4843397a4d8f7d67daa6225b1267e59dd"
+      "LocXliffCommit": "23809320401e2050d9a03f7f1f5a71948c947f99"
     },
     "scm\\production-control\\production-order-defaults-manufacturing-execution.md.d3343c4f519874a89ec41b7918d9d036d1abb961.HT": {
       "SourceFilename": "scm\\production-control\\production-order-defaults-manufacturing-execution.md",
@@ -16448,7 +16448,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\232661c37c57fc9a800205ef0d73dcdf1c089af6.fa63860b38e08aa2998841c757dc7987599dee11.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\basic\\emea-fra-procurement-sourcing-public-sector.dfb69eaa8b974b7ddd113e6488ab79e1dccc3c21.da-dk.xlf",
-      "LocXliffCommit": "9fee99d4843397a4d8f7d67daa6225b1267e59dd"
+      "LocXliffCommit": "23809320401e2050d9a03f7f1f5a71948c947f99"
     },
     "dev-itpro\\analytics\\aggregate-measurements-report.md.8c3db1fdea811b2b8f9a8d8765155aef5a27460c.HT": {
       "SourceFilename": "dev-itpro\\analytics\\aggregate-measurements-report.md",
@@ -17128,7 +17128,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\a2ec1772ab2da757f55585c8df1f1a933470bf47.c81f1ecd84c848d498870a66b2e473f62d5503d8.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\basic\\emea-registration-ids.fa5347aad0d50a424e1f6456512eadd1f4281f7e.da-dk.xlf",
-      "LocXliffCommit": "9fee99d4843397a4d8f7d67daa6225b1267e59dd"
+      "LocXliffCommit": "23809320401e2050d9a03f7f1f5a71948c947f99"
     },
     "dev-itpro\\financial\\dimension-entry-control-subpattern.md.fea797b8debacc5c08a5ac1544b83e935f9ce39a.HT": {
       "SourceFilename": "dev-itpro\\financial\\dimension-entry-control-subpattern.md",
@@ -17508,7 +17508,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\a22a06230600c6dea388901a9281c8da776da384.8da170d5359e170e24e74fd368883618f7590842.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\basic\\emea-fra-titres-de-recette-public-sector.fdd011c3b2e0bcbea471f052c5b6d6377bfcd2fe.da-dk.xlf",
-      "LocXliffCommit": "9fee99d4843397a4d8f7d67daa6225b1267e59dd"
+      "LocXliffCommit": "23809320401e2050d9a03f7f1f5a71948c947f99"
     },
     "dev-itpro\\database\\TOC.md.0543862ad5109e66e51304dac2c1dafe0f5592c9.HT": {
       "SourceFilename": "dev-itpro\\database\\TOC.md",
@@ -18148,7 +18148,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\17d41fd8ddd604bcf541adac5ab989cc70a1b049.3932af724fa202dd30033ba67492c3229c9cbb1d.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\basic\\emea-fra-mandats-de-paiement.d2d02b88ab7fa384c66a272db2ba41c6d92e1033.da-dk.xlf",
-      "LocXliffCommit": "9fee99d4843397a4d8f7d67daa6225b1267e59dd"
+      "LocXliffCommit": "23809320401e2050d9a03f7f1f5a71948c947f99"
     },
     "dev-itpro\\financial\\segmented-entry-control-metadata-specification.md.0201b9c41fa0287c3e35e6ee297682069a0186fe.HT": {
       "SourceFilename": "dev-itpro\\financial\\segmented-entry-control-metadata-specification.md",
@@ -18218,7 +18218,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\52a80e91fb8233488a45e0f81fb050393429d31d.da592652c4f9f1c31a8f70f3b3b415dc998e9575.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\basic\\emea-eu-sales-list.2c2994d8688de91d18e3533622a32c2bdf8c0b8a.da-dk.xlf",
-      "LocXliffCommit": "9fee99d4843397a4d8f7d67daa6225b1267e59dd"
+      "LocXliffCommit": "23809320401e2050d9a03f7f1f5a71948c947f99"
     },
     "dev-itpro\\analytics\\reset-financial-reporting-datamart-after-restore.md.f12fd3c9c39565302e6ce6f3bc85cd90003e9632.HT": {
       "SourceFilename": "dev-itpro\\analytics\\reset-financial-reporting-datamart-after-restore.md",
@@ -18498,7 +18498,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\d08dec45cb422929372408befb60908ddafd009f.3db4e9932618bfd0b55ebc1b2108da7abcdf5fa1.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\basic\\emea-invoice-issue-deadline.28b1ae5f3f64a45db1fe765746eb1d1d8af0bdb5.da-dk.xlf",
-      "LocXliffCommit": "9fee99d4843397a4d8f7d67daa6225b1267e59dd"
+      "LocXliffCommit": "23809320401e2050d9a03f7f1f5a71948c947f99"
     },
     "dev-itpro\\financial\\create-exchange-rate-providers.md.0217e85d7e3ee02cb0e39128f4e0edee1e38a270.HT": {
       "SourceFilename": "dev-itpro\\financial\\create-exchange-rate-providers.md",
@@ -18578,7 +18578,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\3f291d762e27205d33ffac33b1f0116f25f51b2c.ed31f6f9e7b7a2676e4ade46ac3ab8ea9ad79286.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\basic\\emea-fra-vendor-invoice-payment-holds-public-sector.22e7d8bb7b6b97005f1608dd83b21bb916b62bdd.da-dk.xlf",
-      "LocXliffCommit": "9fee99d4843397a4d8f7d67daa6225b1267e59dd"
+      "LocXliffCommit": "23809320401e2050d9a03f7f1f5a71948c947f99"
     },
     "dev-itpro\\lcs-solutions\\database-backup-lcs-solutions.md.203da2d168bbe72c3b4dc40a170d23cc47697958.HT": {
       "SourceFilename": "dev-itpro\\lcs-solutions\\database-backup-lcs-solutions.md",
@@ -22398,7 +22398,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\1b015912121511bd8d47b690c2c647b4e9e8f033.d0a01ab5ac9995bb651fc313295c8dda8d0cb0d2.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\basic\\emea-oioubl-standards-electronic-invoicing.f201ed7da0302308ecfbfcb70aed4c93c218e440.da-dk.xlf",
-      "LocXliffCommit": "9fee99d4843397a4d8f7d67daa6225b1267e59dd"
+      "LocXliffCommit": "23809320401e2050d9a03f7f1f5a71948c947f99"
     },
     "dev-itpro\\analytics\\practice-manager-power-bi.md.bef2a6f4596f2098fdd9e5bc105221c87f0c5fa5.HT": {
       "SourceFilename": "dev-itpro\\analytics\\practice-manager-power-bi.md",
