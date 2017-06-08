@@ -7068,7 +7068,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\6a4c9d51aad30aea3eab4cd8df0a4856f90e9474.31d3072ebb563bdf925353dbc3df0d9e535a8e04.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\basic\\info-codes-retail.59d1b41662b0f4b5e2e860fd9fd1789b977ec0c1.de-de.xlf",
-      "LocXliffCommit": "6823eb965403e03249ed29afc695f953bae65375"
+      "LocXliffCommit": "14ae78a8edfe96f7b7f791b9da81f344a4df6f41"
     },
     "manufacturing\\transportation-management\\create-bill-of-lading.md.57b0aaf082ec66f089555b5672db1ff6bace6677.HT": {
       "SourceFilename": "manufacturing\\transportation-management\\create-bill-of-lading.md",
@@ -14158,7 +14158,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\14e5a94f64bf4ba1b679eee1745db82ad8af772d.f74ae9143fb3fbca4ec6c956305e4a68775f6e45.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\basic\\emea-deu-journal-list-report.0bea95c832e567a3721cce7d28b4bb195057d6de.de-de.xlf",
-      "LocXliffCommit": "6823eb965403e03249ed29afc695f953bae65375"
+      "LocXliffCommit": "14ae78a8edfe96f7b7f791b9da81f344a4df6f41"
     },
     "scm\\production-control\\default-order-settings.md.eee8082bb76d16ae3326db20c07434cc0587b77a.HT": {
       "SourceFilename": "scm\\production-control\\default-order-settings.md",
@@ -14188,7 +14188,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\f1565c9c4dc07eede834904aca737760090b5602.6edd0ffa76e80a648bf8747099dcc1d9bdff7faf.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\basic\\emea-bank-reconciliation.e59f6b2f895a0952834c1d38c4697c56d0b03a1b.de-de.xlf",
-      "LocXliffCommit": "6823eb965403e03249ed29afc695f953bae65375"
+      "LocXliffCommit": "14ae78a8edfe96f7b7f791b9da81f344a4df6f41"
     },
     "dev-itpro\\dev-ref\\formreferencecontrol-classes.md.30d393e89c36dc76f98b4201ea70c80c3b7fabac.HT": {
       "SourceFilename": "dev-itpro\\dev-ref\\formreferencecontrol-classes.md",
@@ -14918,7 +14918,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\09d37fce2df4e409da187ac00dbc005dd56c7eb8.dfcd191f40a84bc0f870df8b89153a02351630c1.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\basic\\emea-entry-certificates.5931ce58a932fb7de9f25918c20868379dd4ea83.de-de.xlf",
-      "LocXliffCommit": "6823eb965403e03249ed29afc695f953bae65375"
+      "LocXliffCommit": "14ae78a8edfe96f7b7f791b9da81f344a4df6f41"
     },
     "scm\\production-control\\bom-designer-functionality.md.91d9372a72f27963544f834d6000235baa115bf6.HT": {
       "SourceFilename": "scm\\production-control\\bom-designer-functionality.md",
@@ -15858,7 +15858,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\5b058ef8017c3697e560a6ca4cbf3787ffba0025.d41ad444fdd8ac449d89deb11685fe46a892048b.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\basic\\emea-che-esr-customer-payments-import.8682f830d2f9247f1a858d020d691c41b3bceed7.de-de.xlf",
-      "LocXliffCommit": "6823eb965403e03249ed29afc695f953bae65375"
+      "LocXliffCommit": "14ae78a8edfe96f7b7f791b9da81f344a4df6f41"
     },
     "dev-itpro\\dev-ref\\formlistboxcontrol-classes.md.126c7258310d13b844cd2fbb245a574b946c75e3.HT": {
       "SourceFilename": "dev-itpro\\dev-ref\\formlistboxcontrol-classes.md",
@@ -16038,7 +16038,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\c68543583a05187e35da438b746439e066d0308d.7d8ccaab74164b6c2c2e7db30d705de2eede12b9.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\basic\\emea-deu-print-separate-label-credit-memo-originating-sales.fb8be48692139a4e8ec67dcbef7fc318cc395e98.de-de.xlf",
-      "LocXliffCommit": "6823eb965403e03249ed29afc695f953bae65375"
+      "LocXliffCommit": "14ae78a8edfe96f7b7f791b9da81f344a4df6f41"
     },
     "hr\\localizations\\noam-usa-earning-code-group-tasks.md.3b20885cc40dd12f5cc81b6ee3ee008a871ab125.HT": {
       "SourceFilename": "hr\\localizations\\noam-usa-earning-code-group-tasks.md",
@@ -16758,7 +16758,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\405d1401880c5ad13f6f43bcc2e82935d60aeffb.0bcd92c717b847a89f2b5bbf50a72969d435117e.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\basic\\emea-select-file-formats-for-the-method-of-payments.8d0c4b31eaa5d635e3baa6ffcc23aba0a4af594e.de-de.xlf",
-      "LocXliffCommit": "6823eb965403e03249ed29afc695f953bae65375"
+      "LocXliffCommit": "14ae78a8edfe96f7b7f791b9da81f344a4df6f41"
     },
     "hr\\localizations\\noam-usa-pay-cycle-pay-period-tasks-sample.md.26e63762baac8de93f365f73adce1ac8c03677e5.HT": {
       "SourceFilename": "hr\\localizations\\noam-usa-pay-cycle-pay-period-tasks-sample.md",
@@ -17238,7 +17238,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\a2ec1772ab2da757f55585c8df1f1a933470bf47.c81f1ecd84c848d498870a66b2e473f62d5503d8.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\basic\\emea-registration-ids.fa5347aad0d50a424e1f6456512eadd1f4281f7e.de-de.xlf",
-      "LocXliffCommit": "6823eb965403e03249ed29afc695f953bae65375"
+      "LocXliffCommit": "14ae78a8edfe96f7b7f791b9da81f344a4df6f41"
     },
     "dev-itpro\\financial\\dimension-entry-control-subpattern.md.fea797b8debacc5c08a5ac1544b83e935f9ce39a.HT": {
       "SourceFilename": "dev-itpro\\financial\\dimension-entry-control-subpattern.md",
@@ -17348,7 +17348,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\28b26caddf383d45c28045a621eb7ea86f9c28ba.c9de4b51847a804260bf1b3b440999057e3c3432.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\basic\\emea-deu-gdpdu-audit-data-export.1a02b50f86ddbd4d838750e80e393827445e2fc1.de-de.xlf",
-      "LocXliffCommit": "6823eb965403e03249ed29afc695f953bae65375"
+      "LocXliffCommit": "14ae78a8edfe96f7b7f791b9da81f344a4df6f41"
     },
     "hr\\localizations\\noam-usa-premium-earning-setup-tasks.md.5faee82e5092a8a6b61c1ee6ff3260d0bff65f58.HT": {
       "SourceFilename": "hr\\localizations\\noam-usa-premium-earning-setup-tasks.md",
@@ -17558,7 +17558,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\9af245fc18e7c4bdc3e640948fe03d9a8497f8f1.c1a95ea38fc364db84d3c45eaeb3be4ccd64ec67.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\basic\\emea-deu-additional-acquisition-depreciation.fa141e773ce957ce60f569a0327bfce7a23bc9b6.de-de.xlf",
-      "LocXliffCommit": "6823eb965403e03249ed29afc695f953bae65375"
+      "LocXliffCommit": "14ae78a8edfe96f7b7f791b9da81f344a4df6f41"
     },
     "scm\\master-planning\\master-plan-site-coverage-warehouse-not-mandatory.md.9b52bf568c35a7a965de206d5570140bb8e86124.HT": {
       "SourceFilename": "scm\\master-planning\\master-plan-site-coverage-warehouse-not-mandatory.md",
@@ -18348,7 +18348,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\52a80e91fb8233488a45e0f81fb050393429d31d.da592652c4f9f1c31a8f70f3b3b415dc998e9575.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\basic\\emea-eu-sales-list.2c2994d8688de91d18e3533622a32c2bdf8c0b8a.de-de.xlf",
-      "LocXliffCommit": "6823eb965403e03249ed29afc695f953bae65375"
+      "LocXliffCommit": "14ae78a8edfe96f7b7f791b9da81f344a4df6f41"
     },
     "dev-itpro\\analytics\\reset-financial-reporting-datamart-after-restore.md.f12fd3c9c39565302e6ce6f3bc85cd90003e9632.HT": {
       "SourceFilename": "dev-itpro\\analytics\\reset-financial-reporting-datamart-after-restore.md",
@@ -18628,7 +18628,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\d08dec45cb422929372408befb60908ddafd009f.3db4e9932618bfd0b55ebc1b2108da7abcdf5fa1.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\basic\\emea-invoice-issue-deadline.28b1ae5f3f64a45db1fe765746eb1d1d8af0bdb5.de-de.xlf",
-      "LocXliffCommit": "6823eb965403e03249ed29afc695f953bae65375"
+      "LocXliffCommit": "14ae78a8edfe96f7b7f791b9da81f344a4df6f41"
     },
     "dev-itpro\\financial\\create-exchange-rate-providers.md.0217e85d7e3ee02cb0e39128f4e0edee1e38a270.HT": {
       "SourceFilename": "dev-itpro\\financial\\create-exchange-rate-providers.md",
@@ -18818,7 +18818,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\e711633f2a3d1cea063fb06fab494d8c023e8d60.4d284d5b57e058c8eb1913a1212662b32758a16a.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\basic\\emea-aut-packing-material-fee-calculation.8e3cc73018d9b3ca7c9451b93fc6c51a2395c2b7.de-de.xlf",
-      "LocXliffCommit": "6823eb965403e03249ed29afc695f953bae65375"
+      "LocXliffCommit": "14ae78a8edfe96f7b7f791b9da81f344a4df6f41"
     },
     "financials\\localizations\\emea-fra-public-sector-accounting.md.af6a353cc671e94ea412530851278111375abf46.HT": {
       "SourceFilename": "financials\\localizations\\emea-fra-public-sector-accounting.md",
@@ -19098,7 +19098,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\257ae093da472d3dd9cc2c40129a63916f5ef81b.f308213ea81fd277e076533c9a2ac3a38205a74c.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\basic\\emea-aut-vat-statement-details.74bed2444937ab4f44b087817782ea7f62e35230.de-de.xlf",
-      "LocXliffCommit": "6823eb965403e03249ed29afc695f953bae65375"
+      "LocXliffCommit": "14ae78a8edfe96f7b7f791b9da81f344a4df6f41"
     },
     "scm\\sales-marketing\\direct-deliveries.md.28a9994d1d2319e7ffa4ddb3a732988d8e882572.HT": {
       "SourceFilename": "scm\\sales-marketing\\direct-deliveries.md",
@@ -21398,7 +21398,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\de072969e16b1a67b590911d36ff173e6792d35b.4bd036a5f80a0f4b34834e241a5387f6bc40ceef.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\basic\\emea-vat-reporting.a5bb0d5168a67be5442cfa84c5ee20435ec1a218.de-de.xlf",
-      "LocXliffCommit": "1b0feb3d56cfd8295f83a237ddc9b97e268f5981"
+      "LocXliffCommit": "14ae78a8edfe96f7b7f791b9da81f344a4df6f41"
     },
     "financials\\localizations\\latam-bra-import-fiscal-documents.md.d688adc37f5b8f9e4319421597772859420a2799.HT": {
       "SourceFilename": "financials\\localizations\\latam-bra-import-fiscal-documents.md",
@@ -22528,7 +22528,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\0d1525a69998e1800ed29238a5861f764824134c.569e40dde0b4328fcaadf8adfbaecbf7d02a5b7f.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\basic\\emea-eur-payment-slip-report-giro.68a038840b0203dd6b7fc77400bfa2dda190a2ee.de-de.xlf",
-      "LocXliffCommit": "1b0feb3d56cfd8295f83a237ddc9b97e268f5981"
+      "LocXliffCommit": "14ae78a8edfe96f7b7f791b9da81f344a4df6f41"
     },
     "scm\\warehousing\\cycle-counting.md.82959d68a44070e66a53e7bca7121a533a3b17ae.HT": {
       "SourceFilename": "scm\\warehousing\\cycle-counting.md",
@@ -23048,7 +23048,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\665d11f1e83ea8eff9ac196409b8b349d54c98c8.9384bf1c7fafa9c94f42cc23fa539437972b190d.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\basic\\emea-aut-half-year-depreciation.a48d3be7fb0e18aa9db33315f8b78989692e2eef.de-de.xlf",
-      "LocXliffCommit": "1b0feb3d56cfd8295f83a237ddc9b97e268f5981"
+      "LocXliffCommit": "14ae78a8edfe96f7b7f791b9da81f344a4df6f41"
     },
     "dev-itpro\\mobile-apps\\Mobile-app-home-page.md.0aa68243f940612f0a8e2284100daf08aa62c0f6.HT": {
       "SourceFilename": "dev-itpro\\mobile-apps\\Mobile-app-home-page.md",
