@@ -14,6 +14,9 @@
   "364d7e62dfaf54d3710d1888b8d2347dbe1627a2": [
     "core\\breadcrumb\\toc.yml"
   ],
+  "5d440f462a9296f07cc55ab2ec2111bdd73b2bcf": [
+    "core\\get-started\\action-search.md"
+  ],
   "ef5709889dcabd4c9ed760f57d210956f38c37e9": [
     "core\\get-started\\action-search.md"
   ],
@@ -31,24 +34,6 @@
   ],
   "689d8f9fb0501c5007db21d41f126737af77b89e": [
     "core\\get-started\\action-search.md"
-  ],
-  "48b2049c3f5025d7e8d3fc7e944aa9360786d18a": [
-    "core\\get-started\\advanced-filtering-query-options.md"
-  ],
-  "7e8f09b965403298630460ccb6669fd82abb0e8c": [
-    "core\\get-started\\client-faq.md"
-  ],
-  "130575df2dce1d9dbb7e002166d3fa48ea9b265e": [
-    "core\\get-started\\client-faq.md"
-  ],
-  "94f5874cb24b53476843f1a073dc9c4cfdb36ac9": [
-    "core\\get-started\\client-faq.md"
-  ],
-  "29a7d9f03c90186d528b58ae057d7623e339b393": [
-    "core\\get-started\\client-faq.md"
-  ],
-  "2c99b2e1f7ddecb61be62832ca1a8d3ac1fd21a8": [
-    "core\\get-started\\client-faq.md"
   ],
   "acbab3c833c109576f1e1e26fefeee770a29aeaf": [
     "core\\get-started\\configure-filter-workspaces.md"
@@ -13917,5 +13902,29 @@
   ],
   "47a2202131f7da761bda0551a7d44907ccc5a404": [
     "scm\\production-control\\formula-designer.md"
+  ],
+  "72dd259bdcc6e76265d8bde20a51c0cf006ff47a": [
+    "dev-itpro\\analytics\\emea-fra-commitments-public-sector.md"
+  ],
+  "20f44002368239e4f229e3cbc9f63791ea3c5563": [
+    "dev-itpro\\analytics\\emea-intrastat.md"
+  ],
+  "99f1ffea5d050431c5c63a90092d4f9534fb922b": [
+    "hr\\add-recommendations-control-pos-screen.md"
+  ],
+  "aab453d3fca968cc295ed36cf6952d48acb5a6c4": [
+    "hr\\analyze-sales-trends-patterns.md"
+  ],
+  "7a3cb6557ec270c00ae9eca5391e9013176b599c": [
+    "hr\\assess-customer-product-profitability.md"
+  ],
+  "ac461ac245885e38053037f88893d3243d81415d": [
+    "scm\\action-search.md"
+  ],
+  "53a1da9395c7e3c152f406aa513ec39767b75782": [
+    "scm\\advanced-filtering-query-options.md"
+  ],
+  "2b495bd8cfc6791cf147a40fd951c0b13b2b1332": [
+    "scm\\client-faq.md"
   ]
 }
