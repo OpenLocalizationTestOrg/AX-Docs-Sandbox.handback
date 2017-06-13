@@ -1,7 +1,7 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 58
+ Total Files | 57
 
 ## File List
  Source File | Status | Details 
@@ -63,14 +63,13 @@
  [retail\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/6c333159eb317cb97c6dc2e45bfd58f3ac600343/retail/TOC.md) | HandedOffFailed | [Details](#861300dd4f13ff054284064921d44064e1778c773559)
  [scm\cost-management\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/6c333159eb317cb97c6dc2e45bfd58f3ac600343/scm/cost-management/TOC.md) | HandedOffFailed | [Details](#2ef581df998b657ec268c0481a0c063d1754bc933618)
  [scm\includes\banner.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/59585c6dc49157ea5342c18ad25210e7bd71d9f2/scm/includes/banner.md) | HandedOffFailed | [Details](#51300798c1727f03e79aea10013900a107328aa33626)
- [scm\warehousing\replenishment.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/59585c6dc49157ea5342c18ad25210e7bd71d9f2/scm/warehousing/replenishment.md) | HandedOffSuccess | [Details](#d422957a3d153fdd0047e51803c50176f6d4fe6b3863)
 
 ## Item Details
 ##### <a name='51300798c1727f03e79aea10013900a107328aa360'></a> Source: [core\includes\banner.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/6c333159eb317cb97c6dc2e45bfd58f3ac600343/core/includes/banner.md)
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#51300798c1727f03e79aea10013900a107328aa360handoff_transform_failed)
@@ -85,7 +84,7 @@
 * Status: HandedOffFailed
 * Target File: [dev-itpro\analytics\financial-reporter-designer-web-client.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/6691730d28303cb2a53eefe2dbf40f2bb24a87e4/dev-itpro/analytics/financial-reporter-designer-web-client.md)
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#ec6704cfeb0e1030bed8c79863ae11ea55043191138handoff_transform_failed)
@@ -102,7 +101,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#4ee4812d592dba121c1d1f48196d65e1559e5809757handoff_transform_failed)
@@ -117,7 +116,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#04bd76ccf4763fcc3479b103ddf3e8ebef70f061818handoff_transform_failed)
@@ -132,7 +131,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#51300798c1727f03e79aea10013900a107328aa31360handoff_transform_failed)
@@ -147,7 +146,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#15c5ce6494fa8a7b82640e850d55e0e9e1f0b4391682handoff_transform_failed)
@@ -162,7 +161,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#94fd86bc47ad8d1e7b88b81251db51e2f3982faa1797handoff_transform_failed)
@@ -177,7 +176,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#383a5d45c70e589d5089ca3fbcf1b232912f34dd2007handoff_transform_failed)
@@ -192,7 +191,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#51300798c1727f03e79aea10013900a107328aa32857handoff_transform_failed)
@@ -207,7 +206,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#24f33a2a557595f0e8fc7137b4512c446c51c0443106handoff_transform_failed)
@@ -227,7 +226,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#51300798c1727f03e79aea10013900a107328aa33122handoff_transform_failed)
@@ -242,7 +241,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#edbc79e12b264574c21c4b6a60543a875bb150823176handoff_transform_failed)
@@ -262,7 +261,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#cb26aaacfcdb2e59d22d216f2296d7889dbfc3143252handoff_transform_failed)
@@ -277,7 +276,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#46a3645dc03714d52c6ac38d89bfdf56fe32418b3253handoff_transform_failed)
@@ -292,7 +291,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#363a7f0f47d0e943288f4b92f68800d9e37227173254handoff_transform_failed)
@@ -307,7 +306,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#44c94e4c67f3253fdda86a4617f86a49cb744feb3255handoff_transform_failed)
@@ -322,7 +321,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#15713bb0327812e09013b6934eea69f50053ecf23256handoff_transform_failed)
@@ -337,7 +336,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#f6326c5b53294ea6578a3d8f4b585e122fbf4ba23258handoff_transform_failed)
@@ -352,7 +351,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#55d2dd69f94f09afe3d7eb8770c0896d0f12fbeb3257handoff_transform_failed)
@@ -367,7 +366,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#644a7cf32ba296869d36ca4b4bca1d53fff897563259handoff_transform_failed)
@@ -382,7 +381,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#db8ef216e328731afec40b3d579e6cd54432ab913260handoff_transform_failed)
@@ -397,7 +396,7 @@
 * Status: HandedOffFailed
 * Target File: [retail\dev-itpro\configure-online-store.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/6691730d28303cb2a53eefe2dbf40f2bb24a87e4/retail/dev-itpro/configure-online-store.md)
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#563d11fb99c8aebce78f8962dbeeac41fb4690413261handoff_transform_failed)
@@ -414,7 +413,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#10e78d4c94923fa7b9349c6588af05c1fb57f60c3262handoff_transform_failed)
@@ -429,7 +428,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#fb0419838ad12ba0fc8510470407bb9a6715d47c3263handoff_transform_failed)
@@ -444,7 +443,7 @@
 * Status: HandedOffFailed
 * Target File: [retail\dev-itpro\define-retail-channel-communications-cdx.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/6691730d28303cb2a53eefe2dbf40f2bb24a87e4/retail/dev-itpro/define-retail-channel-communications-cdx.md)
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#ba1bb54a29250a2bb59622ee4391b64ac455af333264handoff_transform_failed)
@@ -461,7 +460,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#4f4f032bbf60431cf8d6fb87d47407b3b9b10dca3265handoff_transform_failed)
@@ -476,7 +475,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#2e86bfa87fb5dc0da790e99e44e56c13002ad3513266handoff_transform_failed)
@@ -491,7 +490,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#3616068b7a4c6adcbe9242909d02f486c9a3481e3268handoff_transform_failed)
@@ -506,7 +505,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#b4ce7b55581c83dae9982d5f12c3d01a425bf9d33267handoff_transform_failed)
@@ -521,7 +520,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#d51c98c4c58ef1bb642ffb0e56c246bd4201a2fa3269handoff_transform_failed)
@@ -536,7 +535,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#645922ca572542c349f8345a7b1bb400ce4efb133270handoff_transform_failed)
@@ -551,7 +550,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#90409eef7519d9fe4e4fb6454ed87b5430d240013271handoff_transform_failed)
@@ -566,7 +565,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#b9f109aca4f3580306ac130a2cc100f956feea743272handoff_transform_failed)
@@ -581,7 +580,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#3f5fe6da1aa5bba8d003e5ffa49acc005efce1a93273handoff_transform_failed)
@@ -596,7 +595,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#deb477c361e573076525abaa05c0eb1471696a123377handoff_transform_failed)
@@ -611,7 +610,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#1d4456000eeb650e967e81ebae46f035c2a2e7c83378handoff_transform_failed)
@@ -626,7 +625,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#630b9369ba406db5f3ba8f2996a2a60f1240036b3379handoff_transform_failed)
@@ -641,7 +640,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#fcc19e385290c949ae19fb92fc76b5aa21aff0463380handoff_transform_failed)
@@ -656,7 +655,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#feed452adac950c4c735beebf4fa9d41386b38263381handoff_transform_failed)
@@ -671,7 +670,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#66fbec137bc5da386448141d204bbbc2b57971b43382handoff_transform_failed)
@@ -686,7 +685,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#89987f2b642aab239f60e7d4ae65a56df597b3993383handoff_transform_failed)
@@ -701,7 +700,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#fbc6a53743471663ca3a3574dfe0ca67074e9bfd3384handoff_transform_failed)
@@ -716,7 +715,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#5fe8cc83f7898e77ae30543371bbfa30eaec92d93385handoff_transform_failed)
@@ -731,7 +730,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#581a970d883b28068719b1929777fc4935d1c3543430handoff_transform_failed)
@@ -746,7 +745,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#79cf196bae117c1e005fcd445c39ae26f7202fef3431handoff_transform_failed)
@@ -761,7 +760,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#c9fe6c5f257fe52accd426ba3cb6bbdf716216973432handoff_transform_failed)
@@ -776,7 +775,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#049f538fd479982281f69995452ae4a866b054853433handoff_transform_failed)
@@ -791,7 +790,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#4f1970be1db3f6f455450c15102e1942924937a43434handoff_transform_failed)
@@ -806,7 +805,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#08dbdb45248f5930fc0152ecc692f1edf9bd17763435handoff_transform_failed)
@@ -821,7 +820,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#c129e53442fff7a565d3e0b95c891171e0903ddd3437handoff_transform_failed)
@@ -836,7 +835,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#86d0c8769c9661c889573516a1c3a495e2f77c0d3438handoff_transform_failed)
@@ -851,7 +850,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#a82c74bbf87fba9d81f3e80c1d56d9aa54a32cb73440handoff_transform_failed)
@@ -866,7 +865,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#de39154a78b3b3126b45593805ce56a8367e44173441handoff_transform_failed)
@@ -881,7 +880,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#51300798c1727f03e79aea10013900a107328aa33447handoff_transform_failed)
@@ -896,7 +895,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#861300dd4f13ff054284064921d44064e1778c773559handoff_transform_failed)
@@ -916,7 +915,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#2ef581df998b657ec268c0481a0c063d1754bc933618handoff_transform_failed)
@@ -931,7 +930,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:02:05
+* Handoff Datetime: 2017-06-13 05:19:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#51300798c1727f03e79aea10013900a107328aa33626handoff_transform_failed)
@@ -940,25 +939,6 @@
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Handback Name: 
-* [Back to Top](#report-top)
-
-##### <a name='d422957a3d153fdd0047e51803c50176f6d4fe6b3863'></a> Source: [scm\warehousing\replenishment.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/59585c6dc49157ea5342c18ad25210e7bd71d9f2/scm/warehousing/replenishment.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [replenishment.e9daaecd537d725b167fe98e63cc49444d23cd40.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/cbcb045a6a7dee4df2b71bb40d9904f145464880/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/replenishment.e9daaecd537d725b167fe98e63cc49444d23cd40.de-de.xlf)
-* Handoff Datetime: 2017-06-08 13:02:05
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* Current Target File: [scm\warehousing\replenishment.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/2e614d7d31008eefd472e9d48007a16a00daf5af/scm/warehousing/replenishment.md)
-* Current Handback File: [replenishment.e9daaecd537d725b167fe98e63cc49444d23cd40.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/6823eb965403e03249ed29afc695f953bae65375/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/replenishment.e9daaecd537d725b167fe98e63cc49444d23cd40.de-de.xlf)
-* Current Handback Datetime: 2017-06-01 13:28:17
-* Bilingual File: [replenishment.e9daaecd537d725b167fe98e63cc49444d23cd40.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/6823eb965403e03249ed29afc695f953bae65375/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/replenishment.e9daaecd537d725b167fe98e63cc49444d23cd40.de-de.xlf)
-* Bilingual Datetime: 2017-06-01 13:32:31
 * [Back to Top](#report-top)
 
 
