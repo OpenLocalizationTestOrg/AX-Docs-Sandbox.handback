@@ -1,22 +1,10867 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 724
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [retail\dev-itpro\hardware-station-extensibility.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/7a8ce2c15a4e80e74cce9415bd10c3171906bc1d/retail/dev-itpro/hardware-station-extensibility.md) | HandedOffFailed | [Details](#b9f109aca4f3580306ac130a2cc100f956feea743272)
+ [core\breadcrumb\toc.yml](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/breadcrumb/toc.yml) | HandedOffSuccess | [Details](#e04989c3fb30c57e7d26d128d69f1476bf10c2e85)
+ [core\get-started\action-search.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/get-started/action-search.md) | HandedOffSuccess | [Details](#cd024f2bc06fca9c21ea41fbed44efbc519cee947)
+ [core\get-started\advanced-filtering-query-options.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/core/get-started/advanced-filtering-query-options.md) | HandedOffSuccess | [Details](#48b2049c3f5025d7e8d3fc7e944aa9360786d18a8)
+ [core\get-started\client-faq.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/get-started/client-faq.md) | HandedOffSuccess | [Details](#b7618f5150b55542d26d10000a644a13a8651e829)
+ [core\get-started\display-pages-side-by-side.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/get-started/display-pages-side-by-side.md) | HandedOffSuccess | [Details](#aad98247692bdbaf5b8023b393b5e33260dd0b1a11)
+ [core\get-started\fasttrack-dynamics-365-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/get-started/fasttrack-dynamics-365-overview.md) | HandedOffSuccess | [Details](#99edf6d0bd48a21d1913b7bd6e0cf3c62d4991b312)
+ [core\get-started\glossary.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/get-started/glossary.md) | HandedOffSuccess | [Details](#dbad1a054d69c463bf7fbc8ee76050e91ac1876913)
+ [core\get-started\navigation-search.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/get-started/navigation-search.md) | HandedOffSuccess | [Details](#431165d541c9a3b63100a93108ee770df8e88aa854)
+ [core\get-started\onboarding-home.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/get-started/onboarding-home.md) | HandedOffSuccess | [Details](#fc88de00a7bb9a83532b2e3b0fb25eaba10029e655)
+ [core\get-started\personalize-user-experience.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/get-started/personalize-user-experience.md) | HandedOffSuccess | [Details](#b338a930777a5945eb6318dc8066fb3649c79dbe56)
+ [core\get-started\recently-added-editing-features-in-task-recorder.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/get-started/recently-added-editing-features-in-task-recorder.md) | HandedOffSuccess | [Details](#5ab6f42da3de43f5ef3ba1c1d26b0fe67a08eab657)
+ [core\get-started\shortcut-keys.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/get-started/shortcut-keys.md) | HandedOffSuccess | [Details](#8daf9d0c5b83e3bca66c0229a328737adeeb295158)
+ [core\get-started\use-lookups-to-find-information.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/get-started/use-lookups-to-find-information.md) | HandedOffSuccess | [Details](#a5d0a9edd2cb5747fc799c6fdca45dd9ba5720f759)
+ [core\get-started\view-export-field-descriptions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/get-started/view-export-field-descriptions.md) | HandedOffSuccess | [Details](#7898ff427ede4447a5798d4989ffd3088a776d9c60)
+ [core\hr\benefit-eligibility-policies.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/benefit-eligibility-policies.md) | HandedOffSuccess | [Details](#7a1afcd5146796de8c33a6d1ef29677bbe0ab76562)
+ [core\hr\compensation-plans.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/compensation-plans.md) | HandedOffSuccess | [Details](#f2a2298e2949de464eb68c05b57668f0d304581463)
+ [core\hr\courses.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/courses.md) | HandedOffSuccess | [Details](#a0cdc75fa740c4619ccd1ae8bcaa15ff95f93a7964)
+ [core\hr\create-department-add-department-hierarchy.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/create-department-add-department-hierarchy.md) | HandedOffSuccess | [Details](#3bb02f82475b0fe9722d9b07af77fca091e284a265)
+ [core\hr\create-fixed-compensation-plans.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/create-fixed-compensation-plans.md) | HandedOffSuccess | [Details](#2b26910700aa5f0c3aa2999a4036ec622792231366)
+ [core\hr\create-job.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/create-job.md) | HandedOffSuccess | [Details](#1704766af256071b653c04407244b5bf9b9f902467)
+ [core\hr\create-variable-compensation-plans.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/create-variable-compensation-plans.md) | HandedOffSuccess | [Details](#3860696132a4b665159463f6ed981c10c0e6cbcb68)
+ [core\hr\departments-jobs-positions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/departments-jobs-positions.md) | HandedOffSuccess | [Details](#751d6ff19b211da5d2aa764051ad91f8439d6a3e69)
+ [core\hr\design-questionnaires.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/design-questionnaires.md) | HandedOffSuccess | [Details](#36c3f9a060c314e5048a4528d8754c8ccd68488170)
+ [core\hr\distribute-questionnaires.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/distribute-questionnaires.md) | HandedOffSuccess | [Details](#aba663b9fda222ad980034fc35691554002ab3ac71)
+ [core\hr\evaluate-questionnaire-results.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/evaluate-questionnaire-results.md) | HandedOffSuccess | [Details](#4cc42920321b083f4315c596cfad79815724355c73)
+ [core\hr\index.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/index.md) | HandedOffSuccess | [Details](#d0f367a6ef25ec3dd2f9da36324103d48a9ef57774)
+ [core\hr\loan-items.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/loan-items.md) | HandedOffSuccess | [Details](#20f490b7189f1eaf6723da28c8caac23e90f467e75)
+ [core\hr\localizations\noam-usa-benefit-accrual-plan-tasks.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-benefit-accrual-plan-tasks.md) | HandedOffSuccess | [Details](#22e104d66c60cba5312a9a0f99ff9d98f722249886)
+ [core\hr\localizations\noam-usa-benefit-set-up-tasks.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-benefit-set-up-tasks.md) | HandedOffSuccess | [Details](#6176cd7b169ee86f434178a3abd30099d327385f87)
+ [core\hr\localizations\noam-usa-comply-ada.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-comply-ada.md) | HandedOffSuccess | [Details](#60205bd0333dd8ce4c947b088ad3cbf204d4b4bf88)
+ [core\hr\localizations\noam-usa-earning-code-group-tasks.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-earning-code-group-tasks.md) | HandedOffSuccess | [Details](#e92802f330812e4ce0184ffe4c513dab0842072189)
+ [core\hr\localizations\noam-usa-earnings-generation-process.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-earnings-generation-process.md) | HandedOffSuccess | [Details](#da803f299b74955fc1dd45d694cce05a71ba728e90)
+ [core\hr\localizations\noam-usa-existing-earnings.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-existing-earnings.md) | HandedOffSuccess | [Details](#8caaa10dccaace5fb3f851367fc9a1b10a235f1291)
+ [core\hr\localizations\noam-usa-existing-payroll-payments.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-existing-payroll-payments.md) | HandedOffSuccess | [Details](#47e8bce262fca130b4877490058afcdc46aa84d792)
+ [core\hr\localizations\noam-usa-form-i-9-verification.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-form-i-9-verification.md) | HandedOffSuccess | [Details](#3d39c808fcbf6b586c91e1e1bce5cbc1c7783cf293)
+ [core\hr\localizations\noam-usa-garnishment-tax-levy-administrative-fees.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-garnishment-tax-levy-administrative-fees.md) | HandedOffSuccess | [Details](#1ba9a44f980c0ed70370df5ac7af4b1ffb9306c294)
+ [core\hr\localizations\noam-usa-garnishment-tax-levy-enrollment-tasks.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-garnishment-tax-levy-enrollment-tasks.md) | HandedOffSuccess | [Details](#eb28d2ee528952ff3ebd6d6f7c2a167c50d8736d95)
+ [core\hr\localizations\noam-usa-garnishment-tax-levy-set-up-tasks.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-garnishment-tax-levy-set-up-tasks.md) | HandedOffSuccess | [Details](#20da725f752d41374f317c80c84379d6fb70391196)
+ [core\hr\localizations\noam-usa-generate-earnings.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-generate-earnings.md) | HandedOffSuccess | [Details](#c6342a17efbd7d268b7910107f9a6c9afbdce46997)
+ [core\hr\localizations\noam-usa-generate-payroll-reports.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-generate-payroll-reports.md) | HandedOffSuccess | [Details](#53921cd3d677ec9227434760fe34e87658bfd71798)
+ [core\hr\localizations\noam-usa-issue-worker-payments.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-issue-worker-payments.md) | HandedOffSuccess | [Details](#049a81eefb3f65c30470e55f7c6759c7619e574d99)
+ [core\hr\localizations\noam-usa-pay-cycle-pay-period-tasks-sample.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-pay-cycle-pay-period-tasks-sample.md) | HandedOffSuccess | [Details](#13506ec36928fe63b2fe826d84ed8f43f853a32c100)
+ [core\hr\localizations\noam-usa-payroll.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-payroll.md) | HandedOffSuccess | [Details](#aece3e27042b77545e004de416cdc4467220ece4105)
+ [core\hr\localizations\noam-usa-payroll-calculation-frequencies-tasks.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-payroll-calculation-frequencies-tasks.md) | HandedOffSuccess | [Details](#5a01b59e0dbceef4ce21ff5c4d83cbd4fb949ef7103)
+ [core\hr\localizations\noam-usa-payroll-data-updates.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-payroll-data-updates.md) | HandedOffSuccess | [Details](#95c24982e4ec90a9c6ee0cc7ebf902d78b5330c1104)
+ [core\hr\localizations\noam-usa-pay-statements.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-pay-statements.md) | HandedOffSuccess | [Details](#573a4a144b4f7cbeabc55237c59a7a7d68f1d0d7102)
+ [core\hr\localizations\noam-usa-pay-statements-payment-generation-process.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-pay-statements-payment-generation-process.md) | HandedOffSuccess | [Details](#33a47938066c3148cf2104d6bbaff01cf5c8c1e5101)
+ [core\hr\localizations\noam-usa-post-payroll-generate-vendor-invoices.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-post-payroll-generate-vendor-invoices.md) | HandedOffSuccess | [Details](#97c80df223ac48aaf34b2ceb0481a6a614c2431d106)
+ [core\hr\localizations\noam-usa-premium-earning-setup-tasks.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-premium-earning-setup-tasks.md) | HandedOffSuccess | [Details](#4b1dd8ed8aa11130228988437d68079d51b9d52e107)
+ [core\hr\localizations\noam-usa-tax-codes-tax-groups-definitions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-tax-codes-tax-groups-definitions.md) | HandedOffSuccess | [Details](#4f07eaaa8f7cc18b3e2ad057a777a1fdd5f63361108)
+ [core\hr\localizations\noam-usa-tax-information-tasks.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-tax-information-tasks.md) | HandedOffSuccess | [Details](#53d61ae764fc4f66af030b9288514e9f37ced77d109)
+ [core\hr\localizations\noam-usa-work-cycle-work-period-tasks.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-work-cycle-work-period-tasks.md) | HandedOffSuccess | [Details](#98f27a7b71e95fe22c979671e2caf21c9c0019ee110)
+ [core\hr\localizations\noam-usa-worker-position-payroll-tasks.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-worker-position-payroll-tasks.md) | HandedOffSuccess | [Details](#5cdafc06cb3f47c0b6bf448bd152705f7c51fda8112)
+ [core\hr\localizations\noam-usa-work-schedule-leave-tasks.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-work-schedule-leave-tasks.md) | HandedOffSuccess | [Details](#70e8da95f774c33fd029e438717e3f1e98c1ab8f111)
+ [core\hr\manage-benefit-program.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/manage-benefit-program.md) | HandedOffSuccess | [Details](#0086c088dcac8d90f401ca15988d6d3feebcf692113)
+ [core\hr\manage-recruiting-process.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/manage-recruiting-process.md) | HandedOffSuccess | [Details](#6276655f6e7d09f5bc8862ad456b834d8919e574114)
+ [core\hr\mass-hire-projects.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/mass-hire-projects.md) | HandedOffSuccess | [Details](#006a8c110fe694c487e1e89e52c07438cf2becc3115)
+ [core\hr\performance-management-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/performance-management-overview.md) | HandedOffSuccess | [Details](#e8fc8be13745839f2d3d58a98e9a1e8b902024ba122)
+ [core\hr\questionnaires.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/questionnaires.md) | HandedOffSuccess | [Details](#6231344b75d18c103e66676f4ff2e1f6842e8b02123)
+ [core\hr\set-up-company-specific-hr-parameters.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/set-up-company-specific-hr-parameters.md) | HandedOffSuccess | [Details](#0e4c2b441e9f05ce37b0fe77d7f98cbb872dc122124)
+ [core\hr\set-up-hr-parameters-across-legal-entities.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/set-up-hr-parameters-across-legal-entities.md) | HandedOffSuccess | [Details](#b4a9231a41c7df496c02595bfcf15a453052f11f125)
+ [core\hr\skills.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/skills.md) | HandedOffSuccess | [Details](#1e50727699ce5fe41e905ea6cdc5e9c1edbd566c126)
+ [core\hr\workflow-manage-employee-information.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/workflow-manage-employee-information.md) | HandedOffSuccess | [Details](#23f89dd6acd2d0d94c6f427c77a07b11e202aa1e128)
+ [core\includes\banner.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/includes/banner.md) | HandedOffSuccess | [Details](#3a4fd35cbf4ba7b9e037d553d27e8a06b5db08ed129)
+ [core\index.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/index.md) | HandedOffSuccess | [Details](#4dcdf702bd94e740dbc914d22202afa91a7d4932130)
+ [core\organization-administration\configure-approval-process-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/configure-approval-process-workflow.md) | HandedOffSuccess | [Details](#c2765cf4ed8e0f5e00491bfe74835102bddff611136)
+ [core\organization-administration\configure-approval-step-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/configure-approval-step-workflow.md) | HandedOffSuccess | [Details](#61b3107516c7af8d1c0f4c427bdffa9be0fbc18d137)
+ [core\organization-administration\configure-automated-task-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/configure-automated-task-workflow.md) | HandedOffSuccess | [Details](#66f1b8e03cc0da5d21fea9b3c795d8f4097c8cfc138)
+ [core\organization-administration\configure-email.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/configure-email.md) | HandedOffSuccess | [Details](#b8f6187c079e3cca77076f75892eccf056511587140)
+ [core\organization-administration\configure-manual-decision-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/configure-manual-decision-workflow.md) | HandedOffSuccess | [Details](#6ea8b060741ea94af16861d5bb52894a577e5521142)
+ [core\organization-administration\configure-manual-task-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/configure-manual-task-workflow.md) | HandedOffSuccess | [Details](#242abaae1aa17578ba8eab4b2664794ff2c2caec143)
+ [core\organization-administration\configure-workflow-properties.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/configure-workflow-properties.md) | HandedOffSuccess | [Details](#713204bc1e9c757bda48d556ea5b0f66ed79a5c9146)
+ [core\organization-administration\create-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/create-workflow.md) | HandedOffSuccess | [Details](#138cf8d60f5a6e1ec1e46837a516e981c8ff4c19147)
+ [core\organization-administration\date-time-zones.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/date-time-zones.md) | HandedOffSuccess | [Details](#694208c6e3b559f7f197adab38288773bb642242148)
+ [core\organization-administration\electronic-signature-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/electronic-signature-overview.md) | HandedOffSuccess | [Details](#db401b08df1b03387dc3daeb0726de4e5c33336f149)
+ [core\organization-administration\number-sequence-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/number-sequence-overview.md) | HandedOffSuccess | [Details](#d260f460bf0da072eb46909d8c28d18041ecaa78158)
+ [core\organization-administration\organization-administration-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/organization-administration-home-page.md) | HandedOffSuccess | [Details](#889a9ce79d4599a60a4503d7876276a1452a5465159)
+ [core\organization-administration\organizations-organizational-hierarchies.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/organizations-organizational-hierarchies.md) | HandedOffSuccess | [Details](#4a7e1253d83e9212d423868a1f841b6944b07ad7160)
+ [core\organization-administration\overview-workflow-system.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/overview-workflow-system.md) | HandedOffSuccess | [Details](#1dc7935bf92567d529d393abf3069935a387e388162)
+ [core\organization-administration\plan-case-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/plan-case-management.md) | HandedOffSuccess | [Details](#1401af71a0aacd029595b5c075453beb2cc06b5f163)
+ [core\organization-administration\plan-configuration-global-address-book-additional-address-books.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/plan-configuration-global-address-book-additional-address-books.md) | HandedOffSuccess | [Details](#93a9c35b82a8bacd0295416015e783cb6348f550164)
+ [core\organization-administration\plan-organizational-hierarchy.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/plan-organizational-hierarchy.md) | HandedOffSuccess | [Details](#26ca948e26708126686ca0d96ea21dc16b1c3799165)
+ [core\organization-administration\qa-address-books.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/qa-address-books.md) | HandedOffSuccess | [Details](#7b3bed2bec4b109c6e3b557b8c3651f15f25169c166)
+ [core\organization-administration\record-templates.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/record-templates.md) | HandedOffSuccess | [Details](#24643909b0b481d0fe16a5613f28ec6161ef8314167)
+ [core\organization-administration\workflow-system-architecture.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/workflow-system-architecture.md) | HandedOffSuccess | [Details](#efc8031cb00de398551ed96c92eb426fafa9adb3171)
+ [core\organization-administration\workflow-types-report.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/workflow-types-report.md) | HandedOffSuccess | [Details](#5cfd3e2683895dd91380a333d38768fdf2951193172)
+ [core\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/TOC.md) | HandedOffSuccess | [Details](#6d423114c558be0df04f552c1778f222ad5fc575173)
+ [dev-itpro\analytics\add-contextual-bi-forms.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/add-contextual-bi-forms.md) | HandedOffSuccess | [Details](#6c42d98b2ec818fccaae7ef55347ba2dd3a60c3f175)
+ [dev-itpro\analytics\aggregate-data-entities-report.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/aggregate-data-entities-report.md) | HandedOffSuccess | [Details](#b95d260c8ae02919d9df70d62b0991380eb1837d177)
+ [dev-itpro\analytics\aggregate-measurements-report.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/aggregate-measurements-report.md) | HandedOffSuccess | [Details](#1ce67df96f3090e6347429a882e57cbdfb232a59178)
+ [dev-itpro\analytics\analytics.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/analytics.md) | HandedOffSuccess | [Details](#c4d4c85efa297b5fa4c982aa7e1998b1ff37015f179)
+ [dev-itpro\analytics\author-distribute-power-bi-reports.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/author-distribute-power-bi-reports.md) | HandedOffSuccess | [Details](#829058b1a084b971921b40fc33d94e7de6695c4c180)
+ [dev-itpro\analytics\benefits-power-bi.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/benefits-power-bi.md) | HandedOffSuccess | [Details](#815d8ecfe85c1000667d2d289c05c1e98b8b8c76181)
+ [dev-itpro\analytics\bi-reporting-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/bi-reporting-home-page.md) | HandedOffSuccess | [Details](#8d92c42415631d4e90cd75f078d84638070b477c182)
+ [dev-itpro\analytics\CFO-power-bi.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/CFO-power-bi.md) | HandedOffSuccess | [Details](#f0c750375ebbc2367d5df55b80db52723063ef17183)
+ [dev-itpro\analytics\column-definitions-financial-reports.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/column-definitions-financial-reports.md) | HandedOffSuccess | [Details](#96bdd1b4959742591f2112ef81b458fafdb4b3f6184)
+ [dev-itpro\analytics\compensation-and-benefits-analysis-power-bi-content-pack.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/compensation-and-benefits-analysis-power-bi-content-pack.md) | HandedOffSuccess | [Details](#70e35a33e06fe7c89dd64d17703f19a71d4a157e185)
+ [dev-itpro\analytics\compensation-power-bi.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/compensation-power-bi.md) | HandedOffSuccess | [Details](#86229c27b75e2640a0fb88dd73aa50b47585b29d186)
+ [dev-itpro\analytics\configure-power-bi-integration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/configure-power-bi-integration.md) | HandedOffSuccess | [Details](#47272ca4f1a00ab7844baa0b043981c7c104a15b187)
+ [dev-itpro\analytics\cost-accounting-analysis-content-pack.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/cost-accounting-analysis-content-pack.md) | HandedOffSuccess | [Details](#1d19276331a4278f44ad14292ed434c49b74d727188)
+ [dev-itpro\analytics\cost-management-content-pack.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/cost-management-content-pack.md) | HandedOffSuccess | [Details](#387b804cb20ffdc17ad74dac5d927ecbaf421bae189)
+ [dev-itpro\analytics\create-nextgen-reporting-solutions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/create-nextgen-reporting-solutions.md) | HandedOffSuccess | [Details](#1535fe9c0d369a797d7f72a787021985f18cdcab190)
+ [dev-itpro\analytics\create-powerbi-report-dashboard.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/create-powerbi-report-dashboard.md) | HandedOffSuccess | [Details](#3c2dbea60b8203fa4c77fc94654318fd16450eab191)
+ [dev-itpro\analytics\create-powerbi-report-data.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/create-powerbi-report-data.md) | HandedOffSuccess | [Details](#f2b38253132327b5b33403c0547335037c602f8e192)
+ [dev-itpro\analytics\credit-collections-content-pack-power-bi.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/credit-collections-content-pack-power-bi.md) | HandedOffSuccess | [Details](#acbdada57304130438b78c9ecbc21d9db0355d1d193)
+ [dev-itpro\analytics\custom-designs-business-docs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/custom-designs-business-docs.md) | HandedOffSuccess | [Details](#1c9d41fb60a9f7506ed0cacdebb1b0714c079954194)
+ [dev-itpro\analytics\customize-app-suite-reports-with-extensions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/customize-app-suite-reports-with-extensions.md) | HandedOffSuccess | [Details](#707b105cf95d7335e9c09732d63fe8c59daacf47195)
+ [dev-itpro\analytics\design-financial-reports.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/design-financial-reports.md) | HandedOffSuccess | [Details](#0dc453ab56a2d381afa6e22d847f0b1eb7a16e7e197)
+ [dev-itpro\analytics\document-reporting-services.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/document-reporting-services.md) | HandedOffSuccess | [Details](#44274be365bde2c0ff80e0fc7837d98b85ed6918198)
+ [dev-itpro\analytics\download-electronic-reporting-configuration-lcs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/download-electronic-reporting-configuration-lcs.md) | HandedOffSuccess | [Details](#be77d76194e9d38589548113cc650599d5af4323199)
+ [dev-itpro\analytics\electronic-reporting-configuration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/electronic-reporting-configuration.md) | HandedOffSuccess | [Details](#5f77a26f9e891ccee0946fd650b016254f9ebdd8200)
+ [dev-itpro\analytics\electronic-reporting-destinations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/electronic-reporting-destinations.md) | HandedOffSuccess | [Details](#fb2aeee1f38823e7ea96071f773e8448d65ba8ff201)
+ [dev-itpro\analytics\embed-power-bi-workspaces.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/embed-power-bi-workspaces.md) | HandedOffSuccess | [Details](#3ef980937868cce2a8ea3b7e660682c80ec135dd202)
+ [dev-itpro\analytics\employee-competencies-and-development-analysis-power-bi-content-pack.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/employee-competencies-and-development-analysis-power-bi-content-pack.md) | HandedOffSuccess | [Details](#f5b3c180f0a9d60fa5d4d8398daf79a14da2d6f4203)
+ [dev-itpro\analytics\employee-development-PBI.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/employee-development-PBI.md) | HandedOffSuccess | [Details](#d25f3be5821a02ea618a2356878bf2904765a6f7204)
+ [dev-itpro\analytics\expand-app-suite-report-data-sets.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/expand-app-suite-report-data-sets.md) | HandedOffSuccess | [Details](#49508b092e83cde802fa254539396f59b093d8a2205)
+ [dev-itpro\analytics\extend-report-menu-items.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/extend-report-menu-items.md) | HandedOffSuccess | [Details](#60b2a3d1ec22f364a7d0fe2617364e7943164137206)
+ [dev-itpro\analytics\financial-performance-power-bi-content-pack.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/financial-performance-power-bi-content-pack.md) | HandedOffSuccess | [Details](#b20f526d20d357750777d0f9bda26e4d9d55b335207)
+ [dev-itpro\analytics\financial-report-components.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/financial-report-components.md) | HandedOffSuccess | [Details](#5c09b1fc061f95cd78e9f18c2bdf846fdbfc7cf1208)
+ [dev-itpro\analytics\financial-reporting-intro.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/financial-reporting-intro.md) | HandedOffSuccess | [Details](#7cf4c796b245ba87281f2e9ca45e3dc83a1f2cde210)
+ [dev-itpro\analytics\general-electronic-reporting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/general-electronic-reporting.md) | HandedOffSuccess | [Details](#96e630fd03a557e2ec90a4ac3920987b5c99c095216)
+ [dev-itpro\analytics\general-electronic-reporting-formula-designer.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/general-electronic-reporting-formula-designer.md) | HandedOffSuccess | [Details](#bfd01a4abba7117aeb334a4a712c2d9ea670eb42212)
+ [dev-itpro\analytics\general-electronic-reporting-formulas-list-extension.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/general-electronic-reporting-formulas-list-extension.md) | HandedOffSuccess | [Details](#bd4e93379c0db6f50d8ba716c2d151f86b3835e3213)
+ [dev-itpro\analytics\general-electronic-reporting-manage-configuration-lifecycle.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/general-electronic-reporting-manage-configuration-lifecycle.md) | HandedOffSuccess | [Details](#b1f5da07ffff5e34d8c73012a1e3c85fe1546fda214)
+ [dev-itpro\analytics\general-electronic-reporting-report-configuration-get-data-powerbi.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/general-electronic-reporting-report-configuration-get-data-powerbi.md) | HandedOffSuccess | [Details](#36c5e78f4b85d0c763c35b62a6592365501db325215)
+ [dev-itpro\analytics\information-access-reporting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/information-access-reporting.md) | HandedOffSuccess | [Details](#30e06a7969f80b2e99c8947b9d1641d9c03d8524218)
+ [dev-itpro\analytics\install-document-routing-agent.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/install-document-routing-agent.md) | HandedOffSuccess | [Details](#11954008da7a662e3a603e5a05de161f6430c658219)
+ [dev-itpro\analytics\install-modern-report-design-templates.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/install-modern-report-design-templates.md) | HandedOffSuccess | [Details](#ce42025d10308022bbc7b6291bd04235abfa7edd220)
+ [dev-itpro\analytics\key-performance-indicators-report.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/key-performance-indicators-report.md) | HandedOffSuccess | [Details](#8442f2dc4c476e5fcc874e803657f86edd4221a1221)
+ [dev-itpro\analytics\learning-power-bi.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/learning-power-bi.md) | HandedOffSuccess | [Details](#a3f28d21a7e73d3ad462c5cc37198dd2b6f5f8af222)
+ [dev-itpro\analytics\ledger-budgets-power-bi.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/ledger-budgets-power-bi.md) | HandedOffSuccess | [Details](#5d52cce3cccb16f0645d9de1832ebeffbfaf3a09223)
+ [dev-itpro\analytics\modify-electronic-reporting-format-reapply-excel-template.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/modify-electronic-reporting-format-reapply-excel-template.md) | HandedOffSuccess | [Details](#3a1bd8375b406aec3f60f0bd7cbb56d56a33fca9581)
+ [dev-itpro\analytics\organizational-training-analysis-power-bi-content-pack.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/organizational-training-analysis-power-bi-content-pack.md) | HandedOffSuccess | [Details](#26499bf5423bc3711d110bd7e548eda238162b7a583)
+ [dev-itpro\analytics\pin-power-bi-reports.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/pin-power-bi-reports.md) | HandedOffSuccess | [Details](#f033321215fde4a7646d029eae08b81991cef086585)
+ [dev-itpro\analytics\power-bi-content-microsoft-partners.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/power-bi-content-microsoft-partners.md) | HandedOffSuccess | [Details](#fc2adf6a9f7ee81972dd75e0cd6c10a1f2e6b614586)
+ [dev-itpro\analytics\power-bi-content-released.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/power-bi-content-released.md) | HandedOffSuccess | [Details](#9dcd71636e9bc8b1dcf0e0b78d4eaaccaba1f9f1587)
+ [dev-itpro\analytics\power-bi-embedded-integration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/power-bi-embedded-integration.md) | HandedOffSuccess | [Details](#23e95da8f78a5cd9803ab0fbb08cde93f1c382d1588)
+ [dev-itpro\analytics\power-bi-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/power-bi-home-page.md) | HandedOffSuccess | [Details](#c5c4daef7fbc622ae3f60db63ad800f0cf183f83589)
+ [dev-itpro\analytics\power-bi-integration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/power-bi-integration.md) | HandedOffSuccess | [Details](#382b744070d1704b774ff661bf1c73d295e18ab8591)
+ [dev-itpro\analytics\power-bi-integration-entity-store.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/power-bi-integration-entity-store.md) | HandedOffSuccess | [Details](#d90c0d1fbb011655d79af7e2828b07c450e0c2ea590)
+ [dev-itpro\analytics\practice-manager-power-bi.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/practice-manager-power-bi.md) | HandedOffSuccess | [Details](#d119635a76ea18187420129f8532697b72c6100e592)
+ [dev-itpro\analytics\print-documents.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/print-documents.md) | HandedOffSuccess | [Details](#0061cb01b2a47e4e5edbb8dd7ac92320bb1cc45c594)
+ [dev-itpro\analytics\production-performance-power-bi.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/production-performance-power-bi.md) | HandedOffSuccess | [Details](#5a66f106cc0dcb133cddbb3677881f6d0b55ed97595)
+ [dev-itpro\analytics\purchase-content-pack-for-power-bi.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/purchase-content-pack-for-power-bi.md) | HandedOffSuccess | [Details](#daba17aed7e6cc475a16d6100c5c99ee747ca048596)
+ [dev-itpro\analytics\recruiting-analysis-power-bi-content-pack.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/recruiting-analysis-power-bi-content-pack.md) | HandedOffSuccess | [Details](#49cfd0f1ed645f1980b21b6d4f453cb7a8957a1a597)
+ [dev-itpro\analytics\report-designer-interface.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/report-designer-interface.md) | HandedOffSuccess | [Details](#aad8f2617d94e9abc77dafe96cb95f7e191873bd598)
+ [dev-itpro\analytics\reset-financial-reporting-datamart-after-restore.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/reset-financial-reporting-datamart-after-restore.md) | HandedOffSuccess | [Details](#c132c04bc64f02201252f03830d3f8309306f19c599)
+ [dev-itpro\analytics\retail-channel-performance-dashboard-power-bi-data.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/retail-channel-performance-dashboard-power-bi-data.md) | HandedOffSuccess | [Details](#8f375290722db4c6977d713141257c4cd6f538ed600)
+ [dev-itpro\analytics\row-definitions-financial-reporting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/row-definitions-financial-reporting.md) | HandedOffSuccess | [Details](#481f95e4e88e3ff36e4dea8e20b39303440089e2601)
+ [dev-itpro\analytics\run-document-routing-agent-as-windows-service.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/run-document-routing-agent-as-windows-service.md) | HandedOffSuccess | [Details](#b75a49e770714d08e21e786b72acacf4cb994878602)
+ [dev-itpro\analytics\sales-profitability-performance-content-pack.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/sales-profitability-performance-content-pack.md) | HandedOffSuccess | [Details](#16fef86e330a392ddd888fcb46060c3e1efa87c5603)
+ [dev-itpro\analytics\setup-security-cost-accounting-content-pack.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/setup-security-cost-accounting-content-pack.md) | HandedOffSuccess | [Details](#ea4ee6cfdca6e65f289db32ca41305a39b186033604)
+ [dev-itpro\analytics\SSRS-report.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/SSRS-report.md) | HandedOffSuccess | [Details](#f4dc2ae9e8c44e3fb809e1fc7db08856b2d608fd605)
+ [dev-itpro\analytics\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/TOC.md) | HandedOffSuccess | [Details](#73f4e552b5e01eb41f643bcac95c4ddc70429558606)
+ [dev-itpro\analytics\warehouse-power-bi-content.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/warehouse-power-bi-content.md) | HandedOffSuccess | [Details](#3daa69a1f042c2eb525e7e26eb0fe29253fe9e90608)
+ [dev-itpro\analytics\workforce-analysis-power-bi-content-pack.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/workforce-analysis-power-bi-content-pack.md) | HandedOffSuccess | [Details](#1f732a53eee17317417058b92706a9228d783cb5609)
+ [dev-itpro\database\copy-database-from-azure-sql-to-sql-server.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/database/copy-database-from-azure-sql-to-sql-server.md) | HandedOffSuccess | [Details](#ba714aa7d17ab4b4d916ac27c92f54d1a7283d27818)
+ [dev-itpro\database\copy-database-from-sql-server-to-azure-sql.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/database/copy-database-from-sql-server-to-azure-sql.md) | HandedOffSuccess | [Details](#396dc6334b0a69e860740ae9c8f31395e128a6dc819)
+ [dev-itpro\database\copy-operations-database.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/database/copy-operations-database.md) | HandedOffSuccess | [Details](#c355ed768d7a6035797687079751d22ecd522a0f820)
+ [dev-itpro\database\database-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/database/database-management.md) | HandedOffSuccess | [Details](#28ee0db9275dda20d016520c4c7058af652d0104821)
+ [dev-itpro\database\request-point-in-time-restore.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/database/request-point-in-time-restore.md) | HandedOffSuccess | [Details](#3c16d87b67414ebabd6d352ba1f525c181b130f1832)
+ [dev-itpro\data-entities\build-consuming-data-entities.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/build-consuming-data-entities.md) | HandedOffSuccess | [Details](#f37e6a0ebd76057aedb823033182e5797f4cd0f0611)
+ [dev-itpro\data-entities\copy-configuration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/copy-configuration.md) | HandedOffSuccess | [Details](#828a3abd656a8aff92e5a0b68e2e69d45e02ee9e614)
+ [dev-itpro\data-entities\database-management-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/database-management-home-page.md) | HandedOffSuccess | [Details](#350e5707e394ce15e47ad3d88a617469b5eab8a8647)
+ [dev-itpro\data-entities\data-entities.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities.md) | HandedOffSuccess | [Details](#7f215519a24c4db96b94d9b72abecf1771d7b2ca643)
+ [dev-itpro\data-entities\data-entities-accounts-payable-taxes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-accounts-payable-taxes.md) | HandedOffSuccess | [Details](#0273638dba7e8cd09f261cdecf044896345ba2e3617)
+ [dev-itpro\data-entities\data-entities-accounts-receivable.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-accounts-receivable.md) | HandedOffSuccess | [Details](#fe06501944fa54ef9ef73b9b42a2e2342771c15a618)
+ [dev-itpro\data-entities\data-entities-bank.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-bank.md) | HandedOffSuccess | [Details](#815b889d02ed4721f8803993035cfd2a3f67800c619)
+ [dev-itpro\data-entities\data-entities-beginning-balances.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-beginning-balances.md) | HandedOffSuccess | [Details](#eba2542bc05b20b9ef25288ff8151b8746570a5e620)
+ [dev-itpro\data-entities\data-entities-budgeting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-budgeting.md) | HandedOffSuccess | [Details](#213102a4e857cfbfcd708d5273c5189d1f9c9f57622)
+ [dev-itpro\data-entities\data-entities-budget-plan.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-budget-plan.md) | HandedOffSuccess | [Details](#957eece273376acfca0ce8c9af9f58f31e78d07c621)
+ [dev-itpro\data-entities\data-entities-costing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-costing.md) | HandedOffSuccess | [Details](#c2499ec10f69a44220ef4d191c03fa68ff005639623)
+ [dev-itpro\data-entities\data-entities-data-packages.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-data-packages.md) | HandedOffSuccess | [Details](#e25fc622e24a37ecd9073db7f621e610fbd12cb2624)
+ [dev-itpro\data-entities\data-entities-expense-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-expense-management.md) | HandedOffSuccess | [Details](#d7941bbbd800a3f95480a7217f28a07c23822f1f625)
+ [dev-itpro\data-entities\data-entities-fixed-assets.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-fixed-assets.md) | HandedOffSuccess | [Details](#cff3a5bb77690d70e95650c91df17151de01a4ab626)
+ [dev-itpro\data-entities\data-entities-general-ledger.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-general-ledger.md) | HandedOffSuccess | [Details](#faf53504ee96c2baf24d011c4ad1411d57402b61627)
+ [dev-itpro\data-entities\data-entities-global-address-book.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-global-address-book.md) | HandedOffSuccess | [Details](#47d05dce05bea2203bb245c74f3542147590cda9628)
+ [dev-itpro\data-entities\data-entities-human-resources.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-human-resources.md) | HandedOffSuccess | [Details](#8ed78b84e5664c99a41aa9de9b74d3e9de16d21a629)
+ [dev-itpro\data-entities\data-entities-inventory-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-inventory-management.md) | HandedOffSuccess | [Details](#d235f6f612d16d89d0da3221b2dbcc80f48c2e57630)
+ [dev-itpro\data-entities\data-entities-master-plan.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-master-plan.md) | HandedOffSuccess | [Details](#1fb9a2a5e12a578a3e925e5a5cad1158e56a9a58631)
+ [dev-itpro\data-entities\data-entities-procurement-sourcing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-procurement-sourcing.md) | HandedOffSuccess | [Details](#9cdacbc5fb6daa741cc651441fbb43f65900f6d6632)
+ [dev-itpro\data-entities\data-entities-product-information-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-product-information-management.md) | HandedOffSuccess | [Details](#643b33f9ee1f54fc7e0639ce5df60f93054934a4633)
+ [dev-itpro\data-entities\data-entities-production-control.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-production-control.md) | HandedOffSuccess | [Details](#6f1d7e84a233c815bdc2b4b6668036135702338c634)
+ [dev-itpro\data-entities\data-entities-project-accounting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-project-accounting.md) | HandedOffSuccess | [Details](#b88d833ed16d5a58fa0243aa62b2a0c0b5f4cd05635)
+ [dev-itpro\data-entities\data-entities-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-public-sector.md) | HandedOffSuccess | [Details](#f4a8828af08d72e18538a283b05b162128ed8ab7636)
+ [dev-itpro\data-entities\data-entities-report.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-report.md) | HandedOffSuccess | [Details](#f62317e7d1efb0423d5be9810664dad6e8dc875c637)
+ [dev-itpro\data-entities\data-entities-retail.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-retail.md) | HandedOffSuccess | [Details](#1d603052bcbf5818e941b5bd2a8a183428b60154638)
+ [dev-itpro\data-entities\data-entities-sales-marketing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-sales-marketing.md) | HandedOffSuccess | [Details](#41e23fd6f522d7c3a8792ee503285d3a46a38800640)
+ [dev-itpro\data-entities\data-entities-sales-marketing-pre-sales.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-sales-marketing-pre-sales.md) | HandedOffSuccess | [Details](#347a2af488d5444a4112908ef20b11053ea335eb639)
+ [dev-itpro\data-entities\data-entities-system-administration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-system-administration.md) | HandedOffSuccess | [Details](#0eed62b52afee86f6152af25e6b6744305ad214b641)
+ [dev-itpro\data-entities\data-entities-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-workflow.md) | HandedOffSuccess | [Details](#f24720e0f30d194cae4d4a12974ab8c762f6e457642)
+ [dev-itpro\data-entities\data-management-integration-data-entity.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-management-integration-data-entity.md) | HandedOffSuccess | [Details](#f2ee1cf226c7a007204a01805b34e4f37db1a9b1646)
+ [dev-itpro\data-entities\develop-entity-for-data-migration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/develop-entity-for-data-migration.md) | HandedOffSuccess | [Details](#8a7728b1042a581f3e13664bfbc8d7d0f0916cd2649)
+ [dev-itpro\data-entities\recurring-integrations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/recurring-integrations.md) | HandedOffSuccess | [Details](#f13060ca1abb22d50cf07c143480bba84b348e86810)
+ [dev-itpro\data-entities\security-data-entities.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/security-data-entities.md) | HandedOffSuccess | [Details](#224f23dd598d5e2fd2ecb888ca6ea55cd9060e32811)
+ [dev-itpro\data-entities\services-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/services-home-page.md) | HandedOffSuccess | [Details](#98b49557fe0bb50545f0dcd3480ac4fa71ac1327812)
+ [dev-itpro\data-entities\tips-tricks-import-general-journal-entity.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/tips-tricks-import-general-journal-entity.md) | HandedOffSuccess | [Details](#b9a5c03584635908067bb7b623deba76f4ba3e18814)
+ [dev-itpro\deployment\apply-deployable-package-system.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/deployment/apply-deployable-package-system.md) | HandedOffSuccess | [Details](#263ca817ff075505a0a9c25fc50ef5bdc46c4cd0834)
+ [dev-itpro\deployment\create-apply-deployable-package.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/deployment/create-apply-deployable-package.md) | HandedOffSuccess | [Details](#efcd42775b1b8e87672e162df38ab2776a1c98cc836)
+ [dev-itpro\deployment\csp-download-customersource.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/deployment/csp-download-customersource.md) | HandedOffSuccess | [Details](#30c5a318786589cca9a5c63d5792a14090632b51837)
+ [dev-itpro\deployment\deploy-demo-environment.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/deployment/deploy-demo-environment.md) | HandedOffSuccess | [Details](#6ce310433ac19c1c56f33bab871571fd2244dbfd838)
+ [dev-itpro\deployment\develop-deploy-custom-models-on-premises.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/deployment/develop-deploy-custom-models-on-premises.md) | HandedOffSuccess | [Details](#3af5135c0afe47bb723f7534dc9267bf6f0a71e1839)
+ [dev-itpro\deployment\expressroute.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/deployment/expressroute.md) | HandedOffSuccess | [Details](#d7a95a4ea04f2cf90c9d70b19d1c12d381d601ca840)
+ [dev-itpro\deployment\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/deployment/TOC.md) | HandedOffSuccess | [Details](#269b711ecfafda48f27fd13621d5358b5b3a1f66906)
+ [dev-itpro\dev-ref\a-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/a-classes.md) | HandedOffSuccess | [Details](#3c541a7f2b43699bf1c17c8b91172142469fd689907)
+ [dev-itpro\dev-ref\application-explorer-aot-properties.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/application-explorer-aot-properties.md) | HandedOffSuccess | [Details](#05fd466bf25804225bd811ce5832ee3ade9e80f5909)
+ [dev-itpro\dev-ref\c-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/c-classes.md) | HandedOffSuccess | [Details](#95c575eed8135adacd4fd31dc7cd620766aebf77911)
+ [dev-itpro\dev-ref\d-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/d-classes.md) | HandedOffSuccess | [Details](#b2792853878abb0e633ba8fcd626b3ab9c0db105912)
+ [dev-itpro\dev-ref\fieldbinding-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/fieldbinding-classes.md) | HandedOffSuccess | [Details](#0433c85273b2da235efe3fc50526ec5aeba893a9914)
+ [dev-itpro\dev-ref\formbuildbuttoncontrol-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/formbuildbuttoncontrol-classes.md) | HandedOffSuccess | [Details](#fbd8472722ecb04a33902abc1471a68bd34457da915)
+ [dev-itpro\dev-ref\formbuildfilterpanecontrol-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/formbuildfilterpanecontrol-classes.md) | HandedOffSuccess | [Details](#3f65d9f14002b5b49aa7e73ae8102d813152e057916)
+ [dev-itpro\dev-ref\formbuildreferencecontrol-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/formbuildreferencecontrol-classes.md) | HandedOffSuccess | [Details](#e9229ae279703a1e3e5195b964b75c0dc8ecf592917)
+ [dev-itpro\dev-ref\formchangetracker-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/formchangetracker-classes.md) | HandedOffSuccess | [Details](#6860b609ddf67462662041f2a2d083235b8fe598918)
+ [dev-itpro\dev-ref\formdataobject-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/formdataobject-classes.md) | HandedOffSuccess | [Details](#efa29a9455b4bef60c8e696eee240ebe59404cfb919)
+ [dev-itpro\dev-ref\formfasttabsummaryseparator-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/formfasttabsummaryseparator-classes.md) | HandedOffSuccess | [Details](#cfb9822070713568bf6a2387afd1a1e018a088ae920)
+ [dev-itpro\dev-ref\formgroupcontrol-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/formgroupcontrol-classes.md) | HandedOffSuccess | [Details](#ac453775ac99794088fd170b158290b3d8dc1194921)
+ [dev-itpro\dev-ref\formlistboxcontrol-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/formlistboxcontrol-classes.md) | HandedOffSuccess | [Details](#ffa7d9acf119769c18ee3520e8727f86e6e8eac4922)
+ [dev-itpro\dev-ref\formobject-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/formobject-classes.md) | HandedOffSuccess | [Details](#46569cf30592302a6e23f7139e60749b11d737e8923)
+ [dev-itpro\dev-ref\formreferencecontrol-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/formreferencecontrol-classes.md) | HandedOffSuccess | [Details](#485ea736663384470bba940144a7698ca90257e1924)
+ [dev-itpro\dev-ref\formtabcontrol-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/formtabcontrol-classes.md) | HandedOffSuccess | [Details](#ff0addc45b9dfaca986d0eec12737b186c888a00925)
+ [dev-itpro\dev-ref\i-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/i-classes.md) | HandedOffSuccess | [Details](#394d290f6c04c979c8a6b5809b41379a4fb200e1928)
+ [dev-itpro\dev-ref\j-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/j-classes.md) | HandedOffSuccess | [Details](#165d675854bc544218c6f5a94045a2b8e9dfa06c929)
+ [dev-itpro\dev-ref\m-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/m-classes.md) | HandedOffSuccess | [Details](#ba0c9dc63e5cd33f928d2afa8a136c44ba587c7f932)
+ [dev-itpro\dev-ref\p-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/p-classes.md) | HandedOffSuccess | [Details](#c622c7a713b8cf4bb4a02833d520af7f502ad743939)
+ [dev-itpro\dev-ref\q-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/q-classes.md) | HandedOffSuccess | [Details](#8df9671935946c94ebefede1bc5a74a8b73bedc9940)
+ [dev-itpro\dev-ref\r-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/r-classes.md) | HandedOffSuccess | [Details](#4f8bd40af833bd22aaa93a2ae889a34a3e2222b4941)
+ [dev-itpro\dev-ref\s-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/s-classes.md) | HandedOffSuccess | [Details](#d9980d26248b56e491efa5c15a4634c120cdf8c0942)
+ [dev-itpro\dev-ref\t-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/t-classes.md) | HandedOffSuccess | [Details](#656c8712fbaa2e482056f27ed8bec4be8511206b944)
+ [dev-itpro\dev-ref\v-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/v-classes.md) | HandedOffSuccess | [Details](#de130f2b779eda3bce8295d450e8629f0f128b24946)
+ [dev-itpro\dev-ref\w-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/w-classes.md) | HandedOffSuccess | [Details](#56211c2624d51075d8d5a7a172ec96e5f81dd527947)
+ [dev-itpro\dev-ref\x-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/x-classes.md) | HandedOffSuccess | [Details](#5c8f221f7e001544b5bed6e1d4c563d96a186e2e948)
+ [dev-itpro\dev-ref\xpp-classes-methods.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/xpp-classes-methods.md) | HandedOffSuccess | [Details](#3718ce60ca249c24992dda14553a01de44769d89951)
+ [dev-itpro\dev-ref\xpp-cs-comparison.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/xpp-cs-comparison.md) | HandedOffSuccess | [Details](#ae436a197ed8360e45ed637110fd70ea28bcd4bc955)
+ [dev-itpro\dev-ref\xpp-data-query.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/xpp-data-query.md) | HandedOffSuccess | [Details](#eb002d3612c193b668f87ae07f1c0f192c9a90f1956)
+ [dev-itpro\dev-ref\xpp-date-run-time-functions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/xpp-date-run-time-functions.md) | HandedOffSuccess | [Details](#43971074fab015e90edd37c63eaf18ee0c96f185957)
+ [dev-itpro\dev-ref\xpp-macros.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/xpp-macros.md) | HandedOffSuccess | [Details](#c59916ac54d989a2074faf633ad1443f65c493fc959)
+ [dev-itpro\dev-ref\xpp-operator-precedence.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/xpp-operator-precedence.md) | HandedOffSuccess | [Details](#e07243eb34f1d45d1f9e1eddc6e30f0289e056e3961)
+ [dev-itpro\dev-ref\xpp-syntax.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/xpp-syntax.md) | HandedOffSuccess | [Details](#0939c912d07c021e1f517179e19ab91d5de91b8c968)
+ [dev-itpro\dev-ref\xpp-variables-data-types.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/xpp-variables-data-types.md) | HandedOffSuccess | [Details](#65fcfe3441e4bf31deb50a24ef72ec373e64fc83969)
+ [dev-itpro\dev-tools\access-instances.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/access-instances.md) | HandedOffSuccess | [Details](#80a74c95a1a2e3c250cc6e71cb99df206a8898bf970)
+ [dev-itpro\dev-tools\application-explorer.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/application-explorer.md) | HandedOffSuccess | [Details](#c17cc1c165ee54b50fd316d5f7f437aa34c25721971)
+ [dev-itpro\dev-tools\application-stack-server-architecture.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/application-stack-server-architecture.md) | HandedOffSuccess | [Details](#db616e33286a553dd009fa8cfd8171aec9b9d493972)
+ [dev-itpro\dev-tools\author-best-practice-rules.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/author-best-practice-rules.md) | HandedOffSuccess | [Details](#320e0565d61e618d9fbce967f113a273843aff20973)
+ [dev-itpro\dev-tools\build-debug-project.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/build-debug-project.md) | HandedOffSuccess | [Details](#dea4a4669bf3494e65485816ec4d0ebb34ed6a40974)
+ [dev-itpro\dev-tools\continuous-delivery-faq.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/continuous-delivery-faq.md) | HandedOffSuccess | [Details](#b20fa56f70c09831fdbccd9c30384356d4ecd9c8978)
+ [dev-itpro\dev-tools\continuous-delivery-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/continuous-delivery-home-page.md) | HandedOffSuccess | [Details](#0adb59a347015204ab94c43678e2053edc139034979)
+ [dev-itpro\dev-tools\customization-analysis-report.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/customization-analysis-report.md) | HandedOffSuccess | [Details](#b2cd27eb77997d8eaae203541db0ede48b1b9eff981)
+ [dev-itpro\dev-tools\date-effectivity.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/date-effectivity.md) | HandedOffSuccess | [Details](#7d4e6c173cbbcf24eb448c42265dd27041a1e3e2983)
+ [dev-itpro\dev-tools\debug-x-issue-against-copy-of-production.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/debug-x-issue-against-copy-of-production.md) | HandedOffSuccess | [Details](#e2767e6955835b58682db51e9a770aa632fa9169984)
+ [dev-itpro\dev-tools\debug-xpp.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/debug-xpp.md) | HandedOffSuccess | [Details](#4b045eaea0f9061c205a719f49e672c73793e362985)
+ [dev-itpro\dev-tools\developer-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/developer-home-page.md) | HandedOffSuccess | [Details](#1a83c990889c414b9e09d877adf6c49d2f4a9e38987)
+ [dev-itpro\dev-tools\developer-tools-add-ins.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/developer-tools-add-ins.md) | HandedOffSuccess | [Details](#72f8f4dfb7fba84ab92e220066e33fde4d7120ac988)
+ [dev-itpro\dev-tools\development-tools-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/development-tools-overview.md) | HandedOffSuccess | [Details](#74c61db95e2774566a94f936b49d4bb31d269f07990)
+ [dev-itpro\dev-tools\element-designers.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/element-designers.md) | HandedOffSuccess | [Details](#dd03bc3043d06d8c1bdef5b8b9f038062ef74cb8991)
+ [dev-itpro\dev-tools\fleet-management-sample.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/fleet-management-sample.md) | HandedOffSuccess | [Details](#6fc08ee0e3c8c2dd7fda5c3de63185a42fdf6255996)
+ [dev-itpro\dev-tools\get-evaluation-copy.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/get-evaluation-copy.md) | HandedOffSuccess | [Details](#054b0649559e978cc027492d3e5a8f39820e1492997)
+ [dev-itpro\dev-tools\introduction-visual-studio.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/introduction-visual-studio.md) | HandedOffSuccess | [Details](#b27e425a88079b44812c9debc5e726e2241103cd999)
+ [dev-itpro\dev-tools\isv-licensing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/isv-licensing.md) | HandedOffSuccess | [Details](#e0c074cd682b44c34fe3a18287a5bb91a40f55161000)
+ [dev-itpro\dev-tools\linq-provider-c.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/linq-provider-c.md) | HandedOffSuccess | [Details](#9b45e8e35dab717319eb26b7bfa6be7b3dc791641001)
+ [dev-itpro\dev-tools\lock-models.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/lock-models.md) | HandedOffSuccess | [Details](#900411ebbd944a3c8e529081a89a7a5ab8a572c91002)
+ [dev-itpro\dev-tools\models-export-import.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/models-export-import.md) | HandedOffSuccess | [Details](#74e6c6836a15b1044145cd01c450fbfdf8f680941219)
+ [dev-itpro\dev-tools\new-x-debugger-features.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/new-x-debugger-features.md) | HandedOffSuccess | [Details](#af040a71fe5351faf9f538706493818ef016a9051221)
+ [dev-itpro\dev-tools\programming-language-support.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/programming-language-support.md) | HandedOffSuccess | [Details](#24c3e98efcdb16abea32810d247f7c2bf8d4246c1222)
+ [dev-itpro\dev-tools\projects.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/projects.md) | HandedOffSuccess | [Details](#71c5dd66976fed2a814e478d4e7e039ed040a2eb1223)
+ [dev-itpro\dev-tools\sign-up-preview-subscription.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/sign-up-preview-subscription.md) | HandedOffSuccess | [Details](#ca0688ee7f5232fba1c5755e7440c8a55b2403351224)
+ [dev-itpro\dev-tools\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/TOC.md) | HandedOffSuccess | [Details](#5b0a85aa814ff82c790e32c3acda933daccb1b4c1225)
+ [dev-itpro\dev-tools\update-development-tools.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/update-development-tools.md) | HandedOffSuccess | [Details](#4f1a6901433e559ea9d881e8d69b9010297eca581226)
+ [dev-itpro\dev-tools\version-models-build.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/version-models-build.md) | HandedOffSuccess | [Details](#edc84c4c518068f4daf0ae9f263f2d055697be911228)
+ [dev-itpro\extensibility\customization-overlayering-extensions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/extensibility/customization-overlayering-extensions.md) | HandedOffSuccess | [Details](#f429956249f57898642051958c76209f1bf4189b1232)
+ [dev-itpro\extensibility\extend-number-sequence-scope.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/extensibility/extend-number-sequence-scope.md) | HandedOffSuccess | [Details](#92d3ce6ffe33e95d6c8891aa8e44f059949548881234)
+ [dev-itpro\extensibility\extensibility-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/extensibility/extensibility-home-page.md) | HandedOffSuccess | [Details](#6f055e2e4d062e025be2b11cc61b6f31f76a14241236)
+ [dev-itpro\financial\add-dimensions-excel-templates.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/financial/add-dimensions-excel-templates.md) | HandedOffSuccess | [Details](#8362e4268c5f65f7201582b0c21e96c9cc8b0f1f1285)
+ [dev-itpro\financial\create-exchange-rate-providers.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/financial/create-exchange-rate-providers.md) | HandedOffSuccess | [Details](#5edb533cc97cc388bbbd244d5ff1249569353fe11286)
+ [dev-itpro\financial\dimension-entry-control-dialog-support.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/financial/dimension-entry-control-dialog-support.md) | HandedOffSuccess | [Details](#b776eb027bc34523850b3f2819aa608e2b60cecf1287)
+ [dev-itpro\financial\dimension-entry-control-uptake.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/financial/dimension-entry-control-uptake.md) | HandedOffSuccess | [Details](#b0c10a89d1c3fce273b6c172d930c67d24e0a7a81290)
+ [dev-itpro\financial\dimensions-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/financial/dimensions-overview.md) | HandedOffSuccess | [Details](#0af9395924a556d18c649c526edd93da2d1af6551293)
+ [dev-itpro\financial\financial-dimension-configuration-integration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/financial/financial-dimension-configuration-integration.md) | HandedOffSuccess | [Details](#2f1b52716ccf11911df06285ee0797e4cd7215931295)
+ [dev-itpro\financial\financial-dimensions-main-accounts-right-left-language.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/financial/financial-dimensions-main-accounts-right-left-language.md) | HandedOffSuccess | [Details](#e28d3b318c2efa0b9d0da1154692f8e64c553e641296)
+ [dev-itpro\financial\read-only-entity-financial.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/financial/read-only-entity-financial.md) | HandedOffSuccess | [Details](#2163b122c471834614645bab1468745627fcd82a1359)
+ [dev-itpro\financial\segmented-entry-control-dialog-support.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/financial/segmented-entry-control-dialog-support.md) | HandedOffSuccess | [Details](#7e7c9eb9b87c8352510b92cf32f2a61f4ef83e911361)
+ [dev-itpro\get-started\ax-2012-features-not-implemented-but-not-deprecated.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/get-started/ax-2012-features-not-implemented-but-not-deprecated.md) | HandedOffSuccess | [Details](#96fb85d78430e6b87bb4ca4fadd3c46614d3740d1366)
+ [dev-itpro\get-started\demo-data.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/get-started/demo-data.md) | HandedOffSuccess | [Details](#7c3c42a72a28846b4b1c9c33121b9699b1f4dae81367)
+ [dev-itpro\get-started\getting-started-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/get-started/getting-started-home-page.md) | HandedOffSuccess | [Details](#6b1b3bd520ed8a26b05f48554a093335da1a51b01368)
+ [dev-itpro\get-started\help-connect.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/get-started/help-connect.md) | HandedOffSuccess | [Details](#a463eef86c85aea108fe7925b5253d0eb6f8917f1369)
+ [dev-itpro\get-started\help-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/get-started/help-overview.md) | HandedOffSuccess | [Details](#1f3bf3ebcd136150a8417d1f13bc19595eaf6c921370)
+ [dev-itpro\get-started\new-task-guides-available-february-2016.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/get-started/new-task-guides-available-february-2016.md) | HandedOffSuccess | [Details](#cdad1d6c2466b47b07133a5335866ef6881609ca1431)
+ [dev-itpro\get-started\system-requirements.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/get-started/system-requirements.md) | HandedOffSuccess | [Details](#724ee7ec29f8a9c4e8cc0b244193cd6c83c37f031435)
+ [dev-itpro\get-started\whats-new-dynamics-365-operations-1611.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/get-started/whats-new-dynamics-365-operations-1611.md) | HandedOffSuccess | [Details](#7fd8180bb3ae4ebf5a8dd4446ccd19e65cb6708d1441)
+ [dev-itpro\get-started\whats-new-platform-update-5.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/get-started/whats-new-platform-update-5.md) | HandedOffSuccess | [Details](#1bf1235ab896d9e41857c2a55494a02715559a601445)
+ [dev-itpro\get-started\whats-new-platform-update-6.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/get-started/whats-new-platform-update-6.md) | HandedOffSuccess | [Details](#fc9065c5f23a98d01758d7380316fffd838b0e651446)
+ [dev-itpro\includes\banner.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/includes/banner.md) | HandedOffSuccess | [Details](#3a4fd35cbf4ba7b9e037d553d27e8a06b5db08ed1448)
+ [dev-itpro\index.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/index.md) | HandedOffSuccess | [Details](#eec17ffd2d1b8a3d5c597d4cc38313b1c54961551449)
+ [dev-itpro\lcs-solutions\apply-country-context.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lcs-solutions/apply-country-context.md) | HandedOffSuccess | [Details](#75e4c36662491f935075bfa209dc9e92ed147d781451)
+ [dev-itpro\lcs-solutions\app-validation-lcs-solutions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lcs-solutions/app-validation-lcs-solutions.md) | HandedOffSuccess | [Details](#5a80dd05e2eb78d377b0a409d2d2063ceaf31fef1450)
+ [dev-itpro\lcs-solutions\business-process-modeler-libraries-lcs-solutions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lcs-solutions/business-process-modeler-libraries-lcs-solutions.md) | HandedOffSuccess | [Details](#2c12fd38ea1bb2c0055ce77af59ecc7fad94b93e1452)
+ [dev-itpro\lcs-solutions\code-migration-lcs-solutions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lcs-solutions/code-migration-lcs-solutions.md) | HandedOffSuccess | [Details](#9cf230fcc46debe1cfcc9d14a904c898db98702a1454)
+ [dev-itpro\lcs-solutions\country-region.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lcs-solutions/country-region.md) | HandedOffSuccess | [Details](#58b137dab1404538a01496aa5ad68cc61ddd1f651455)
+ [dev-itpro\lcs-solutions\database-backup-lcs-solutions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lcs-solutions/database-backup-lcs-solutions.md) | HandedOffSuccess | [Details](#e33f8f5318cf0cb333f9fef53b53b37f83a24c691456)
+ [dev-itpro\lcs-solutions\marketing-content-lcs-solutions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lcs-solutions/marketing-content-lcs-solutions.md) | HandedOffSuccess | [Details](#41267c346da4f9236ebe67e2cb43761162f353251458)
+ [dev-itpro\lcs-solutions\process-data-packages-lcs-solutions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lcs-solutions/process-data-packages-lcs-solutions.md) | HandedOffSuccess | [Details](#e4efd7db6849c0be84515311b3f4c259163ca3a01502)
+ [dev-itpro\lcs-solutions\regulatory-watch-communication.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lcs-solutions/regulatory-watch-communication.md) | HandedOffSuccess | [Details](#b9428526aa7e2c8d9b1e0517c4b1ba4247e2489f1504)
+ [dev-itpro\lcs-solutions\separate-localization-models.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lcs-solutions/separate-localization-models.md) | HandedOffSuccess | [Details](#fe4409a803ab712bbae5cae81a6321fb0aab47021505)
+ [dev-itpro\lifecycle-services\business-process-libraries-business-process-modeler.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/business-process-libraries-business-process-modeler.md) | HandedOffSuccess | [Details](#e4473b9f652741ec54aab3e0b2d65af2595dbe431615)
+ [dev-itpro\lifecycle-services\cloud-operations-servicing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/cloud-operations-servicing.md) | HandedOffSuccess | [Details](#f6bb7be18d2ce3e6fe7ef1f0483a5dfa87f701281617)
+ [dev-itpro\lifecycle-services\cloud-powered-support-lcs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/cloud-powered-support-lcs.md) | HandedOffSuccess | [Details](#a28bbce9a60d6a00d6e894a0fd56fd6a4c3626211618)
+ [dev-itpro\lifecycle-services\configure-execute-code-upgrade.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/configure-execute-code-upgrade.md) | HandedOffSuccess | [Details](#c8a8a7291051fd806b3f1abddd3412e19b34d54a1620)
+ [dev-itpro\lifecycle-services\configure-lcs-security.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/configure-lcs-security.md) | HandedOffSuccess | [Details](#95a4b172972b9f42d0a320379308978be531f5b81621)
+ [dev-itpro\lifecycle-services\getting-started-lcs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/getting-started-lcs.md) | HandedOffSuccess | [Details](#d257328f56e7e78bbf761dfb60d122201715cb9c1625)
+ [dev-itpro\lifecycle-services\issue-search-lcs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/issue-search-lcs.md) | HandedOffSuccess | [Details](#6417fde327a6b597b060130ce06dfe13e487674e1626)
+ [dev-itpro\lifecycle-services\known-issues.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/known-issues.md) | HandedOffSuccess | [Details](#949ff8eb4ee26d2f1bbca01389d339fb49595bfe1627)
+ [dev-itpro\lifecycle-services\lcs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/lcs.md) | HandedOffSuccess | [Details](#539391913e2690ff71e61319a67bd9b5c977f2041631)
+ [dev-itpro\lifecycle-services\lcs-support.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/lcs-support.md) | HandedOffSuccess | [Details](#f68751e6c5d610ca8884721497297bbe3aab6e591628)
+ [dev-itpro\lifecycle-services\lcs-user-guide.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/lcs-user-guide.md) | HandedOffSuccess | [Details](#73ad2bfb93443c0e1f07a28db5ffe35bee3d58b51629)
+ [dev-itpro\lifecycle-services\lcs-works-lcs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/lcs-works-lcs.md) | HandedOffSuccess | [Details](#49c9522ce0058966837850ee390c98a83c1062b11630)
+ [dev-itpro\lifecycle-services\monitoring-diagnostics.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/monitoring-diagnostics.md) | HandedOffSuccess | [Details](#e47619fec80aa88996ddbd4dfd8e4a3e8a812a251764)
+ [dev-itpro\lifecycle-services\planned-maintenance-window-faq.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/planned-maintenance-window-faq.md) | HandedOffSuccess | [Details](#adafdf06d0a9ebd7523c2d470835dc377e6823991765)
+ [dev-itpro\lifecycle-services\premier-support.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/premier-support.md) | HandedOffSuccess | [Details](#954b0be9fd2c179bfaa54cc4505d886cddc89f5b1766)
+ [dev-itpro\lifecycle-services\support-experience.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/support-experience.md) | HandedOffSuccess | [Details](#f8b9d457c220e34d7a96e197138109653fdf7ff81769)
+ [dev-itpro\lifecycle-services\whats-new-lcs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/whats-new-lcs.md) | HandedOffSuccess | [Details](#4e6a3a60912fdada855937dd515e59230ac6b2e81772)
+ [dev-itpro\migration-upgrade\code-migration-context-menus.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/code-migration-context-menus.md) | HandedOffSuccess | [Details](#2b6c17583c5a4a0004c91652cdf8dfe2169b5c6d1785)
+ [dev-itpro\migration-upgrade\code-migration-double-click.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/code-migration-double-click.md) | HandedOffSuccess | [Details](#c57404714e4e6dfdd059da65019699a33ecda9101786)
+ [dev-itpro\migration-upgrade\configure-vso-solution.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/configure-vso-solution.md) | HandedOffSuccess | [Details](#b787144e26088765e58bcd14b6b53900d5aa291b1787)
+ [dev-itpro\migration-upgrade\delegates-migration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/delegates-migration.md) | HandedOffSuccess | [Details](#30221e67893bde7eab1cf4c01ed94b6637f31c851789)
+ [dev-itpro\migration-upgrade\deprecated-apis.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/deprecated-apis.md) | HandedOffSuccess | [Details](#74ba99e59878af9f9f618708fa55bc945de058961790)
+ [dev-itpro\migration-upgrade\deprecated-features.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/deprecated-features.md) | HandedOffSuccess | [Details](#951c5f5d2084d863647afb602570041384a9e8641791)
+ [dev-itpro\migration-upgrade\download-hotfix-lcs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/download-hotfix-lcs.md) | HandedOffSuccess | [Details](#df25010f483fbbdd9384cf67bd59310c2d38b38c1792)
+ [dev-itpro\migration-upgrade\in-memory-real-time-aggregate-models.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/in-memory-real-time-aggregate-models.md) | HandedOffSuccess | [Details](#d35633aafbafedb343b8f0cd305aa2d0b6958a1c1793)
+ [dev-itpro\migration-upgrade\migrate-upgraded-cube-entity-store.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/migrate-upgraded-cube-entity-store.md) | HandedOffSuccess | [Details](#5b9e714ca5e8e335ae04b3d3158bac8cd45f50e91881)
+ [dev-itpro\migration-upgrade\prepare-migration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/prepare-migration.md) | HandedOffSuccess | [Details](#9bdd7df4d48dba023a5d88d623cf2ba7df50ad901883)
+ [dev-itpro\migration-upgrade\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/TOC.md) | HandedOffSuccess | [Details](#d50aa164c4b3df2bb3396a51789463c68f6df43b1885)
+ [dev-itpro\migration-upgrade\update-platform-each-release.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/update-platform-each-release.md) | HandedOffSuccess | [Details](#b130e6a1f855cc783b6b2de1379c24ecd9baf7461886)
+ [dev-itpro\migration-upgrade\upgrade-budget-planning.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/upgrade-budget-planning.md) | HandedOffSuccess | [Details](#3624698d86fd14b3c7ba690e9d16df254a8662551887)
+ [dev-itpro\migration-upgrade\upgrade-data-to-latest-update.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/upgrade-data-to-latest-update.md) | HandedOffSuccess | [Details](#1a2a7b922595a3b279d2871d6fe3a26214565c601888)
+ [dev-itpro\migration-upgrade\upgrade-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/upgrade-home-page.md) | HandedOffSuccess | [Details](#a543202e1e739575e7a2d894fc87980a547f0d4c1889)
+ [dev-itpro\migration-upgrade\upgrade-latest-platform-update.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/upgrade-latest-platform-update.md) | HandedOffSuccess | [Details](#15f34791d328f3a4bdd3752aac16575a402cb0761890)
+ [dev-itpro\migration-upgrade\upgrade-latest-update.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/upgrade-latest-update.md) | HandedOffSuccess | [Details](#2dd60138b8b69daf852f06d5aee4e9eed6f0c1981891)
+ [dev-itpro\migration-upgrade\upgrade-sandbox-environment.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/upgrade-sandbox-environment.md) | HandedOffSuccess | [Details](#17950ed87a8a9c7de9792e015d6dc129daadb3121892)
+ [dev-itpro\migration-upgrade\versions-update-policy.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/versions-update-policy.md) | HandedOffSuccess | [Details](#15cec555193e6e118f2c501a0b928dd24d3e661d1893)
+ [dev-itpro\migration-upgrade\workflow-subsystem.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/workflow-subsystem.md) | HandedOffSuccess | [Details](#6f8be701a1d49a5b1f8c490fa8d47f07f8d3527a1895)
+ [dev-itpro\mobile-apps\company-directory-mobile-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/mobile-apps/company-directory-mobile-workspace.md) | HandedOffSuccess | [Details](#afda8eb49fd8baa74abdac89fdf265631fda595b1896)
+ [dev-itpro\mobile-apps\invoice-approval-mobile-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/mobile-apps/invoice-approval-mobile-workspace.md) | HandedOffSuccess | [Details](#70f3e0fe53fc0b1daa471a7022f5659d09caa8671897)
+ [dev-itpro\mobile-apps\manager-self-service-mobile-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/mobile-apps/manager-self-service-mobile-workspace.md) | HandedOffSuccess | [Details](#6178a9b1b5497672d68dee84a09800307ea60f541898)
+ [dev-itpro\mobile-apps\Mobile-app-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/mobile-apps/Mobile-app-home-page.md) | HandedOffSuccess | [Details](#bbc182824007ab8aba031acff82f9ebc45c5d4e91920)
+ [dev-itpro\mobile-apps\mobile-platform.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/mobile-apps/mobile-platform.md) | HandedOffSuccess | [Details](#2f55f222a906181b24da4ce652e02c216ff12b311921)
+ [dev-itpro\mobile-apps\mobile-workspaces-released.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/mobile-apps/mobile-workspaces-released.md) | HandedOffSuccess | [Details](#e5633d1db9593e2e0cb8bb4703de76766ab706b01923)
+ [dev-itpro\mobile-apps\publish-mobile-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/mobile-apps/publish-mobile-workspace.md) | HandedOffSuccess | [Details](#4167180b79b7726a347804978e58195e4eee0fdc1924)
+ [dev-itpro\office-integration\customize-open-office-menu.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/office-integration/customize-open-office-menu.md) | HandedOffSuccess | [Details](#039bc54efb1c95d8f3d2a3f23662d98f7b9bc0b01925)
+ [dev-itpro\office-integration\office-integration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/office-integration/office-integration.md) | HandedOffSuccess | [Details](#be9c00932d177fda5071d345c4cd5505dbf2f2271954)
+ [dev-itpro\office-integration\office-integration-troubleshooting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/office-integration/office-integration-troubleshooting.md) | HandedOffSuccess | [Details](#2f3d24c8b6c6d184326f69d03a743decfb2e0a311952)
+ [dev-itpro\office-integration\office-integration-tutorial.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/office-integration/office-integration-tutorial.md) | HandedOffSuccess | [Details](#00b88a757c3088ea6d294960bd497753710241721953)
+ [dev-itpro\office-integration\use-excel-add-in.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/office-integration/use-excel-add-in.md) | HandedOffSuccess | [Details](#f8eb036fc246ac0561d34519ae7bd0a713a4f93d1955)
+ [dev-itpro\perf-test\continuous-build-test-automation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/perf-test/continuous-build-test-automation.md) | HandedOffSuccess | [Details](#587cb0a011577498e7483590fcccda161aefa6441956)
+ [dev-itpro\perf-test\perfsdk-tutorial.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/perf-test/perfsdk-tutorial.md) | HandedOffSuccess | [Details](#cf38ff7f33be78c8a078d6c1fbe3a9645090158c2073)
+ [dev-itpro\perf-test\testing-validation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/perf-test/testing-validation.md) | HandedOffSuccess | [Details](#e60e94d3fcbfd4fb90f739f7ed6700fbc219d4ca2075)
+ [dev-itpro\sysadmin\batch-processing-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/sysadmin/batch-processing-overview.md) | HandedOffSuccess | [Details](#f0ac560105e4b72ea69644dcfe97650e531ecfb32078)
+ [dev-itpro\sysadmin\batch-server-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/sysadmin/batch-server-overview.md) | HandedOffSuccess | [Details](#a7aa9fd0583006d8b4a98c0bf68d158fbb11141f2079)
+ [dev-itpro\sysadmin\cross-company-data-sharing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/sysadmin/cross-company-data-sharing.md) | HandedOffSuccess | [Details](#a63c3321d9af001964604b553c308cf7fada53842080)
+ [dev-itpro\sysadmin\faq-platform-monthly-updates.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/sysadmin/faq-platform-monthly-updates.md) | HandedOffSuccess | [Details](#6fa7375bb137df6fa626eadfb888e11fc2437d222081)
+ [dev-itpro\sysadmin\legal-terms-privacy-statement.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/sysadmin/legal-terms-privacy-statement.md) | HandedOffSuccess | [Details](#c6910fd8ad917c22db6ebba4855d3121075f4a102082)
+ [dev-itpro\sysadmin\license-codes-configuration-keys-report.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/sysadmin/license-codes-configuration-keys-report.md) | HandedOffSuccess | [Details](#0d1bb16e26c411f65bd59ba1f9bdef067e93c3672083)
+ [dev-itpro\sysadmin\maintenance-mode.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/sysadmin/maintenance-mode.md) | HandedOffSuccess | [Details](#1c7b5d51bd600acd17d03c8534b8123fdc2a2a982084)
+ [dev-itpro\sysadmin\role-based-security.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/sysadmin/role-based-security.md) | HandedOffSuccess | [Details](#1df98b3039eb7224ec058bb9c871757012ea73df2096)
+ [dev-itpro\sysadmin\security-architecture.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/sysadmin/security-architecture.md) | HandedOffSuccess | [Details](#f94e373e2633cb44fff7c4cfd24b33e5fbf7d05c2097)
+ [dev-itpro\sysadmin\system-administration-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/sysadmin/system-administration-home-page.md) | HandedOffSuccess | [Details](#9b8947be378a58c315f569cb5683ad2db6c138042098)
+ [dev-itpro\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/TOC.md) | HandedOffSuccess | [Details](#fb5db09f8dde915ff679610ca4833056f3bf1c922100)
+ [dev-itpro\user-interface\action-controls.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/action-controls.md) | HandedOffSuccess | [Details](#6aaf4c3f9a28795e4d492716673194abd83651752101)
+ [dev-itpro\user-interface\advanced-selection-form-pattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/advanced-selection-form-pattern.md) | HandedOffSuccess | [Details](#dbd1fab7c5cf64de0295484454e8e6a4a62a1a292103)
+ [dev-itpro\user-interface\bidirectional-support.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/bidirectional-support.md) | HandedOffSuccess | [Details](#25afdeae41b84cad4a889728d5e358e29fd4c54c2104)
+ [dev-itpro\user-interface\build-customer-form.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/build-customer-form.md) | HandedOffSuccess | [Details](#98e330aaa33872f638f314a7696eb4bf18229a862105)
+ [dev-itpro\user-interface\build-navigation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/build-navigation.md) | HandedOffSuccess | [Details](#0df319c8cf1e16f10ef658b025743ef0813586eb2107)
+ [dev-itpro\user-interface\build-rental-charge-type-form.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/build-rental-charge-type-form.md) | HandedOffSuccess | [Details](#f5680f4d0eac14451908e6949503deab34f94e832108)
+ [dev-itpro\user-interface\custom-filter-group-subpattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/custom-filter-group-subpattern.md) | HandedOffSuccess | [Details](#c47a5dcf6e54f5a139bdf728af500e514792023f2118)
+ [dev-itpro\user-interface\customize-field-help.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/customize-field-help.md) | HandedOffSuccess | [Details](#fe6cf3a22377dbc5b8331472c4b438a81716c67e2119)
+ [dev-itpro\user-interface\details-master-form-pattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/details-master-form-pattern.md) | HandedOffSuccess | [Details](#0af077fafe55bc045fba8f102bafb1e38ee7d1152121)
+ [dev-itpro\user-interface\details-transaction-form-pattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/details-transaction-form-pattern.md) | HandedOffSuccess | [Details](#3ae34134e822087210fb381581a0faf4593b2b6b2122)
+ [dev-itpro\user-interface\dialog-form-pattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/dialog-form-pattern.md) | HandedOffSuccess | [Details](#7e1d97d20c3a26c331323b5213d3e42ba2537a0d2123)
+ [dev-itpro\user-interface\enable-accessibility.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/enable-accessibility.md) | HandedOffSuccess | [Details](#16c4483d9e23d7ff1cc4bf27bfa95bf4c1fa47522125)
+ [dev-itpro\user-interface\extensible-control-programming-reference.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/extensible-control-programming-reference.md) | HandedOffSuccess | [Details](#66e4025532ea7dc7b461cdc4c1de11c2770f7d9f2126)
+ [dev-itpro\user-interface\factbox-form-patterns.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/factbox-form-patterns.md) | HandedOffSuccess | [Details](#63cf6f9507e43a730caf6d05865a3e048509f2772128)
+ [dev-itpro\user-interface\fields-field-groups-subpattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/fields-field-groups-subpattern.md) | HandedOffSuccess | [Details](#7c10998fd9cb8a3eabb4520f8d323cd2937247bb2129)
+ [dev-itpro\user-interface\file-upload-control.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/file-upload-control.md) | HandedOffSuccess | [Details](#9b7b235c52ff052f04657b3e2c89e6e9ec30ff4f2130)
+ [dev-itpro\user-interface\filtering.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/filtering.md) | HandedOffSuccess | [Details](#d683b475b5cc3b4106f52b14f7bac8f34523b5e72132)
+ [dev-itpro\user-interface\filters-toolbar-subpattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/filters-toolbar-subpattern.md) | HandedOffSuccess | [Details](#292d6d98f1c18a1b3683425e23dc7aae2aa230972133)
+ [dev-itpro\user-interface\form-styles-patterns.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/form-styles-patterns.md) | HandedOffSuccess | [Details](#677e5141b2c39f30e67bf5de6e802a971cb15e482134)
+ [dev-itpro\user-interface\gantt-development-guide.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/gantt-development-guide.md) | HandedOffSuccess | [Details](#8224a9f10307a6fd733b8ce28f4317b89888b05f2135)
+ [dev-itpro\user-interface\images-form-grid.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/images-form-grid.md) | HandedOffSuccess | [Details](#9d70ea476860090d6296c15206d1dd96f36999142140)
+ [dev-itpro\user-interface\keyboard-shortcuts-controls.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/keyboard-shortcuts-controls.md) | HandedOffSuccess | [Details](#405ea92aedb13bc43064db287110cba7ea2a5e8f2141)
+ [dev-itpro\user-interface\list-page-form-pattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/list-page-form-pattern.md) | HandedOffSuccess | [Details](#301b00ee889cd50861e4f07af01b7247051719b02142)
+ [dev-itpro\user-interface\list-panel-subpattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/list-panel-subpattern.md) | HandedOffSuccess | [Details](#ae37f783bb4095ab9d72192d90c48ef951db60e82143)
+ [dev-itpro\user-interface\lookup-form-pattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/lookup-form-pattern.md) | HandedOffSuccess | [Details](#3de99feecb473019236397775e8c98975eefc4322144)
+ [dev-itpro\user-interface\messaging-api-center-bar-details.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/messaging-api-center-bar-details.md) | HandedOffSuccess | [Details](#0870189d929f760196c3a1fc68436b9fa54a9ed32626)
+ [dev-itpro\user-interface\messaging-user.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/messaging-user.md) | HandedOffSuccess | [Details](#62a4ecff0582d220beaa759b1b5b4a0815ff6df72627)
+ [dev-itpro\user-interface\nested-simple-list-details-subpattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/nested-simple-list-details-subpattern.md) | HandedOffSuccess | [Details](#1f7ebe588dd76bdc6827e6c00ae71bb5f46168922628)
+ [dev-itpro\user-interface\page-layout.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/page-layout.md) | HandedOffSuccess | [Details](#634328328dd7352d1f9ee24a3eaa342783e322502629)
+ [dev-itpro\user-interface\page-navigation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/page-navigation.md) | HandedOffSuccess | [Details](#d8c0d41181d64a8ff5caabd704f05b8256dbb33d2630)
+ [dev-itpro\user-interface\powerapps-host-control.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/powerapps-host-control.md) | HandedOffSuccess | [Details](#5ea3a7e5008c59b5ec89d5ae240f793a9949a8a12631)
+ [dev-itpro\user-interface\public-javascript-apis.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/public-javascript-apis.md) | HandedOffSuccess | [Details](#6ca511498905643e6d7b798caf8b5c5be67aa3962632)
+ [dev-itpro\user-interface\section-chart-form-pattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/section-chart-form-pattern.md) | HandedOffSuccess | [Details](#f55cf0fb7c1442a4d8a45ef4d379862a51e4f7c62633)
+ [dev-itpro\user-interface\section-list-form-pattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/section-list-form-pattern.md) | HandedOffSuccess | [Details](#e24bdb4ed33e419ecacf9f292f1540fbabe584a52634)
+ [dev-itpro\user-interface\slider-messagebox.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/slider-messagebox.md) | HandedOffSuccess | [Details](#3a355cfb94fc59380b4d5dc5ad68e809c963deb72645)
+ [dev-itpro\user-interface\specify-color-font-background-controls.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/specify-color-font-background-controls.md) | HandedOffSuccess | [Details](#f84457f0a42d2a6c8ae761719e5ccbcefeef25ca2646)
+ [dev-itpro\user-interface\task-recorder.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/task-recorder.md) | HandedOffSuccess | [Details](#5b6f2d3725e40b64417b13b08d31ae35b89fc1f52655)
+ [dev-itpro\user-interface\task-recorder-control-text.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/task-recorder-control-text.md) | HandedOffSuccess | [Details](#294fce6df2a9ec85d22f69f40d8f3ca046f953122652)
+ [dev-itpro\user-interface\task-recorder-training-docs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/task-recorder-training-docs.md) | HandedOffSuccess | [Details](#d7068c8dec4ac4de2ae332e76a6353a9efd5b3322654)
+ [dev-itpro\user-interface\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/TOC.md) | HandedOffSuccess | [Details](#7fcf3728aa5e5e5abbaa0a5e0f56f85d0522e7382659)
+ [dev-itpro\user-interface\user-interface-development-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/user-interface-development-home-page.md) | HandedOffSuccess | [Details](#d4ac009c70387522c489e6a0a66e27910bc1582b2662)
+ [dev-itpro\user-interface\wizard-form-pattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/wizard-form-pattern.md) | HandedOffSuccess | [Details](#eb153c514af2f0405214049b8cf5c35e637fdfd72663)
+ [dev-itpro\user-interface\workspace-form-pattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/workspace-form-pattern.md) | HandedOffSuccess | [Details](#e3fd80fa052c8a520ca1fa6ba82ba35a6ffe5d392665)
+ [financials\accounts-payable\accounting-distributions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/accounting-distributions.md) | HandedOffSuccess | [Details](#ae1cda425ade2428b87ad4d7a147ccc1ff98e5542667)
+ [financials\accounts-payable\accounting-distributions-subledger-journal-entries-vendor-invoices.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/accounting-distributions-subledger-journal-entries-vendor-invoices.md) | HandedOffSuccess | [Details](#35133c305457b53abdf761f7fd557bf81bc28cde2666)
+ [financials\accounts-payable\accounting-source-explorer.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/accounting-source-explorer.md) | HandedOffSuccess | [Details](#c16b78eacf00fb81208d562576954426df083c332668)
+ [financials\accounts-payable\accounts-payable.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/accounts-payable.md) | HandedOffSuccess | [Details](#4b03825057c4b42781043f15c067bdb520addc2e2671)
+ [financials\accounts-payable\accounts-payable-invoice-matching.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/accounts-payable-invoice-matching.md) | HandedOffSuccess | [Details](#75aefa4fe184459c2f8ca454a15e404e7938d0f72669)
+ [financials\accounts-payable\accounts-payable-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/accounts-payable-overview.md) | HandedOffSuccess | [Details](#2a61cb86a4f2cfc6d701445c139e22df0db44f8c2670)
+ [financials\accounts-payable\centralized-payments-accounts-payable.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/centralized-payments-accounts-payable.md) | HandedOffSuccess | [Details](#23541bb2d82b552cdc9e0ada4aa4ec473f498d0b2672)
+ [financials\accounts-payable\create-vendor-payments-payment-proposal.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/create-vendor-payments-payment-proposal.md) | HandedOffSuccess | [Details](#b351ea58a25c763dcf90ff1c61e0e3b3cba6c34a2673)
+ [financials\accounts-payable\default-offset-accounts-vendor-invoice-journals.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/default-offset-accounts-vendor-invoice-journals.md) | HandedOffSuccess | [Details](#4691ac4456b08084bcd93f7a8447719a15299c932674)
+ [financials\accounts-payable\electronic reporting sample vendor checks.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/electronic%20reporting%20sample%20vendor%20checks.md) | HandedOffSuccess | [Details](#883cb85974227f385c5b401f9fb3efa825381f962675)
+ [financials\accounts-payable\invoice-matching-intercompany-purchase-orders.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/invoice-matching-intercompany-purchase-orders.md) | HandedOffSuccess | [Details](#378a054273be4aa65acfb453cb4f53016f6da21b2676)
+ [financials\accounts-payable\mobile-invoice-approvals.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/mobile-invoice-approvals.md) | HandedOffSuccess | [Details](#417c78340b70c94efa4c2e2cd82e230fa4fc72af2711)
+ [financials\accounts-payable\positive-pay-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/positive-pay-overview.md) | HandedOffSuccess | [Details](#7c60a7f9444913c5475d08f959944d463cfcbab02712)
+ [financials\accounts-payable\prepayments-invoices-vs-prepayments.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/prepayments-invoices-vs-prepayments.md) | HandedOffSuccess | [Details](#c4f127007cea1d8ccd0b4e9ea637f0674775278d2713)
+ [financials\accounts-payable\project-cost-accrual-purchase-receipts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/project-cost-accrual-purchase-receipts.md) | HandedOffSuccess | [Details](#b46929d2991f3ec1b38d54ddc57de632aa9b01b92714)
+ [financials\accounts-payable\project-invoicing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/project-invoicing.md) | HandedOffSuccess | [Details](#9d95bb3c663095ca7d0c7a0fc1935b7242510b452715)
+ [financials\accounts-payable\resolve-invoice-totals-invoice-matching-discrepancies.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/resolve-invoice-totals-invoice-matching-discrepancies.md) | HandedOffSuccess | [Details](#8773773d9686bf5061958fbe414ed1fef7288f812716)
+ [financials\accounts-payable\reverse-vendor-payment.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/reverse-vendor-payment.md) | HandedOffSuccess | [Details](#4f8b77efabe0c002654dac0b80d721a79dc420032717)
+ [financials\accounts-payable\sepa-credit-transfer.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/sepa-credit-transfer.md) | HandedOffSuccess | [Details](#bc14ab554a298d09bb852e96503b4cd3f4b36d3c2718)
+ [financials\accounts-payable\settle-partial-customer-payment-or-final-payment-before-discount.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/settle-partial-customer-payment-or-final-payment-before-discount.md) | HandedOffSuccess | [Details](#08b5fc87fdee476cd978bcc242cea324ac4bcee22720)
+ [financials\accounts-payable\settle-partial-vendor-payment-before-discount-or-final-payment-after.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/settle-partial-vendor-payment-before-discount-or-final-payment-after.md) | HandedOffSuccess | [Details](#1a454a487a0879234eee76a39b2f095d1d80ea1e2721)
+ [financials\accounts-payable\settle-partial-vendor-payment-discounts-vendor-credit-notes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/settle-partial-vendor-payment-discounts-vendor-credit-notes.md) | HandedOffSuccess | [Details](#f227a630f7d1245d5db810d6d48df2b20f6991852722)
+ [financials\accounts-payable\settle-partial-vendor-payment-multiple-discount-periods.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/settle-partial-vendor-payment-multiple-discount-periods.md) | HandedOffSuccess | [Details](#b2f75266283e633438978757504782f395c54bed2723)
+ [financials\accounts-payable\settle-partial-vendor-payment-or-final-payment-before-discount.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/settle-partial-vendor-payment-or-final-payment-before-discount.md) | HandedOffSuccess | [Details](#6cfc342121e0c5919784911275234fc99c85ede82724)
+ [financials\accounts-payable\set-up-generate-positive-pay-files.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/set-up-generate-positive-pay-files.md) | HandedOffSuccess | [Details](#fc4269fc8bf8319a2a2f4e3769f0ffb31d5ef79d2719)
+ [financials\accounts-payable\single-voucher-multiple-customer-vendor-records.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/single-voucher-multiple-customer-vendor-records.md) | HandedOffSuccess | [Details](#31040ff14b99a9b351268feb88698ac706befb552725)
+ [financials\accounts-payable\take-cash-discount-outside-cash-discount-timeframe.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/take-cash-discount-outside-cash-discount-timeframe.md) | HandedOffSuccess | [Details](#15da62064521ec614764c42b57a20d32b110587a2726)
+ [financials\accounts-payable\take-discount-more-calculated-discount-vendor-payment.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/take-discount-more-calculated-discount-vendor-payment.md) | HandedOffSuccess | [Details](#08d7c4981aba7e7c092a6f21d3b63635e76437bf2727)
+ [financials\accounts-payable\three-way-matching-policies.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/three-way-matching-policies.md) | HandedOffSuccess | [Details](#8ae07088fec05ad416ce1891dd0d0ecd489364ca2728)
+ [financials\accounts-payable\vendor-invoices-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/vendor-invoices-overview.md) | HandedOffSuccess | [Details](#16ff8ebb0e620f45c4d290ee5076d5505abf34362730)
+ [financials\accounts-payable\vendor-payments-partial-amount.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/vendor-payments-partial-amount.md) | HandedOffSuccess | [Details](#48812d33be6b84bbe0eac15adc4bd41a3ea8706b2731)
+ [financials\accounts-payable\Vendor-payments-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/Vendor-payments-workspace.md) | HandedOffSuccess | [Details](#b3ded881fbf10745b4bcc593096bf21b65ad6bc92732)
+ [financials\accounts-payable\vendor-portal-invoicing-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/vendor-portal-invoicing-workspace.md) | HandedOffSuccess | [Details](#a483e82cc4735fe3c5df4260605417473eb4b0aa2733)
+ [financials\accounts-payable\vendor-posting-profiles.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/vendor-posting-profiles.md) | HandedOffSuccess | [Details](#2dbb8874323631a9bddb226834adf87d014c1c2f2734)
+ [financials\accounts-receivable\collections-credit-accounts-receivable.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-receivable/collections-credit-accounts-receivable.md) | HandedOffSuccess | [Details](#6c697a6409591af08be8d29fa1f32c383930de442741)
+ [financials\accounts-receivable\credit-card-authorizations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-receivable/credit-card-authorizations.md) | HandedOffSuccess | [Details](#a5b3dc7710ebbce50366ca9299bfb30dffc031872744)
+ [financials\accounts-receivable\credit-collections-power-bi.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-receivable/credit-collections-power-bi.md) | HandedOffSuccess | [Details](#70bcf07db3abcc981db5702a80b44c350dce7f832745)
+ [financials\budgeting\basic-budgeting-overview-configuration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/budgeting/basic-budgeting-overview-configuration.md) | HandedOffSuccess | [Details](#f35db274a6b14f6bae185b69348d3829c77801b52761)
+ [financials\budgeting\budget-control-overview-configuration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/budgeting/budget-control-overview-configuration.md) | HandedOffSuccess | [Details](#a9278e82e9da36a02379a2ea1f627ebb29cf8f1f2762)
+ [financials\budgeting\budgeting-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/budgeting/budgeting-overview.md) | HandedOffSuccess | [Details](#7c1683a69f2aa8c881c1ed541d0be51a2391e4842769)
+ [financials\budgeting\budget-plan.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/budgeting/budget-plan.md) | HandedOffSuccess | [Details](#11b5ffacef06fd3e83c61cd14da11ad645eec3352763)
+ [financials\budgeting\budget-planning-data-allocation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/budgeting/budget-planning-data-allocation.md) | HandedOffSuccess | [Details](#fc85775a27a160e951593bb9d40a6294af3ca3292764)
+ [financials\budgeting\budget-planning-excel-templates.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/budgeting/budget-planning-excel-templates.md) | HandedOffSuccess | [Details](#9f8073a2eb0d1b61d6a168f43eba983d113cf4532765)
+ [financials\budgeting\budget-planning-justification-docs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/budgeting/budget-planning-justification-docs.md) | HandedOffSuccess | [Details](#1d23c0e1725a39d25d2be8971f541b2c31bbe8592767)
+ [financials\budgeting\budget-planning-overview-configuration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/budgeting/budget-planning-overview-configuration.md) | HandedOffSuccess | [Details](#dfe00ebc1812c4a0dbec62420d3334a944062c092768)
+ [financials\budgeting\consolidation-account-groups-consolidation-accounts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/budgeting/consolidation-account-groups-consolidation-accounts.md) | HandedOffSuccess | [Details](#835669de01deb1ba0dcc5752d9d6d8f498e6ff7d2770)
+ [financials\budgeting\position-forecasting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/budgeting/position-forecasting.md) | HandedOffSuccess | [Details](#2dffb2634701210852b4b146a762434cf6df07e32895)
+ [financials\cash-bank-management\advanced-bank-reconciliation-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cash-bank-management/advanced-bank-reconciliation-overview.md) | HandedOffSuccess | [Details](#67cd622d7766e5b177ccc58398431b007e8bda4e2897)
+ [financials\cash-bank-management\Bank-management-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cash-bank-management/Bank-management-workspace.md) | HandedOffSuccess | [Details](#59e91f855f3c40fee61b12023a85b8ae51317e882898)
+ [financials\cash-bank-management\cash-flow-forecasting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cash-bank-management/cash-flow-forecasting.md) | HandedOffSuccess | [Details](#9e4e58152188115105387325268bc4f1eb8faad32902)
+ [financials\cash-bank-management\Cash-Overview-Power-BI-content.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cash-bank-management/Cash-Overview-Power-BI-content.md) | HandedOffSuccess | [Details](#086b12e1c1422f7e12eb5ac71d1b74a4af5a74a02903)
+ [financials\cash-bank-management\configure-advanced-bank-reconciliation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cash-bank-management/configure-advanced-bank-reconciliation.md) | HandedOffSuccess | [Details](#89f895a9de9fa9863459ae6261b8c429d559d4822904)
+ [financials\cash-bank-management\configure-settlement.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cash-bank-management/configure-settlement.md) | HandedOffSuccess | [Details](#059513de66827aa3a839b9eb06973ec4c1549f732905)
+ [financials\cash-bank-management\import-bank-statement-file-failed-incorrect-results.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cash-bank-management/import-bank-statement-file-failed-incorrect-results.md) | HandedOffSuccess | [Details](#33b7a499caf9292e44c155a0e1bd6a8929558be52907)
+ [financials\cash-bank-management\postdated-checks.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cash-bank-management/postdated-checks.md) | HandedOffSuccess | [Details](#95a798d5c0007c8b85f99b8024a8ef76d4aa49f02917)
+ [financials\cash-bank-management\reconcile-bank-statements-advanced-bank-reconciliation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cash-bank-management/reconcile-bank-statements-advanced-bank-reconciliation.md) | HandedOffSuccess | [Details](#eb7fd01874b08417933ddf575c7d6ff866b4e6f82918)
+ [financials\cash-bank-management\set-up-advanced-bank-reconciliation-import-process.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cash-bank-management/set-up-advanced-bank-reconciliation-import-process.md) | HandedOffSuccess | [Details](#a4d1c81386c0ef03391f3127fa51a6b09a5142b32919)
+ [financials\cash-bank-management\set-up-bank-reconciliation-matching-rules.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cash-bank-management/set-up-bank-reconciliation-matching-rules.md) | HandedOffSuccess | [Details](#60cd6a7f7b4d5c3acc68aa27c920f42f1d4b910e2920)
+ [financials\cost-accounting\access-rights-cost-object-controller.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cost-accounting/access-rights-cost-object-controller.md) | HandedOffSuccess | [Details](#837d7058f6fc165bfbf2b74a0f68b8398946e9792925)
+ [financials\cost-accounting\allocation-bases.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cost-accounting/allocation-bases.md) | HandedOffSuccess | [Details](#1a7f5c721591cdfe0ca7ac0ea6c3f8c76d5f6e5c2926)
+ [financials\cost-accounting\cost-accounting-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cost-accounting/cost-accounting-home-page.md) | HandedOffSuccess | [Details](#4514c6dbf014720c29e79889bf1fcc0efd6cd3ec2927)
+ [financials\cost-accounting\cost-controlling-mobile-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cost-accounting/cost-controlling-mobile-workspace.md) | HandedOffSuccess | [Details](#dbedf75a6f61a9e2bc644056f0dd1e7499cedc422929)
+ [financials\cost-accounting\cost-control-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cost-accounting/cost-control-workspace.md) | HandedOffSuccess | [Details](#d49dc609a1408eedde902f4a22174306b47247472928)
+ [financials\cost-accounting\cost-rollup.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cost-accounting/cost-rollup.md) | HandedOffSuccess | [Details](#84586fc799f6a126d93a4155f03fab7e2317e7ac2932)
+ [financials\cost-accounting\dimension-hierarchy.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cost-accounting/dimension-hierarchy.md) | HandedOffSuccess | [Details](#6bf1769125cf5ee58bd54d5b74ec4d1c942646ac2933)
+ [financials\cost-accounting\overhead-calculation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cost-accounting/overhead-calculation.md) | HandedOffSuccess | [Details](#c040a50d9962d7a900fbef285ea1f1baea1240332948)
+ [financials\cost-accounting\statistical-measure-provider-template.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cost-accounting/statistical-measure-provider-template.md) | HandedOffSuccess | [Details](#67049085a0b962be871040e32015e033478267622949)
+ [financials\cost-accounting\terms-cost-accounting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cost-accounting/terms-cost-accounting.md) | HandedOffSuccess | [Details](#35b8e510e7e2c13aebb73f46d20b16275d0974322950)
+ [financials\expense-management\expense-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/expense-management/expense-management.md) | HandedOffSuccess | [Details](#84841521483588765510dd9e1ce92a32e493ca8d2953)
+ [financials\expense-management\expense-management-mobile-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/expense-management/expense-management-mobile-workspace.md) | HandedOffSuccess | [Details](#0e52d1c5dde7f79c4a8ac5ac2d9c3b25bba9c2cd2952)
+ [financials\expense-management\plan-expense-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/expense-management/plan-expense-management.md) | HandedOffSuccess | [Details](#edd3d8ca760c1453ae7cf8d5ff2fdfdedbb022c42956)
+ [financials\fixed-assets\depreciation-book-upgrade-considerations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/fixed-assets/depreciation-book-upgrade-considerations.md) | HandedOffSuccess | [Details](#116f9e8fbf8ed6ecbd2a1163f17e52ba800616942964)
+ [financials\fixed-assets\depreciation-methods-conventions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/fixed-assets/depreciation-methods-conventions.md) | HandedOffSuccess | [Details](#8b0361edb0f2dc7484fb9046ce4793fe9397e3d12966)
+ [financials\fixed-assets\fixed-asset-management-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/fixed-assets/fixed-asset-management-workspace.md) | HandedOffSuccess | [Details](#ca1446017555f840b369262a2ca16c66b5eebd882974)
+ [financials\fixed-assets\fixed-asset-value-model-depreciation-book-merge.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/fixed-assets/fixed-asset-value-model-depreciation-book-merge.md) | HandedOffSuccess | [Details](#add41ceb1dd31d5b5aa26916114d7d7864cb16262976)
+ [financials\general-ledger\audit-policy-rules.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/audit-policy-rules.md) | HandedOffSuccess | [Details](#112ff0364584fec10cbdec73f3bbbf2bfcd410472990)
+ [financials\general-ledger\audit-policy-violations-cases.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/audit-policy-violations-cases.md) | HandedOffSuccess | [Details](#bf7084413974c8dda37a0ad79c214bb56a4dd61c2991)
+ [financials\general-ledger\balance-sheet-financial-reports.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/balance-sheet-financial-reports.md) | HandedOffSuccess | [Details](#1c9b35430a6dfb0c34df40659ab2c2a135be74f42992)
+ [financials\general-ledger\elimination-rules.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/elimination-rules.md) | HandedOffSuccess | [Details](#76af350f37109260a757ccc0b93908637d0579dc2996)
+ [financials\general-ledger\example-balanced-journals-interunit-accounting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/example-balanced-journals-interunit-accounting.md) | HandedOffSuccess | [Details](#9cf725f289f5d7e2d6b6b809771cd1ad24e2177f2998)
+ [financials\general-ledger\example-posting-definitions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/example-posting-definitions.md) | HandedOffSuccess | [Details](#410504f96792f27bb44f2378a5d1f7376580244e2999)
+ [financials\general-ledger\financial-period-close-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/financial-period-close-workspace.md) | HandedOffSuccess | [Details](#7a296f2ff420bec3e1e241deca63f5179a40f31a3001)
+ [financials\general-ledger\financial-reporting-getting-started.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/financial-reporting-getting-started.md) | HandedOffSuccess | [Details](#fedde78a563939fd7080e748c412c89c715868233002)
+ [financials\general-ledger\general-journal-processing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/general-journal-processing.md) | HandedOffSuccess | [Details](#244eada4202106b65198e3d6e3d0dedaa54866323004)
+ [financials\general-ledger\import-currency-exchange-rates.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/import-currency-exchange-rates.md) | HandedOffSuccess | [Details](#2d0654d6dbed3b4fe56b8918194132787f66af803007)
+ [financials\general-ledger\income-statement-financial-report.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/income-statement-financial-report.md) | HandedOffSuccess | [Details](#f07aea0b87bc3e09982f9ba248d3c28540fd2dc53008)
+ [financials\general-ledger\indirect-taxes-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/indirect-taxes-overview.md) | HandedOffSuccess | [Details](#415928125c14dfc69020b712f281835701ba2f833009)
+ [financials\general-ledger\ledger-allocation-rules.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/ledger-allocation-rules.md) | HandedOffSuccess | [Details](#0ce91e475b7183c09b7795dd7212923311252a033011)
+ [financials\general-ledger\ledger-journal-types.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/ledger-journal-types.md) | HandedOffSuccess | [Details](#624f38a7348ede3cc9e6fb7ce0b78a61b1452b613012)
+ [financials\general-ledger\open-lines-excel-journals-documents.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/open-lines-excel-journals-documents.md) | HandedOffSuccess | [Details](#1fed8d162a37736883365fa765a059e5beff06be3020)
+ [financials\general-ledger\posting-definitions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/posting-definitions.md) | HandedOffSuccess | [Details](#1d984362379e0eb752d5ddeb794a7347e50b8a103022)
+ [financials\general-ledger\process-allocations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/process-allocations.md) | HandedOffSuccess | [Details](#2ee7601de7927a94f7dab5df4ced1c5cb240667c3023)
+ [financials\general-ledger\trial-balance-financial-reports.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/trial-balance-financial-reports.md) | HandedOffSuccess | [Details](#86e8e91f2af474999d89bb63ac9e2afad7843c8a3026)
+ [financials\general-ledger\view-financial-reports.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/view-financial-reports.md) | HandedOffSuccess | [Details](#102031174417a33b12c32f6b8185556b8c4701e53027)
+ [financials\includes\banner.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/includes/banner.md) | HandedOffSuccess | [Details](#9d476eca86024585bacecb14eed62204aa415af23031)
+ [financials\index.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/index.md) | HandedOffSuccess | [Details](#30fdd99949ad7cbb05fe341a76dcd2c7d3b917513032)
+ [financials\localizations\apac-aus-business-activity-statement.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/apac-aus-business-activity-statement.md) | HandedOffSuccess | [Details](#20cd164f86f316e33747a3c98781c0e6a71f98133033)
+ [financials\localizations\apac-chn-import-golden-tax-data-entity.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/apac-chn-import-golden-tax-data-entity.md) | HandedOffSuccess | [Details](#1ebb4572220d2e0d9f48a3054048036a67b5abc83038)
+ [financials\localizations\apac-mys-gst.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/apac-mys-gst.md) | HandedOffSuccess | [Details](#e8159fe7853d86eea4e9c68db4de5b55183907473057)
+ [financials\localizations\apac-sgp-generate-gst-05-report.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/apac-sgp-generate-gst-05-report.md) | HandedOffSuccess | [Details](#3a67ad757b6b6a703a3701253035ac0c677bc4263058)
+ [financials\localizations\emea-advance-holders.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-advance-holders.md) | HandedOffSuccess | [Details](#fedcd2b4756faddc20fe6f304e4448949acdaa613063)
+ [financials\localizations\emea-advance-holders-transactions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-advance-holders-transactions.md) | HandedOffSuccess | [Details](#6424d371fb2cfdbfb657931f982670755d4d41553062)
+ [financials\localizations\emea-compensation-customer-vendor-transactions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-compensation-customer-vendor-transactions.md) | HandedOffSuccess | [Details](#4690779974a49d21f21d6df4fc2c8399db9c9e513076)
+ [financials\localizations\emea-entry-certificates.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-entry-certificates.md) | HandedOffSuccess | [Details](#5635ac9705d3a367c724f34ba5dd27424cec1af93091)
+ [financials\localizations\emea-fra-commitments-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-fra-commitments-public-sector.md) | HandedOffSuccess | [Details](#da89e6b4eada006584ef5524c8902f6e9e9c7cd73109)
+ [financials\localizations\emea-fra-titres-de-recette-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-fra-titres-de-recette-public-sector.md) | HandedOffSuccess | [Details](#d384fac6891092baf930189b5a999951a228fe4d3117)
+ [financials\localizations\emea-fra-vendor-invoice-payment-holds-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-fra-vendor-invoice-payment-holds-public-sector.md) | HandedOffSuccess | [Details](#6f8c7574b0f3c6a8d682522b5edc386be5bcb1653118)
+ [financials\localizations\emea-gbr-cis-construction-industry-scheme.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-gbr-cis-construction-industry-scheme.md) | HandedOffSuccess | [Details](#5616eb677761ce9ca3d40bd198aa9d7cfdc3be703119)
+ [financials\localizations\emea-intrastat.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-intrastat.md) | HandedOffSuccess | [Details](#6d1141d597e95b0d5cabf77c0248697d256b102a3124)
+ [financials\localizations\emea-invoice-issue-deadline.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-invoice-issue-deadline.md) | HandedOffSuccess | [Details](#3fdd9f21964ae6d0c12225feebb6d73e852dc50e3125)
+ [financials\localizations\emea-oioubl-standards-electronic-invoicing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-oioubl-standards-electronic-invoicing.md) | HandedOffSuccess | [Details](#e86177dc4e129fe62826fec71c4773f329a66d0a3142)
+ [financials\localizations\emea-pol-returnable-packages.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-pol-returnable-packages.md) | HandedOffSuccess | [Details](#569be626e629497a8bb81bc4212e227ef2bd59a93148)
+ [financials\localizations\emea-pol-sales-tax-reports.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-pol-sales-tax-reports.md) | HandedOffSuccess | [Details](#9bf538ff6a31f357441b10661d8b0a6f568bd2db3150)
+ [financials\localizations\emea-pol-standard-audit-file-saf.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-pol-standard-audit-file-saf.md) | HandedOffSuccess | [Details](#f874509cb3615cc6542808e677b7d12a7d1735863151)
+ [financials\localizations\emea-registration-ids.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-registration-ids.md) | HandedOffSuccess | [Details](#7e66596d28a5f417b5fb4ac3fbb961ab66769d1e3154)
+ [financials\localizations\emea-set-up-report-inventory-journal-names.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-set-up-report-inventory-journal-names.md) | HandedOffSuccess | [Details](#699bcd5c5cbd1183df29713aae790a6f89a5db973157)
+ [financials\localizations\emea-tax-directives.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-tax-directives.md) | HandedOffSuccess | [Details](#f1907364062dfeae8e062c6bf16b87d43883343b3160)
+ [financials\localizations\noam-usa-form-1099-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/noam-usa-form-1099-public-sector.md) | HandedOffSuccess | [Details](#1da2639b40c7c5c349b2ae0ead39a57bd214ff4d3206)
+ [financials\localizations\noam-usa-year-end-1099-reporting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/noam-usa-year-end-1099-reporting.md) | HandedOffSuccess | [Details](#ea480a56e2b88ed920adc945ad9db1f60b6e8fa13207)
+ [financials\localizations\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/TOC.md) | HandedOffSuccess | [Details](#a629aed406215b4daa984707ff2cab072b260edc3208)
+ [financials\project-management\intercompany-invoicing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/project-management/intercompany-invoicing.md) | HandedOffSuccess | [Details](#205903bb68804a46414410c85eacce03c6df6fc73209)
+ [financials\project-management\overview-project-management-accounting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/project-management/overview-project-management-accounting.md) | HandedOffSuccess | [Details](#12afcde947463b3abf58dea6138653a32dcda6f13226)
+ [financials\project-management\project-contracts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/project-management/project-contracts.md) | HandedOffSuccess | [Details](#2aa70e050bf068a26e2d0d86c26045fc000931eb3227)
+ [financials\project-management\project-forecasts-budgets.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/project-management/project-forecasts-budgets.md) | HandedOffSuccess | [Details](#835a92a8f95c7d75b02f5991cc2528c6a209540a3228)
+ [financials\project-management\project-purchase-orders.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/project-management/project-purchase-orders.md) | HandedOffSuccess | [Details](#9715d33598c0749ff1ad2523f2fa8834987998ed3229)
+ [financials\project-management\project-quotations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/project-management/project-quotations.md) | HandedOffSuccess | [Details](#0906a1600d4bf097a27cabff4d3b51e50f9866313230)
+ [financials\project-management\project-resourcing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/project-management/project-resourcing.md) | HandedOffSuccess | [Details](#a7275e9ad8d655d0d2ee5ba90a792775dec0cf053231)
+ [financials\project-management\project-time-entry-mobile-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/project-management/project-time-entry-mobile-workspace.md) | HandedOffSuccess | [Details](#d80dea89db1fbe270b96063f3818ec3ac95239c83232)
+ [financials\project-management\work-breakdown-structures.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/project-management/work-breakdown-structures.md) | HandedOffSuccess | [Details](#7b9ca1c14d01c7ed3b18ed8417d23db1ef5e5ee23233)
+ [financials\public-sector\accounts-payable-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/public-sector/accounts-payable-public-sector.md) | HandedOffSuccess | [Details](#855eb8777b50fb610b90c37a10e37062a3c4bdfe3234)
+ [financials\public-sector\funds-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/public-sector/funds-public-sector.md) | HandedOffSuccess | [Details](#21d610c169878b156aeefe1d20bd6ea183deae793243)
+ [financials\public-sector\one-time-vendors-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/public-sector/one-time-vendors-public-sector.md) | HandedOffSuccess | [Details](#639479834464b6a68579fb6fca9e4e0c1832a1213246)
+ [financials\public-sector\plan-public-sector-functionality.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/public-sector/plan-public-sector-functionality.md) | HandedOffSuccess | [Details](#ec202de96ac9397f3d9b24be7dc75731fad798163248)
+ [financials\public-sector\procurement-sourcing-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/public-sector/procurement-sourcing-public-sector.md) | HandedOffSuccess | [Details](#cf1fbe904d70a26fb7692e921d0465707b8b422a3251)
+ [financials\public-sector\public-sector-functionality.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/public-sector/public-sector-functionality.md) | HandedOffSuccess | [Details](#7a12c9678e60ab10d4693f1d9d20b77e31b7d84b3252)
+ [financials\public-sector\security-roles-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/public-sector/security-roles-public-sector.md) | HandedOffSuccess | [Details](#7ab18fef7d2373fcc682ecacf83a981f067fae993255)
+ [financials\public-sector\settlement-priority-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/public-sector/settlement-priority-public-sector.md) | HandedOffSuccess | [Details](#f9b77ee5de2f333e7791617694b66b18fe385c4d3256)
+ [financials\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/TOC.md) | HandedOffSuccess | [Details](#9f3e858b6022d8d64d319aad087e5b0aefccc0223258)
+ [generate-electronic-documents-update-application-data.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/generate-electronic-documents-update-application-data.md) | HandedOffSuccess | [Details](#7e4e0acb374fe091c0e099355204116345c629973259)
+ [hr\create-fixed-compensation-plans.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/hr/create-fixed-compensation-plans.md) | HandedOffSuccess | [Details](#92237f2dda486f71cabe414e88e7ee4b69fb44853264)
+ [hr\generate-aca-reports.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/hr/generate-aca-reports.md) | HandedOffSuccess | [Details](#61fa5dd3580c769457ea2cfdc669f68bd3b309803269)
+ [hr\includes\banner.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/hr/includes/banner.md) | HandedOffSuccess | [Details](#b3ee5555504f464ff1719663725564f182f25d643270)
+ [hr\index.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/hr/index.md) | HandedOffSuccess | [Details](#62b7e6d02fc6cd62f7c717eea5d422321c6ec4be3271)
+ [hr\manage-benefit-program.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/hr/manage-benefit-program.md) | HandedOffSuccess | [Details](#09ad9ad22c676c3b117cc39e692c64ef92637dc13273)
+ [hr\personnel-actions-faq.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/hr/personnel-actions-faq.md) | HandedOffSuccess | [Details](#4c17441b70a75f032c900c9360da6c0730cf89ba3281)
+ [hr\process-compensation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/hr/process-compensation.md) | HandedOffSuccess | [Details](#6e30357b0bca8745b69bff19a55828b180c3b8293282)
+ [hr\set-up-company-specific-hr-parameters.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/hr/set-up-company-specific-hr-parameters.md) | HandedOffSuccess | [Details](#3c8abfb543e93df4c96c71d94a082fb2ce2b02223283)
+ [hr\set-up-hr-parameters-across-legal-entities.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/hr/set-up-hr-parameters-across-legal-entities.md) | HandedOffSuccess | [Details](#4345305499531b375c81732032ea0c8f7b27c1dc3284)
+ [hr\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/hr/TOC.md) | HandedOffSuccess | [Details](#55fd00794a0c5b9f732c8b6799325021dbde71c43286)
+ [retail\add-recommendations-control-pos-screen.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/add-recommendations-control-pos-screen.md) | HandedOffSuccess | [Details](#181d30bbe29b270e64363873c65a62a57b4a44583291)
+ [retail\analyze-sales-trends-patterns.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/analyze-sales-trends-patterns.md) | HandedOffSuccess | [Details](#c2e85f6b5e6b5b4e639c6e769a48af37e2dc25dc3292)
+ [retail\assess-customer-product-profitability.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/assess-customer-product-profitability.md) | HandedOffSuccess | [Details](#6408d40254454bcf1b723cc01653ae28ac68af143293)
+ [retail\call-center-catalogs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/call-center-catalogs.md) | HandedOffSuccess | [Details](#8b229700e4d93420a8a3adcdd765aceb07021cb53294)
+ [retail\call-center-functionality.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/call-center-functionality.md) | HandedOffSuccess | [Details](#fd3718b92531a2e959d2cc7c3579a99a27faa1793295)
+ [retail\create-call-center-catalogs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/create-call-center-catalogs.md) | HandedOffSuccess | [Details](#d549a06aa70f08d48fef2984c473fe042889e4613297)
+ [retail\create-manage-attributes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/create-manage-attributes.md) | HandedOffSuccess | [Details](#14cf1b4b26d85e765416fd6cfa8119905f8314a63298)
+ [retail\customer-orders-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/customer-orders-overview.md) | HandedOffSuccess | [Details](#83f106778ffea71555c15029557c3ea73afcf6773299)
+ [retail\define-channel-specific-discounts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/define-channel-specific-discounts.md) | HandedOffSuccess | [Details](#07ad4daad6a031fee72f48b3e63b1dbd1414a78c3300)
+ [retail\define-maintain-channel-clients-registers-hw-stations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/define-maintain-channel-clients-registers-hw-stations.md) | HandedOffSuccess | [Details](#077839e21017261d64203abed3069797813252393301)
+ [retail\define-maintain-retail-channels.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/define-maintain-retail-channels.md) | HandedOffSuccess | [Details](#38e1b394c8c64acc2237f29cef4bfb2982dfcdc03302)
+ [retail\dev-itpro\add-customer-preference-channel.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/add-customer-preference-channel.md) | HandedOffSuccess | [Details](#60be196c7c44d96df0dcfdab99b446694ca8c8523303)
+ [retail\dev-itpro\add-extension-properties.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/add-extension-properties.md) | HandedOffSuccess | [Details](#10bc1b3e3caba074f06a302855730b7450195f433304)
+ [retail\dev-itpro\add-new-custom-control-mpos-screen-layout.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/add-new-custom-control-mpos-screen-layout.md) | HandedOffSuccess | [Details](#1e266b5a76cd476da6c3aa7952971e17068f25783305)
+ [retail\dev-itpro\add-properties-sales-order.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/add-properties-sales-order.md) | HandedOffSuccess | [Details](#eda126f12de9756ff8eded378b6330d753263fff3306)
+ [retail\dev-itpro\commerce-runtime-extensibility.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/commerce-runtime-extensibility.md) | HandedOffSuccess | [Details](#c800dd4a034406bf62b8c6c19248f5e57430f0e33309)
+ [retail\dev-itpro\commerce-runtime-extensibility-trigger.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/commerce-runtime-extensibility-trigger.md) | HandedOffSuccess | [Details](#8028b7e961ae5152474f9ee7b15a6e29c572baec3308)
+ [retail\dev-itpro\commerce-runtime-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/commerce-runtime-overview.md) | HandedOffSuccess | [Details](#5adf442ddf2d27835432c838586bfaa304b7e3d43310)
+ [retail\dev-itpro\configure-authentication-providers.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/configure-authentication-providers.md) | HandedOffSuccess | [Details](#0fef0a80c9ec45955784cb5fbb843b7caa15e4473311)
+ [retail\dev-itpro\configure-online-store.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/configure-online-store.md) | HandedOffSuccess | [Details](#ccb8ee1aa49e79aae4f1d24737526517c1faffc53312)
+ [retail\dev-itpro\create-retail-experience-app.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/create-retail-experience-app.md) | HandedOffSuccess | [Details](#c711f1a7a130beaad3c610f5edab038df85f95233313)
+ [retail\dev-itpro\create-windows-installer-payment-connector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/create-windows-installer-payment-connector.md) | HandedOffSuccess | [Details](#e3682562865a050c965804e955fb5b2979858caa3314)
+ [retail\dev-itpro\define-retail-channel-communications-cdx.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/define-retail-channel-communications-cdx.md) | HandedOffSuccess | [Details](#8e88bd3b02567683ae5fb235c0da10b004c56b6f3315)
+ [retail\dev-itpro\deploy-payment-connector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/deploy-payment-connector.md) | HandedOffSuccess | [Details](#14b984e01594d141a5b62cde974393e150efdf7f3316)
+ [retail\dev-itpro\dev-retail-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/dev-retail-home-page.md) | HandedOffSuccess | [Details](#6e821b8aa50c7f9fbf163184ebf1cc84a1a443e13317)
+ [retail\dev-itpro\ecommerce-platform.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/ecommerce-platform.md) | HandedOffSuccess | [Details](#c1ca867e807674ee237f4d19eb117b70cc23f3583319)
+ [retail\dev-itpro\extend-metadata.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/extend-metadata.md) | HandedOffSuccess | [Details](#b1ae06a0db9cdbbd87b9df54805e8dd584f430af3321)
+ [retail\dev-itpro\extend-retail-server-odata-controller.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/extend-retail-server-odata-controller.md) | HandedOffSuccess | [Details](#65b9d38690c2fb7a8bf6831e69833ca5c96ddb413322)
+ [retail\dev-itpro\hardware-station-extensibility.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/7a8ce2c15a4e80e74cce9415bd10c3171906bc1d/retail/dev-itpro/hardware-station-extensibility.md) | HandedOffFailed | [Details](#b9f109aca4f3580306ac130a2cc100f956feea743323)
+ [retail\dev-itpro\install-retail-hotfix.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/install-retail-hotfix.md) | HandedOffSuccess | [Details](#232015f16e9936737bbf7598067e8b7a9e16a80e3324)
+ [retail\dev-itpro\modern-pos-trigger-extensibility.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/modern-pos-trigger-extensibility.md) | HandedOffSuccess | [Details](#8a3e543ac68f9e54ff10a7014f80591540b4d1e43428)
+ [retail\dev-itpro\n-1-installation-configuration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/n-1-installation-configuration.md) | HandedOffSuccess | [Details](#087a7f17cc84fddecdfea7d43b20d64be10077dd3429)
+ [retail\dev-itpro\odata-controllers-api.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/odata-controllers-api.md) | HandedOffSuccess | [Details](#dbe0cb4b9ee00cf254e75cd2b4ae3b848a37c6843430)
+ [retail\dev-itpro\payments-retail.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/payments-retail.md) | HandedOffSuccess | [Details](#f2a8bf6b0a86773e61498d5d370524fbac1dd2653431)
+ [retail\dev-itpro\provision-dev-vm.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/provision-dev-vm.md) | HandedOffSuccess | [Details](#437a49874a81513fc02714149e59317198506e913432)
+ [retail\dev-itpro\retail-component-events-diagnostics-troubleshooting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/retail-component-events-diagnostics-troubleshooting.md) | HandedOffSuccess | [Details](#295a625dfdc565ddb02239ad498bbb59b7ebbddc3433)
+ [retail\dev-itpro\retail-device-activation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/retail-device-activation.md) | HandedOffSuccess | [Details](#4539689f512450fc6ea467a3d62b8b4d788d69083434)
+ [retail\dev-itpro\retail-modern-pos-architecture.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/retail-modern-pos-architecture.md) | HandedOffSuccess | [Details](#53fe14a206c34fdf1aabcefef74f7628564cd2033435)
+ [retail\dev-itpro\retail-online-store-publishing-architecture.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/retail-online-store-publishing-architecture.md) | HandedOffSuccess | [Details](#c53109ecfd8561c32c77b12419549d0e478e04df3437)
+ [retail\dev-itpro\retail-sdk\integrate-retail-sdk-continuous-build.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/retail-sdk/integrate-retail-sdk-continuous-build.md) | HandedOffSuccess | [Details](#177bc86875cd12bc14395e0373802b177a0dba5f3438)
+ [retail\dev-itpro\retail-sdk\retail-sdk-extensibility-samples.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/retail-sdk/retail-sdk-extensibility-samples.md) | HandedOffSuccess | [Details](#b254f8d27815438a8032bd9aa53623b6539030a33483)
+ [retail\dev-itpro\retail-sdk\retail-sdk-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/retail-sdk/retail-sdk-overview.md) | HandedOffSuccess | [Details](#4af18a987a777199d8352f8111c0b5d5f9279c443484)
+ [retail\dev-itpro\retail-sdk\retail-sdk-packaging.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/retail-sdk/retail-sdk-packaging.md) | HandedOffSuccess | [Details](#7fa3d131986f7bd00f766c46ad4a2bc37c8c74653485)
+ [retail\dev-itpro\retail-sdk\retail-sdk-samples.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/retail-sdk/retail-sdk-samples.md) | HandedOffSuccess | [Details](#526f57ab33b40f3c277eb3d84ad7930349f7e2273486)
+ [retail\dev-itpro\retail-store-scale-unit-configuration-installation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/retail-store-scale-unit-configuration-installation.md) | HandedOffSuccess | [Details](#bc4a6125ee5b91a8f97731d29824cdf054b07d493489)
+ [retail\dev-itpro\secure-retail-cloud-pos.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/secure-retail-cloud-pos.md) | HandedOffSuccess | [Details](#abd50dd22e1148e866452a5309e516b00b9c07d13491)
+ [retail\dev-itpro\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/TOC.md) | HandedOffSuccess | [Details](#dcc0fb47fd796cb27887b4aa7213d871fc3f18da3492)
+ [retail\email-receipts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/email-receipts.md) | HandedOffSuccess | [Details](#4f64b077b8004e5f5376fd1905d2807045be6ec93496)
+ [retail\enable-configure-retail-functionality.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/enable-configure-retail-functionality.md) | HandedOffSuccess | [Details](#11c487f3e03573974e29530849c3d7beddaf765a3497)
+ [retail\extended-logon.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/extended-logon.md) | HandedOffSuccess | [Details](#b6f7aad9f7138e5c035e009612a2949ba04ca4773498)
+ [retail\hybrid-customer-orders.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/hybrid-customer-orders.md) | HandedOffSuccess | [Details](#c72e6623549870b9ba2b8ba9c0529547506c30233499)
+ [retail\includes\banner.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/includes/banner.md) | HandedOffSuccess | [Details](#3402ca5133239f97296b50c354fe19d0fa5f887c3500)
+ [retail\index.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/index.md) | HandedOffSuccess | [Details](#be7c7013cc6fbb73d3f665478442cbf640ef9f2a3501)
+ [retail\info-codes-retail.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/info-codes-retail.md) | HandedOffSuccess | [Details](#ec0568437633ab57bafb50b8ed5e63dd82fd9c653502)
+ [retail\install-pos-layout-designer.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/install-pos-layout-designer.md) | HandedOffSuccess | [Details](#7de32d011692ba2725af4d7a7b44d33ca19b1a473503)
+ [retail\monitor-sales-margin-performance.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/monitor-sales-margin-performance.md) | HandedOffSuccess | [Details](#191d1deaeb57c92c5a4281016b20f13ef78e86b03577)
+ [retail\online-stores.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/online-stores.md) | HandedOffSuccess | [Details](#227987593b68de0ae035803c87df791fe8f90f273578)
+ [retail\optimal-combination-overlapping-discounts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/optimal-combination-overlapping-discounts.md) | HandedOffSuccess | [Details](#389c0eb699552cdfe0fba18093166d2b41eb99473579)
+ [retail\organizational-hierarchies-commerce-essentials.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/organizational-hierarchies-commerce-essentials.md) | HandedOffSuccess | [Details](#7f83a708eb4a8e06eef7d13caea56444da9cb9313580)
+ [retail\payment-methods.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/payment-methods.md) | HandedOffSuccess | [Details](#38bd3162060095ac5a5a8d63a13a9959887d68b33581)
+ [retail\personalized-product-recommendations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/personalized-product-recommendations.md) | HandedOffSuccess | [Details](#d36adf1c1a2bbee3da96ea806503d75dd32450df3582)
+ [retail\pos-screen-layouts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/pos-screen-layouts.md) | HandedOffSuccess | [Details](#ed69574d336d4bbdfccc66c0607c2758de3f4a943586)
+ [retail\price-adjustments-discounts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/price-adjustments-discounts.md) | HandedOffSuccess | [Details](#cb01f376251d44c967ebbffdc2cd60278d5ffc293587)
+ [retail\receipt-templates-printing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/receipt-templates-printing.md) | HandedOffSuccess | [Details](#d91ebbbdeeabd2bbf40b62d7bf3835b82a7bba5c3588)
+ [retail\retail-components.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/retail-components.md) | HandedOffSuccess | [Details](#8cd73e13872555a493ae2d67c199a96217d601c23589)
+ [retail\retail-coupons.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/retail-coupons.md) | HandedOffSuccess | [Details](#8e8255200a2037abdd1a5a310c2f775b7e56aec73590)
+ [retail\retail-hardware-station-configuration-installation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/retail-hardware-station-configuration-installation.md) | HandedOffSuccess | [Details](#74582df1304eb12a2c785feabeb1389707c5eb303591)
+ [retail\retail-hierarchies.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/retail-hierarchies.md) | HandedOffSuccess | [Details](#e397059d75c6addfa464be63c2ec60d8e95c52d53592)
+ [retail\retail-modern-pos-device-activation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/retail-modern-pos-device-activation.md) | HandedOffSuccess | [Details](#963f9afae2289f901bc50595595938965de371143593)
+ [retail\retail-peripheral-simulator.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/retail-peripheral-simulator.md) | HandedOffSuccess | [Details](#d29744c2605b9262204da3afa1b74860e30d061a3594)
+ [retail\retail-peripherals-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/retail-peripherals-overview.md) | HandedOffSuccess | [Details](#a5f6b037da80a3445be10137838a2085f6537a623595)
+ [retail\retail-time-attendance.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/retail-time-attendance.md) | HandedOffSuccess | [Details](#847337f271a27991445b17f9728ffa944199fd823596)
+ [retail\sales-performance-products.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/sales-performance-products.md) | HandedOffSuccess | [Details](#879e9babb33c53f57aa3d7b6c4e59bf578f0e01d3597)
+ [retail\sell-return-outside-assortments.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/sell-return-outside-assortments.md) | HandedOffSuccess | [Details](#12ca4a51a1be099956274bb840562c74250923123598)
+ [retail\set-up-activation-accounts-validate-devices-hq.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/set-up-activation-accounts-validate-devices-hq.md) | HandedOffSuccess | [Details](#2e9f34cca20d0c00ed6772238f4f5b2060cdf5b23599)
+ [retail\set-up-assortments.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/set-up-assortments.md) | HandedOffSuccess | [Details](#89064bfa2a7be0773a72a9f309736e9b5a61a1673600)
+ [retail\set-up-bar-code-masks.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/set-up-bar-code-masks.md) | HandedOffSuccess | [Details](#6326d2a9ea66c973470f3b302f0acf11f39b961f3601)
+ [retail\set-up-bar-codes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/set-up-bar-codes.md) | HandedOffSuccess | [Details](#56dad7c2dd3c73291fcfeee2a9d05179729e93e63602)
+ [retail\set-up-customer-loyalty-program.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/set-up-customer-loyalty-program.md) | HandedOffSuccess | [Details](#db50493aa74ec52ed2860357f566e4a9ed0bce163604)
+ [retail\set-up-manage-images-retail-mpos.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/set-up-manage-images-retail-mpos.md) | HandedOffSuccess | [Details](#b867cc1c7cd9b8583b131d131974bccc5c7c3e033606)
+ [retail\set-up-order-processing-options.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/set-up-order-processing-options.md) | HandedOffSuccess | [Details](#e29b4b2b9b4bac4f524d99175b2485bee1885f813607)
+ [retail\set-up-retail-products.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/set-up-retail-products.md) | HandedOffSuccess | [Details](#2fac6bfdd1415af943039b3910554a27c65714f03608)
+ [retail\shift-drawer-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/shift-drawer-management.md) | HandedOffSuccess | [Details](#fb46baf4febd21d29f1d8ddf4c1f5194945c5f3e3610)
+ [retail\store-performance-information.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/store-performance-information.md) | HandedOffSuccess | [Details](#9df64dc40c5412b905a09d758fdfdfc7f4a957053611)
+ [retail\task-recorder-retail-pos.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/task-recorder-retail-pos.md) | HandedOffSuccess | [Details](#fd27903856332b16ced45632db0b2caf6eea5d463612)
+ [retail\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/TOC.md) | HandedOffSuccess | [Details](#763131b813d4de3cf10999498b4386a9901dbdf63613)
+ [retail\work-with-order-holds.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/work-with-order-holds.md) | HandedOffSuccess | [Details](#c721edd31ea04a9d0fd8aed63cb4a3001ba8395c3614)
+ [retail\work-with-payments.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/work-with-payments.md) | HandedOffSuccess | [Details](#07c99824ad03fc39943c7b74ef93c9187b89cab13615)
+ [retail\work-with-store-inventory.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/work-with-store-inventory.md) | HandedOffSuccess | [Details](#a231b3fccf57d638ed6893e33395b0ad76d1e9783616)
+ [scm\cost-management\backflush-costing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/cost-management/backflush-costing.md) | HandedOffSuccess | [Details](#e520c292b7350f332649f23fb4232e7ecd1917763619)
+ [scm\cost-management\cost-object.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/cost-management/cost-object.md) | HandedOffSuccess | [Details](#2774fd22a8feb0fc44e735dad40a319cf793616d3628)
+ [scm\cost-management\physical-financial-updates.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/cost-management/physical-financial-updates.md) | HandedOffSuccess | [Details](#a0eeb5a57f9b82150150752c64e89c2c918568893660)
+ [scm\cost-management\physical-quantity.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/cost-management/physical-quantity.md) | HandedOffSuccess | [Details](#7173de40fbd9b5906d1a58ab29fc3b8b2bc553013661)
+ [scm\cost-management\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/cost-management/TOC.md) | HandedOffSuccess | [Details](#23625a85fd7a95aa876dc329b07ac0ec1a6d0d0b3669)
+ [scm\includes\banner.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/includes/banner.md) | HandedOffSuccess | [Details](#3a4fd35cbf4ba7b9e037d553d27e8a06b5db08ed3677)
+ [scm\index.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/index.md) | HandedOffSuccess | [Details](#75febea55317d0b4a6d5fd74b750f0f4ff001dd73678)
+ [scm\inventory\enable-quality-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/inventory/enable-quality-management.md) | HandedOffSuccess | [Details](#96e9643c5ba9ebd25b1b366b6ec24127b8620ffa3682)
+ [scm\inventory\inventory-journals.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/inventory/inventory-journals.md) | HandedOffSuccess | [Details](#fa629b4b8f7fcbd15ee89bc66cbc0bd7ca45215c3684)
+ [scm\inventory\inventory-on-hand-mobile-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/inventory/inventory-on-hand-mobile-workspace.md) | HandedOffSuccess | [Details](#f239d777c6023157b7df42370ec483cac43db1f73686)
+ [scm\inventory\inventory-statuses.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/inventory/inventory-statuses.md) | HandedOffSuccess | [Details](#b3ec66c805d028c20f3d3f95e7af9d78252828c73687)
+ [scm\inventory\quarantine-orders.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/inventory/quarantine-orders.md) | HandedOffSuccess | [Details](#ec3d54e8e08850cd81891e7058b2b787e08b0fb93700)
+ [scm\master-planning\demand-forecasting-setup.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/master-planning/demand-forecasting-setup.md) | HandedOffSuccess | [Details](#74d520199410711b80b750a12ee726633e09d01c3709)
+ [scm\master-planning\generate-statistical-baseline-forecast.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/master-planning/generate-statistical-baseline-forecast.md) | HandedOffSuccess | [Details](#93646e37ee511d433097bb284fccc73c230aee323710)
+ [scm\master-planning\import-historical-data.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/master-planning/import-historical-data.md) | HandedOffSuccess | [Details](#957626a283b750645adefa5176480e68cc27e4f13711)
+ [scm\master-planning\introduction-demand-forecasting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/master-planning/introduction-demand-forecasting.md) | HandedOffSuccess | [Details](#6b4498ae05b9495918c0a079cc88903820192a593712)
+ [scm\master-planning\manual-adjustments-baseline-forecast.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/master-planning/manual-adjustments-baseline-forecast.md) | HandedOffSuccess | [Details](#0b3b56aa838888461a6d27c6612e405a3cf594143714)
+ [scm\master-planning\monitor-forecast-accuracy.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/master-planning/monitor-forecast-accuracy.md) | HandedOffSuccess | [Details](#56d3f0312e684ab076f9116ac6638bcd67b52e583729)
+ [scm\pim\build-product-configuration-model.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/pim/build-product-configuration-model.md) | HandedOffSuccess | [Details](#5bc19e95266e8f1bec8744da688387dca559373f3733)
+ [scm\pim\product-configuration-models.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/pim/product-configuration-models.md) | HandedOffSuccess | [Details](#1270c35bc7dbe4c85a1aa991a0387b33e1cb69903741)
+ [scm\pim\product-information.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/pim/product-information.md) | HandedOffSuccess | [Details](#db8a9666518b58b6b32bb4a14933095dd9416aa03743)
+ [scm\procurement\collaborate-vendors-vendor-portal.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/procurement/collaborate-vendors-vendor-portal.md) | HandedOffSuccess | [Details](#a8284e5a79e00def964b41f5c20bbb7377bf36be3750)
+ [scm\procurement\manage-vendor-collaboration-users.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/procurement/manage-vendor-collaboration-users.md) | HandedOffSuccess | [Details](#ec7ed3a81d296e9bef4d26f1756b73883d560cb53752)
+ [scm\procurement\procurement-sourcing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/procurement/procurement-sourcing.md) | HandedOffSuccess | [Details](#cf6d4756ae706316a342590ab76b4a5cbdd7e4f93766)
+ [scm\procurement\product-receipt-against-purchase-orders.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/procurement/product-receipt-against-purchase-orders.md) | HandedOffSuccess | [Details](#a192688315adb2d83f349c525c5d8f70309375db3767)
+ [scm\procurement\purchase-order-approval-confirmation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/procurement/purchase-order-approval-confirmation.md) | HandedOffSuccess | [Details](#0ec91bcf0ab334585eefae2fe54750c45419682e3769)
+ [scm\procurement\purchase-order-creation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/procurement/purchase-order-creation.md) | HandedOffSuccess | [Details](#9e11d1de0e4b314ec2c6d52ccba7349c6f6a10073770)
+ [scm\procurement\purchase-order-mobile-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/procurement/purchase-order-mobile-workspace.md) | HandedOffSuccess | [Details](#bed687840e32631615309290e5d501025b435bdd3771)
+ [scm\procurement\purchase-order-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/procurement/purchase-order-overview.md) | HandedOffSuccess | [Details](#a5dd28e79cbd66e79311c0549c63ea844394ab143772)
+ [scm\procurement\purchase-requisitions-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/procurement/purchase-requisitions-overview.md) | HandedOffSuccess | [Details](#8c60d870d0ca178af84919e5ebaaa13769b46f8a3774)
+ [scm\procurement\set-up-external-catalog-for-punchout.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/procurement/set-up-external-catalog-for-punchout.md) | HandedOffSuccess | [Details](#34a2dabdaaa05793e5b81dbc5f2e701e170b13c33777)
+ [scm\procurement\set-up-maintain-vendor-collaboration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/procurement/set-up-maintain-vendor-collaboration.md) | HandedOffSuccess | [Details](#49df4b8201fd1c3b6e7f4cd44d334014bcdc78863778)
+ [scm\procurement\set-up-vendor-accounts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/procurement/set-up-vendor-accounts.md) | HandedOffSuccess | [Details](#4c97f11fa85b8eee54daea8ccaa183859a89fe7f3779)
+ [scm\procurement\use-external-catalogs-for-punchout.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/procurement/use-external-catalogs-for-punchout.md) | HandedOffSuccess | [Details](#2a7e66181a2bfcb0cf037834ac0bab3c22117baa3780)
+ [scm\procurement\vendor-collaboration-mobile-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/procurement/vendor-collaboration-mobile-workspace.md) | HandedOffSuccess | [Details](#20e4c77bc47bffc3474559e3b9933b87e947e1783782)
+ [scm\procurement\vendor-collaboration-work-customers-dynamics-365-operations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/procurement/vendor-collaboration-work-customers-dynamics-365-operations.md) | HandedOffSuccess | [Details](#41436dab710a5fee0fe0800dff1ebefefa841afc3783)
+ [scm\procurement\vendor-collaboration-work-external-vendors.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/procurement/vendor-collaboration-work-external-vendors.md) | HandedOffSuccess | [Details](#566665b37cdf9dd263d8abd292c20d5704e567cb3784)
+ [scm\production-control\activity-based-subcontracting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/production-control/activity-based-subcontracting.md) | HandedOffSuccess | [Details](#43c95c8ab8599a048b1c8c732d6dcac1c3e8b9e93785)
+ [scm\production-control\cross-docking-opportunities.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/production-control/cross-docking-opportunities.md) | HandedOffSuccess | [Details](#07c9aea9db81dfc99208b8a7a2ed8c8b109223a33793)
+ [scm\production-control\default-order-settings.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/production-control/default-order-settings.md) | HandedOffSuccess | [Details](#3a7e50e958401a03d8095b7d5abc4064a6e34b0b3794)
+ [scm\production-control\formula-designer.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/production-control/formula-designer.md) | HandedOffSuccess | [Details](#84322bb3f02d236843bebc24c4c5eccdd4d9f2bf3795)
+ [scm\production-control\manage-subcontract-work-production.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/production-control/manage-subcontract-work-production.md) | HandedOffSuccess | [Details](#0e1368d3f637143fd47c3772c811257e8472cc743801)
+ [scm\production-control\mixed-mode-plan.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/production-control/mixed-mode-plan.md) | HandedOffSuccess | [Details](#9dbbe540c919d27bafcc10614f308e5b6ba313f13820)
+ [scm\production-control\production-process-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/production-control/production-process-overview.md) | HandedOffSuccess | [Details](#b73ec05442c8b089435d5813ea93b997c473cbb43826)
+ [scm\production-control\register-material-consumption-hand-held-device.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/production-control/register-material-consumption-hand-held-device.md) | HandedOffSuccess | [Details](#5b51df9a26627aa72762103c2ac721a7d5202c943828)
+ [scm\production-control\routes-operations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/production-control/routes-operations.md) | HandedOffSuccess | [Details](#106154b97e94a29ec135980bb87b60b81e160fad3835)
+ [scm\production-control\visual-scheduling-lean-manufacturing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/production-control/visual-scheduling-lean-manufacturing.md) | HandedOffSuccess | [Details](#98bc4ae14323cf04fd0a985d34baf225dffc5d9d3838)
+ [scm\production-control\visual-scheduling-production.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/production-control/visual-scheduling-production.md) | HandedOffSuccess | [Details](#55631c4d588c699b9e47f73190d5b01d6da3b9ec3839)
+ [scm\sales-marketing\overview-sales-marketing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/sales-marketing/overview-sales-marketing.md) | HandedOffSuccess | [Details](#dddcc764bb11540b8207350c463d1adb2533e1c03850)
+ [scm\sales-marketing\price-simulation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/sales-marketing/price-simulation.md) | HandedOffSuccess | [Details](#c5381ab48e394702c2423de7a5b5cb91669933883851)
+ [scm\sales-marketing\register-serial-numbers-sales-process.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/sales-marketing/register-serial-numbers-sales-process.md) | HandedOffSuccess | [Details](#ffb567c0ba9c95d059e64e24cbe0ea53ec9f7bc93852)
+ [scm\sales-marketing\reserve-same-batch-sales-order.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/sales-marketing/reserve-same-batch-sales-order.md) | HandedOffSuccess | [Details](#a24e5c2972ae1581de43ebcb448ed34bafdc0ad53853)
+ [scm\sales-marketing\sales-agreements.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/sales-marketing/sales-agreements.md) | HandedOffSuccess | [Details](#4eaa4fef65fb310524f25d052aeefb58c5f20fe43854)
+ [scm\sales-marketing\sales-orders-mobile-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/sales-marketing/sales-orders-mobile-workspace.md) | HandedOffSuccess | [Details](#fcc2e6a26990ba6faa026de915681077e75743e73855)
+ [scm\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/TOC.md) | HandedOffSuccess | [Details](#5b3323dfe012cebe60bfbfa1c1260265fff9c6213856)
+ [scm\transportation\create-new-transportation-management-engine.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/transportation/create-new-transportation-management-engine.md) | HandedOffSuccess | [Details](#65fdb1b0821cd5be645f1bf674b30b9b56a442c43858)
+ [scm\transportation\reconcile-freight-transportation-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/transportation/reconcile-freight-transportation-management.md) | HandedOffSuccess | [Details](#ab7d21d7a75e2c954831a254bb339d9cf5746d9d3878)
+ [scm\transportation\transportation-management-engines.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/transportation/transportation-management-engines.md) | HandedOffSuccess | [Details](#da38443f0c0446e122a8e563d686efcc6df212ca3879)
+ [scm\transportation\transportation-management-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/transportation/transportation-management-overview.md) | HandedOffSuccess | [Details](#2fbea4f5e86a6bef98be5df3a2b69aac36e371e53880)
+ [scm\warehousing\batch-and-license-plate-confirmation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/batch-and-license-plate-confirmation.md) | HandedOffSuccess | [Details](#c2ebb038ef59ecf9ebdc494f0067548f52ca04a83881)
+ [scm\warehousing\cluster-picking-item-confirmation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/cluster-picking-item-confirmation.md) | HandedOffSuccess | [Details](#c4c8218761c43e9811c74b31fe60496d6efe17cb3883)
+ [scm\warehousing\configure-app-field-names-priorities-warehouse.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/configure-app-field-names-priorities-warehouse.md) | HandedOffSuccess | [Details](#49db5ad10914897b2157e123c5803ca51e4e66e73884)
+ [scm\warehousing\configure-mobile-devices-warehouse.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/configure-mobile-devices-warehouse.md) | HandedOffSuccess | [Details](#5f261b0b7d44414c9eb34b484081b7a978659fe53885)
+ [scm\warehousing\control-warehouse-location-directives.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/control-warehouse-location-directives.md) | HandedOffSuccess | [Details](#f8bcdcf70089aaed06ba0f88cdbec8dfdf9121d13886)
+ [scm\warehousing\cycle-counting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/cycle-counting.md) | HandedOffSuccess | [Details](#ebc7789d7b0be5db4a0faf4309bc3640f51956c63887)
+ [scm\warehousing\install-configure-warehousing-app.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/install-configure-warehousing-app.md) | HandedOffSuccess | [Details](#10f8b7d0f7d587ff4a3be3c5e13c610cef4252fd3888)
+ [scm\warehousing\material-replenishment-withdrawal-kanban.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/material-replenishment-withdrawal-kanban.md) | HandedOffSuccess | [Details](#abac5e05f40132844cf1817be533151cbf238d953890)
+ [scm\warehousing\mixed-license-plate receiving.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/mixed-license-plate%20receiving.md) | HandedOffSuccess | [Details](#c6caada4323db83fd7c3e3f2e87ae5e00c3d0a013941)
+ [scm\warehousing\move-inventory-associated-work.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/move-inventory-associated-work.md) | HandedOffSuccess | [Details](#14de28397cd6812f5ad5019f9d27c7d8d5720a6b3942)
+ [scm\warehousing\partial-location-cycle-counting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/partial-location-cycle-counting.md) | HandedOffSuccess | [Details](#856ac2a61bc06a772b586a0cf77496fc360db6233944)
+ [scm\warehousing\pick-oldest-batch.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/pick-oldest-batch.md) | HandedOffSuccess | [Details](#9da1b3c09d9af7920ba09236517ef0819a3fa1f43945)
+ [scm\warehousing\piece-picking-confirmation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/piece-picking-confirmation.md) | HandedOffSuccess | [Details](#ee5853b326b17e57249cb7b37c5d6b2575c2759b3946)
+ [scm\warehousing\replenishment.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/replenishment.md) | HandedOffSuccess | [Details](#a302ad64bcef442660a0164ef03d1d3c16448d783947)
+ [scm\warehousing\sales-returns.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/sales-returns.md) | HandedOffSuccess | [Details](#b66bf79413ad21f12f789eabafe8413af3f58c9c3948)
+ [scm\warehousing\system-group-on-open-work-list.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/system-group-on-open-work-list.md) | HandedOffSuccess | [Details](#a8ec8b9e24f9ffc925f926887838b421c8504ffe3949)
+ [scm\warehousing\upgrade-migration-warehouse-management-processes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/upgrade-migration-warehouse-management-processes.md) | HandedOffSuccess | [Details](#4cf3273f993463ca484752e94a19dff0116a7ac43951)
+ [scm\warehousing\warehouse-configuration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/warehouse-configuration.md) | HandedOffSuccess | [Details](#cce85f608ecd21b3ea898250a0b2585abdcda3b23952)
+ [scm\warehousing\warehouse-mobile-devices-portal.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/warehouse-mobile-devices-portal.md) | HandedOffSuccess | [Details](#0121cca894f19502b3304c7908db67e5233fdd063953)
 
 ## Item Details
-##### <a name='b9f109aca4f3580306ac130a2cc100f956feea743272'></a> Source: [retail\dev-itpro\hardware-station-extensibility.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/7a8ce2c15a4e80e74cce9415bd10c3171906bc1d/retail/dev-itpro/hardware-station-extensibility.md)
+##### <a name='e04989c3fb30c57e7d26d128d69f1476bf10c2e85'></a> Source: [core\breadcrumb\toc.yml](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/breadcrumb/toc.yml)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [toc.4f3943a9191cad44feb4b5355ae6bb56f38a4a88.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/premium/toc.4f3943a9191cad44feb4b5355ae6bb56f38a4a88.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='cd024f2bc06fca9c21ea41fbed44efbc519cee947'></a> Source: [core\get-started\action-search.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/get-started/action-search.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [action-search.78e375d5f16ae67b9c9004fbf99402dab448d8bf.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/action-search.78e375d5f16ae67b9c9004fbf99402dab448d8bf.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='48b2049c3f5025d7e8d3fc7e944aa9360786d18a8'></a> Source: [core\get-started\advanced-filtering-query-options.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/core/get-started/advanced-filtering-query-options.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [advanced-filtering-query-options.585cd80a2c7447dadbe434eaebdc5cacac05855b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/advanced-filtering-query-options.585cd80a2c7447dadbe434eaebdc5cacac05855b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='b7618f5150b55542d26d10000a644a13a8651e829'></a> Source: [core\get-started\client-faq.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/get-started/client-faq.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [client-faq.2f9c9ae85c52e795f61fd37bafa2d1f436312ff1.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/client-faq.2f9c9ae85c52e795f61fd37bafa2d1f436312ff1.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='aad98247692bdbaf5b8023b393b5e33260dd0b1a11'></a> Source: [core\get-started\display-pages-side-by-side.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/get-started/display-pages-side-by-side.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [display-pages-side-by-side.38fb87a3cae4e69076f54efc109f6ce69c42fc9f.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/display-pages-side-by-side.38fb87a3cae4e69076f54efc109f6ce69c42fc9f.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='99edf6d0bd48a21d1913b7bd6e0cf3c62d4991b312'></a> Source: [core\get-started\fasttrack-dynamics-365-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/get-started/fasttrack-dynamics-365-overview.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [fasttrack-dynamics-365-overview.a05f3e8a49adf17e3385f1f96840f652ad675dfb.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/fasttrack-dynamics-365-overview.a05f3e8a49adf17e3385f1f96840f652ad675dfb.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='dbad1a054d69c463bf7fbc8ee76050e91ac1876913'></a> Source: [core\get-started\glossary.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/get-started/glossary.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [glossary.0b96a7f0309b9d098796c6a9a3e73b0c200dba99.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/glossary.0b96a7f0309b9d098796c6a9a3e73b0c200dba99.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='431165d541c9a3b63100a93108ee770df8e88aa854'></a> Source: [core\get-started\navigation-search.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/get-started/navigation-search.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [navigation-search.8b7c3f253ccc6f938e37b04b1397193f188ed8b8.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/navigation-search.8b7c3f253ccc6f938e37b04b1397193f188ed8b8.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='fc88de00a7bb9a83532b2e3b0fb25eaba10029e655'></a> Source: [core\get-started\onboarding-home.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/get-started/onboarding-home.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [onboarding-home.b994cf80a57facc06197b56cef386744774d06f5.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/onboarding-home.b994cf80a57facc06197b56cef386744774d06f5.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='b338a930777a5945eb6318dc8066fb3649c79dbe56'></a> Source: [core\get-started\personalize-user-experience.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/get-started/personalize-user-experience.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [personalize-user-experience.4735a4dd2b2a9258deb1b162f6e81a47f48aa4ce.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/personalize-user-experience.4735a4dd2b2a9258deb1b162f6e81a47f48aa4ce.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='5ab6f42da3de43f5ef3ba1c1d26b0fe67a08eab657'></a> Source: [core\get-started\recently-added-editing-features-in-task-recorder.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/get-started/recently-added-editing-features-in-task-recorder.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [recently-added-editing-features-in-task-recorder.495ab625248de01186252ac8df4410accd38098f.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/recently-added-editing-features-in-task-recorder.495ab625248de01186252ac8df4410accd38098f.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='8daf9d0c5b83e3bca66c0229a328737adeeb295158'></a> Source: [core\get-started\shortcut-keys.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/get-started/shortcut-keys.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [shortcut-keys.1467b956f13e70f9c6ecbe2a62579bbc87a7d138.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/shortcut-keys.1467b956f13e70f9c6ecbe2a62579bbc87a7d138.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='a5d0a9edd2cb5747fc799c6fdca45dd9ba5720f759'></a> Source: [core\get-started\use-lookups-to-find-information.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/get-started/use-lookups-to-find-information.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [use-lookups-to-find-information.6c95b59469a46db81d7984fbffb5abe565dd16a3.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/use-lookups-to-find-information.6c95b59469a46db81d7984fbffb5abe565dd16a3.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='7898ff427ede4447a5798d4989ffd3088a776d9c60'></a> Source: [core\get-started\view-export-field-descriptions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/get-started/view-export-field-descriptions.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [view-export-field-descriptions.23119a5ad40051de5ed7c8426d7aedbc44e574ad.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/view-export-field-descriptions.23119a5ad40051de5ed7c8426d7aedbc44e574ad.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='7a1afcd5146796de8c33a6d1ef29677bbe0ab76562'></a> Source: [core\hr\benefit-eligibility-policies.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/benefit-eligibility-policies.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [benefit-eligibility-policies.343b5b39da25a82d1546ad80052d4dd964c63160.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/benefit-eligibility-policies.343b5b39da25a82d1546ad80052d4dd964c63160.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='f2a2298e2949de464eb68c05b57668f0d304581463'></a> Source: [core\hr\compensation-plans.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/compensation-plans.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [compensation-plans.893001b350044d428d869885d81468c521f57f59.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/compensation-plans.893001b350044d428d869885d81468c521f57f59.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='a0cdc75fa740c4619ccd1ae8bcaa15ff95f93a7964'></a> Source: [core\hr\courses.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/courses.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [courses.11d13b04debdb07f09f36449adfb2fb49df725c0.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/courses.11d13b04debdb07f09f36449adfb2fb49df725c0.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='3bb02f82475b0fe9722d9b07af77fca091e284a265'></a> Source: [core\hr\create-department-add-department-hierarchy.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/create-department-add-department-hierarchy.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [create-department-add-department-hierarchy.312f0f92bbdd87bcc18e208d8aa22407a9d2c4e1.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/create-department-add-department-hierarchy.312f0f92bbdd87bcc18e208d8aa22407a9d2c4e1.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='2b26910700aa5f0c3aa2999a4036ec622792231366'></a> Source: [core\hr\create-fixed-compensation-plans.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/create-fixed-compensation-plans.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [create-fixed-compensation-plans.6e7b023cd8c34143d7e7e93d1d87bf66e684646a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/create-fixed-compensation-plans.6e7b023cd8c34143d7e7e93d1d87bf66e684646a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='1704766af256071b653c04407244b5bf9b9f902467'></a> Source: [core\hr\create-job.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/create-job.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [create-job.f81c54c3719b6122176ef978737ae1fa6ee0c584.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/create-job.f81c54c3719b6122176ef978737ae1fa6ee0c584.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='3860696132a4b665159463f6ed981c10c0e6cbcb68'></a> Source: [core\hr\create-variable-compensation-plans.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/create-variable-compensation-plans.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [create-variable-compensation-plans.ddb56e6544640ef4ddd47cfc0fefaeb9f8221dc4.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/create-variable-compensation-plans.ddb56e6544640ef4ddd47cfc0fefaeb9f8221dc4.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='751d6ff19b211da5d2aa764051ad91f8439d6a3e69'></a> Source: [core\hr\departments-jobs-positions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/departments-jobs-positions.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [departments-jobs-positions.65dde677ec927e664e2cf119b44ee52093d5d15a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/departments-jobs-positions.65dde677ec927e664e2cf119b44ee52093d5d15a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='36c3f9a060c314e5048a4528d8754c8ccd68488170'></a> Source: [core\hr\design-questionnaires.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/design-questionnaires.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [design-questionnaires.1c3c673f243658644d8062f1d874660ea9b757be.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/design-questionnaires.1c3c673f243658644d8062f1d874660ea9b757be.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='aba663b9fda222ad980034fc35691554002ab3ac71'></a> Source: [core\hr\distribute-questionnaires.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/distribute-questionnaires.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [distribute-questionnaires.ea348687601e381d2d6f8340d5c9c589d675c28e.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/distribute-questionnaires.ea348687601e381d2d6f8340d5c9c589d675c28e.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='4cc42920321b083f4315c596cfad79815724355c73'></a> Source: [core\hr\evaluate-questionnaire-results.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/evaluate-questionnaire-results.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [evaluate-questionnaire-results.3e6db2ffc87902d28ea0f305f6197a5ac9e703f2.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/evaluate-questionnaire-results.3e6db2ffc87902d28ea0f305f6197a5ac9e703f2.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='d0f367a6ef25ec3dd2f9da36324103d48a9ef57774'></a> Source: [core\hr\index.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/index.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [index.88535a5bc534898fe37be46ecc8af4f666b82753.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/premium/index.88535a5bc534898fe37be46ecc8af4f666b82753.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='20f490b7189f1eaf6723da28c8caac23e90f467e75'></a> Source: [core\hr\loan-items.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/loan-items.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [loan-items.ea37072ab4e819357d4b22ff5895a49388e4d636.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/loan-items.ea37072ab4e819357d4b22ff5895a49388e4d636.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='22e104d66c60cba5312a9a0f99ff9d98f722249886'></a> Source: [core\hr\localizations\noam-usa-benefit-accrual-plan-tasks.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-benefit-accrual-plan-tasks.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [noam-usa-benefit-accrual-plan-tasks.eb1b6b2180d76e95b91102d8fe4c7faef432db23.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/noam-usa-benefit-accrual-plan-tasks.eb1b6b2180d76e95b91102d8fe4c7faef432db23.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='6176cd7b169ee86f434178a3abd30099d327385f87'></a> Source: [core\hr\localizations\noam-usa-benefit-set-up-tasks.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-benefit-set-up-tasks.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [noam-usa-benefit-set-up-tasks.9b911db4d54abc288357c1e8aac567b8f1f9e865.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/noam-usa-benefit-set-up-tasks.9b911db4d54abc288357c1e8aac567b8f1f9e865.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='60205bd0333dd8ce4c947b088ad3cbf204d4b4bf88'></a> Source: [core\hr\localizations\noam-usa-comply-ada.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-comply-ada.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [noam-usa-comply-ada.201505009ae4770864e3fc8d91eda188424f96db.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/noam-usa-comply-ada.201505009ae4770864e3fc8d91eda188424f96db.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='e92802f330812e4ce0184ffe4c513dab0842072189'></a> Source: [core\hr\localizations\noam-usa-earning-code-group-tasks.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-earning-code-group-tasks.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [noam-usa-earning-code-group-tasks.03e5f691dcdddc9d4aeae56d87c5fbe9a1a0c3b8.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/noam-usa-earning-code-group-tasks.03e5f691dcdddc9d4aeae56d87c5fbe9a1a0c3b8.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='da803f299b74955fc1dd45d694cce05a71ba728e90'></a> Source: [core\hr\localizations\noam-usa-earnings-generation-process.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-earnings-generation-process.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [noam-usa-earnings-generation-process.ed677fccdbff6d0910105bee79db4e89f5359985.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/noam-usa-earnings-generation-process.ed677fccdbff6d0910105bee79db4e89f5359985.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='8caaa10dccaace5fb3f851367fc9a1b10a235f1291'></a> Source: [core\hr\localizations\noam-usa-existing-earnings.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-existing-earnings.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [noam-usa-existing-earnings.ebf5fd1ac5b245c2abf5115ee6941783d9da4922.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/noam-usa-existing-earnings.ebf5fd1ac5b245c2abf5115ee6941783d9da4922.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='47e8bce262fca130b4877490058afcdc46aa84d792'></a> Source: [core\hr\localizations\noam-usa-existing-payroll-payments.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-existing-payroll-payments.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [noam-usa-existing-payroll-payments.2f40cc22e64b51e0694c5c8e64eb0294d65363d6.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/noam-usa-existing-payroll-payments.2f40cc22e64b51e0694c5c8e64eb0294d65363d6.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='3d39c808fcbf6b586c91e1e1bce5cbc1c7783cf293'></a> Source: [core\hr\localizations\noam-usa-form-i-9-verification.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-form-i-9-verification.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [noam-usa-form-i-9-verification.22994586bbb087e3f9e759a3812d38c307a39466.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/noam-usa-form-i-9-verification.22994586bbb087e3f9e759a3812d38c307a39466.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='1ba9a44f980c0ed70370df5ac7af4b1ffb9306c294'></a> Source: [core\hr\localizations\noam-usa-garnishment-tax-levy-administrative-fees.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-garnishment-tax-levy-administrative-fees.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [noam-usa-garnishment-tax-levy-administrative-fees.c23653b6a993e35d7d8c86bd9b566075e290eaa4.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/noam-usa-garnishment-tax-levy-administrative-fees.c23653b6a993e35d7d8c86bd9b566075e290eaa4.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='eb28d2ee528952ff3ebd6d6f7c2a167c50d8736d95'></a> Source: [core\hr\localizations\noam-usa-garnishment-tax-levy-enrollment-tasks.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-garnishment-tax-levy-enrollment-tasks.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [noam-usa-garnishment-tax-levy-enrollment-tasks.19a9fb4024932bc5cb4f743f8980212d8e9fc365.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/noam-usa-garnishment-tax-levy-enrollment-tasks.19a9fb4024932bc5cb4f743f8980212d8e9fc365.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='20da725f752d41374f317c80c84379d6fb70391196'></a> Source: [core\hr\localizations\noam-usa-garnishment-tax-levy-set-up-tasks.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-garnishment-tax-levy-set-up-tasks.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [noam-usa-garnishment-tax-levy-set-up-tasks.e9d5af4380f8b0fe74a667f13c5c9e457adbffb2.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/noam-usa-garnishment-tax-levy-set-up-tasks.e9d5af4380f8b0fe74a667f13c5c9e457adbffb2.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='c6342a17efbd7d268b7910107f9a6c9afbdce46997'></a> Source: [core\hr\localizations\noam-usa-generate-earnings.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-generate-earnings.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [noam-usa-generate-earnings.aa3a0972878e50921bd307c0979e282d3fa3123e.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/noam-usa-generate-earnings.aa3a0972878e50921bd307c0979e282d3fa3123e.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='53921cd3d677ec9227434760fe34e87658bfd71798'></a> Source: [core\hr\localizations\noam-usa-generate-payroll-reports.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-generate-payroll-reports.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [noam-usa-generate-payroll-reports.d6893a7c4108278d96520dedfe264fa665f74105.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/noam-usa-generate-payroll-reports.d6893a7c4108278d96520dedfe264fa665f74105.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='049a81eefb3f65c30470e55f7c6759c7619e574d99'></a> Source: [core\hr\localizations\noam-usa-issue-worker-payments.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-issue-worker-payments.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [noam-usa-issue-worker-payments.7075a58599ac3d6052df023c6bb994e304ed2038.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/noam-usa-issue-worker-payments.7075a58599ac3d6052df023c6bb994e304ed2038.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='13506ec36928fe63b2fe826d84ed8f43f853a32c100'></a> Source: [core\hr\localizations\noam-usa-pay-cycle-pay-period-tasks-sample.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-pay-cycle-pay-period-tasks-sample.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [noam-usa-pay-cycle-pay-period-tasks-sample.0381e498fd01ee948faa1fec5041713b8fb56330.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/noam-usa-pay-cycle-pay-period-tasks-sample.0381e498fd01ee948faa1fec5041713b8fb56330.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='aece3e27042b77545e004de416cdc4467220ece4105'></a> Source: [core\hr\localizations\noam-usa-payroll.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-payroll.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [noam-usa-payroll.b8006d3aa62b93cf971928952173dd8e5ae728f4.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/noam-usa-payroll.b8006d3aa62b93cf971928952173dd8e5ae728f4.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='5a01b59e0dbceef4ce21ff5c4d83cbd4fb949ef7103'></a> Source: [core\hr\localizations\noam-usa-payroll-calculation-frequencies-tasks.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-payroll-calculation-frequencies-tasks.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [noam-usa-payroll-calculation-frequencies-tasks.ac499e850a9c1584fdb0a2011c3022a23440d7d0.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/noam-usa-payroll-calculation-frequencies-tasks.ac499e850a9c1584fdb0a2011c3022a23440d7d0.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='95c24982e4ec90a9c6ee0cc7ebf902d78b5330c1104'></a> Source: [core\hr\localizations\noam-usa-payroll-data-updates.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-payroll-data-updates.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [noam-usa-payroll-data-updates.10b4e3ed8b36a9539db2fd5e3c6a50453588d119.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/noam-usa-payroll-data-updates.10b4e3ed8b36a9539db2fd5e3c6a50453588d119.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='573a4a144b4f7cbeabc55237c59a7a7d68f1d0d7102'></a> Source: [core\hr\localizations\noam-usa-pay-statements.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-pay-statements.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [noam-usa-pay-statements.ea325dd278089874b6fa440087f15b03ea46ccd7.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/noam-usa-pay-statements.ea325dd278089874b6fa440087f15b03ea46ccd7.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='33a47938066c3148cf2104d6bbaff01cf5c8c1e5101'></a> Source: [core\hr\localizations\noam-usa-pay-statements-payment-generation-process.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-pay-statements-payment-generation-process.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [noam-usa-pay-statements-payment-generation-process.066f930d5ab08b2eff02f12c3b0b6cbd6134d80f.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/noam-usa-pay-statements-payment-generation-process.066f930d5ab08b2eff02f12c3b0b6cbd6134d80f.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='97c80df223ac48aaf34b2ceb0481a6a614c2431d106'></a> Source: [core\hr\localizations\noam-usa-post-payroll-generate-vendor-invoices.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-post-payroll-generate-vendor-invoices.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [noam-usa-post-payroll-generate-vendor-invoices.e8f1fd429adf9e5b8558d0786d8185f83188e263.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/noam-usa-post-payroll-generate-vendor-invoices.e8f1fd429adf9e5b8558d0786d8185f83188e263.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='4b1dd8ed8aa11130228988437d68079d51b9d52e107'></a> Source: [core\hr\localizations\noam-usa-premium-earning-setup-tasks.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-premium-earning-setup-tasks.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [noam-usa-premium-earning-setup-tasks.e4d6d258085babfd5645d82d15015c7f36ea0a35.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/noam-usa-premium-earning-setup-tasks.e4d6d258085babfd5645d82d15015c7f36ea0a35.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='4f07eaaa8f7cc18b3e2ad057a777a1fdd5f63361108'></a> Source: [core\hr\localizations\noam-usa-tax-codes-tax-groups-definitions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-tax-codes-tax-groups-definitions.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [noam-usa-tax-codes-tax-groups-definitions.95793294c0aea2c503137ca7dedfbe54b0526f9f.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/noam-usa-tax-codes-tax-groups-definitions.95793294c0aea2c503137ca7dedfbe54b0526f9f.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='53d61ae764fc4f66af030b9288514e9f37ced77d109'></a> Source: [core\hr\localizations\noam-usa-tax-information-tasks.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-tax-information-tasks.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [noam-usa-tax-information-tasks.f8c71792a92753dc36a34164e4bed23d718d1af1.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/noam-usa-tax-information-tasks.f8c71792a92753dc36a34164e4bed23d718d1af1.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='98f27a7b71e95fe22c979671e2caf21c9c0019ee110'></a> Source: [core\hr\localizations\noam-usa-work-cycle-work-period-tasks.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-work-cycle-work-period-tasks.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [noam-usa-work-cycle-work-period-tasks.95afb3b00e880d37cd4fc61fb2e33bea1b25f978.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/noam-usa-work-cycle-work-period-tasks.95afb3b00e880d37cd4fc61fb2e33bea1b25f978.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='5cdafc06cb3f47c0b6bf448bd152705f7c51fda8112'></a> Source: [core\hr\localizations\noam-usa-worker-position-payroll-tasks.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-worker-position-payroll-tasks.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [noam-usa-worker-position-payroll-tasks.51b025efe66654db8048e46370317d91af17029f.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/noam-usa-worker-position-payroll-tasks.51b025efe66654db8048e46370317d91af17029f.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='70e8da95f774c33fd029e438717e3f1e98c1ab8f111'></a> Source: [core\hr\localizations\noam-usa-work-schedule-leave-tasks.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/localizations/noam-usa-work-schedule-leave-tasks.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [noam-usa-work-schedule-leave-tasks.700b667f59b17f1a62f5454a3ef7da8d3ff6ea5c.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/noam-usa-work-schedule-leave-tasks.700b667f59b17f1a62f5454a3ef7da8d3ff6ea5c.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='0086c088dcac8d90f401ca15988d6d3feebcf692113'></a> Source: [core\hr\manage-benefit-program.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/manage-benefit-program.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [manage-benefit-program.312990a7837bbf605e679753546cd966c70de17d.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/manage-benefit-program.312990a7837bbf605e679753546cd966c70de17d.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='6276655f6e7d09f5bc8862ad456b834d8919e574114'></a> Source: [core\hr\manage-recruiting-process.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/manage-recruiting-process.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [manage-recruiting-process.9b4e6eb2c54594c8f1d24b6ef362d16cd6ff4f1c.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/manage-recruiting-process.9b4e6eb2c54594c8f1d24b6ef362d16cd6ff4f1c.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='006a8c110fe694c487e1e89e52c07438cf2becc3115'></a> Source: [core\hr\mass-hire-projects.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/mass-hire-projects.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [mass-hire-projects.8cdb98aa40dc3bf41953686f3185a65106427d6d.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/mass-hire-projects.8cdb98aa40dc3bf41953686f3185a65106427d6d.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='e8fc8be13745839f2d3d58a98e9a1e8b902024ba122'></a> Source: [core\hr\performance-management-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/performance-management-overview.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [performance-management-overview.f1fd6e67109ea38f95fa0da86a470ba53c011eaf.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/performance-management-overview.f1fd6e67109ea38f95fa0da86a470ba53c011eaf.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='6231344b75d18c103e66676f4ff2e1f6842e8b02123'></a> Source: [core\hr\questionnaires.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/questionnaires.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [questionnaires.cafd3f86f82a1ef4564d247cf14934f7d908dea5.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/questionnaires.cafd3f86f82a1ef4564d247cf14934f7d908dea5.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='0e4c2b441e9f05ce37b0fe77d7f98cbb872dc122124'></a> Source: [core\hr\set-up-company-specific-hr-parameters.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/set-up-company-specific-hr-parameters.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [set-up-company-specific-hr-parameters.b7bdb301bc319464f3f8feec054d5e8e18fd68bc.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/set-up-company-specific-hr-parameters.b7bdb301bc319464f3f8feec054d5e8e18fd68bc.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='b4a9231a41c7df496c02595bfcf15a453052f11f125'></a> Source: [core\hr\set-up-hr-parameters-across-legal-entities.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/set-up-hr-parameters-across-legal-entities.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [set-up-hr-parameters-across-legal-entities.9069c3c17f6f8f1f59c25d62a465f2e171971795.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/set-up-hr-parameters-across-legal-entities.9069c3c17f6f8f1f59c25d62a465f2e171971795.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='1e50727699ce5fe41e905ea6cdc5e9c1edbd566c126'></a> Source: [core\hr\skills.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/skills.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [skills.7b924e456adc099f60af7ec75fbebb7ff7fa96a9.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/skills.7b924e456adc099f60af7ec75fbebb7ff7fa96a9.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='23f89dd6acd2d0d94c6f427c77a07b11e202aa1e128'></a> Source: [core\hr\workflow-manage-employee-information.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/workflow-manage-employee-information.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [workflow-manage-employee-information.3415c67feb1c44d8525f14ac9ff693b93331a89c.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/workflow-manage-employee-information.3415c67feb1c44d8525f14ac9ff693b93331a89c.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='3a4fd35cbf4ba7b9e037d553d27e8a06b5db08ed129'></a> Source: [core\includes\banner.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/includes/banner.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [banner.ff5170bbaf2ffc1afc8f1ec885ae42a4df20ee6b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/premium/banner.ff5170bbaf2ffc1afc8f1ec885ae42a4df20ee6b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='4dcdf702bd94e740dbc914d22202afa91a7d4932130'></a> Source: [core\index.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/index.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [index.ae302b25ad5256540185ec85ca8bbbd8de0be8b4.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/premium/index.ae302b25ad5256540185ec85ca8bbbd8de0be8b4.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='c2765cf4ed8e0f5e00491bfe74835102bddff611136'></a> Source: [core\organization-administration\configure-approval-process-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/configure-approval-process-workflow.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [configure-approval-process-workflow.9e7cafebdda4056cc5276776a98666b2af7b205a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/configure-approval-process-workflow.9e7cafebdda4056cc5276776a98666b2af7b205a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='61b3107516c7af8d1c0f4c427bdffa9be0fbc18d137'></a> Source: [core\organization-administration\configure-approval-step-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/configure-approval-step-workflow.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [configure-approval-step-workflow.5ff1debd5ee6cbed34fb701fa22e7af3a1409a4b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/configure-approval-step-workflow.5ff1debd5ee6cbed34fb701fa22e7af3a1409a4b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='66f1b8e03cc0da5d21fea9b3c795d8f4097c8cfc138'></a> Source: [core\organization-administration\configure-automated-task-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/configure-automated-task-workflow.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [configure-automated-task-workflow.6397a401c30c2f8dab7599d27b8fc63a67114a99.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/configure-automated-task-workflow.6397a401c30c2f8dab7599d27b8fc63a67114a99.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='b8f6187c079e3cca77076f75892eccf056511587140'></a> Source: [core\organization-administration\configure-email.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/configure-email.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [configure-email.d4c2980913d295e6a5eff8a771ee7a2773359bcf.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/configure-email.d4c2980913d295e6a5eff8a771ee7a2773359bcf.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='6ea8b060741ea94af16861d5bb52894a577e5521142'></a> Source: [core\organization-administration\configure-manual-decision-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/configure-manual-decision-workflow.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [configure-manual-decision-workflow.0e850f54076c4ce529f78fed678b854c7dcdf71e.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/configure-manual-decision-workflow.0e850f54076c4ce529f78fed678b854c7dcdf71e.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='242abaae1aa17578ba8eab4b2664794ff2c2caec143'></a> Source: [core\organization-administration\configure-manual-task-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/configure-manual-task-workflow.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/configure-manual-task-workflow.325d0fd0d72f270114bda2fc91b0f093c3373df3.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='713204bc1e9c757bda48d556ea5b0f66ed79a5c9146'></a> Source: [core\organization-administration\configure-workflow-properties.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/configure-workflow-properties.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [configure-workflow-properties.4aab5ae8115c21c1e02b82d3ca91486ac74e5002.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/configure-workflow-properties.4aab5ae8115c21c1e02b82d3ca91486ac74e5002.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='138cf8d60f5a6e1ec1e46837a516e981c8ff4c19147'></a> Source: [core\organization-administration\create-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/create-workflow.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [create-workflow.c0ac2852891211442fba3babe6296f9db2d9b108.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/create-workflow.c0ac2852891211442fba3babe6296f9db2d9b108.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='694208c6e3b559f7f197adab38288773bb642242148'></a> Source: [core\organization-administration\date-time-zones.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/date-time-zones.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [date-time-zones.a69c537baffadc18db18a1e226e3c15c77ec2432.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/date-time-zones.a69c537baffadc18db18a1e226e3c15c77ec2432.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='db401b08df1b03387dc3daeb0726de4e5c33336f149'></a> Source: [core\organization-administration\electronic-signature-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/electronic-signature-overview.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [electronic-signature-overview.05453fdaad9753d57dbd0dfea59e50887a2fa634.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/electronic-signature-overview.05453fdaad9753d57dbd0dfea59e50887a2fa634.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='d260f460bf0da072eb46909d8c28d18041ecaa78158'></a> Source: [core\organization-administration\number-sequence-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/number-sequence-overview.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [number-sequence-overview.74a1590104507a95bf73f8f2440d1f73500f9b69.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/number-sequence-overview.74a1590104507a95bf73f8f2440d1f73500f9b69.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='889a9ce79d4599a60a4503d7876276a1452a5465159'></a> Source: [core\organization-administration\organization-administration-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/organization-administration-home-page.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [organization-administration-home-page.de21bb6f9e8192f9736bef85de500180d6ddab63.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/organization-administration-home-page.de21bb6f9e8192f9736bef85de500180d6ddab63.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='4a7e1253d83e9212d423868a1f841b6944b07ad7160'></a> Source: [core\organization-administration\organizations-organizational-hierarchies.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/organizations-organizational-hierarchies.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [organizations-organizational-hierarchies.5d3351ea03378c104f626970bc2fbd88782617a3.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/organizations-organizational-hierarchies.5d3351ea03378c104f626970bc2fbd88782617a3.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='1dc7935bf92567d529d393abf3069935a387e388162'></a> Source: [core\organization-administration\overview-workflow-system.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/overview-workflow-system.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [overview-workflow-system.71c8053da6bbd233ad82c3c1ea9503e67cf40f3f.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/overview-workflow-system.71c8053da6bbd233ad82c3c1ea9503e67cf40f3f.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='1401af71a0aacd029595b5c075453beb2cc06b5f163'></a> Source: [core\organization-administration\plan-case-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/plan-case-management.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [plan-case-management.c9589d09b4582885d5b6aa9c066bee362b021746.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/plan-case-management.c9589d09b4582885d5b6aa9c066bee362b021746.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='93a9c35b82a8bacd0295416015e783cb6348f550164'></a> Source: [core\organization-administration\plan-configuration-global-address-book-additional-address-books.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/plan-configuration-global-address-book-additional-address-books.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [plan-configuration-global-address-book-additional-address-books.e3ed7b329b94a811d0e6a7de0937b4d3aefc9e47.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/plan-configuration-global-address-book-additional-address-books.e3ed7b329b94a811d0e6a7de0937b4d3aefc9e47.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='26ca948e26708126686ca0d96ea21dc16b1c3799165'></a> Source: [core\organization-administration\plan-organizational-hierarchy.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/plan-organizational-hierarchy.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [plan-organizational-hierarchy.ac3015fc0aa1857a218503a8de6ef8e6401bbc7e.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/plan-organizational-hierarchy.ac3015fc0aa1857a218503a8de6ef8e6401bbc7e.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='7b3bed2bec4b109c6e3b557b8c3651f15f25169c166'></a> Source: [core\organization-administration\qa-address-books.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/qa-address-books.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [qa-address-books.4c67cc482fd4b4198c2861ddb912614f471bec75.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/qa-address-books.4c67cc482fd4b4198c2861ddb912614f471bec75.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='24643909b0b481d0fe16a5613f28ec6161ef8314167'></a> Source: [core\organization-administration\record-templates.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/record-templates.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [record-templates.4bf65c8e308dbce51c571bc3187569140f74e111.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/record-templates.4bf65c8e308dbce51c571bc3187569140f74e111.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='efc8031cb00de398551ed96c92eb426fafa9adb3171'></a> Source: [core\organization-administration\workflow-system-architecture.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/workflow-system-architecture.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [workflow-system-architecture.f26c36015b471b425b5957686cf42feb6444fa73.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/workflow-system-architecture.f26c36015b471b425b5957686cf42feb6444fa73.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='5cfd3e2683895dd91380a333d38768fdf2951193172'></a> Source: [core\organization-administration\workflow-types-report.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/organization-administration/workflow-types-report.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [workflow-types-report.208d97ae8c9b731f1f8ca788ec9d8b57c715f2bb.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/workflow-types-report.208d97ae8c9b731f1f8ca788ec9d8b57c715f2bb.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='6d423114c558be0df04f552c1778f222ad5fc575173'></a> Source: [core\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/TOC.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [TOC.b62d2b58d8678107b4053b61657b9b0a3b85cf87.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/premium/TOC.b62d2b58d8678107b4053b61657b9b0a3b85cf87.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='6c42d98b2ec818fccaae7ef55347ba2dd3a60c3f175'></a> Source: [dev-itpro\analytics\add-contextual-bi-forms.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/add-contextual-bi-forms.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [add-contextual-bi-forms.cbbaec70714ecd7d1588ce1c5e3905214a4e8a7c.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/add-contextual-bi-forms.cbbaec70714ecd7d1588ce1c5e3905214a4e8a7c.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='b95d260c8ae02919d9df70d62b0991380eb1837d177'></a> Source: [dev-itpro\analytics\aggregate-data-entities-report.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/aggregate-data-entities-report.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [aggregate-data-entities-report.2552ca53ac4feb09710f484df33669ed0a6d7241.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/aggregate-data-entities-report.2552ca53ac4feb09710f484df33669ed0a6d7241.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='1ce67df96f3090e6347429a882e57cbdfb232a59178'></a> Source: [dev-itpro\analytics\aggregate-measurements-report.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/aggregate-measurements-report.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [aggregate-measurements-report.bea57942722a964f04ed0faf127f04ae7ba5568d.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/aggregate-measurements-report.bea57942722a964f04ed0faf127f04ae7ba5568d.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='c4d4c85efa297b5fa4c982aa7e1998b1ff37015f179'></a> Source: [dev-itpro\analytics\analytics.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/analytics.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [analytics.07e77e2ab837ebde281df084b011814cf01d5915.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/analytics.07e77e2ab837ebde281df084b011814cf01d5915.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='829058b1a084b971921b40fc33d94e7de6695c4c180'></a> Source: [dev-itpro\analytics\author-distribute-power-bi-reports.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/author-distribute-power-bi-reports.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [author-distribute-power-bi-reports.925df0e1d7f224ba4b15eb3aaee5833b5575d763.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/author-distribute-power-bi-reports.925df0e1d7f224ba4b15eb3aaee5833b5575d763.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='815d8ecfe85c1000667d2d289c05c1e98b8b8c76181'></a> Source: [dev-itpro\analytics\benefits-power-bi.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/benefits-power-bi.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [benefits-power-bi.6a6c980deebb51f211d325af342d058fabcd4bfc.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/benefits-power-bi.6a6c980deebb51f211d325af342d058fabcd4bfc.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='8d92c42415631d4e90cd75f078d84638070b477c182'></a> Source: [dev-itpro\analytics\bi-reporting-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/bi-reporting-home-page.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [bi-reporting-home-page.50b30ee289670fc4682f3df560fe8de71bab4891.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/premium/bi-reporting-home-page.50b30ee289670fc4682f3df560fe8de71bab4891.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='f0c750375ebbc2367d5df55b80db52723063ef17183'></a> Source: [dev-itpro\analytics\CFO-power-bi.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/CFO-power-bi.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [CFO-power-bi.639c1bf81378d071c8dc5e48af717aa9b5799989.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/CFO-power-bi.639c1bf81378d071c8dc5e48af717aa9b5799989.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='96bdd1b4959742591f2112ef81b458fafdb4b3f6184'></a> Source: [dev-itpro\analytics\column-definitions-financial-reports.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/column-definitions-financial-reports.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [column-definitions-financial-reports.7df6153112debbe6e6a080b2ee7793aacb7121ef.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/column-definitions-financial-reports.7df6153112debbe6e6a080b2ee7793aacb7121ef.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='70e35a33e06fe7c89dd64d17703f19a71d4a157e185'></a> Source: [dev-itpro\analytics\compensation-and-benefits-analysis-power-bi-content-pack.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/compensation-and-benefits-analysis-power-bi-content-pack.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [compensation-and-benefits-analysis-power-bi-content-pack.90597155e22c4138661d5a3678d08c065b715aa7.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/compensation-and-benefits-analysis-power-bi-content-pack.90597155e22c4138661d5a3678d08c065b715aa7.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='86229c27b75e2640a0fb88dd73aa50b47585b29d186'></a> Source: [dev-itpro\analytics\compensation-power-bi.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/compensation-power-bi.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [compensation-power-bi.77652d68f09eb5935ef648f2016d36c445590688.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/compensation-power-bi.77652d68f09eb5935ef648f2016d36c445590688.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='47272ca4f1a00ab7844baa0b043981c7c104a15b187'></a> Source: [dev-itpro\analytics\configure-power-bi-integration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/configure-power-bi-integration.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [configure-power-bi-integration.f8db6b357ce09b2fa9608506a850e4cc915eea7b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/configure-power-bi-integration.f8db6b357ce09b2fa9608506a850e4cc915eea7b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='1d19276331a4278f44ad14292ed434c49b74d727188'></a> Source: [dev-itpro\analytics\cost-accounting-analysis-content-pack.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/cost-accounting-analysis-content-pack.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [cost-accounting-analysis-content-pack.eb942848f725e235a941d739dbb02c5238349f6a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/cost-accounting-analysis-content-pack.eb942848f725e235a941d739dbb02c5238349f6a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='387b804cb20ffdc17ad74dac5d927ecbaf421bae189'></a> Source: [dev-itpro\analytics\cost-management-content-pack.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/cost-management-content-pack.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [cost-management-content-pack.568b6ab2ccd9afc10d6cac8b4c901c1a282e61c7.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/cost-management-content-pack.568b6ab2ccd9afc10d6cac8b4c901c1a282e61c7.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='1535fe9c0d369a797d7f72a787021985f18cdcab190'></a> Source: [dev-itpro\analytics\create-nextgen-reporting-solutions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/create-nextgen-reporting-solutions.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [create-nextgen-reporting-solutions.60e4f00d5834cb56b078e0494dc7a384ec055270.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/create-nextgen-reporting-solutions.60e4f00d5834cb56b078e0494dc7a384ec055270.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='3c2dbea60b8203fa4c77fc94654318fd16450eab191'></a> Source: [dev-itpro\analytics\create-powerbi-report-dashboard.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/create-powerbi-report-dashboard.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [create-powerbi-report-dashboard.6fe1174624481e9094c07ba8a1a31b774d19338a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/create-powerbi-report-dashboard.6fe1174624481e9094c07ba8a1a31b774d19338a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='f2b38253132327b5b33403c0547335037c602f8e192'></a> Source: [dev-itpro\analytics\create-powerbi-report-data.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/create-powerbi-report-data.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [create-powerbi-report-data.17e1faf796250af5ff682c718cc6722c7ab453f6.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/create-powerbi-report-data.17e1faf796250af5ff682c718cc6722c7ab453f6.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='acbdada57304130438b78c9ecbc21d9db0355d1d193'></a> Source: [dev-itpro\analytics\credit-collections-content-pack-power-bi.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/credit-collections-content-pack-power-bi.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [credit-collections-content-pack-power-bi.73280d76d1db1f501dfdb5e236a54eec374d57bd.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/credit-collections-content-pack-power-bi.73280d76d1db1f501dfdb5e236a54eec374d57bd.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='1c9d41fb60a9f7506ed0cacdebb1b0714c079954194'></a> Source: [dev-itpro\analytics\custom-designs-business-docs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/custom-designs-business-docs.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [custom-designs-business-docs.99dfe0e2bd22d59f8dcfa9cd3713869b4674ef68.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/custom-designs-business-docs.99dfe0e2bd22d59f8dcfa9cd3713869b4674ef68.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='707b105cf95d7335e9c09732d63fe8c59daacf47195'></a> Source: [dev-itpro\analytics\customize-app-suite-reports-with-extensions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/customize-app-suite-reports-with-extensions.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [customize-app-suite-reports-with-extensions.cfd13f685769ca75a9a39bdac492ef93f1acebfa.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/customize-app-suite-reports-with-extensions.cfd13f685769ca75a9a39bdac492ef93f1acebfa.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='0dc453ab56a2d381afa6e22d847f0b1eb7a16e7e197'></a> Source: [dev-itpro\analytics\design-financial-reports.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/design-financial-reports.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [design-financial-reports.3e10a050240168a3327d28e0fc16385d7f33402f.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/design-financial-reports.3e10a050240168a3327d28e0fc16385d7f33402f.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='44274be365bde2c0ff80e0fc7837d98b85ed6918198'></a> Source: [dev-itpro\analytics\document-reporting-services.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/document-reporting-services.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [document-reporting-services.cb35c6a0a0898ab10f330555fe69b6dd2bf681ad.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/document-reporting-services.cb35c6a0a0898ab10f330555fe69b6dd2bf681ad.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='be77d76194e9d38589548113cc650599d5af4323199'></a> Source: [dev-itpro\analytics\download-electronic-reporting-configuration-lcs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/download-electronic-reporting-configuration-lcs.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [download-electronic-reporting-configuration-lcs.2f28b07b845e4d7fa0be24f736fc009972ead4b5.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/download-electronic-reporting-configuration-lcs.2f28b07b845e4d7fa0be24f736fc009972ead4b5.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='5f77a26f9e891ccee0946fd650b016254f9ebdd8200'></a> Source: [dev-itpro\analytics\electronic-reporting-configuration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/electronic-reporting-configuration.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [electronic-reporting-configuration.775391e95f8e3f8789bec0ca1642b8b8ee572094.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/electronic-reporting-configuration.775391e95f8e3f8789bec0ca1642b8b8ee572094.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='fb2aeee1f38823e7ea96071f773e8448d65ba8ff201'></a> Source: [dev-itpro\analytics\electronic-reporting-destinations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/electronic-reporting-destinations.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [electronic-reporting-destinations.7a2b865c4a9003fee77d77a47d4d3416d748ab2a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/electronic-reporting-destinations.7a2b865c4a9003fee77d77a47d4d3416d748ab2a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='3ef980937868cce2a8ea3b7e660682c80ec135dd202'></a> Source: [dev-itpro\analytics\embed-power-bi-workspaces.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/embed-power-bi-workspaces.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [embed-power-bi-workspaces.742203d5e13a53b8b17f364b6b92c7b6a2741305.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/embed-power-bi-workspaces.742203d5e13a53b8b17f364b6b92c7b6a2741305.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='f5b3c180f0a9d60fa5d4d8398daf79a14da2d6f4203'></a> Source: [dev-itpro\analytics\employee-competencies-and-development-analysis-power-bi-content-pack.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/employee-competencies-and-development-analysis-power-bi-content-pack.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [employee-competencies-and-development-analysis-power-bi-content-pack.599a2794c9b3d094f50bad1081a4c5e53eb597e6.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/employee-competencies-and-development-analysis-power-bi-content-pack.599a2794c9b3d094f50bad1081a4c5e53eb597e6.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='d25f3be5821a02ea618a2356878bf2904765a6f7204'></a> Source: [dev-itpro\analytics\employee-development-PBI.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/employee-development-PBI.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [employee-development-PBI.53142e74291ef0c869666c7ac592482c1561f992.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/employee-development-PBI.53142e74291ef0c869666c7ac592482c1561f992.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='49508b092e83cde802fa254539396f59b093d8a2205'></a> Source: [dev-itpro\analytics\expand-app-suite-report-data-sets.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/expand-app-suite-report-data-sets.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [expand-app-suite-report-data-sets.8b04e0d8be521ad8f10ce4f243997e9ecf71cdc9.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/expand-app-suite-report-data-sets.8b04e0d8be521ad8f10ce4f243997e9ecf71cdc9.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='60b2a3d1ec22f364a7d0fe2617364e7943164137206'></a> Source: [dev-itpro\analytics\extend-report-menu-items.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/extend-report-menu-items.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [extend-report-menu-items.2b703921dd74d215807ab66af8a6c437312fe6c3.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/extend-report-menu-items.2b703921dd74d215807ab66af8a6c437312fe6c3.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='b20f526d20d357750777d0f9bda26e4d9d55b335207'></a> Source: [dev-itpro\analytics\financial-performance-power-bi-content-pack.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/financial-performance-power-bi-content-pack.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [financial-performance-power-bi-content-pack.0ec5789baba94144018bf90e8c71c036fe0efe8e.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/financial-performance-power-bi-content-pack.0ec5789baba94144018bf90e8c71c036fe0efe8e.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='5c09b1fc061f95cd78e9f18c2bdf846fdbfc7cf1208'></a> Source: [dev-itpro\analytics\financial-report-components.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/financial-report-components.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [financial-report-components.a7e5ac30c435639b9943a7828a99b048ab35c5e9.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/financial-report-components.a7e5ac30c435639b9943a7828a99b048ab35c5e9.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='7cf4c796b245ba87281f2e9ca45e3dc83a1f2cde210'></a> Source: [dev-itpro\analytics\financial-reporting-intro.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/financial-reporting-intro.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [financial-reporting-intro.2a879ccd26fd7463d74d783a1f046dbcf2314d36.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/financial-reporting-intro.2a879ccd26fd7463d74d783a1f046dbcf2314d36.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='96e630fd03a557e2ec90a4ac3920987b5c99c095216'></a> Source: [dev-itpro\analytics\general-electronic-reporting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/general-electronic-reporting.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [general-electronic-reporting.7a9d30bea5020d8540cb7525a8f2edadaa282cfc.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/general-electronic-reporting.7a9d30bea5020d8540cb7525a8f2edadaa282cfc.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='bfd01a4abba7117aeb334a4a712c2d9ea670eb42212'></a> Source: [dev-itpro\analytics\general-electronic-reporting-formula-designer.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/general-electronic-reporting-formula-designer.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [general-electronic-reporting-formula-designer.b3ff31ef5565ff7d531eefba44c225480080533c.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/general-electronic-reporting-formula-designer.b3ff31ef5565ff7d531eefba44c225480080533c.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='bd4e93379c0db6f50d8ba716c2d151f86b3835e3213'></a> Source: [dev-itpro\analytics\general-electronic-reporting-formulas-list-extension.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/general-electronic-reporting-formulas-list-extension.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [general-electronic-reporting-formulas-list-extension.062eefe7f897a28e645dde25c141b367a16ab557.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/general-electronic-reporting-formulas-list-extension.062eefe7f897a28e645dde25c141b367a16ab557.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='b1f5da07ffff5e34d8c73012a1e3c85fe1546fda214'></a> Source: [dev-itpro\analytics\general-electronic-reporting-manage-configuration-lifecycle.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/general-electronic-reporting-manage-configuration-lifecycle.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [general-electronic-reporting-manage-configuration-lifecycle.9810bdfba1826b541597971be558bb34db70d12d.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/general-electronic-reporting-manage-configuration-lifecycle.9810bdfba1826b541597971be558bb34db70d12d.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='36c5e78f4b85d0c763c35b62a6592365501db325215'></a> Source: [dev-itpro\analytics\general-electronic-reporting-report-configuration-get-data-powerbi.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/general-electronic-reporting-report-configuration-get-data-powerbi.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [general-electronic-reporting-report-configuration-get-data-powerbi.5a657f6126c44dbf2c643472e6ed6777e9f36e62.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/general-electronic-reporting-report-configuration-get-data-powerbi.5a657f6126c44dbf2c643472e6ed6777e9f36e62.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='30e06a7969f80b2e99c8947b9d1641d9c03d8524218'></a> Source: [dev-itpro\analytics\information-access-reporting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/information-access-reporting.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [information-access-reporting.165a36dd5d5a60e22c7f6ae5ebcd8ed3d71a6b13.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/information-access-reporting.165a36dd5d5a60e22c7f6ae5ebcd8ed3d71a6b13.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='11954008da7a662e3a603e5a05de161f6430c658219'></a> Source: [dev-itpro\analytics\install-document-routing-agent.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/install-document-routing-agent.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [install-document-routing-agent.d9cb2ed305c82eb08735eee4181f69a13298d4ec.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/install-document-routing-agent.d9cb2ed305c82eb08735eee4181f69a13298d4ec.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='ce42025d10308022bbc7b6291bd04235abfa7edd220'></a> Source: [dev-itpro\analytics\install-modern-report-design-templates.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/install-modern-report-design-templates.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [install-modern-report-design-templates.a0e372b03fa538f8d44685dca0a1db2918062119.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/install-modern-report-design-templates.a0e372b03fa538f8d44685dca0a1db2918062119.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='8442f2dc4c476e5fcc874e803657f86edd4221a1221'></a> Source: [dev-itpro\analytics\key-performance-indicators-report.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/key-performance-indicators-report.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [key-performance-indicators-report.0016023a44cf8200c12e932c06824c728b867de1.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/key-performance-indicators-report.0016023a44cf8200c12e932c06824c728b867de1.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='a3f28d21a7e73d3ad462c5cc37198dd2b6f5f8af222'></a> Source: [dev-itpro\analytics\learning-power-bi.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/learning-power-bi.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [learning-power-bi.00daa3a9be1b2eeb5d51c952dd75886acc551d9c.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/learning-power-bi.00daa3a9be1b2eeb5d51c952dd75886acc551d9c.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='5d52cce3cccb16f0645d9de1832ebeffbfaf3a09223'></a> Source: [dev-itpro\analytics\ledger-budgets-power-bi.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/ledger-budgets-power-bi.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [ledger-budgets-power-bi.9e1585f640063f79dc94fc2aaaa1d51b5d047d05.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/ledger-budgets-power-bi.9e1585f640063f79dc94fc2aaaa1d51b5d047d05.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='3a1bd8375b406aec3f60f0bd7cbb56d56a33fca9581'></a> Source: [dev-itpro\analytics\modify-electronic-reporting-format-reapply-excel-template.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/modify-electronic-reporting-format-reapply-excel-template.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [modify-electronic-reporting-format-reapply-excel-template.264d7740b9e2c0c6a38142dd0262d16aab998b72.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/modify-electronic-reporting-format-reapply-excel-template.264d7740b9e2c0c6a38142dd0262d16aab998b72.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='26499bf5423bc3711d110bd7e548eda238162b7a583'></a> Source: [dev-itpro\analytics\organizational-training-analysis-power-bi-content-pack.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/organizational-training-analysis-power-bi-content-pack.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [organizational-training-analysis-power-bi-content-pack.3294364fd0448f92c44e3b428edde527cd98a1dc.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/organizational-training-analysis-power-bi-content-pack.3294364fd0448f92c44e3b428edde527cd98a1dc.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='f033321215fde4a7646d029eae08b81991cef086585'></a> Source: [dev-itpro\analytics\pin-power-bi-reports.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/pin-power-bi-reports.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [pin-power-bi-reports.1a13daebddc6b9051bdaf997d035ade4de05388a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/pin-power-bi-reports.1a13daebddc6b9051bdaf997d035ade4de05388a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='fc2adf6a9f7ee81972dd75e0cd6c10a1f2e6b614586'></a> Source: [dev-itpro\analytics\power-bi-content-microsoft-partners.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/power-bi-content-microsoft-partners.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [power-bi-content-microsoft-partners.c2bc939f7deeed74d1509009316d8aaea4feec04.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/power-bi-content-microsoft-partners.c2bc939f7deeed74d1509009316d8aaea4feec04.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='9dcd71636e9bc8b1dcf0e0b78d4eaaccaba1f9f1587'></a> Source: [dev-itpro\analytics\power-bi-content-released.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/power-bi-content-released.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [power-bi-content-released.3428decd6586edbc078967ac674bf1b88c3f987f.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/power-bi-content-released.3428decd6586edbc078967ac674bf1b88c3f987f.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='23e95da8f78a5cd9803ab0fbb08cde93f1c382d1588'></a> Source: [dev-itpro\analytics\power-bi-embedded-integration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/power-bi-embedded-integration.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [power-bi-embedded-integration.0c5e61a6c9ae0ec20abbbd9450464eef47d559b3.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/power-bi-embedded-integration.0c5e61a6c9ae0ec20abbbd9450464eef47d559b3.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='c5c4daef7fbc622ae3f60db63ad800f0cf183f83589'></a> Source: [dev-itpro\analytics\power-bi-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/power-bi-home-page.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [power-bi-home-page.a5800ecb0555654cfd71a0221e0a793d57a7db6e.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/power-bi-home-page.a5800ecb0555654cfd71a0221e0a793d57a7db6e.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='382b744070d1704b774ff661bf1c73d295e18ab8591'></a> Source: [dev-itpro\analytics\power-bi-integration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/power-bi-integration.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [power-bi-integration.1e697d41a83c98e60f7df61878f879941b01cc8b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/power-bi-integration.1e697d41a83c98e60f7df61878f879941b01cc8b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='d90c0d1fbb011655d79af7e2828b07c450e0c2ea590'></a> Source: [dev-itpro\analytics\power-bi-integration-entity-store.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/power-bi-integration-entity-store.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [power-bi-integration-entity-store.f1e8a81039393908fca5a9b34ab3362305a8cc22.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/power-bi-integration-entity-store.f1e8a81039393908fca5a9b34ab3362305a8cc22.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='d119635a76ea18187420129f8532697b72c6100e592'></a> Source: [dev-itpro\analytics\practice-manager-power-bi.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/practice-manager-power-bi.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [practice-manager-power-bi.351fb5e0d2ec30c65279ff503e9ce0c7ddfa52be.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/practice-manager-power-bi.351fb5e0d2ec30c65279ff503e9ce0c7ddfa52be.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='0061cb01b2a47e4e5edbb8dd7ac92320bb1cc45c594'></a> Source: [dev-itpro\analytics\print-documents.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/print-documents.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [print-documents.09307e03b99096f266c718735b2eb51aa6c4d9b6.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/print-documents.09307e03b99096f266c718735b2eb51aa6c4d9b6.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='5a66f106cc0dcb133cddbb3677881f6d0b55ed97595'></a> Source: [dev-itpro\analytics\production-performance-power-bi.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/production-performance-power-bi.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [production-performance-power-bi.1079bf7e33fa802a96b217a994b59b7553219c6f.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/production-performance-power-bi.1079bf7e33fa802a96b217a994b59b7553219c6f.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='daba17aed7e6cc475a16d6100c5c99ee747ca048596'></a> Source: [dev-itpro\analytics\purchase-content-pack-for-power-bi.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/purchase-content-pack-for-power-bi.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [purchase-content-pack-for-power-bi.9dcb342b06e07439e5ae33fad9a6b95b460d25fd.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/purchase-content-pack-for-power-bi.9dcb342b06e07439e5ae33fad9a6b95b460d25fd.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='49cfd0f1ed645f1980b21b6d4f453cb7a8957a1a597'></a> Source: [dev-itpro\analytics\recruiting-analysis-power-bi-content-pack.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/recruiting-analysis-power-bi-content-pack.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [recruiting-analysis-power-bi-content-pack.76c0428aa12702a8a7d28d661e343f2ab3455b19.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/recruiting-analysis-power-bi-content-pack.76c0428aa12702a8a7d28d661e343f2ab3455b19.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='aad8f2617d94e9abc77dafe96cb95f7e191873bd598'></a> Source: [dev-itpro\analytics\report-designer-interface.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/report-designer-interface.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [report-designer-interface.d8df768258b505360ec9cdc4527c7e0d9b999960.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/report-designer-interface.d8df768258b505360ec9cdc4527c7e0d9b999960.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='c132c04bc64f02201252f03830d3f8309306f19c599'></a> Source: [dev-itpro\analytics\reset-financial-reporting-datamart-after-restore.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/reset-financial-reporting-datamart-after-restore.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [reset-financial-reporting-datamart-after-restore.eff69679e6916d3ee6a8a1f967478b0cb98ef110.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/reset-financial-reporting-datamart-after-restore.eff69679e6916d3ee6a8a1f967478b0cb98ef110.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='8f375290722db4c6977d713141257c4cd6f538ed600'></a> Source: [dev-itpro\analytics\retail-channel-performance-dashboard-power-bi-data.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/retail-channel-performance-dashboard-power-bi-data.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [retail-channel-performance-dashboard-power-bi-data.02284efd6679d360b7fc80341413f9c570d502a3.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/retail-channel-performance-dashboard-power-bi-data.02284efd6679d360b7fc80341413f9c570d502a3.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='481f95e4e88e3ff36e4dea8e20b39303440089e2601'></a> Source: [dev-itpro\analytics\row-definitions-financial-reporting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/row-definitions-financial-reporting.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [row-definitions-financial-reporting.51ca83ef98183f8661273a3f6596b66741df47c3.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/row-definitions-financial-reporting.51ca83ef98183f8661273a3f6596b66741df47c3.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='b75a49e770714d08e21e786b72acacf4cb994878602'></a> Source: [dev-itpro\analytics\run-document-routing-agent-as-windows-service.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/run-document-routing-agent-as-windows-service.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [run-document-routing-agent-as-windows-service.84af941924ca72505a85c7130532043e76849602.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/run-document-routing-agent-as-windows-service.84af941924ca72505a85c7130532043e76849602.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='16fef86e330a392ddd888fcb46060c3e1efa87c5603'></a> Source: [dev-itpro\analytics\sales-profitability-performance-content-pack.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/sales-profitability-performance-content-pack.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [sales-profitability-performance-content-pack.d2680a47e0db549942c8dbcdee0eb332ab88532e.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/sales-profitability-performance-content-pack.d2680a47e0db549942c8dbcdee0eb332ab88532e.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='ea4ee6cfdca6e65f289db32ca41305a39b186033604'></a> Source: [dev-itpro\analytics\setup-security-cost-accounting-content-pack.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/setup-security-cost-accounting-content-pack.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [setup-security-cost-accounting-content-pack.0cce33f86ee14ac1c15aebd668bd89daaa5e73ae.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/setup-security-cost-accounting-content-pack.0cce33f86ee14ac1c15aebd668bd89daaa5e73ae.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='f4dc2ae9e8c44e3fb809e1fc7db08856b2d608fd605'></a> Source: [dev-itpro\analytics\SSRS-report.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/SSRS-report.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [SSRS-report.779a8c72063af39dc0a7cad6ef7873e452e362b3.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/SSRS-report.779a8c72063af39dc0a7cad6ef7873e452e362b3.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='73f4e552b5e01eb41f643bcac95c4ddc70429558606'></a> Source: [dev-itpro\analytics\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/TOC.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [TOC.e308ca3562b4aec9315955f56fd46b50ef387d1f.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/TOC.e308ca3562b4aec9315955f56fd46b50ef387d1f.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='3daa69a1f042c2eb525e7e26eb0fe29253fe9e90608'></a> Source: [dev-itpro\analytics\warehouse-power-bi-content.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/warehouse-power-bi-content.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [warehouse-power-bi-content.0e90d560ff372f5a757abea2f9bdd0a1ef9959b8.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/warehouse-power-bi-content.0e90d560ff372f5a757abea2f9bdd0a1ef9959b8.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='1f732a53eee17317417058b92706a9228d783cb5609'></a> Source: [dev-itpro\analytics\workforce-analysis-power-bi-content-pack.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/analytics/workforce-analysis-power-bi-content-pack.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [workforce-analysis-power-bi-content-pack.8f4f0698ecdd95d3af867a2d8ddc32b4efb8c21a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/workforce-analysis-power-bi-content-pack.8f4f0698ecdd95d3af867a2d8ddc32b4efb8c21a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='ba714aa7d17ab4b4d916ac27c92f54d1a7283d27818'></a> Source: [dev-itpro\database\copy-database-from-azure-sql-to-sql-server.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/database/copy-database-from-azure-sql-to-sql-server.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [copy-database-from-azure-sql-to-sql-server.6bfd062792be9730228427cb422ac4d0aab31bb7.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/copy-database-from-azure-sql-to-sql-server.6bfd062792be9730228427cb422ac4d0aab31bb7.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='396dc6334b0a69e860740ae9c8f31395e128a6dc819'></a> Source: [dev-itpro\database\copy-database-from-sql-server-to-azure-sql.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/database/copy-database-from-sql-server-to-azure-sql.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [copy-database-from-sql-server-to-azure-sql.56d0acfa8264d826eceb18c0d0f2c9a0e88c4719.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/copy-database-from-sql-server-to-azure-sql.56d0acfa8264d826eceb18c0d0f2c9a0e88c4719.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='c355ed768d7a6035797687079751d22ecd522a0f820'></a> Source: [dev-itpro\database\copy-operations-database.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/database/copy-operations-database.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [copy-operations-database.5f5a4cea3d8415aaee54827c0a597442f950348f.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/copy-operations-database.5f5a4cea3d8415aaee54827c0a597442f950348f.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='28ee0db9275dda20d016520c4c7058af652d0104821'></a> Source: [dev-itpro\database\database-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/database/database-management.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [database-management.e1f21d7bf55d0c53feb9c4f53b8b62a81080d659.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/database-management.e1f21d7bf55d0c53feb9c4f53b8b62a81080d659.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='3c16d87b67414ebabd6d352ba1f525c181b130f1832'></a> Source: [dev-itpro\database\request-point-in-time-restore.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/database/request-point-in-time-restore.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [request-point-in-time-restore.85ce77591b8e489cbdc9d9073648bb733e6705a3.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/request-point-in-time-restore.85ce77591b8e489cbdc9d9073648bb733e6705a3.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='f37e6a0ebd76057aedb823033182e5797f4cd0f0611'></a> Source: [dev-itpro\data-entities\build-consuming-data-entities.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/build-consuming-data-entities.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [build-consuming-data-entities.a8d02d954fcee0ac31aa82b49eca5a28f206fd8f.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/build-consuming-data-entities.a8d02d954fcee0ac31aa82b49eca5a28f206fd8f.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='828a3abd656a8aff92e5a0b68e2e69d45e02ee9e614'></a> Source: [dev-itpro\data-entities\copy-configuration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/copy-configuration.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [copy-configuration.5f54cdff770c114bffd83514adb11bbd139692eb.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/copy-configuration.5f54cdff770c114bffd83514adb11bbd139692eb.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='350e5707e394ce15e47ad3d88a617469b5eab8a8647'></a> Source: [dev-itpro\data-entities\database-management-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/database-management-home-page.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [database-management-home-page.139d4d84f9687990301b0f3f314d57dab6d96739.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/database-management-home-page.139d4d84f9687990301b0f3f314d57dab6d96739.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='7f215519a24c4db96b94d9b72abecf1771d7b2ca643'></a> Source: [dev-itpro\data-entities\data-entities.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [data-entities.f859a3d581f103420e742391e64f330aa13cd1c7.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/data-entities.f859a3d581f103420e742391e64f330aa13cd1c7.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='0273638dba7e8cd09f261cdecf044896345ba2e3617'></a> Source: [dev-itpro\data-entities\data-entities-accounts-payable-taxes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-accounts-payable-taxes.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [data-entities-accounts-payable-taxes.1701d654781c663205f54963a6fb100fd7c9aacd.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/data-entities-accounts-payable-taxes.1701d654781c663205f54963a6fb100fd7c9aacd.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='fe06501944fa54ef9ef73b9b42a2e2342771c15a618'></a> Source: [dev-itpro\data-entities\data-entities-accounts-receivable.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-accounts-receivable.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [data-entities-accounts-receivable.bd9011adc5917be5c700f3bfb5fe38d1a0fc2ade.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/data-entities-accounts-receivable.bd9011adc5917be5c700f3bfb5fe38d1a0fc2ade.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='815b889d02ed4721f8803993035cfd2a3f67800c619'></a> Source: [dev-itpro\data-entities\data-entities-bank.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-bank.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [data-entities-bank.39196d155d2d1bbfa135a3a9f339ec5b1723e974.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/data-entities-bank.39196d155d2d1bbfa135a3a9f339ec5b1723e974.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='eba2542bc05b20b9ef25288ff8151b8746570a5e620'></a> Source: [dev-itpro\data-entities\data-entities-beginning-balances.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-beginning-balances.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [data-entities-beginning-balances.b3e4450b12f11dc8e0d8ced66864c519522ab9e1.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/data-entities-beginning-balances.b3e4450b12f11dc8e0d8ced66864c519522ab9e1.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='213102a4e857cfbfcd708d5273c5189d1f9c9f57622'></a> Source: [dev-itpro\data-entities\data-entities-budgeting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-budgeting.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [data-entities-budgeting.762bf287a6fc800ab22ad48f617b394b4c8b9853.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/data-entities-budgeting.762bf287a6fc800ab22ad48f617b394b4c8b9853.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='957eece273376acfca0ce8c9af9f58f31e78d07c621'></a> Source: [dev-itpro\data-entities\data-entities-budget-plan.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-budget-plan.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [data-entities-budget-plan.3955cd1e20016729c8047bac91de8bea4a7adc88.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/data-entities-budget-plan.3955cd1e20016729c8047bac91de8bea4a7adc88.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='c2499ec10f69a44220ef4d191c03fa68ff005639623'></a> Source: [dev-itpro\data-entities\data-entities-costing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-costing.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [data-entities-costing.d959723e124bab1884c0659bb57a8d94a04eefa5.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/data-entities-costing.d959723e124bab1884c0659bb57a8d94a04eefa5.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='e25fc622e24a37ecd9073db7f621e610fbd12cb2624'></a> Source: [dev-itpro\data-entities\data-entities-data-packages.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-data-packages.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [data-entities-data-packages.f538b0de6d74e414743a5c2db46bdcdd0b2f7268.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/data-entities-data-packages.f538b0de6d74e414743a5c2db46bdcdd0b2f7268.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='d7941bbbd800a3f95480a7217f28a07c23822f1f625'></a> Source: [dev-itpro\data-entities\data-entities-expense-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-expense-management.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [data-entities-expense-management.f8dbd8a219d20ec7b72fcc029ec894a780872ca3.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/data-entities-expense-management.f8dbd8a219d20ec7b72fcc029ec894a780872ca3.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='cff3a5bb77690d70e95650c91df17151de01a4ab626'></a> Source: [dev-itpro\data-entities\data-entities-fixed-assets.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-fixed-assets.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [data-entities-fixed-assets.14b7ac73ab1284abcfd86485326e60b104c1bbc4.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/data-entities-fixed-assets.14b7ac73ab1284abcfd86485326e60b104c1bbc4.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='faf53504ee96c2baf24d011c4ad1411d57402b61627'></a> Source: [dev-itpro\data-entities\data-entities-general-ledger.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-general-ledger.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [data-entities-general-ledger.af25d820e64e922d3c1d1b16a7ad547d5524c748.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/data-entities-general-ledger.af25d820e64e922d3c1d1b16a7ad547d5524c748.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='47d05dce05bea2203bb245c74f3542147590cda9628'></a> Source: [dev-itpro\data-entities\data-entities-global-address-book.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-global-address-book.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [data-entities-global-address-book.f4713bdde8d7e3b031c2ff64431783e103eedd20.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/data-entities-global-address-book.f4713bdde8d7e3b031c2ff64431783e103eedd20.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='8ed78b84e5664c99a41aa9de9b74d3e9de16d21a629'></a> Source: [dev-itpro\data-entities\data-entities-human-resources.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-human-resources.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [data-entities-human-resources.030bc22c487693a92c18fb97e33930c44bb0807c.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/data-entities-human-resources.030bc22c487693a92c18fb97e33930c44bb0807c.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='d235f6f612d16d89d0da3221b2dbcc80f48c2e57630'></a> Source: [dev-itpro\data-entities\data-entities-inventory-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-inventory-management.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [data-entities-inventory-management.a8ded4a571c3379e4f0b1d629f35cf516b6a6f48.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/data-entities-inventory-management.a8ded4a571c3379e4f0b1d629f35cf516b6a6f48.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='1fb9a2a5e12a578a3e925e5a5cad1158e56a9a58631'></a> Source: [dev-itpro\data-entities\data-entities-master-plan.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-master-plan.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [data-entities-master-plan.44dc68e89e60cd50f6f3ff2a20bbb9d352aac0ba.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/data-entities-master-plan.44dc68e89e60cd50f6f3ff2a20bbb9d352aac0ba.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='9cdacbc5fb6daa741cc651441fbb43f65900f6d6632'></a> Source: [dev-itpro\data-entities\data-entities-procurement-sourcing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-procurement-sourcing.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [data-entities-procurement-sourcing.c62cde4a4fc0aa51f5b278f561a3655ef8b31443.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/data-entities-procurement-sourcing.c62cde4a4fc0aa51f5b278f561a3655ef8b31443.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='643b33f9ee1f54fc7e0639ce5df60f93054934a4633'></a> Source: [dev-itpro\data-entities\data-entities-product-information-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-product-information-management.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [data-entities-product-information-management.32eab14462cf2d0194f6448a826d2843ec1445d6.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/data-entities-product-information-management.32eab14462cf2d0194f6448a826d2843ec1445d6.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='6f1d7e84a233c815bdc2b4b6668036135702338c634'></a> Source: [dev-itpro\data-entities\data-entities-production-control.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-production-control.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [data-entities-production-control.dba2e7dde75dabe3b47f0ce2c83fcb143c6ea240.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/data-entities-production-control.dba2e7dde75dabe3b47f0ce2c83fcb143c6ea240.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='b88d833ed16d5a58fa0243aa62b2a0c0b5f4cd05635'></a> Source: [dev-itpro\data-entities\data-entities-project-accounting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-project-accounting.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [data-entities-project-accounting.c6f523456bdcdf7d3bfbc0846a4f46817bb8acb2.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/data-entities-project-accounting.c6f523456bdcdf7d3bfbc0846a4f46817bb8acb2.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='f4a8828af08d72e18538a283b05b162128ed8ab7636'></a> Source: [dev-itpro\data-entities\data-entities-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-public-sector.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [data-entities-public-sector.a621e5fa6f355defb5798b39987aa64cf5c6c4d7.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/data-entities-public-sector.a621e5fa6f355defb5798b39987aa64cf5c6c4d7.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='f62317e7d1efb0423d5be9810664dad6e8dc875c637'></a> Source: [dev-itpro\data-entities\data-entities-report.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-report.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [data-entities-report.8ed124610120d3c07fa9aa38122dd67970356b69.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/data-entities-report.8ed124610120d3c07fa9aa38122dd67970356b69.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='1d603052bcbf5818e941b5bd2a8a183428b60154638'></a> Source: [dev-itpro\data-entities\data-entities-retail.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-retail.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [data-entities-retail.7ca3fcd4d488cf52052e9227cbc2994db97f1957.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/data-entities-retail.7ca3fcd4d488cf52052e9227cbc2994db97f1957.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='41e23fd6f522d7c3a8792ee503285d3a46a38800640'></a> Source: [dev-itpro\data-entities\data-entities-sales-marketing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-sales-marketing.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [data-entities-sales-marketing.fd948e0c7e80eb29e030913a70c0b8dd5d611274.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/data-entities-sales-marketing.fd948e0c7e80eb29e030913a70c0b8dd5d611274.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='347a2af488d5444a4112908ef20b11053ea335eb639'></a> Source: [dev-itpro\data-entities\data-entities-sales-marketing-pre-sales.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-sales-marketing-pre-sales.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [data-entities-sales-marketing-pre-sales.bea1287bd7e3c7165d12e9f63b96c19598edf4c9.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/data-entities-sales-marketing-pre-sales.bea1287bd7e3c7165d12e9f63b96c19598edf4c9.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='0eed62b52afee86f6152af25e6b6744305ad214b641'></a> Source: [dev-itpro\data-entities\data-entities-system-administration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-system-administration.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [data-entities-system-administration.2c4b9f870f26e261c8f299d27167ac169f667055.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/data-entities-system-administration.2c4b9f870f26e261c8f299d27167ac169f667055.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='f24720e0f30d194cae4d4a12974ab8c762f6e457642'></a> Source: [dev-itpro\data-entities\data-entities-workflow.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-entities-workflow.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [data-entities-workflow.94cae732a7061926341f711f2a1540d1f500cfe6.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/data-entities-workflow.94cae732a7061926341f711f2a1540d1f500cfe6.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='f2ee1cf226c7a007204a01805b34e4f37db1a9b1646'></a> Source: [dev-itpro\data-entities\data-management-integration-data-entity.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/data-management-integration-data-entity.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [data-management-integration-data-entity.32c548b020c941b1dad71db8c1be3e6534929ab4.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/data-management-integration-data-entity.32c548b020c941b1dad71db8c1be3e6534929ab4.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='8a7728b1042a581f3e13664bfbc8d7d0f0916cd2649'></a> Source: [dev-itpro\data-entities\develop-entity-for-data-migration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/develop-entity-for-data-migration.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [develop-entity-for-data-migration.6d0f4ecfbb132b7c9e01b0da15dee4144bf77b40.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/develop-entity-for-data-migration.6d0f4ecfbb132b7c9e01b0da15dee4144bf77b40.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='f13060ca1abb22d50cf07c143480bba84b348e86810'></a> Source: [dev-itpro\data-entities\recurring-integrations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/recurring-integrations.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [recurring-integrations.0fdad986ac955ef0abfbffda04b88271e1bce35c.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/recurring-integrations.0fdad986ac955ef0abfbffda04b88271e1bce35c.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='224f23dd598d5e2fd2ecb888ca6ea55cd9060e32811'></a> Source: [dev-itpro\data-entities\security-data-entities.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/security-data-entities.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [security-data-entities.da4d240d9b168dd9210ad5af60852426df47d8ed.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/security-data-entities.da4d240d9b168dd9210ad5af60852426df47d8ed.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='98b49557fe0bb50545f0dcd3480ac4fa71ac1327812'></a> Source: [dev-itpro\data-entities\services-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/services-home-page.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [services-home-page.997a5a424398e472d5e58dee5f206f34bc74d9d9.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/services-home-page.997a5a424398e472d5e58dee5f206f34bc74d9d9.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='b9a5c03584635908067bb7b623deba76f4ba3e18814'></a> Source: [dev-itpro\data-entities\tips-tricks-import-general-journal-entity.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/data-entities/tips-tricks-import-general-journal-entity.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [tips-tricks-import-general-journal-entity.dc3bd73159b01922e8e3da48b4649b5fafdee73f.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/tips-tricks-import-general-journal-entity.dc3bd73159b01922e8e3da48b4649b5fafdee73f.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='263ca817ff075505a0a9c25fc50ef5bdc46c4cd0834'></a> Source: [dev-itpro\deployment\apply-deployable-package-system.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/deployment/apply-deployable-package-system.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [apply-deployable-package-system.6bfeb3d3b384ff1348b8260028e30af30b925e0e.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/apply-deployable-package-system.6bfeb3d3b384ff1348b8260028e30af30b925e0e.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='efcd42775b1b8e87672e162df38ab2776a1c98cc836'></a> Source: [dev-itpro\deployment\create-apply-deployable-package.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/deployment/create-apply-deployable-package.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [create-apply-deployable-package.32853ee582c83d7ae5c144e1581b384956f5aea1.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/create-apply-deployable-package.32853ee582c83d7ae5c144e1581b384956f5aea1.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='30c5a318786589cca9a5c63d5792a14090632b51837'></a> Source: [dev-itpro\deployment\csp-download-customersource.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/deployment/csp-download-customersource.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [csp-download-customersource.c4936c12eaaa669675fa0bf1fa1addc3e833ddd7.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/csp-download-customersource.c4936c12eaaa669675fa0bf1fa1addc3e833ddd7.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='6ce310433ac19c1c56f33bab871571fd2244dbfd838'></a> Source: [dev-itpro\deployment\deploy-demo-environment.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/deployment/deploy-demo-environment.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [deploy-demo-environment.e24e4feebb4abf9c6d97619c2e4e8a2281e4632b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/deploy-demo-environment.e24e4feebb4abf9c6d97619c2e4e8a2281e4632b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='3af5135c0afe47bb723f7534dc9267bf6f0a71e1839'></a> Source: [dev-itpro\deployment\develop-deploy-custom-models-on-premises.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/deployment/develop-deploy-custom-models-on-premises.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [develop-deploy-custom-models-on-premises.5b553a7e8dd7f18793387546ab08667abffffd7d.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/develop-deploy-custom-models-on-premises.5b553a7e8dd7f18793387546ab08667abffffd7d.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='d7a95a4ea04f2cf90c9d70b19d1c12d381d601ca840'></a> Source: [dev-itpro\deployment\expressroute.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/deployment/expressroute.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [expressroute.615f9960fbfee03e4ef53d287083ca9887f6b280.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/expressroute.615f9960fbfee03e4ef53d287083ca9887f6b280.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='269b711ecfafda48f27fd13621d5358b5b3a1f66906'></a> Source: [dev-itpro\deployment\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/deployment/TOC.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [TOC.d28651616859e6ea875d7a6eaf59c4f183912c0d.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/TOC.d28651616859e6ea875d7a6eaf59c4f183912c0d.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='3c541a7f2b43699bf1c17c8b91172142469fd689907'></a> Source: [dev-itpro\dev-ref\a-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/a-classes.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [a-classes.6a45e8a7f4c9e343b54f3c31863fd0cc2cad7db8.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/a-classes.6a45e8a7f4c9e343b54f3c31863fd0cc2cad7db8.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='05fd466bf25804225bd811ce5832ee3ade9e80f5909'></a> Source: [dev-itpro\dev-ref\application-explorer-aot-properties.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/application-explorer-aot-properties.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [application-explorer-aot-properties.436ae2ea1a7bcf68344b5f110c19bffa404d406a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/application-explorer-aot-properties.436ae2ea1a7bcf68344b5f110c19bffa404d406a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='95c575eed8135adacd4fd31dc7cd620766aebf77911'></a> Source: [dev-itpro\dev-ref\c-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/c-classes.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [c-classes.e97f1538990f9dcc2ee4ee29fa3757256472fa23.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/c-classes.e97f1538990f9dcc2ee4ee29fa3757256472fa23.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='b2792853878abb0e633ba8fcd626b3ab9c0db105912'></a> Source: [dev-itpro\dev-ref\d-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/d-classes.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [d-classes.72d66fc3be861f4eb85e2db90bc22c87704f757a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/d-classes.72d66fc3be861f4eb85e2db90bc22c87704f757a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='0433c85273b2da235efe3fc50526ec5aeba893a9914'></a> Source: [dev-itpro\dev-ref\fieldbinding-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/fieldbinding-classes.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [fieldbinding-classes.4f7598eeb505945dfa4c0740aa4e45382c0b9d95.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/fieldbinding-classes.4f7598eeb505945dfa4c0740aa4e45382c0b9d95.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='fbd8472722ecb04a33902abc1471a68bd34457da915'></a> Source: [dev-itpro\dev-ref\formbuildbuttoncontrol-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/formbuildbuttoncontrol-classes.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [formbuildbuttoncontrol-classes.566ee522395b022a91592939894bfede37e9d083.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/formbuildbuttoncontrol-classes.566ee522395b022a91592939894bfede37e9d083.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='3f65d9f14002b5b49aa7e73ae8102d813152e057916'></a> Source: [dev-itpro\dev-ref\formbuildfilterpanecontrol-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/formbuildfilterpanecontrol-classes.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [formbuildfilterpanecontrol-classes.4d5cc7b43399f034e81abe879fedac06850740bf.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/formbuildfilterpanecontrol-classes.4d5cc7b43399f034e81abe879fedac06850740bf.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='e9229ae279703a1e3e5195b964b75c0dc8ecf592917'></a> Source: [dev-itpro\dev-ref\formbuildreferencecontrol-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/formbuildreferencecontrol-classes.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [formbuildreferencecontrol-classes.ce84156ec4e08117b2fd1dace0f97088dc93a611.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/formbuildreferencecontrol-classes.ce84156ec4e08117b2fd1dace0f97088dc93a611.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='6860b609ddf67462662041f2a2d083235b8fe598918'></a> Source: [dev-itpro\dev-ref\formchangetracker-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/formchangetracker-classes.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [formchangetracker-classes.65a859dbff5b2c9a5d0b67529f0db8cd1092175b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/formchangetracker-classes.65a859dbff5b2c9a5d0b67529f0db8cd1092175b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='efa29a9455b4bef60c8e696eee240ebe59404cfb919'></a> Source: [dev-itpro\dev-ref\formdataobject-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/formdataobject-classes.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [formdataobject-classes.26ab903f2d19d941d2136f4b782487181df0162b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/formdataobject-classes.26ab903f2d19d941d2136f4b782487181df0162b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='cfb9822070713568bf6a2387afd1a1e018a088ae920'></a> Source: [dev-itpro\dev-ref\formfasttabsummaryseparator-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/formfasttabsummaryseparator-classes.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [formfasttabsummaryseparator-classes.33d26b5c50cf94d59d99d2ad31ce7109d21a27cf.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/formfasttabsummaryseparator-classes.33d26b5c50cf94d59d99d2ad31ce7109d21a27cf.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='ac453775ac99794088fd170b158290b3d8dc1194921'></a> Source: [dev-itpro\dev-ref\formgroupcontrol-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/formgroupcontrol-classes.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [formgroupcontrol-classes.08543d98f361a56aeb6cebbc69065bfded494ff3.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/formgroupcontrol-classes.08543d98f361a56aeb6cebbc69065bfded494ff3.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='ffa7d9acf119769c18ee3520e8727f86e6e8eac4922'></a> Source: [dev-itpro\dev-ref\formlistboxcontrol-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/formlistboxcontrol-classes.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [formlistboxcontrol-classes.7ae7f6ac242e899aa8d5904db706604f38f9a688.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/formlistboxcontrol-classes.7ae7f6ac242e899aa8d5904db706604f38f9a688.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='46569cf30592302a6e23f7139e60749b11d737e8923'></a> Source: [dev-itpro\dev-ref\formobject-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/formobject-classes.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [formobject-classes.84800500d2533730c569ebff4ecd62b4b90e6b37.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/formobject-classes.84800500d2533730c569ebff4ecd62b4b90e6b37.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='485ea736663384470bba940144a7698ca90257e1924'></a> Source: [dev-itpro\dev-ref\formreferencecontrol-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/formreferencecontrol-classes.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [formreferencecontrol-classes.b7a8f161f7ef4ff70b7b3addf85606f08ce3072d.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/formreferencecontrol-classes.b7a8f161f7ef4ff70b7b3addf85606f08ce3072d.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='ff0addc45b9dfaca986d0eec12737b186c888a00925'></a> Source: [dev-itpro\dev-ref\formtabcontrol-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/formtabcontrol-classes.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [formtabcontrol-classes.fb186a74639de78a53ef6469e12da00d94b571de.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/formtabcontrol-classes.fb186a74639de78a53ef6469e12da00d94b571de.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='394d290f6c04c979c8a6b5809b41379a4fb200e1928'></a> Source: [dev-itpro\dev-ref\i-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/i-classes.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [i-classes.1349491ab1451571baef11e5ef555cd4d9ba73cc.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/i-classes.1349491ab1451571baef11e5ef555cd4d9ba73cc.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='165d675854bc544218c6f5a94045a2b8e9dfa06c929'></a> Source: [dev-itpro\dev-ref\j-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/j-classes.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [j-classes.3931ff87f34aedb59d77c64b4e3fb9c1dcb036c3.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/j-classes.3931ff87f34aedb59d77c64b4e3fb9c1dcb036c3.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='ba0c9dc63e5cd33f928d2afa8a136c44ba587c7f932'></a> Source: [dev-itpro\dev-ref\m-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/m-classes.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [m-classes.07bf3a56043657acea7916bbc78619157954edb5.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/m-classes.07bf3a56043657acea7916bbc78619157954edb5.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='c622c7a713b8cf4bb4a02833d520af7f502ad743939'></a> Source: [dev-itpro\dev-ref\p-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/p-classes.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [p-classes.6f89e26c9443cd348fb5634df69598795b364f35.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/p-classes.6f89e26c9443cd348fb5634df69598795b364f35.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='8df9671935946c94ebefede1bc5a74a8b73bedc9940'></a> Source: [dev-itpro\dev-ref\q-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/q-classes.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [q-classes.2d9bee22db0ab760fd03a5a4563bf62585c96291.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/q-classes.2d9bee22db0ab760fd03a5a4563bf62585c96291.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='4f8bd40af833bd22aaa93a2ae889a34a3e2222b4941'></a> Source: [dev-itpro\dev-ref\r-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/r-classes.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [r-classes.8bd92bbe86c9c8988091dc166dce941a3d94fe40.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/r-classes.8bd92bbe86c9c8988091dc166dce941a3d94fe40.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='d9980d26248b56e491efa5c15a4634c120cdf8c0942'></a> Source: [dev-itpro\dev-ref\s-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/s-classes.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [s-classes.c8ee7183c647f90d2d97ea33f4ac0f626a0f276a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/s-classes.c8ee7183c647f90d2d97ea33f4ac0f626a0f276a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='656c8712fbaa2e482056f27ed8bec4be8511206b944'></a> Source: [dev-itpro\dev-ref\t-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/t-classes.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [t-classes.16321783de80bf8fa2c154a4104dd779458da39a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/t-classes.16321783de80bf8fa2c154a4104dd779458da39a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='de130f2b779eda3bce8295d450e8629f0f128b24946'></a> Source: [dev-itpro\dev-ref\v-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/v-classes.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [v-classes.4eb6ca189cd121052447e78e6cf94a5da882c87a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/v-classes.4eb6ca189cd121052447e78e6cf94a5da882c87a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='56211c2624d51075d8d5a7a172ec96e5f81dd527947'></a> Source: [dev-itpro\dev-ref\w-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/w-classes.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [w-classes.36b7d37815a0cb2d61454046ed59a3f3c78914eb.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/w-classes.36b7d37815a0cb2d61454046ed59a3f3c78914eb.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='5c8f221f7e001544b5bed6e1d4c563d96a186e2e948'></a> Source: [dev-itpro\dev-ref\x-classes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/x-classes.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [x-classes.0c99bbf3e04966bedfa45d4eafbf160ca0b21d01.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/x-classes.0c99bbf3e04966bedfa45d4eafbf160ca0b21d01.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='3718ce60ca249c24992dda14553a01de44769d89951'></a> Source: [dev-itpro\dev-ref\xpp-classes-methods.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/xpp-classes-methods.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [xpp-classes-methods.c393d93306d38c870f154e8469aa2595f2613abb.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/xpp-classes-methods.c393d93306d38c870f154e8469aa2595f2613abb.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='ae436a197ed8360e45ed637110fd70ea28bcd4bc955'></a> Source: [dev-itpro\dev-ref\xpp-cs-comparison.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/xpp-cs-comparison.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [xpp-cs-comparison.527d6041bbfc2933ba190ad164f5794ac8a10019.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/xpp-cs-comparison.527d6041bbfc2933ba190ad164f5794ac8a10019.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='eb002d3612c193b668f87ae07f1c0f192c9a90f1956'></a> Source: [dev-itpro\dev-ref\xpp-data-query.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/xpp-data-query.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [xpp-data-query.46d7e5f0cdecd5e4b7ec49e240dc9d4c1ef1eec7.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/xpp-data-query.46d7e5f0cdecd5e4b7ec49e240dc9d4c1ef1eec7.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='43971074fab015e90edd37c63eaf18ee0c96f185957'></a> Source: [dev-itpro\dev-ref\xpp-date-run-time-functions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/xpp-date-run-time-functions.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [xpp-date-run-time-functions.9e822431d800d87caef110687c8b1bfab2d60c7c.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/xpp-date-run-time-functions.9e822431d800d87caef110687c8b1bfab2d60c7c.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='c59916ac54d989a2074faf633ad1443f65c493fc959'></a> Source: [dev-itpro\dev-ref\xpp-macros.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/xpp-macros.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [xpp-macros.d0a05a70da96a005ad921f29efdb011e5f0a351c.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/xpp-macros.d0a05a70da96a005ad921f29efdb011e5f0a351c.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='e07243eb34f1d45d1f9e1eddc6e30f0289e056e3961'></a> Source: [dev-itpro\dev-ref\xpp-operator-precedence.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/xpp-operator-precedence.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [xpp-operator-precedence.5d3e6f039485532b2ef482c138210620e6376e7f.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/xpp-operator-precedence.5d3e6f039485532b2ef482c138210620e6376e7f.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='0939c912d07c021e1f517179e19ab91d5de91b8c968'></a> Source: [dev-itpro\dev-ref\xpp-syntax.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/xpp-syntax.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [xpp-syntax.cbb0f8083e5b338139ce9397505b2f1267551867.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/xpp-syntax.cbb0f8083e5b338139ce9397505b2f1267551867.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='65fcfe3441e4bf31deb50a24ef72ec373e64fc83969'></a> Source: [dev-itpro\dev-ref\xpp-variables-data-types.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-ref/xpp-variables-data-types.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [xpp-variables-data-types.23cdb8a6a7367cbdd11fb6b38d4af658302b0fe5.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/xpp-variables-data-types.23cdb8a6a7367cbdd11fb6b38d4af658302b0fe5.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='80a74c95a1a2e3c250cc6e71cb99df206a8898bf970'></a> Source: [dev-itpro\dev-tools\access-instances.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/access-instances.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [access-instances.d9c5fcabf373a823c5767767eb298734dcef4b46.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/access-instances.d9c5fcabf373a823c5767767eb298734dcef4b46.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='c17cc1c165ee54b50fd316d5f7f437aa34c25721971'></a> Source: [dev-itpro\dev-tools\application-explorer.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/application-explorer.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [application-explorer.02a3a85d1236d684395ed0c6aef1ca8b6d69b2e2.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/application-explorer.02a3a85d1236d684395ed0c6aef1ca8b6d69b2e2.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='db616e33286a553dd009fa8cfd8171aec9b9d493972'></a> Source: [dev-itpro\dev-tools\application-stack-server-architecture.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/application-stack-server-architecture.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [application-stack-server-architecture.10aeec2f9f7d638afd6348cc76d38109bd448171.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/application-stack-server-architecture.10aeec2f9f7d638afd6348cc76d38109bd448171.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='320e0565d61e618d9fbce967f113a273843aff20973'></a> Source: [dev-itpro\dev-tools\author-best-practice-rules.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/author-best-practice-rules.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [author-best-practice-rules.0eefc0f17157cc3749602acbd1e481734c45c4c8.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/author-best-practice-rules.0eefc0f17157cc3749602acbd1e481734c45c4c8.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='dea4a4669bf3494e65485816ec4d0ebb34ed6a40974'></a> Source: [dev-itpro\dev-tools\build-debug-project.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/build-debug-project.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [build-debug-project.33c944b8b910c2f3bd0b6094b3e55d1ba2e5daff.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/build-debug-project.33c944b8b910c2f3bd0b6094b3e55d1ba2e5daff.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='b20fa56f70c09831fdbccd9c30384356d4ecd9c8978'></a> Source: [dev-itpro\dev-tools\continuous-delivery-faq.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/continuous-delivery-faq.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [continuous-delivery-faq.49b691a0267b6c866e8d88ec2d9ae6a9ead0d3c3.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/continuous-delivery-faq.49b691a0267b6c866e8d88ec2d9ae6a9ead0d3c3.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='0adb59a347015204ab94c43678e2053edc139034979'></a> Source: [dev-itpro\dev-tools\continuous-delivery-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/continuous-delivery-home-page.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [continuous-delivery-home-page.1ed311f360ce5aabda39d10383601b69649ab1ab.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/continuous-delivery-home-page.1ed311f360ce5aabda39d10383601b69649ab1ab.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='b2cd27eb77997d8eaae203541db0ede48b1b9eff981'></a> Source: [dev-itpro\dev-tools\customization-analysis-report.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/customization-analysis-report.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [customization-analysis-report.7d996f5f175bf23fd6cdb3de56c781e8e987816c.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/customization-analysis-report.7d996f5f175bf23fd6cdb3de56c781e8e987816c.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='7d4e6c173cbbcf24eb448c42265dd27041a1e3e2983'></a> Source: [dev-itpro\dev-tools\date-effectivity.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/date-effectivity.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [date-effectivity.61e8bb005190e196854a2d3e930d4fa1f73cfcdf.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/date-effectivity.61e8bb005190e196854a2d3e930d4fa1f73cfcdf.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='e2767e6955835b58682db51e9a770aa632fa9169984'></a> Source: [dev-itpro\dev-tools\debug-x-issue-against-copy-of-production.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/debug-x-issue-against-copy-of-production.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [debug-x-issue-against-copy-of-production.61f43c5fc90b7c09f47f5e15d8d74891d6918e4d.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/debug-x-issue-against-copy-of-production.61f43c5fc90b7c09f47f5e15d8d74891d6918e4d.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='4b045eaea0f9061c205a719f49e672c73793e362985'></a> Source: [dev-itpro\dev-tools\debug-xpp.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/debug-xpp.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [debug-xpp.7b9ebd308f9d033766c6e5f0c85098299721c909.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/debug-xpp.7b9ebd308f9d033766c6e5f0c85098299721c909.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='1a83c990889c414b9e09d877adf6c49d2f4a9e38987'></a> Source: [dev-itpro\dev-tools\developer-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/developer-home-page.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [developer-home-page.03dfcd17ae58422821c32ba141072b22764affab.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/developer-home-page.03dfcd17ae58422821c32ba141072b22764affab.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='72f8f4dfb7fba84ab92e220066e33fde4d7120ac988'></a> Source: [dev-itpro\dev-tools\developer-tools-add-ins.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/developer-tools-add-ins.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [developer-tools-add-ins.88abedb010afbcd2813787d8ec4ce56b011c4178.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/developer-tools-add-ins.88abedb010afbcd2813787d8ec4ce56b011c4178.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='74c61db95e2774566a94f936b49d4bb31d269f07990'></a> Source: [dev-itpro\dev-tools\development-tools-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/development-tools-overview.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [development-tools-overview.0813e2be9eaaede5b433deb5fbdc2955da6d3349.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/development-tools-overview.0813e2be9eaaede5b433deb5fbdc2955da6d3349.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='dd03bc3043d06d8c1bdef5b8b9f038062ef74cb8991'></a> Source: [dev-itpro\dev-tools\element-designers.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/element-designers.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [element-designers.0efd00cc5de043d0d06ccfa938e894be3aa070c4.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/element-designers.0efd00cc5de043d0d06ccfa938e894be3aa070c4.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='6fc08ee0e3c8c2dd7fda5c3de63185a42fdf6255996'></a> Source: [dev-itpro\dev-tools\fleet-management-sample.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/fleet-management-sample.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [fleet-management-sample.9c0043562ddcb091e33bd29646d4b2370c283b12.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/fleet-management-sample.9c0043562ddcb091e33bd29646d4b2370c283b12.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='054b0649559e978cc027492d3e5a8f39820e1492997'></a> Source: [dev-itpro\dev-tools\get-evaluation-copy.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/get-evaluation-copy.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [get-evaluation-copy.523384f870ada4793b49fd4fa9ab4bd9ca7c3037.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/get-evaluation-copy.523384f870ada4793b49fd4fa9ab4bd9ca7c3037.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='b27e425a88079b44812c9debc5e726e2241103cd999'></a> Source: [dev-itpro\dev-tools\introduction-visual-studio.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/introduction-visual-studio.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [introduction-visual-studio.7ce9be48342fd5d7988bb66153e989d14aa47401.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/introduction-visual-studio.7ce9be48342fd5d7988bb66153e989d14aa47401.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='e0c074cd682b44c34fe3a18287a5bb91a40f55161000'></a> Source: [dev-itpro\dev-tools\isv-licensing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/isv-licensing.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [isv-licensing.a418b62994eac9172e970a69cef24a1d3980517d.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/isv-licensing.a418b62994eac9172e970a69cef24a1d3980517d.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='9b45e8e35dab717319eb26b7bfa6be7b3dc791641001'></a> Source: [dev-itpro\dev-tools\linq-provider-c.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/linq-provider-c.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [linq-provider-c.9e33480121bae87883f1de89d71690f4837bff46.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/linq-provider-c.9e33480121bae87883f1de89d71690f4837bff46.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='900411ebbd944a3c8e529081a89a7a5ab8a572c91002'></a> Source: [dev-itpro\dev-tools\lock-models.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/lock-models.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [lock-models.0548cde84664c7289eacb4988734fbdefb43eaf3.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/lock-models.0548cde84664c7289eacb4988734fbdefb43eaf3.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='74e6c6836a15b1044145cd01c450fbfdf8f680941219'></a> Source: [dev-itpro\dev-tools\models-export-import.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/models-export-import.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [models-export-import.a043594f9d51036284eceb0b3091f2eff75d9321.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/models-export-import.a043594f9d51036284eceb0b3091f2eff75d9321.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='af040a71fe5351faf9f538706493818ef016a9051221'></a> Source: [dev-itpro\dev-tools\new-x-debugger-features.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/new-x-debugger-features.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [new-x-debugger-features.6d6f5986510a6e07ed3ec1c20ad07a6f3ae15469.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/new-x-debugger-features.6d6f5986510a6e07ed3ec1c20ad07a6f3ae15469.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='24c3e98efcdb16abea32810d247f7c2bf8d4246c1222'></a> Source: [dev-itpro\dev-tools\programming-language-support.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/programming-language-support.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [programming-language-support.b539fcccd4e0f34e14162d6808006550d38c764e.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/programming-language-support.b539fcccd4e0f34e14162d6808006550d38c764e.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='71c5dd66976fed2a814e478d4e7e039ed040a2eb1223'></a> Source: [dev-itpro\dev-tools\projects.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/projects.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [projects.7452a568ae255e9d68b2d3182c2d9df22412b320.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/projects.7452a568ae255e9d68b2d3182c2d9df22412b320.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='ca0688ee7f5232fba1c5755e7440c8a55b2403351224'></a> Source: [dev-itpro\dev-tools\sign-up-preview-subscription.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/sign-up-preview-subscription.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [sign-up-preview-subscription.97946348458e9103fe904e1081c3ad6428f03dca.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/sign-up-preview-subscription.97946348458e9103fe904e1081c3ad6428f03dca.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='5b0a85aa814ff82c790e32c3acda933daccb1b4c1225'></a> Source: [dev-itpro\dev-tools\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/TOC.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [TOC.9ff42d7fecd0fb410e90a3a9e0dd05e6bb9ea69c.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/TOC.9ff42d7fecd0fb410e90a3a9e0dd05e6bb9ea69c.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='4f1a6901433e559ea9d881e8d69b9010297eca581226'></a> Source: [dev-itpro\dev-tools\update-development-tools.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/update-development-tools.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [update-development-tools.199db1996115e43271a741a9d42f61c0aecfb380.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/update-development-tools.199db1996115e43271a741a9d42f61c0aecfb380.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='edc84c4c518068f4daf0ae9f263f2d055697be911228'></a> Source: [dev-itpro\dev-tools\version-models-build.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/dev-tools/version-models-build.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [version-models-build.109682c8a430494274c30d510482ee260d0139f0.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/version-models-build.109682c8a430494274c30d510482ee260d0139f0.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='f429956249f57898642051958c76209f1bf4189b1232'></a> Source: [dev-itpro\extensibility\customization-overlayering-extensions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/extensibility/customization-overlayering-extensions.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [customization-overlayering-extensions.7d8b06c4683f8b0b34825216b9bf3562a62c1ea1.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/customization-overlayering-extensions.7d8b06c4683f8b0b34825216b9bf3562a62c1ea1.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='92d3ce6ffe33e95d6c8891aa8e44f059949548881234'></a> Source: [dev-itpro\extensibility\extend-number-sequence-scope.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/extensibility/extend-number-sequence-scope.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [extend-number-sequence-scope.3f33fc86e88f7b2b69c06e8877f13981ef08cf67.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/extend-number-sequence-scope.3f33fc86e88f7b2b69c06e8877f13981ef08cf67.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='6f055e2e4d062e025be2b11cc61b6f31f76a14241236'></a> Source: [dev-itpro\extensibility\extensibility-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/extensibility/extensibility-home-page.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [extensibility-home-page.9e5cea6c1a51e5f9d4df08a28d3dae2ae1a52e6b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/extensibility-home-page.9e5cea6c1a51e5f9d4df08a28d3dae2ae1a52e6b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='8362e4268c5f65f7201582b0c21e96c9cc8b0f1f1285'></a> Source: [dev-itpro\financial\add-dimensions-excel-templates.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/financial/add-dimensions-excel-templates.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [add-dimensions-excel-templates.aa45f52e664818f6ce09cbd90642f80d25fb0761.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/add-dimensions-excel-templates.aa45f52e664818f6ce09cbd90642f80d25fb0761.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='5edb533cc97cc388bbbd244d5ff1249569353fe11286'></a> Source: [dev-itpro\financial\create-exchange-rate-providers.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/financial/create-exchange-rate-providers.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [create-exchange-rate-providers.c44ed6ff78584138c59c704610fb47c75ca8a1f8.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/create-exchange-rate-providers.c44ed6ff78584138c59c704610fb47c75ca8a1f8.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='b776eb027bc34523850b3f2819aa608e2b60cecf1287'></a> Source: [dev-itpro\financial\dimension-entry-control-dialog-support.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/financial/dimension-entry-control-dialog-support.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [dimension-entry-control-dialog-support.3c124a031a35270dbb32f4f2215cc19f28d3898a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/dimension-entry-control-dialog-support.3c124a031a35270dbb32f4f2215cc19f28d3898a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='b0c10a89d1c3fce273b6c172d930c67d24e0a7a81290'></a> Source: [dev-itpro\financial\dimension-entry-control-uptake.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/financial/dimension-entry-control-uptake.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [dimension-entry-control-uptake.36438f1c299b010f22aeefa25c7aa61c6f879c6c.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/dimension-entry-control-uptake.36438f1c299b010f22aeefa25c7aa61c6f879c6c.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='0af9395924a556d18c649c526edd93da2d1af6551293'></a> Source: [dev-itpro\financial\dimensions-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/financial/dimensions-overview.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [dimensions-overview.451fa8c142ee3104a0aa6a24df49e175af9e39d7.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/dimensions-overview.451fa8c142ee3104a0aa6a24df49e175af9e39d7.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='2f1b52716ccf11911df06285ee0797e4cd7215931295'></a> Source: [dev-itpro\financial\financial-dimension-configuration-integration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/financial/financial-dimension-configuration-integration.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [financial-dimension-configuration-integration.45301d067dcf9a5e9e2ed451eb10a2f8f6013264.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/financial-dimension-configuration-integration.45301d067dcf9a5e9e2ed451eb10a2f8f6013264.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='e28d3b318c2efa0b9d0da1154692f8e64c553e641296'></a> Source: [dev-itpro\financial\financial-dimensions-main-accounts-right-left-language.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/financial/financial-dimensions-main-accounts-right-left-language.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [financial-dimensions-main-accounts-right-left-language.5aec9fd0a9a677fe286d8c1ec1b67d78c5f3b4be.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/financial-dimensions-main-accounts-right-left-language.5aec9fd0a9a677fe286d8c1ec1b67d78c5f3b4be.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='2163b122c471834614645bab1468745627fcd82a1359'></a> Source: [dev-itpro\financial\read-only-entity-financial.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/financial/read-only-entity-financial.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [read-only-entity-financial.74bb34178a6309296079b4beead96501d9b1bffe.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/read-only-entity-financial.74bb34178a6309296079b4beead96501d9b1bffe.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='7e7c9eb9b87c8352510b92cf32f2a61f4ef83e911361'></a> Source: [dev-itpro\financial\segmented-entry-control-dialog-support.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/financial/segmented-entry-control-dialog-support.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [segmented-entry-control-dialog-support.a08b36b6a2409b3c499fc84a443f44750ac28700.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/segmented-entry-control-dialog-support.a08b36b6a2409b3c499fc84a443f44750ac28700.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='96fb85d78430e6b87bb4ca4fadd3c46614d3740d1366'></a> Source: [dev-itpro\get-started\ax-2012-features-not-implemented-but-not-deprecated.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/get-started/ax-2012-features-not-implemented-but-not-deprecated.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [ax-2012-features-not-implemented-but-not-deprecated.afeb1b75b11a52b20c6ce0cf5e1405b4092c353f.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/ax-2012-features-not-implemented-but-not-deprecated.afeb1b75b11a52b20c6ce0cf5e1405b4092c353f.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='7c3c42a72a28846b4b1c9c33121b9699b1f4dae81367'></a> Source: [dev-itpro\get-started\demo-data.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/get-started/demo-data.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [demo-data.13786df60ecab17e1584e80ee5d54ca8526ddb91.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/demo-data.13786df60ecab17e1584e80ee5d54ca8526ddb91.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='6b1b3bd520ed8a26b05f48554a093335da1a51b01368'></a> Source: [dev-itpro\get-started\getting-started-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/get-started/getting-started-home-page.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [getting-started-home-page.8766ea88a42377ad0d32559a4075b8f38d83a39c.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/getting-started-home-page.8766ea88a42377ad0d32559a4075b8f38d83a39c.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='a463eef86c85aea108fe7925b5253d0eb6f8917f1369'></a> Source: [dev-itpro\get-started\help-connect.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/get-started/help-connect.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [help-connect.0bcbf81b6e6ccf4a648522bfe20129d2c51391be.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/help-connect.0bcbf81b6e6ccf4a648522bfe20129d2c51391be.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='1f3bf3ebcd136150a8417d1f13bc19595eaf6c921370'></a> Source: [dev-itpro\get-started\help-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/get-started/help-overview.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [help-overview.b869462a6d420a048d3fd3f10919bb7a7d51e2c7.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/help-overview.b869462a6d420a048d3fd3f10919bb7a7d51e2c7.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='cdad1d6c2466b47b07133a5335866ef6881609ca1431'></a> Source: [dev-itpro\get-started\new-task-guides-available-february-2016.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/get-started/new-task-guides-available-february-2016.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [new-task-guides-available-february-2016.ec30e15831f84d6b312ac49810e747972b99d6b1.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/new-task-guides-available-february-2016.ec30e15831f84d6b312ac49810e747972b99d6b1.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='724ee7ec29f8a9c4e8cc0b244193cd6c83c37f031435'></a> Source: [dev-itpro\get-started\system-requirements.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/get-started/system-requirements.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [system-requirements.7d121c546503381e5dacbab8e88f26f343056744.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/system-requirements.7d121c546503381e5dacbab8e88f26f343056744.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='7fd8180bb3ae4ebf5a8dd4446ccd19e65cb6708d1441'></a> Source: [dev-itpro\get-started\whats-new-dynamics-365-operations-1611.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/get-started/whats-new-dynamics-365-operations-1611.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [whats-new-dynamics-365-operations-1611.a09066ab4cddeae78227ce4f923c7979f75bfb93.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/whats-new-dynamics-365-operations-1611.a09066ab4cddeae78227ce4f923c7979f75bfb93.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='1bf1235ab896d9e41857c2a55494a02715559a601445'></a> Source: [dev-itpro\get-started\whats-new-platform-update-5.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/get-started/whats-new-platform-update-5.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [whats-new-platform-update-5.2fefafe5b91a3bfa47e2800338f46061ca95d335.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/whats-new-platform-update-5.2fefafe5b91a3bfa47e2800338f46061ca95d335.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='fc9065c5f23a98d01758d7380316fffd838b0e651446'></a> Source: [dev-itpro\get-started\whats-new-platform-update-6.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/get-started/whats-new-platform-update-6.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [whats-new-platform-update-6.dbd2421d73dbaf68050524de1bd35bb87bc2d225.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/whats-new-platform-update-6.dbd2421d73dbaf68050524de1bd35bb87bc2d225.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='3a4fd35cbf4ba7b9e037d553d27e8a06b5db08ed1448'></a> Source: [dev-itpro\includes\banner.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/includes/banner.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [banner.ff5170bbaf2ffc1afc8f1ec885ae42a4df20ee6b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/premium/banner.ff5170bbaf2ffc1afc8f1ec885ae42a4df20ee6b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='eec17ffd2d1b8a3d5c597d4cc38313b1c54961551449'></a> Source: [dev-itpro\index.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/index.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [index.fb87281ef628436b88d3e05b1b2c7b496889daa2.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/index.fb87281ef628436b88d3e05b1b2c7b496889daa2.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='75e4c36662491f935075bfa209dc9e92ed147d781451'></a> Source: [dev-itpro\lcs-solutions\apply-country-context.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lcs-solutions/apply-country-context.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [apply-country-context.79336dc1a7801ec2a79c033e6d16de571a071484.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/apply-country-context.79336dc1a7801ec2a79c033e6d16de571a071484.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='5a80dd05e2eb78d377b0a409d2d2063ceaf31fef1450'></a> Source: [dev-itpro\lcs-solutions\app-validation-lcs-solutions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lcs-solutions/app-validation-lcs-solutions.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [app-validation-lcs-solutions.cdd158d5d308dc44225b5d75c3f1cffd5c5523d2.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/app-validation-lcs-solutions.cdd158d5d308dc44225b5d75c3f1cffd5c5523d2.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='2c12fd38ea1bb2c0055ce77af59ecc7fad94b93e1452'></a> Source: [dev-itpro\lcs-solutions\business-process-modeler-libraries-lcs-solutions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lcs-solutions/business-process-modeler-libraries-lcs-solutions.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [business-process-modeler-libraries-lcs-solutions.2931d0b714ed2408f39c2e8be1bcf97525c7a648.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/business-process-modeler-libraries-lcs-solutions.2931d0b714ed2408f39c2e8be1bcf97525c7a648.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='9cf230fcc46debe1cfcc9d14a904c898db98702a1454'></a> Source: [dev-itpro\lcs-solutions\code-migration-lcs-solutions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lcs-solutions/code-migration-lcs-solutions.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [code-migration-lcs-solutions.d8b036ec685f8582c3033e79d9581d0cd47cd296.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/code-migration-lcs-solutions.d8b036ec685f8582c3033e79d9581d0cd47cd296.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='58b137dab1404538a01496aa5ad68cc61ddd1f651455'></a> Source: [dev-itpro\lcs-solutions\country-region.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lcs-solutions/country-region.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [country-region.25039eba4aeffb6c856d86095cd713a4a54ac690.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/premium/country-region.25039eba4aeffb6c856d86095cd713a4a54ac690.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='e33f8f5318cf0cb333f9fef53b53b37f83a24c691456'></a> Source: [dev-itpro\lcs-solutions\database-backup-lcs-solutions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lcs-solutions/database-backup-lcs-solutions.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [database-backup-lcs-solutions.3c5fdaafa292af01b697dce18ba8093d3ac3984d.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/database-backup-lcs-solutions.3c5fdaafa292af01b697dce18ba8093d3ac3984d.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='41267c346da4f9236ebe67e2cb43761162f353251458'></a> Source: [dev-itpro\lcs-solutions\marketing-content-lcs-solutions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lcs-solutions/marketing-content-lcs-solutions.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [marketing-content-lcs-solutions.1c20687aa46ee24ec3dd3a8a49360bdd55b0590b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/marketing-content-lcs-solutions.1c20687aa46ee24ec3dd3a8a49360bdd55b0590b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='e4efd7db6849c0be84515311b3f4c259163ca3a01502'></a> Source: [dev-itpro\lcs-solutions\process-data-packages-lcs-solutions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lcs-solutions/process-data-packages-lcs-solutions.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [process-data-packages-lcs-solutions.cf9f8f975a5b2a521c721efe200300166e62f1f7.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/process-data-packages-lcs-solutions.cf9f8f975a5b2a521c721efe200300166e62f1f7.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='b9428526aa7e2c8d9b1e0517c4b1ba4247e2489f1504'></a> Source: [dev-itpro\lcs-solutions\regulatory-watch-communication.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lcs-solutions/regulatory-watch-communication.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [regulatory-watch-communication.10843644bc7d02ad3adbb0e2df4a2bf07da27fe7.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/regulatory-watch-communication.10843644bc7d02ad3adbb0e2df4a2bf07da27fe7.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='fe4409a803ab712bbae5cae81a6321fb0aab47021505'></a> Source: [dev-itpro\lcs-solutions\separate-localization-models.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lcs-solutions/separate-localization-models.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [separate-localization-models.5511fba012bce87f1ebf57ba1b9aeb4b34567c52.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/separate-localization-models.5511fba012bce87f1ebf57ba1b9aeb4b34567c52.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='e4473b9f652741ec54aab3e0b2d65af2595dbe431615'></a> Source: [dev-itpro\lifecycle-services\business-process-libraries-business-process-modeler.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/business-process-libraries-business-process-modeler.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [business-process-libraries-business-process-modeler.c50b7fb4487718ca32b7a7b568cb1ed8b2d17007.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/business-process-libraries-business-process-modeler.c50b7fb4487718ca32b7a7b568cb1ed8b2d17007.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='f6bb7be18d2ce3e6fe7ef1f0483a5dfa87f701281617'></a> Source: [dev-itpro\lifecycle-services\cloud-operations-servicing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/cloud-operations-servicing.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [cloud-operations-servicing.2084d2e88965ff2c8b52728f1951e9b29095b09a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/cloud-operations-servicing.2084d2e88965ff2c8b52728f1951e9b29095b09a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='a28bbce9a60d6a00d6e894a0fd56fd6a4c3626211618'></a> Source: [dev-itpro\lifecycle-services\cloud-powered-support-lcs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/cloud-powered-support-lcs.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [cloud-powered-support-lcs.4c489733c768231930d04cf2207e14972b8f1732.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/cloud-powered-support-lcs.4c489733c768231930d04cf2207e14972b8f1732.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='c8a8a7291051fd806b3f1abddd3412e19b34d54a1620'></a> Source: [dev-itpro\lifecycle-services\configure-execute-code-upgrade.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/configure-execute-code-upgrade.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [configure-execute-code-upgrade.331b83f9d7933e3850ec03006ae0b00e192797a4.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/configure-execute-code-upgrade.331b83f9d7933e3850ec03006ae0b00e192797a4.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='95a4b172972b9f42d0a320379308978be531f5b81621'></a> Source: [dev-itpro\lifecycle-services\configure-lcs-security.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/configure-lcs-security.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [configure-lcs-security.30d242593d76c3eecf7fe46596d840d1c8f5029e.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/configure-lcs-security.30d242593d76c3eecf7fe46596d840d1c8f5029e.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='d257328f56e7e78bbf761dfb60d122201715cb9c1625'></a> Source: [dev-itpro\lifecycle-services\getting-started-lcs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/getting-started-lcs.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [getting-started-lcs.8bd5a6be166048dd3af9b8887e954e31ee4d32c4.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/getting-started-lcs.8bd5a6be166048dd3af9b8887e954e31ee4d32c4.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='6417fde327a6b597b060130ce06dfe13e487674e1626'></a> Source: [dev-itpro\lifecycle-services\issue-search-lcs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/issue-search-lcs.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [issue-search-lcs.3ae810fa02a51303248a379e769dbc3bc5dc334d.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/issue-search-lcs.3ae810fa02a51303248a379e769dbc3bc5dc334d.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='949ff8eb4ee26d2f1bbca01389d339fb49595bfe1627'></a> Source: [dev-itpro\lifecycle-services\known-issues.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/known-issues.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [known-issues.da00bcbf00d543dfd1c522f5aa09de085e9da934.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/known-issues.da00bcbf00d543dfd1c522f5aa09de085e9da934.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='539391913e2690ff71e61319a67bd9b5c977f2041631'></a> Source: [dev-itpro\lifecycle-services\lcs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/lcs.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [lcs.42896ecaaed4ef703ee6e0539124e6bd57ed530b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/lcs.42896ecaaed4ef703ee6e0539124e6bd57ed530b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='f68751e6c5d610ca8884721497297bbe3aab6e591628'></a> Source: [dev-itpro\lifecycle-services\lcs-support.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/lcs-support.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [lcs-support.341ff0ac396e2a634bac7872e1f6c4719451ec7a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/lcs-support.341ff0ac396e2a634bac7872e1f6c4719451ec7a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='73ad2bfb93443c0e1f07a28db5ffe35bee3d58b51629'></a> Source: [dev-itpro\lifecycle-services\lcs-user-guide.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/lcs-user-guide.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [lcs-user-guide.049f44a9f81be8b4572c3b34ed16231cdea56b54.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/lcs-user-guide.049f44a9f81be8b4572c3b34ed16231cdea56b54.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='49c9522ce0058966837850ee390c98a83c1062b11630'></a> Source: [dev-itpro\lifecycle-services\lcs-works-lcs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/lcs-works-lcs.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [lcs-works-lcs.3240f1f6da27d848ac7fb0f78da5bae2c215e527.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/lcs-works-lcs.3240f1f6da27d848ac7fb0f78da5bae2c215e527.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='e47619fec80aa88996ddbd4dfd8e4a3e8a812a251764'></a> Source: [dev-itpro\lifecycle-services\monitoring-diagnostics.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/monitoring-diagnostics.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [monitoring-diagnostics.490ae75e63517fe5db78f7fc26fc23c23ca011cb.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/monitoring-diagnostics.490ae75e63517fe5db78f7fc26fc23c23ca011cb.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='adafdf06d0a9ebd7523c2d470835dc377e6823991765'></a> Source: [dev-itpro\lifecycle-services\planned-maintenance-window-faq.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/planned-maintenance-window-faq.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [planned-maintenance-window-faq.a59867b4fe474a33ccbd36b87a560ac81d9e5fe5.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/planned-maintenance-window-faq.a59867b4fe474a33ccbd36b87a560ac81d9e5fe5.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='954b0be9fd2c179bfaa54cc4505d886cddc89f5b1766'></a> Source: [dev-itpro\lifecycle-services\premier-support.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/premier-support.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [premier-support.a62ad4c25c611bfed532d0d273c17c4b9b255dab.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/premier-support.a62ad4c25c611bfed532d0d273c17c4b9b255dab.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='f8b9d457c220e34d7a96e197138109653fdf7ff81769'></a> Source: [dev-itpro\lifecycle-services\support-experience.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/support-experience.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [support-experience.d34ce4c05ebbf97de9c855f9193400470b3efb9c.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/support-experience.d34ce4c05ebbf97de9c855f9193400470b3efb9c.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='4e6a3a60912fdada855937dd515e59230ac6b2e81772'></a> Source: [dev-itpro\lifecycle-services\whats-new-lcs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/whats-new-lcs.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [whats-new-lcs.ff96b72a67e22ca7d0322b1037f771b0d51cb09f.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/whats-new-lcs.ff96b72a67e22ca7d0322b1037f771b0d51cb09f.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='2b6c17583c5a4a0004c91652cdf8dfe2169b5c6d1785'></a> Source: [dev-itpro\migration-upgrade\code-migration-context-menus.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/code-migration-context-menus.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [code-migration-context-menus.c660e61d2dbc93eaf4717ab0538256f011c0c050.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/code-migration-context-menus.c660e61d2dbc93eaf4717ab0538256f011c0c050.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='c57404714e4e6dfdd059da65019699a33ecda9101786'></a> Source: [dev-itpro\migration-upgrade\code-migration-double-click.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/code-migration-double-click.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [code-migration-double-click.28dc5990544742302c038dd84b12adbf6fefb007.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/code-migration-double-click.28dc5990544742302c038dd84b12adbf6fefb007.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='b787144e26088765e58bcd14b6b53900d5aa291b1787'></a> Source: [dev-itpro\migration-upgrade\configure-vso-solution.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/configure-vso-solution.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [configure-vso-solution.9596ae3367190343c76ed9fc26c72a88f3a104c8.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/configure-vso-solution.9596ae3367190343c76ed9fc26c72a88f3a104c8.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='30221e67893bde7eab1cf4c01ed94b6637f31c851789'></a> Source: [dev-itpro\migration-upgrade\delegates-migration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/delegates-migration.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [delegates-migration.b9e84f3afb2b5b3a8c2d5762f18e50294ee4e8e7.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/delegates-migration.b9e84f3afb2b5b3a8c2d5762f18e50294ee4e8e7.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='74ba99e59878af9f9f618708fa55bc945de058961790'></a> Source: [dev-itpro\migration-upgrade\deprecated-apis.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/deprecated-apis.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [deprecated-apis.a344a2d4abbe96ebbbe6f1ea8d10808492c3f752.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/deprecated-apis.a344a2d4abbe96ebbbe6f1ea8d10808492c3f752.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='951c5f5d2084d863647afb602570041384a9e8641791'></a> Source: [dev-itpro\migration-upgrade\deprecated-features.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/deprecated-features.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [deprecated-features.8ffe62975e3930db6bc95bc2615948daf57a9cdd.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/deprecated-features.8ffe62975e3930db6bc95bc2615948daf57a9cdd.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='df25010f483fbbdd9384cf67bd59310c2d38b38c1792'></a> Source: [dev-itpro\migration-upgrade\download-hotfix-lcs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/download-hotfix-lcs.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [download-hotfix-lcs.5f2884916e09d24f044b8e9d8890d9a42f9be74c.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/download-hotfix-lcs.5f2884916e09d24f044b8e9d8890d9a42f9be74c.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='d35633aafbafedb343b8f0cd305aa2d0b6958a1c1793'></a> Source: [dev-itpro\migration-upgrade\in-memory-real-time-aggregate-models.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/in-memory-real-time-aggregate-models.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [in-memory-real-time-aggregate-models.a6d478501c06754d2f4720d7cdb5ecde9de2a606.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/in-memory-real-time-aggregate-models.a6d478501c06754d2f4720d7cdb5ecde9de2a606.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='5b9e714ca5e8e335ae04b3d3158bac8cd45f50e91881'></a> Source: [dev-itpro\migration-upgrade\migrate-upgraded-cube-entity-store.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/migrate-upgraded-cube-entity-store.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [migrate-upgraded-cube-entity-store.d67aca76b7ddaae88d74c942c70437f82296e2f1.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/migrate-upgraded-cube-entity-store.d67aca76b7ddaae88d74c942c70437f82296e2f1.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='9bdd7df4d48dba023a5d88d623cf2ba7df50ad901883'></a> Source: [dev-itpro\migration-upgrade\prepare-migration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/prepare-migration.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [prepare-migration.c5cd12289bacef0f13c1a969d8ae657ec87d2008.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/prepare-migration.c5cd12289bacef0f13c1a969d8ae657ec87d2008.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='d50aa164c4b3df2bb3396a51789463c68f6df43b1885'></a> Source: [dev-itpro\migration-upgrade\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/TOC.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [TOC.799585d38d4047a5eca4c73e4f7014c9bf6addfc.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/TOC.799585d38d4047a5eca4c73e4f7014c9bf6addfc.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='b130e6a1f855cc783b6b2de1379c24ecd9baf7461886'></a> Source: [dev-itpro\migration-upgrade\update-platform-each-release.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/update-platform-each-release.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [update-platform-each-release.35eee0bff1b7cddd374db7daf606980748a3136d.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/update-platform-each-release.35eee0bff1b7cddd374db7daf606980748a3136d.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='3624698d86fd14b3c7ba690e9d16df254a8662551887'></a> Source: [dev-itpro\migration-upgrade\upgrade-budget-planning.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/upgrade-budget-planning.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [upgrade-budget-planning.56671a5f3cba9d8d2b6de92c03dc2c0be4744b44.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/upgrade-budget-planning.56671a5f3cba9d8d2b6de92c03dc2c0be4744b44.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='1a2a7b922595a3b279d2871d6fe3a26214565c601888'></a> Source: [dev-itpro\migration-upgrade\upgrade-data-to-latest-update.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/upgrade-data-to-latest-update.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [upgrade-data-to-latest-update.c08287af3b3aa8f15308408c7de2f01013415cf0.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/upgrade-data-to-latest-update.c08287af3b3aa8f15308408c7de2f01013415cf0.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='a543202e1e739575e7a2d894fc87980a547f0d4c1889'></a> Source: [dev-itpro\migration-upgrade\upgrade-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/upgrade-home-page.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [upgrade-home-page.879fa703c175e4e0ad4ad4eb9996e893841bcba1.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/upgrade-home-page.879fa703c175e4e0ad4ad4eb9996e893841bcba1.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='15f34791d328f3a4bdd3752aac16575a402cb0761890'></a> Source: [dev-itpro\migration-upgrade\upgrade-latest-platform-update.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/upgrade-latest-platform-update.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [upgrade-latest-platform-update.78b1d38253b1c29dcf93daf28dfbaa8d4b5969e1.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/upgrade-latest-platform-update.78b1d38253b1c29dcf93daf28dfbaa8d4b5969e1.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='2dd60138b8b69daf852f06d5aee4e9eed6f0c1981891'></a> Source: [dev-itpro\migration-upgrade\upgrade-latest-update.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/upgrade-latest-update.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [upgrade-latest-update.b51e57ced272152eec37d78081ab89c0423df38e.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/upgrade-latest-update.b51e57ced272152eec37d78081ab89c0423df38e.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='17950ed87a8a9c7de9792e015d6dc129daadb3121892'></a> Source: [dev-itpro\migration-upgrade\upgrade-sandbox-environment.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/upgrade-sandbox-environment.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [upgrade-sandbox-environment.2f56922699fff8fad7f78cc9c8ca46b294fd7f59.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/upgrade-sandbox-environment.2f56922699fff8fad7f78cc9c8ca46b294fd7f59.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='15cec555193e6e118f2c501a0b928dd24d3e661d1893'></a> Source: [dev-itpro\migration-upgrade\versions-update-policy.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/versions-update-policy.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [versions-update-policy.9803a3e9e2503f029f05240c5619f932aac674ea.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/versions-update-policy.9803a3e9e2503f029f05240c5619f932aac674ea.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='6f8be701a1d49a5b1f8c490fa8d47f07f8d3527a1895'></a> Source: [dev-itpro\migration-upgrade\workflow-subsystem.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/migration-upgrade/workflow-subsystem.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [workflow-subsystem.5970d18daf32e6734e818937a213f9b85b159677.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/workflow-subsystem.5970d18daf32e6734e818937a213f9b85b159677.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='afda8eb49fd8baa74abdac89fdf265631fda595b1896'></a> Source: [dev-itpro\mobile-apps\company-directory-mobile-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/mobile-apps/company-directory-mobile-workspace.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [company-directory-mobile-workspace.ab9043c71f339059475b3156b10d8f748f251b92.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/company-directory-mobile-workspace.ab9043c71f339059475b3156b10d8f748f251b92.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='70f3e0fe53fc0b1daa471a7022f5659d09caa8671897'></a> Source: [dev-itpro\mobile-apps\invoice-approval-mobile-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/mobile-apps/invoice-approval-mobile-workspace.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [invoice-approval-mobile-workspace.ac184db7f58e90d2e8b801229858d0553d9e2404.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/invoice-approval-mobile-workspace.ac184db7f58e90d2e8b801229858d0553d9e2404.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='6178a9b1b5497672d68dee84a09800307ea60f541898'></a> Source: [dev-itpro\mobile-apps\manager-self-service-mobile-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/mobile-apps/manager-self-service-mobile-workspace.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [manager-self-service-mobile-workspace.a858a2b7fd3f0e48117d1ab8f71e04b4f9fecdba.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/manager-self-service-mobile-workspace.a858a2b7fd3f0e48117d1ab8f71e04b4f9fecdba.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='bbc182824007ab8aba031acff82f9ebc45c5d4e91920'></a> Source: [dev-itpro\mobile-apps\Mobile-app-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/mobile-apps/Mobile-app-home-page.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [Mobile-app-home-page.e5a9e5e9d7b26605f2ce2114d4633d071a7e9f10.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/Mobile-app-home-page.e5a9e5e9d7b26605f2ce2114d4633d071a7e9f10.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='2f55f222a906181b24da4ce652e02c216ff12b311921'></a> Source: [dev-itpro\mobile-apps\mobile-platform.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/mobile-apps/mobile-platform.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [mobile-platform.76308d7ac36364c2f89f131c399390ab4c3ebb28.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/mobile-platform.76308d7ac36364c2f89f131c399390ab4c3ebb28.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='e5633d1db9593e2e0cb8bb4703de76766ab706b01923'></a> Source: [dev-itpro\mobile-apps\mobile-workspaces-released.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/mobile-apps/mobile-workspaces-released.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [mobile-workspaces-released.e57c743b41755a83c1df9ca27d0375bb10b77c7d.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/mobile-workspaces-released.e57c743b41755a83c1df9ca27d0375bb10b77c7d.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='4167180b79b7726a347804978e58195e4eee0fdc1924'></a> Source: [dev-itpro\mobile-apps\publish-mobile-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/mobile-apps/publish-mobile-workspace.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [publish-mobile-workspace.4c20daf0662cb911ed13de9fa44050c3bfa7f9e5.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/publish-mobile-workspace.4c20daf0662cb911ed13de9fa44050c3bfa7f9e5.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='039bc54efb1c95d8f3d2a3f23662d98f7b9bc0b01925'></a> Source: [dev-itpro\office-integration\customize-open-office-menu.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/office-integration/customize-open-office-menu.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [customize-open-office-menu.da257b920ea49e6b27f13a7cce57817e9a996551.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/customize-open-office-menu.da257b920ea49e6b27f13a7cce57817e9a996551.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='be9c00932d177fda5071d345c4cd5505dbf2f2271954'></a> Source: [dev-itpro\office-integration\office-integration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/office-integration/office-integration.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [office-integration.703b22010d94d157ea1df86ac301a95a31cc278b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/office-integration.703b22010d94d157ea1df86ac301a95a31cc278b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='2f3d24c8b6c6d184326f69d03a743decfb2e0a311952'></a> Source: [dev-itpro\office-integration\office-integration-troubleshooting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/office-integration/office-integration-troubleshooting.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [office-integration-troubleshooting.b3a47fc7107aaf1f8b77ea16d2ac385bc90f18c9.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/office-integration-troubleshooting.b3a47fc7107aaf1f8b77ea16d2ac385bc90f18c9.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='00b88a757c3088ea6d294960bd497753710241721953'></a> Source: [dev-itpro\office-integration\office-integration-tutorial.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/office-integration/office-integration-tutorial.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [office-integration-tutorial.a326953713d0c89c987a5ac58850bfb5ad698a3a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/office-integration-tutorial.a326953713d0c89c987a5ac58850bfb5ad698a3a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='f8eb036fc246ac0561d34519ae7bd0a713a4f93d1955'></a> Source: [dev-itpro\office-integration\use-excel-add-in.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/office-integration/use-excel-add-in.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [use-excel-add-in.b6a861cb6d8c53a73e22a51b4adef35072a45477.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/use-excel-add-in.b6a861cb6d8c53a73e22a51b4adef35072a45477.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='587cb0a011577498e7483590fcccda161aefa6441956'></a> Source: [dev-itpro\perf-test\continuous-build-test-automation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/perf-test/continuous-build-test-automation.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [continuous-build-test-automation.58ad81bfc85b31c17979105ccae29185c6893941.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/continuous-build-test-automation.58ad81bfc85b31c17979105ccae29185c6893941.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='cf38ff7f33be78c8a078d6c1fbe3a9645090158c2073'></a> Source: [dev-itpro\perf-test\perfsdk-tutorial.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/perf-test/perfsdk-tutorial.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [perfsdk-tutorial.7a07c404444b74ccd577791dec2f52ad64acdff5.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/perfsdk-tutorial.7a07c404444b74ccd577791dec2f52ad64acdff5.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='e60e94d3fcbfd4fb90f739f7ed6700fbc219d4ca2075'></a> Source: [dev-itpro\perf-test\testing-validation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/perf-test/testing-validation.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [testing-validation.271edefe3d8b2318cb0c0ebd88b515c3122559e7.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/testing-validation.271edefe3d8b2318cb0c0ebd88b515c3122559e7.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='f0ac560105e4b72ea69644dcfe97650e531ecfb32078'></a> Source: [dev-itpro\sysadmin\batch-processing-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/sysadmin/batch-processing-overview.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [batch-processing-overview.2cf038d70fdb1af0bb818dd20562d83a4eefbc05.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/batch-processing-overview.2cf038d70fdb1af0bb818dd20562d83a4eefbc05.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='a7aa9fd0583006d8b4a98c0bf68d158fbb11141f2079'></a> Source: [dev-itpro\sysadmin\batch-server-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/sysadmin/batch-server-overview.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [batch-server-overview.54bc0f46dce26089a6ff8602f1e8674fe5d5d6a7.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/batch-server-overview.54bc0f46dce26089a6ff8602f1e8674fe5d5d6a7.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='a63c3321d9af001964604b553c308cf7fada53842080'></a> Source: [dev-itpro\sysadmin\cross-company-data-sharing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/sysadmin/cross-company-data-sharing.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [cross-company-data-sharing.ea775c9ca566294b64a58369007fe05d614773a6.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/cross-company-data-sharing.ea775c9ca566294b64a58369007fe05d614773a6.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='6fa7375bb137df6fa626eadfb888e11fc2437d222081'></a> Source: [dev-itpro\sysadmin\faq-platform-monthly-updates.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/sysadmin/faq-platform-monthly-updates.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [faq-platform-monthly-updates.78b714aa08f7985879c09896ae68337b61e8e801.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/faq-platform-monthly-updates.78b714aa08f7985879c09896ae68337b61e8e801.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='c6910fd8ad917c22db6ebba4855d3121075f4a102082'></a> Source: [dev-itpro\sysadmin\legal-terms-privacy-statement.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/sysadmin/legal-terms-privacy-statement.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [legal-terms-privacy-statement.b21c2374d34854023a38d4b5ecec55e6b9ef2db8.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/legal-terms-privacy-statement.b21c2374d34854023a38d4b5ecec55e6b9ef2db8.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='0d1bb16e26c411f65bd59ba1f9bdef067e93c3672083'></a> Source: [dev-itpro\sysadmin\license-codes-configuration-keys-report.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/sysadmin/license-codes-configuration-keys-report.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [license-codes-configuration-keys-report.8bf2e04fd17657da83cc7a465d2eb41dd35c37a1.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/license-codes-configuration-keys-report.8bf2e04fd17657da83cc7a465d2eb41dd35c37a1.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='1c7b5d51bd600acd17d03c8534b8123fdc2a2a982084'></a> Source: [dev-itpro\sysadmin\maintenance-mode.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/sysadmin/maintenance-mode.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [maintenance-mode.916e2426203e3cc3ac5022fdb338a6fe631d95b9.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/maintenance-mode.916e2426203e3cc3ac5022fdb338a6fe631d95b9.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='1df98b3039eb7224ec058bb9c871757012ea73df2096'></a> Source: [dev-itpro\sysadmin\role-based-security.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/sysadmin/role-based-security.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [role-based-security.9d2520e784498fdae57787f47783ace84b4f6e1a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/role-based-security.9d2520e784498fdae57787f47783ace84b4f6e1a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='f94e373e2633cb44fff7c4cfd24b33e5fbf7d05c2097'></a> Source: [dev-itpro\sysadmin\security-architecture.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/sysadmin/security-architecture.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [security-architecture.c01ee43977176e20d2c7a3f1ffc5f6977e149608.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/security-architecture.c01ee43977176e20d2c7a3f1ffc5f6977e149608.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='9b8947be378a58c315f569cb5683ad2db6c138042098'></a> Source: [dev-itpro\sysadmin\system-administration-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/sysadmin/system-administration-home-page.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [system-administration-home-page.3b79c5d7cd16dafd4673e431667cf5c351a2f068.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/system-administration-home-page.3b79c5d7cd16dafd4673e431667cf5c351a2f068.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='fb5db09f8dde915ff679610ca4833056f3bf1c922100'></a> Source: [dev-itpro\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/TOC.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [TOC.567a8270326887bc7a1dc2ebcb83be5b54fee423.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/premium/TOC.567a8270326887bc7a1dc2ebcb83be5b54fee423.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='6aaf4c3f9a28795e4d492716673194abd83651752101'></a> Source: [dev-itpro\user-interface\action-controls.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/action-controls.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [action-controls.8dc471538d7d4a092a8530669266600650c1ed44.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/action-controls.8dc471538d7d4a092a8530669266600650c1ed44.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='dbd1fab7c5cf64de0295484454e8e6a4a62a1a292103'></a> Source: [dev-itpro\user-interface\advanced-selection-form-pattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/advanced-selection-form-pattern.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [advanced-selection-form-pattern.a39430a844e03d880ad1503aead6ae618b1dd313.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/advanced-selection-form-pattern.a39430a844e03d880ad1503aead6ae618b1dd313.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='25afdeae41b84cad4a889728d5e358e29fd4c54c2104'></a> Source: [dev-itpro\user-interface\bidirectional-support.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/bidirectional-support.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [bidirectional-support.9abe2c0867ca117821bfa31c5f45deb34cb03e18.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/bidirectional-support.9abe2c0867ca117821bfa31c5f45deb34cb03e18.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='98e330aaa33872f638f314a7696eb4bf18229a862105'></a> Source: [dev-itpro\user-interface\build-customer-form.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/build-customer-form.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [build-customer-form.3e6d10b35388287f9d5d64595ba3819b1d7e75c1.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/build-customer-form.3e6d10b35388287f9d5d64595ba3819b1d7e75c1.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='0df319c8cf1e16f10ef658b025743ef0813586eb2107'></a> Source: [dev-itpro\user-interface\build-navigation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/build-navigation.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [build-navigation.5e57cd11b92f655ddce71d3df72a5adff09e5c86.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/build-navigation.5e57cd11b92f655ddce71d3df72a5adff09e5c86.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='f5680f4d0eac14451908e6949503deab34f94e832108'></a> Source: [dev-itpro\user-interface\build-rental-charge-type-form.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/build-rental-charge-type-form.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [build-rental-charge-type-form.fe8dda2083b440b1ec8ec9e2d70c76d4758a2cdf.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/build-rental-charge-type-form.fe8dda2083b440b1ec8ec9e2d70c76d4758a2cdf.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='c47a5dcf6e54f5a139bdf728af500e514792023f2118'></a> Source: [dev-itpro\user-interface\custom-filter-group-subpattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/custom-filter-group-subpattern.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [custom-filter-group-subpattern.5fb332a0e4560f64a9a6db9925661b3f5d9134a4.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/custom-filter-group-subpattern.5fb332a0e4560f64a9a6db9925661b3f5d9134a4.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='fe6cf3a22377dbc5b8331472c4b438a81716c67e2119'></a> Source: [dev-itpro\user-interface\customize-field-help.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/customize-field-help.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [customize-field-help.ec1dd324c4e14cebdedcb3efdceea0c5198b97e6.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/customize-field-help.ec1dd324c4e14cebdedcb3efdceea0c5198b97e6.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='0af077fafe55bc045fba8f102bafb1e38ee7d1152121'></a> Source: [dev-itpro\user-interface\details-master-form-pattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/details-master-form-pattern.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [details-master-form-pattern.448f9b31145a5e3caa8a035181c224be77c0a6a7.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/details-master-form-pattern.448f9b31145a5e3caa8a035181c224be77c0a6a7.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='3ae34134e822087210fb381581a0faf4593b2b6b2122'></a> Source: [dev-itpro\user-interface\details-transaction-form-pattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/details-transaction-form-pattern.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [details-transaction-form-pattern.d840d1a046769ebc15a59b06776798ddca0109a0.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/details-transaction-form-pattern.d840d1a046769ebc15a59b06776798ddca0109a0.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='7e1d97d20c3a26c331323b5213d3e42ba2537a0d2123'></a> Source: [dev-itpro\user-interface\dialog-form-pattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/dialog-form-pattern.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [dialog-form-pattern.9b419c6ce491b779da4f09a6cbeaeeaf04ebef9a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/dialog-form-pattern.9b419c6ce491b779da4f09a6cbeaeeaf04ebef9a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='16c4483d9e23d7ff1cc4bf27bfa95bf4c1fa47522125'></a> Source: [dev-itpro\user-interface\enable-accessibility.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/enable-accessibility.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [enable-accessibility.3e31bee435b0a7f303edbb9b1aa9f6835ece2713.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/enable-accessibility.3e31bee435b0a7f303edbb9b1aa9f6835ece2713.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='66e4025532ea7dc7b461cdc4c1de11c2770f7d9f2126'></a> Source: [dev-itpro\user-interface\extensible-control-programming-reference.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/extensible-control-programming-reference.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [extensible-control-programming-reference.f77045c1e7ccc1861b48d1a40a2386ca23fa4ff7.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/extensible-control-programming-reference.f77045c1e7ccc1861b48d1a40a2386ca23fa4ff7.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='63cf6f9507e43a730caf6d05865a3e048509f2772128'></a> Source: [dev-itpro\user-interface\factbox-form-patterns.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/factbox-form-patterns.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [factbox-form-patterns.389071844d9888f0faf62b9d20b3f00a12306fe1.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/factbox-form-patterns.389071844d9888f0faf62b9d20b3f00a12306fe1.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='7c10998fd9cb8a3eabb4520f8d323cd2937247bb2129'></a> Source: [dev-itpro\user-interface\fields-field-groups-subpattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/fields-field-groups-subpattern.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [fields-field-groups-subpattern.6f35d25a6644ee13ebc1e46c420ab5e22ba75af7.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/fields-field-groups-subpattern.6f35d25a6644ee13ebc1e46c420ab5e22ba75af7.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='9b7b235c52ff052f04657b3e2c89e6e9ec30ff4f2130'></a> Source: [dev-itpro\user-interface\file-upload-control.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/file-upload-control.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [file-upload-control.4e17b65342d889e904ce01294bc8094bd405b304.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/file-upload-control.4e17b65342d889e904ce01294bc8094bd405b304.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='d683b475b5cc3b4106f52b14f7bac8f34523b5e72132'></a> Source: [dev-itpro\user-interface\filtering.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/filtering.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [filtering.cfc0e3db573f324c7d18f31052b7a647c3655cca.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/filtering.cfc0e3db573f324c7d18f31052b7a647c3655cca.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='292d6d98f1c18a1b3683425e23dc7aae2aa230972133'></a> Source: [dev-itpro\user-interface\filters-toolbar-subpattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/filters-toolbar-subpattern.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [filters-toolbar-subpattern.968ac6580d8116eaba649a9a0c20441111d96484.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/filters-toolbar-subpattern.968ac6580d8116eaba649a9a0c20441111d96484.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='677e5141b2c39f30e67bf5de6e802a971cb15e482134'></a> Source: [dev-itpro\user-interface\form-styles-patterns.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/form-styles-patterns.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [form-styles-patterns.aac66e4b0f0efd66c2fcafd545b11af0ced0c977.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/form-styles-patterns.aac66e4b0f0efd66c2fcafd545b11af0ced0c977.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='8224a9f10307a6fd733b8ce28f4317b89888b05f2135'></a> Source: [dev-itpro\user-interface\gantt-development-guide.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/gantt-development-guide.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [gantt-development-guide.581b8a311b407a4f0e583c5722efaedcebda438e.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/gantt-development-guide.581b8a311b407a4f0e583c5722efaedcebda438e.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='9d70ea476860090d6296c15206d1dd96f36999142140'></a> Source: [dev-itpro\user-interface\images-form-grid.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/images-form-grid.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [images-form-grid.87e23564b339ecf3cf4173dd98b542b7093510db.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/images-form-grid.87e23564b339ecf3cf4173dd98b542b7093510db.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='405ea92aedb13bc43064db287110cba7ea2a5e8f2141'></a> Source: [dev-itpro\user-interface\keyboard-shortcuts-controls.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/keyboard-shortcuts-controls.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [keyboard-shortcuts-controls.b0d05baa2bf2af06f57673cb2d2f7a3eb59bb9f4.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/keyboard-shortcuts-controls.b0d05baa2bf2af06f57673cb2d2f7a3eb59bb9f4.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='301b00ee889cd50861e4f07af01b7247051719b02142'></a> Source: [dev-itpro\user-interface\list-page-form-pattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/list-page-form-pattern.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [list-page-form-pattern.de4dadcb6197696d9d1263a7fd246c0c832de756.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/list-page-form-pattern.de4dadcb6197696d9d1263a7fd246c0c832de756.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='ae37f783bb4095ab9d72192d90c48ef951db60e82143'></a> Source: [dev-itpro\user-interface\list-panel-subpattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/list-panel-subpattern.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [list-panel-subpattern.060d5c81aa17b9fb932c443c9f15a56f809221da.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/list-panel-subpattern.060d5c81aa17b9fb932c443c9f15a56f809221da.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='3de99feecb473019236397775e8c98975eefc4322144'></a> Source: [dev-itpro\user-interface\lookup-form-pattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/lookup-form-pattern.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [lookup-form-pattern.98a278f11b0495064964f17b79a927566a3e47e7.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/lookup-form-pattern.98a278f11b0495064964f17b79a927566a3e47e7.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='0870189d929f760196c3a1fc68436b9fa54a9ed32626'></a> Source: [dev-itpro\user-interface\messaging-api-center-bar-details.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/messaging-api-center-bar-details.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [messaging-api-center-bar-details.2964480e9b10f30149ce03c4de8812fe2f3620c1.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/messaging-api-center-bar-details.2964480e9b10f30149ce03c4de8812fe2f3620c1.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='62a4ecff0582d220beaa759b1b5b4a0815ff6df72627'></a> Source: [dev-itpro\user-interface\messaging-user.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/messaging-user.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [messaging-user.2998adaa8e1cafbee1591ee0f845b299de5b0a65.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/messaging-user.2998adaa8e1cafbee1591ee0f845b299de5b0a65.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='1f7ebe588dd76bdc6827e6c00ae71bb5f46168922628'></a> Source: [dev-itpro\user-interface\nested-simple-list-details-subpattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/nested-simple-list-details-subpattern.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [nested-simple-list-details-subpattern.c077797c9b01e30bcfbb9598997f994714723034.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/nested-simple-list-details-subpattern.c077797c9b01e30bcfbb9598997f994714723034.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='634328328dd7352d1f9ee24a3eaa342783e322502629'></a> Source: [dev-itpro\user-interface\page-layout.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/page-layout.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [page-layout.31c820ca4e34e70f3377423f3cbc76511fa86d01.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/page-layout.31c820ca4e34e70f3377423f3cbc76511fa86d01.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='d8c0d41181d64a8ff5caabd704f05b8256dbb33d2630'></a> Source: [dev-itpro\user-interface\page-navigation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/page-navigation.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [page-navigation.8d0e2128b62e7294c4bc1472bc46a6df00703d73.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/page-navigation.8d0e2128b62e7294c4bc1472bc46a6df00703d73.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='5ea3a7e5008c59b5ec89d5ae240f793a9949a8a12631'></a> Source: [dev-itpro\user-interface\powerapps-host-control.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/powerapps-host-control.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [powerapps-host-control.caad90786bd91b7bc89ab577fc5d8e00c52312a7.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/powerapps-host-control.caad90786bd91b7bc89ab577fc5d8e00c52312a7.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='6ca511498905643e6d7b798caf8b5c5be67aa3962632'></a> Source: [dev-itpro\user-interface\public-javascript-apis.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/public-javascript-apis.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [public-javascript-apis.601696fbd3f05bd9dadeaedb8376fa16b9f6000f.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/public-javascript-apis.601696fbd3f05bd9dadeaedb8376fa16b9f6000f.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='f55cf0fb7c1442a4d8a45ef4d379862a51e4f7c62633'></a> Source: [dev-itpro\user-interface\section-chart-form-pattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/section-chart-form-pattern.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [section-chart-form-pattern.f14287e67c3d7ecf3df796a88b7a13399cb352bc.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/section-chart-form-pattern.f14287e67c3d7ecf3df796a88b7a13399cb352bc.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='e24bdb4ed33e419ecacf9f292f1540fbabe584a52634'></a> Source: [dev-itpro\user-interface\section-list-form-pattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/section-list-form-pattern.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [section-list-form-pattern.a6255867f00d7822f2a0168bceb0852ee1a2eaa2.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/section-list-form-pattern.a6255867f00d7822f2a0168bceb0852ee1a2eaa2.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='3a355cfb94fc59380b4d5dc5ad68e809c963deb72645'></a> Source: [dev-itpro\user-interface\slider-messagebox.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/slider-messagebox.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [slider-messagebox.804d2a1f6b0ff2256db51f6dd70ad71e28644ded.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/slider-messagebox.804d2a1f6b0ff2256db51f6dd70ad71e28644ded.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='f84457f0a42d2a6c8ae761719e5ccbcefeef25ca2646'></a> Source: [dev-itpro\user-interface\specify-color-font-background-controls.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/specify-color-font-background-controls.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [specify-color-font-background-controls.dbe98c97cf700547ef74b9a9f6cbecaf3c2fae66.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/specify-color-font-background-controls.dbe98c97cf700547ef74b9a9f6cbecaf3c2fae66.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='5b6f2d3725e40b64417b13b08d31ae35b89fc1f52655'></a> Source: [dev-itpro\user-interface\task-recorder.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/task-recorder.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [task-recorder.6beb04f6d6959c65b73c32f815de8b7fba2d71cd.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/task-recorder.6beb04f6d6959c65b73c32f815de8b7fba2d71cd.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='294fce6df2a9ec85d22f69f40d8f3ca046f953122652'></a> Source: [dev-itpro\user-interface\task-recorder-control-text.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/task-recorder-control-text.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [task-recorder-control-text.eca0622d8f1d51f81ef49473579c5df3a1d2653a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/task-recorder-control-text.eca0622d8f1d51f81ef49473579c5df3a1d2653a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='d7068c8dec4ac4de2ae332e76a6353a9efd5b3322654'></a> Source: [dev-itpro\user-interface\task-recorder-training-docs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/task-recorder-training-docs.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [task-recorder-training-docs.659ef36a97d81aa314d12eb92d4f47e71838e24a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/task-recorder-training-docs.659ef36a97d81aa314d12eb92d4f47e71838e24a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='7fcf3728aa5e5e5abbaa0a5e0f56f85d0522e7382659'></a> Source: [dev-itpro\user-interface\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/TOC.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [TOC.bf0329a076a70c6d256681d8662a6770cd5efc91.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/TOC.bf0329a076a70c6d256681d8662a6770cd5efc91.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='d4ac009c70387522c489e6a0a66e27910bc1582b2662'></a> Source: [dev-itpro\user-interface\user-interface-development-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/user-interface-development-home-page.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [user-interface-development-home-page.473d8f60ae6185d63ae02bb5056d881ebc70b344.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/user-interface-development-home-page.473d8f60ae6185d63ae02bb5056d881ebc70b344.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='eb153c514af2f0405214049b8cf5c35e637fdfd72663'></a> Source: [dev-itpro\user-interface\wizard-form-pattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/wizard-form-pattern.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [wizard-form-pattern.4b6e746c8fafc62ef4c4f3fab1bc9ee2de52a50a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/wizard-form-pattern.4b6e746c8fafc62ef4c4f3fab1bc9ee2de52a50a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='e3fd80fa052c8a520ca1fa6ba82ba35a6ffe5d392665'></a> Source: [dev-itpro\user-interface\workspace-form-pattern.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/user-interface/workspace-form-pattern.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [workspace-form-pattern.d660155b28a38cbdbcfb1dacc6925ce00620d81b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/workspace-form-pattern.d660155b28a38cbdbcfb1dacc6925ce00620d81b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='ae1cda425ade2428b87ad4d7a147ccc1ff98e5542667'></a> Source: [financials\accounts-payable\accounting-distributions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/accounting-distributions.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='35133c305457b53abdf761f7fd557bf81bc28cde2666'></a> Source: [financials\accounts-payable\accounting-distributions-subledger-journal-entries-vendor-invoices.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/accounting-distributions-subledger-journal-entries-vendor-invoices.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [accounting-distributions-subledger-journal-entries-vendor-invoices.9d1f080dc619395c5fda6229acfb7f00d1c70ef3.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/accounting-distributions-subledger-journal-entries-vendor-invoices.9d1f080dc619395c5fda6229acfb7f00d1c70ef3.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='c16b78eacf00fb81208d562576954426df083c332668'></a> Source: [financials\accounts-payable\accounting-source-explorer.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/accounting-source-explorer.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [accounting-source-explorer.c676bb605b567e9325780798e4243e8241ee39b7.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/accounting-source-explorer.c676bb605b567e9325780798e4243e8241ee39b7.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='4b03825057c4b42781043f15c067bdb520addc2e2671'></a> Source: [financials\accounts-payable\accounts-payable.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/accounts-payable.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [accounts-payable.abd99e977ea528e10b6bead4d6b395a0698f53ad.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/premium/accounts-payable.abd99e977ea528e10b6bead4d6b395a0698f53ad.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='75aefa4fe184459c2f8ca454a15e404e7938d0f72669'></a> Source: [financials\accounts-payable\accounts-payable-invoice-matching.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/accounts-payable-invoice-matching.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [accounts-payable-invoice-matching.d3f2a734440fb93b494324a879452a636cc0a612.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/accounts-payable-invoice-matching.d3f2a734440fb93b494324a879452a636cc0a612.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='2a61cb86a4f2cfc6d701445c139e22df0db44f8c2670'></a> Source: [financials\accounts-payable\accounts-payable-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/accounts-payable-overview.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [accounts-payable-overview.fb00c4b7225819162d11ced7e6f01469fa9c4ce7.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/accounts-payable-overview.fb00c4b7225819162d11ced7e6f01469fa9c4ce7.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='23541bb2d82b552cdc9e0ada4aa4ec473f498d0b2672'></a> Source: [financials\accounts-payable\centralized-payments-accounts-payable.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/centralized-payments-accounts-payable.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [centralized-payments-accounts-payable.a3870a016c556b9ec2be2a08212e2b4ce5f95aa9.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/centralized-payments-accounts-payable.a3870a016c556b9ec2be2a08212e2b4ce5f95aa9.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='b351ea58a25c763dcf90ff1c61e0e3b3cba6c34a2673'></a> Source: [financials\accounts-payable\create-vendor-payments-payment-proposal.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/create-vendor-payments-payment-proposal.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [create-vendor-payments-payment-proposal.7bd7d78f7c9933d07462166c6cebe9b5956cc29c.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/create-vendor-payments-payment-proposal.7bd7d78f7c9933d07462166c6cebe9b5956cc29c.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='4691ac4456b08084bcd93f7a8447719a15299c932674'></a> Source: [financials\accounts-payable\default-offset-accounts-vendor-invoice-journals.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/default-offset-accounts-vendor-invoice-journals.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [default-offset-accounts-vendor-invoice-journals.e354ec978ac3c59ffa37e8455119ba4b5d8445b4.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/default-offset-accounts-vendor-invoice-journals.e354ec978ac3c59ffa37e8455119ba4b5d8445b4.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='883cb85974227f385c5b401f9fb3efa825381f962675'></a> Source: [financials\accounts-payable\electronic reporting sample vendor checks.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/electronic%20reporting%20sample%20vendor%20checks.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [electronic reporting sample vendor checks.f3a6492d1228c8b9dce975df29527f1edc457713.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/electronic%20reporting%20sample%20vendor%20checks.f3a6492d1228c8b9dce975df29527f1edc457713.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='378a054273be4aa65acfb453cb4f53016f6da21b2676'></a> Source: [financials\accounts-payable\invoice-matching-intercompany-purchase-orders.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/invoice-matching-intercompany-purchase-orders.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [invoice-matching-intercompany-purchase-orders.6991ddf33057bfb07f634aa049dfcdd59b207a3e.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/invoice-matching-intercompany-purchase-orders.6991ddf33057bfb07f634aa049dfcdd59b207a3e.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='417c78340b70c94efa4c2e2cd82e230fa4fc72af2711'></a> Source: [financials\accounts-payable\mobile-invoice-approvals.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/mobile-invoice-approvals.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [mobile-invoice-approvals.7141cb659296e30d3d417bfe9c195fbf3b8859dd.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/mobile-invoice-approvals.7141cb659296e30d3d417bfe9c195fbf3b8859dd.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='7c60a7f9444913c5475d08f959944d463cfcbab02712'></a> Source: [financials\accounts-payable\positive-pay-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/positive-pay-overview.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [positive-pay-overview.770cf174d9f6ab648aee17b5d360cf1d3e57cc01.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/positive-pay-overview.770cf174d9f6ab648aee17b5d360cf1d3e57cc01.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='c4f127007cea1d8ccd0b4e9ea637f0674775278d2713'></a> Source: [financials\accounts-payable\prepayments-invoices-vs-prepayments.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/prepayments-invoices-vs-prepayments.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [prepayments-invoices-vs-prepayments.32642a2196ce99361572ea2218ff5e554b88a398.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/prepayments-invoices-vs-prepayments.32642a2196ce99361572ea2218ff5e554b88a398.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='b46929d2991f3ec1b38d54ddc57de632aa9b01b92714'></a> Source: [financials\accounts-payable\project-cost-accrual-purchase-receipts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/project-cost-accrual-purchase-receipts.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [project-cost-accrual-purchase-receipts.74d9667081fcf9146d59de931638920251da39f9.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/project-cost-accrual-purchase-receipts.74d9667081fcf9146d59de931638920251da39f9.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='9d95bb3c663095ca7d0c7a0fc1935b7242510b452715'></a> Source: [financials\accounts-payable\project-invoicing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/project-invoicing.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [project-invoicing.cf067685dc953dac54fd85759e7de9eefbcb4a54.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/project-invoicing.cf067685dc953dac54fd85759e7de9eefbcb4a54.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='8773773d9686bf5061958fbe414ed1fef7288f812716'></a> Source: [financials\accounts-payable\resolve-invoice-totals-invoice-matching-discrepancies.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/resolve-invoice-totals-invoice-matching-discrepancies.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [resolve-invoice-totals-invoice-matching-discrepancies.4310854157eafdf835f9588a67148de8f32d2749.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/resolve-invoice-totals-invoice-matching-discrepancies.4310854157eafdf835f9588a67148de8f32d2749.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='4f8b77efabe0c002654dac0b80d721a79dc420032717'></a> Source: [financials\accounts-payable\reverse-vendor-payment.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/reverse-vendor-payment.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [reverse-vendor-payment.9cf6974e6f505b82cf4fd51f62093a6cb5f22042.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/reverse-vendor-payment.9cf6974e6f505b82cf4fd51f62093a6cb5f22042.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='bc14ab554a298d09bb852e96503b4cd3f4b36d3c2718'></a> Source: [financials\accounts-payable\sepa-credit-transfer.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/sepa-credit-transfer.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [sepa-credit-transfer.3b1a762ed4c6e8de54f32ae3c3d924aab97b015a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/sepa-credit-transfer.3b1a762ed4c6e8de54f32ae3c3d924aab97b015a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='08b5fc87fdee476cd978bcc242cea324ac4bcee22720'></a> Source: [financials\accounts-payable\settle-partial-customer-payment-or-final-payment-before-discount.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/settle-partial-customer-payment-or-final-payment-before-discount.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [settle-partial-customer-payment-or-final-payment-before-discount.e9d73a9bbe8383b342e275e59778628e6beaefe2.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/settle-partial-customer-payment-or-final-payment-before-discount.e9d73a9bbe8383b342e275e59778628e6beaefe2.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='1a454a487a0879234eee76a39b2f095d1d80ea1e2721'></a> Source: [financials\accounts-payable\settle-partial-vendor-payment-before-discount-or-final-payment-after.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/settle-partial-vendor-payment-before-discount-or-final-payment-after.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [settle-partial-vendor-payment-before-discount-or-final-payment-after.001fa026ccf34be237092916092368faca9494aa.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/settle-partial-vendor-payment-before-discount-or-final-payment-after.001fa026ccf34be237092916092368faca9494aa.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='f227a630f7d1245d5db810d6d48df2b20f6991852722'></a> Source: [financials\accounts-payable\settle-partial-vendor-payment-discounts-vendor-credit-notes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/settle-partial-vendor-payment-discounts-vendor-credit-notes.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [settle-partial-vendor-payment-discounts-vendor-credit-notes.125f0a9f6632cbbc7c39e4e6bd728552b853088e.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/settle-partial-vendor-payment-discounts-vendor-credit-notes.125f0a9f6632cbbc7c39e4e6bd728552b853088e.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='b2f75266283e633438978757504782f395c54bed2723'></a> Source: [financials\accounts-payable\settle-partial-vendor-payment-multiple-discount-periods.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/settle-partial-vendor-payment-multiple-discount-periods.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [settle-partial-vendor-payment-multiple-discount-periods.6fb9d075d3eeb6dbd026861a8fceb8e927f3d1b4.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/settle-partial-vendor-payment-multiple-discount-periods.6fb9d075d3eeb6dbd026861a8fceb8e927f3d1b4.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='6cfc342121e0c5919784911275234fc99c85ede82724'></a> Source: [financials\accounts-payable\settle-partial-vendor-payment-or-final-payment-before-discount.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/settle-partial-vendor-payment-or-final-payment-before-discount.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [settle-partial-vendor-payment-or-final-payment-before-discount.a001b1ffd103771e808c0be63634dd26f15c3af1.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/settle-partial-vendor-payment-or-final-payment-before-discount.a001b1ffd103771e808c0be63634dd26f15c3af1.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='fc4269fc8bf8319a2a2f4e3769f0ffb31d5ef79d2719'></a> Source: [financials\accounts-payable\set-up-generate-positive-pay-files.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/set-up-generate-positive-pay-files.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [set-up-generate-positive-pay-files.7cb3ab4799982d9de70c5af5ce749fb1517ed32a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/set-up-generate-positive-pay-files.7cb3ab4799982d9de70c5af5ce749fb1517ed32a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='31040ff14b99a9b351268feb88698ac706befb552725'></a> Source: [financials\accounts-payable\single-voucher-multiple-customer-vendor-records.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/single-voucher-multiple-customer-vendor-records.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [single-voucher-multiple-customer-vendor-records.0884b4537e818fb8e59d52e20558e0fb55f53e26.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/single-voucher-multiple-customer-vendor-records.0884b4537e818fb8e59d52e20558e0fb55f53e26.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='15da62064521ec614764c42b57a20d32b110587a2726'></a> Source: [financials\accounts-payable\take-cash-discount-outside-cash-discount-timeframe.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/take-cash-discount-outside-cash-discount-timeframe.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [take-cash-discount-outside-cash-discount-timeframe.3796c4af8a4766942ada163e5ed5de9dff4ce127.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/take-cash-discount-outside-cash-discount-timeframe.3796c4af8a4766942ada163e5ed5de9dff4ce127.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='08d7c4981aba7e7c092a6f21d3b63635e76437bf2727'></a> Source: [financials\accounts-payable\take-discount-more-calculated-discount-vendor-payment.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/take-discount-more-calculated-discount-vendor-payment.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [take-discount-more-calculated-discount-vendor-payment.ebf55bf880c8bc50940c283b1450d881d3e02db9.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/take-discount-more-calculated-discount-vendor-payment.ebf55bf880c8bc50940c283b1450d881d3e02db9.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='8ae07088fec05ad416ce1891dd0d0ecd489364ca2728'></a> Source: [financials\accounts-payable\three-way-matching-policies.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/three-way-matching-policies.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [three-way-matching-policies.224aee51a7647b6142334a9126107aa8bfda4b7a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/three-way-matching-policies.224aee51a7647b6142334a9126107aa8bfda4b7a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='16ff8ebb0e620f45c4d290ee5076d5505abf34362730'></a> Source: [financials\accounts-payable\vendor-invoices-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/vendor-invoices-overview.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [vendor-invoices-overview.c9c5dbec16eddcacbaf3ac05349c618e079baa2d.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/vendor-invoices-overview.c9c5dbec16eddcacbaf3ac05349c618e079baa2d.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='48812d33be6b84bbe0eac15adc4bd41a3ea8706b2731'></a> Source: [financials\accounts-payable\vendor-payments-partial-amount.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/vendor-payments-partial-amount.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [vendor-payments-partial-amount.d43f3e1f797ee045870672edfd6da20ee3e3e31d.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/vendor-payments-partial-amount.d43f3e1f797ee045870672edfd6da20ee3e3e31d.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='b3ded881fbf10745b4bcc593096bf21b65ad6bc92732'></a> Source: [financials\accounts-payable\Vendor-payments-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/Vendor-payments-workspace.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [Vendor-payments-workspace.0c795f240667b90a63926b447b1d81a1e00248c6.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/Vendor-payments-workspace.0c795f240667b90a63926b447b1d81a1e00248c6.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='a483e82cc4735fe3c5df4260605417473eb4b0aa2733'></a> Source: [financials\accounts-payable\vendor-portal-invoicing-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/vendor-portal-invoicing-workspace.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [vendor-portal-invoicing-workspace.765d9f0b093ceba509ba99e0b922dfa8e26926dc.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/vendor-portal-invoicing-workspace.765d9f0b093ceba509ba99e0b922dfa8e26926dc.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='2dbb8874323631a9bddb226834adf87d014c1c2f2734'></a> Source: [financials\accounts-payable\vendor-posting-profiles.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/accounts-payable/vendor-posting-profiles.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [vendor-posting-profiles.d3f07384ca26e11c00a1f9bb651e57a534f234e3.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/vendor-posting-profiles.d3f07384ca26e11c00a1f9bb651e57a534f234e3.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='6c697a6409591af08be8d29fa1f32c383930de442741'></a> Source: [financials\accounts-receivable\collections-credit-accounts-receivable.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-receivable/collections-credit-accounts-receivable.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [collections-credit-accounts-receivable.7d329ad5afffdb891bed03a73211491bc91a88e0.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/collections-credit-accounts-receivable.7d329ad5afffdb891bed03a73211491bc91a88e0.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='a5b3dc7710ebbce50366ca9299bfb30dffc031872744'></a> Source: [financials\accounts-receivable\credit-card-authorizations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-receivable/credit-card-authorizations.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [credit-card-authorizations.762a70393a1130194398bed790ef397efffb47cb.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/credit-card-authorizations.762a70393a1130194398bed790ef397efffb47cb.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='70bcf07db3abcc981db5702a80b44c350dce7f832745'></a> Source: [financials\accounts-receivable\credit-collections-power-bi.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-receivable/credit-collections-power-bi.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [credit-collections-power-bi.61033b1ac63b81fafca7e6ed613d255c58a88788.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/credit-collections-power-bi.61033b1ac63b81fafca7e6ed613d255c58a88788.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='f35db274a6b14f6bae185b69348d3829c77801b52761'></a> Source: [financials\budgeting\basic-budgeting-overview-configuration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/budgeting/basic-budgeting-overview-configuration.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [basic-budgeting-overview-configuration.b85ab4d33ec417fb9c2c5496eeafea47a150d2ae.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/basic-budgeting-overview-configuration.b85ab4d33ec417fb9c2c5496eeafea47a150d2ae.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='a9278e82e9da36a02379a2ea1f627ebb29cf8f1f2762'></a> Source: [financials\budgeting\budget-control-overview-configuration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/budgeting/budget-control-overview-configuration.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [budget-control-overview-configuration.cd9bb4fe68c3792000a12eeb5db164ef005db005.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/budget-control-overview-configuration.cd9bb4fe68c3792000a12eeb5db164ef005db005.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='7c1683a69f2aa8c881c1ed541d0be51a2391e4842769'></a> Source: [financials\budgeting\budgeting-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/budgeting/budgeting-overview.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [budgeting-overview.f6b74e5392d859f959fa26bd2df6437d02d5378a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/premium/budgeting-overview.f6b74e5392d859f959fa26bd2df6437d02d5378a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='11b5ffacef06fd3e83c61cd14da11ad645eec3352763'></a> Source: [financials\budgeting\budget-plan.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/budgeting/budget-plan.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [budget-plan.a4cf6b97cb06e44f0e17eb6fed2c80bb7581b8c5.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/budget-plan.a4cf6b97cb06e44f0e17eb6fed2c80bb7581b8c5.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='fc85775a27a160e951593bb9d40a6294af3ca3292764'></a> Source: [financials\budgeting\budget-planning-data-allocation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/budgeting/budget-planning-data-allocation.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [budget-planning-data-allocation.b5e5290663f4d8db2f20a245096c554f1ef2466b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/budget-planning-data-allocation.b5e5290663f4d8db2f20a245096c554f1ef2466b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='9f8073a2eb0d1b61d6a168f43eba983d113cf4532765'></a> Source: [financials\budgeting\budget-planning-excel-templates.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/budgeting/budget-planning-excel-templates.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [budget-planning-excel-templates.9cb20263dd7fbe98aef6dfb5f358f9d46d9b5850.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/budget-planning-excel-templates.9cb20263dd7fbe98aef6dfb5f358f9d46d9b5850.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='1d23c0e1725a39d25d2be8971f541b2c31bbe8592767'></a> Source: [financials\budgeting\budget-planning-justification-docs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/budgeting/budget-planning-justification-docs.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [budget-planning-justification-docs.345163806a6f37684cc2a6877876994d918535b2.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/budget-planning-justification-docs.345163806a6f37684cc2a6877876994d918535b2.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='dfe00ebc1812c4a0dbec62420d3334a944062c092768'></a> Source: [financials\budgeting\budget-planning-overview-configuration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/budgeting/budget-planning-overview-configuration.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [budget-planning-overview-configuration.edfaaaab5e8af53dfc029315a9eb95f9202b152a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/budget-planning-overview-configuration.edfaaaab5e8af53dfc029315a9eb95f9202b152a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='835669de01deb1ba0dcc5752d9d6d8f498e6ff7d2770'></a> Source: [financials\budgeting\consolidation-account-groups-consolidation-accounts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/budgeting/consolidation-account-groups-consolidation-accounts.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [consolidation-account-groups-consolidation-accounts.9ecf009a0e9607c15043bf545621baad7cb687a1.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/consolidation-account-groups-consolidation-accounts.9ecf009a0e9607c15043bf545621baad7cb687a1.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='2dffb2634701210852b4b146a762434cf6df07e32895'></a> Source: [financials\budgeting\position-forecasting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/budgeting/position-forecasting.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [position-forecasting.1903b47cc50122ffd9f8abda090cf88874e2fe39.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/position-forecasting.1903b47cc50122ffd9f8abda090cf88874e2fe39.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='67cd622d7766e5b177ccc58398431b007e8bda4e2897'></a> Source: [financials\cash-bank-management\advanced-bank-reconciliation-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cash-bank-management/advanced-bank-reconciliation-overview.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [advanced-bank-reconciliation-overview.8b0d5cf75651361bb354b1632380db311351d7bd.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/advanced-bank-reconciliation-overview.8b0d5cf75651361bb354b1632380db311351d7bd.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='59e91f855f3c40fee61b12023a85b8ae51317e882898'></a> Source: [financials\cash-bank-management\Bank-management-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cash-bank-management/Bank-management-workspace.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [Bank-management-workspace.beac49deab63bdc6eca7913f829e7039dd77a1db.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/Bank-management-workspace.beac49deab63bdc6eca7913f829e7039dd77a1db.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='9e4e58152188115105387325268bc4f1eb8faad32902'></a> Source: [financials\cash-bank-management\cash-flow-forecasting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cash-bank-management/cash-flow-forecasting.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [cash-flow-forecasting.746d0e507eb02c004debb1e60535e026e7ff6315.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/cash-flow-forecasting.746d0e507eb02c004debb1e60535e026e7ff6315.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='086b12e1c1422f7e12eb5ac71d1b74a4af5a74a02903'></a> Source: [financials\cash-bank-management\Cash-Overview-Power-BI-content.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cash-bank-management/Cash-Overview-Power-BI-content.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [Cash-Overview-Power-BI-content.7646b79987973fc04e51734478bd8122a9e7f08c.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/Cash-Overview-Power-BI-content.7646b79987973fc04e51734478bd8122a9e7f08c.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='89f895a9de9fa9863459ae6261b8c429d559d4822904'></a> Source: [financials\cash-bank-management\configure-advanced-bank-reconciliation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cash-bank-management/configure-advanced-bank-reconciliation.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [configure-advanced-bank-reconciliation.3329e0daee1f30118538712d4423d90f1e1f1932.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/configure-advanced-bank-reconciliation.3329e0daee1f30118538712d4423d90f1e1f1932.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='059513de66827aa3a839b9eb06973ec4c1549f732905'></a> Source: [financials\cash-bank-management\configure-settlement.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cash-bank-management/configure-settlement.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [configure-settlement.0c04f09fca1beb05b661f0b24fd9cafe770a6695.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/configure-settlement.0c04f09fca1beb05b661f0b24fd9cafe770a6695.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='33b7a499caf9292e44c155a0e1bd6a8929558be52907'></a> Source: [financials\cash-bank-management\import-bank-statement-file-failed-incorrect-results.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cash-bank-management/import-bank-statement-file-failed-incorrect-results.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [import-bank-statement-file-failed-incorrect-results.f769d940ed9170076410b1e5d5115d5fc6b35ca4.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/import-bank-statement-file-failed-incorrect-results.f769d940ed9170076410b1e5d5115d5fc6b35ca4.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='95a798d5c0007c8b85f99b8024a8ef76d4aa49f02917'></a> Source: [financials\cash-bank-management\postdated-checks.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cash-bank-management/postdated-checks.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [postdated-checks.38998759be079f019e174eb43b41f7a8b4275abf.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/postdated-checks.38998759be079f019e174eb43b41f7a8b4275abf.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='eb7fd01874b08417933ddf575c7d6ff866b4e6f82918'></a> Source: [financials\cash-bank-management\reconcile-bank-statements-advanced-bank-reconciliation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cash-bank-management/reconcile-bank-statements-advanced-bank-reconciliation.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [reconcile-bank-statements-advanced-bank-reconciliation.9c166e6edbd011f94f951d228bd6bdb2c4f221da.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/reconcile-bank-statements-advanced-bank-reconciliation.9c166e6edbd011f94f951d228bd6bdb2c4f221da.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='a4d1c81386c0ef03391f3127fa51a6b09a5142b32919'></a> Source: [financials\cash-bank-management\set-up-advanced-bank-reconciliation-import-process.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cash-bank-management/set-up-advanced-bank-reconciliation-import-process.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [set-up-advanced-bank-reconciliation-import-process.3415bf1e98c9cc5b38aad985d1db035bb93f8ece.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/set-up-advanced-bank-reconciliation-import-process.3415bf1e98c9cc5b38aad985d1db035bb93f8ece.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='60cd6a7f7b4d5c3acc68aa27c920f42f1d4b910e2920'></a> Source: [financials\cash-bank-management\set-up-bank-reconciliation-matching-rules.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cash-bank-management/set-up-bank-reconciliation-matching-rules.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [set-up-bank-reconciliation-matching-rules.b90657e2c02ecda8bd171fc084ef52072faa2c99.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/set-up-bank-reconciliation-matching-rules.b90657e2c02ecda8bd171fc084ef52072faa2c99.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='837d7058f6fc165bfbf2b74a0f68b8398946e9792925'></a> Source: [financials\cost-accounting\access-rights-cost-object-controller.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cost-accounting/access-rights-cost-object-controller.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [access-rights-cost-object-controller.a3aa3766c8423ce609b816f3f3c34d248f198718.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/access-rights-cost-object-controller.a3aa3766c8423ce609b816f3f3c34d248f198718.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='1a7f5c721591cdfe0ca7ac0ea6c3f8c76d5f6e5c2926'></a> Source: [financials\cost-accounting\allocation-bases.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cost-accounting/allocation-bases.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [allocation-bases.7450c9383cf975552a0e0b215f60f8c0d479b3ad.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/allocation-bases.7450c9383cf975552a0e0b215f60f8c0d479b3ad.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='4514c6dbf014720c29e79889bf1fcc0efd6cd3ec2927'></a> Source: [financials\cost-accounting\cost-accounting-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cost-accounting/cost-accounting-home-page.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [cost-accounting-home-page.dfa91efbc95341c317d3e7a9b1111abe6829b94c.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/cost-accounting-home-page.dfa91efbc95341c317d3e7a9b1111abe6829b94c.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='dbedf75a6f61a9e2bc644056f0dd1e7499cedc422929'></a> Source: [financials\cost-accounting\cost-controlling-mobile-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cost-accounting/cost-controlling-mobile-workspace.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [cost-controlling-mobile-workspace.b874a57f1f2cbb79e014e8153a3739addad12cf4.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/cost-controlling-mobile-workspace.b874a57f1f2cbb79e014e8153a3739addad12cf4.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='d49dc609a1408eedde902f4a22174306b47247472928'></a> Source: [financials\cost-accounting\cost-control-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cost-accounting/cost-control-workspace.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [cost-control-workspace.9b969a83cd3ec2700be1ac11cdd0ca2149e6eb98.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/cost-control-workspace.9b969a83cd3ec2700be1ac11cdd0ca2149e6eb98.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='84586fc799f6a126d93a4155f03fab7e2317e7ac2932'></a> Source: [financials\cost-accounting\cost-rollup.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cost-accounting/cost-rollup.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [cost-rollup.a8f6ff4a0c7a7da16db6b756c7663abc5abca244.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/cost-rollup.a8f6ff4a0c7a7da16db6b756c7663abc5abca244.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='6bf1769125cf5ee58bd54d5b74ec4d1c942646ac2933'></a> Source: [financials\cost-accounting\dimension-hierarchy.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cost-accounting/dimension-hierarchy.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [dimension-hierarchy.d9a1ef2bae68b54df7790a48aceac924e99a4ee5.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/dimension-hierarchy.d9a1ef2bae68b54df7790a48aceac924e99a4ee5.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='c040a50d9962d7a900fbef285ea1f1baea1240332948'></a> Source: [financials\cost-accounting\overhead-calculation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cost-accounting/overhead-calculation.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [overhead-calculation.e8aaffdaba3b338c808b1b3267e250adcfda5893.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/overhead-calculation.e8aaffdaba3b338c808b1b3267e250adcfda5893.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='67049085a0b962be871040e32015e033478267622949'></a> Source: [financials\cost-accounting\statistical-measure-provider-template.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cost-accounting/statistical-measure-provider-template.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [statistical-measure-provider-template.340753b7cc896939894a7cd34c64714d13656e92.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/statistical-measure-provider-template.340753b7cc896939894a7cd34c64714d13656e92.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='35b8e510e7e2c13aebb73f46d20b16275d0974322950'></a> Source: [financials\cost-accounting\terms-cost-accounting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/cost-accounting/terms-cost-accounting.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [terms-cost-accounting.837dfd5d6e3321097394a1cd5b20b7bcc0e42483.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/terms-cost-accounting.837dfd5d6e3321097394a1cd5b20b7bcc0e42483.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='84841521483588765510dd9e1ce92a32e493ca8d2953'></a> Source: [financials\expense-management\expense-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/expense-management/expense-management.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [expense-management.042ba373a8ea8817dc9a9166f7dc86d49c0c3cff.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/expense-management.042ba373a8ea8817dc9a9166f7dc86d49c0c3cff.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='0e52d1c5dde7f79c4a8ac5ac2d9c3b25bba9c2cd2952'></a> Source: [financials\expense-management\expense-management-mobile-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/expense-management/expense-management-mobile-workspace.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [expense-management-mobile-workspace.977228bc03c5d0d382bd3e77baef3286a089a294.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/expense-management-mobile-workspace.977228bc03c5d0d382bd3e77baef3286a089a294.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='edd3d8ca760c1453ae7cf8d5ff2fdfdedbb022c42956'></a> Source: [financials\expense-management\plan-expense-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/expense-management/plan-expense-management.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [plan-expense-management.ee5a6e90a522ceff2419936c5d0bc32594133f80.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/plan-expense-management.ee5a6e90a522ceff2419936c5d0bc32594133f80.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='116f9e8fbf8ed6ecbd2a1163f17e52ba800616942964'></a> Source: [financials\fixed-assets\depreciation-book-upgrade-considerations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/fixed-assets/depreciation-book-upgrade-considerations.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [depreciation-book-upgrade-considerations.17c1e3dbca414bca48d46ac1ce4557a08b6fdf24.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/depreciation-book-upgrade-considerations.17c1e3dbca414bca48d46ac1ce4557a08b6fdf24.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='8b0361edb0f2dc7484fb9046ce4793fe9397e3d12966'></a> Source: [financials\fixed-assets\depreciation-methods-conventions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/fixed-assets/depreciation-methods-conventions.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [depreciation-methods-conventions.8b2c25afa63ab3d84ee5dcabeae13c96e2d8cc13.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/depreciation-methods-conventions.8b2c25afa63ab3d84ee5dcabeae13c96e2d8cc13.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='ca1446017555f840b369262a2ca16c66b5eebd882974'></a> Source: [financials\fixed-assets\fixed-asset-management-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/fixed-assets/fixed-asset-management-workspace.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [fixed-asset-management-workspace.ab62cc49c53615f75dc16639896df08a816ec57c.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/fixed-asset-management-workspace.ab62cc49c53615f75dc16639896df08a816ec57c.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='add41ceb1dd31d5b5aa26916114d7d7864cb16262976'></a> Source: [financials\fixed-assets\fixed-asset-value-model-depreciation-book-merge.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/fixed-assets/fixed-asset-value-model-depreciation-book-merge.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [fixed-asset-value-model-depreciation-book-merge.92074f82d126205ae52284b0e7bad2c4c877677e.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/fixed-asset-value-model-depreciation-book-merge.92074f82d126205ae52284b0e7bad2c4c877677e.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='112ff0364584fec10cbdec73f3bbbf2bfcd410472990'></a> Source: [financials\general-ledger\audit-policy-rules.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/audit-policy-rules.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [audit-policy-rules.f5cab025f4f9d595b9a7f7318cea6eeaa0a62cac.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/audit-policy-rules.f5cab025f4f9d595b9a7f7318cea6eeaa0a62cac.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='bf7084413974c8dda37a0ad79c214bb56a4dd61c2991'></a> Source: [financials\general-ledger\audit-policy-violations-cases.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/audit-policy-violations-cases.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [audit-policy-violations-cases.cc661a313648df02c7d6693ea8085aaf1421f78c.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/audit-policy-violations-cases.cc661a313648df02c7d6693ea8085aaf1421f78c.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='1c9b35430a6dfb0c34df40659ab2c2a135be74f42992'></a> Source: [financials\general-ledger\balance-sheet-financial-reports.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/balance-sheet-financial-reports.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [balance-sheet-financial-reports.9245f431bad206e77cb769397dee8334d13015dc.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/balance-sheet-financial-reports.9245f431bad206e77cb769397dee8334d13015dc.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='76af350f37109260a757ccc0b93908637d0579dc2996'></a> Source: [financials\general-ledger\elimination-rules.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/elimination-rules.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [elimination-rules.9b2dc3c1152b0a9abc3a3dcd12ffaabb8288de29.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/elimination-rules.9b2dc3c1152b0a9abc3a3dcd12ffaabb8288de29.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='9cf725f289f5d7e2d6b6b809771cd1ad24e2177f2998'></a> Source: [financials\general-ledger\example-balanced-journals-interunit-accounting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/example-balanced-journals-interunit-accounting.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [example-balanced-journals-interunit-accounting.0eddb9b9fe47c90502bbe3157c10e6788e0a7606.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/example-balanced-journals-interunit-accounting.0eddb9b9fe47c90502bbe3157c10e6788e0a7606.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='410504f96792f27bb44f2378a5d1f7376580244e2999'></a> Source: [financials\general-ledger\example-posting-definitions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/example-posting-definitions.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [example-posting-definitions.cd704a729bb8be63bc2fe70deb51ea41cdbb06fa.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/example-posting-definitions.cd704a729bb8be63bc2fe70deb51ea41cdbb06fa.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='7a296f2ff420bec3e1e241deca63f5179a40f31a3001'></a> Source: [financials\general-ledger\financial-period-close-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/financial-period-close-workspace.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [financial-period-close-workspace.027bff630b97008f75b95b1c744300823400a69b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/financial-period-close-workspace.027bff630b97008f75b95b1c744300823400a69b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='fedde78a563939fd7080e748c412c89c715868233002'></a> Source: [financials\general-ledger\financial-reporting-getting-started.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/financial-reporting-getting-started.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [financial-reporting-getting-started.f1737a7ceb469636fd93dbed1e53e7b5bf5aced2.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/financial-reporting-getting-started.f1737a7ceb469636fd93dbed1e53e7b5bf5aced2.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='244eada4202106b65198e3d6e3d0dedaa54866323004'></a> Source: [financials\general-ledger\general-journal-processing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/general-journal-processing.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [general-journal-processing.a9d1aafff8dae12e71a981e7f445f407f336432a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/general-journal-processing.a9d1aafff8dae12e71a981e7f445f407f336432a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='2d0654d6dbed3b4fe56b8918194132787f66af803007'></a> Source: [financials\general-ledger\import-currency-exchange-rates.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/import-currency-exchange-rates.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [import-currency-exchange-rates.685ddd39e0d62c0f8bb234434d6106fdce0a88a1.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/import-currency-exchange-rates.685ddd39e0d62c0f8bb234434d6106fdce0a88a1.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='f07aea0b87bc3e09982f9ba248d3c28540fd2dc53008'></a> Source: [financials\general-ledger\income-statement-financial-report.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/income-statement-financial-report.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [income-statement-financial-report.36585770e5f005843d00346c29d083fedca90149.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/income-statement-financial-report.36585770e5f005843d00346c29d083fedca90149.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='415928125c14dfc69020b712f281835701ba2f833009'></a> Source: [financials\general-ledger\indirect-taxes-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/indirect-taxes-overview.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [indirect-taxes-overview.5f321d401af23d2a63de8fc15d7f1642d16a0245.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/indirect-taxes-overview.5f321d401af23d2a63de8fc15d7f1642d16a0245.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='0ce91e475b7183c09b7795dd7212923311252a033011'></a> Source: [financials\general-ledger\ledger-allocation-rules.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/ledger-allocation-rules.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [ledger-allocation-rules.6cc147c55cac4bb6a4c734fc1245c2b9b21a41d8.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/ledger-allocation-rules.6cc147c55cac4bb6a4c734fc1245c2b9b21a41d8.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='624f38a7348ede3cc9e6fb7ce0b78a61b1452b613012'></a> Source: [financials\general-ledger\ledger-journal-types.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/ledger-journal-types.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [ledger-journal-types.03e4e4bf7fff900ba930156a0dc52942cd7767a2.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/ledger-journal-types.03e4e4bf7fff900ba930156a0dc52942cd7767a2.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='1fed8d162a37736883365fa765a059e5beff06be3020'></a> Source: [financials\general-ledger\open-lines-excel-journals-documents.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/open-lines-excel-journals-documents.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [open-lines-excel-journals-documents.93ab47267fb999a4ce3956c7d46e6689e1cc8f37.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/open-lines-excel-journals-documents.93ab47267fb999a4ce3956c7d46e6689e1cc8f37.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='1d984362379e0eb752d5ddeb794a7347e50b8a103022'></a> Source: [financials\general-ledger\posting-definitions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/posting-definitions.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [posting-definitions.7cb7e3ed7596a886ac51f84abe3ecd897b4da2b3.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/posting-definitions.7cb7e3ed7596a886ac51f84abe3ecd897b4da2b3.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='2ee7601de7927a94f7dab5df4ced1c5cb240667c3023'></a> Source: [financials\general-ledger\process-allocations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/process-allocations.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [process-allocations.676b2c26d13d850f51bd1fd60cdc64a56530064f.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/process-allocations.676b2c26d13d850f51bd1fd60cdc64a56530064f.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='86e8e91f2af474999d89bb63ac9e2afad7843c8a3026'></a> Source: [financials\general-ledger\trial-balance-financial-reports.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/trial-balance-financial-reports.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [trial-balance-financial-reports.c161630859897ccd701480e96c920dad2028f537.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/trial-balance-financial-reports.c161630859897ccd701480e96c920dad2028f537.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='102031174417a33b12c32f6b8185556b8c4701e53027'></a> Source: [financials\general-ledger\view-financial-reports.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/view-financial-reports.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [view-financial-reports.2a3bfed584a62394d03683ac9ebcb77a3a131b22.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/view-financial-reports.2a3bfed584a62394d03683ac9ebcb77a3a131b22.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='9d476eca86024585bacecb14eed62204aa415af23031'></a> Source: [financials\includes\banner.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/includes/banner.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [banner.1f10df632e4a5cdf1a6424f1bad78255d9162ae8.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/premium/banner.1f10df632e4a5cdf1a6424f1bad78255d9162ae8.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='30fdd99949ad7cbb05fe341a76dcd2c7d3b917513032'></a> Source: [financials\index.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/index.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [index.b2a7ba7beb8961ac1e364337b032b044bb4a963c.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/premium/index.b2a7ba7beb8961ac1e364337b032b044bb4a963c.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='20cd164f86f316e33747a3c98781c0e6a71f98133033'></a> Source: [financials\localizations\apac-aus-business-activity-statement.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/apac-aus-business-activity-statement.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [apac-aus-business-activity-statement.64c25310fedcefc5545956479565d3438c45abd0.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/apac-aus-business-activity-statement.64c25310fedcefc5545956479565d3438c45abd0.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='1ebb4572220d2e0d9f48a3054048036a67b5abc83038'></a> Source: [financials\localizations\apac-chn-import-golden-tax-data-entity.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/apac-chn-import-golden-tax-data-entity.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [apac-chn-import-golden-tax-data-entity.8461965791fb176e20af521f08582b48c68c0781.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/apac-chn-import-golden-tax-data-entity.8461965791fb176e20af521f08582b48c68c0781.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='e8159fe7853d86eea4e9c68db4de5b55183907473057'></a> Source: [financials\localizations\apac-mys-gst.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/apac-mys-gst.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [apac-mys-gst.a1413b3a7a24298d6e19a11bedf2d408efe56870.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/apac-mys-gst.a1413b3a7a24298d6e19a11bedf2d408efe56870.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='3a67ad757b6b6a703a3701253035ac0c677bc4263058'></a> Source: [financials\localizations\apac-sgp-generate-gst-05-report.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/apac-sgp-generate-gst-05-report.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [apac-sgp-generate-gst-05-report.004ee096536cde233942dc125c1c2e447c7ea9b9.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/apac-sgp-generate-gst-05-report.004ee096536cde233942dc125c1c2e447c7ea9b9.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='fedcd2b4756faddc20fe6f304e4448949acdaa613063'></a> Source: [financials\localizations\emea-advance-holders.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-advance-holders.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [emea-advance-holders.f1f72da0a838f993e1d816f6aadea06443860744.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/emea-advance-holders.f1f72da0a838f993e1d816f6aadea06443860744.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='6424d371fb2cfdbfb657931f982670755d4d41553062'></a> Source: [financials\localizations\emea-advance-holders-transactions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-advance-holders-transactions.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [emea-advance-holders-transactions.04124b1b10dc1ff4e375c2bf87437b251f0a58ef.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/emea-advance-holders-transactions.04124b1b10dc1ff4e375c2bf87437b251f0a58ef.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='4690779974a49d21f21d6df4fc2c8399db9c9e513076'></a> Source: [financials\localizations\emea-compensation-customer-vendor-transactions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-compensation-customer-vendor-transactions.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [emea-compensation-customer-vendor-transactions.3b3282d8972987ba8fbf9556a7a0d2a7ec8fa9d6.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/emea-compensation-customer-vendor-transactions.3b3282d8972987ba8fbf9556a7a0d2a7ec8fa9d6.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='5635ac9705d3a367c724f34ba5dd27424cec1af93091'></a> Source: [financials\localizations\emea-entry-certificates.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-entry-certificates.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [emea-entry-certificates.5931ce58a932fb7de9f25918c20868379dd4ea83.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/emea-entry-certificates.5931ce58a932fb7de9f25918c20868379dd4ea83.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='da89e6b4eada006584ef5524c8902f6e9e9c7cd73109'></a> Source: [financials\localizations\emea-fra-commitments-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-fra-commitments-public-sector.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [emea-fra-commitments-public-sector.85187cbe60d3ff2055c5497139fb442c06130c91.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/emea-fra-commitments-public-sector.85187cbe60d3ff2055c5497139fb442c06130c91.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='d384fac6891092baf930189b5a999951a228fe4d3117'></a> Source: [financials\localizations\emea-fra-titres-de-recette-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-fra-titres-de-recette-public-sector.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [emea-fra-titres-de-recette-public-sector.fdd011c3b2e0bcbea471f052c5b6d6377bfcd2fe.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/emea-fra-titres-de-recette-public-sector.fdd011c3b2e0bcbea471f052c5b6d6377bfcd2fe.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='6f8c7574b0f3c6a8d682522b5edc386be5bcb1653118'></a> Source: [financials\localizations\emea-fra-vendor-invoice-payment-holds-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-fra-vendor-invoice-payment-holds-public-sector.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [emea-fra-vendor-invoice-payment-holds-public-sector.22e7d8bb7b6b97005f1608dd83b21bb916b62bdd.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/emea-fra-vendor-invoice-payment-holds-public-sector.22e7d8bb7b6b97005f1608dd83b21bb916b62bdd.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='5616eb677761ce9ca3d40bd198aa9d7cfdc3be703119'></a> Source: [financials\localizations\emea-gbr-cis-construction-industry-scheme.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-gbr-cis-construction-industry-scheme.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [emea-gbr-cis-construction-industry-scheme.2d083782bfde58ba0f56e6222f0e5202f6acb0a6.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/emea-gbr-cis-construction-industry-scheme.2d083782bfde58ba0f56e6222f0e5202f6acb0a6.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='6d1141d597e95b0d5cabf77c0248697d256b102a3124'></a> Source: [financials\localizations\emea-intrastat.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-intrastat.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [emea-intrastat.500883b7befc2e4d3d3e6393679b8873cfc7e896.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/emea-intrastat.500883b7befc2e4d3d3e6393679b8873cfc7e896.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='3fdd9f21964ae6d0c12225feebb6d73e852dc50e3125'></a> Source: [financials\localizations\emea-invoice-issue-deadline.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-invoice-issue-deadline.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [emea-invoice-issue-deadline.28b1ae5f3f64a45db1fe765746eb1d1d8af0bdb5.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/emea-invoice-issue-deadline.28b1ae5f3f64a45db1fe765746eb1d1d8af0bdb5.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='e86177dc4e129fe62826fec71c4773f329a66d0a3142'></a> Source: [financials\localizations\emea-oioubl-standards-electronic-invoicing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-oioubl-standards-electronic-invoicing.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [emea-oioubl-standards-electronic-invoicing.f201ed7da0302308ecfbfcb70aed4c93c218e440.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/emea-oioubl-standards-electronic-invoicing.f201ed7da0302308ecfbfcb70aed4c93c218e440.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='569be626e629497a8bb81bc4212e227ef2bd59a93148'></a> Source: [financials\localizations\emea-pol-returnable-packages.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-pol-returnable-packages.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [emea-pol-returnable-packages.a47f8d176e3886ee249f8551bedb0024f317b30c.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/emea-pol-returnable-packages.a47f8d176e3886ee249f8551bedb0024f317b30c.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='9bf538ff6a31f357441b10661d8b0a6f568bd2db3150'></a> Source: [financials\localizations\emea-pol-sales-tax-reports.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-pol-sales-tax-reports.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [emea-pol-sales-tax-reports.300831ef5dbcaded5adecc77cacce189b9a0d783.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/emea-pol-sales-tax-reports.300831ef5dbcaded5adecc77cacce189b9a0d783.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='f874509cb3615cc6542808e677b7d12a7d1735863151'></a> Source: [financials\localizations\emea-pol-standard-audit-file-saf.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-pol-standard-audit-file-saf.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [emea-pol-standard-audit-file-saf.ffa2f65103193fec972684cc545dfa2e2e29b557.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/emea-pol-standard-audit-file-saf.ffa2f65103193fec972684cc545dfa2e2e29b557.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='7e66596d28a5f417b5fb4ac3fbb961ab66769d1e3154'></a> Source: [financials\localizations\emea-registration-ids.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-registration-ids.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [emea-registration-ids.fa5347aad0d50a424e1f6456512eadd1f4281f7e.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/emea-registration-ids.fa5347aad0d50a424e1f6456512eadd1f4281f7e.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='699bcd5c5cbd1183df29713aae790a6f89a5db973157'></a> Source: [financials\localizations\emea-set-up-report-inventory-journal-names.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-set-up-report-inventory-journal-names.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [emea-set-up-report-inventory-journal-names.45d79484ab2d3eef8177410dde301e78ceca2d07.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/emea-set-up-report-inventory-journal-names.45d79484ab2d3eef8177410dde301e78ceca2d07.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='f1907364062dfeae8e062c6bf16b87d43883343b3160'></a> Source: [financials\localizations\emea-tax-directives.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-tax-directives.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [emea-tax-directives.5d911ea0f4d805499ac5c434580910169615e7a1.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/emea-tax-directives.5d911ea0f4d805499ac5c434580910169615e7a1.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='1da2639b40c7c5c349b2ae0ead39a57bd214ff4d3206'></a> Source: [financials\localizations\noam-usa-form-1099-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/noam-usa-form-1099-public-sector.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [noam-usa-form-1099-public-sector.ced3a2d573e87d86aebc4a230f0dcca917676d3b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/noam-usa-form-1099-public-sector.ced3a2d573e87d86aebc4a230f0dcca917676d3b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='ea480a56e2b88ed920adc945ad9db1f60b6e8fa13207'></a> Source: [financials\localizations\noam-usa-year-end-1099-reporting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/noam-usa-year-end-1099-reporting.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [noam-usa-year-end-1099-reporting.b4371845677a2ae3e9d957233007b1d87dff2c9d.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/noam-usa-year-end-1099-reporting.b4371845677a2ae3e9d957233007b1d87dff2c9d.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='a629aed406215b4daa984707ff2cab072b260edc3208'></a> Source: [financials\localizations\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/TOC.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [TOC.32aa09a9722dcc6cec0e09694dcd020b6e66f255.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/premium/TOC.32aa09a9722dcc6cec0e09694dcd020b6e66f255.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='205903bb68804a46414410c85eacce03c6df6fc73209'></a> Source: [financials\project-management\intercompany-invoicing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/project-management/intercompany-invoicing.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [intercompany-invoicing.9be479cf8f114ec351f25eef5ec753ff5264958b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/intercompany-invoicing.9be479cf8f114ec351f25eef5ec753ff5264958b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='12afcde947463b3abf58dea6138653a32dcda6f13226'></a> Source: [financials\project-management\overview-project-management-accounting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/project-management/overview-project-management-accounting.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [overview-project-management-accounting.f56b7e4f73cbc36f30807bfa8b91abb2a54e6175.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/overview-project-management-accounting.f56b7e4f73cbc36f30807bfa8b91abb2a54e6175.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='2aa70e050bf068a26e2d0d86c26045fc000931eb3227'></a> Source: [financials\project-management\project-contracts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/project-management/project-contracts.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [project-contracts.0dcd644ad1394e99b38901657f9f90f399ba09b9.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/project-contracts.0dcd644ad1394e99b38901657f9f90f399ba09b9.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='835a92a8f95c7d75b02f5991cc2528c6a209540a3228'></a> Source: [financials\project-management\project-forecasts-budgets.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/project-management/project-forecasts-budgets.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [project-forecasts-budgets.b7d8501b01f3d0ac9da7031264cadbf13b9b10e1.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/project-forecasts-budgets.b7d8501b01f3d0ac9da7031264cadbf13b9b10e1.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='9715d33598c0749ff1ad2523f2fa8834987998ed3229'></a> Source: [financials\project-management\project-purchase-orders.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/project-management/project-purchase-orders.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [project-purchase-orders.0125eccd25076c8ce1f4893901c19140b03a53bb.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/project-purchase-orders.0125eccd25076c8ce1f4893901c19140b03a53bb.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='0906a1600d4bf097a27cabff4d3b51e50f9866313230'></a> Source: [financials\project-management\project-quotations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/project-management/project-quotations.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [project-quotations.4de572405f7e167d9b97d5af75a025b53b63791c.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/project-quotations.4de572405f7e167d9b97d5af75a025b53b63791c.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='a7275e9ad8d655d0d2ee5ba90a792775dec0cf053231'></a> Source: [financials\project-management\project-resourcing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/project-management/project-resourcing.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [project-resourcing.24ffd5e69db877f9001e54dabd4f55d4cd539894.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/project-resourcing.24ffd5e69db877f9001e54dabd4f55d4cd539894.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='d80dea89db1fbe270b96063f3818ec3ac95239c83232'></a> Source: [financials\project-management\project-time-entry-mobile-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/project-management/project-time-entry-mobile-workspace.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [project-time-entry-mobile-workspace.6879f8a8bbdf1aa8367ff5e063b9b2b7bee5c998.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/project-time-entry-mobile-workspace.6879f8a8bbdf1aa8367ff5e063b9b2b7bee5c998.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='7b9ca1c14d01c7ed3b18ed8417d23db1ef5e5ee23233'></a> Source: [financials\project-management\work-breakdown-structures.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/project-management/work-breakdown-structures.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [work-breakdown-structures.6ef2c82b0afacec14a1dd99432785933009845f2.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/work-breakdown-structures.6ef2c82b0afacec14a1dd99432785933009845f2.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='855eb8777b50fb610b90c37a10e37062a3c4bdfe3234'></a> Source: [financials\public-sector\accounts-payable-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/public-sector/accounts-payable-public-sector.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [accounts-payable-public-sector.65f72140e16c5e54756dddabd3c735c62c954d81.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/accounts-payable-public-sector.65f72140e16c5e54756dddabd3c735c62c954d81.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='21d610c169878b156aeefe1d20bd6ea183deae793243'></a> Source: [financials\public-sector\funds-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/public-sector/funds-public-sector.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [funds-public-sector.4aed0f5e872ef5f2f500e4307ecccc03a391d54d.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/funds-public-sector.4aed0f5e872ef5f2f500e4307ecccc03a391d54d.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='639479834464b6a68579fb6fca9e4e0c1832a1213246'></a> Source: [financials\public-sector\one-time-vendors-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/public-sector/one-time-vendors-public-sector.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [one-time-vendors-public-sector.b42f641f706f2d9f20b946eaa28db0561e6b8251.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/one-time-vendors-public-sector.b42f641f706f2d9f20b946eaa28db0561e6b8251.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='ec202de96ac9397f3d9b24be7dc75731fad798163248'></a> Source: [financials\public-sector\plan-public-sector-functionality.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/public-sector/plan-public-sector-functionality.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [plan-public-sector-functionality.2b370355e854c8932f8840164f667ef7024dd6eb.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/plan-public-sector-functionality.2b370355e854c8932f8840164f667ef7024dd6eb.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='cf1fbe904d70a26fb7692e921d0465707b8b422a3251'></a> Source: [financials\public-sector\procurement-sourcing-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/public-sector/procurement-sourcing-public-sector.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [procurement-sourcing-public-sector.64ab52f21dafa5d3a7ddece3a560716a2b85e618.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/procurement-sourcing-public-sector.64ab52f21dafa5d3a7ddece3a560716a2b85e618.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='7a12c9678e60ab10d4693f1d9d20b77e31b7d84b3252'></a> Source: [financials\public-sector\public-sector-functionality.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/public-sector/public-sector-functionality.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [public-sector-functionality.5058455acb2ed828dae1d133f8c1519004d00557.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/public-sector-functionality.5058455acb2ed828dae1d133f8c1519004d00557.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='7ab18fef7d2373fcc682ecacf83a981f067fae993255'></a> Source: [financials\public-sector\security-roles-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/public-sector/security-roles-public-sector.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [security-roles-public-sector.010a5729aba585d3a9196646d7cbb93c2ed2557a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/security-roles-public-sector.010a5729aba585d3a9196646d7cbb93c2ed2557a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='f9b77ee5de2f333e7791617694b66b18fe385c4d3256'></a> Source: [financials\public-sector\settlement-priority-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/public-sector/settlement-priority-public-sector.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [settlement-priority-public-sector.107ed9a7a7e6f2650f2616c713a8a7ebcb282105.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/settlement-priority-public-sector.107ed9a7a7e6f2650f2616c713a8a7ebcb282105.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='9f3e858b6022d8d64d319aad087e5b0aefccc0223258'></a> Source: [financials\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/TOC.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [TOC.88d6c824c09df77e700e0bdcc0353c342395bad5.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/premium/TOC.88d6c824c09df77e700e0bdcc0353c342395bad5.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='7e4e0acb374fe091c0e099355204116345c629973259'></a> Source: [generate-electronic-documents-update-application-data.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/generate-electronic-documents-update-application-data.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [generate-electronic-documents-update-application-data.911bf3c85a944280a721a35253407e6a7fe9f7ea.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/generate-electronic-documents-update-application-data.911bf3c85a944280a721a35253407e6a7fe9f7ea.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='92237f2dda486f71cabe414e88e7ee4b69fb44853264'></a> Source: [hr\create-fixed-compensation-plans.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/hr/create-fixed-compensation-plans.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [create-fixed-compensation-plans.c29adbeb184c453f8ddda96a19ed487a0e4ead1a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/create-fixed-compensation-plans.c29adbeb184c453f8ddda96a19ed487a0e4ead1a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='61fa5dd3580c769457ea2cfdc669f68bd3b309803269'></a> Source: [hr\generate-aca-reports.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/hr/generate-aca-reports.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [generate-aca-reports.6005481969a91788f4bf188f7ed01e0b9d6e6457.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/generate-aca-reports.6005481969a91788f4bf188f7ed01e0b9d6e6457.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='b3ee5555504f464ff1719663725564f182f25d643270'></a> Source: [hr\includes\banner.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/hr/includes/banner.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [banner.b744b9b996e8701cac7ef619facfebc3be552005.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/premium/banner.b744b9b996e8701cac7ef619facfebc3be552005.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='62b7e6d02fc6cd62f7c717eea5d422321c6ec4be3271'></a> Source: [hr\index.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/hr/index.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [index.b7185970df05b8705ca4e77a96476ae4b89bab86.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/premium/index.b7185970df05b8705ca4e77a96476ae4b89bab86.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='09ad9ad22c676c3b117cc39e692c64ef92637dc13273'></a> Source: [hr\manage-benefit-program.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/hr/manage-benefit-program.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [manage-benefit-program.b8da19b768f7ce4c8c699936a76225147936b30e.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/manage-benefit-program.b8da19b768f7ce4c8c699936a76225147936b30e.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='4c17441b70a75f032c900c9360da6c0730cf89ba3281'></a> Source: [hr\personnel-actions-faq.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/hr/personnel-actions-faq.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [personnel-actions-faq.328bbace9ec039216ef7a7f4bc47952439c0191f.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/personnel-actions-faq.328bbace9ec039216ef7a7f4bc47952439c0191f.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='6e30357b0bca8745b69bff19a55828b180c3b8293282'></a> Source: [hr\process-compensation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/hr/process-compensation.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [process-compensation.3463c7de7f5ef6a56a43fa02d425bebccbf99030.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/process-compensation.3463c7de7f5ef6a56a43fa02d425bebccbf99030.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='3c8abfb543e93df4c96c71d94a082fb2ce2b02223283'></a> Source: [hr\set-up-company-specific-hr-parameters.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/hr/set-up-company-specific-hr-parameters.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [set-up-company-specific-hr-parameters.e4c81fc59b4e1d58bdfa1eeca3bc2ba5b65fa23b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/set-up-company-specific-hr-parameters.e4c81fc59b4e1d58bdfa1eeca3bc2ba5b65fa23b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='4345305499531b375c81732032ea0c8f7b27c1dc3284'></a> Source: [hr\set-up-hr-parameters-across-legal-entities.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/hr/set-up-hr-parameters-across-legal-entities.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [set-up-hr-parameters-across-legal-entities.1a5aca2d65f26f46dd26c31be61f22c3d993be9b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/set-up-hr-parameters-across-legal-entities.1a5aca2d65f26f46dd26c31be61f22c3d993be9b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='55fd00794a0c5b9f732c8b6799325021dbde71c43286'></a> Source: [hr\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/hr/TOC.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [TOC.70f1ba7b44aef34d474bfc479411fe49ad0b5821.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/premium/TOC.70f1ba7b44aef34d474bfc479411fe49ad0b5821.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='181d30bbe29b270e64363873c65a62a57b4a44583291'></a> Source: [retail\add-recommendations-control-pos-screen.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/add-recommendations-control-pos-screen.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [add-recommendations-control-pos-screen.81804f86d17e5b1215eb018ce06d726562e1e9e7.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/add-recommendations-control-pos-screen.81804f86d17e5b1215eb018ce06d726562e1e9e7.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='c2e85f6b5e6b5b4e639c6e769a48af37e2dc25dc3292'></a> Source: [retail\analyze-sales-trends-patterns.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/analyze-sales-trends-patterns.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [analyze-sales-trends-patterns.dd678039910cf44fe3fc35d3f4ea7119efc3729f.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/analyze-sales-trends-patterns.dd678039910cf44fe3fc35d3f4ea7119efc3729f.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='6408d40254454bcf1b723cc01653ae28ac68af143293'></a> Source: [retail\assess-customer-product-profitability.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/assess-customer-product-profitability.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [assess-customer-product-profitability.2a3c7b8b70205aed5cae6ac14ead75fc80fe3fe5.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/assess-customer-product-profitability.2a3c7b8b70205aed5cae6ac14ead75fc80fe3fe5.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='8b229700e4d93420a8a3adcdd765aceb07021cb53294'></a> Source: [retail\call-center-catalogs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/call-center-catalogs.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [call-center-catalogs.3a4638691cfed2755813d86a1999a36ed2862454.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/call-center-catalogs.3a4638691cfed2755813d86a1999a36ed2862454.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='fd3718b92531a2e959d2cc7c3579a99a27faa1793295'></a> Source: [retail\call-center-functionality.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/call-center-functionality.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [call-center-functionality.6ed3e427f73b7344ceee711f303ffd11fe29c900.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/call-center-functionality.6ed3e427f73b7344ceee711f303ffd11fe29c900.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='d549a06aa70f08d48fef2984c473fe042889e4613297'></a> Source: [retail\create-call-center-catalogs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/create-call-center-catalogs.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [create-call-center-catalogs.a0225c3797ab043597aa75b94b1ee35a318cce9f.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/create-call-center-catalogs.a0225c3797ab043597aa75b94b1ee35a318cce9f.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='14cf1b4b26d85e765416fd6cfa8119905f8314a63298'></a> Source: [retail\create-manage-attributes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/create-manage-attributes.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [create-manage-attributes.872aeebd3baf4e630f80fdc2cf33ee756333058f.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/create-manage-attributes.872aeebd3baf4e630f80fdc2cf33ee756333058f.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='83f106778ffea71555c15029557c3ea73afcf6773299'></a> Source: [retail\customer-orders-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/customer-orders-overview.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [customer-orders-overview.5365304fdd889e552d3a19abf8965b3088b8a586.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/customer-orders-overview.5365304fdd889e552d3a19abf8965b3088b8a586.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='07ad4daad6a031fee72f48b3e63b1dbd1414a78c3300'></a> Source: [retail\define-channel-specific-discounts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/define-channel-specific-discounts.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [define-channel-specific-discounts.bf3a65330f583e238600a22109780047d2af1ebe.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/define-channel-specific-discounts.bf3a65330f583e238600a22109780047d2af1ebe.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='077839e21017261d64203abed3069797813252393301'></a> Source: [retail\define-maintain-channel-clients-registers-hw-stations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/define-maintain-channel-clients-registers-hw-stations.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [define-maintain-channel-clients-registers-hw-stations.76a41d94b8699c78559508f6e5a4b8563ee6d8ab.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/define-maintain-channel-clients-registers-hw-stations.76a41d94b8699c78559508f6e5a4b8563ee6d8ab.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='38e1b394c8c64acc2237f29cef4bfb2982dfcdc03302'></a> Source: [retail\define-maintain-retail-channels.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/define-maintain-retail-channels.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [define-maintain-retail-channels.176096bed2b678b0b38249ec2c5beb391606a07d.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/define-maintain-retail-channels.176096bed2b678b0b38249ec2c5beb391606a07d.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='60be196c7c44d96df0dcfdab99b446694ca8c8523303'></a> Source: [retail\dev-itpro\add-customer-preference-channel.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/add-customer-preference-channel.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [add-customer-preference-channel.d0088ac5e1ea65e5fca18938fc489daf8a3a0f2f.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/add-customer-preference-channel.d0088ac5e1ea65e5fca18938fc489daf8a3a0f2f.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='10bc1b3e3caba074f06a302855730b7450195f433304'></a> Source: [retail\dev-itpro\add-extension-properties.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/add-extension-properties.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [add-extension-properties.e8a3fe953d1761bbace37f4df7b8d41c1e986fdf.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/add-extension-properties.e8a3fe953d1761bbace37f4df7b8d41c1e986fdf.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='1e266b5a76cd476da6c3aa7952971e17068f25783305'></a> Source: [retail\dev-itpro\add-new-custom-control-mpos-screen-layout.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/add-new-custom-control-mpos-screen-layout.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [add-new-custom-control-mpos-screen-layout.829d5f9aaa041e1c4f1be1b500869a55922870db.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/add-new-custom-control-mpos-screen-layout.829d5f9aaa041e1c4f1be1b500869a55922870db.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='eda126f12de9756ff8eded378b6330d753263fff3306'></a> Source: [retail\dev-itpro\add-properties-sales-order.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/add-properties-sales-order.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [add-properties-sales-order.060d0f47ccbcd7ae04df093b3b64ff11fd297f16.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/add-properties-sales-order.060d0f47ccbcd7ae04df093b3b64ff11fd297f16.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='c800dd4a034406bf62b8c6c19248f5e57430f0e33309'></a> Source: [retail\dev-itpro\commerce-runtime-extensibility.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/commerce-runtime-extensibility.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [commerce-runtime-extensibility.6de42feaf574f09bd884cb3b7c8a259e064a159b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/commerce-runtime-extensibility.6de42feaf574f09bd884cb3b7c8a259e064a159b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='8028b7e961ae5152474f9ee7b15a6e29c572baec3308'></a> Source: [retail\dev-itpro\commerce-runtime-extensibility-trigger.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/commerce-runtime-extensibility-trigger.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [commerce-runtime-extensibility-trigger.d65bc790b1c82d3b9086b5694aa10efb79584cac.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/commerce-runtime-extensibility-trigger.d65bc790b1c82d3b9086b5694aa10efb79584cac.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='5adf442ddf2d27835432c838586bfaa304b7e3d43310'></a> Source: [retail\dev-itpro\commerce-runtime-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/commerce-runtime-overview.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [commerce-runtime-overview.c7a858df5babf7ee7174ad0d04eb3fbd35a89f66.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/commerce-runtime-overview.c7a858df5babf7ee7174ad0d04eb3fbd35a89f66.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='0fef0a80c9ec45955784cb5fbb843b7caa15e4473311'></a> Source: [retail\dev-itpro\configure-authentication-providers.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/configure-authentication-providers.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [configure-authentication-providers.facf2334da0e8b2d56db8e4491b0cc9d291dbf03.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/configure-authentication-providers.facf2334da0e8b2d56db8e4491b0cc9d291dbf03.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='ccb8ee1aa49e79aae4f1d24737526517c1faffc53312'></a> Source: [retail\dev-itpro\configure-online-store.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/configure-online-store.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [configure-online-store.51cba27a9e3267c613a14e216d3efe56397fd9ad.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/configure-online-store.51cba27a9e3267c613a14e216d3efe56397fd9ad.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='c711f1a7a130beaad3c610f5edab038df85f95233313'></a> Source: [retail\dev-itpro\create-retail-experience-app.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/create-retail-experience-app.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [create-retail-experience-app.fc677f844075054ab0c1619e80f611481d7f6886.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/create-retail-experience-app.fc677f844075054ab0c1619e80f611481d7f6886.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='e3682562865a050c965804e955fb5b2979858caa3314'></a> Source: [retail\dev-itpro\create-windows-installer-payment-connector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/create-windows-installer-payment-connector.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [create-windows-installer-payment-connector.ebc6a2bd41bc2c4e0bbd9022575da59afaf60a89.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/create-windows-installer-payment-connector.ebc6a2bd41bc2c4e0bbd9022575da59afaf60a89.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='8e88bd3b02567683ae5fb235c0da10b004c56b6f3315'></a> Source: [retail\dev-itpro\define-retail-channel-communications-cdx.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/define-retail-channel-communications-cdx.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [define-retail-channel-communications-cdx.ce25f5f9f01a728fff4ef8e644bcdeeb12ac72f3.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/define-retail-channel-communications-cdx.ce25f5f9f01a728fff4ef8e644bcdeeb12ac72f3.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='14b984e01594d141a5b62cde974393e150efdf7f3316'></a> Source: [retail\dev-itpro\deploy-payment-connector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/deploy-payment-connector.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [deploy-payment-connector.51f32c14411a37d71a51def418d0a951dfbf9420.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/deploy-payment-connector.51f32c14411a37d71a51def418d0a951dfbf9420.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='6e821b8aa50c7f9fbf163184ebf1cc84a1a443e13317'></a> Source: [retail\dev-itpro\dev-retail-home-page.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/dev-retail-home-page.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [dev-retail-home-page.aecc92bab9d88f2be649c65c1521af921a5daa4a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/dev-retail-home-page.aecc92bab9d88f2be649c65c1521af921a5daa4a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='c1ca867e807674ee237f4d19eb117b70cc23f3583319'></a> Source: [retail\dev-itpro\ecommerce-platform.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/ecommerce-platform.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [ecommerce-platform.097b7e0220f69a46218739f68e1c5e6ffc0138aa.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/ecommerce-platform.097b7e0220f69a46218739f68e1c5e6ffc0138aa.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='b1ae06a0db9cdbbd87b9df54805e8dd584f430af3321'></a> Source: [retail\dev-itpro\extend-metadata.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/extend-metadata.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [extend-metadata.90ddd36f8a5afe20ce39be1d33f55af5fb62aca1.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/extend-metadata.90ddd36f8a5afe20ce39be1d33f55af5fb62aca1.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='65b9d38690c2fb7a8bf6831e69833ca5c96ddb413322'></a> Source: [retail\dev-itpro\extend-retail-server-odata-controller.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/extend-retail-server-odata-controller.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [extend-retail-server-odata-controller.167481424daf11505613d4f1d435655d2b318183.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/extend-retail-server-odata-controller.167481424daf11505613d4f1d435655d2b318183.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='b9f109aca4f3580306ac130a2cc100f956feea743323'></a> Source: [retail\dev-itpro\hardware-station-extensibility.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/7a8ce2c15a4e80e74cce9415bd10c3171906bc1d/retail/dev-itpro/hardware-station-extensibility.md)
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-13 05:22:42
+* Handoff Datetime: 2017-06-13 14:15:40
 * Handoff Reason: Ignored
 * Handoff Name: 
-* Handoff Error: [handoff_transform_failed](#b9f109aca4f3580306ac130a2cc100f956feea743272handoff_transform_failed)
+* Handoff Error: [handoff_transform_failed](#b9f109aca4f3580306ac130a2cc100f956feea743323handoff_transform_failed)
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='232015f16e9936737bbf7598067e8b7a9e16a80e3324'></a> Source: [retail\dev-itpro\install-retail-hotfix.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/install-retail-hotfix.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [install-retail-hotfix.9c779fc6cd10f879ae16f5da28e7dab24ef07d5b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/install-retail-hotfix.9c779fc6cd10f879ae16f5da28e7dab24ef07d5b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='8a3e543ac68f9e54ff10a7014f80591540b4d1e43428'></a> Source: [retail\dev-itpro\modern-pos-trigger-extensibility.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/modern-pos-trigger-extensibility.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [modern-pos-trigger-extensibility.2800c67446ec8f614a34630b13b4483033235af8.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/modern-pos-trigger-extensibility.2800c67446ec8f614a34630b13b4483033235af8.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='087a7f17cc84fddecdfea7d43b20d64be10077dd3429'></a> Source: [retail\dev-itpro\n-1-installation-configuration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/n-1-installation-configuration.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [n-1-installation-configuration.1682d2ba9555a98e7847945f76a0aa536be918a2.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/n-1-installation-configuration.1682d2ba9555a98e7847945f76a0aa536be918a2.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='dbe0cb4b9ee00cf254e75cd2b4ae3b848a37c6843430'></a> Source: [retail\dev-itpro\odata-controllers-api.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/odata-controllers-api.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [odata-controllers-api.c93ca292480e94b8c7483b3795c7a70e23b41626.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/odata-controllers-api.c93ca292480e94b8c7483b3795c7a70e23b41626.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='f2a8bf6b0a86773e61498d5d370524fbac1dd2653431'></a> Source: [retail\dev-itpro\payments-retail.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/payments-retail.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [payments-retail.4c76567f2e7b7ad3f71afedfcf8d5a43174bcb48.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/payments-retail.4c76567f2e7b7ad3f71afedfcf8d5a43174bcb48.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='437a49874a81513fc02714149e59317198506e913432'></a> Source: [retail\dev-itpro\provision-dev-vm.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/provision-dev-vm.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [provision-dev-vm.459571c60f627cf3b31cef703bc626f363dd437e.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/provision-dev-vm.459571c60f627cf3b31cef703bc626f363dd437e.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='295a625dfdc565ddb02239ad498bbb59b7ebbddc3433'></a> Source: [retail\dev-itpro\retail-component-events-diagnostics-troubleshooting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/retail-component-events-diagnostics-troubleshooting.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [retail-component-events-diagnostics-troubleshooting.f53f33768ebd428438ac28a91bf8fdc5cf0fe91c.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/retail-component-events-diagnostics-troubleshooting.f53f33768ebd428438ac28a91bf8fdc5cf0fe91c.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='4539689f512450fc6ea467a3d62b8b4d788d69083434'></a> Source: [retail\dev-itpro\retail-device-activation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/retail-device-activation.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [retail-device-activation.244595b3d5bcd5f455824c0f2065cab18567b88a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/retail-device-activation.244595b3d5bcd5f455824c0f2065cab18567b88a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='53fe14a206c34fdf1aabcefef74f7628564cd2033435'></a> Source: [retail\dev-itpro\retail-modern-pos-architecture.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/retail-modern-pos-architecture.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [retail-modern-pos-architecture.b141220c7083b30552e22e4b7aa5b5d19eb97417.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/retail-modern-pos-architecture.b141220c7083b30552e22e4b7aa5b5d19eb97417.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='c53109ecfd8561c32c77b12419549d0e478e04df3437'></a> Source: [retail\dev-itpro\retail-online-store-publishing-architecture.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/retail-online-store-publishing-architecture.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [retail-online-store-publishing-architecture.ec7a8cb3c5653fe940f308d6e5e27071d2970fc5.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/retail-online-store-publishing-architecture.ec7a8cb3c5653fe940f308d6e5e27071d2970fc5.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='177bc86875cd12bc14395e0373802b177a0dba5f3438'></a> Source: [retail\dev-itpro\retail-sdk\integrate-retail-sdk-continuous-build.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/retail-sdk/integrate-retail-sdk-continuous-build.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [integrate-retail-sdk-continuous-build.31af8b94f041ad25f202159953dc3691ba0e8d59.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/integrate-retail-sdk-continuous-build.31af8b94f041ad25f202159953dc3691ba0e8d59.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='b254f8d27815438a8032bd9aa53623b6539030a33483'></a> Source: [retail\dev-itpro\retail-sdk\retail-sdk-extensibility-samples.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/retail-sdk/retail-sdk-extensibility-samples.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [retail-sdk-extensibility-samples.ee86cc1544b30ae1988a3c29860a067f01e700c1.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/retail-sdk-extensibility-samples.ee86cc1544b30ae1988a3c29860a067f01e700c1.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='4af18a987a777199d8352f8111c0b5d5f9279c443484'></a> Source: [retail\dev-itpro\retail-sdk\retail-sdk-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/retail-sdk/retail-sdk-overview.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [retail-sdk-overview.656243bdfbb28808232f3ac27efe3d6b2f7378b0.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/retail-sdk-overview.656243bdfbb28808232f3ac27efe3d6b2f7378b0.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='7fa3d131986f7bd00f766c46ad4a2bc37c8c74653485'></a> Source: [retail\dev-itpro\retail-sdk\retail-sdk-packaging.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/retail-sdk/retail-sdk-packaging.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [retail-sdk-packaging.949158ac480efe2414855a0479819840240bbe09.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/retail-sdk-packaging.949158ac480efe2414855a0479819840240bbe09.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='526f57ab33b40f3c277eb3d84ad7930349f7e2273486'></a> Source: [retail\dev-itpro\retail-sdk\retail-sdk-samples.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/retail-sdk/retail-sdk-samples.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [retail-sdk-samples.1e39b4433cd0fb79ff23eb292b27c527d7bba539.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/retail-sdk-samples.1e39b4433cd0fb79ff23eb292b27c527d7bba539.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='bc4a6125ee5b91a8f97731d29824cdf054b07d493489'></a> Source: [retail\dev-itpro\retail-store-scale-unit-configuration-installation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/retail-store-scale-unit-configuration-installation.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [retail-store-scale-unit-configuration-installation.44ef173c02df1c230b91a09924f3ed9d67eb2650.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/retail-store-scale-unit-configuration-installation.44ef173c02df1c230b91a09924f3ed9d67eb2650.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='abd50dd22e1148e866452a5309e516b00b9c07d13491'></a> Source: [retail\dev-itpro\secure-retail-cloud-pos.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/secure-retail-cloud-pos.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [secure-retail-cloud-pos.f9326173db1d28a6d1f7283b111c0e105dcf279c.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/secure-retail-cloud-pos.f9326173db1d28a6d1f7283b111c0e105dcf279c.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='dcc0fb47fd796cb27887b4aa7213d871fc3f18da3492'></a> Source: [retail\dev-itpro\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/dev-itpro/TOC.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [TOC.7cfc5a111c8d5c1130c6176605be342abd122557.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/TOC.7cfc5a111c8d5c1130c6176605be342abd122557.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='4f64b077b8004e5f5376fd1905d2807045be6ec93496'></a> Source: [retail\email-receipts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/email-receipts.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [email-receipts.2d4652d0ae9eb76b571e4bf4827ca21baf682052.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/email-receipts.2d4652d0ae9eb76b571e4bf4827ca21baf682052.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='11c487f3e03573974e29530849c3d7beddaf765a3497'></a> Source: [retail\enable-configure-retail-functionality.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/enable-configure-retail-functionality.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [enable-configure-retail-functionality.f60d4fa9b05c9d6d2ec48ed918b6d86f5e0ed735.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/enable-configure-retail-functionality.f60d4fa9b05c9d6d2ec48ed918b6d86f5e0ed735.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='b6f7aad9f7138e5c035e009612a2949ba04ca4773498'></a> Source: [retail\extended-logon.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/extended-logon.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [extended-logon.8b337311372dd1ea525d08bdd6e6d0bb31601df9.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/extended-logon.8b337311372dd1ea525d08bdd6e6d0bb31601df9.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='c72e6623549870b9ba2b8ba9c0529547506c30233499'></a> Source: [retail\hybrid-customer-orders.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/hybrid-customer-orders.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [hybrid-customer-orders.626442aa55d66ad9ce298fc6b338e43b2e8b9859.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/hybrid-customer-orders.626442aa55d66ad9ce298fc6b338e43b2e8b9859.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='3402ca5133239f97296b50c354fe19d0fa5f887c3500'></a> Source: [retail\includes\banner.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/includes/banner.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [banner.a12be6a0e97f8ac3c518d67fbd1808b1588594aa.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/premium/banner.a12be6a0e97f8ac3c518d67fbd1808b1588594aa.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='be7c7013cc6fbb73d3f665478442cbf640ef9f2a3501'></a> Source: [retail\index.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/index.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [index.b824957e70e2b5355c8b5d0c6ef1ab8d441a30a6.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/premium/index.b824957e70e2b5355c8b5d0c6ef1ab8d441a30a6.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='ec0568437633ab57bafb50b8ed5e63dd82fd9c653502'></a> Source: [retail\info-codes-retail.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/info-codes-retail.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [info-codes-retail.59d1b41662b0f4b5e2e860fd9fd1789b977ec0c1.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/info-codes-retail.59d1b41662b0f4b5e2e860fd9fd1789b977ec0c1.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='7de32d011692ba2725af4d7a7b44d33ca19b1a473503'></a> Source: [retail\install-pos-layout-designer.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/install-pos-layout-designer.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [install-pos-layout-designer.0bcac33b00eb0e457ba498c30e036b195f99e85d.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/install-pos-layout-designer.0bcac33b00eb0e457ba498c30e036b195f99e85d.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='191d1deaeb57c92c5a4281016b20f13ef78e86b03577'></a> Source: [retail\monitor-sales-margin-performance.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/monitor-sales-margin-performance.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [monitor-sales-margin-performance.dad03ca9012eb2c18aeb619aa00f4fc68e454098.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/monitor-sales-margin-performance.dad03ca9012eb2c18aeb619aa00f4fc68e454098.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='227987593b68de0ae035803c87df791fe8f90f273578'></a> Source: [retail\online-stores.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/online-stores.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [online-stores.3ea456b550b1604ac6a46a2a6703a7f14e9afe4b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/online-stores.3ea456b550b1604ac6a46a2a6703a7f14e9afe4b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='389c0eb699552cdfe0fba18093166d2b41eb99473579'></a> Source: [retail\optimal-combination-overlapping-discounts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/optimal-combination-overlapping-discounts.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [optimal-combination-overlapping-discounts.2746e37aa76da5e645358eb34e4a779b06af64c5.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/optimal-combination-overlapping-discounts.2746e37aa76da5e645358eb34e4a779b06af64c5.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='7f83a708eb4a8e06eef7d13caea56444da9cb9313580'></a> Source: [retail\organizational-hierarchies-commerce-essentials.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/organizational-hierarchies-commerce-essentials.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [organizational-hierarchies-commerce-essentials.95bc744cd829d0cbe39ff98994d44e592980c800.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/organizational-hierarchies-commerce-essentials.95bc744cd829d0cbe39ff98994d44e592980c800.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='38bd3162060095ac5a5a8d63a13a9959887d68b33581'></a> Source: [retail\payment-methods.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/payment-methods.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [payment-methods.ebc19bbc4c61a94e49ceeaad4f5e241f333aa348.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/payment-methods.ebc19bbc4c61a94e49ceeaad4f5e241f333aa348.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='d36adf1c1a2bbee3da96ea806503d75dd32450df3582'></a> Source: [retail\personalized-product-recommendations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/personalized-product-recommendations.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [personalized-product-recommendations.9541a383310c8141e0f1c7a661acfe5617afe655.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/personalized-product-recommendations.9541a383310c8141e0f1c7a661acfe5617afe655.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='ed69574d336d4bbdfccc66c0607c2758de3f4a943586'></a> Source: [retail\pos-screen-layouts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/pos-screen-layouts.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [pos-screen-layouts.7e57faf28d87131db8e3f82ec5909dcb8bf19a6a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/pos-screen-layouts.7e57faf28d87131db8e3f82ec5909dcb8bf19a6a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='cb01f376251d44c967ebbffdc2cd60278d5ffc293587'></a> Source: [retail\price-adjustments-discounts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/price-adjustments-discounts.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [price-adjustments-discounts.e5c8b77c48b2dbd24b4b8755a639c2b7571991be.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/price-adjustments-discounts.e5c8b77c48b2dbd24b4b8755a639c2b7571991be.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='d91ebbbdeeabd2bbf40b62d7bf3835b82a7bba5c3588'></a> Source: [retail\receipt-templates-printing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/receipt-templates-printing.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [receipt-templates-printing.7029639b6d43ce8ffdf585d40a236e174f1e8f70.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/receipt-templates-printing.7029639b6d43ce8ffdf585d40a236e174f1e8f70.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='8cd73e13872555a493ae2d67c199a96217d601c23589'></a> Source: [retail\retail-components.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/retail-components.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [retail-components.3b0f7e339d3f7a4c335bf43b853c36748865ad39.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/retail-components.3b0f7e339d3f7a4c335bf43b853c36748865ad39.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='8e8255200a2037abdd1a5a310c2f775b7e56aec73590'></a> Source: [retail\retail-coupons.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/retail-coupons.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [retail-coupons.138cfee4eb92c2e93067168f0fc2e6a7a3efbae8.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/retail-coupons.138cfee4eb92c2e93067168f0fc2e6a7a3efbae8.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='74582df1304eb12a2c785feabeb1389707c5eb303591'></a> Source: [retail\retail-hardware-station-configuration-installation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/retail-hardware-station-configuration-installation.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [retail-hardware-station-configuration-installation.79fd53bff49d826eaeaa949f906798b09dfa0707.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/retail-hardware-station-configuration-installation.79fd53bff49d826eaeaa949f906798b09dfa0707.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='e397059d75c6addfa464be63c2ec60d8e95c52d53592'></a> Source: [retail\retail-hierarchies.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/retail-hierarchies.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [retail-hierarchies.bfc771a5a1bd56eea9d2f807d5a19dda407c2fb6.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/retail-hierarchies.bfc771a5a1bd56eea9d2f807d5a19dda407c2fb6.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='963f9afae2289f901bc50595595938965de371143593'></a> Source: [retail\retail-modern-pos-device-activation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/retail-modern-pos-device-activation.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [retail-modern-pos-device-activation.4176a0512f5220e816973ca29c465f1c1a288c49.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/retail-modern-pos-device-activation.4176a0512f5220e816973ca29c465f1c1a288c49.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='d29744c2605b9262204da3afa1b74860e30d061a3594'></a> Source: [retail\retail-peripheral-simulator.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/retail-peripheral-simulator.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [retail-peripheral-simulator.360dc97d386d4ecef96ab7f53e21abc463b19c30.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/retail-peripheral-simulator.360dc97d386d4ecef96ab7f53e21abc463b19c30.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='a5f6b037da80a3445be10137838a2085f6537a623595'></a> Source: [retail\retail-peripherals-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/retail-peripherals-overview.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [retail-peripherals-overview.0be022b387792598676e60c1243ed2a319ec8741.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/retail-peripherals-overview.0be022b387792598676e60c1243ed2a319ec8741.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='847337f271a27991445b17f9728ffa944199fd823596'></a> Source: [retail\retail-time-attendance.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/retail-time-attendance.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [retail-time-attendance.668abfa716486e8f62d9b8c17b670bf659f582aa.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/retail-time-attendance.668abfa716486e8f62d9b8c17b670bf659f582aa.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='879e9babb33c53f57aa3d7b6c4e59bf578f0e01d3597'></a> Source: [retail\sales-performance-products.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/sales-performance-products.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [sales-performance-products.060a5e357a72b16ea0cc5e1f4cb104778e2fe986.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/sales-performance-products.060a5e357a72b16ea0cc5e1f4cb104778e2fe986.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='12ca4a51a1be099956274bb840562c74250923123598'></a> Source: [retail\sell-return-outside-assortments.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/sell-return-outside-assortments.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [sell-return-outside-assortments.74973332461a307675c843c72a216da8bf9cab3b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/sell-return-outside-assortments.74973332461a307675c843c72a216da8bf9cab3b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='2e9f34cca20d0c00ed6772238f4f5b2060cdf5b23599'></a> Source: [retail\set-up-activation-accounts-validate-devices-hq.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/set-up-activation-accounts-validate-devices-hq.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [set-up-activation-accounts-validate-devices-hq.3cbab9718df639f50d0e75e80e4995be210e1c73.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/set-up-activation-accounts-validate-devices-hq.3cbab9718df639f50d0e75e80e4995be210e1c73.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='89064bfa2a7be0773a72a9f309736e9b5a61a1673600'></a> Source: [retail\set-up-assortments.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/set-up-assortments.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [set-up-assortments.818f0373c08b94df6ba2e9da06f841974ec6c9e5.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/set-up-assortments.818f0373c08b94df6ba2e9da06f841974ec6c9e5.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='6326d2a9ea66c973470f3b302f0acf11f39b961f3601'></a> Source: [retail\set-up-bar-code-masks.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/set-up-bar-code-masks.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [set-up-bar-code-masks.4cb9beb273e3a554985e45d73097efc484f255b9.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/set-up-bar-code-masks.4cb9beb273e3a554985e45d73097efc484f255b9.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='56dad7c2dd3c73291fcfeee2a9d05179729e93e63602'></a> Source: [retail\set-up-bar-codes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/set-up-bar-codes.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [set-up-bar-codes.43d8f9422f8d254d1ef0bfaaee6f2929b976f20c.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/set-up-bar-codes.43d8f9422f8d254d1ef0bfaaee6f2929b976f20c.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='db50493aa74ec52ed2860357f566e4a9ed0bce163604'></a> Source: [retail\set-up-customer-loyalty-program.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/set-up-customer-loyalty-program.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [set-up-customer-loyalty-program.9928cb798556e53a937e8188d8a4294c1b03b4bb.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/set-up-customer-loyalty-program.9928cb798556e53a937e8188d8a4294c1b03b4bb.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='b867cc1c7cd9b8583b131d131974bccc5c7c3e033606'></a> Source: [retail\set-up-manage-images-retail-mpos.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/set-up-manage-images-retail-mpos.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [set-up-manage-images-retail-mpos.7879fd43f2f6ee0ef28df51aa314dfe3dc9f504b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/set-up-manage-images-retail-mpos.7879fd43f2f6ee0ef28df51aa314dfe3dc9f504b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='e29b4b2b9b4bac4f524d99175b2485bee1885f813607'></a> Source: [retail\set-up-order-processing-options.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/set-up-order-processing-options.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [set-up-order-processing-options.8b7faf681f20283c69e99e71bd3ee66d5d6e8dbd.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/set-up-order-processing-options.8b7faf681f20283c69e99e71bd3ee66d5d6e8dbd.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='2fac6bfdd1415af943039b3910554a27c65714f03608'></a> Source: [retail\set-up-retail-products.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/set-up-retail-products.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [set-up-retail-products.61461f9be5e6a2a94b367d0c7e3ada6083b3acf8.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/set-up-retail-products.61461f9be5e6a2a94b367d0c7e3ada6083b3acf8.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='fb46baf4febd21d29f1d8ddf4c1f5194945c5f3e3610'></a> Source: [retail\shift-drawer-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/shift-drawer-management.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [shift-drawer-management.15d4a61eb22417c4cd3812671746d9c8e6657235.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/shift-drawer-management.15d4a61eb22417c4cd3812671746d9c8e6657235.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='9df64dc40c5412b905a09d758fdfdfc7f4a957053611'></a> Source: [retail\store-performance-information.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/store-performance-information.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [store-performance-information.0f6f4db6dd79570779eeda7ffb8e739e0fa24419.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/store-performance-information.0f6f4db6dd79570779eeda7ffb8e739e0fa24419.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='fd27903856332b16ced45632db0b2caf6eea5d463612'></a> Source: [retail\task-recorder-retail-pos.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/task-recorder-retail-pos.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [task-recorder-retail-pos.5554a4967cd01de27b21812285285bc8b28a2a26.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/task-recorder-retail-pos.5554a4967cd01de27b21812285285bc8b28a2a26.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='763131b813d4de3cf10999498b4386a9901dbdf63613'></a> Source: [retail\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/TOC.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [TOC.9ee4e534c65b6bdce0d8fb2b073c617379b2d75c.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/premium/TOC.9ee4e534c65b6bdce0d8fb2b073c617379b2d75c.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='c721edd31ea04a9d0fd8aed63cb4a3001ba8395c3614'></a> Source: [retail\work-with-order-holds.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/work-with-order-holds.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [work-with-order-holds.39fa37cae0ebdd653668aeaef72a39c5c083b419.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/work-with-order-holds.39fa37cae0ebdd653668aeaef72a39c5c083b419.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='07c99824ad03fc39943c7b74ef93c9187b89cab13615'></a> Source: [retail\work-with-payments.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/work-with-payments.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [work-with-payments.46282f2959a88aceee6c16e8dda732b215589468.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/work-with-payments.46282f2959a88aceee6c16e8dda732b215589468.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='a231b3fccf57d638ed6893e33395b0ad76d1e9783616'></a> Source: [retail\work-with-store-inventory.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/retail/work-with-store-inventory.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [work-with-store-inventory.4101490f52116423ed865b29013643d2d313c0d8.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/work-with-store-inventory.4101490f52116423ed865b29013643d2d313c0d8.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='e520c292b7350f332649f23fb4232e7ecd1917763619'></a> Source: [scm\cost-management\backflush-costing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/cost-management/backflush-costing.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [backflush-costing.2ef1d321821a11a74e4866c87f8651e3deebf3f8.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/backflush-costing.2ef1d321821a11a74e4866c87f8651e3deebf3f8.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='2774fd22a8feb0fc44e735dad40a319cf793616d3628'></a> Source: [scm\cost-management\cost-object.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/cost-management/cost-object.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [cost-object.05b6978fa290d4da864fbf88a84efdea27f15a4f.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/cost-object.05b6978fa290d4da864fbf88a84efdea27f15a4f.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='a0eeb5a57f9b82150150752c64e89c2c918568893660'></a> Source: [scm\cost-management\physical-financial-updates.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/cost-management/physical-financial-updates.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [physical-financial-updates.9c7cc98c8050cec691d73ed8d354a49deee33f9c.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/physical-financial-updates.9c7cc98c8050cec691d73ed8d354a49deee33f9c.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='7173de40fbd9b5906d1a58ab29fc3b8b2bc553013661'></a> Source: [scm\cost-management\physical-quantity.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/cost-management/physical-quantity.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [physical-quantity.40a41f5a3d18e4f12ff7792e5649b9a147dbbee4.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/physical-quantity.40a41f5a3d18e4f12ff7792e5649b9a147dbbee4.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='23625a85fd7a95aa876dc329b07ac0ec1a6d0d0b3669'></a> Source: [scm\cost-management\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/cost-management/TOC.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [TOC.061caf9844366c2357aeaa90b2775c5a980155b4.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/premium/TOC.061caf9844366c2357aeaa90b2775c5a980155b4.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='3a4fd35cbf4ba7b9e037d553d27e8a06b5db08ed3677'></a> Source: [scm\includes\banner.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/includes/banner.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [banner.ff5170bbaf2ffc1afc8f1ec885ae42a4df20ee6b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/premium/banner.ff5170bbaf2ffc1afc8f1ec885ae42a4df20ee6b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='75febea55317d0b4a6d5fd74b750f0f4ff001dd73678'></a> Source: [scm\index.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/index.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [index.dc0f10fc720e5f94c8190d85d2a1745dde31309a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/premium/index.dc0f10fc720e5f94c8190d85d2a1745dde31309a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='96e9643c5ba9ebd25b1b366b6ec24127b8620ffa3682'></a> Source: [scm\inventory\enable-quality-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/inventory/enable-quality-management.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [enable-quality-management.1307bc0dafe09349cf57132d99485027eae01cfe.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/enable-quality-management.1307bc0dafe09349cf57132d99485027eae01cfe.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='fa629b4b8f7fcbd15ee89bc66cbc0bd7ca45215c3684'></a> Source: [scm\inventory\inventory-journals.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/inventory/inventory-journals.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [inventory-journals.ac14005e3ce70b35eac59fe758fca4609c1bebab.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/inventory-journals.ac14005e3ce70b35eac59fe758fca4609c1bebab.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='f239d777c6023157b7df42370ec483cac43db1f73686'></a> Source: [scm\inventory\inventory-on-hand-mobile-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/inventory/inventory-on-hand-mobile-workspace.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [inventory-on-hand-mobile-workspace.73df66f31c38deb259bc5204987842c93d47e1ff.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/inventory-on-hand-mobile-workspace.73df66f31c38deb259bc5204987842c93d47e1ff.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='b3ec66c805d028c20f3d3f95e7af9d78252828c73687'></a> Source: [scm\inventory\inventory-statuses.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/inventory/inventory-statuses.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [inventory-statuses.3d860325e233af3cb2a5099976cede67110f78ac.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/inventory-statuses.3d860325e233af3cb2a5099976cede67110f78ac.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='ec3d54e8e08850cd81891e7058b2b787e08b0fb93700'></a> Source: [scm\inventory\quarantine-orders.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/inventory/quarantine-orders.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [quarantine-orders.55d093b0304b3f8f35525582d77eb170115d6f0e.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/quarantine-orders.55d093b0304b3f8f35525582d77eb170115d6f0e.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='74d520199410711b80b750a12ee726633e09d01c3709'></a> Source: [scm\master-planning\demand-forecasting-setup.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/master-planning/demand-forecasting-setup.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [demand-forecasting-setup.f5a025dfdc5b82f2bfd2fb8c648aa76b798b9ac5.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/demand-forecasting-setup.f5a025dfdc5b82f2bfd2fb8c648aa76b798b9ac5.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='93646e37ee511d433097bb284fccc73c230aee323710'></a> Source: [scm\master-planning\generate-statistical-baseline-forecast.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/master-planning/generate-statistical-baseline-forecast.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [generate-statistical-baseline-forecast.4c7146b5bd022876d2db562d01ead5699578e014.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/generate-statistical-baseline-forecast.4c7146b5bd022876d2db562d01ead5699578e014.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='957626a283b750645adefa5176480e68cc27e4f13711'></a> Source: [scm\master-planning\import-historical-data.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/master-planning/import-historical-data.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [import-historical-data.611e90432bd58d712efae10cff040bc498b0f22e.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/import-historical-data.611e90432bd58d712efae10cff040bc498b0f22e.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='6b4498ae05b9495918c0a079cc88903820192a593712'></a> Source: [scm\master-planning\introduction-demand-forecasting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/master-planning/introduction-demand-forecasting.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [introduction-demand-forecasting.60157eae91b39594973bc045b1d3107fdcd316bc.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/introduction-demand-forecasting.60157eae91b39594973bc045b1d3107fdcd316bc.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='0b3b56aa838888461a6d27c6612e405a3cf594143714'></a> Source: [scm\master-planning\manual-adjustments-baseline-forecast.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/master-planning/manual-adjustments-baseline-forecast.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [manual-adjustments-baseline-forecast.2db437a9a3c9ca40d4b205f7101161397dd47016.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/manual-adjustments-baseline-forecast.2db437a9a3c9ca40d4b205f7101161397dd47016.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='56d3f0312e684ab076f9116ac6638bcd67b52e583729'></a> Source: [scm\master-planning\monitor-forecast-accuracy.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/master-planning/monitor-forecast-accuracy.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [monitor-forecast-accuracy.9798e9366344be39da9e9554d9491d8de69606ea.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/monitor-forecast-accuracy.9798e9366344be39da9e9554d9491d8de69606ea.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='5bc19e95266e8f1bec8744da688387dca559373f3733'></a> Source: [scm\pim\build-product-configuration-model.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/pim/build-product-configuration-model.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [build-product-configuration-model.8ff30cd0e8d77eb14f47c35dabd3b118ed6aedc7.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/build-product-configuration-model.8ff30cd0e8d77eb14f47c35dabd3b118ed6aedc7.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='1270c35bc7dbe4c85a1aa991a0387b33e1cb69903741'></a> Source: [scm\pim\product-configuration-models.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/pim/product-configuration-models.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [product-configuration-models.a3d5e54d19ad5c93432d2b30fa357ecb21828341.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/product-configuration-models.a3d5e54d19ad5c93432d2b30fa357ecb21828341.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='db8a9666518b58b6b32bb4a14933095dd9416aa03743'></a> Source: [scm\pim\product-information.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/pim/product-information.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [product-information.4326101bedbefa272be9799600d1d5df3f53c495.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/product-information.4326101bedbefa272be9799600d1d5df3f53c495.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='a8284e5a79e00def964b41f5c20bbb7377bf36be3750'></a> Source: [scm\procurement\collaborate-vendors-vendor-portal.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/procurement/collaborate-vendors-vendor-portal.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [collaborate-vendors-vendor-portal.bb73d6498a5026a49b84b72b5b97ad111023ab91.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/collaborate-vendors-vendor-portal.bb73d6498a5026a49b84b72b5b97ad111023ab91.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='ec7ed3a81d296e9bef4d26f1756b73883d560cb53752'></a> Source: [scm\procurement\manage-vendor-collaboration-users.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/procurement/manage-vendor-collaboration-users.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [manage-vendor-collaboration-users.78dad7223ecd2ec4ab063d64b740d1239fd25eaf.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/manage-vendor-collaboration-users.78dad7223ecd2ec4ab063d64b740d1239fd25eaf.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='cf6d4756ae706316a342590ab76b4a5cbdd7e4f93766'></a> Source: [scm\procurement\procurement-sourcing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/procurement/procurement-sourcing.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [procurement-sourcing.5d5a736a7549592800e44b050351ae0d19391b9f.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/procurement-sourcing.5d5a736a7549592800e44b050351ae0d19391b9f.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='a192688315adb2d83f349c525c5d8f70309375db3767'></a> Source: [scm\procurement\product-receipt-against-purchase-orders.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/procurement/product-receipt-against-purchase-orders.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [product-receipt-against-purchase-orders.4b240c93fe46d95890b982422731463d93830384.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/product-receipt-against-purchase-orders.4b240c93fe46d95890b982422731463d93830384.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='0ec91bcf0ab334585eefae2fe54750c45419682e3769'></a> Source: [scm\procurement\purchase-order-approval-confirmation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/procurement/purchase-order-approval-confirmation.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [purchase-order-approval-confirmation.b4dbaf66e0cf4e42c6b52a4d49c8435ff829e1b4.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/purchase-order-approval-confirmation.b4dbaf66e0cf4e42c6b52a4d49c8435ff829e1b4.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='9e11d1de0e4b314ec2c6d52ccba7349c6f6a10073770'></a> Source: [scm\procurement\purchase-order-creation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/procurement/purchase-order-creation.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [purchase-order-creation.89e9dc85f9d9b4ef69ad6a3d112c8b29a35614e6.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/purchase-order-creation.89e9dc85f9d9b4ef69ad6a3d112c8b29a35614e6.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='bed687840e32631615309290e5d501025b435bdd3771'></a> Source: [scm\procurement\purchase-order-mobile-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/procurement/purchase-order-mobile-workspace.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [purchase-order-mobile-workspace.1667a7bcbafbe38a886c854698e85277be88a2d0.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/purchase-order-mobile-workspace.1667a7bcbafbe38a886c854698e85277be88a2d0.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='a5dd28e79cbd66e79311c0549c63ea844394ab143772'></a> Source: [scm\procurement\purchase-order-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/procurement/purchase-order-overview.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [purchase-order-overview.b2e46ca87648bc0684a47ffc3267272a4810d4fa.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/purchase-order-overview.b2e46ca87648bc0684a47ffc3267272a4810d4fa.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='8c60d870d0ca178af84919e5ebaaa13769b46f8a3774'></a> Source: [scm\procurement\purchase-requisitions-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/procurement/purchase-requisitions-overview.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [purchase-requisitions-overview.46fde5b1ad9544c967f849e5064cc449b2e84a04.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/purchase-requisitions-overview.46fde5b1ad9544c967f849e5064cc449b2e84a04.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='34a2dabdaaa05793e5b81dbc5f2e701e170b13c33777'></a> Source: [scm\procurement\set-up-external-catalog-for-punchout.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/procurement/set-up-external-catalog-for-punchout.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [set-up-external-catalog-for-punchout.7de33918a42e0e55106347c89cb8c8c5a3d4dc35.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/set-up-external-catalog-for-punchout.7de33918a42e0e55106347c89cb8c8c5a3d4dc35.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='49df4b8201fd1c3b6e7f4cd44d334014bcdc78863778'></a> Source: [scm\procurement\set-up-maintain-vendor-collaboration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/procurement/set-up-maintain-vendor-collaboration.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [set-up-maintain-vendor-collaboration.a988f09a0b784b512cbe46a5ca210e998f15043e.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/set-up-maintain-vendor-collaboration.a988f09a0b784b512cbe46a5ca210e998f15043e.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='4c97f11fa85b8eee54daea8ccaa183859a89fe7f3779'></a> Source: [scm\procurement\set-up-vendor-accounts.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/procurement/set-up-vendor-accounts.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [set-up-vendor-accounts.002f4eeb8105ce0b064614178ee76b820c0c3481.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/set-up-vendor-accounts.002f4eeb8105ce0b064614178ee76b820c0c3481.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='2a7e66181a2bfcb0cf037834ac0bab3c22117baa3780'></a> Source: [scm\procurement\use-external-catalogs-for-punchout.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/procurement/use-external-catalogs-for-punchout.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [use-external-catalogs-for-punchout.6a5052e32ec1144dc7de726aba10c4d11d42ecd1.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/use-external-catalogs-for-punchout.6a5052e32ec1144dc7de726aba10c4d11d42ecd1.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='20e4c77bc47bffc3474559e3b9933b87e947e1783782'></a> Source: [scm\procurement\vendor-collaboration-mobile-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/procurement/vendor-collaboration-mobile-workspace.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [vendor-collaboration-mobile-workspace.84b4d5f35df87c01542ab01c09a20ff03cbe98e8.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/vendor-collaboration-mobile-workspace.84b4d5f35df87c01542ab01c09a20ff03cbe98e8.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='41436dab710a5fee0fe0800dff1ebefefa841afc3783'></a> Source: [scm\procurement\vendor-collaboration-work-customers-dynamics-365-operations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/procurement/vendor-collaboration-work-customers-dynamics-365-operations.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [vendor-collaboration-work-customers-dynamics-365-operations.11ecd3c680ce82f8ecd56789ff9aa1860b3faab0.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/vendor-collaboration-work-customers-dynamics-365-operations.11ecd3c680ce82f8ecd56789ff9aa1860b3faab0.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='566665b37cdf9dd263d8abd292c20d5704e567cb3784'></a> Source: [scm\procurement\vendor-collaboration-work-external-vendors.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/procurement/vendor-collaboration-work-external-vendors.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [vendor-collaboration-work-external-vendors.ce0ac25f6cbf9fe9327dae06b43fde8ac06442d4.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/vendor-collaboration-work-external-vendors.ce0ac25f6cbf9fe9327dae06b43fde8ac06442d4.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='43c95c8ab8599a048b1c8c732d6dcac1c3e8b9e93785'></a> Source: [scm\production-control\activity-based-subcontracting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/production-control/activity-based-subcontracting.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [activity-based-subcontracting.9c3e5dd621a778689ee03c5cab175479aa2342e3.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/activity-based-subcontracting.9c3e5dd621a778689ee03c5cab175479aa2342e3.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='07c9aea9db81dfc99208b8a7a2ed8c8b109223a33793'></a> Source: [scm\production-control\cross-docking-opportunities.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/production-control/cross-docking-opportunities.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [cross-docking-opportunities.86f0381c0f5c56478d8952922814c88f79874625.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/cross-docking-opportunities.86f0381c0f5c56478d8952922814c88f79874625.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='3a7e50e958401a03d8095b7d5abc4064a6e34b0b3794'></a> Source: [scm\production-control\default-order-settings.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/production-control/default-order-settings.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [default-order-settings.31d4f5d3e39119dcb4455f0c11042d17d644627b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/default-order-settings.31d4f5d3e39119dcb4455f0c11042d17d644627b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='84322bb3f02d236843bebc24c4c5eccdd4d9f2bf3795'></a> Source: [scm\production-control\formula-designer.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/production-control/formula-designer.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [formula-designer.cf715917e1d75e9ac84b394e447d46b85cb7e280.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/formula-designer.cf715917e1d75e9ac84b394e447d46b85cb7e280.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='0e1368d3f637143fd47c3772c811257e8472cc743801'></a> Source: [scm\production-control\manage-subcontract-work-production.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/production-control/manage-subcontract-work-production.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [manage-subcontract-work-production.4127d09dd94f917924ff1d12f35d1849f1bffef8.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/manage-subcontract-work-production.4127d09dd94f917924ff1d12f35d1849f1bffef8.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='9dbbe540c919d27bafcc10614f308e5b6ba313f13820'></a> Source: [scm\production-control\mixed-mode-plan.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/production-control/mixed-mode-plan.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [mixed-mode-plan.fc0fa09f5d4a81a6862874983cda80a2a6bc6664.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/mixed-mode-plan.fc0fa09f5d4a81a6862874983cda80a2a6bc6664.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='b73ec05442c8b089435d5813ea93b997c473cbb43826'></a> Source: [scm\production-control\production-process-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/production-control/production-process-overview.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [production-process-overview.a6afa7485dad926b121457b11b2e39519f79d945.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/production-process-overview.a6afa7485dad926b121457b11b2e39519f79d945.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='5b51df9a26627aa72762103c2ac721a7d5202c943828'></a> Source: [scm\production-control\register-material-consumption-hand-held-device.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/production-control/register-material-consumption-hand-held-device.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [register-material-consumption-hand-held-device.b730244bb297f07d5405555403270cba55aed445.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/register-material-consumption-hand-held-device.b730244bb297f07d5405555403270cba55aed445.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='106154b97e94a29ec135980bb87b60b81e160fad3835'></a> Source: [scm\production-control\routes-operations.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/production-control/routes-operations.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [routes-operations.36308eb1a69066614e6f914185906e5a38456f90.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/routes-operations.36308eb1a69066614e6f914185906e5a38456f90.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='98bc4ae14323cf04fd0a985d34baf225dffc5d9d3838'></a> Source: [scm\production-control\visual-scheduling-lean-manufacturing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/production-control/visual-scheduling-lean-manufacturing.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [visual-scheduling-lean-manufacturing.16feb854935d53139154370a363dc3a5df8fe402.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/visual-scheduling-lean-manufacturing.16feb854935d53139154370a363dc3a5df8fe402.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='55631c4d588c699b9e47f73190d5b01d6da3b9ec3839'></a> Source: [scm\production-control\visual-scheduling-production.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/production-control/visual-scheduling-production.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [visual-scheduling-production.85441d72234feadc9e3f9ac75f94374b50c80dca.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/visual-scheduling-production.85441d72234feadc9e3f9ac75f94374b50c80dca.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='dddcc764bb11540b8207350c463d1adb2533e1c03850'></a> Source: [scm\sales-marketing\overview-sales-marketing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/sales-marketing/overview-sales-marketing.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [overview-sales-marketing.07986a05f78acfafb65f1917d75eab5ac30374cc.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/overview-sales-marketing.07986a05f78acfafb65f1917d75eab5ac30374cc.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='c5381ab48e394702c2423de7a5b5cb91669933883851'></a> Source: [scm\sales-marketing\price-simulation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/sales-marketing/price-simulation.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [price-simulation.e0a183a2f3a1ca7aa65bfb32313ac44a57340f57.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/price-simulation.e0a183a2f3a1ca7aa65bfb32313ac44a57340f57.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='ffb567c0ba9c95d059e64e24cbe0ea53ec9f7bc93852'></a> Source: [scm\sales-marketing\register-serial-numbers-sales-process.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/sales-marketing/register-serial-numbers-sales-process.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [register-serial-numbers-sales-process.5ff44866919b35a5b99eb55844262e78dbd4679d.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/register-serial-numbers-sales-process.5ff44866919b35a5b99eb55844262e78dbd4679d.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='a24e5c2972ae1581de43ebcb448ed34bafdc0ad53853'></a> Source: [scm\sales-marketing\reserve-same-batch-sales-order.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/sales-marketing/reserve-same-batch-sales-order.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [reserve-same-batch-sales-order.6828ac744d2cb7226bca45a8c97d4b08c2e591dc.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/reserve-same-batch-sales-order.6828ac744d2cb7226bca45a8c97d4b08c2e591dc.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='4eaa4fef65fb310524f25d052aeefb58c5f20fe43854'></a> Source: [scm\sales-marketing\sales-agreements.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/sales-marketing/sales-agreements.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [sales-agreements.8b0c1a9a657d818a9a58733d46488b4dc6f3f1f6.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/sales-agreements.8b0c1a9a657d818a9a58733d46488b4dc6f3f1f6.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='fcc2e6a26990ba6faa026de915681077e75743e73855'></a> Source: [scm\sales-marketing\sales-orders-mobile-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/sales-marketing/sales-orders-mobile-workspace.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [sales-orders-mobile-workspace.07b2c025e8747478502d1c29e03def241f69de3a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/sales-orders-mobile-workspace.07b2c025e8747478502d1c29e03def241f69de3a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='5b3323dfe012cebe60bfbfa1c1260265fff9c6213856'></a> Source: [scm\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/TOC.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [TOC.d3131609f323869793af6df8eab02cf98f2b752b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/premium/TOC.d3131609f323869793af6df8eab02cf98f2b752b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='65fdb1b0821cd5be645f1bf674b30b9b56a442c43858'></a> Source: [scm\transportation\create-new-transportation-management-engine.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/transportation/create-new-transportation-management-engine.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [create-new-transportation-management-engine.8959347443901a063ca51cf98bd58f3917ef10ff.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/create-new-transportation-management-engine.8959347443901a063ca51cf98bd58f3917ef10ff.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='ab7d21d7a75e2c954831a254bb339d9cf5746d9d3878'></a> Source: [scm\transportation\reconcile-freight-transportation-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/transportation/reconcile-freight-transportation-management.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [reconcile-freight-transportation-management.f4081ac5d7c1c39a490aa52a6d9c4005d25172d0.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/reconcile-freight-transportation-management.f4081ac5d7c1c39a490aa52a6d9c4005d25172d0.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='da38443f0c0446e122a8e563d686efcc6df212ca3879'></a> Source: [scm\transportation\transportation-management-engines.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/transportation/transportation-management-engines.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [transportation-management-engines.46d7e754be53f2da0a6a5524372b25e44d8f4f26.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/transportation-management-engines.46d7e754be53f2da0a6a5524372b25e44d8f4f26.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='2fbea4f5e86a6bef98be5df3a2b69aac36e371e53880'></a> Source: [scm\transportation\transportation-management-overview.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/transportation/transportation-management-overview.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [transportation-management-overview.70794d25da954da44754971595fa77a8ded02ad8.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/transportation-management-overview.70794d25da954da44754971595fa77a8ded02ad8.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='c2ebb038ef59ecf9ebdc494f0067548f52ca04a83881'></a> Source: [scm\warehousing\batch-and-license-plate-confirmation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/batch-and-license-plate-confirmation.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [batch-and-license-plate-confirmation.80b0874209ae7a90bd9d6fedc776efa89e671456.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/batch-and-license-plate-confirmation.80b0874209ae7a90bd9d6fedc776efa89e671456.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='c4c8218761c43e9811c74b31fe60496d6efe17cb3883'></a> Source: [scm\warehousing\cluster-picking-item-confirmation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/cluster-picking-item-confirmation.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [cluster-picking-item-confirmation.5d053afac8c43d2aa8fb47cd56befb9f04eefb5b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/cluster-picking-item-confirmation.5d053afac8c43d2aa8fb47cd56befb9f04eefb5b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='49db5ad10914897b2157e123c5803ca51e4e66e73884'></a> Source: [scm\warehousing\configure-app-field-names-priorities-warehouse.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/configure-app-field-names-priorities-warehouse.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [configure-app-field-names-priorities-warehouse.2e215b5405a855957a23629da360ff6e611f6c9b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/configure-app-field-names-priorities-warehouse.2e215b5405a855957a23629da360ff6e611f6c9b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='5f261b0b7d44414c9eb34b484081b7a978659fe53885'></a> Source: [scm\warehousing\configure-mobile-devices-warehouse.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/configure-mobile-devices-warehouse.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [configure-mobile-devices-warehouse.2d6c0b95b71d395f4073b3167be32742302ca46f.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/configure-mobile-devices-warehouse.2d6c0b95b71d395f4073b3167be32742302ca46f.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='f8bcdcf70089aaed06ba0f88cdbec8dfdf9121d13886'></a> Source: [scm\warehousing\control-warehouse-location-directives.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/control-warehouse-location-directives.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [control-warehouse-location-directives.c87207912a180104247c5e115ab2142db2d9722b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/control-warehouse-location-directives.c87207912a180104247c5e115ab2142db2d9722b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='ebc7789d7b0be5db4a0faf4309bc3640f51956c63887'></a> Source: [scm\warehousing\cycle-counting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/cycle-counting.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [cycle-counting.8d3cbe0645964a5cc58f0ccf4feaefd7410d1a3b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/cycle-counting.8d3cbe0645964a5cc58f0ccf4feaefd7410d1a3b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='10f8b7d0f7d587ff4a3be3c5e13c610cef4252fd3888'></a> Source: [scm\warehousing\install-configure-warehousing-app.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/install-configure-warehousing-app.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [install-configure-warehousing-app.551a2a08ba440d177dbbd8c38248a7fffd996d19.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/install-configure-warehousing-app.551a2a08ba440d177dbbd8c38248a7fffd996d19.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='abac5e05f40132844cf1817be533151cbf238d953890'></a> Source: [scm\warehousing\material-replenishment-withdrawal-kanban.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/material-replenishment-withdrawal-kanban.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [material-replenishment-withdrawal-kanban.211911e3176f2ad675efd05ce0645c3c153d9ff2.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/material-replenishment-withdrawal-kanban.211911e3176f2ad675efd05ce0645c3c153d9ff2.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='c6caada4323db83fd7c3e3f2e87ae5e00c3d0a013941'></a> Source: [scm\warehousing\mixed-license-plate receiving.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/mixed-license-plate%20receiving.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [mixed-license-plate receiving.dab3249995babca20dd293f25a4e265c4f60d11a.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/mixed-license-plate%20receiving.dab3249995babca20dd293f25a4e265c4f60d11a.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='14de28397cd6812f5ad5019f9d27c7d8d5720a6b3942'></a> Source: [scm\warehousing\move-inventory-associated-work.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/move-inventory-associated-work.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [move-inventory-associated-work.7e7b3cda3d1e20787cf628cd3e5d96e7ba459531.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/move-inventory-associated-work.7e7b3cda3d1e20787cf628cd3e5d96e7ba459531.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='856ac2a61bc06a772b586a0cf77496fc360db6233944'></a> Source: [scm\warehousing\partial-location-cycle-counting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/partial-location-cycle-counting.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [partial-location-cycle-counting.9984beed7af5a03be8c94119bf1c085ec1bc6567.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/partial-location-cycle-counting.9984beed7af5a03be8c94119bf1c085ec1bc6567.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='9da1b3c09d9af7920ba09236517ef0819a3fa1f43945'></a> Source: [scm\warehousing\pick-oldest-batch.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/pick-oldest-batch.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [pick-oldest-batch.d5029419c7ca9545b907802826a763911893b1f2.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/pick-oldest-batch.d5029419c7ca9545b907802826a763911893b1f2.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='ee5853b326b17e57249cb7b37c5d6b2575c2759b3946'></a> Source: [scm\warehousing\piece-picking-confirmation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/piece-picking-confirmation.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [piece-picking-confirmation.9161d1de27a01a38774bd03a5e65fc73a374842d.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/piece-picking-confirmation.9161d1de27a01a38774bd03a5e65fc73a374842d.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='a302ad64bcef442660a0164ef03d1d3c16448d783947'></a> Source: [scm\warehousing\replenishment.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/replenishment.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [replenishment.e9daaecd537d725b167fe98e63cc49444d23cd40.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/replenishment.e9daaecd537d725b167fe98e63cc49444d23cd40.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='b66bf79413ad21f12f789eabafe8413af3f58c9c3948'></a> Source: [scm\warehousing\sales-returns.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/sales-returns.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [sales-returns.1c54bd707ad02b6ea21a9deecf5c400883c3ea60.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/sales-returns.1c54bd707ad02b6ea21a9deecf5c400883c3ea60.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='a8ec8b9e24f9ffc925f926887838b421c8504ffe3949'></a> Source: [scm\warehousing\system-group-on-open-work-list.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/system-group-on-open-work-list.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [system-group-on-open-work-list.2fbf046ec31293d41a17d8f07d7c58bf9dc16c4b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/system-group-on-open-work-list.2fbf046ec31293d41a17d8f07d7c58bf9dc16c4b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='4cf3273f993463ca484752e94a19dff0116a7ac43951'></a> Source: [scm\warehousing\upgrade-migration-warehouse-management-processes.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/upgrade-migration-warehouse-management-processes.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [upgrade-migration-warehouse-management-processes.71f6400d9b490e82f2b20c34a91df579b366a2f5.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/upgrade-migration-warehouse-management-processes.71f6400d9b490e82f2b20c34a91df579b366a2f5.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='cce85f608ecd21b3ea898250a0b2585abdcda3b23952'></a> Source: [scm\warehousing\warehouse-configuration.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/warehouse-configuration.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [warehouse-configuration.319dd232ffc626df1cc4c0e01e685aa23fcf8598.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/basic/warehouse-configuration.319dd232ffc626df1cc4c0e01e685aa23fcf8598.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='0121cca894f19502b3304c7908db67e5233fdd063953'></a> Source: [scm\warehousing\warehouse-mobile-devices-portal.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/scm/warehousing/warehouse-mobile-devices-portal.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [warehouse-mobile-devices-portal.ad5d70c7f1cb4d920c6897b866910b3978e54e5b.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/38080698eac1ef2bc88b25893411ea166a831f1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.pl-pl/master/do-not-translate/warehouse-mobile-devices-portal.ad5d70c7f1cb4d920c6897b866910b3978e54e5b.pl-pl.xlf)
+* Handoff Datetime: 2017-06-13 14:15:40
+* Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -26,7 +10871,7 @@
 
 
 ## Error Details
-##### <a name='b9f109aca4f3580306ac130a2cc100f956feea743272handoff_transform_failed'></a> Source: [retail\dev-itpro\hardware-station-extensibility.md](#b9f109aca4f3580306ac130a2cc100f956feea743272)
+##### <a name='b9f109aca4f3580306ac130a2cc100f956feea743323handoff_transform_failed'></a> Source: [retail\dev-itpro\hardware-station-extensibility.md](#b9f109aca4f3580306ac130a2cc100f956feea743323)
 * Error Code: handoff_transform_failed
 * Error Message: Handoff source file: retail\dev-itpro\hardware-station-extensibility.md transformed failed.
 * Retriable: False
