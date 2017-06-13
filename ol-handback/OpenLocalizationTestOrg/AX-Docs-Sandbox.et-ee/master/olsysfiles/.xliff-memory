@@ -19643,6 +19643,12 @@
       "XliffHash": "9f00feb06def35fade5b906578be1fe856c3ca4b",
       "TranslationType": 1,
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\3f7c45c900152c915f3878cb778c677a0b318575.96c0e8f8694eec3b09f449f90c4425112e4193b7.xml"
+    },
+    "core\\hr\\TOC.md.ebfbac53dadc520db2d813710ad231f79d5c2ccc.HT": {
+      "SourceFilename": "core\\hr\\TOC.md",
+      "XliffHash": "ebfbac53dadc520db2d813710ad231f79d5c2ccc",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.et-ee\\master\\45d185f87a18c45220f3aec9bfd8f667c1dbc3d3.b80c31bf112325e24c9e5ab5d6d1dc51b346ca4f.xml"
     }
   }
 }
