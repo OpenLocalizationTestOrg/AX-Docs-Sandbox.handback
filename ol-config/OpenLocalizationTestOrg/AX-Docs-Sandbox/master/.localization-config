@@ -88,7 +88,7 @@
     {
       "metadata": {
         "title": [
-          "Dynamics 365 for Operations glossary"
+          "Finance and Operations glossary"
         ]
       },
       "priorities": [
@@ -632,6 +632,7 @@
     {
       "files": [
         "core/TOC.md",
+        "core/**/TOC.md",
         "dev-itpro/TOC.md",
         "financials/TOC.md",
         "financials/**/TOC.md",
