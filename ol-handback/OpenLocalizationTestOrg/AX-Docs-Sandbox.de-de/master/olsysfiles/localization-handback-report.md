@@ -1,303 +1,304 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 17
+ Total Files | 15
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [financials\localizations\emea-aut-half-year-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-aut-half-year-depreciation.md) | InSyncHandedBackSuccess | [Details](#665d11f1e83ea8eff9ac196409b8b349d54c98c82893)
- [financials\localizations\emea-aut-packing-material-fee-calculation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-aut-packing-material-fee-calculation.md) | InSyncHandedBackSuccess | [Details](#e711633f2a3d1cea063fb06fab494d8c023e8d602894)
- [financials\localizations\emea-aut-vat-statement-details.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-aut-vat-statement-details.md) | InSyncHandedBackSuccess | [Details](#257ae093da472d3dd9cc2c40129a63916f5ef81b2895)
- [financials\localizations\emea-bank-reconciliation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-bank-reconciliation.md) | InSyncHandedBackSuccess | [Details](#f1565c9c4dc07eede834904aca737760090b56022896)
- [financials\localizations\emea-che-esr-customer-payments-import.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-che-esr-customer-payments-import.md) | InSyncHandedBackSuccess | [Details](#5b058ef8017c3697e560a6ca4cbf3787ffba00252901)
- [financials\localizations\emea-deu-additional-acquisition-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-deu-additional-acquisition-depreciation.md) | InSyncHandedBackSuccess | [Details](#9af245fc18e7c4bdc3e640948fe03d9a8497f8f12911)
- [financials\localizations\emea-deu-gdpdu-audit-data-export.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-deu-gdpdu-audit-data-export.md) | InSyncHandedBackSuccess | [Details](#28b26caddf383d45c28045a621eb7ea86f9c28ba2912)
- [financials\localizations\emea-deu-journal-list-report.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-deu-journal-list-report.md) | InSyncHandedBackSuccess | [Details](#14e5a94f64bf4ba1b679eee1745db82ad8af772d2913)
- [financials\localizations\emea-deu-print-separate-label-credit-memo-originating-sales.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-deu-print-separate-label-credit-memo-originating-sales.md) | InSyncHandedBackSuccess | [Details](#c68543583a05187e35da438b746439e066d0308d2914)
- [financials\localizations\emea-entry-certificates.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-entry-certificates.md) | InSyncHandedBackSuccess | [Details](#09d37fce2df4e409da187ac00dbc005dd56c7eb82916)
- [financials\localizations\emea-eur-payment-slip-report-giro.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-eur-payment-slip-report-giro.md) | InSyncHandedBackSuccess | [Details](#0d1525a69998e1800ed29238a5861f764824134c2930)
- [financials\localizations\emea-eu-sales-list.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-eu-sales-list.md) | InSyncHandedBackSuccess | [Details](#52a80e91fb8233488a45e0f81fb050393429d31d2929)
- [financials\localizations\emea-invoice-issue-deadline.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-invoice-issue-deadline.md) | InSyncHandedBackSuccess | [Details](#d08dec45cb422929372408befb60908ddafd009f2948)
- [financials\localizations\emea-registration-ids.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-registration-ids.md) | InSyncHandedBackSuccess | [Details](#a2ec1772ab2da757f55585c8df1f1a933470bf472977)
- [financials\localizations\emea-select-file-formats-for-the-method-of-payments.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-select-file-formats-for-the-method-of-payments.md) | InSyncHandedBackSuccess | [Details](#405d1401880c5ad13f6f43bcc2e82935d60aeffb2979)
- [financials\localizations\emea-vat-reporting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-vat-reporting.md) | InSyncHandedBackSuccess | [Details](#de072969e16b1a67b590911d36ff173e6792d35b2986)
- [retail\info-codes-retail.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/retail/info-codes-retail.md) | InSyncHandedBackSuccess | [Details](#6a4c9d51aad30aea3eab4cd8df0a4856f90e94743451)
+ [financials\accounts-payable\accounting-distributions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/accounting-distributions.md) | HandedBackFailed | [Details](#ae1cda425ade2428b87ad4d7a147ccc1ff98e5542667)
+ [financials\accounts-payable\accounting-source-explorer.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/accounting-source-explorer.md) | HandedBackFailed | [Details](#c16b78eacf00fb81208d562576954426df083c332668)
+ [financials\accounts-payable\accounts-payable-invoice-matching.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/accounts-payable-invoice-matching.md) | HandedBackFailed | [Details](#75aefa4fe184459c2f8ca454a15e404e7938d0f72669)
+ [financials\accounts-payable\invoice-matching-intercompany-purchase-orders.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/invoice-matching-intercompany-purchase-orders.md) | HandedBackFailed | [Details](#378a054273be4aa65acfb453cb4f53016f6da21b2676)
+ [financials\accounts-payable\project-invoicing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/project-invoicing.md) | HandedBackFailed | [Details](#9d95bb3c663095ca7d0c7a0fc1935b7242510b452715)
+ [financials\expense-management\expense-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/expense-management/expense-management.md) | InSyncHandedBackSuccess | [Details](#84841521483588765510dd9e1ce92a32e493ca8d2953)
+ [financials\general-ledger\audit-policy-rules.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/audit-policy-rules.md) | InSyncHandedBackSuccess | [Details](#112ff0364584fec10cbdec73f3bbbf2bfcd410472990)
+ [financials\general-ledger\audit-policy-violations-cases.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/audit-policy-violations-cases.md) | InSyncHandedBackSuccess | [Details](#bf7084413974c8dda37a0ad79c214bb56a4dd61c2991)
+ [financials\general-ledger\balance-sheet-financial-reports.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/balance-sheet-financial-reports.md) | InSyncHandedBackSuccess | [Details](#1c9b35430a6dfb0c34df40659ab2c2a135be74f42992)
+ [financials\general-ledger\example-balanced-journals-interunit-accounting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/example-balanced-journals-interunit-accounting.md) | InSyncHandedBackSuccess | [Details](#9cf725f289f5d7e2d6b6b809771cd1ad24e2177f2998)
+ [financials\general-ledger\example-posting-definitions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/example-posting-definitions.md) | InSyncHandedBackSuccess | [Details](#410504f96792f27bb44f2378a5d1f7376580244e2999)
+ [financials\general-ledger\ledger-allocation-rules.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/ledger-allocation-rules.md) | InSyncHandedBackSuccess | [Details](#0ce91e475b7183c09b7795dd7212923311252a033011)
+ [financials\general-ledger\posting-definitions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/posting-definitions.md) | InSyncHandedBackSuccess | [Details](#1d984362379e0eb752d5ddeb794a7347e50b8a103022)
+ [financials\localizations\emea-deu-additional-acquisition-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-deu-additional-acquisition-depreciation.md) | InSyncHandedBackSuccess | [Details](#2be842813c13afaac44f012187b0ebe543d31d1f3086)
+ [financials\localizations\emea-entry-certificates.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-entry-certificates.md) | InSyncHandedBackSuccess | [Details](#5635ac9705d3a367c724f34ba5dd27424cec1af93091)
 
 ## Item Details
-##### <a name='665d11f1e83ea8eff9ac196409b8b349d54c98c82893'></a> Source: [financials\localizations\emea-aut-half-year-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-aut-half-year-depreciation.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [financials\localizations\emea-aut-half-year-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/b21360a8e9df3a32a4941207f2b1a035a922bcd8/financials/localizations/emea-aut-half-year-depreciation.md)
-* Handoff File: [emea-aut-half-year-depreciation.a48d3be7fb0e18aa9db33315f8b78989692e2eef.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/06fac891f3930ac2cf46a58d3faf443210bd4c72/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-aut-half-year-depreciation.a48d3be7fb0e18aa9db33315f8b78989692e2eef.de-de.xlf)
-* Handoff Datetime: 2017-06-08 10:02:48
+##### <a name='ae1cda425ade2428b87ad4d7a147ccc1ff98e5542667'></a> Source: [financials\accounts-payable\accounting-distributions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/accounting-distributions.md)
+* Status: HandedBackFailed
+* Target File: 
+* Handoff File: [accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7b0e1d368a790dfd16529e7161a5394464b66b7e/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.de-de.xlf)
+* Handoff Datetime: 2017-06-13 14:06:38
 * Handoff Reason: Include
 * Handoff Name: 
-* Archive File: [emea-aut-half-year-depreciation.a48d3be7fb0e18aa9db33315f8b78989692e2eef.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b181202ce12e65fd21d7a2498c56922f620a940a/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-aut-half-year-depreciation.a48d3be7fb0e18aa9db33315f8b78989692e2eef.de-de.xlf)
-* Archive Datetime: 2017-06-08 10:02:59
-* Handback File: [emea-aut-half-year-depreciation.a48d3be7fb0e18aa9db33315f8b78989692e2eef.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/14ae78a8edfe96f7b7f791b9da81f344a4df6f41/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-aut-half-year-depreciation.a48d3be7fb0e18aa9db33315f8b78989692e2eef.de-de.xlf)
-* Handback Datetime: 2017-06-08 10:15:45
+* Archive File: [accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b6bf3a10c65a4712067ccf778aecac43f2641c1a/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.de-de.xlf)
+* Archive Datetime: 2017-06-13 14:06:49
+* Handback File: 
+* Handback Datetime: 2017-06-13 14:27:42
 * Handback Name: 
-* Bilingual File: [emea-aut-half-year-depreciation.a48d3be7fb0e18aa9db33315f8b78989692e2eef.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/1b0feb3d56cfd8295f83a237ddc9b97e268f5981/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-aut-half-year-depreciation.a48d3be7fb0e18aa9db33315f8b78989692e2eef.de-de.xlf)
+* Handback Error: [cache_file_not_found](#ae1cda425ade2428b87ad4d7a147ccc1ff98e5542667cache_file_not_found)
+* Bilingual File: [accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/6823eb965403e03249ed29afc695f953bae65375/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/accounting-distributions.62861be3521a316ea24ec82c00651bf25cc65234.de-de.xlf)
+* Bilingual Datetime: 2017-06-01 13:32:31
+* [Back to Top](#report-top)
+
+##### <a name='c16b78eacf00fb81208d562576954426df083c332668'></a> Source: [financials\accounts-payable\accounting-source-explorer.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/accounting-source-explorer.md)
+* Status: HandedBackFailed
+* Target File: 
+* Handoff File: [accounting-source-explorer.c676bb605b567e9325780798e4243e8241ee39b7.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7b0e1d368a790dfd16529e7161a5394464b66b7e/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/accounting-source-explorer.c676bb605b567e9325780798e4243e8241ee39b7.de-de.xlf)
+* Handoff Datetime: 2017-06-13 14:06:38
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: [accounting-source-explorer.c676bb605b567e9325780798e4243e8241ee39b7.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b6bf3a10c65a4712067ccf778aecac43f2641c1a/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/accounting-source-explorer.c676bb605b567e9325780798e4243e8241ee39b7.de-de.xlf)
+* Archive Datetime: 2017-06-13 14:06:49
+* Handback File: 
+* Handback Datetime: 2017-06-13 14:27:42
+* Handback Name: 
+* Handback Error: [cache_file_not_found](#c16b78eacf00fb81208d562576954426df083c332668cache_file_not_found)
+* Bilingual File: [accounting-source-explorer.c676bb605b567e9325780798e4243e8241ee39b7.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/6823eb965403e03249ed29afc695f953bae65375/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/accounting-source-explorer.c676bb605b567e9325780798e4243e8241ee39b7.de-de.xlf)
+* Bilingual Datetime: 2017-06-01 13:32:31
+* [Back to Top](#report-top)
+
+##### <a name='75aefa4fe184459c2f8ca454a15e404e7938d0f72669'></a> Source: [financials\accounts-payable\accounts-payable-invoice-matching.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/accounts-payable-invoice-matching.md)
+* Status: HandedBackFailed
+* Target File: 
+* Handoff File: [accounts-payable-invoice-matching.d3f2a734440fb93b494324a879452a636cc0a612.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7b0e1d368a790dfd16529e7161a5394464b66b7e/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/accounts-payable-invoice-matching.d3f2a734440fb93b494324a879452a636cc0a612.de-de.xlf)
+* Handoff Datetime: 2017-06-13 14:06:38
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: [accounts-payable-invoice-matching.d3f2a734440fb93b494324a879452a636cc0a612.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b6bf3a10c65a4712067ccf778aecac43f2641c1a/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/accounts-payable-invoice-matching.d3f2a734440fb93b494324a879452a636cc0a612.de-de.xlf)
+* Archive Datetime: 2017-06-13 14:06:49
+* Handback File: 
+* Handback Datetime: 2017-06-13 14:27:42
+* Handback Name: 
+* Handback Error: [cache_file_not_found](#75aefa4fe184459c2f8ca454a15e404e7938d0f72669cache_file_not_found)
+* Bilingual File: [accounts-payable-invoice-matching.d3f2a734440fb93b494324a879452a636cc0a612.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/6823eb965403e03249ed29afc695f953bae65375/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/accounts-payable-invoice-matching.d3f2a734440fb93b494324a879452a636cc0a612.de-de.xlf)
+* Bilingual Datetime: 2017-06-01 13:32:31
+* [Back to Top](#report-top)
+
+##### <a name='378a054273be4aa65acfb453cb4f53016f6da21b2676'></a> Source: [financials\accounts-payable\invoice-matching-intercompany-purchase-orders.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/invoice-matching-intercompany-purchase-orders.md)
+* Status: HandedBackFailed
+* Target File: 
+* Handoff File: [invoice-matching-intercompany-purchase-orders.6991ddf33057bfb07f634aa049dfcdd59b207a3e.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7b0e1d368a790dfd16529e7161a5394464b66b7e/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/invoice-matching-intercompany-purchase-orders.6991ddf33057bfb07f634aa049dfcdd59b207a3e.de-de.xlf)
+* Handoff Datetime: 2017-06-13 14:06:38
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: [invoice-matching-intercompany-purchase-orders.6991ddf33057bfb07f634aa049dfcdd59b207a3e.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b6bf3a10c65a4712067ccf778aecac43f2641c1a/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/invoice-matching-intercompany-purchase-orders.6991ddf33057bfb07f634aa049dfcdd59b207a3e.de-de.xlf)
+* Archive Datetime: 2017-06-13 14:06:49
+* Handback File: 
+* Handback Datetime: 2017-06-13 14:27:42
+* Handback Name: 
+* Handback Error: [cache_file_not_found](#378a054273be4aa65acfb453cb4f53016f6da21b2676cache_file_not_found)
+* Bilingual File: [invoice-matching-intercompany-purchase-orders.6991ddf33057bfb07f634aa049dfcdd59b207a3e.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/6823eb965403e03249ed29afc695f953bae65375/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/invoice-matching-intercompany-purchase-orders.6991ddf33057bfb07f634aa049dfcdd59b207a3e.de-de.xlf)
+* Bilingual Datetime: 2017-06-01 13:32:31
+* [Back to Top](#report-top)
+
+##### <a name='9d95bb3c663095ca7d0c7a0fc1935b7242510b452715'></a> Source: [financials\accounts-payable\project-invoicing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/accounts-payable/project-invoicing.md)
+* Status: HandedBackFailed
+* Target File: 
+* Handoff File: [project-invoicing.cf067685dc953dac54fd85759e7de9eefbcb4a54.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7b0e1d368a790dfd16529e7161a5394464b66b7e/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/project-invoicing.cf067685dc953dac54fd85759e7de9eefbcb4a54.de-de.xlf)
+* Handoff Datetime: 2017-06-13 14:06:38
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: [project-invoicing.cf067685dc953dac54fd85759e7de9eefbcb4a54.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b6bf3a10c65a4712067ccf778aecac43f2641c1a/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/project-invoicing.cf067685dc953dac54fd85759e7de9eefbcb4a54.de-de.xlf)
+* Archive Datetime: 2017-06-13 14:06:49
+* Handback File: 
+* Handback Datetime: 2017-06-13 14:27:42
+* Handback Name: 
+* Handback Error: [cache_file_not_found](#9d95bb3c663095ca7d0c7a0fc1935b7242510b452715cache_file_not_found)
+* Bilingual File: [project-invoicing.cf067685dc953dac54fd85759e7de9eefbcb4a54.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/6823eb965403e03249ed29afc695f953bae65375/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/project-invoicing.cf067685dc953dac54fd85759e7de9eefbcb4a54.de-de.xlf)
+* Bilingual Datetime: 2017-06-01 13:32:31
+* [Back to Top](#report-top)
+
+##### <a name='84841521483588765510dd9e1ce92a32e493ca8d2953'></a> Source: [financials\expense-management\expense-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/expense-management/expense-management.md)
+* Status: InSyncHandedBackSuccess
+* Target File: [financials\expense-management\expense-management.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/4a552cd4b46e4d6d878f33c2b2548a5eec2a2b40/financials/expense-management/expense-management.md)
+* Handoff File: [expense-management.042ba373a8ea8817dc9a9166f7dc86d49c0c3cff.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7b0e1d368a790dfd16529e7161a5394464b66b7e/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/expense-management.042ba373a8ea8817dc9a9166f7dc86d49c0c3cff.de-de.xlf)
+* Handoff Datetime: 2017-06-13 14:06:38
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: [expense-management.042ba373a8ea8817dc9a9166f7dc86d49c0c3cff.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b6bf3a10c65a4712067ccf778aecac43f2641c1a/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/expense-management.042ba373a8ea8817dc9a9166f7dc86d49c0c3cff.de-de.xlf)
+* Archive Datetime: 2017-06-13 14:06:49
+* Handback File: [expense-management.042ba373a8ea8817dc9a9166f7dc86d49c0c3cff.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/9746e59f71d82e09800eec682da3da87d39b832f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/expense-management.042ba373a8ea8817dc9a9166f7dc86d49c0c3cff.de-de.xlf)
+* Handback Datetime: 2017-06-13 14:27:42
+* Handback Name: 
+* Bilingual File: [expense-management.042ba373a8ea8817dc9a9166f7dc86d49c0c3cff.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/6823eb965403e03249ed29afc695f953bae65375/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/expense-management.042ba373a8ea8817dc9a9166f7dc86d49c0c3cff.de-de.xlf)
+* Bilingual Datetime: 2017-06-01 13:32:31
+* [Back to Top](#report-top)
+
+##### <a name='112ff0364584fec10cbdec73f3bbbf2bfcd410472990'></a> Source: [financials\general-ledger\audit-policy-rules.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/audit-policy-rules.md)
+* Status: InSyncHandedBackSuccess
+* Target File: [financials\general-ledger\audit-policy-rules.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/4a552cd4b46e4d6d878f33c2b2548a5eec2a2b40/financials/general-ledger/audit-policy-rules.md)
+* Handoff File: [audit-policy-rules.f5cab025f4f9d595b9a7f7318cea6eeaa0a62cac.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7b0e1d368a790dfd16529e7161a5394464b66b7e/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/audit-policy-rules.f5cab025f4f9d595b9a7f7318cea6eeaa0a62cac.de-de.xlf)
+* Handoff Datetime: 2017-06-13 14:06:38
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: [audit-policy-rules.f5cab025f4f9d595b9a7f7318cea6eeaa0a62cac.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b6bf3a10c65a4712067ccf778aecac43f2641c1a/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/audit-policy-rules.f5cab025f4f9d595b9a7f7318cea6eeaa0a62cac.de-de.xlf)
+* Archive Datetime: 2017-06-13 14:06:49
+* Handback File: [audit-policy-rules.f5cab025f4f9d595b9a7f7318cea6eeaa0a62cac.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/9746e59f71d82e09800eec682da3da87d39b832f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/audit-policy-rules.f5cab025f4f9d595b9a7f7318cea6eeaa0a62cac.de-de.xlf)
+* Handback Datetime: 2017-06-13 14:27:42
+* Handback Name: 
+* Bilingual File: [audit-policy-rules.f5cab025f4f9d595b9a7f7318cea6eeaa0a62cac.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/6823eb965403e03249ed29afc695f953bae65375/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/audit-policy-rules.f5cab025f4f9d595b9a7f7318cea6eeaa0a62cac.de-de.xlf)
+* Bilingual Datetime: 2017-06-01 13:32:31
+* [Back to Top](#report-top)
+
+##### <a name='bf7084413974c8dda37a0ad79c214bb56a4dd61c2991'></a> Source: [financials\general-ledger\audit-policy-violations-cases.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/audit-policy-violations-cases.md)
+* Status: InSyncHandedBackSuccess
+* Target File: [financials\general-ledger\audit-policy-violations-cases.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/4a552cd4b46e4d6d878f33c2b2548a5eec2a2b40/financials/general-ledger/audit-policy-violations-cases.md)
+* Handoff File: [audit-policy-violations-cases.cc661a313648df02c7d6693ea8085aaf1421f78c.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7b0e1d368a790dfd16529e7161a5394464b66b7e/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/audit-policy-violations-cases.cc661a313648df02c7d6693ea8085aaf1421f78c.de-de.xlf)
+* Handoff Datetime: 2017-06-13 14:06:38
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: [audit-policy-violations-cases.cc661a313648df02c7d6693ea8085aaf1421f78c.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b6bf3a10c65a4712067ccf778aecac43f2641c1a/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/audit-policy-violations-cases.cc661a313648df02c7d6693ea8085aaf1421f78c.de-de.xlf)
+* Archive Datetime: 2017-06-13 14:06:49
+* Handback File: [audit-policy-violations-cases.cc661a313648df02c7d6693ea8085aaf1421f78c.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/9746e59f71d82e09800eec682da3da87d39b832f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/audit-policy-violations-cases.cc661a313648df02c7d6693ea8085aaf1421f78c.de-de.xlf)
+* Handback Datetime: 2017-06-13 14:27:42
+* Handback Name: 
+* Bilingual File: [audit-policy-violations-cases.cc661a313648df02c7d6693ea8085aaf1421f78c.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/6823eb965403e03249ed29afc695f953bae65375/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/audit-policy-violations-cases.cc661a313648df02c7d6693ea8085aaf1421f78c.de-de.xlf)
+* Bilingual Datetime: 2017-06-01 13:32:31
+* [Back to Top](#report-top)
+
+##### <a name='1c9b35430a6dfb0c34df40659ab2c2a135be74f42992'></a> Source: [financials\general-ledger\balance-sheet-financial-reports.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/balance-sheet-financial-reports.md)
+* Status: InSyncHandedBackSuccess
+* Target File: [financials\general-ledger\balance-sheet-financial-reports.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/4a552cd4b46e4d6d878f33c2b2548a5eec2a2b40/financials/general-ledger/balance-sheet-financial-reports.md)
+* Handoff File: [balance-sheet-financial-reports.9245f431bad206e77cb769397dee8334d13015dc.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7b0e1d368a790dfd16529e7161a5394464b66b7e/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/balance-sheet-financial-reports.9245f431bad206e77cb769397dee8334d13015dc.de-de.xlf)
+* Handoff Datetime: 2017-06-13 14:06:38
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: [balance-sheet-financial-reports.9245f431bad206e77cb769397dee8334d13015dc.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b6bf3a10c65a4712067ccf778aecac43f2641c1a/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/balance-sheet-financial-reports.9245f431bad206e77cb769397dee8334d13015dc.de-de.xlf)
+* Archive Datetime: 2017-06-13 14:06:49
+* Handback File: [balance-sheet-financial-reports.9245f431bad206e77cb769397dee8334d13015dc.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/9746e59f71d82e09800eec682da3da87d39b832f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/balance-sheet-financial-reports.9245f431bad206e77cb769397dee8334d13015dc.de-de.xlf)
+* Handback Datetime: 2017-06-13 14:27:42
+* Handback Name: 
+* Bilingual File: [balance-sheet-financial-reports.9245f431bad206e77cb769397dee8334d13015dc.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/6823eb965403e03249ed29afc695f953bae65375/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/balance-sheet-financial-reports.9245f431bad206e77cb769397dee8334d13015dc.de-de.xlf)
+* Bilingual Datetime: 2017-06-01 13:32:31
+* [Back to Top](#report-top)
+
+##### <a name='9cf725f289f5d7e2d6b6b809771cd1ad24e2177f2998'></a> Source: [financials\general-ledger\example-balanced-journals-interunit-accounting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/example-balanced-journals-interunit-accounting.md)
+* Status: InSyncHandedBackSuccess
+* Target File: [financials\general-ledger\example-balanced-journals-interunit-accounting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/4a552cd4b46e4d6d878f33c2b2548a5eec2a2b40/financials/general-ledger/example-balanced-journals-interunit-accounting.md)
+* Handoff File: [example-balanced-journals-interunit-accounting.0eddb9b9fe47c90502bbe3157c10e6788e0a7606.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7b0e1d368a790dfd16529e7161a5394464b66b7e/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/example-balanced-journals-interunit-accounting.0eddb9b9fe47c90502bbe3157c10e6788e0a7606.de-de.xlf)
+* Handoff Datetime: 2017-06-13 14:06:38
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: [example-balanced-journals-interunit-accounting.0eddb9b9fe47c90502bbe3157c10e6788e0a7606.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b6bf3a10c65a4712067ccf778aecac43f2641c1a/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/example-balanced-journals-interunit-accounting.0eddb9b9fe47c90502bbe3157c10e6788e0a7606.de-de.xlf)
+* Archive Datetime: 2017-06-13 14:06:49
+* Handback File: [example-balanced-journals-interunit-accounting.0eddb9b9fe47c90502bbe3157c10e6788e0a7606.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/9746e59f71d82e09800eec682da3da87d39b832f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/example-balanced-journals-interunit-accounting.0eddb9b9fe47c90502bbe3157c10e6788e0a7606.de-de.xlf)
+* Handback Datetime: 2017-06-13 14:27:42
+* Handback Name: 
+* Bilingual File: [example-balanced-journals-interunit-accounting.0eddb9b9fe47c90502bbe3157c10e6788e0a7606.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/6823eb965403e03249ed29afc695f953bae65375/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/example-balanced-journals-interunit-accounting.0eddb9b9fe47c90502bbe3157c10e6788e0a7606.de-de.xlf)
+* Bilingual Datetime: 2017-06-01 13:32:31
+* [Back to Top](#report-top)
+
+##### <a name='410504f96792f27bb44f2378a5d1f7376580244e2999'></a> Source: [financials\general-ledger\example-posting-definitions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/example-posting-definitions.md)
+* Status: InSyncHandedBackSuccess
+* Target File: [financials\general-ledger\example-posting-definitions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/4a552cd4b46e4d6d878f33c2b2548a5eec2a2b40/financials/general-ledger/example-posting-definitions.md)
+* Handoff File: [example-posting-definitions.cd704a729bb8be63bc2fe70deb51ea41cdbb06fa.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7b0e1d368a790dfd16529e7161a5394464b66b7e/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/example-posting-definitions.cd704a729bb8be63bc2fe70deb51ea41cdbb06fa.de-de.xlf)
+* Handoff Datetime: 2017-06-13 14:06:38
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: [example-posting-definitions.cd704a729bb8be63bc2fe70deb51ea41cdbb06fa.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b6bf3a10c65a4712067ccf778aecac43f2641c1a/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/example-posting-definitions.cd704a729bb8be63bc2fe70deb51ea41cdbb06fa.de-de.xlf)
+* Archive Datetime: 2017-06-13 14:06:49
+* Handback File: [example-posting-definitions.cd704a729bb8be63bc2fe70deb51ea41cdbb06fa.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/9746e59f71d82e09800eec682da3da87d39b832f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/example-posting-definitions.cd704a729bb8be63bc2fe70deb51ea41cdbb06fa.de-de.xlf)
+* Handback Datetime: 2017-06-13 14:27:42
+* Handback Name: 
+* Bilingual File: [example-posting-definitions.cd704a729bb8be63bc2fe70deb51ea41cdbb06fa.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/6823eb965403e03249ed29afc695f953bae65375/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/example-posting-definitions.cd704a729bb8be63bc2fe70deb51ea41cdbb06fa.de-de.xlf)
+* Bilingual Datetime: 2017-06-01 13:32:31
+* [Back to Top](#report-top)
+
+##### <a name='0ce91e475b7183c09b7795dd7212923311252a033011'></a> Source: [financials\general-ledger\ledger-allocation-rules.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/ledger-allocation-rules.md)
+* Status: InSyncHandedBackSuccess
+* Target File: [financials\general-ledger\ledger-allocation-rules.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/4a552cd4b46e4d6d878f33c2b2548a5eec2a2b40/financials/general-ledger/ledger-allocation-rules.md)
+* Handoff File: [ledger-allocation-rules.6cc147c55cac4bb6a4c734fc1245c2b9b21a41d8.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7b0e1d368a790dfd16529e7161a5394464b66b7e/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/ledger-allocation-rules.6cc147c55cac4bb6a4c734fc1245c2b9b21a41d8.de-de.xlf)
+* Handoff Datetime: 2017-06-13 14:06:38
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: [ledger-allocation-rules.6cc147c55cac4bb6a4c734fc1245c2b9b21a41d8.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b6bf3a10c65a4712067ccf778aecac43f2641c1a/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/ledger-allocation-rules.6cc147c55cac4bb6a4c734fc1245c2b9b21a41d8.de-de.xlf)
+* Archive Datetime: 2017-06-13 14:06:49
+* Handback File: [ledger-allocation-rules.6cc147c55cac4bb6a4c734fc1245c2b9b21a41d8.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/9746e59f71d82e09800eec682da3da87d39b832f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/ledger-allocation-rules.6cc147c55cac4bb6a4c734fc1245c2b9b21a41d8.de-de.xlf)
+* Handback Datetime: 2017-06-13 14:27:42
+* Handback Name: 
+* Bilingual File: [ledger-allocation-rules.6cc147c55cac4bb6a4c734fc1245c2b9b21a41d8.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/6823eb965403e03249ed29afc695f953bae65375/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/ledger-allocation-rules.6cc147c55cac4bb6a4c734fc1245c2b9b21a41d8.de-de.xlf)
+* Bilingual Datetime: 2017-06-01 13:32:31
+* [Back to Top](#report-top)
+
+##### <a name='1d984362379e0eb752d5ddeb794a7347e50b8a103022'></a> Source: [financials\general-ledger\posting-definitions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/posting-definitions.md)
+* Status: InSyncHandedBackSuccess
+* Target File: [financials\general-ledger\posting-definitions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/4a552cd4b46e4d6d878f33c2b2548a5eec2a2b40/financials/general-ledger/posting-definitions.md)
+* Handoff File: [posting-definitions.7cb7e3ed7596a886ac51f84abe3ecd897b4da2b3.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7b0e1d368a790dfd16529e7161a5394464b66b7e/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/posting-definitions.7cb7e3ed7596a886ac51f84abe3ecd897b4da2b3.de-de.xlf)
+* Handoff Datetime: 2017-06-13 14:06:38
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: [posting-definitions.7cb7e3ed7596a886ac51f84abe3ecd897b4da2b3.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b6bf3a10c65a4712067ccf778aecac43f2641c1a/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/posting-definitions.7cb7e3ed7596a886ac51f84abe3ecd897b4da2b3.de-de.xlf)
+* Archive Datetime: 2017-06-13 14:06:49
+* Handback File: [posting-definitions.7cb7e3ed7596a886ac51f84abe3ecd897b4da2b3.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/9746e59f71d82e09800eec682da3da87d39b832f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/posting-definitions.7cb7e3ed7596a886ac51f84abe3ecd897b4da2b3.de-de.xlf)
+* Handback Datetime: 2017-06-13 14:27:42
+* Handback Name: 
+* Bilingual File: [posting-definitions.7cb7e3ed7596a886ac51f84abe3ecd897b4da2b3.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/1b0feb3d56cfd8295f83a237ddc9b97e268f5981/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/posting-definitions.7cb7e3ed7596a886ac51f84abe3ecd897b4da2b3.de-de.xlf)
 * Bilingual Datetime: 2017-06-08 07:14:17
 * [Back to Top](#report-top)
 
-##### <a name='e711633f2a3d1cea063fb06fab494d8c023e8d602894'></a> Source: [financials\localizations\emea-aut-packing-material-fee-calculation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-aut-packing-material-fee-calculation.md)
+##### <a name='2be842813c13afaac44f012187b0ebe543d31d1f3086'></a> Source: [financials\localizations\emea-deu-additional-acquisition-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-deu-additional-acquisition-depreciation.md)
 * Status: InSyncHandedBackSuccess
-* Target File: [financials\localizations\emea-aut-packing-material-fee-calculation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/b21360a8e9df3a32a4941207f2b1a035a922bcd8/financials/localizations/emea-aut-packing-material-fee-calculation.md)
-* Handoff File: [emea-aut-packing-material-fee-calculation.8e3cc73018d9b3ca7c9451b93fc6c51a2395c2b7.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/06fac891f3930ac2cf46a58d3faf443210bd4c72/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-aut-packing-material-fee-calculation.8e3cc73018d9b3ca7c9451b93fc6c51a2395c2b7.de-de.xlf)
-* Handoff Datetime: 2017-06-08 10:02:48
+* Target File: [financials\localizations\emea-deu-additional-acquisition-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/4a552cd4b46e4d6d878f33c2b2548a5eec2a2b40/financials/localizations/emea-deu-additional-acquisition-depreciation.md)
+* Handoff File: [emea-deu-additional-acquisition-depreciation.fa141e773ce957ce60f569a0327bfce7a23bc9b6.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7b0e1d368a790dfd16529e7161a5394464b66b7e/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-deu-additional-acquisition-depreciation.fa141e773ce957ce60f569a0327bfce7a23bc9b6.de-de.xlf)
+* Handoff Datetime: 2017-06-13 14:06:38
 * Handoff Reason: Include
 * Handoff Name: 
-* Archive File: [emea-aut-packing-material-fee-calculation.8e3cc73018d9b3ca7c9451b93fc6c51a2395c2b7.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b181202ce12e65fd21d7a2498c56922f620a940a/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-aut-packing-material-fee-calculation.8e3cc73018d9b3ca7c9451b93fc6c51a2395c2b7.de-de.xlf)
-* Archive Datetime: 2017-06-08 10:02:59
-* Handback File: [emea-aut-packing-material-fee-calculation.8e3cc73018d9b3ca7c9451b93fc6c51a2395c2b7.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/14ae78a8edfe96f7b7f791b9da81f344a4df6f41/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-aut-packing-material-fee-calculation.8e3cc73018d9b3ca7c9451b93fc6c51a2395c2b7.de-de.xlf)
-* Handback Datetime: 2017-06-08 10:15:45
+* Archive File: [emea-deu-additional-acquisition-depreciation.fa141e773ce957ce60f569a0327bfce7a23bc9b6.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b6bf3a10c65a4712067ccf778aecac43f2641c1a/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-deu-additional-acquisition-depreciation.fa141e773ce957ce60f569a0327bfce7a23bc9b6.de-de.xlf)
+* Archive Datetime: 2017-06-13 14:06:49
+* Handback File: [emea-deu-additional-acquisition-depreciation.fa141e773ce957ce60f569a0327bfce7a23bc9b6.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/9746e59f71d82e09800eec682da3da87d39b832f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-deu-additional-acquisition-depreciation.fa141e773ce957ce60f569a0327bfce7a23bc9b6.de-de.xlf)
+* Handback Datetime: 2017-06-13 14:27:42
 * Handback Name: 
-* Bilingual File: [emea-aut-packing-material-fee-calculation.8e3cc73018d9b3ca7c9451b93fc6c51a2395c2b7.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/6823eb965403e03249ed29afc695f953bae65375/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-aut-packing-material-fee-calculation.8e3cc73018d9b3ca7c9451b93fc6c51a2395c2b7.de-de.xlf)
-* Bilingual Datetime: 2017-06-01 13:32:31
+* Bilingual File: [emea-deu-additional-acquisition-depreciation.fa141e773ce957ce60f569a0327bfce7a23bc9b6.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/14ae78a8edfe96f7b7f791b9da81f344a4df6f41/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-deu-additional-acquisition-depreciation.fa141e773ce957ce60f569a0327bfce7a23bc9b6.de-de.xlf)
+* Bilingual Datetime: 2017-06-08 10:20:08
 * [Back to Top](#report-top)
 
-##### <a name='257ae093da472d3dd9cc2c40129a63916f5ef81b2895'></a> Source: [financials\localizations\emea-aut-vat-statement-details.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-aut-vat-statement-details.md)
+##### <a name='5635ac9705d3a367c724f34ba5dd27424cec1af93091'></a> Source: [financials\localizations\emea-entry-certificates.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-entry-certificates.md)
 * Status: InSyncHandedBackSuccess
-* Target File: [financials\localizations\emea-aut-vat-statement-details.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/b21360a8e9df3a32a4941207f2b1a035a922bcd8/financials/localizations/emea-aut-vat-statement-details.md)
-* Handoff File: [emea-aut-vat-statement-details.74bed2444937ab4f44b087817782ea7f62e35230.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/06fac891f3930ac2cf46a58d3faf443210bd4c72/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-aut-vat-statement-details.74bed2444937ab4f44b087817782ea7f62e35230.de-de.xlf)
-* Handoff Datetime: 2017-06-08 10:02:48
+* Target File: [financials\localizations\emea-entry-certificates.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/4a552cd4b46e4d6d878f33c2b2548a5eec2a2b40/financials/localizations/emea-entry-certificates.md)
+* Handoff File: [emea-entry-certificates.5931ce58a932fb7de9f25918c20868379dd4ea83.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7b0e1d368a790dfd16529e7161a5394464b66b7e/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-entry-certificates.5931ce58a932fb7de9f25918c20868379dd4ea83.de-de.xlf)
+* Handoff Datetime: 2017-06-13 14:06:38
 * Handoff Reason: Include
 * Handoff Name: 
-* Archive File: [emea-aut-vat-statement-details.74bed2444937ab4f44b087817782ea7f62e35230.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b181202ce12e65fd21d7a2498c56922f620a940a/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-aut-vat-statement-details.74bed2444937ab4f44b087817782ea7f62e35230.de-de.xlf)
-* Archive Datetime: 2017-06-08 10:02:59
-* Handback File: [emea-aut-vat-statement-details.74bed2444937ab4f44b087817782ea7f62e35230.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/14ae78a8edfe96f7b7f791b9da81f344a4df6f41/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-aut-vat-statement-details.74bed2444937ab4f44b087817782ea7f62e35230.de-de.xlf)
-* Handback Datetime: 2017-06-08 10:15:45
+* Archive File: [emea-entry-certificates.5931ce58a932fb7de9f25918c20868379dd4ea83.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b6bf3a10c65a4712067ccf778aecac43f2641c1a/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-entry-certificates.5931ce58a932fb7de9f25918c20868379dd4ea83.de-de.xlf)
+* Archive Datetime: 2017-06-13 14:06:49
+* Handback File: [emea-entry-certificates.5931ce58a932fb7de9f25918c20868379dd4ea83.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/9746e59f71d82e09800eec682da3da87d39b832f/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-entry-certificates.5931ce58a932fb7de9f25918c20868379dd4ea83.de-de.xlf)
+* Handback Datetime: 2017-06-13 14:27:42
 * Handback Name: 
-* Bilingual File: [emea-aut-vat-statement-details.74bed2444937ab4f44b087817782ea7f62e35230.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/6823eb965403e03249ed29afc695f953bae65375/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-aut-vat-statement-details.74bed2444937ab4f44b087817782ea7f62e35230.de-de.xlf)
-* Bilingual Datetime: 2017-06-01 13:32:31
-* [Back to Top](#report-top)
-
-##### <a name='f1565c9c4dc07eede834904aca737760090b56022896'></a> Source: [financials\localizations\emea-bank-reconciliation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-bank-reconciliation.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [financials\localizations\emea-bank-reconciliation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/b21360a8e9df3a32a4941207f2b1a035a922bcd8/financials/localizations/emea-bank-reconciliation.md)
-* Handoff File: [emea-bank-reconciliation.e59f6b2f895a0952834c1d38c4697c56d0b03a1b.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/06fac891f3930ac2cf46a58d3faf443210bd4c72/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-bank-reconciliation.e59f6b2f895a0952834c1d38c4697c56d0b03a1b.de-de.xlf)
-* Handoff Datetime: 2017-06-08 10:02:48
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: [emea-bank-reconciliation.e59f6b2f895a0952834c1d38c4697c56d0b03a1b.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b181202ce12e65fd21d7a2498c56922f620a940a/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-bank-reconciliation.e59f6b2f895a0952834c1d38c4697c56d0b03a1b.de-de.xlf)
-* Archive Datetime: 2017-06-08 10:02:59
-* Handback File: [emea-bank-reconciliation.e59f6b2f895a0952834c1d38c4697c56d0b03a1b.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/14ae78a8edfe96f7b7f791b9da81f344a4df6f41/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-bank-reconciliation.e59f6b2f895a0952834c1d38c4697c56d0b03a1b.de-de.xlf)
-* Handback Datetime: 2017-06-08 10:15:45
-* Handback Name: 
-* Bilingual File: [emea-bank-reconciliation.e59f6b2f895a0952834c1d38c4697c56d0b03a1b.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/6823eb965403e03249ed29afc695f953bae65375/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-bank-reconciliation.e59f6b2f895a0952834c1d38c4697c56d0b03a1b.de-de.xlf)
-* Bilingual Datetime: 2017-06-01 13:32:31
-* [Back to Top](#report-top)
-
-##### <a name='5b058ef8017c3697e560a6ca4cbf3787ffba00252901'></a> Source: [financials\localizations\emea-che-esr-customer-payments-import.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-che-esr-customer-payments-import.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [financials\localizations\emea-che-esr-customer-payments-import.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/b21360a8e9df3a32a4941207f2b1a035a922bcd8/financials/localizations/emea-che-esr-customer-payments-import.md)
-* Handoff File: [emea-che-esr-customer-payments-import.8682f830d2f9247f1a858d020d691c41b3bceed7.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/06fac891f3930ac2cf46a58d3faf443210bd4c72/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-che-esr-customer-payments-import.8682f830d2f9247f1a858d020d691c41b3bceed7.de-de.xlf)
-* Handoff Datetime: 2017-06-08 10:02:48
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: [emea-che-esr-customer-payments-import.8682f830d2f9247f1a858d020d691c41b3bceed7.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b181202ce12e65fd21d7a2498c56922f620a940a/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-che-esr-customer-payments-import.8682f830d2f9247f1a858d020d691c41b3bceed7.de-de.xlf)
-* Archive Datetime: 2017-06-08 10:02:59
-* Handback File: [emea-che-esr-customer-payments-import.8682f830d2f9247f1a858d020d691c41b3bceed7.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/14ae78a8edfe96f7b7f791b9da81f344a4df6f41/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-che-esr-customer-payments-import.8682f830d2f9247f1a858d020d691c41b3bceed7.de-de.xlf)
-* Handback Datetime: 2017-06-08 10:15:45
-* Handback Name: 
-* Bilingual File: [emea-che-esr-customer-payments-import.8682f830d2f9247f1a858d020d691c41b3bceed7.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/6823eb965403e03249ed29afc695f953bae65375/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-che-esr-customer-payments-import.8682f830d2f9247f1a858d020d691c41b3bceed7.de-de.xlf)
-* Bilingual Datetime: 2017-06-01 13:32:31
-* [Back to Top](#report-top)
-
-##### <a name='9af245fc18e7c4bdc3e640948fe03d9a8497f8f12911'></a> Source: [financials\localizations\emea-deu-additional-acquisition-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-deu-additional-acquisition-depreciation.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [financials\localizations\emea-deu-additional-acquisition-depreciation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/b21360a8e9df3a32a4941207f2b1a035a922bcd8/financials/localizations/emea-deu-additional-acquisition-depreciation.md)
-* Handoff File: [emea-deu-additional-acquisition-depreciation.fa141e773ce957ce60f569a0327bfce7a23bc9b6.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/06fac891f3930ac2cf46a58d3faf443210bd4c72/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-deu-additional-acquisition-depreciation.fa141e773ce957ce60f569a0327bfce7a23bc9b6.de-de.xlf)
-* Handoff Datetime: 2017-06-08 10:02:48
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: [emea-deu-additional-acquisition-depreciation.fa141e773ce957ce60f569a0327bfce7a23bc9b6.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b181202ce12e65fd21d7a2498c56922f620a940a/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-deu-additional-acquisition-depreciation.fa141e773ce957ce60f569a0327bfce7a23bc9b6.de-de.xlf)
-* Archive Datetime: 2017-06-08 10:02:59
-* Handback File: [emea-deu-additional-acquisition-depreciation.fa141e773ce957ce60f569a0327bfce7a23bc9b6.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/14ae78a8edfe96f7b7f791b9da81f344a4df6f41/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-deu-additional-acquisition-depreciation.fa141e773ce957ce60f569a0327bfce7a23bc9b6.de-de.xlf)
-* Handback Datetime: 2017-06-08 10:15:45
-* Handback Name: 
-* Bilingual File: [emea-deu-additional-acquisition-depreciation.fa141e773ce957ce60f569a0327bfce7a23bc9b6.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/6823eb965403e03249ed29afc695f953bae65375/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-deu-additional-acquisition-depreciation.fa141e773ce957ce60f569a0327bfce7a23bc9b6.de-de.xlf)
-* Bilingual Datetime: 2017-06-01 13:32:31
-* [Back to Top](#report-top)
-
-##### <a name='28b26caddf383d45c28045a621eb7ea86f9c28ba2912'></a> Source: [financials\localizations\emea-deu-gdpdu-audit-data-export.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-deu-gdpdu-audit-data-export.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [financials\localizations\emea-deu-gdpdu-audit-data-export.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/b21360a8e9df3a32a4941207f2b1a035a922bcd8/financials/localizations/emea-deu-gdpdu-audit-data-export.md)
-* Handoff File: [emea-deu-gdpdu-audit-data-export.1a02b50f86ddbd4d838750e80e393827445e2fc1.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/06fac891f3930ac2cf46a58d3faf443210bd4c72/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-deu-gdpdu-audit-data-export.1a02b50f86ddbd4d838750e80e393827445e2fc1.de-de.xlf)
-* Handoff Datetime: 2017-06-08 10:02:48
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: [emea-deu-gdpdu-audit-data-export.1a02b50f86ddbd4d838750e80e393827445e2fc1.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b181202ce12e65fd21d7a2498c56922f620a940a/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-deu-gdpdu-audit-data-export.1a02b50f86ddbd4d838750e80e393827445e2fc1.de-de.xlf)
-* Archive Datetime: 2017-06-08 10:02:59
-* Handback File: [emea-deu-gdpdu-audit-data-export.1a02b50f86ddbd4d838750e80e393827445e2fc1.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/14ae78a8edfe96f7b7f791b9da81f344a4df6f41/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-deu-gdpdu-audit-data-export.1a02b50f86ddbd4d838750e80e393827445e2fc1.de-de.xlf)
-* Handback Datetime: 2017-06-08 10:15:45
-* Handback Name: 
-* Bilingual File: [emea-deu-gdpdu-audit-data-export.1a02b50f86ddbd4d838750e80e393827445e2fc1.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/6823eb965403e03249ed29afc695f953bae65375/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-deu-gdpdu-audit-data-export.1a02b50f86ddbd4d838750e80e393827445e2fc1.de-de.xlf)
-* Bilingual Datetime: 2017-06-01 13:32:31
-* [Back to Top](#report-top)
-
-##### <a name='14e5a94f64bf4ba1b679eee1745db82ad8af772d2913'></a> Source: [financials\localizations\emea-deu-journal-list-report.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-deu-journal-list-report.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [financials\localizations\emea-deu-journal-list-report.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/b21360a8e9df3a32a4941207f2b1a035a922bcd8/financials/localizations/emea-deu-journal-list-report.md)
-* Handoff File: [emea-deu-journal-list-report.0bea95c832e567a3721cce7d28b4bb195057d6de.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/06fac891f3930ac2cf46a58d3faf443210bd4c72/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-deu-journal-list-report.0bea95c832e567a3721cce7d28b4bb195057d6de.de-de.xlf)
-* Handoff Datetime: 2017-06-08 10:02:48
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: [emea-deu-journal-list-report.0bea95c832e567a3721cce7d28b4bb195057d6de.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b181202ce12e65fd21d7a2498c56922f620a940a/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-deu-journal-list-report.0bea95c832e567a3721cce7d28b4bb195057d6de.de-de.xlf)
-* Archive Datetime: 2017-06-08 10:02:59
-* Handback File: [emea-deu-journal-list-report.0bea95c832e567a3721cce7d28b4bb195057d6de.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/14ae78a8edfe96f7b7f791b9da81f344a4df6f41/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-deu-journal-list-report.0bea95c832e567a3721cce7d28b4bb195057d6de.de-de.xlf)
-* Handback Datetime: 2017-06-08 10:15:45
-* Handback Name: 
-* Bilingual File: [emea-deu-journal-list-report.0bea95c832e567a3721cce7d28b4bb195057d6de.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/6823eb965403e03249ed29afc695f953bae65375/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-deu-journal-list-report.0bea95c832e567a3721cce7d28b4bb195057d6de.de-de.xlf)
-* Bilingual Datetime: 2017-06-01 13:32:31
-* [Back to Top](#report-top)
-
-##### <a name='c68543583a05187e35da438b746439e066d0308d2914'></a> Source: [financials\localizations\emea-deu-print-separate-label-credit-memo-originating-sales.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-deu-print-separate-label-credit-memo-originating-sales.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [financials\localizations\emea-deu-print-separate-label-credit-memo-originating-sales.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/b21360a8e9df3a32a4941207f2b1a035a922bcd8/financials/localizations/emea-deu-print-separate-label-credit-memo-originating-sales.md)
-* Handoff File: [emea-deu-print-separate-label-credit-memo-originating-sales.fb8be48692139a4e8ec67dcbef7fc318cc395e98.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/06fac891f3930ac2cf46a58d3faf443210bd4c72/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-deu-print-separate-label-credit-memo-originating-sales.fb8be48692139a4e8ec67dcbef7fc318cc395e98.de-de.xlf)
-* Handoff Datetime: 2017-06-08 10:02:48
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: [emea-deu-print-separate-label-credit-memo-originating-sales.fb8be48692139a4e8ec67dcbef7fc318cc395e98.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b181202ce12e65fd21d7a2498c56922f620a940a/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-deu-print-separate-label-credit-memo-originating-sales.fb8be48692139a4e8ec67dcbef7fc318cc395e98.de-de.xlf)
-* Archive Datetime: 2017-06-08 10:02:59
-* Handback File: [emea-deu-print-separate-label-credit-memo-originating-sales.fb8be48692139a4e8ec67dcbef7fc318cc395e98.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/14ae78a8edfe96f7b7f791b9da81f344a4df6f41/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-deu-print-separate-label-credit-memo-originating-sales.fb8be48692139a4e8ec67dcbef7fc318cc395e98.de-de.xlf)
-* Handback Datetime: 2017-06-08 10:15:45
-* Handback Name: 
-* Bilingual File: [emea-deu-print-separate-label-credit-memo-originating-sales.fb8be48692139a4e8ec67dcbef7fc318cc395e98.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/6823eb965403e03249ed29afc695f953bae65375/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-deu-print-separate-label-credit-memo-originating-sales.fb8be48692139a4e8ec67dcbef7fc318cc395e98.de-de.xlf)
-* Bilingual Datetime: 2017-06-01 13:32:31
-* [Back to Top](#report-top)
-
-##### <a name='09d37fce2df4e409da187ac00dbc005dd56c7eb82916'></a> Source: [financials\localizations\emea-entry-certificates.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-entry-certificates.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [financials\localizations\emea-entry-certificates.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/b21360a8e9df3a32a4941207f2b1a035a922bcd8/financials/localizations/emea-entry-certificates.md)
-* Handoff File: [emea-entry-certificates.5931ce58a932fb7de9f25918c20868379dd4ea83.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/06fac891f3930ac2cf46a58d3faf443210bd4c72/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-entry-certificates.5931ce58a932fb7de9f25918c20868379dd4ea83.de-de.xlf)
-* Handoff Datetime: 2017-06-08 10:02:48
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: [emea-entry-certificates.5931ce58a932fb7de9f25918c20868379dd4ea83.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b181202ce12e65fd21d7a2498c56922f620a940a/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-entry-certificates.5931ce58a932fb7de9f25918c20868379dd4ea83.de-de.xlf)
-* Archive Datetime: 2017-06-08 10:02:59
-* Handback File: [emea-entry-certificates.5931ce58a932fb7de9f25918c20868379dd4ea83.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/14ae78a8edfe96f7b7f791b9da81f344a4df6f41/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-entry-certificates.5931ce58a932fb7de9f25918c20868379dd4ea83.de-de.xlf)
-* Handback Datetime: 2017-06-08 10:15:45
-* Handback Name: 
-* Bilingual File: [emea-entry-certificates.5931ce58a932fb7de9f25918c20868379dd4ea83.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/6823eb965403e03249ed29afc695f953bae65375/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-entry-certificates.5931ce58a932fb7de9f25918c20868379dd4ea83.de-de.xlf)
-* Bilingual Datetime: 2017-06-01 13:32:31
-* [Back to Top](#report-top)
-
-##### <a name='0d1525a69998e1800ed29238a5861f764824134c2930'></a> Source: [financials\localizations\emea-eur-payment-slip-report-giro.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-eur-payment-slip-report-giro.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [financials\localizations\emea-eur-payment-slip-report-giro.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/b21360a8e9df3a32a4941207f2b1a035a922bcd8/financials/localizations/emea-eur-payment-slip-report-giro.md)
-* Handoff File: [emea-eur-payment-slip-report-giro.68a038840b0203dd6b7fc77400bfa2dda190a2ee.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/06fac891f3930ac2cf46a58d3faf443210bd4c72/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-eur-payment-slip-report-giro.68a038840b0203dd6b7fc77400bfa2dda190a2ee.de-de.xlf)
-* Handoff Datetime: 2017-06-08 10:02:48
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: [emea-eur-payment-slip-report-giro.68a038840b0203dd6b7fc77400bfa2dda190a2ee.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b181202ce12e65fd21d7a2498c56922f620a940a/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-eur-payment-slip-report-giro.68a038840b0203dd6b7fc77400bfa2dda190a2ee.de-de.xlf)
-* Archive Datetime: 2017-06-08 10:02:59
-* Handback File: [emea-eur-payment-slip-report-giro.68a038840b0203dd6b7fc77400bfa2dda190a2ee.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/14ae78a8edfe96f7b7f791b9da81f344a4df6f41/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-eur-payment-slip-report-giro.68a038840b0203dd6b7fc77400bfa2dda190a2ee.de-de.xlf)
-* Handback Datetime: 2017-06-08 10:15:45
-* Handback Name: 
-* Bilingual File: [emea-eur-payment-slip-report-giro.68a038840b0203dd6b7fc77400bfa2dda190a2ee.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/1b0feb3d56cfd8295f83a237ddc9b97e268f5981/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-eur-payment-slip-report-giro.68a038840b0203dd6b7fc77400bfa2dda190a2ee.de-de.xlf)
-* Bilingual Datetime: 2017-06-08 07:14:17
-* [Back to Top](#report-top)
-
-##### <a name='52a80e91fb8233488a45e0f81fb050393429d31d2929'></a> Source: [financials\localizations\emea-eu-sales-list.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-eu-sales-list.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [financials\localizations\emea-eu-sales-list.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/b21360a8e9df3a32a4941207f2b1a035a922bcd8/financials/localizations/emea-eu-sales-list.md)
-* Handoff File: [emea-eu-sales-list.2c2994d8688de91d18e3533622a32c2bdf8c0b8a.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/06fac891f3930ac2cf46a58d3faf443210bd4c72/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-eu-sales-list.2c2994d8688de91d18e3533622a32c2bdf8c0b8a.de-de.xlf)
-* Handoff Datetime: 2017-06-08 10:02:48
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: [emea-eu-sales-list.2c2994d8688de91d18e3533622a32c2bdf8c0b8a.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b181202ce12e65fd21d7a2498c56922f620a940a/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-eu-sales-list.2c2994d8688de91d18e3533622a32c2bdf8c0b8a.de-de.xlf)
-* Archive Datetime: 2017-06-08 10:02:59
-* Handback File: [emea-eu-sales-list.2c2994d8688de91d18e3533622a32c2bdf8c0b8a.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/14ae78a8edfe96f7b7f791b9da81f344a4df6f41/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-eu-sales-list.2c2994d8688de91d18e3533622a32c2bdf8c0b8a.de-de.xlf)
-* Handback Datetime: 2017-06-08 10:15:45
-* Handback Name: 
-* Bilingual File: [emea-eu-sales-list.2c2994d8688de91d18e3533622a32c2bdf8c0b8a.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/6823eb965403e03249ed29afc695f953bae65375/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-eu-sales-list.2c2994d8688de91d18e3533622a32c2bdf8c0b8a.de-de.xlf)
-* Bilingual Datetime: 2017-06-01 13:32:31
-* [Back to Top](#report-top)
-
-##### <a name='d08dec45cb422929372408befb60908ddafd009f2948'></a> Source: [financials\localizations\emea-invoice-issue-deadline.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-invoice-issue-deadline.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [financials\localizations\emea-invoice-issue-deadline.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/b21360a8e9df3a32a4941207f2b1a035a922bcd8/financials/localizations/emea-invoice-issue-deadline.md)
-* Handoff File: [emea-invoice-issue-deadline.28b1ae5f3f64a45db1fe765746eb1d1d8af0bdb5.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/06fac891f3930ac2cf46a58d3faf443210bd4c72/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-invoice-issue-deadline.28b1ae5f3f64a45db1fe765746eb1d1d8af0bdb5.de-de.xlf)
-* Handoff Datetime: 2017-06-08 10:02:48
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: [emea-invoice-issue-deadline.28b1ae5f3f64a45db1fe765746eb1d1d8af0bdb5.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b181202ce12e65fd21d7a2498c56922f620a940a/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-invoice-issue-deadline.28b1ae5f3f64a45db1fe765746eb1d1d8af0bdb5.de-de.xlf)
-* Archive Datetime: 2017-06-08 10:02:59
-* Handback File: [emea-invoice-issue-deadline.28b1ae5f3f64a45db1fe765746eb1d1d8af0bdb5.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/14ae78a8edfe96f7b7f791b9da81f344a4df6f41/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-invoice-issue-deadline.28b1ae5f3f64a45db1fe765746eb1d1d8af0bdb5.de-de.xlf)
-* Handback Datetime: 2017-06-08 10:15:45
-* Handback Name: 
-* Bilingual File: [emea-invoice-issue-deadline.28b1ae5f3f64a45db1fe765746eb1d1d8af0bdb5.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/6823eb965403e03249ed29afc695f953bae65375/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-invoice-issue-deadline.28b1ae5f3f64a45db1fe765746eb1d1d8af0bdb5.de-de.xlf)
-* Bilingual Datetime: 2017-06-01 13:32:31
-* [Back to Top](#report-top)
-
-##### <a name='a2ec1772ab2da757f55585c8df1f1a933470bf472977'></a> Source: [financials\localizations\emea-registration-ids.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-registration-ids.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [financials\localizations\emea-registration-ids.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/b21360a8e9df3a32a4941207f2b1a035a922bcd8/financials/localizations/emea-registration-ids.md)
-* Handoff File: [emea-registration-ids.fa5347aad0d50a424e1f6456512eadd1f4281f7e.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/06fac891f3930ac2cf46a58d3faf443210bd4c72/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-registration-ids.fa5347aad0d50a424e1f6456512eadd1f4281f7e.de-de.xlf)
-* Handoff Datetime: 2017-06-08 10:02:48
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: [emea-registration-ids.fa5347aad0d50a424e1f6456512eadd1f4281f7e.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b181202ce12e65fd21d7a2498c56922f620a940a/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-registration-ids.fa5347aad0d50a424e1f6456512eadd1f4281f7e.de-de.xlf)
-* Archive Datetime: 2017-06-08 10:02:59
-* Handback File: [emea-registration-ids.fa5347aad0d50a424e1f6456512eadd1f4281f7e.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/14ae78a8edfe96f7b7f791b9da81f344a4df6f41/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-registration-ids.fa5347aad0d50a424e1f6456512eadd1f4281f7e.de-de.xlf)
-* Handback Datetime: 2017-06-08 10:15:45
-* Handback Name: 
-* Bilingual File: [emea-registration-ids.fa5347aad0d50a424e1f6456512eadd1f4281f7e.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/6823eb965403e03249ed29afc695f953bae65375/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-registration-ids.fa5347aad0d50a424e1f6456512eadd1f4281f7e.de-de.xlf)
-* Bilingual Datetime: 2017-06-01 13:32:31
-* [Back to Top](#report-top)
-
-##### <a name='405d1401880c5ad13f6f43bcc2e82935d60aeffb2979'></a> Source: [financials\localizations\emea-select-file-formats-for-the-method-of-payments.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-select-file-formats-for-the-method-of-payments.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [financials\localizations\emea-select-file-formats-for-the-method-of-payments.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/b21360a8e9df3a32a4941207f2b1a035a922bcd8/financials/localizations/emea-select-file-formats-for-the-method-of-payments.md)
-* Handoff File: [emea-select-file-formats-for-the-method-of-payments.8d0c4b31eaa5d635e3baa6ffcc23aba0a4af594e.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/06fac891f3930ac2cf46a58d3faf443210bd4c72/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-select-file-formats-for-the-method-of-payments.8d0c4b31eaa5d635e3baa6ffcc23aba0a4af594e.de-de.xlf)
-* Handoff Datetime: 2017-06-08 10:02:48
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: [emea-select-file-formats-for-the-method-of-payments.8d0c4b31eaa5d635e3baa6ffcc23aba0a4af594e.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b181202ce12e65fd21d7a2498c56922f620a940a/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-select-file-formats-for-the-method-of-payments.8d0c4b31eaa5d635e3baa6ffcc23aba0a4af594e.de-de.xlf)
-* Archive Datetime: 2017-06-08 10:02:59
-* Handback File: [emea-select-file-formats-for-the-method-of-payments.8d0c4b31eaa5d635e3baa6ffcc23aba0a4af594e.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/14ae78a8edfe96f7b7f791b9da81f344a4df6f41/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-select-file-formats-for-the-method-of-payments.8d0c4b31eaa5d635e3baa6ffcc23aba0a4af594e.de-de.xlf)
-* Handback Datetime: 2017-06-08 10:15:45
-* Handback Name: 
-* Bilingual File: [emea-select-file-formats-for-the-method-of-payments.8d0c4b31eaa5d635e3baa6ffcc23aba0a4af594e.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/6823eb965403e03249ed29afc695f953bae65375/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-select-file-formats-for-the-method-of-payments.8d0c4b31eaa5d635e3baa6ffcc23aba0a4af594e.de-de.xlf)
-* Bilingual Datetime: 2017-06-01 13:32:31
-* [Back to Top](#report-top)
-
-##### <a name='de072969e16b1a67b590911d36ff173e6792d35b2986'></a> Source: [financials\localizations\emea-vat-reporting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/financials/localizations/emea-vat-reporting.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [financials\localizations\emea-vat-reporting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/b21360a8e9df3a32a4941207f2b1a035a922bcd8/financials/localizations/emea-vat-reporting.md)
-* Handoff File: [emea-vat-reporting.a5bb0d5168a67be5442cfa84c5ee20435ec1a218.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/06fac891f3930ac2cf46a58d3faf443210bd4c72/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-vat-reporting.a5bb0d5168a67be5442cfa84c5ee20435ec1a218.de-de.xlf)
-* Handoff Datetime: 2017-06-08 10:02:48
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: [emea-vat-reporting.a5bb0d5168a67be5442cfa84c5ee20435ec1a218.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b181202ce12e65fd21d7a2498c56922f620a940a/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-vat-reporting.a5bb0d5168a67be5442cfa84c5ee20435ec1a218.de-de.xlf)
-* Archive Datetime: 2017-06-08 10:02:59
-* Handback File: [emea-vat-reporting.a5bb0d5168a67be5442cfa84c5ee20435ec1a218.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/14ae78a8edfe96f7b7f791b9da81f344a4df6f41/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-vat-reporting.a5bb0d5168a67be5442cfa84c5ee20435ec1a218.de-de.xlf)
-* Handback Datetime: 2017-06-08 10:15:45
-* Handback Name: 
-* Bilingual File: [emea-vat-reporting.a5bb0d5168a67be5442cfa84c5ee20435ec1a218.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/1b0feb3d56cfd8295f83a237ddc9b97e268f5981/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-vat-reporting.a5bb0d5168a67be5442cfa84c5ee20435ec1a218.de-de.xlf)
-* Bilingual Datetime: 2017-06-08 07:14:17
-* [Back to Top](#report-top)
-
-##### <a name='6a4c9d51aad30aea3eab4cd8df0a4856f90e94743451'></a> Source: [retail\info-codes-retail.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/5d33dc3fa7f422a67a7c5449e8c3fafa4a1578fc/retail/info-codes-retail.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [retail\info-codes-retail.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/b21360a8e9df3a32a4941207f2b1a035a922bcd8/retail/info-codes-retail.md)
-* Handoff File: [info-codes-retail.59d1b41662b0f4b5e2e860fd9fd1789b977ec0c1.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/06fac891f3930ac2cf46a58d3faf443210bd4c72/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/info-codes-retail.59d1b41662b0f4b5e2e860fd9fd1789b977ec0c1.de-de.xlf)
-* Handoff Datetime: 2017-06-08 10:02:48
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: [info-codes-retail.59d1b41662b0f4b5e2e860fd9fd1789b977ec0c1.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/b181202ce12e65fd21d7a2498c56922f620a940a/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/info-codes-retail.59d1b41662b0f4b5e2e860fd9fd1789b977ec0c1.de-de.xlf)
-* Archive Datetime: 2017-06-08 10:02:59
-* Handback File: [info-codes-retail.59d1b41662b0f4b5e2e860fd9fd1789b977ec0c1.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/14ae78a8edfe96f7b7f791b9da81f344a4df6f41/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/info-codes-retail.59d1b41662b0f4b5e2e860fd9fd1789b977ec0c1.de-de.xlf)
-* Handback Datetime: 2017-06-08 10:15:45
-* Handback Name: 
-* Bilingual File: [info-codes-retail.59d1b41662b0f4b5e2e860fd9fd1789b977ec0c1.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/6823eb965403e03249ed29afc695f953bae65375/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/info-codes-retail.59d1b41662b0f4b5e2e860fd9fd1789b977ec0c1.de-de.xlf)
-* Bilingual Datetime: 2017-06-01 13:32:31
+* Bilingual File: [emea-entry-certificates.5931ce58a932fb7de9f25918c20868379dd4ea83.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/14ae78a8edfe96f7b7f791b9da81f344a4df6f41/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/emea-entry-certificates.5931ce58a932fb7de9f25918c20868379dd4ea83.de-de.xlf)
+* Bilingual Datetime: 2017-06-08 10:20:08
 * [Back to Top](#report-top)
 
 
 ## Error Details
+##### <a name='ae1cda425ade2428b87ad4d7a147ccc1ff98e5542667cache_file_not_found'></a> Source: [financials\accounts-payable\accounting-distributions.md](#ae1cda425ade2428b87ad4d7a147ccc1ff98e5542667)
+* Error Code: cache_file_not_found
+* Error Message: The skeleton or source cache file of b1057caae6f47e5a17e194834fbbcb9d7d731605 is not found.
+* Retriable: False
+* Error Details: {"internal_error_code":"cache_file_not_found","internal_error_message":"The skeleton or source cache file of b1057caae6f47e5a17e194834fbbcb9d7d731605 is not found.","internal_error_retriable":false,"exception_message":"The skeleton or source cache file of b1057caae6f47e5a17e194834fbbcb9d7d731605 is not found.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
+
+##### <a name='c16b78eacf00fb81208d562576954426df083c332668cache_file_not_found'></a> Source: [financials\accounts-payable\accounting-source-explorer.md](#c16b78eacf00fb81208d562576954426df083c332668)
+* Error Code: cache_file_not_found
+* Error Message: The skeleton or source cache file of 8913e61285d5d180883471991b659ddcb260afe3 is not found.
+* Retriable: False
+* Error Details: {"internal_error_code":"cache_file_not_found","internal_error_message":"The skeleton or source cache file of 8913e61285d5d180883471991b659ddcb260afe3 is not found.","internal_error_retriable":false,"exception_message":"The skeleton or source cache file of 8913e61285d5d180883471991b659ddcb260afe3 is not found.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
+
+##### <a name='75aefa4fe184459c2f8ca454a15e404e7938d0f72669cache_file_not_found'></a> Source: [financials\accounts-payable\accounts-payable-invoice-matching.md](#75aefa4fe184459c2f8ca454a15e404e7938d0f72669)
+* Error Code: cache_file_not_found
+* Error Message: The skeleton or source cache file of 8d4f84df5722aaff5589cb30314657578fec964f is not found.
+* Retriable: False
+* Error Details: {"internal_error_code":"cache_file_not_found","internal_error_message":"The skeleton or source cache file of 8d4f84df5722aaff5589cb30314657578fec964f is not found.","internal_error_retriable":false,"exception_message":"The skeleton or source cache file of 8d4f84df5722aaff5589cb30314657578fec964f is not found.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
+
+##### <a name='378a054273be4aa65acfb453cb4f53016f6da21b2676cache_file_not_found'></a> Source: [financials\accounts-payable\invoice-matching-intercompany-purchase-orders.md](#378a054273be4aa65acfb453cb4f53016f6da21b2676)
+* Error Code: cache_file_not_found
+* Error Message: The skeleton or source cache file of 45d0b24ed0a79176803a6efefc216f7e30fec86c is not found.
+* Retriable: False
+* Error Details: {"internal_error_code":"cache_file_not_found","internal_error_message":"The skeleton or source cache file of 45d0b24ed0a79176803a6efefc216f7e30fec86c is not found.","internal_error_retriable":false,"exception_message":"The skeleton or source cache file of 45d0b24ed0a79176803a6efefc216f7e30fec86c is not found.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
+
+##### <a name='9d95bb3c663095ca7d0c7a0fc1935b7242510b452715cache_file_not_found'></a> Source: [financials\accounts-payable\project-invoicing.md](#9d95bb3c663095ca7d0c7a0fc1935b7242510b452715)
+* Error Code: cache_file_not_found
+* Error Message: The skeleton or source cache file of f09aef9cf1e516b80f908c34b2b3c3397dde8a0f is not found.
+* Retriable: False
+* Error Details: {"internal_error_code":"cache_file_not_found","internal_error_message":"The skeleton or source cache file of f09aef9cf1e516b80f908c34b2b3c3397dde8a0f is not found.","internal_error_retriable":false,"exception_message":"The skeleton or source cache file of f09aef9cf1e516b80f908c34b2b3c3397dde8a0f is not found.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
+
 
 Generated by OpenLocalization.
