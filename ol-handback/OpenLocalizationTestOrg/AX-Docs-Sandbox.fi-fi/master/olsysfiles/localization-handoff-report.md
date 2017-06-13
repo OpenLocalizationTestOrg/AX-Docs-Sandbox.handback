@@ -1,37 +1,22 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 2
+ Total Files | 1
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [retail\dev-itpro\hardware-station-extensibility.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/7a8ce2c15a4e80e74cce9415bd10c3171906bc1d/retail/dev-itpro/hardware-station-extensibility.md) | HandedOffFailed | [Details](#b9f109aca4f3580306ac130a2cc100f956feea743272)
- [scm\warehousing\replenishment.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/59585c6dc49157ea5342c18ad25210e7bd71d9f2/scm/warehousing/replenishment.md) | HandedOffSuccess | [Details](#d422957a3d153fdd0047e51803c50176f6d4fe6b3863)
 
 ## Item Details
 ##### <a name='b9f109aca4f3580306ac130a2cc100f956feea743272'></a> Source: [retail\dev-itpro\hardware-station-extensibility.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/7a8ce2c15a4e80e74cce9415bd10c3171906bc1d/retail/dev-itpro/hardware-station-extensibility.md)
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-08 13:00:57
+* Handoff Datetime: 2017-06-13 05:18:40
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#b9f109aca4f3580306ac130a2cc100f956feea743272handoff_transform_failed)
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
-##### <a name='d422957a3d153fdd0047e51803c50176f6d4fe6b3863'></a> Source: [scm\warehousing\replenishment.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/59585c6dc49157ea5342c18ad25210e7bd71d9f2/scm/warehousing/replenishment.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [replenishment.e9daaecd537d725b167fe98e63cc49444d23cd40.fi-fi.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/96dee76c11f23726e97d9edecceec90b4d2fef27/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.fi-fi/master/basic/replenishment.e9daaecd537d725b167fe98e63cc49444d23cd40.fi-fi.xlf)
-* Handoff Datetime: 2017-06-08 13:00:57
-* Handoff Reason: Include
-* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
