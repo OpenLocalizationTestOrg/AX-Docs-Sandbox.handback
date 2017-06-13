@@ -20807,6 +20807,18 @@
       "XliffHash": "51201a76f3df382bd1270d1a509f207fcf03ff25",
       "TranslationType": 1,
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\61fa5dd3580c769457ea2cfdc669f68bd3b30980.76803255dc5579865094982ba0568d820169f8be.xml"
+    },
+    "financials\\localizations\\latam-bra-ciap-fixed-asset.md.465e2c308a4c7b9e596bfecf8a56773c99a302a0.HT": {
+      "SourceFilename": "financials\\localizations\\latam-bra-ciap-fixed-asset.md",
+      "XliffHash": "465e2c308a4c7b9e596bfecf8a56773c99a302a0",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\4caa15a786f0d2dbc37360b81b8f031a4d1be1be.b513ada32dc9952d90635e850ff4dd50c80aef51.xml"
+    },
+    "dev-itpro\\user-interface\\data-validation-workspace.md.9f00feb06def35fade5b906578be1fe856c3ca4b.HT": {
+      "SourceFilename": "dev-itpro\\user-interface\\data-validation-workspace.md",
+      "XliffHash": "9f00feb06def35fade5b906578be1fe856c3ca4b",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\3f7c45c900152c915f3878cb778c677a0b318575.96c0e8f8694eec3b09f449f90c4425112e4193b7.xml"
     }
   }
 }

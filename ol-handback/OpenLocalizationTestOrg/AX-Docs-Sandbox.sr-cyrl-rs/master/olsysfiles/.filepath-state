@@ -18775,6 +18775,9 @@
   "6178a9b1b5497672d68dee84a09800307ea60f54": [
     "dev-itpro\\mobile-apps\\manager-self-service-mobile-workspace.md"
   ],
+  "3f7c45c900152c915f3878cb778c677a0b318575": [
+    "dev-itpro\\user-interface\\data-validation-workspace.md"
+  ],
   "473738bddb848e641d93c37d4347df35df8a7da0": [
     "dev-itpro\\user-interface\\data-validation-workspace.md"
   ],
@@ -18825,6 +18828,9 @@
   ],
   "f1907364062dfeae8e062c6bf16b87d43883343b": [
     "financials\\localizations\\emea-tax-directives.md"
+  ],
+  "4caa15a786f0d2dbc37360b81b8f031a4d1be1be": [
+    "financials\\localizations\\latam-bra-ciap-fixed-asset.md"
   ],
   "3239b9d1fbce8a39e3b4e706bb6cc4b0cb0d9830": [
     "financials\\localizations\\latam-bra-ciap-fixed-asset.md"
