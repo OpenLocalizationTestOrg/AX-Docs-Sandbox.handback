@@ -1,20 +1,35 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 2
+ Total Files | 3
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [dev-itpro\user-interface\data-validation-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f1a2098585a4000310cd0cc1f6a73a7b4eed28b5/dev-itpro/user-interface/data-validation-workspace.md) | HandedOffSuccess | [Details](#3f7c45c900152c915f3878cb778c677a0b3185752120)
+ [core\get-started\glossary.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/get-started/glossary.md) | HandedOffSuccess | [Details](#dbad1a054d69c463bf7fbc8ee76050e91ac1876913)
+ [core\hr\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f1a2098585a4000310cd0cc1f6a73a7b4eed28b5/core/hr/TOC.md) | HandedOffSuccess | [Details](#45d185f87a18c45220f3aec9bfd8f667c1dbc3d3127)
  [retail\dev-itpro\hardware-station-extensibility.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/7a8ce2c15a4e80e74cce9415bd10c3171906bc1d/retail/dev-itpro/hardware-station-extensibility.md) | HandedOffFailed | [Details](#b9f109aca4f3580306ac130a2cc100f956feea743323)
 
 ## Item Details
-##### <a name='3f7c45c900152c915f3878cb778c677a0b3185752120'></a> Source: [dev-itpro\user-interface\data-validation-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f1a2098585a4000310cd0cc1f6a73a7b4eed28b5/dev-itpro/user-interface/data-validation-workspace.md)
+##### <a name='dbad1a054d69c463bf7fbc8ee76050e91ac1876913'></a> Source: [core\get-started\glossary.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/get-started/glossary.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [data-validation-workspace.d8407d5c3e021bc1d39584fd317e2d229b8dc4e6.fr-fr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/be16bbef094173c5ef7b008c7080fafc241e09b6/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.fr-fr/master/basic/data-validation-workspace.d8407d5c3e021bc1d39584fd317e2d229b8dc4e6.fr-fr.xlf)
-* Handoff Datetime: 2017-06-13 17:00:29
+* Handoff File: [glossary.0b96a7f0309b9d098796c6a9a3e73b0c200dba99.fr-fr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/c4da7b288b1e495575664e56cf2c95a85dc0a769/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.fr-fr/master/premium/glossary.0b96a7f0309b9d098796c6a9a3e73b0c200dba99.fr-fr.xlf)
+* Handoff Datetime: 2017-06-13 19:02:12
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='45d185f87a18c45220f3aec9bfd8f667c1dbc3d3127'></a> Source: [core\hr\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f1a2098585a4000310cd0cc1f6a73a7b4eed28b5/core/hr/TOC.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [TOC.39697070eb7ab6e5bc09f72d05f942b1c3b1d518.fr-fr.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/c4da7b288b1e495575664e56cf2c95a85dc0a769/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.fr-fr/master/premium/TOC.39697070eb7ab6e5bc09f72d05f942b1c3b1d518.fr-fr.xlf)
+* Handoff Datetime: 2017-06-13 19:02:12
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -28,7 +43,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-13 17:00:29
+* Handoff Datetime: 2017-06-13 19:02:12
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#b9f109aca4f3580306ac130a2cc100f956feea743323handoff_transform_failed)
