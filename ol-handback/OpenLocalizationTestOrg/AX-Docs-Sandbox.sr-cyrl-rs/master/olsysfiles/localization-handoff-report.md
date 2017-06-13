@@ -6,22 +6,50 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
+ [core\get-started\glossary.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/get-started/glossary.md) | HandedOffSuccess | [Details](#dbad1a054d69c463bf7fbc8ee76050e91ac1876913)
+ [core\hr\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/TOC.md) | HandedOffSuccess | [Details](#45d185f87a18c45220f3aec9bfd8f667c1dbc3d3127)
  [dev-itpro\lifecycle-services\business-process-modeler-lcs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/business-process-modeler-lcs.md) | HandedOffFailed | [Details](#ef653d61f240c8f79be4a988670599971352e8e21616)
  [dev-itpro\lifecycle-services\configuration-manager-lcs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/configuration-manager-lcs.md) | HandedOffFailed | [Details](#3f6e4a109d9ea78bf2a852e8cf1d5bc1c44f15551619)
  [dev-itpro\lifecycle-services\copy-configuration-lcs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/copy-configuration-lcs.md) | HandedOffFailed | [Details](#8c5e891160c20abd4de90b7b9621abf016871b3b1622)
  [dev-itpro\lifecycle-services\flowcharts-business-process-modeler.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/flowcharts-business-process-modeler.md) | HandedOffFailed | [Details](#a7a6378bd6bd58dcdfd2c0b577ca91e5130b44ca1624)
  [dev-itpro\lifecycle-services\set-up-configuration-manager-lcs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/set-up-configuration-manager-lcs.md) | HandedOffFailed | [Details](#16b5be1dae6457ed7d06cb509a67a7a0bc33052f1767)
- [dev-itpro\user-interface\data-validation-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f1a2098585a4000310cd0cc1f6a73a7b4eed28b5/dev-itpro/user-interface/data-validation-workspace.md) | HandedOffSuccess | [Details](#3f7c45c900152c915f3878cb778c677a0b3185752120)
  [financials\general-ledger\financial-dimensions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/general-ledger/financial-dimensions.md) | HandedOffFailed | [Details](#11bfafd91920c4cbb2a89480b51168a17a9536803000)
- [financials\localizations\latam-bra-ciap-fixed-asset.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f1a2098585a4000310cd0cc1f6a73a7b4eed28b5/financials/localizations/latam-bra-ciap-fixed-asset.md) | HandedOffSuccess | [Details](#4caa15a786f0d2dbc37360b81b8f031a4d1be1be3166)
  [retail\dev-itpro\hardware-station-extensibility.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/7a8ce2c15a4e80e74cce9415bd10c3171906bc1d/retail/dev-itpro/hardware-station-extensibility.md) | HandedOffFailed | [Details](#b9f109aca4f3580306ac130a2cc100f956feea743323)
 
 ## Item Details
+##### <a name='dbad1a054d69c463bf7fbc8ee76050e91ac1876913'></a> Source: [core\get-started\glossary.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/get-started/glossary.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [glossary.0b96a7f0309b9d098796c6a9a3e73b0c200dba99.sr-cyrl-rs.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/ab6571f3129dbd3526be02c9a2bb72c1b832e35f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.sr-cyrl-rs/master/premium/glossary.0b96a7f0309b9d098796c6a9a3e73b0c200dba99.sr-cyrl-rs.xlf)
+* Handoff Datetime: 2017-06-13 19:11:48
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='45d185f87a18c45220f3aec9bfd8f667c1dbc3d3127'></a> Source: [core\hr\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/core/hr/TOC.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [TOC.39697070eb7ab6e5bc09f72d05f942b1c3b1d518.sr-cyrl-rs.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/ab6571f3129dbd3526be02c9a2bb72c1b832e35f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.sr-cyrl-rs/master/premium/TOC.39697070eb7ab6e5bc09f72d05f942b1c3b1d518.sr-cyrl-rs.xlf)
+* Handoff Datetime: 2017-06-13 19:11:48
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
 ##### <a name='ef653d61f240c8f79be4a988670599971352e8e21616'></a> Source: [dev-itpro\lifecycle-services\business-process-modeler-lcs.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/dev-itpro/lifecycle-services/business-process-modeler-lcs.md)
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-13 17:10:18
+* Handoff Datetime: 2017-06-13 19:11:48
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#ef653d61f240c8f79be4a988670599971352e8e21616handoff_transform_failed)
@@ -36,7 +64,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-13 17:10:18
+* Handoff Datetime: 2017-06-13 19:11:48
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#3f6e4a109d9ea78bf2a852e8cf1d5bc1c44f15551619handoff_transform_failed)
@@ -51,7 +79,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-13 17:10:18
+* Handoff Datetime: 2017-06-13 19:11:48
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#8c5e891160c20abd4de90b7b9621abf016871b3b1622handoff_transform_failed)
@@ -66,7 +94,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-13 17:10:18
+* Handoff Datetime: 2017-06-13 19:11:48
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#a7a6378bd6bd58dcdfd2c0b577ca91e5130b44ca1624handoff_transform_failed)
@@ -81,24 +109,10 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-13 17:10:18
+* Handoff Datetime: 2017-06-13 19:11:48
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#16b5be1dae6457ed7d06cb509a67a7a0bc33052f1767handoff_transform_failed)
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
-##### <a name='3f7c45c900152c915f3878cb778c677a0b3185752120'></a> Source: [dev-itpro\user-interface\data-validation-workspace.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f1a2098585a4000310cd0cc1f6a73a7b4eed28b5/dev-itpro/user-interface/data-validation-workspace.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [data-validation-workspace.d8407d5c3e021bc1d39584fd317e2d229b8dc4e6.sr-cyrl-rs.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/fa468c62e8b3a3baf71f29dbeb8704f0087b6106/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.sr-cyrl-rs/master/basic/data-validation-workspace.d8407d5c3e021bc1d39584fd317e2d229b8dc4e6.sr-cyrl-rs.xlf)
-* Handoff Datetime: 2017-06-13 17:10:18
-* Handoff Reason: Include
-* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -110,24 +124,10 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-13 17:10:18
+* Handoff Datetime: 2017-06-13 19:11:48
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#11bfafd91920c4cbb2a89480b51168a17a9536803000handoff_transform_failed)
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
-##### <a name='4caa15a786f0d2dbc37360b81b8f031a4d1be1be3166'></a> Source: [financials\localizations\latam-bra-ciap-fixed-asset.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/f1a2098585a4000310cd0cc1f6a73a7b4eed28b5/financials/localizations/latam-bra-ciap-fixed-asset.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [latam-bra-ciap-fixed-asset.2afe5e003655da6fb928feef7b6288b89e5d0fe5.sr-cyrl-rs.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/fa468c62e8b3a3baf71f29dbeb8704f0087b6106/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.sr-cyrl-rs/master/basic/latam-bra-ciap-fixed-asset.2afe5e003655da6fb928feef7b6288b89e5d0fe5.sr-cyrl-rs.xlf)
-* Handoff Datetime: 2017-06-13 17:10:18
-* Handoff Reason: Include
-* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -139,7 +139,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-13 17:10:18
+* Handoff Datetime: 2017-06-13 19:11:48
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#b9f109aca4f3580306ac130a2cc100f956feea743323handoff_transform_failed)
