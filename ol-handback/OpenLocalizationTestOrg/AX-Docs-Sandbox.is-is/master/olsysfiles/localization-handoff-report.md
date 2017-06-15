@@ -1,49 +1,19 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 3
+ Total Files | 1
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [dev-itpro\migration-upgrade\upgrade-functional-validation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b92928afbedcd4b7e6e04933011eea0f4c8d603e/dev-itpro/migration-upgrade/upgrade-functional-validation.md) | HandedOffSuccess | [Details](#73ef7e03021542885e57bf4ace7512293bb9a8131929)
- [dev-itpro\migration-upgrade\upgrade-go-live-prep.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b92928afbedcd4b7e6e04933011eea0f4c8d603e/dev-itpro/migration-upgrade/upgrade-go-live-prep.md) | HandedOffSuccess | [Details](#de74c4ebf8be9ceac1d69d5959bd74245a95c9e61930)
  [retail\dev-itpro\hardware-station-extensibility.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/7a8ce2c15a4e80e74cce9415bd10c3171906bc1d/retail/dev-itpro/hardware-station-extensibility.md) | HandedOffFailed | [Details](#b9f109aca4f3580306ac130a2cc100f956feea743367)
 
 ## Item Details
-##### <a name='73ef7e03021542885e57bf4ace7512293bb9a8131929'></a> Source: [dev-itpro\migration-upgrade\upgrade-functional-validation.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b92928afbedcd4b7e6e04933011eea0f4c8d603e/dev-itpro/migration-upgrade/upgrade-functional-validation.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [upgrade-functional-validation.aa5f6f4c9b840e45547871d1ef57707f0d9da7a4.is-is.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/ddbf2f0914fb53987bf5c3aaeb9e2517b988aac8/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.is-is/master/do-not-translate/upgrade-functional-validation.aa5f6f4c9b840e45547871d1ef57707f0d9da7a4.is-is.xlf)
-* Handoff Datetime: 2017-06-15 11:39:25
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
-##### <a name='de74c4ebf8be9ceac1d69d5959bd74245a95c9e61930'></a> Source: [dev-itpro\migration-upgrade\upgrade-go-live-prep.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b92928afbedcd4b7e6e04933011eea0f4c8d603e/dev-itpro/migration-upgrade/upgrade-go-live-prep.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [upgrade-go-live-prep.c0054dc5f936afa59124f595a894a1d8ab4f98e1.is-is.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/ddbf2f0914fb53987bf5c3aaeb9e2517b988aac8/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.is-is/master/basic/upgrade-go-live-prep.c0054dc5f936afa59124f595a894a1d8ab4f98e1.is-is.xlf)
-* Handoff Datetime: 2017-06-15 11:39:25
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
 ##### <a name='b9f109aca4f3580306ac130a2cc100f956feea743367'></a> Source: [retail\dev-itpro\hardware-station-extensibility.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/7a8ce2c15a4e80e74cce9415bd10c3171906bc1d/retail/dev-itpro/hardware-station-extensibility.md)
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-15 11:39:25
+* Handoff Datetime: 2017-06-15 14:37:29
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#b9f109aca4f3580306ac130a2cc100f956feea743367handoff_transform_failed)
