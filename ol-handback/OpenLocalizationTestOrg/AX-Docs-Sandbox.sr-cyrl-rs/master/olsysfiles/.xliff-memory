@@ -21167,6 +21167,18 @@
       "XliffHash": "1441330fcfc97d80869ab656cf00c5f40d7c18ea",
       "TranslationType": 1,
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\ac20530780e0f514659f6366f6a43555b2fd379e.9a5c19db915caa93b7a7aa71274fe0d720bc2e91.xml"
+    },
+    "dev-itpro\\migration-upgrade\\upgrade-go-live-prep.md.97076b00028371b72a28606f75ae6149bc7b5cc3.HT": {
+      "SourceFilename": "dev-itpro\\migration-upgrade\\upgrade-go-live-prep.md",
+      "XliffHash": "97076b00028371b72a28606f75ae6149bc7b5cc3",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\de74c4ebf8be9ceac1d69d5959bd74245a95c9e6.a41b31329e1417f33306a4d57983b86ee0a48c65.xml"
+    },
+    "dev-itpro\\migration-upgrade\\upgrade-functional-validation.md.a2ef708686a838082bd3ed210944f064f3a32442.HT": {
+      "SourceFilename": "dev-itpro\\migration-upgrade\\upgrade-functional-validation.md",
+      "XliffHash": "a2ef708686a838082bd3ed210944f064f3a32442",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\73ef7e03021542885e57bf4ace7512293bb9a813.34aa999d278183a93f2c7176949eaa57b7ba155f.xml"
     }
   }
 }

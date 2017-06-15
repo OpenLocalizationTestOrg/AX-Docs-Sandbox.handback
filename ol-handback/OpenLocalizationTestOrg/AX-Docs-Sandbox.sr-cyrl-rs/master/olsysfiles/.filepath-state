@@ -19164,8 +19164,14 @@
   "3d8967779a6b6be7f8483a3e0819544eb6ba2bbc": [
     "dev-itpro\\migration-upgrade\\upgrade-data-sandbox.md"
   ],
+  "73ef7e03021542885e57bf4ace7512293bb9a813": [
+    "dev-itpro\\migration-upgrade\\upgrade-functional-validation.md"
+  ],
   "f4f32b3d97f7e71d20d16f00d8c8d0d3ff771837": [
     "dev-itpro\\migration-upgrade\\upgrade-functional-validation.md"
+  ],
+  "de74c4ebf8be9ceac1d69d5959bd74245a95c9e6": [
+    "dev-itpro\\migration-upgrade\\upgrade-go-live-prep.md"
   ],
   "64aeae61fc0f73d3d84789a501d959c1351a117b": [
     "dev-itpro\\migration-upgrade\\upgrade-go-live-prep.md"
