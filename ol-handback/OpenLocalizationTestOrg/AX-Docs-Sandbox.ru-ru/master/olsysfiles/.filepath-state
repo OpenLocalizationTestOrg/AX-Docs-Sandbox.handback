@@ -17071,5 +17071,11 @@
   ],
   "c75093843ac35f485c412648ec596c5567ab6337": [
     "retail\\dev-itpro\\overview-upgrade-n-minus1.md"
+  ],
+  "73ef7e03021542885e57bf4ace7512293bb9a813": [
+    "dev-itpro\\migration-upgrade\\upgrade-functional-validation.md"
+  ],
+  "de74c4ebf8be9ceac1d69d5959bd74245a95c9e6": [
+    "dev-itpro\\migration-upgrade\\upgrade-go-live-prep.md"
   ]
 }
