@@ -12090,7 +12090,7 @@
       "TranslationType": 1,
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\699f4bdfbbedaf9e24f553a1c5c04e5aea618eb9.782bbe12ab2eb0c7995783d830639c7183f7175e.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\basic\\advanced-formatting-options-financial-reporting.fc45f0e65beec53d78808d1c4bf4cc45aa695c5e.da-dk.xlf",
-      "LocXliffCommit": "9fee99d4843397a4d8f7d67daa6225b1267e59dd"
+      "LocXliffCommit": "0f7a143021be72fbcdf77c9950f014b086236687"
     },
     "financials\\localizations\\TOC.md.3dac446ce5455d6826a068f8a42578f42de97a01.HT": {
       "SourceFilename": "financials\\localizations\\TOC.md",
@@ -12646,7 +12646,7 @@
       "TranslationType": 1,
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\52733719f6174657cbc1cf786f027f2304e2cb8f.d19da47c5c8c01bdfbe1128dd88533926cabbd14.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\basic\\organize-components-report-designer.f645d2848cb6c455053bddc4f1322d1c6049da14.da-dk.xlf",
-      "LocXliffCommit": "9fee99d4843397a4d8f7d67daa6225b1267e59dd"
+      "LocXliffCommit": "0f7a143021be72fbcdf77c9950f014b086236687"
     },
     "scm\\production-control\\inventory-on-hand-mobile-workspace.md.07db58973cb21fccb9bd08f6d9f6e1e440aa7bd4.HT": {
       "SourceFilename": "scm\\production-control\\inventory-on-hand-mobile-workspace.md",
@@ -13266,7 +13266,7 @@
       "TranslationType": 1,
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\8211d814fa490a7b82780bb68eb5bd4c49126a99.1dc533313a508444716248cae03ea1dd5bdd835d.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\basic\\design-financial-report-definitions.5f36c9fb0e9957e8139ef914f424b3836d4406d5.da-dk.xlf",
-      "LocXliffCommit": "9fee99d4843397a4d8f7d67daa6225b1267e59dd"
+      "LocXliffCommit": "0f7a143021be72fbcdf77c9950f014b086236687"
     },
     "core\\organization-administration\\configure-parallel-activity-workflow.md.eb9a269d9b31ee4db3588939e3856aeb1a65ed10.HT": {
       "SourceFilename": "core\\organization-administration\\configure-parallel-activity-workflow.md",
@@ -15804,7 +15804,7 @@
       "TranslationType": 1,
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\40ae4e0774c5752d697baba6c8add8aaf44fbb6d.b2e777985f6b3977959b0a00bce1df2fd9b3d0d7.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\basic\\modify-row-definition-cells-financial-reporting.28f6cad43c04c3c8c4ed51ff50040db32582e301.da-dk.xlf",
-      "LocXliffCommit": "9fee99d4843397a4d8f7d67daa6225b1267e59dd"
+      "LocXliffCommit": "0f7a143021be72fbcdf77c9950f014b086236687"
     },
     "dev-itpro\\lifecycle-services\\ax-2012\\install-dixf.md.3e8b1e47af73d722e01ba90c15d002073b990e5b.HT": {
       "SourceFilename": "dev-itpro\\lifecycle-services\\ax-2012\\install-dixf.md",
