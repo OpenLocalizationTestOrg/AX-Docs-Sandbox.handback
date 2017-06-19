@@ -6,17 +6,17 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [retail\dev-itpro\hardware-station-extensibility.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/7a8ce2c15a4e80e74cce9415bd10c3171906bc1d/retail/dev-itpro/hardware-station-extensibility.md) | HandedOffFailed | [Details](#b9f109aca4f3580306ac130a2cc100f956feea743367)
+ [retail\dev-itpro\hardware-station-extensibility.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/7a8ce2c15a4e80e74cce9415bd10c3171906bc1d/retail/dev-itpro/hardware-station-extensibility.md) | HandedOffFailed | [Details](#b9f109aca4f3580306ac130a2cc100f956feea743368)
 
 ## Item Details
-##### <a name='b9f109aca4f3580306ac130a2cc100f956feea743367'></a> Source: [retail\dev-itpro\hardware-station-extensibility.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/7a8ce2c15a4e80e74cce9415bd10c3171906bc1d/retail/dev-itpro/hardware-station-extensibility.md)
+##### <a name='b9f109aca4f3580306ac130a2cc100f956feea743368'></a> Source: [retail\dev-itpro\hardware-station-extensibility.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/7a8ce2c15a4e80e74cce9415bd10c3171906bc1d/retail/dev-itpro/hardware-station-extensibility.md)
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-15 14:37:29
+* Handoff Datetime: 2017-06-19 14:36:50
 * Handoff Reason: Ignored
 * Handoff Name: 
-* Handoff Error: [handoff_transform_failed](#b9f109aca4f3580306ac130a2cc100f956feea743367handoff_transform_failed)
+* Handoff Error: [handoff_transform_failed](#b9f109aca4f3580306ac130a2cc100f956feea743368handoff_transform_failed)
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -26,7 +26,7 @@
 
 
 ## Error Details
-##### <a name='b9f109aca4f3580306ac130a2cc100f956feea743367handoff_transform_failed'></a> Source: [retail\dev-itpro\hardware-station-extensibility.md](#b9f109aca4f3580306ac130a2cc100f956feea743367)
+##### <a name='b9f109aca4f3580306ac130a2cc100f956feea743368handoff_transform_failed'></a> Source: [retail\dev-itpro\hardware-station-extensibility.md](#b9f109aca4f3580306ac130a2cc100f956feea743368)
 * Error Code: handoff_transform_failed
 * Error Message: Handoff source file: retail\dev-itpro\hardware-station-extensibility.md transformed failed.
 * Retriable: False
