@@ -1,96 +1,7 @@
 {
-  "filters": [
+  "filters": [ 
     {
-      "metadata": {
-        "audience": [
-          "Developer",
-          "Developer, IT Pro",
-          "IT Pro, Developer",
-          "IT Pro"
-        ]
-      },
-      "priorities": [
-        {
-          "priority": "do-not-translate",
-          "locales": [
-            "ar-sa",
-            "zh-cn",
-            "cs-cz",
-            "da-dk",
-            "nl-nl",
-            "et-ee",
-            "fi-fi",
-            "fr-fr",
-            "de-de",
-            "hu-hu",
-            "is-is",
-            "it-it",
-            "ja-jp",
-            "lv-lv",
-            "lt-lt",
-            "nb-no",
-            "pl-pl",
-            "pt-br",
-            "ru-ru",
-            "es-es",
-            "sv-se",
-            "th-th",
-            "tr-tr",
-            "sr-cyrl-rs"
-          ]
-        }
-      ]
-    },
-    {
-      "metadata": {
-        "ms.search.region": [
-          "Australia",
-          "Ireland",
-          "Malaysia",
-          "Singapore",
-          "United Kingdom",
-          "United States",
-          "USA"
-        ]
-      },
-      "priorities": [
-        {
-          "priority": "do-not-translate",
-          "locales": [
-            "ar-sa",
-            "zh-cn",
-            "cs-cz",
-            "da-dk",
-            "nl-nl",
-            "et-ee",
-            "fi-fi",
-            "fr-fr",
-            "de-de",
-            "hu-hu",
-            "is-is",
-            "it-it",
-            "ja-jp",
-            "lv-lv",
-            "lt-lt",
-            "nb-no",
-            "pl-pl",
-            "pt-br",
-            "ru-ru",
-            "es-es",
-            "sv-se",
-            "th-th",
-            "tr-tr",
-            "sr-cyrl-rs"
-          ]
-        }
-      ]
-    },
-    {
-      "metadata": {
-        "title": [
-          "Finance and Operations glossary"
-        ]
-      },
+      "metadataExpression": "audience.Contains(\"Application User\") && title.Contains(\"Finance and Operations glossary\")",
       "priorities": [
         {
           "priority": "premium",
@@ -124,11 +35,41 @@
       ]
     },
     {
-      "metadata": {
-        "ms.search.industry": [
-          "Public sector"
-        ]
-      },
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\")",
+      "priorities": [
+        {
+          "priority": "business-process",
+          "locales": [
+            "ar-sa",
+            "zh-cn",
+            "cs-cz",
+            "da-dk",
+            "nl-nl",
+            "et-ee",
+            "fi-fi",
+            "fr-fr",
+            "de-de",
+            "hu-hu",
+            "is-is",
+            "it-it",
+            "ja-jp",
+            "lv-lv",
+            "lt-lt",
+            "nb-no",
+            "pl-pl",
+            "pt-br",
+            "ru-ru",
+            "es-es",
+            "sv-se",
+            "th-th",
+            "tr-tr",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.industry.Contains(\"Public sector\")",
       "priorities": [
         {
           "priority": "basic",
@@ -141,46 +82,7 @@
       ]
     },
     {
-      "metadata": {
-        "ms.search.industry": [
-          "Public sector"
-        ]
-      },
-      "priorities": [
-        {
-          "priority": "do-not-translate",
-          "locales": [
-            "ar-sa",
-            "zh-cn",
-            "cs-cz",
-            "nl-nl",
-            "et-ee",
-            "fi-fi",
-            "de-de",
-            "hu-hu",
-            "is-is",
-            "it-it",
-            "ja-jp",
-            "lv-lv",
-            "lt-lt",
-            "nb-no",
-            "pl-pl",
-            "pt-br",
-            "ru-ru",
-            "es-es",
-            "sv-se",
-            "th-th",
-            "tr-tr"
-          ]
-        }
-      ]
-    },
-    {
-      "metadata": {
-        "ms.topic": [
-          "index-page"
-        ]
-      },
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"index-page\")",
       "priorities": [
         {
           "priority": "premium",
@@ -214,11 +116,7 @@
       ]
     },
     {
-      "metadata": {
-        "ms.search.region": [
-          "global"
-        ]
-      },
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(\"global\")",
       "priorities": [
         {
           "priority": "basic",
@@ -592,53 +490,11 @@
     },
     {
       "files": [
-        "dev-itpro/index.md",
-        "dev-itpro/**/TOC.md",
-        "retail/dev-itpro/TOC.md",
-        "dev-itpro/includes/banner.md"
-      ],
-      "priorities": [
-        {
-          "priority": "do-not-translate",
-          "locales": [
-            "ar-sa",
-            "zh-cn",
-            "cs-cz",
-            "da-dk",
-            "nl-nl",
-            "et-ee",
-            "fi-fi",
-            "fr-fr",
-            "de-de",
-            "hu-hu",
-            "is-is",
-            "it-it",
-            "ja-jp",
-            "lv-lv",
-            "lt-lt",
-            "nb-no",
-            "pl-pl",
-            "pt-br",
-            "ru-ru",
-            "es-es",
-            "sv-se",
-            "th-th",
-            "tr-tr",
-            "sr-cyrl-rs"
-          ]
-        }
-      ]
-    },
-    {
-      "files": [
         "core/TOC.md",
-        "core/**/TOC.md",
         "dev-itpro/TOC.md",
         "financials/TOC.md",
-        "financials/**/TOC.md",
         "hr/TOC.md",
         "scm/TOC.md",
-        "scm/**/TOC.md",
         "retail/TOC.md",
         "core/includes/banner.md",
         "hr/includes/banner.md",
