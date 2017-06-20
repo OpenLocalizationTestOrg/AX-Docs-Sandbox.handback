@@ -1,32 +1,43 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 14
+ Total Files | 25
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [dev-itpro\analytics\financial-reporter-designer-web-client.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/6c333159eb317cb97c6dc2e45bfd58f3ac600343/dev-itpro/analytics/financial-reporter-designer-web-client.md) | HandedOffFailed | [Details](#ec6704cfeb0e1030bed8c79863ae11ea55043191212)
- [dev-itpro\database\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/6c333159eb317cb97c6dc2e45bfd58f3ac600343/dev-itpro/database/TOC.md) | HandedOffFailed | [Details](#4ee4812d592dba121c1d1f48196d65e1559e5809847)
- [dev-itpro\lifecycle-services\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/6c333159eb317cb97c6dc2e45bfd58f3ac600343/dev-itpro/lifecycle-services/TOC.md) | HandedOffFailed | [Details](#15c5ce6494fa8a7b82640e850d55e0e9e1f0b4391789)
- [dev-itpro\sysadmin\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/6c333159eb317cb97c6dc2e45bfd58f3ac600343/dev-itpro/sysadmin/TOC.md) | HandedOffFailed | [Details](#383a5d45c70e589d5089ca3fbcf1b232912f34dd2143)
- [retail\dev-itpro\call-crt-service-offline.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/6c333159eb317cb97c6dc2e45bfd58f3ac600343/retail/dev-itpro/call-crt-service-offline.md) | HandedOffFailed | [Details](#15713bb0327812e09013b6934eea69f50053ecf23352)
- [retail\dev-itpro\ecommerce-platform-sdk.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/6c333159eb317cb97c6dc2e45bfd58f3ac600343/retail/dev-itpro/ecommerce-platform-sdk.md) | HandedOffFailed | [Details](#b4ce7b55581c83dae9982d5f12c3d01a425bf9d33363)
- [retail\dev-itpro\extend-commerce-data-exchange.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/6c333159eb317cb97c6dc2e45bfd58f3ac600343/retail/dev-itpro/extend-commerce-data-exchange.md) | HandedOffFailed | [Details](#d51c98c4c58ef1bb642ffb0e56c246bd4201a2fa3365)
- [retail\dev-itpro\hardware-station-extensibility.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/6c333159eb317cb97c6dc2e45bfd58f3ac600343/retail/dev-itpro/hardware-station-extensibility.md) | HandedOffFailed | [Details](#b9f109aca4f3580306ac130a2cc100f956feea743368)
- [retail\dev-itpro\retail-modern-pos-offline.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/6c333159eb317cb97c6dc2e45bfd58f3ac600343/retail/dev-itpro/retail-modern-pos-offline.md) | HandedOffFailed | [Details](#89987f2b642aab239f60e7d4ae65a56df597b3993482)
- [retail\dev-itpro\retail-server-architecture.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/6c333159eb317cb97c6dc2e45bfd58f3ac600343/retail/dev-itpro/retail-server-architecture.md) | HandedOffFailed | [Details](#4f1970be1db3f6f455450c15102e1942924937a43533)
- [retail\dev-itpro\retail-server-customer-consumer-api.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/6c333159eb317cb97c6dc2e45bfd58f3ac600343/retail/dev-itpro/retail-server-customer-consumer-api.md) | HandedOffFailed | [Details](#08dbdb45248f5930fc0152ecc692f1edf9bd17763534)
- [retail\dev-itpro\retail-store-system-begin.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/6c333159eb317cb97c6dc2e45bfd58f3ac600343/retail/dev-itpro/retail-store-system-begin.md) | HandedOffFailed | [Details](#c129e53442fff7a565d3e0b95c891171e0903ddd3536)
- [retail\dev-itpro\trigger-example-blocking-transaction.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/6c333159eb317cb97c6dc2e45bfd58f3ac600343/retail/dev-itpro/trigger-example-blocking-transaction.md) | HandedOffFailed | [Details](#a82c74bbf87fba9d81f3e80c1d56d9aa54a32cb73539)
- [retail\dev-itpro\trigger-example-return-policy.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/6c333159eb317cb97c6dc2e45bfd58f3ac600343/retail/dev-itpro/trigger-example-return-policy.md) | HandedOffFailed | [Details](#de39154a78b3b3126b45593805ce56a8367e44173540)
+ [financials\localizations\emea-oioubl-standards-electronic-invoicing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-oioubl-standards-electronic-invoicing.md) | HandedOffFailed | [Details](#e86177dc4e129fe62826fec71c4773f329a66d0a3187)
+ [financials\public-sector\accounts-payable-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/public-sector/accounts-payable-public-sector.md) | HandedOffFailed | [Details](#855eb8777b50fb610b90c37a10e37062a3c4bdfe3280)
+ [financials\public-sector\accounts-receivable-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/public-sector/accounts-receivable-public-sector.md) | HandedOffSuccess | [Details](#b7e6dde8ee9e2caf874f4531424c3a78bfe0200a3281)
+ [financials\public-sector\advanced-ledger-entries-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/public-sector/advanced-ledger-entries-public-sector.md) | HandedOffSuccess | [Details](#713211b22c0624b36f2cb052a8952fd057be49803282)
+ [financials\public-sector\billing-classifications-billing-codes-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/public-sector/billing-classifications-billing-codes-public-sector.md) | HandedOffSuccess | [Details](#83d97f4c2f3d56858b604375a87daf231bb7b8903283)
+ [financials\public-sector\budget-analysis-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/public-sector/budget-analysis-public-sector.md) | HandedOffSuccess | [Details](#51790a47c93b0cfbdc39a8aa480bb641142eb0553284)
+ [financials\public-sector\budgeting-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/public-sector/budgeting-public-sector.md) | HandedOffSuccess | [Details](#f98df2facf777e51950deff36db9740c5bee79e43285)
+ [financials\public-sector\derived-financial-hierarchies-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/public-sector/derived-financial-hierarchies-public-sector.md) | HandedOffSuccess | [Details](#062e8225792dd789b73518cd222df4f499281ec13286)
+ [financials\public-sector\fixed-asset-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/public-sector/fixed-asset-public-sector.md) | HandedOffSuccess | [Details](#7002a2df4f2c49eb9f7b49eb79927c4738f98c393287)
+ [financials\public-sector\free-text-invoices-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/public-sector/free-text-invoices-public-sector.md) | HandedOffSuccess | [Details](#9987dba6213c709c2886cea8ddc59e1f8e84da413288)
+ [financials\public-sector\funds-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/public-sector/funds-public-sector.md) | HandedOffFailed | [Details](#21d610c169878b156aeefe1d20bd6ea183deae793289)
+ [financials\public-sector\general-ledger-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/public-sector/general-ledger-public-sector.md) | HandedOffSuccess | [Details](#5c5d69ba65c912a78d7c145d7ac1c1831a6591d23290)
+ [financials\public-sector\one-time-vendors-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/public-sector/one-time-vendors-public-sector.md) | HandedOffFailed | [Details](#639479834464b6a68579fb6fca9e4e0c1832a1213292)
+ [financials\public-sector\plan-one-time-vendors-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/public-sector/plan-one-time-vendors-public-sector.md) | HandedOffSuccess | [Details](#208206a8f566db81206572638a2fa38687e8bfbb3293)
+ [financials\public-sector\plan-public-sector-functionality.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/public-sector/plan-public-sector-functionality.md) | HandedOffFailed | [Details](#ec202de96ac9397f3d9b24be7dc75731fad798163294)
+ [financials\public-sector\posting-definitions-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/public-sector/posting-definitions-public-sector.md) | HandedOffSuccess | [Details](#3248192cc083b6bd33ec1b6faafebef8f80f50fa3295)
+ [financials\public-sector\preliminary-budgets-apportionments-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/public-sector/preliminary-budgets-apportionments-public-sector.md) | HandedOffSuccess | [Details](#441193b235468c1d868ef73c9cc72268f7a075793296)
+ [financials\public-sector\procurement-sourcing-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/public-sector/procurement-sourcing-public-sector.md) | HandedOffFailed | [Details](#cf1fbe904d70a26fb7692e921d0465707b8b422a3297)
+ [financials\public-sector\public-sector-functionality.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/public-sector/public-sector-functionality.md) | HandedOffFailed | [Details](#7a12c9678e60ab10d4693f1d9d20b77e31b7d84b3298)
+ [financials\public-sector\purchase-order-codes-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/public-sector/purchase-order-codes-public-sector.md) | HandedOffSuccess | [Details](#4b5e773645f5446b02c627a1d333b359dd0fe8083299)
+ [financials\public-sector\reimbursements-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/public-sector/reimbursements-public-sector.md) | HandedOffSuccess | [Details](#868018a921fd9ecf21dcd935c435ed0ccbf443ba3300)
+ [financials\public-sector\security-roles-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/public-sector/security-roles-public-sector.md) | HandedOffFailed | [Details](#7ab18fef7d2373fcc682ecacf83a981f067fae993301)
+ [financials\public-sector\settlement-priority-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/public-sector/settlement-priority-public-sector.md) | HandedOffFailed | [Details](#f9b77ee5de2f333e7791617694b66b18fe385c4d3302)
+ [financials\public-sector\year-end-processing-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/public-sector/year-end-processing-public-sector.md) | HandedOffSuccess | [Details](#acf92df86fbae784fa9bd462f2ee0b5ae3ac91e53303)
 
 ## Item Details
 ##### <a name='ec6704cfeb0e1030bed8c79863ae11ea55043191212'></a> Source: [dev-itpro\analytics\financial-reporter-designer-web-client.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/6c333159eb317cb97c6dc2e45bfd58f3ac600343/dev-itpro/analytics/financial-reporter-designer-web-client.md)
 * Status: HandedOffFailed
 * Target File: [dev-itpro\analytics\financial-reporter-designer-web-client.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/6691730d28303cb2a53eefe2dbf40f2bb24a87e4/dev-itpro/analytics/financial-reporter-designer-web-client.md)
 * Handoff File: 
-* Handoff Datetime: 2017-06-19 14:35:58
+* Handoff Datetime: 2017-06-20 17:21:59
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#ec6704cfeb0e1030bed8c79863ae11ea55043191212handoff_transform_failed)
@@ -39,14 +50,14 @@
 * Bilingual Datetime: 2017-06-01 13:32:31
 * [Back to Top](#report-top)
 
-##### <a name='4ee4812d592dba121c1d1f48196d65e1559e5809847'></a> Source: [dev-itpro\database\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/6c333159eb317cb97c6dc2e45bfd58f3ac600343/dev-itpro/database/TOC.md)
+##### <a name='e86177dc4e129fe62826fec71c4773f329a66d0a3187'></a> Source: [financials\localizations\emea-oioubl-standards-electronic-invoicing.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/localizations/emea-oioubl-standards-electronic-invoicing.md)
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-19 14:35:58
+* Handoff Datetime: 2017-06-20 17:21:59
 * Handoff Reason: Ignored
 * Handoff Name: 
-* Handoff Error: [handoff_transform_failed](#4ee4812d592dba121c1d1f48196d65e1559e5809847handoff_transform_failed)
+* Handoff Error: [handoff_transform_failed](#e86177dc4e129fe62826fec71c4773f329a66d0a3187handoff_transform_failed)
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -54,14 +65,14 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='15c5ce6494fa8a7b82640e850d55e0e9e1f0b4391789'></a> Source: [dev-itpro\lifecycle-services\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/6c333159eb317cb97c6dc2e45bfd58f3ac600343/dev-itpro/lifecycle-services/TOC.md)
+##### <a name='855eb8777b50fb610b90c37a10e37062a3c4bdfe3280'></a> Source: [financials\public-sector\accounts-payable-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/public-sector/accounts-payable-public-sector.md)
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-19 14:35:58
+* Handoff Datetime: 2017-06-20 17:21:59
 * Handoff Reason: Ignored
 * Handoff Name: 
-* Handoff Error: [handoff_transform_failed](#15c5ce6494fa8a7b82640e850d55e0e9e1f0b4391789handoff_transform_failed)
+* Handoff Error: [handoff_transform_failed](#855eb8777b50fb610b90c37a10e37062a3c4bdfe3280handoff_transform_failed)
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -69,14 +80,13 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='383a5d45c70e589d5089ca3fbcf1b232912f34dd2143'></a> Source: [dev-itpro\sysadmin\TOC.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/6c333159eb317cb97c6dc2e45bfd58f3ac600343/dev-itpro/sysadmin/TOC.md)
-* Status: HandedOffFailed
+##### <a name='b7e6dde8ee9e2caf874f4531424c3a78bfe0200a3281'></a> Source: [financials\public-sector\accounts-receivable-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/public-sector/accounts-receivable-public-sector.md)
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: 
-* Handoff Datetime: 2017-06-19 14:35:58
-* Handoff Reason: Ignored
+* Handoff File: [accounts-receivable-public-sector.15d9ee0527dad77e9eec104df4afb39eff370132.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7d10e812f3e92c3ba00d708180d3903e3b6d87cf/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/accounts-receivable-public-sector.15d9ee0527dad77e9eec104df4afb39eff370132.de-de.xlf)
+* Handoff Datetime: 2017-06-20 17:21:59
+* Handoff Reason: Include
 * Handoff Name: 
-* Handoff Error: [handoff_transform_failed](#383a5d45c70e589d5089ca3fbcf1b232912f34dd2143handoff_transform_failed)
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -84,14 +94,13 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='15713bb0327812e09013b6934eea69f50053ecf23352'></a> Source: [retail\dev-itpro\call-crt-service-offline.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/6c333159eb317cb97c6dc2e45bfd58f3ac600343/retail/dev-itpro/call-crt-service-offline.md)
-* Status: HandedOffFailed
+##### <a name='713211b22c0624b36f2cb052a8952fd057be49803282'></a> Source: [financials\public-sector\advanced-ledger-entries-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/public-sector/advanced-ledger-entries-public-sector.md)
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: 
-* Handoff Datetime: 2017-06-19 14:35:58
-* Handoff Reason: Ignored
+* Handoff File: [advanced-ledger-entries-public-sector.8818ecff22721349162b829b2164de91522c7058.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7d10e812f3e92c3ba00d708180d3903e3b6d87cf/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/advanced-ledger-entries-public-sector.8818ecff22721349162b829b2164de91522c7058.de-de.xlf)
+* Handoff Datetime: 2017-06-20 17:21:59
+* Handoff Reason: Include
 * Handoff Name: 
-* Handoff Error: [handoff_transform_failed](#15713bb0327812e09013b6934eea69f50053ecf23352handoff_transform_failed)
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -99,14 +108,13 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='b4ce7b55581c83dae9982d5f12c3d01a425bf9d33363'></a> Source: [retail\dev-itpro\ecommerce-platform-sdk.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/6c333159eb317cb97c6dc2e45bfd58f3ac600343/retail/dev-itpro/ecommerce-platform-sdk.md)
-* Status: HandedOffFailed
+##### <a name='83d97f4c2f3d56858b604375a87daf231bb7b8903283'></a> Source: [financials\public-sector\billing-classifications-billing-codes-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/public-sector/billing-classifications-billing-codes-public-sector.md)
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: 
-* Handoff Datetime: 2017-06-19 14:35:58
-* Handoff Reason: Ignored
+* Handoff File: [billing-classifications-billing-codes-public-sector.805a097151e70993527518267d714f45d86f71c3.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7d10e812f3e92c3ba00d708180d3903e3b6d87cf/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/billing-classifications-billing-codes-public-sector.805a097151e70993527518267d714f45d86f71c3.de-de.xlf)
+* Handoff Datetime: 2017-06-20 17:21:59
+* Handoff Reason: Include
 * Handoff Name: 
-* Handoff Error: [handoff_transform_failed](#b4ce7b55581c83dae9982d5f12c3d01a425bf9d33363handoff_transform_failed)
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -114,14 +122,13 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='d51c98c4c58ef1bb642ffb0e56c246bd4201a2fa3365'></a> Source: [retail\dev-itpro\extend-commerce-data-exchange.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/6c333159eb317cb97c6dc2e45bfd58f3ac600343/retail/dev-itpro/extend-commerce-data-exchange.md)
-* Status: HandedOffFailed
+##### <a name='51790a47c93b0cfbdc39a8aa480bb641142eb0553284'></a> Source: [financials\public-sector\budget-analysis-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/public-sector/budget-analysis-public-sector.md)
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: 
-* Handoff Datetime: 2017-06-19 14:35:58
-* Handoff Reason: Ignored
+* Handoff File: [budget-analysis-public-sector.7fd771030e8ad7a74be4232ab4c55679fe0675e0.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7d10e812f3e92c3ba00d708180d3903e3b6d87cf/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/budget-analysis-public-sector.7fd771030e8ad7a74be4232ab4c55679fe0675e0.de-de.xlf)
+* Handoff Datetime: 2017-06-20 17:21:59
+* Handoff Reason: Include
 * Handoff Name: 
-* Handoff Error: [handoff_transform_failed](#d51c98c4c58ef1bb642ffb0e56c246bd4201a2fa3365handoff_transform_failed)
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -129,14 +136,13 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='b9f109aca4f3580306ac130a2cc100f956feea743368'></a> Source: [retail\dev-itpro\hardware-station-extensibility.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/6c333159eb317cb97c6dc2e45bfd58f3ac600343/retail/dev-itpro/hardware-station-extensibility.md)
-* Status: HandedOffFailed
+##### <a name='f98df2facf777e51950deff36db9740c5bee79e43285'></a> Source: [financials\public-sector\budgeting-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/public-sector/budgeting-public-sector.md)
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: 
-* Handoff Datetime: 2017-06-19 14:35:58
-* Handoff Reason: Ignored
+* Handoff File: [budgeting-public-sector.580682dad4207b897a602559da497ae287b9be6c.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7d10e812f3e92c3ba00d708180d3903e3b6d87cf/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/budgeting-public-sector.580682dad4207b897a602559da497ae287b9be6c.de-de.xlf)
+* Handoff Datetime: 2017-06-20 17:21:59
+* Handoff Reason: Include
 * Handoff Name: 
-* Handoff Error: [handoff_transform_failed](#b9f109aca4f3580306ac130a2cc100f956feea743368handoff_transform_failed)
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -144,14 +150,13 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='89987f2b642aab239f60e7d4ae65a56df597b3993482'></a> Source: [retail\dev-itpro\retail-modern-pos-offline.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/6c333159eb317cb97c6dc2e45bfd58f3ac600343/retail/dev-itpro/retail-modern-pos-offline.md)
-* Status: HandedOffFailed
+##### <a name='062e8225792dd789b73518cd222df4f499281ec13286'></a> Source: [financials\public-sector\derived-financial-hierarchies-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/public-sector/derived-financial-hierarchies-public-sector.md)
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: 
-* Handoff Datetime: 2017-06-19 14:35:58
-* Handoff Reason: Ignored
+* Handoff File: [derived-financial-hierarchies-public-sector.d743a2a5a73afd7eb10ccf38abfda320beac2e96.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7d10e812f3e92c3ba00d708180d3903e3b6d87cf/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/derived-financial-hierarchies-public-sector.d743a2a5a73afd7eb10ccf38abfda320beac2e96.de-de.xlf)
+* Handoff Datetime: 2017-06-20 17:21:59
+* Handoff Reason: Include
 * Handoff Name: 
-* Handoff Error: [handoff_transform_failed](#89987f2b642aab239f60e7d4ae65a56df597b3993482handoff_transform_failed)
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -159,14 +164,13 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='4f1970be1db3f6f455450c15102e1942924937a43533'></a> Source: [retail\dev-itpro\retail-server-architecture.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/6c333159eb317cb97c6dc2e45bfd58f3ac600343/retail/dev-itpro/retail-server-architecture.md)
-* Status: HandedOffFailed
+##### <a name='7002a2df4f2c49eb9f7b49eb79927c4738f98c393287'></a> Source: [financials\public-sector\fixed-asset-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/public-sector/fixed-asset-public-sector.md)
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: 
-* Handoff Datetime: 2017-06-19 14:35:58
-* Handoff Reason: Ignored
+* Handoff File: [fixed-asset-public-sector.97f5264564e33409a31bf6c885baba7190119374.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7d10e812f3e92c3ba00d708180d3903e3b6d87cf/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/fixed-asset-public-sector.97f5264564e33409a31bf6c885baba7190119374.de-de.xlf)
+* Handoff Datetime: 2017-06-20 17:21:59
+* Handoff Reason: Include
 * Handoff Name: 
-* Handoff Error: [handoff_transform_failed](#4f1970be1db3f6f455450c15102e1942924937a43533handoff_transform_failed)
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -174,14 +178,13 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='08dbdb45248f5930fc0152ecc692f1edf9bd17763534'></a> Source: [retail\dev-itpro\retail-server-customer-consumer-api.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/6c333159eb317cb97c6dc2e45bfd58f3ac600343/retail/dev-itpro/retail-server-customer-consumer-api.md)
-* Status: HandedOffFailed
+##### <a name='9987dba6213c709c2886cea8ddc59e1f8e84da413288'></a> Source: [financials\public-sector\free-text-invoices-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/public-sector/free-text-invoices-public-sector.md)
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: 
-* Handoff Datetime: 2017-06-19 14:35:58
-* Handoff Reason: Ignored
+* Handoff File: [free-text-invoices-public-sector.64991ba5089a60a7bf42c28e5d987239ef377a8d.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7d10e812f3e92c3ba00d708180d3903e3b6d87cf/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/free-text-invoices-public-sector.64991ba5089a60a7bf42c28e5d987239ef377a8d.de-de.xlf)
+* Handoff Datetime: 2017-06-20 17:21:59
+* Handoff Reason: Include
 * Handoff Name: 
-* Handoff Error: [handoff_transform_failed](#08dbdb45248f5930fc0152ecc692f1edf9bd17763534handoff_transform_failed)
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -189,14 +192,14 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='c129e53442fff7a565d3e0b95c891171e0903ddd3536'></a> Source: [retail\dev-itpro\retail-store-system-begin.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/6c333159eb317cb97c6dc2e45bfd58f3ac600343/retail/dev-itpro/retail-store-system-begin.md)
+##### <a name='21d610c169878b156aeefe1d20bd6ea183deae793289'></a> Source: [financials\public-sector\funds-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/public-sector/funds-public-sector.md)
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-19 14:35:58
+* Handoff Datetime: 2017-06-20 17:21:59
 * Handoff Reason: Ignored
 * Handoff Name: 
-* Handoff Error: [handoff_transform_failed](#c129e53442fff7a565d3e0b95c891171e0903ddd3536handoff_transform_failed)
+* Handoff Error: [handoff_transform_failed](#21d610c169878b156aeefe1d20bd6ea183deae793289handoff_transform_failed)
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -204,14 +207,13 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='a82c74bbf87fba9d81f3e80c1d56d9aa54a32cb73539'></a> Source: [retail\dev-itpro\trigger-example-blocking-transaction.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/6c333159eb317cb97c6dc2e45bfd58f3ac600343/retail/dev-itpro/trigger-example-blocking-transaction.md)
-* Status: HandedOffFailed
+##### <a name='5c5d69ba65c912a78d7c145d7ac1c1831a6591d23290'></a> Source: [financials\public-sector\general-ledger-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/public-sector/general-ledger-public-sector.md)
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: 
-* Handoff Datetime: 2017-06-19 14:35:58
-* Handoff Reason: Ignored
+* Handoff File: [general-ledger-public-sector.87589be408f11c21497de8d8fb801a344294b605.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7d10e812f3e92c3ba00d708180d3903e3b6d87cf/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/general-ledger-public-sector.87589be408f11c21497de8d8fb801a344294b605.de-de.xlf)
+* Handoff Datetime: 2017-06-20 17:21:59
+* Handoff Reason: Include
 * Handoff Name: 
-* Handoff Error: [handoff_transform_failed](#a82c74bbf87fba9d81f3e80c1d56d9aa54a32cb73539handoff_transform_failed)
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -219,14 +221,173 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='de39154a78b3b3126b45593805ce56a8367e44173540'></a> Source: [retail\dev-itpro\trigger-example-return-policy.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/6c333159eb317cb97c6dc2e45bfd58f3ac600343/retail/dev-itpro/trigger-example-return-policy.md)
+##### <a name='639479834464b6a68579fb6fca9e4e0c1832a1213292'></a> Source: [financials\public-sector\one-time-vendors-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/public-sector/one-time-vendors-public-sector.md)
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2017-06-19 14:35:58
+* Handoff Datetime: 2017-06-20 17:21:59
 * Handoff Reason: Ignored
 * Handoff Name: 
-* Handoff Error: [handoff_transform_failed](#de39154a78b3b3126b45593805ce56a8367e44173540handoff_transform_failed)
+* Handoff Error: [handoff_transform_failed](#639479834464b6a68579fb6fca9e4e0c1832a1213292handoff_transform_failed)
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='208206a8f566db81206572638a2fa38687e8bfbb3293'></a> Source: [financials\public-sector\plan-one-time-vendors-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/public-sector/plan-one-time-vendors-public-sector.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [plan-one-time-vendors-public-sector.164c30a17df29bb21da17481d5bd7ad36db7d7c5.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7d10e812f3e92c3ba00d708180d3903e3b6d87cf/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/plan-one-time-vendors-public-sector.164c30a17df29bb21da17481d5bd7ad36db7d7c5.de-de.xlf)
+* Handoff Datetime: 2017-06-20 17:21:59
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='ec202de96ac9397f3d9b24be7dc75731fad798163294'></a> Source: [financials\public-sector\plan-public-sector-functionality.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/public-sector/plan-public-sector-functionality.md)
+* Status: HandedOffFailed
+* Target File: 
+* Handoff File: 
+* Handoff Datetime: 2017-06-20 17:21:59
+* Handoff Reason: Ignored
+* Handoff Name: 
+* Handoff Error: [handoff_transform_failed](#ec202de96ac9397f3d9b24be7dc75731fad798163294handoff_transform_failed)
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='3248192cc083b6bd33ec1b6faafebef8f80f50fa3295'></a> Source: [financials\public-sector\posting-definitions-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/public-sector/posting-definitions-public-sector.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [posting-definitions-public-sector.4877ee0851dc72abf97a84f21bade18dfa08ae58.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7d10e812f3e92c3ba00d708180d3903e3b6d87cf/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/posting-definitions-public-sector.4877ee0851dc72abf97a84f21bade18dfa08ae58.de-de.xlf)
+* Handoff Datetime: 2017-06-20 17:21:59
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='441193b235468c1d868ef73c9cc72268f7a075793296'></a> Source: [financials\public-sector\preliminary-budgets-apportionments-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/public-sector/preliminary-budgets-apportionments-public-sector.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [preliminary-budgets-apportionments-public-sector.48ff34d749bba231d1f3ade1a1d4d220470868a5.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7d10e812f3e92c3ba00d708180d3903e3b6d87cf/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/preliminary-budgets-apportionments-public-sector.48ff34d749bba231d1f3ade1a1d4d220470868a5.de-de.xlf)
+* Handoff Datetime: 2017-06-20 17:21:59
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='cf1fbe904d70a26fb7692e921d0465707b8b422a3297'></a> Source: [financials\public-sector\procurement-sourcing-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/public-sector/procurement-sourcing-public-sector.md)
+* Status: HandedOffFailed
+* Target File: 
+* Handoff File: 
+* Handoff Datetime: 2017-06-20 17:21:59
+* Handoff Reason: Ignored
+* Handoff Name: 
+* Handoff Error: [handoff_transform_failed](#cf1fbe904d70a26fb7692e921d0465707b8b422a3297handoff_transform_failed)
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='7a12c9678e60ab10d4693f1d9d20b77e31b7d84b3298'></a> Source: [financials\public-sector\public-sector-functionality.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/public-sector/public-sector-functionality.md)
+* Status: HandedOffFailed
+* Target File: 
+* Handoff File: 
+* Handoff Datetime: 2017-06-20 17:21:59
+* Handoff Reason: Ignored
+* Handoff Name: 
+* Handoff Error: [handoff_transform_failed](#7a12c9678e60ab10d4693f1d9d20b77e31b7d84b3298handoff_transform_failed)
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='4b5e773645f5446b02c627a1d333b359dd0fe8083299'></a> Source: [financials\public-sector\purchase-order-codes-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/public-sector/purchase-order-codes-public-sector.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [purchase-order-codes-public-sector.e741d9f81afc106db92f7943a540cfba5d432eb6.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7d10e812f3e92c3ba00d708180d3903e3b6d87cf/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/purchase-order-codes-public-sector.e741d9f81afc106db92f7943a540cfba5d432eb6.de-de.xlf)
+* Handoff Datetime: 2017-06-20 17:21:59
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='868018a921fd9ecf21dcd935c435ed0ccbf443ba3300'></a> Source: [financials\public-sector\reimbursements-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/public-sector/reimbursements-public-sector.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [reimbursements-public-sector.f245837585c36b9cbdce3cd941895570912241c3.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7d10e812f3e92c3ba00d708180d3903e3b6d87cf/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/reimbursements-public-sector.f245837585c36b9cbdce3cd941895570912241c3.de-de.xlf)
+* Handoff Datetime: 2017-06-20 17:21:59
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='7ab18fef7d2373fcc682ecacf83a981f067fae993301'></a> Source: [financials\public-sector\security-roles-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/public-sector/security-roles-public-sector.md)
+* Status: HandedOffFailed
+* Target File: 
+* Handoff File: 
+* Handoff Datetime: 2017-06-20 17:21:59
+* Handoff Reason: Ignored
+* Handoff Name: 
+* Handoff Error: [handoff_transform_failed](#7ab18fef7d2373fcc682ecacf83a981f067fae993301handoff_transform_failed)
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='f9b77ee5de2f333e7791617694b66b18fe385c4d3302'></a> Source: [financials\public-sector\settlement-priority-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/1f4224395caced864797997bdb29550f531f06a0/financials/public-sector/settlement-priority-public-sector.md)
+* Status: HandedOffFailed
+* Target File: 
+* Handoff File: 
+* Handoff Datetime: 2017-06-20 17:21:59
+* Handoff Reason: Ignored
+* Handoff Name: 
+* Handoff Error: [handoff_transform_failed](#f9b77ee5de2f333e7791617694b66b18fe385c4d3302handoff_transform_failed)
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='acf92df86fbae784fa9bd462f2ee0b5ae3ac91e53303'></a> Source: [financials\public-sector\year-end-processing-public-sector.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d421b161216d700f7819f1da8c0ca8ad089b5670/financials/public-sector/year-end-processing-public-sector.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [year-end-processing-public-sector.13b23b5d68da2e44142b0f5edb63019ff4786818.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/7d10e812f3e92c3ba00d708180d3903e3b6d87cf/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/year-end-processing-public-sector.13b23b5d68da2e44142b0f5edb63019ff4786818.de-de.xlf)
+* Handoff Datetime: 2017-06-20 17:21:59
+* Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -242,83 +403,59 @@
 * Retriable: False
 * Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: dev-itpro\\analytics\\financial-reporter-designer-web-client.md transformed failed.","internal_error_retriable":false,"exception_message":"dev-itpro\\analytics\\financial-reporter-designer-web-client.md file with commit id 6c333159eb317cb97c6dc2e45bfd58f3ac600343 can not be found","exception_type":"System.IO.FileNotFoundException","stack_trace":"   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass28_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 276","extended_information":null}
 
-##### <a name='4ee4812d592dba121c1d1f48196d65e1559e5809847handoff_transform_failed'></a> Source: [dev-itpro\database\TOC.md](#4ee4812d592dba121c1d1f48196d65e1559e5809847)
+##### <a name='e86177dc4e129fe62826fec71c4773f329a66d0a3187handoff_transform_failed'></a> Source: [financials\localizations\emea-oioubl-standards-electronic-invoicing.md](#e86177dc4e129fe62826fec71c4773f329a66d0a3187)
 * Error Code: handoff_transform_failed
-* Error Message: Handoff source file: dev-itpro\database\TOC.md transformed failed.
+* Error Message: Handoff source file: financials\localizations\emea-oioubl-standards-electronic-invoicing.md transformed failed.
 * Retriable: False
-* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: dev-itpro\\database\\TOC.md transformed failed.","internal_error_retriable":false,"exception_message":"dev-itpro\\database\\TOC.md file with commit id 6c333159eb317cb97c6dc2e45bfd58f3ac600343 can not be found","exception_type":"System.IO.FileNotFoundException","stack_trace":"   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass28_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 276","extended_information":null}
+* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: financials\\localizations\\emea-oioubl-standards-electronic-invoicing.md transformed failed.","internal_error_retriable":false,"exception_message":"financials\\localizations\\emea-oioubl-standards-electronic-invoicing.md file with commit id 1f4224395caced864797997bdb29550f531f06a0 can not be found","exception_type":"System.IO.FileNotFoundException","stack_trace":"   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass28_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 276","extended_information":null}
 
-##### <a name='15c5ce6494fa8a7b82640e850d55e0e9e1f0b4391789handoff_transform_failed'></a> Source: [dev-itpro\lifecycle-services\TOC.md](#15c5ce6494fa8a7b82640e850d55e0e9e1f0b4391789)
+##### <a name='855eb8777b50fb610b90c37a10e37062a3c4bdfe3280handoff_transform_failed'></a> Source: [financials\public-sector\accounts-payable-public-sector.md](#855eb8777b50fb610b90c37a10e37062a3c4bdfe3280)
 * Error Code: handoff_transform_failed
-* Error Message: Handoff source file: dev-itpro\lifecycle-services\TOC.md transformed failed.
+* Error Message: Handoff source file: financials\public-sector\accounts-payable-public-sector.md transformed failed.
 * Retriable: False
-* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: dev-itpro\\lifecycle-services\\TOC.md transformed failed.","internal_error_retriable":false,"exception_message":"dev-itpro\\lifecycle-services\\TOC.md file with commit id 6c333159eb317cb97c6dc2e45bfd58f3ac600343 can not be found","exception_type":"System.IO.FileNotFoundException","stack_trace":"   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass28_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 276","extended_information":null}
+* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: financials\\public-sector\\accounts-payable-public-sector.md transformed failed.","internal_error_retriable":false,"exception_message":"financials\\public-sector\\accounts-payable-public-sector.md file with commit id 1f4224395caced864797997bdb29550f531f06a0 can not be found","exception_type":"System.IO.FileNotFoundException","stack_trace":"   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass28_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 276","extended_information":null}
 
-##### <a name='383a5d45c70e589d5089ca3fbcf1b232912f34dd2143handoff_transform_failed'></a> Source: [dev-itpro\sysadmin\TOC.md](#383a5d45c70e589d5089ca3fbcf1b232912f34dd2143)
+##### <a name='21d610c169878b156aeefe1d20bd6ea183deae793289handoff_transform_failed'></a> Source: [financials\public-sector\funds-public-sector.md](#21d610c169878b156aeefe1d20bd6ea183deae793289)
 * Error Code: handoff_transform_failed
-* Error Message: Handoff source file: dev-itpro\sysadmin\TOC.md transformed failed.
+* Error Message: Handoff source file: financials\public-sector\funds-public-sector.md transformed failed.
 * Retriable: False
-* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: dev-itpro\\sysadmin\\TOC.md transformed failed.","internal_error_retriable":false,"exception_message":"dev-itpro\\sysadmin\\TOC.md file with commit id 6c333159eb317cb97c6dc2e45bfd58f3ac600343 can not be found","exception_type":"System.IO.FileNotFoundException","stack_trace":"   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass28_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 276","extended_information":null}
+* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: financials\\public-sector\\funds-public-sector.md transformed failed.","internal_error_retriable":false,"exception_message":"financials\\public-sector\\funds-public-sector.md file with commit id 1f4224395caced864797997bdb29550f531f06a0 can not be found","exception_type":"System.IO.FileNotFoundException","stack_trace":"   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass28_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 276","extended_information":null}
 
-##### <a name='15713bb0327812e09013b6934eea69f50053ecf23352handoff_transform_failed'></a> Source: [retail\dev-itpro\call-crt-service-offline.md](#15713bb0327812e09013b6934eea69f50053ecf23352)
+##### <a name='639479834464b6a68579fb6fca9e4e0c1832a1213292handoff_transform_failed'></a> Source: [financials\public-sector\one-time-vendors-public-sector.md](#639479834464b6a68579fb6fca9e4e0c1832a1213292)
 * Error Code: handoff_transform_failed
-* Error Message: Handoff source file: retail\dev-itpro\call-crt-service-offline.md transformed failed.
+* Error Message: Handoff source file: financials\public-sector\one-time-vendors-public-sector.md transformed failed.
 * Retriable: False
-* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: retail\\dev-itpro\\call-crt-service-offline.md transformed failed.","internal_error_retriable":false,"exception_message":"retail\\dev-itpro\\call-crt-service-offline.md file with commit id 6c333159eb317cb97c6dc2e45bfd58f3ac600343 can not be found","exception_type":"System.IO.FileNotFoundException","stack_trace":"   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass28_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 276","extended_information":null}
+* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: financials\\public-sector\\one-time-vendors-public-sector.md transformed failed.","internal_error_retriable":false,"exception_message":"financials\\public-sector\\one-time-vendors-public-sector.md file with commit id 1f4224395caced864797997bdb29550f531f06a0 can not be found","exception_type":"System.IO.FileNotFoundException","stack_trace":"   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass28_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 276","extended_information":null}
 
-##### <a name='b4ce7b55581c83dae9982d5f12c3d01a425bf9d33363handoff_transform_failed'></a> Source: [retail\dev-itpro\ecommerce-platform-sdk.md](#b4ce7b55581c83dae9982d5f12c3d01a425bf9d33363)
+##### <a name='ec202de96ac9397f3d9b24be7dc75731fad798163294handoff_transform_failed'></a> Source: [financials\public-sector\plan-public-sector-functionality.md](#ec202de96ac9397f3d9b24be7dc75731fad798163294)
 * Error Code: handoff_transform_failed
-* Error Message: Handoff source file: retail\dev-itpro\ecommerce-platform-sdk.md transformed failed.
+* Error Message: Handoff source file: financials\public-sector\plan-public-sector-functionality.md transformed failed.
 * Retriable: False
-* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: retail\\dev-itpro\\ecommerce-platform-sdk.md transformed failed.","internal_error_retriable":false,"exception_message":"retail\\dev-itpro\\ecommerce-platform-sdk.md file with commit id 6c333159eb317cb97c6dc2e45bfd58f3ac600343 can not be found","exception_type":"System.IO.FileNotFoundException","stack_trace":"   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass28_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 276","extended_information":null}
+* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: financials\\public-sector\\plan-public-sector-functionality.md transformed failed.","internal_error_retriable":false,"exception_message":"financials\\public-sector\\plan-public-sector-functionality.md file with commit id 1f4224395caced864797997bdb29550f531f06a0 can not be found","exception_type":"System.IO.FileNotFoundException","stack_trace":"   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass28_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 276","extended_information":null}
 
-##### <a name='d51c98c4c58ef1bb642ffb0e56c246bd4201a2fa3365handoff_transform_failed'></a> Source: [retail\dev-itpro\extend-commerce-data-exchange.md](#d51c98c4c58ef1bb642ffb0e56c246bd4201a2fa3365)
+##### <a name='cf1fbe904d70a26fb7692e921d0465707b8b422a3297handoff_transform_failed'></a> Source: [financials\public-sector\procurement-sourcing-public-sector.md](#cf1fbe904d70a26fb7692e921d0465707b8b422a3297)
 * Error Code: handoff_transform_failed
-* Error Message: Handoff source file: retail\dev-itpro\extend-commerce-data-exchange.md transformed failed.
+* Error Message: Handoff source file: financials\public-sector\procurement-sourcing-public-sector.md transformed failed.
 * Retriable: False
-* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: retail\\dev-itpro\\extend-commerce-data-exchange.md transformed failed.","internal_error_retriable":false,"exception_message":"retail\\dev-itpro\\extend-commerce-data-exchange.md file with commit id 6c333159eb317cb97c6dc2e45bfd58f3ac600343 can not be found","exception_type":"System.IO.FileNotFoundException","stack_trace":"   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass28_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 276","extended_information":null}
+* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: financials\\public-sector\\procurement-sourcing-public-sector.md transformed failed.","internal_error_retriable":false,"exception_message":"financials\\public-sector\\procurement-sourcing-public-sector.md file with commit id 1f4224395caced864797997bdb29550f531f06a0 can not be found","exception_type":"System.IO.FileNotFoundException","stack_trace":"   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass28_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 276","extended_information":null}
 
-##### <a name='b9f109aca4f3580306ac130a2cc100f956feea743368handoff_transform_failed'></a> Source: [retail\dev-itpro\hardware-station-extensibility.md](#b9f109aca4f3580306ac130a2cc100f956feea743368)
+##### <a name='7a12c9678e60ab10d4693f1d9d20b77e31b7d84b3298handoff_transform_failed'></a> Source: [financials\public-sector\public-sector-functionality.md](#7a12c9678e60ab10d4693f1d9d20b77e31b7d84b3298)
 * Error Code: handoff_transform_failed
-* Error Message: Handoff source file: retail\dev-itpro\hardware-station-extensibility.md transformed failed.
+* Error Message: Handoff source file: financials\public-sector\public-sector-functionality.md transformed failed.
 * Retriable: False
-* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: retail\\dev-itpro\\hardware-station-extensibility.md transformed failed.","internal_error_retriable":false,"exception_message":"retail\\dev-itpro\\hardware-station-extensibility.md file with commit id 6c333159eb317cb97c6dc2e45bfd58f3ac600343 can not be found","exception_type":"System.IO.FileNotFoundException","stack_trace":"   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass28_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 276","extended_information":null}
+* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: financials\\public-sector\\public-sector-functionality.md transformed failed.","internal_error_retriable":false,"exception_message":"financials\\public-sector\\public-sector-functionality.md file with commit id 1f4224395caced864797997bdb29550f531f06a0 can not be found","exception_type":"System.IO.FileNotFoundException","stack_trace":"   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass28_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 276","extended_information":null}
 
-##### <a name='89987f2b642aab239f60e7d4ae65a56df597b3993482handoff_transform_failed'></a> Source: [retail\dev-itpro\retail-modern-pos-offline.md](#89987f2b642aab239f60e7d4ae65a56df597b3993482)
+##### <a name='7ab18fef7d2373fcc682ecacf83a981f067fae993301handoff_transform_failed'></a> Source: [financials\public-sector\security-roles-public-sector.md](#7ab18fef7d2373fcc682ecacf83a981f067fae993301)
 * Error Code: handoff_transform_failed
-* Error Message: Handoff source file: retail\dev-itpro\retail-modern-pos-offline.md transformed failed.
+* Error Message: Handoff source file: financials\public-sector\security-roles-public-sector.md transformed failed.
 * Retriable: False
-* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: retail\\dev-itpro\\retail-modern-pos-offline.md transformed failed.","internal_error_retriable":false,"exception_message":"retail\\dev-itpro\\retail-modern-pos-offline.md file with commit id 6c333159eb317cb97c6dc2e45bfd58f3ac600343 can not be found","exception_type":"System.IO.FileNotFoundException","stack_trace":"   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass28_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 276","extended_information":null}
+* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: financials\\public-sector\\security-roles-public-sector.md transformed failed.","internal_error_retriable":false,"exception_message":"financials\\public-sector\\security-roles-public-sector.md file with commit id 1f4224395caced864797997bdb29550f531f06a0 can not be found","exception_type":"System.IO.FileNotFoundException","stack_trace":"   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass28_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 276","extended_information":null}
 
-##### <a name='4f1970be1db3f6f455450c15102e1942924937a43533handoff_transform_failed'></a> Source: [retail\dev-itpro\retail-server-architecture.md](#4f1970be1db3f6f455450c15102e1942924937a43533)
+##### <a name='f9b77ee5de2f333e7791617694b66b18fe385c4d3302handoff_transform_failed'></a> Source: [financials\public-sector\settlement-priority-public-sector.md](#f9b77ee5de2f333e7791617694b66b18fe385c4d3302)
 * Error Code: handoff_transform_failed
-* Error Message: Handoff source file: retail\dev-itpro\retail-server-architecture.md transformed failed.
+* Error Message: Handoff source file: financials\public-sector\settlement-priority-public-sector.md transformed failed.
 * Retriable: False
-* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: retail\\dev-itpro\\retail-server-architecture.md transformed failed.","internal_error_retriable":false,"exception_message":"retail\\dev-itpro\\retail-server-architecture.md file with commit id 6c333159eb317cb97c6dc2e45bfd58f3ac600343 can not be found","exception_type":"System.IO.FileNotFoundException","stack_trace":"   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass28_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 276","extended_information":null}
-
-##### <a name='08dbdb45248f5930fc0152ecc692f1edf9bd17763534handoff_transform_failed'></a> Source: [retail\dev-itpro\retail-server-customer-consumer-api.md](#08dbdb45248f5930fc0152ecc692f1edf9bd17763534)
-* Error Code: handoff_transform_failed
-* Error Message: Handoff source file: retail\dev-itpro\retail-server-customer-consumer-api.md transformed failed.
-* Retriable: False
-* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: retail\\dev-itpro\\retail-server-customer-consumer-api.md transformed failed.","internal_error_retriable":false,"exception_message":"retail\\dev-itpro\\retail-server-customer-consumer-api.md file with commit id 6c333159eb317cb97c6dc2e45bfd58f3ac600343 can not be found","exception_type":"System.IO.FileNotFoundException","stack_trace":"   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass28_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 276","extended_information":null}
-
-##### <a name='c129e53442fff7a565d3e0b95c891171e0903ddd3536handoff_transform_failed'></a> Source: [retail\dev-itpro\retail-store-system-begin.md](#c129e53442fff7a565d3e0b95c891171e0903ddd3536)
-* Error Code: handoff_transform_failed
-* Error Message: Handoff source file: retail\dev-itpro\retail-store-system-begin.md transformed failed.
-* Retriable: False
-* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: retail\\dev-itpro\\retail-store-system-begin.md transformed failed.","internal_error_retriable":false,"exception_message":"retail\\dev-itpro\\retail-store-system-begin.md file with commit id 6c333159eb317cb97c6dc2e45bfd58f3ac600343 can not be found","exception_type":"System.IO.FileNotFoundException","stack_trace":"   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass28_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 276","extended_information":null}
-
-##### <a name='a82c74bbf87fba9d81f3e80c1d56d9aa54a32cb73539handoff_transform_failed'></a> Source: [retail\dev-itpro\trigger-example-blocking-transaction.md](#a82c74bbf87fba9d81f3e80c1d56d9aa54a32cb73539)
-* Error Code: handoff_transform_failed
-* Error Message: Handoff source file: retail\dev-itpro\trigger-example-blocking-transaction.md transformed failed.
-* Retriable: False
-* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: retail\\dev-itpro\\trigger-example-blocking-transaction.md transformed failed.","internal_error_retriable":false,"exception_message":"retail\\dev-itpro\\trigger-example-blocking-transaction.md file with commit id 6c333159eb317cb97c6dc2e45bfd58f3ac600343 can not be found","exception_type":"System.IO.FileNotFoundException","stack_trace":"   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass28_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 276","extended_information":null}
-
-##### <a name='de39154a78b3b3126b45593805ce56a8367e44173540handoff_transform_failed'></a> Source: [retail\dev-itpro\trigger-example-return-policy.md](#de39154a78b3b3126b45593805ce56a8367e44173540)
-* Error Code: handoff_transform_failed
-* Error Message: Handoff source file: retail\dev-itpro\trigger-example-return-policy.md transformed failed.
-* Retriable: False
-* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: retail\\dev-itpro\\trigger-example-return-policy.md transformed failed.","internal_error_retriable":false,"exception_message":"retail\\dev-itpro\\trigger-example-return-policy.md file with commit id 6c333159eb317cb97c6dc2e45bfd58f3ac600343 can not be found","exception_type":"System.IO.FileNotFoundException","stack_trace":"   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass28_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 276","extended_information":null}
+* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: financials\\public-sector\\settlement-priority-public-sector.md transformed failed.","internal_error_retriable":false,"exception_message":"financials\\public-sector\\settlement-priority-public-sector.md file with commit id 1f4224395caced864797997bdb29550f531f06a0 can not be found","exception_type":"System.IO.FileNotFoundException","stack_trace":"   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass28_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 276","extended_information":null}
 
 
 Generated by OpenLocalization.
