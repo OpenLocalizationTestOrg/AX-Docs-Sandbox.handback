@@ -1,82 +1,38 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 4
+ Total Files | 1
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [dev-itpro\analytics\advanced-formatting-options-financial-reporting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/a67bcaf8e4f974aa516f65524fad645fe5c8dfee/dev-itpro/analytics/advanced-formatting-options-financial-reporting.md) | InSyncHandedBackSuccess | [Details](#699f4bdfbbedaf9e24f553a1c5c04e5aea618eb9175)
- [dev-itpro\analytics\design-financial-report-definitions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/a67bcaf8e4f974aa516f65524fad645fe5c8dfee/dev-itpro/analytics/design-financial-report-definitions.md) | InSyncHandedBackSuccess | [Details](#8211d814fa490a7b82780bb68eb5bd4c49126a99195)
- [dev-itpro\analytics\modify-row-definition-cells-financial-reporting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/a67bcaf8e4f974aa516f65524fad645fe5c8dfee/dev-itpro/analytics/modify-row-definition-cells-financial-reporting.md) | InSyncHandedBackSuccess | [Details](#40ae4e0774c5752d697baba6c8add8aaf44fbb6d594)
- [dev-itpro\analytics\organize-components-report-designer.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/a67bcaf8e4f974aa516f65524fad645fe5c8dfee/dev-itpro/analytics/organize-components-report-designer.md) | InSyncHandedBackSuccess | [Details](#52733719f6174657cbc1cf786f027f2304e2cb8f596)
+ [core\get-started\advanced-filtering-query-options.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/6c1027c32d5eff02ed01933610a7055dce802ba8/core/get-started/advanced-filtering-query-options.md) | HandedBackFailed | [Details](#29af0f6019c5b2c6421adb32892789e0abc49abf8)
 
 ## Item Details
-##### <a name='699f4bdfbbedaf9e24f553a1c5c04e5aea618eb9175'></a> Source: [dev-itpro\analytics\advanced-formatting-options-financial-reporting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/a67bcaf8e4f974aa516f65524fad645fe5c8dfee/dev-itpro/analytics/advanced-formatting-options-financial-reporting.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [dev-itpro\analytics\advanced-formatting-options-financial-reporting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/6b4c32eb8d950c45a0a8191e879b532798b64722/dev-itpro/analytics/advanced-formatting-options-financial-reporting.md)
-* Handoff File: [advanced-formatting-options-financial-reporting.fc45f0e65beec53d78808d1c4bf4cc45aa695c5e.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/d2202e8f1dba1d54c209b562d40fce8da5820b9c/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/advanced-formatting-options-financial-reporting.fc45f0e65beec53d78808d1c4bf4cc45aa695c5e.de-de.xlf)
-* Handoff Datetime: 2017-06-15 10:38:07
+##### <a name='29af0f6019c5b2c6421adb32892789e0abc49abf8'></a> Source: [core\get-started\advanced-filtering-query-options.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/6c1027c32d5eff02ed01933610a7055dce802ba8/core/get-started/advanced-filtering-query-options.md)
+* Status: HandedBackFailed
+* Target File: 
+* Handoff File: [advanced-filtering-query-options.585cd80a2c7447dadbe434eaebdc5cacac05855b.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/c4690d718e797248700d02aa91d8db028d65cd52/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/business-process/advanced-filtering-query-options.585cd80a2c7447dadbe434eaebdc5cacac05855b.de-de.xlf)
+* Handoff Datetime: 2017-06-20 18:43:10
 * Handoff Reason: Include
 * Handoff Name: 
-* Archive File: [advanced-formatting-options-financial-reporting.fc45f0e65beec53d78808d1c4bf4cc45aa695c5e.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/6627c96a3c79bfe1b4ba755d2a471f06146d7dd4/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/advanced-formatting-options-financial-reporting.fc45f0e65beec53d78808d1c4bf4cc45aa695c5e.de-de.xlf)
-* Archive Datetime: 2017-06-15 10:38:18
-* Handback File: [advanced-formatting-options-financial-reporting.fc45f0e65beec53d78808d1c4bf4cc45aa695c5e.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/93852904839a8fa341681acdaa123cfcb56fab2c/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/advanced-formatting-options-financial-reporting.fc45f0e65beec53d78808d1c4bf4cc45aa695c5e.de-de.xlf)
-* Handback Datetime: 2017-06-15 10:51:20
+* Archive File: [advanced-filtering-query-options.585cd80a2c7447dadbe434eaebdc5cacac05855b.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/1ce275e590b11df86de84a0e68db68ae114f49db/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/business-process/advanced-filtering-query-options.585cd80a2c7447dadbe434eaebdc5cacac05855b.de-de.xlf)
+* Archive Datetime: 2017-06-20 18:43:20
+* Handback File: 
+* Handback Datetime: 2017-06-20 19:01:03
 * Handback Name: 
-* Bilingual File: [advanced-formatting-options-financial-reporting.fc45f0e65beec53d78808d1c4bf4cc45aa695c5e.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/6823eb965403e03249ed29afc695f953bae65375/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/advanced-formatting-options-financial-reporting.fc45f0e65beec53d78808d1c4bf4cc45aa695c5e.de-de.xlf)
-* Bilingual Datetime: 2017-06-01 13:32:31
-* [Back to Top](#report-top)
-
-##### <a name='8211d814fa490a7b82780bb68eb5bd4c49126a99195'></a> Source: [dev-itpro\analytics\design-financial-report-definitions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/a67bcaf8e4f974aa516f65524fad645fe5c8dfee/dev-itpro/analytics/design-financial-report-definitions.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [dev-itpro\analytics\design-financial-report-definitions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/6b4c32eb8d950c45a0a8191e879b532798b64722/dev-itpro/analytics/design-financial-report-definitions.md)
-* Handoff File: [design-financial-report-definitions.5f36c9fb0e9957e8139ef914f424b3836d4406d5.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/d2202e8f1dba1d54c209b562d40fce8da5820b9c/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/design-financial-report-definitions.5f36c9fb0e9957e8139ef914f424b3836d4406d5.de-de.xlf)
-* Handoff Datetime: 2017-06-15 10:38:07
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: [design-financial-report-definitions.5f36c9fb0e9957e8139ef914f424b3836d4406d5.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/6627c96a3c79bfe1b4ba755d2a471f06146d7dd4/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/design-financial-report-definitions.5f36c9fb0e9957e8139ef914f424b3836d4406d5.de-de.xlf)
-* Archive Datetime: 2017-06-15 10:38:18
-* Handback File: [design-financial-report-definitions.5f36c9fb0e9957e8139ef914f424b3836d4406d5.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/93852904839a8fa341681acdaa123cfcb56fab2c/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/design-financial-report-definitions.5f36c9fb0e9957e8139ef914f424b3836d4406d5.de-de.xlf)
-* Handback Datetime: 2017-06-15 10:51:20
-* Handback Name: 
-* Bilingual File: [design-financial-report-definitions.5f36c9fb0e9957e8139ef914f424b3836d4406d5.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/1b0feb3d56cfd8295f83a237ddc9b97e268f5981/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/design-financial-report-definitions.5f36c9fb0e9957e8139ef914f424b3836d4406d5.de-de.xlf)
-* Bilingual Datetime: 2017-06-08 07:14:17
-* [Back to Top](#report-top)
-
-##### <a name='40ae4e0774c5752d697baba6c8add8aaf44fbb6d594'></a> Source: [dev-itpro\analytics\modify-row-definition-cells-financial-reporting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/a67bcaf8e4f974aa516f65524fad645fe5c8dfee/dev-itpro/analytics/modify-row-definition-cells-financial-reporting.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [dev-itpro\analytics\modify-row-definition-cells-financial-reporting.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/6b4c32eb8d950c45a0a8191e879b532798b64722/dev-itpro/analytics/modify-row-definition-cells-financial-reporting.md)
-* Handoff File: [modify-row-definition-cells-financial-reporting.28f6cad43c04c3c8c4ed51ff50040db32582e301.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/d2202e8f1dba1d54c209b562d40fce8da5820b9c/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/modify-row-definition-cells-financial-reporting.28f6cad43c04c3c8c4ed51ff50040db32582e301.de-de.xlf)
-* Handoff Datetime: 2017-06-15 10:38:07
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: [modify-row-definition-cells-financial-reporting.28f6cad43c04c3c8c4ed51ff50040db32582e301.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/6627c96a3c79bfe1b4ba755d2a471f06146d7dd4/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/modify-row-definition-cells-financial-reporting.28f6cad43c04c3c8c4ed51ff50040db32582e301.de-de.xlf)
-* Archive Datetime: 2017-06-15 10:38:18
-* Handback File: [modify-row-definition-cells-financial-reporting.28f6cad43c04c3c8c4ed51ff50040db32582e301.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/93852904839a8fa341681acdaa123cfcb56fab2c/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/modify-row-definition-cells-financial-reporting.28f6cad43c04c3c8c4ed51ff50040db32582e301.de-de.xlf)
-* Handback Datetime: 2017-06-15 10:51:20
-* Handback Name: 
-* Bilingual File: [modify-row-definition-cells-financial-reporting.28f6cad43c04c3c8c4ed51ff50040db32582e301.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/1b0feb3d56cfd8295f83a237ddc9b97e268f5981/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/modify-row-definition-cells-financial-reporting.28f6cad43c04c3c8c4ed51ff50040db32582e301.de-de.xlf)
-* Bilingual Datetime: 2017-06-08 07:14:17
-* [Back to Top](#report-top)
-
-##### <a name='52733719f6174657cbc1cf786f027f2304e2cb8f596'></a> Source: [dev-itpro\analytics\organize-components-report-designer.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/a67bcaf8e4f974aa516f65524fad645fe5c8dfee/dev-itpro/analytics/organize-components-report-designer.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [dev-itpro\analytics\organize-components-report-designer.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/blob/6b4c32eb8d950c45a0a8191e879b532798b64722/dev-itpro/analytics/organize-components-report-designer.md)
-* Handoff File: [organize-components-report-designer.f645d2848cb6c455053bddc4f1322d1c6049da14.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/d2202e8f1dba1d54c209b562d40fce8da5820b9c/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/organize-components-report-designer.f645d2848cb6c455053bddc4f1322d1c6049da14.de-de.xlf)
-* Handoff Datetime: 2017-06-15 10:38:07
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: [organize-components-report-designer.f645d2848cb6c455053bddc4f1322d1c6049da14.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/6627c96a3c79bfe1b4ba755d2a471f06146d7dd4/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/organize-components-report-designer.f645d2848cb6c455053bddc4f1322d1c6049da14.de-de.xlf)
-* Archive Datetime: 2017-06-15 10:38:18
-* Handback File: [organize-components-report-designer.f645d2848cb6c455053bddc4f1322d1c6049da14.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/93852904839a8fa341681acdaa123cfcb56fab2c/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/organize-components-report-designer.f645d2848cb6c455053bddc4f1322d1c6049da14.de-de.xlf)
-* Handback Datetime: 2017-06-15 10:51:20
-* Handback Name: 
-* Bilingual File: [organize-components-report-designer.f645d2848cb6c455053bddc4f1322d1c6049da14.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/1b0feb3d56cfd8295f83a237ddc9b97e268f5981/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/organize-components-report-designer.f645d2848cb6c455053bddc4f1322d1c6049da14.de-de.xlf)
+* Handback Error: [cache_file_not_found](#29af0f6019c5b2c6421adb32892789e0abc49abf8cache_file_not_found)
+* Bilingual File: [advanced-filtering-query-options.585cd80a2c7447dadbe434eaebdc5cacac05855b.de-de.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/1b0feb3d56cfd8295f83a237ddc9b97e268f5981/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.de-de/master/basic/advanced-filtering-query-options.585cd80a2c7447dadbe434eaebdc5cacac05855b.de-de.xlf)
 * Bilingual Datetime: 2017-06-08 07:14:17
 * [Back to Top](#report-top)
 
 
 ## Error Details
+##### <a name='29af0f6019c5b2c6421adb32892789e0abc49abf8cache_file_not_found'></a> Source: [core\get-started\advanced-filtering-query-options.md](#29af0f6019c5b2c6421adb32892789e0abc49abf8)
+* Error Code: cache_file_not_found
+* Error Message: The skeleton or source cache file of 48b2049c3f5025d7e8d3fc7e944aa9360786d18a is not found.
+* Retriable: False
+* Error Details: {"internal_error_code":"cache_file_not_found","internal_error_message":"The skeleton or source cache file of 48b2049c3f5025d7e8d3fc7e944aa9360786d18a is not found.","internal_error_retriable":false,"exception_message":"The skeleton or source cache file of 48b2049c3f5025d7e8d3fc7e944aa9360786d18a is not found.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
+
 
 Generated by OpenLocalization.
