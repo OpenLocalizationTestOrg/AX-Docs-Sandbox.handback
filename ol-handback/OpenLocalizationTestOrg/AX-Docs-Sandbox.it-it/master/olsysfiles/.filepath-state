@@ -17,6 +17,9 @@
   "364d7e62dfaf54d3710d1888b8d2347dbe1627a2": [
     "core\\breadcrumb\\toc.yml"
   ],
+  "82acf783e9deb9d873cbd5a897b3415eb0a300ed": [
+    "core\\get-started\\action-search.md"
+  ],
   "cd024f2bc06fca9c21ea41fbed44efbc519cee94": [
     "core\\get-started\\action-search.md"
   ],
@@ -47,6 +50,9 @@
   "2fba43a0580267b14a01651ef8d1860f12f95d36": [
     "core\\get-started\\action-search.md"
   ],
+  "29af0f6019c5b2c6421adb32892789e0abc49abf": [
+    "core\\get-started\\advanced-filtering-query-options.md"
+  ],
   "48b2049c3f5025d7e8d3fc7e944aa9360786d18a": [
     "core\\get-started\\advanced-filtering-query-options.md"
   ],
@@ -58,6 +64,9 @@
   ],
   "5ee7a04572e350a7c08d0418bade6d332aa920c6": [
     "core\\get-started\\advanced-filtering-query-options.md"
+  ],
+  "a21af03d5e178f0a89f69920cabd54ee0d4936f5": [
+    "core\\get-started\\client-faq.md"
   ],
   "b7618f5150b55542d26d10000a644a13a8651e82": [
     "core\\get-started\\client-faq.md"
@@ -95,6 +104,9 @@
   "6a08b40cad7d4d73060dc37b78439de8bf047fb8": [
     "core\\get-started\\configure-filter-workspaces.md"
   ],
+  "9be0785731dfde3c2af1f6c36ab832b28150e023": [
+    "core\\get-started\\display-pages-side-by-side.md"
+  ],
   "aad98247692bdbaf5b8023b393b5e33260dd0b1a": [
     "core\\get-started\\display-pages-side-by-side.md"
   ],
@@ -109,6 +121,9 @@
   ],
   "940d086f9c99af54bfcc7911ee7272f9eccba464": [
     "core\\get-started\\display-pages-side-by-side.md"
+  ],
+  "d7f30bcb0935a159ef5a74e222766aa7e7b29515": [
+    "core\\get-started\\glossary.md"
   ],
   "dbad1a054d69c463bf7fbc8ee76050e91ac18769": [
     "core\\get-started\\glossary.md"
