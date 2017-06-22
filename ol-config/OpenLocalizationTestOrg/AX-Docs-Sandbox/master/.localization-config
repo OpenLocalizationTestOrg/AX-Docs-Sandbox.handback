@@ -75,8 +75,19 @@
           "priority": "basic",
           "locales": [
             "fr-fr",
-            "da-dk",
+            "da-dk"
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.industry.Contains(\"Public sector\")",
+      "priorities": [
+        {
+          "priority": "public-sector",
+          "locales": [
             "sr-cyrl-rs"
+
           ]
         }
       ]
@@ -484,6 +495,24 @@
           "locales": [
             "tr-tr",
             "sr-cyrl-rs" 
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "audience": [
+          "Developer",
+          "Developer, IT Pro",
+          "IT Pro, Developer",
+          "IT Pro"
+        ]
+      },
+      "priorities": [
+        {
+          "priority": "developer-content",
+          "locales": [
+            "sr-cyrl-rs"
           ]
         }
       ]
