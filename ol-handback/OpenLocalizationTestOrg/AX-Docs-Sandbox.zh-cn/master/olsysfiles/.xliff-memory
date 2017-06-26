@@ -20243,6 +20243,12 @@
       "XliffHash": "348eb72733856555a03472dd328cf4e8a3b334da",
       "TranslationType": 1,
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.zh-cn\\master\\47e4c88056bfc81a9b90577c9d6f7a03eef88f8e.2a147385744794e02d1d6981183388eb2f716931.xml"
+    },
+    "core\\get-started\\action-search.md.1db6116208f98b6a42012d924b503926b47518ab.HT": {
+      "SourceFilename": "core\\get-started\\action-search.md",
+      "XliffHash": "1db6116208f98b6a42012d924b503926b47518ab",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.zh-cn\\master\\c6199176ecd908e6eb1f754f304bab29ea077908.47e621efff31c9fc2f7722330d7aa5f8f6d1c280.xml"
     }
   }
 }
