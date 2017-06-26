@@ -20177,6 +20177,12 @@
       "XliffHash": "7bc53f1a03c5956407a33e021eb8473f632de324",
       "TranslationType": 1,
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ar-sa\\master\\3c0b0cf1afd7ab2f4aa58aec152d72c224beebf7.e752b031e2dfb9802b4254a4b3a3d8045a4e7540.xml"
+    },
+    "core\\get-started\\action-search.md.348eb72733856555a03472dd328cf4e8a3b334da.HT": {
+      "SourceFilename": "core\\get-started\\action-search.md",
+      "XliffHash": "348eb72733856555a03472dd328cf4e8a3b334da",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ar-sa\\master\\47e4c88056bfc81a9b90577c9d6f7a03eef88f8e.2a147385744794e02d1d6981183388eb2f716931.xml"
     }
   }
 }
