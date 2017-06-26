@@ -1,7 +1,7 @@
 {
   "filters": [ 
     {
-      "metadataExpression": "audience.Contains(\"Application User\") && title.Contains(\"Finance and Operations glossary\")",
+      "metadataExpression": "audience.Contains(\"Application User\") && title.Contains(\"Finance and Operations glossary\") && ms.search.region.Contains(\"global\")",
       "priorities": [
         {
           "priority": "premium",
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\")",
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\") && ms.search.region.Contains(\"global\")",
       "priorities": [
         {
           "priority": "business-process",
@@ -68,7 +68,84 @@
         }
       ]
     },
-    {
+  {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region == \"Australia\"",
+      "priorities": [
+        {
+          "priority": "do-not-translate",
+          "locales": [
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },  
+  {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region == \"Ireland\"",
+      "priorities": [
+        {
+          "priority": "do-not-translate",
+          "locales": [
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },  
+  {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region == \"Malaysia\"",
+      "priorities": [
+        {
+          "priority": "do-not-translate",
+          "locales": [
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    }, 
+  {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region == \"Singapore\"",
+      "priorities": [
+        {
+          "priority": "do-not-translate",
+          "locales": [
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    }, 
+  {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region == \"United Kingdom\"",
+      "priorities": [
+        {
+          "priority": "do-not-translate",
+          "locales": [
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },    
+  {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region == \"United States\"",
+      "priorities": [
+        {
+          "priority": "do-not-translate",
+          "locales": [
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },  
+  {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region == \"USA\"",
+      "priorities": [
+        {
+          "priority": "do-not-translate",
+          "locales": [
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },  
+ {
       "metadataExpression": "audience.Contains(\"Application User\") && ms.search.industry.Contains(\"Public sector\")",
       "priorities": [
         {
@@ -76,18 +153,6 @@
           "locales": [
             "fr-fr",
             "da-dk"
-          ]
-        }
-      ]
-    },
-    {
-      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.industry.Contains(\"Public sector\")",
-      "priorities": [
-        {
-          "priority": "public-sector",
-          "locales": [
-            "sr-cyrl-rs"
-
           ]
         }
       ]
@@ -127,7 +192,7 @@
       ]
     },
     {
-      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(\"global\")",
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region.Contains(\"global\") && ms.search.industry != \"Public sector\"",
       "priorities": [
         {
           "priority": "basic",
