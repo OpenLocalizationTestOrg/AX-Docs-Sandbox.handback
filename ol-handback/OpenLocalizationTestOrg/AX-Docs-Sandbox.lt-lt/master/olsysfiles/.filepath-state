@@ -1,4 +1,7 @@
 {
+  "4d690ddbe4dd75f8990421b3963630cf2c395770": [
+    "core\\breadcrumb\\toc.yml"
+  ],
   "e04989c3fb30c57e7d26d128d69f1476bf10c2e8": [
     "core\\breadcrumb\\toc.yml"
   ],
@@ -17,10 +20,7 @@
   "364d7e62dfaf54d3710d1888b8d2347dbe1627a2": [
     "core\\breadcrumb\\toc.yml"
   ],
-  "c6199176ecd908e6eb1f754f304bab29ea077908": [
-    "core\\get-started\\action-search.md"
-  ],
-  "47e4c88056bfc81a9b90577c9d6f7a03eef88f8e": [
+  "f09dd38f55efb84eaf23aaf1167ded06b50bcd73": [
     "core\\get-started\\action-search.md"
   ],
   "b08dfcc9e8f199a7462fe5b12d3df6db50cdcfe0": [
@@ -30,6 +30,12 @@
     "core\\get-started\\action-search.md"
   ],
   "cd024f2bc06fca9c21ea41fbed44efbc519cee94": [
+    "core\\get-started\\action-search.md"
+  ],
+  "c6199176ecd908e6eb1f754f304bab29ea077908": [
+    "core\\get-started\\action-search.md"
+  ],
+  "47e4c88056bfc81a9b90577c9d6f7a03eef88f8e": [
     "core\\get-started\\action-search.md"
   ],
   "5d440f462a9296f07cc55ab2ec2111bdd73b2bcf": [
@@ -58,6 +64,9 @@
   ],
   "2fba43a0580267b14a01651ef8d1860f12f95d36": [
     "core\\get-started\\action-search.md"
+  ],
+  "ec5cd8138fa23ae647fb88e5617eec6811ed4feb": [
+    "core\\get-started\\advanced-filtering-query-options.md"
   ],
   "521e1e9be2ab3f31b63cfd315797d7dbe4a2f080": [
     "core\\get-started\\advanced-filtering-query-options.md"
@@ -683,6 +692,9 @@
   "ee20b567b402bf638a54f6394159f7f8a9f02da6": [
     "core\\organization-administration\\workflow-elements.md"
   ],
+  "93e398facea60adfbffc2a32bf3e6326630a5aee": [
+    "core\\TOC.md"
+  ],
   "a74afaf86932589289305425077f51cd521a982a": [
     "core\\TOC.md"
   ],
@@ -1076,6 +1088,9 @@
   "da5c53ddf113daf19a9832cf59f7a231a00b3367": [
     "dev-itpro\\financial\\financial-dimensions-main-accounts-right-left-language.md"
   ],
+  "4c74371c5198129a1ea29c12a33489661e6e3dd6": [
+    "dev-itpro\\get-started\\help-connect.md"
+  ],
   "ba29649baeadd34eb67e0fd7d778c808c09c6626": [
     "dev-itpro\\get-started\\help-connect.md"
   ],
@@ -1099,6 +1114,9 @@
   ],
   "fc9fc8b69d8a5d9cabc7c46f9a6a3055407476e7": [
     "dev-itpro\\get-started\\help-connect.md"
+  ],
+  "5903a30fd2d6e8f4b775379f905c5f8a857516fb": [
+    "dev-itpro\\get-started\\help-overview.md"
   ],
   "8bf37b4465d6e69fb05b6b9b81c732ef7f512f99": [
     "dev-itpro\\get-started\\help-overview.md"
@@ -1208,6 +1226,9 @@
   "69365c3dfc2734d55690bccdb2a658982a829f0f": [
     "dev-itpro\\get-started\\new-updated-task-guides-available-may-2016.md"
   ],
+  "44aa38d0e05edad34b0a8e313bbb59283a1c66b2": [
+    "dev-itpro\\get-started\\system-requirements.md"
+  ],
   "724ee7ec29f8a9c4e8cc0b244193cd6c83c37f03": [
     "dev-itpro\\get-started\\system-requirements.md"
   ],
@@ -1225,6 +1246,9 @@
   ],
   "e6f0be4cc9e458ec87108e9601b5e5d744958040": [
     "dev-itpro\\get-started\\system-requirements.md"
+  ],
+  "a29488688ff0debbe8cbc7e8e9ccf59e2c4797cb": [
+    "dev-itpro\\get-started\\whats-new-changed.md"
   ],
   "a65de22d01d15510c3f2cb792b86e6a88260bed9": [
     "dev-itpro\\get-started\\whats-new-changed.md"
@@ -1316,6 +1340,9 @@
   "a0329cd2710820fb1e82f761a414a3f08910078b": [
     "dev-itpro\\lifecycle-services\\ax-2012\\quick-import-export.md"
   ],
+  "ecc505f89bdf1b480eaab9af843a0223efeb48c9": [
+    "dev-itpro\\migration-upgrade\\deprecated-features.md"
+  ],
   "b39d32a89b428f0b4960973fbf7fcc9f4ae6c317": [
     "dev-itpro\\migration-upgrade\\deprecated-features.md"
   ],
@@ -1369,6 +1396,9 @@
   ],
   "8af663b47117759ed3b2e2ed8eee85ae4df100d1": [
     "dev-itpro\\office-integration\\use-excel-add-in.md"
+  ],
+  "9a9ec1aaed8e372442bae16e44b2ee17c59e7d50": [
+    "dev-itpro\\TOC.md"
   ],
   "2128f0829d51928a9d994290a90722f02a2ab49b": [
     "dev-itpro\\TOC.md"
@@ -4652,6 +4682,9 @@
   "8b85d1f41b5468130f5e340d7cd7d275b8621f73": [
     "financials\\public-sector\\public-sector-functionality.md"
   ],
+  "20ac8d879b08193ca9c54fefa64b93155102500b": [
+    "financials\\TOC.md"
+  ],
   "53da553c36f786d8a2a99fac27ffe166fdbed558": [
     "financials\\TOC.md"
   ],
@@ -4819,6 +4852,9 @@
   ],
   "9487af50b5de7733d328ff807978b0bf1f828268": [
     "hr\\departments-jobs-positions.md"
+  ],
+  "9d72e90708a8c5e81c489bf61dcc5571608c2c05": [
+    "hr\\index.md"
   ],
   "f08ab51700f63c5548a7fc2039f16876a95d6f1c": [
     "hr\\index.md"
@@ -5020,6 +5056,9 @@
   ],
   "4dd83e8ed0246733ad1336399f69715eb9398beb": [
     "hr\\skills.md"
+  ],
+  "24b7bb1a62d0e3f96d094cabc95a6c78a3dd1aea": [
+    "hr\\TOC.md"
   ],
   "95aaad887b042e922c0400dd100a9c3838d16a7e": [
     "hr\\TOC.md"
@@ -5471,6 +5510,9 @@
   "3c7c189b1ed9ca8a69ddd710b7b1345e9b41a680": [
     "scm\\inventory\\trace-items-raw-materials-inventory-production-sales.md"
   ],
+  "ba2e972c7628ec4bc174275d3a409aa12a1105bc": [
+    "scm\\master-planning\\action-messages.md"
+  ],
   "63cda36af0c62183f0b6c94e1fc4d046bbc58d6a": [
     "scm\\master-planning\\action-messages.md"
   ],
@@ -5698,6 +5740,9 @@
   ],
   "3a5c6a256f8330ba238ea3c0c25f14b10a9a58e6": [
     "scm\\procurement\\configure-security-vendor-portal-users.md"
+  ],
+  "155d8fb9817a7f20371fbe1ad39f314ef201e526": [
+    "scm\\procurement\\vendor-agreements-project-contracts.md"
   ],
   "617855a487dcf58c6481b7a5bf61b1207e586ec5": [
     "scm\\procurement\\vendor-agreements-project-contracts.md"
@@ -6362,21 +6407,6 @@
   "bf93b1f91679cdb520ead2a12a5e52108a83fbb2": [
     "retail\\call-center-functionality.md"
   ],
-  "ffb9b1a00b41b56c7b993f22130bfad94d73c65f": [
-    "retail\\commerce-essentials.md"
-  ],
-  "948b9e8062836917257be20fc0dc5b945a90e9ba": [
-    "retail\\commerce-essentials.md"
-  ],
-  "af5b20f3454ce5b4734dcf7ff029f9b813aa3710": [
-    "retail\\commerce-essentials.md"
-  ],
-  "7b7df17c6f866e566c3703dabe396ef83dbfba60": [
-    "retail\\commerce-essentials.md"
-  ],
-  "6d16a0ebf84b217df0c2cd022ba5bf46e5ca61b2": [
-    "retail\\commerce-essentials.md"
-  ],
   "b68cdaae4e194466f88c02215113191c61e3786a": [
     "retail\\create-call-center-catalogs.md"
   ],
@@ -6505,24 +6535,6 @@
   ],
   "739842009d9ff559b9b714114828e9f59887818d": [
     "retail\\dev-itpro\\configure-online-store.md"
-  ],
-  "4f490b7ea33d31b8fd725344cb39502cc1213e82": [
-    "retail\\dev-itpro\\define-retail-channel-communications-cdx.md"
-  ],
-  "8e88bd3b02567683ae5fb235c0da10b004c56b6f": [
-    "retail\\dev-itpro\\define-retail-channel-communications-cdx.md"
-  ],
-  "ba1bb54a29250a2bb59622ee4391b64ac455af33": [
-    "retail\\dev-itpro\\define-retail-channel-communications-cdx.md"
-  ],
-  "3b9cabeaf3dbd57a1ef00b6b9bf2b789b898e872": [
-    "retail\\dev-itpro\\define-retail-channel-communications-cdx.md"
-  ],
-  "d3b36ec2a3f859215d93dd7ebf1f1ecfb2731c59": [
-    "retail\\dev-itpro\\define-retail-channel-communications-cdx.md"
-  ],
-  "339cd01216975042fae2691c4cf0dee43478fbe5": [
-    "retail\\dev-itpro\\define-retail-channel-communications-cdx.md"
   ],
   "6d40417725998f71d26fd448515c8ba5d7ff75c7": [
     "retail\\enable-configure-retail-functionality.md"
@@ -6721,24 +6733,6 @@
   ],
   "31e5104045ed5b8fbfa3677a7f5702d551de4231": [
     "retail\\optimal-combination-overlapping-discounts.md"
-  ],
-  "6939f8ad738ec778826a5afeee2f38694686b636": [
-    "retail\\organizational-hierarchies-commerce-essentials.md"
-  ],
-  "7f83a708eb4a8e06eef7d13caea56444da9cb931": [
-    "retail\\organizational-hierarchies-commerce-essentials.md"
-  ],
-  "17d434f5d49d544003ee7cb862391d88ac5c723a": [
-    "retail\\organizational-hierarchies-commerce-essentials.md"
-  ],
-  "50d29b6552cf7af5f2d9296b1d70b838a8edd637": [
-    "retail\\organizational-hierarchies-commerce-essentials.md"
-  ],
-  "7569d93c8c7a1586b259470f690831ed0cd9690a": [
-    "retail\\organizational-hierarchies-commerce-essentials.md"
-  ],
-  "93711977ad8d861ca75ba80ee542ee112c8ddd2f": [
-    "retail\\organizational-hierarchies-commerce-essentials.md"
   ],
   "cdb1869d6db60fa9042bc265afd5f7ac22e44a3b": [
     "retail\\payment-methods.md"
@@ -7130,6 +7124,9 @@
   "eb8b785557932bba499789aa3997272f00f9e7f0": [
     "retail\\store-performance-information.md"
   ],
+  "1e545b60ef766bcc7c3ebcd866b8027d96863018": [
+    "retail\\TOC.md"
+  ],
   "99d6ae36d6a59d113fa295eeebb98a5af9632e6b": [
     "retail\\TOC.md"
   ],
@@ -7498,6 +7495,9 @@
   ],
   "919ca82764e7864b285eb9d202eb7c8afdd0ff18": [
     "scm\\procurement\\purchase-policies.md"
+  ],
+  "eab0d822683281889b7c37dcff338d514da9f337": [
+    "scm\\procurement\\set-up-vendor-accounts.md"
   ],
   "2dc3b9155fdfb487b6404634bb16ed1abb561a71": [
     "scm\\procurement\\set-up-vendor-accounts.md"
@@ -8177,6 +8177,9 @@
   "a2f92effd1cfdc1d5da2c5ec895c0487a6fc82a4": [
     "dev-itpro\\analytics\\row-definitions-financial-reporting.md"
   ],
+  "ab1930e13aeda7f13f2105346d006a263804ad5d": [
+    "dev-itpro\\user-interface\\task-recorder-training-docs.md"
+  ],
   "e71c2638caccb9a31c5254a3cf68c802808960b9": [
     "dev-itpro\\user-interface\\task-recorder-training-docs.md"
   ],
@@ -8215,6 +8218,9 @@
   ],
   "8cfe98e3859778e4fdc61f22b437cb1b4d004549": [
     "financials\\localizations\\emea-advance-holders.md"
+  ],
+  "d82793b0a86f3dceb1398359b67b4b861b5f2b79": [
+    "financials\\localizations\\emea-advance-holders-transactions.md"
   ],
   "697a20487b0ef8f8e091491a6543d4639e7afcef": [
     "financials\\localizations\\emea-advance-holders-transactions.md"
@@ -8957,6 +8963,9 @@
   "11cd2242b5a575ae87b0dbcf6f8ce268fcea5377": [
     "scm\\procurement\\vendor-collaboration-work-customers-dynamics-365-operations.md"
   ],
+  "223af2f6d45b458f1035b0d9c0c830c3bc09026f": [
+    "scm\\procurement\\vendor-collaboration-work-external-vendors.md"
+  ],
   "de15ff1bbb19514b06ba8acc918249071bcefc75": [
     "scm\\procurement\\vendor-collaboration-work-external-vendors.md"
   ],
@@ -9152,6 +9161,9 @@
   "437f2348603db432df6d7589e4043d8145c52a1e": [
     "scm\\warehousing\\warehouse-configuration.md"
   ],
+  "9476ee3657ede92183e5884ad17dfb9e41abf638": [
+    "scm\\TOC.md"
+  ],
   "bd55a9c28af960ebbda855c774944dd4e94d3879": [
     "scm\\TOC.md"
   ],
@@ -9178,6 +9190,9 @@
   ],
   "3f9145c4e67b8c4418a56e0b95f28be9747f439f": [
     "scm\\TOC.md"
+  ],
+  "29ddc9cf3c56e63b0176bde48c9e5d49c0249e00": [
+    "dev-itpro\\lcs-solutions\\country-region.md"
   ],
   "b9a294900167ce5a17cc9e0e6a49006aaf4b3ed6": [
     "dev-itpro\\lcs-solutions\\country-region.md"
@@ -9440,6 +9455,21 @@
   "17a5dcf0f406380fbc4ff242932516894562fe5d": [
     "dev-itpro\\mobile-apps\\mobile-workspaces-released.md"
   ],
+  "2e707c60cf3b7d1c7897343365a8351bf49681cd": [
+    "financials\\expense-management\\expense-management-mobile-workspace.md"
+  ],
+  "0e52d1c5dde7f79c4a8ac5ac2d9c3b25bba9c2cd": [
+    "financials\\expense-management\\expense-management-mobile-workspace.md"
+  ],
+  "4e3202de8e5288bbd52e8c28922374de147cc99f": [
+    "financials\\expense-management\\expense-management-mobile-workspace.md"
+  ],
+  "4addd95747690d0eb67dd3c978043e337b02e676": [
+    "financials\\expense-management\\expense-management-mobile-workspace.md"
+  ],
+  "9d3b7a4d5184c3c4958f4298f1d3dd4de0cd06d6": [
+    "financials\\expense-management\\expense-management-mobile-workspace.md"
+  ],
   "d80dea89db1fbe270b96063f3818ec3ac95239c8": [
     "financials\\project-management\\project-time-entry-mobile-workspace.md"
   ],
@@ -9483,6 +9513,30 @@
   "3402ca5133239f97296b50c354fe19d0fa5f887c": [
     "retail\\includes\\banner.md"
   ],
+  "de2ec4c908773c17f02733d8beeab367ed83efa5": [
+    "dev-itpro\\analytics\\practice-manager-power-bi.md"
+  ],
+  "d119635a76ea18187420129f8532697b72c6100e": [
+    "dev-itpro\\analytics\\practice-manager-power-bi.md"
+  ],
+  "0f2a1a9df8e5036c60b74b8a710e606b0b1e312a": [
+    "dev-itpro\\analytics\\practice-manager-power-bi.md"
+  ],
+  "c09aaa33d5a8cb93799d4881cb691aad25ef69f3": [
+    "dev-itpro\\analytics\\practice-manager-power-bi.md"
+  ],
+  "a09ffcf854b92b9e1d60651217ba65304313f619": [
+    "dev-itpro\\analytics\\practice-manager-power-bi.md"
+  ],
+  "8264b2179210c6bd27d9731828f9d80fafdb4263": [
+    "retail\\task-recorder-retail-pos.md"
+  ],
+  "fd27903856332b16ced45632db0b2caf6eea5d46": [
+    "retail\\task-recorder-retail-pos.md"
+  ],
+  "3ca86a3353d3f613057dd77754266fc69975229f": [
+    "retail\\task-recorder-retail-pos.md"
+  ],
   "957626a283b750645adefa5176480e68cc27e4f1": [
     "scm\\master-planning\\import-historical-data.md"
   ],
@@ -9509,6 +9563,9 @@
   ],
   "3e88121b647dc06dd3466c238109082c53352650": [
     "financials\\cash-bank-management\\cash-flow-forecasting.md"
+  ],
+  "db784cadee3533f6a5ef6785b6cc694c9be64c87": [
+    "financials\\cash-bank-management\\Cash-Overview-Power-BI-content.md"
   ],
   "9ef4126bbd44682060de51424961c9db3e956330": [
     "financials\\cash-bank-management\\Cash-Overview-Power-BI-content.md"
@@ -9663,6 +9720,9 @@
   "67049085a0b962be871040e32015e03347826762": [
     "financials\\cost-accounting\\statistical-measure-provider-template.md"
   ],
+  "4ef5e82df84dfd5695466eec4eee818350aa0909": [
+    "financials\\fixed-assets\\fixed-asset-management-workspace.md"
+  ],
   "dfd641f51aad551dfd4c8ee3690ee5a4716540a8": [
     "financials\\fixed-assets\\fixed-asset-management-workspace.md"
   ],
@@ -9692,6 +9752,9 @@
   ],
   "4c17441b70a75f032c900c9360da6c0730cf89ba": [
     "hr\\personnel-actions-faq.md"
+  ],
+  "f590c643594b25ca22df8fe14f2ed7bc7233a9fa": [
+    "hr\\process-compensation.md"
   ],
   "1f347214b9e02525ab5a82bfcf7da4db6c6a6c7b": [
     "hr\\process-compensation.md"
@@ -9728,6 +9791,12 @@
   ],
   "2a7e66181a2bfcb0cf037834ac0bab3c22117baa": [
     "scm\\procurement\\use-external-catalogs-for-punchout.md"
+  ],
+  "9ddcbd06ba214f1d26a0056c15595ebaad72e261": [
+    "scm\\production-control\\register-material-consumption-hand-held-device.md"
+  ],
+  "5b51df9a26627aa72762103c2ac721a7d5202c94": [
+    "scm\\production-control\\register-material-consumption-hand-held-device.md"
   ],
   "1a3f43c2812cdf1c9f5c564bc86abe4fcc90b8a3": [
     "scm\\production-control\\visual-scheduling-lean-manufacturing.md"
@@ -9780,6 +9849,15 @@
   "a8ec8b9e24f9ffc925f926887838b421c8504ffe": [
     "scm\\warehousing\\system-group-on-open-work-list.md"
   ],
+  "ea31b5b89550b2ee439a440a4d8da5b747b9c91f": [
+    "scm\\warehousing\\upgrade-migration-warehouse-management-processes.md"
+  ],
+  "210ddbd67e79a310d1577968f6ac4abbc27d6f47": [
+    "scm\\warehousing\\upgrade-migration-warehouse-management-processes.md"
+  ],
+  "4cf3273f993463ca484752e94a19dff0116a7ac4": [
+    "scm\\warehousing\\upgrade-migration-warehouse-management-processes.md"
+  ],
   "e105c4b171979a03c20718c1fa9d558c921cd704": [
     "dev-itpro\\user-interface\\data-validation-workspace.md"
   ],
@@ -9807,6 +9885,9 @@
   "b3c94fa73410d9bdcaaec11dee04a7a239e4d45a": [
     "financials\\localizations\\emea-reverse-charge.md"
   ],
+  "9289a8aa0db8cc9164226156e5fb6bbaf1f5ffda": [
+    "core\\hr\\localizations\\noam-usa-enter-beginning-balances.md"
+  ],
   "ae6d5b1f527e1b64aa52d814c3e3b7be88dc77e0": [
     "core\\hr\\localizations\\noam-usa-enter-beginning-balances.md"
   ],
@@ -9815,5 +9896,32 @@
   ],
   "8cc41e24d0d7f70bf24dfe4a6f6120a387d07029": [
     "scm\\warehousing\\mixed-license-plate-receiving.md"
+  ],
+  "ba773306ead43872e6867f9034672ee84d41a348": [
+    "dev-itpro\\analytics\\add-analytics-tab-workspaces.md"
+  ],
+  "c9f9f24bd90c134f85f95e4ff6011e9f015d22c4": [
+    "dev-itpro\\analytics\\configure-ssrs-on-premises.md"
+  ],
+  "84ecb7b5ff19a9d06456b842dd5078f4b94da2d0": [
+    "dev-itpro\\deployment\\on-premises-deployment-landing-page.md"
+  ],
+  "eae6d9568256b492cb91587836e9dfbf4ba24a49": [
+    "dev-itpro\\deployment\\setup-deploy-on-premises-environments.md"
+  ],
+  "c40ac469ff74999f16bda28ee6f1bc0bf4de9954": [
+    "dev-itpro\\get-started\\hardware-sizing-on-premises-environments.md"
+  ],
+  "045dd30e26c21ecd0f4191663619c4cf6a14dc13": [
+    "financials\\localizations\\emea-ISO20022-file-formats.md"
+  ],
+  "1b04711f76f020b72c89ca2f49babcfc9817ee4a": [
+    "financials\\localizations\\emea-storno.md"
+  ],
+  "14ededf0c114af517ea84b5cbb3f51a1c743add4": [
+    "scm\\production-control\\flushing-principles.md"
+  ],
+  "d981c3d550155d64a421edffbcc8e3dfbd72a187": [
+    "scm\\production-control\\production-output-location.md"
   ]
 }
