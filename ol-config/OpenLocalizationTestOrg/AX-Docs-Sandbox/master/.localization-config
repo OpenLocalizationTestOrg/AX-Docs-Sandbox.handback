@@ -157,6 +157,17 @@
         }
       ]
     },
+{
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.industry.Contains(\"Public sector\")",
+      "priorities": [
+        {
+          "priority": "do-not-translate",
+          "locales": [
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
     {
       "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"index-page\")",
       "priorities": [
@@ -576,6 +587,19 @@
       "priorities": [
         {
           "priority": "developer-content",
+          "locales": [
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "files": [
+        "dev-itpro/includes/upgrade-banner.md"
+      ],
+      "priorities": [
+        {
+         "priority": "developer-content",
           "locales": [
             "sr-cyrl-rs"
           ]
