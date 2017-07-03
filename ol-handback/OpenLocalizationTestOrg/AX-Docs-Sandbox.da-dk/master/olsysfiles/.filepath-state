@@ -20,56 +20,8 @@
   "364d7e62dfaf54d3710d1888b8d2347dbe1627a2": [
     "core\\breadcrumb\\toc.yml"
   ],
-  "f09dd38f55efb84eaf23aaf1167ded06b50bcd73": [
-    "core\\get-started\\action-search.md"
-  ],
-  "b08dfcc9e8f199a7462fe5b12d3df6db50cdcfe0": [
-    "core\\get-started\\action-search.md"
-  ],
-  "82acf783e9deb9d873cbd5a897b3415eb0a300ed": [
-    "core\\get-started\\action-search.md"
-  ],
-  "cd024f2bc06fca9c21ea41fbed44efbc519cee94": [
-    "core\\get-started\\action-search.md"
-  ],
-  "c6199176ecd908e6eb1f754f304bab29ea077908": [
-    "core\\get-started\\action-search.md"
-  ],
-  "47e4c88056bfc81a9b90577c9d6f7a03eef88f8e": [
-    "core\\get-started\\action-search.md"
-  ],
-  "5d440f462a9296f07cc55ab2ec2111bdd73b2bcf": [
-    "core\\get-started\\action-search.md"
-  ],
-  "ef5709889dcabd4c9ed760f57d210956f38c37e9": [
-    "core\\get-started\\action-search.md"
-  ],
-  "396abdb396b2f4044e0bc4b82e8f77c48dd07f1a": [
-    "core\\get-started\\action-search.md"
-  ],
-  "dd1333f6208540872d96ca9d1f17df2486838f66": [
-    "core\\get-started\\action-search.md"
-  ],
-  "2ff12088d432d3e8693dfd9662cb0ead82fd0191": [
-    "core\\get-started\\action-search.md"
-  ],
-  "417ceee49e41d14a074f82d9a1a9bc43c7a0cab1": [
-    "core\\get-started\\action-search.md"
-  ],
-  "689d8f9fb0501c5007db21d41f126737af77b89e": [
-    "core\\get-started\\action-search.md"
-  ],
-  "ec5cd8138fa23ae647fb88e5617eec6811ed4feb": [
-    "core\\get-started\\advanced-filtering-query-options.md"
-  ],
-  "521e1e9be2ab3f31b63cfd315797d7dbe4a2f080": [
-    "core\\get-started\\advanced-filtering-query-options.md"
-  ],
-  "29af0f6019c5b2c6421adb32892789e0abc49abf": [
-    "core\\get-started\\advanced-filtering-query-options.md"
-  ],
-  "48b2049c3f5025d7e8d3fc7e944aa9360786d18a": [
-    "core\\get-started\\advanced-filtering-query-options.md"
+  "8d57b73904c066b48075bbe28b0a51bf4cbd6306": [
+    "core\\get-started\\client-faq.md"
   ],
   "f05ee46ff25d5e9d8bb89da08b17620481689d66": [
     "core\\get-started\\client-faq.md"
@@ -95,6 +47,9 @@
   "2c99b2e1f7ddecb61be62832ca1a8d3ac1fd21a8": [
     "core\\get-started\\client-faq.md"
   ],
+  "03e8a72cdf1b5441c57cd881e86b92c9a0566fd1": [
+    "core\\get-started\\configure-filter-workspaces.md"
+  ],
   "f19039f778e387f7dcd7541485db32c7c07515a5": [
     "core\\get-started\\configure-filter-workspaces.md"
   ],
@@ -109,27 +64,6 @@
   ],
   "30d86674bce2ed65b0ccdac0862f208b02b02e5c": [
     "core\\get-started\\configure-filter-workspaces.md"
-  ],
-  "c5642c91d2dafcde66f2f8833df154f5b8ea67f0": [
-    "core\\get-started\\display-pages-side-by-side.md"
-  ],
-  "aad98247692bdbaf5b8023b393b5e33260dd0b1a": [
-    "core\\get-started\\display-pages-side-by-side.md"
-  ],
-  "9be0785731dfde3c2af1f6c36ab832b28150e023": [
-    "core\\get-started\\display-pages-side-by-side.md"
-  ],
-  "b6985b600fb7eb84f7e3db8d49561eab24341a03": [
-    "core\\get-started\\display-pages-side-by-side.md"
-  ],
-  "e29d436560590e844e92180a6d1e2ad53d019662": [
-    "core\\get-started\\display-pages-side-by-side.md"
-  ],
-  "3c241b42954902f0720120a9bbad4505ea3e1a70": [
-    "core\\get-started\\display-pages-side-by-side.md"
-  ],
-  "940d086f9c99af54bfcc7911ee7272f9eccba464": [
-    "core\\get-started\\display-pages-side-by-side.md"
   ],
   "23e387ae9cd53812aa1748f055a4eb6a8662a5dd": [
     "core\\get-started\\glossary.md"
