@@ -508,7 +508,7 @@
       "SourceFilename": "dev-itpro\\data-entities\\behavioral-properties-data-entities.md",
       "XliffHash": "bd58887525c3fbdcfef4bbf05b62ffdb765a2f85",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\85ef8e0ec0296a6e67d4ed1704b5346295944282.04ec95b4a9b1b98c27a16e500b75f884249c5307.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\85ef8e0ec0296a6e67d4ed1704b5346295944282.d18ee26c0802be20c8c70c8f771f1a6968e438d7.xml"
     },
     "retail\\dev-itpro\\retail-sdk\\retail-sdk-samples.md.adb89849911844fdbe28b450ec103d9487ad7680.HT": {
       "SourceFilename": "retail\\dev-itpro\\retail-sdk\\retail-sdk-samples.md",
@@ -4282,7 +4282,7 @@
       "SourceFilename": "dev-itpro\\lifecycle-services\\ax-2012\\deploy-retail-essentials-demo-environment-azure.md",
       "XliffHash": "88bdda2a82c6d2b0492d0391d09888915c11548f",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\ab1cb342b7cb41ef27a4f576d37867a227e7ea0a.d3fe0d578aa56b8c10c590e3049ebf3aadca1e6e.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\ab1cb342b7cb41ef27a4f576d37867a227e7ea0a.e33affc036a3df88bec3b06d978a32773a6025f9.xml"
     },
     "dev-itpro\\user-interface\\messaging-user.md.10ff184734fd9441da5d39f369fe6189864d79a1.HT": {
       "SourceFilename": "dev-itpro\\user-interface\\messaging-user.md",
@@ -7246,7 +7246,7 @@
       "SourceFilename": "dev-itpro\\lifecycle-services\\ax-2012\\view-status-purge-archive-jobs.md",
       "XliffHash": "eb365d8bbb11d7679b000fd4bb41aa509a6ef6af",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\72d7211493cdac6989f4d8e2ce151c72f0824998.e006397d52d66b868e11d3fc80f15dae4713711d.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\72d7211493cdac6989f4d8e2ce151c72f0824998.916ec3ec20642a9da0e5453feada3fcdffc3502d.xml"
     },
     "dev-itpro\\lifecycle-services\\ax-2012\\copy-compare-entity-data-between-companies-dixf.md.18e72f2124b10b6b6b2843619ea9cc8683fe6577.HT": {
       "SourceFilename": "dev-itpro\\lifecycle-services\\ax-2012\\copy-compare-entity-data-between-companies-dixf.md",
@@ -7696,7 +7696,7 @@
       "SourceFilename": "core\\get-started\\configure-filter-workspaces.md",
       "XliffHash": "9e3cf4073f04990e5151d3fd002d58aac3483eea",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\f19039f778e387f7dcd7541485db32c7c07515a5.425a968a5a77d755a60f79368550299512de20c5.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\03e8a72cdf1b5441c57cd881e86b92c9a0566fd1.967b7a0b8fc2532afd4953be91431d436ad9f940.xml"
     },
     "dev-itpro\\perf-test\\performance-timer.md.8cda2f584a4357c2a1acd6d4e820ec835b20dbb6.HT": {
       "SourceFilename": "dev-itpro\\perf-test\\performance-timer.md",
@@ -9304,7 +9304,7 @@
       "SourceFilename": "financials\\localizations\\latam-mex-electronic-ledger-accounting-statements.md",
       "XliffHash": "822001d85086c7c6f91bdab498638c9a519174c6",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\a69a189f35786e2ae0c8c9a596cfb79e5ee6cdfd.9630c85074eb6f895db29e1ef7d8d40de496cbd9.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\a69a189f35786e2ae0c8c9a596cfb79e5ee6cdfd.2a2c762ceefc1b5e9189843e354f2cc3e4c96128.xml"
     },
     "scm\\inventory\\quality-management-processes.md.8960596c607c6829f594a0d3e4ee852eebe60328.HT": {
       "SourceFilename": "scm\\inventory\\quality-management-processes.md",
@@ -10060,7 +10060,7 @@
       "SourceFilename": "financials\\localizations\\latam-bra-legal-entity-parameters.md",
       "XliffHash": "d329eb2bd94edeb324fe563ee662ee7a2a612f4c",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\54e959bd20ea8622eba851dfabbd64eaf133f3f8.2850f898a1d277eb79e6e289fc8459be15ff7d1c.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\54e959bd20ea8622eba851dfabbd64eaf133f3f8.4be95908150af9f504464c8eca4182f6337dd660.xml"
     },
     "dev-itpro\\dev-ref\\w-classes.md.d96084595870729216dd88022bf5f11ff3d2edcc.HT": {
       "SourceFilename": "dev-itpro\\dev-ref\\w-classes.md",
@@ -11206,7 +11206,7 @@
       "SourceFilename": "financials\\localizations\\emea-pol-fixed-assets-depreciation.md",
       "XliffHash": "47798e971bbab71f70fee3e2c37498e3345965d7",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\1a21eb28d9132347815f529f7b06e82e4366250e.8c7f7f6d2d76a0ada6cb1013a461dc03c4d5e39b.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\1a21eb28d9132347815f529f7b06e82e4366250e.524e18a92fdb2064f798ca1b1360c4d94ad2c4aa.xml"
     },
     "scm\\sales-marketing\\order-entry-deadlines.md.ee26e64252d352970a9c66aa827e91b1ce567c36.HT": {
       "SourceFilename": "scm\\sales-marketing\\order-entry-deadlines.md",
@@ -11572,7 +11572,7 @@
       "SourceFilename": "scm\\pim\\translations-product-related-information.md",
       "XliffHash": "feca2ccc080dff262bae0397fff6cd1837897a88",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\bd9ee5468d95cfbe347af59fd151ad5811b82953.0d392f80e1c7ea7ec6ae117af0d75a4324de523e.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\bd9ee5468d95cfbe347af59fd151ad5811b82953.8f60511dae8baba7462b25fd575d30e811f402e3.xml"
     },
     "dev-itpro\\analytics\\configure-power-bi-integration.md.985288c8f5d73167d044e27d9533f2b1f3af1f3d.HT": {
       "SourceFilename": "dev-itpro\\analytics\\configure-power-bi-integration.md",
@@ -12610,7 +12610,7 @@
       "SourceFilename": "dev-itpro\\lifecycle-services\\ax-2012\\table-properties.md",
       "XliffHash": "8c1d67a736babddc73e4e897b130a7808016058e",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\bddf17db4bd999381013fbfe43c2c74de0ed563b.06545747d609720b35fa2f2651476a7bae41a8c4.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\bddf17db4bd999381013fbfe43c2c74de0ed563b.5080f6b1c84a22f273920e1b89fa789150f4be7e.xml"
     },
     "retail\\retail-landing.md.9205d3fc3158eea409a9f958f5430d14ac03a0ef.HT": {
       "SourceFilename": "retail\\retail-landing.md",
@@ -12670,7 +12670,7 @@
       "SourceFilename": "financials\\localizations\\emea-aut-packing-material-fee-calculation.md",
       "XliffHash": "54abf1f5cb3b4643ed2178e5c1f53e5039d7455f",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\ef27326427790ed8dae917fb076ca004ffe3141f.9429f71bf0e3b0a63238927e0dc831e565a053ba.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\ef27326427790ed8dae917fb076ca004ffe3141f.8831b3f4d1a0e23a8aa83a1e6d85936edbe69f22.xml"
     },
     "dev-itpro\\analytics\\SSRS-report.md.3222a568c1a3e33e81b97c256dc072702ff413b8.HT": {
       "SourceFilename": "dev-itpro\\analytics\\SSRS-report.md",
@@ -13420,7 +13420,7 @@
       "SourceFilename": "dev-itpro\\lifecycle-services\\ax-2012\\deploy-high-availability-environment-azure.md",
       "XliffHash": "eb7f021be32f0cd5565e8ef24da9f958d0b8bc17",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\20fe5f69d27e5ed33e52aba88878e95a4dfe0f09.fa10dfdac4b72f959d5ffb75a7c0ac34d6b61372.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\20fe5f69d27e5ed33e52aba88878e95a4dfe0f09.fe19f9fcb22ccf675f8d763101eadd78458adac3.xml"
     },
     "financials\\public-sector\\public-sector-functionality.md.ffd6e5a8cdc807e0aca281e8bacf9cea91b424b7.HT": {
       "SourceFilename": "financials\\public-sector\\public-sector-functionality.md",
@@ -13450,7 +13450,7 @@
       "SourceFilename": "dev-itpro\\data-entities\\metadata-properties.md",
       "XliffHash": "e23b68b26c26b3e58db67bdb92d17ac1605fed8c",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\a214a3dd1fb0bd0f287578e8b60126923572fd9e.60cba898c283a063ac18b268de56004e1f58f38f.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\a214a3dd1fb0bd0f287578e8b60126923572fd9e.8b1effd2912cab4b5647b99e4b8a873877779e43.xml"
     },
     "core\\breadcrumb\\toc.yml.5ddacf15ba6303f819016fdda3a49e0dfcb51842.HT": {
       "SourceFilename": "core\\breadcrumb\\toc.yml",
@@ -15814,7 +15814,7 @@
       "SourceFilename": "core\\get-started\\advanced-filtering-query-options.md",
       "XliffHash": "6d8ca27f21c6c29e2b876c9da59f56198888f05e",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\ec5cd8138fa23ae647fb88e5617eec6811ed4feb.5cc0f29da0ba71cfc2223eb403eb80ce8513cb29.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\698a3fea56fc90a5648adcafbdffe295f9584081.10c16018845d2b249882bc7e2f90663f501d6e7c.xml"
     },
     "dev-itpro\\dev-tools\\programming-language-support.md.832565521a3a1b33fa44f8e938f7096a62b0754c.HT": {
       "SourceFilename": "dev-itpro\\dev-tools\\programming-language-support.md",
@@ -16558,7 +16558,7 @@
       "SourceFilename": "core\\get-started\\fasttrack-dynamics-365-overview.md",
       "XliffHash": "8b462bd2c22e12d10f91c6331b7ede65b557d456",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\99edf6d0bd48a21d1913b7bd6e0cf3c62d4991b3.d47d4746ab32ebdeff33001537fa1417ff93d4d5.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\f96acfe209b2ff65c166ca383e5751dc0a42c7a7.1a2a300e19efd669e6402f8b663d30ac1d4612c9.xml"
     },
     "dev-itpro\\data-entities\\data-entities-master-plan.md.adfac7e46fe63299dddc1f21780895c1261bc147.HT": {
       "SourceFilename": "dev-itpro\\data-entities\\data-entities-master-plan.md",
@@ -17236,7 +17236,7 @@
       "SourceFilename": "core\\get-started\\action-search.md",
       "XliffHash": "f93de8b77852d81a978d1b7382598a0bd6529d53",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\f09dd38f55efb84eaf23aaf1167ded06b50bcd73.03375efc2898282262ed62ca0573ff99c40e9ed8.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\a625e8bb86e0980e9af011b4af64d1e80cb5ce90.ec66659e2bf044d7e70a35399496e8e310d336df.xml"
     },
     "financials\\accounts-payable\\project-cost-accrual-purchase-receipts.md.0859113c5b68bf17a4742b15277b36758e2b55fa.HT": {
       "SourceFilename": "financials\\accounts-payable\\project-cost-accrual-purchase-receipts.md",
@@ -18028,7 +18028,7 @@
       "SourceFilename": "core\\get-started\\display-pages-side-by-side.md",
       "XliffHash": "3b3ce2c6c37ae446e661d75d97ba8bbb067f3d46",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\c5642c91d2dafcde66f2f8833df154f5b8ea67f0.c520caa39c09d4e84d64e160420452290a6b24cc.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\bf0900fe501f9034c0b8d794aced66f246c89912.f742f3152f929db4a7fafee22a3f056726375bb5.xml"
     },
     "scm\\production-control\\mixed-mode-plan.md.5502c2f66ac82a48be4314319ec0a16b57517582.HT": {
       "SourceFilename": "scm\\production-control\\mixed-mode-plan.md",
@@ -18376,7 +18376,7 @@
       "SourceFilename": "core\\get-started\\client-faq.md",
       "XliffHash": "de63a3e821b373cec210178d2d14cd4d7967e832",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\f05ee46ff25d5e9d8bb89da08b17620481689d66.e9cd5d9d132296c5cfa53f59a235c86a9c2752b6.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\8d57b73904c066b48075bbe28b0a51bf4cbd6306.ce74d709467bb74c1162c0201c5bb68cb85834d6.xml"
     },
     "financials\\localizations\\apac-chn-vouchers.md.c351eb87e00a64b9f2ad429916b64b8ebff6248d.HT": {
       "SourceFilename": "financials\\localizations\\apac-chn-vouchers.md",
@@ -18508,7 +18508,7 @@
       "SourceFilename": "financials\\localizations\\latam-mex-CFDI-electronic-invoices.md",
       "XliffHash": "fbcdc432616720acb3936480908bc1d43a1e0556",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\1f39d444819009bfa812f3f408547ef0b6cdb2b1.c1ab2c68874c536c2fca1aebbb9b14a2914383bb.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\1f39d444819009bfa812f3f408547ef0b6cdb2b1.9bdb6f87afcdeeb12b09de06f318e046f05dfd99.xml"
     },
     "core\\hr\\performance-management-overview.md.41edd73c8410b340255022ac022bd694641ff1fb.HT": {
       "SourceFilename": "core\\hr\\performance-management-overview.md",
@@ -19732,7 +19732,7 @@
       "SourceFilename": "scm\\warehousing\\configure-app-field-names-priorities-warehouse.md",
       "XliffHash": "aba002d5bb9286e4316348d7014764d8552135fc",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\e56b6df799319a0c3c9960dd1544b7fdb3c26921.a2676c2a2923223ee67fa52a4cc301ea819633a9.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\e56b6df799319a0c3c9960dd1544b7fdb3c26921.506bc221206b00f74631d888ce82d87dc6bc9a44.xml"
     },
     "retail\\dev-itpro\\create-windows-installer-payment-connector.md.b0c4f6fde62ba90c38e901295d63431e120ce2cf.HT": {
       "SourceFilename": "retail\\dev-itpro\\create-windows-installer-payment-connector.md",
@@ -19966,7 +19966,7 @@
       "SourceFilename": "financials\\localizations\\emea-ita-fiscal-books.md",
       "XliffHash": "2a4a43f51610d83b6d57238a4813dda7c5ec63c2",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\a4ba48699c08aba6e3dd603cc815338c2e815e2a.b0f42880eea0c739abe666d2fd5719b56619c280.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\a4ba48699c08aba6e3dd603cc815338c2e815e2a.c9c0ce370471deef8f343126269a940d615b6c59.xml"
     },
     "financials\\fixed-assets\\depreciation-methods-conventions.md.f9d1cc3a42e1df89d0d4d642fb10fcce37e99280.HT": {
       "SourceFilename": "financials\\fixed-assets\\depreciation-methods-conventions.md",
@@ -20218,7 +20218,7 @@
       "SourceFilename": "dev-itpro\\analytics\\column-definitions-financial-reports.md",
       "XliffHash": "a61fcfaf2fcddaf9dbae0d4318adc66f802f0970",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\45b33f02ade7a04039f24f9eaec3bcdf49019a83.8ee74750516c6b715cd4acc274790b1e250b284d.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\45b33f02ade7a04039f24f9eaec3bcdf49019a83.90bb625e7ca36a9856895326776f3d4b2c4b98eb.xml"
     },
     "dev-itpro\\mobile-apps\\publish-mobile-workspace.md.1c742a2b0dfc66eaac2f39728c4b4fb436edfb56.HT": {
       "SourceFilename": "dev-itpro\\mobile-apps\\publish-mobile-workspace.md",
@@ -21136,7 +21136,7 @@
       "SourceFilename": "financials\\localizations\\emea-reverse-charge.md",
       "XliffHash": "fa86199879ca9e7210360d2d232b5252f65ad514",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\056abc25736fd7638799d290072845aa9d92c545.02dda8fbb4b68082b6e73017fd0aca8826582313.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\056abc25736fd7638799d290072845aa9d92c545.da85c303ff39243e69e76b297ccf815d2f677cf4.xml"
     },
     "scm\\inventory\\inventory-on-hand-mobile-workspace.md.789bd035cf13cf36cfe594e89e2debb10e9695cd.HT": {
       "SourceFilename": "scm\\inventory\\inventory-on-hand-mobile-workspace.md",
@@ -21220,7 +21220,7 @@
       "SourceFilename": "dev-itpro\\migration-upgrade\\upgrade-latest-platform-update.md",
       "XliffHash": "0b113dbeeac13f0bbca747d95a1190b9992ffc91",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\3de0752c7aa7696be28c38427fc20c35cd13b10f.5e7cab499a4b528a8bbdd95208d5dec2e8ecc344.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\3de0752c7aa7696be28c38427fc20c35cd13b10f.8ab44c4c8d8ace564837dcdc9761533991fd3260.xml"
     },
     "retail\\dev-itpro\\retail-sdk\\retail-sdk-overview.md.1db79e84a1b3875ce51b628ff3329477abef5326.HT": {
       "SourceFilename": "retail\\dev-itpro\\retail-sdk\\retail-sdk-overview.md",
@@ -21796,7 +21796,7 @@
       "SourceFilename": "financials\\localizations\\emea-corrective-invoice.md",
       "XliffHash": "555f3390f2e219980ad752ac0264bca0108951c9",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\993bb501d2bc2a2505de5cd2276d096248d6c350.bfe663fb8f2be4ceb99d942bdab82ce685139fb4.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\993bb501d2bc2a2505de5cd2276d096248d6c350.e786cd88e37ef1cc2cb23fa40b9f0fd01ea19891.xml"
     },
     "dev-itpro\\lifecycle-services\\getting-started-lcs.md.875b8a9bf85e0589d9e21cd86e31b30f204b089a.HT": {
       "SourceFilename": "dev-itpro\\lifecycle-services\\getting-started-lcs.md",
@@ -22607,6 +22607,66 @@
       "XliffHash": "706008a27f120c985802d3f9bfa82fd041541e17",
       "TranslationType": 1,
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\a61a3a22ec837a89dba09a2f0ad936175c35726e.f4ecef8e16b064fb65116843e3912151b68afe1c.xml"
+    },
+    "financials\\localizations\\emea-edit-invoice-id-sales-orders.md.97aad97b6cf830513a63ba35abf6186070033307.HT": {
+      "SourceFilename": "financials\\localizations\\emea-edit-invoice-id-sales-orders.md",
+      "XliffHash": "97aad97b6cf830513a63ba35abf6186070033307",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\0c37791cfd890e427ca0eee542a1bc5f1ac96f3b.b669fe91dfb474e88fd7a88dd73363077227b607.xml"
+    },
+    "dev-itpro\\analytics\\configure-ssrs-on-premises.md.330d05690adf17739f98e07942c70e9d44d11bf5.HT": {
+      "SourceFilename": "dev-itpro\\analytics\\configure-ssrs-on-premises.md",
+      "XliffHash": "330d05690adf17739f98e07942c70e9d44d11bf5",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\c9f9f24bd90c134f85f95e4ff6011e9f015d22c4.297677acfcb26b8dd67a99b1c5776bdd57eab25f.xml"
+    },
+    "dev-itpro\\financial\\dimensionable-entities.md.3ca82a2cec610456cde99f83d5060fcc6323831a.HT": {
+      "SourceFilename": "dev-itpro\\financial\\dimensionable-entities.md",
+      "XliffHash": "3ca82a2cec610456cde99f83d5060fcc6323831a",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\60e9113fdccc9341e5f4c9ae3dcfd894c4d6ba24.a88b74f7200709ffd317860bd279111ef4222411.xml"
+    },
+    "dev-itpro\\lifecycle-services\\ax-2012\\run-test-data-transfer-tool-beta.md.46a95e08edb4d673293f1557b6f8bf972c5aa503.HT": {
+      "SourceFilename": "dev-itpro\\lifecycle-services\\ax-2012\\run-test-data-transfer-tool-beta.md",
+      "XliffHash": "46a95e08edb4d673293f1557b6f8bf972c5aa503",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\f9027653d70483f0466d1bbc098cb5bf3e860d56.cd998b8b951f66132c35d0ac3b64172b26528325.xml"
+    },
+    "dev-itpro\\dev-ref\\xpp-syntax.md.91fe1ad176d34b3776eb8e4631be2e332dbe5035.HT": {
+      "SourceFilename": "dev-itpro\\dev-ref\\xpp-syntax.md",
+      "XliffHash": "91fe1ad176d34b3776eb8e4631be2e332dbe5035",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\8bf795ae15a77553522434ad296cbc5f55b2e70b.5d73294b745f46e006b6dc96d734e66cdb42ac6b.xml"
+    },
+    "dev-itpro\\lifecycle-services\\ax-2012\\configure-sql-server-integration-services-multiple-versions-dixf.md.92e6af3f5ad99a257302d6a1f2ae89864ee387e3.HT": {
+      "SourceFilename": "dev-itpro\\lifecycle-services\\ax-2012\\configure-sql-server-integration-services-multiple-versions-dixf.md",
+      "XliffHash": "92e6af3f5ad99a257302d6a1f2ae89864ee387e3",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\f78042bc231fe98564ddac7caf9e965facad0c0c.be36d8eaff07a1cf0c96269b778777efb0b1e92f.xml"
+    },
+    "dev-itpro\\analytics\\general-electronic-reporting-formula-designer.md.f9c0c729178baa9e82474228502ab54d7ee3aafb.HT": {
+      "SourceFilename": "dev-itpro\\analytics\\general-electronic-reporting-formula-designer.md",
+      "XliffHash": "f9c0c729178baa9e82474228502ab54d7ee3aafb",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\0f31a3693e9daf12dab047290f4f3d528b283afb.72dfe1d844b0b704a7bc2bd16aa522cab3438a5d.xml"
+    },
+    "dev-itpro\\lifecycle-services\\ax-2012\\join-enterprise-portal-servers-single-server-farm.md.620e02018b7621758f7e7d9398d6beac3b12fa02.HT": {
+      "SourceFilename": "dev-itpro\\lifecycle-services\\ax-2012\\join-enterprise-portal-servers-single-server-farm.md",
+      "XliffHash": "620e02018b7621758f7e7d9398d6beac3b12fa02",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\28db50829e1f4620dd04cecbaff85d96f7109644.d0e505475552c5b42974899593b258fe2a2c3a81.xml"
+    },
+    "dev-itpro\\lifecycle-services\\whats-new-lcs.md.f73b759a17e40f8a6b6d01bc419203e9dd9c95f6.HT": {
+      "SourceFilename": "dev-itpro\\lifecycle-services\\whats-new-lcs.md",
+      "XliffHash": "f73b759a17e40f8a6b6d01bc419203e9dd9c95f6",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\ea481c8bf3e943c60396471601417d49e9045cad.2e595090015ae20027ca6c1a4f7896b860f154d3.xml"
+    },
+    "dev-itpro\\lifecycle-services\\support-experience.md.8ae3d222dec944809b217e0878c9a259a05115db.HT": {
+      "SourceFilename": "dev-itpro\\lifecycle-services\\support-experience.md",
+      "XliffHash": "8ae3d222dec944809b217e0878c9a259a05115db",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\b6d1defcd8f0ca85f99b4ce684c11ec4712818ff.b85aa02195f46650ac4ae4c30f413d0d0cebb025.xml"
     }
   }
 }
