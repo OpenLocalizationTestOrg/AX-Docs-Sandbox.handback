@@ -6,33 +6,33 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [core\get-started\advanced-filtering-query-options.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d7fe6d9425d1d4fdd66201b80c9bf42fd426e83f/core/get-started/advanced-filtering-query-options.md) | HandedBackFailed | [Details](#ec5cd8138fa23ae647fb88e5617eec6811ed4feb9)
+ [core\get-started\configure-filter-workspaces.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b1d643248ff9074c51896d98d0dc8d3a88f7237c/core/get-started/configure-filter-workspaces.md) | HandedBackFailed | [Details](#03e8a72cdf1b5441c57cd881e86b92c9a0566fd111)
 
 ## Item Details
-##### <a name='ec5cd8138fa23ae647fb88e5617eec6811ed4feb9'></a> Source: [core\get-started\advanced-filtering-query-options.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/d7fe6d9425d1d4fdd66201b80c9bf42fd426e83f/core/get-started/advanced-filtering-query-options.md)
+##### <a name='03e8a72cdf1b5441c57cd881e86b92c9a0566fd111'></a> Source: [core\get-started\configure-filter-workspaces.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/b1d643248ff9074c51896d98d0dc8d3a88f7237c/core/get-started/configure-filter-workspaces.md)
 * Status: HandedBackFailed
 * Target File: 
-* Handoff File: [advanced-filtering-query-options.585cd80a2c7447dadbe434eaebdc5cacac05855b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/0cb0271d6afa6a87b4d4a6cd8f1ec534b4123794/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/advanced-filtering-query-options.585cd80a2c7447dadbe434eaebdc5cacac05855b.da-dk.xlf)
-* Handoff Datetime: 2017-06-28 16:12:28
+* Handoff File: [configure-filter-workspaces.6859e231d19991e8dfae401b30341eac0ddecc35.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/5cd6c6db03fc190bcdf329266d3a0a6b52f8dc1f/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/business-process/configure-filter-workspaces.6859e231d19991e8dfae401b30341eac0ddecc35.da-dk.xlf)
+* Handoff Datetime: 2017-07-03 15:19:09
 * Handoff Reason: Include
 * Handoff Name: 
-* Archive File: [advanced-filtering-query-options.585cd80a2c7447dadbe434eaebdc5cacac05855b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/5e7ff8576164120146603eefaba6dc6764ef2c30/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/advanced-filtering-query-options.585cd80a2c7447dadbe434eaebdc5cacac05855b.da-dk.xlf)
-* Archive Datetime: 2017-06-28 16:12:30
+* Archive File: [configure-filter-workspaces.6859e231d19991e8dfae401b30341eac0ddecc35.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/f134daa77c356fb9a9b4ca638fa459b59312fbd3/ol-archive/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/business-process/configure-filter-workspaces.6859e231d19991e8dfae401b30341eac0ddecc35.da-dk.xlf)
+* Archive Datetime: 2017-07-03 15:19:12
 * Handback File: 
-* Handback Datetime: 2017-06-28 16:30:58
+* Handback Datetime: 2017-07-03 15:43:36
 * Handback Name: 
-* Handback Error: [cache_file_not_found](#ec5cd8138fa23ae647fb88e5617eec6811ed4feb9cache_file_not_found)
-* Bilingual File: [advanced-filtering-query-options.585cd80a2c7447dadbe434eaebdc5cacac05855b.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/9fee99d4843397a4d8f7d67daa6225b1267e59dd/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/advanced-filtering-query-options.585cd80a2c7447dadbe434eaebdc5cacac05855b.da-dk.xlf)
+* Handback Error: [cache_file_not_found](#03e8a72cdf1b5441c57cd881e86b92c9a0566fd111cache_file_not_found)
+* Bilingual File: [configure-filter-workspaces.6859e231d19991e8dfae401b30341eac0ddecc35.da-dk.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handback/blob/9fee99d4843397a4d8f7d67daa6225b1267e59dd/ol-handback/OpenLocalizationTestOrg/AX-Docs-Sandbox.da-dk/master/basic/configure-filter-workspaces.6859e231d19991e8dfae401b30341eac0ddecc35.da-dk.xlf)
 * Bilingual Datetime: 2017-06-08 07:13:58
 * [Back to Top](#report-top)
 
 
 ## Error Details
-##### <a name='ec5cd8138fa23ae647fb88e5617eec6811ed4feb9cache_file_not_found'></a> Source: [core\get-started\advanced-filtering-query-options.md](#ec5cd8138fa23ae647fb88e5617eec6811ed4feb9)
+##### <a name='03e8a72cdf1b5441c57cd881e86b92c9a0566fd111cache_file_not_found'></a> Source: [core\get-started\configure-filter-workspaces.md](#03e8a72cdf1b5441c57cd881e86b92c9a0566fd111)
 * Error Code: cache_file_not_found
-* Error Message: The skeleton or source cache file of 48b2049c3f5025d7e8d3fc7e944aa9360786d18a is not found.
+* Error Message: The skeleton or source cache file of acbab3c833c109576f1e1e26fefeee770a29aeaf is not found.
 * Retriable: False
-* Error Details: {"internal_error_code":"cache_file_not_found","internal_error_message":"The skeleton or source cache file of 48b2049c3f5025d7e8d3fc7e944aa9360786d18a is not found.","internal_error_retriable":false,"exception_message":"The skeleton or source cache file of 48b2049c3f5025d7e8d3fc7e944aa9360786d18a is not found.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
+* Error Details: {"internal_error_code":"cache_file_not_found","internal_error_message":"The skeleton or source cache file of acbab3c833c109576f1e1e26fefeee770a29aeaf is not found.","internal_error_retriable":false,"exception_message":"The skeleton or source cache file of acbab3c833c109576f1e1e26fefeee770a29aeaf is not found.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
 
 Generated by OpenLocalization.
