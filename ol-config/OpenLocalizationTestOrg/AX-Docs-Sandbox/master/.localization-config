@@ -1,6 +1,24 @@
 {
   "filters": [ 
     {
+      "metadata": {
+        "audience": [
+          "Developer",
+          "Developer, IT Pro",
+          "IT Pro, Developer",
+          "IT Pro"
+        ]
+      },
+      "priorities": [
+        {
+          "priority": "developer-content",
+          "locales": [
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    }, 
+{
       "metadataExpression": "audience.Contains(\"Application User\") && title.Contains(\"Finance and Operations glossary\") && ms.search.region.Contains(\"global\")",
       "priorities": [
         {
@@ -68,7 +86,346 @@
         }
       ]
     },
-  {
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\") && ms.search.region.Contains(Austria)",
+      "priorities": [
+        {
+          "priority": "business-process",
+          "locales": [
+            "de-de",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\") && ms.search.region.Contains(Belgium)",
+      "priorities": [
+        {
+          "priority": "business-process",
+          "locales": [
+            "fr-fr",
+            "nl-nl",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\") && ms.search.region.Contains(Brazil)",
+      "priorities": [
+        {
+          "priority": "business-process",
+          "locales": [
+            "pt-br",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\") && ms.search.region.Contains(Canada)",
+      "priorities": [
+        {
+          "priority": "business-process",
+          "locales": [
+            "fr-fr",
+            "sr-cyrl-rs"
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\") && ms.search.region.Contains(\"China (PRC)\")",
+      "priorities": [
+        {
+          "priority": "business-process",
+          "locales": [
+            "zh-cn",
+            "sr-cyrl-rs"      
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\") && ms.search.region.Contains(\"Czech Republic\")",
+      "priorities": [
+        {
+          "priority": "business-process",
+          "locales": [
+            "cs-cz",
+            "sr-cyrl-rs" 
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\") && ms.search.region.Contains(Denmark)",
+      "priorities": [
+        {
+          "priority": "business-process",
+          "locales": [
+            "da-dk",
+            "sr-cyrl-rs" 
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\") && ms.search.region.Contains(Estonia)",
+      "priorities": [
+        {
+          "priority": "business-process",
+          "locales": [
+            "et-ee",
+            "sr-cyrl-rs" 
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\") && ms.search.region.Contains(Finland)",
+      "priorities": [
+        {
+          "priority": "business-process",
+          "locales": [
+            "fi-fi",
+            "sr-cyrl-rs" 
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\") && ms.search.region.Contains(France)",
+      "priorities": [
+        {
+          "priority": "business-process",
+          "locales": [
+            "fr-fr",
+            "sr-cyrl-rs" 
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\") && ms.search.region.Contains(Germany)",
+      "priorities": [
+        {
+          "priority": "business-process",
+          "locales": [
+            "de-de",
+            "sr-cyrl-rs" 
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\") && ms.search.region.Contains(Hungary)",
+      "priorities": [
+        {
+          "priority": "business-process",
+          "locales": [
+            "hu-hu",
+            "sr-cyrl-rs" 
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\") && ms.search.region.Contains(iceland)",
+      "priorities": [
+        {
+          "priority": "business-process",
+          "locales": [
+            "is-is",
+            "sr-cyrl-rs" 
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\") && ms.search.region.Contains(Italy)",
+      "priorities": [
+        {
+          "priority": "business-process",
+          "locales": [
+            "it-it",
+            "sr-cyrl-rs" 
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\") && ms.search.region.Contains(Japan)",
+      "priorities": [
+        {
+          "priority": "business-process",
+          "locales": [
+            "ja-jp",
+            "sr-cyrl-rs" 
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\") && ms.search.region.Contains(Latvia)",
+      "priorities": [
+        {
+          "priority": "business-process",
+          "locales": [
+            "lv-lv",
+            "sr-cyrl-rs" 
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\") && ms.search.region.Contains(Lithuania)",
+      "priorities": [
+        {
+          "priority": "business-process",
+          "locales": [
+            "lt-lt",
+            "sr-cyrl-rs" 
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\") && ms.search.region.Contains(Mexico)",
+      "priorities": [
+        {
+          "priority": "business-process",
+          "locales": [
+            "es-es",
+            "sr-cyrl-rs" 
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\") && ms.search.region.Contains(Netherlands)",
+      "priorities": [
+        {
+          "priority": "business-process",
+          "locales": [
+            "nl-nl",
+            "sr-cyrl-rs" 
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\") && ms.search.region.Contains(Norway)",
+      "priorities": [
+        {
+          "priority": "business-process",
+          "locales": [
+            "nb-no",
+            "sr-cyrl-rs" 
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\") && ms.search.region.Contains(Poland)",
+      "priorities": [
+        {
+          "priority": "business-process",
+          "locales": [
+            "pl-pl",
+            "sr-cyrl-rs" 
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\") && ms.search.region.Contains(Russia)",
+      "priorities": [
+        {
+          "priority": "business-process",
+          "locales": [
+            "ru-ru",
+            "sr-cyrl-rs" 
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\") && ms.search.region.Contains(\"Saudi Arabia\")",
+      "priorities": [
+        {
+          "priority": "business-process",
+          "locales": [
+            "ar-sa",
+            "sr-cyrl-rs" 
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\") && ms.search.region.Contains(Spain)",
+      "priorities": [
+        {
+          "priority": "business-process",
+          "locales": [
+            "es-es",
+            "sr-cyrl-rs" 
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\") && ms.search.region.Contains(Switzerland)",
+      "priorities": [
+        {
+          "priority": "business-process",
+          "locales": [
+            "fr-fr",
+            "de-de",
+            "it-it",
+            "sr-cyrl-rs" 
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\") && ms.search.region.Contains(Sweden)",
+      "priorities": [
+        {
+          "priority": "business-process",
+          "locales": [
+            "sv-se",
+            "sr-cyrl-rs" 
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\") && ms.search.region.Contains(Thailand)",
+      "priorities": [
+        {
+          "priority": "business-process",
+          "locales": [
+            "th-th",
+            "sr-cyrl-rs" 
+          ]
+        }
+      ]
+    },
+    {
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\") && ms.search.region.Contains(Turkey)",
+      "priorities": [
+        {
+          "priority": "business-process",
+          "locales": [
+            "tr-tr",
+            "sr-cyrl-rs" 
+          ]
+        }
+      ]
+    }, 
+ {
       "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region == \"Australia\"",
       "priorities": [
         {
@@ -163,6 +520,27 @@
         {
           "priority": "do-not-translate",
           "locales": [
+            "ar-sa",
+            "zh-cn",
+            "cs-cz",
+            "nl-nl",
+            "et-ee",
+            "fi-fi",
+            "de-de",
+            "hu-hu",
+            "is-is",
+            "it-it",
+            "ja-jp",
+            "lv-lv",
+            "lt-lt",
+            "nb-no",
+            "pl-pl",
+            "pt-br",
+            "ru-ru",
+            "es-es",
+            "sv-se",
+            "th-th",
+            "tr-tr",
             "sr-cyrl-rs"
           ]
         }
@@ -571,24 +949,6 @@
           "locales": [
             "tr-tr",
             "sr-cyrl-rs" 
-          ]
-        }
-      ]
-    },
-    {
-      "metadata": {
-        "audience": [
-          "Developer",
-          "Developer, IT Pro",
-          "IT Pro, Developer",
-          "IT Pro"
-        ]
-      },
-      "priorities": [
-        {
-          "priority": "developer-content",
-          "locales": [
-            "sr-cyrl-rs"
           ]
         }
       ]
