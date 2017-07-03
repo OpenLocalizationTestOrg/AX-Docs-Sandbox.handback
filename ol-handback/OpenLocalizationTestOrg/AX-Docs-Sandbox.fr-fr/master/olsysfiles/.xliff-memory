@@ -15234,7 +15234,7 @@
       "SourceFilename": "core\\get-started\\advanced-filtering-query-options.md",
       "XliffHash": "6d8ca27f21c6c29e2b876c9da59f56198888f05e",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\ec5cd8138fa23ae647fb88e5617eec6811ed4feb.5cc0f29da0ba71cfc2223eb403eb80ce8513cb29.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\698a3fea56fc90a5648adcafbdffe295f9584081.10c16018845d2b249882bc7e2f90663f501d6e7c.xml"
     },
     "dev-itpro\\user-interface\\lookup-form-pattern.md.953c0d9bd692ddac82bf35c5cc66653016505bbe.HT": {
       "SourceFilename": "dev-itpro\\user-interface\\lookup-form-pattern.md",
@@ -18862,7 +18862,7 @@
       "SourceFilename": "core\\get-started\\client-faq.md",
       "XliffHash": "de63a3e821b373cec210178d2d14cd4d7967e832",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\f05ee46ff25d5e9d8bb89da08b17620481689d66.e9cd5d9d132296c5cfa53f59a235c86a9c2752b6.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\8d57b73904c066b48075bbe28b0a51bf4cbd6306.ce74d709467bb74c1162c0201c5bb68cb85834d6.xml"
     },
     "dev-itpro\\dev-ref\\xpp-macros.md.be6281c3f6f70adcbb26b9b2e63a7e852644dc3c.HT": {
       "SourceFilename": "dev-itpro\\dev-ref\\xpp-macros.md",
@@ -19078,7 +19078,7 @@
       "SourceFilename": "dev-itpro\\analytics\\column-definitions-financial-reports.md",
       "XliffHash": "a61fcfaf2fcddaf9dbae0d4318adc66f802f0970",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\45b33f02ade7a04039f24f9eaec3bcdf49019a83.8ee74750516c6b715cd4acc274790b1e250b284d.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\45b33f02ade7a04039f24f9eaec3bcdf49019a83.90bb625e7ca36a9856895326776f3d4b2c4b98eb.xml"
     },
     "financials\\cash-bank-management\\set-up-advanced-bank-reconciliation-import-process.md.f153f4615773f50c569df0bf2c36f1839a824b1b.HT": {
       "SourceFilename": "financials\\cash-bank-management\\set-up-advanced-bank-reconciliation-import-process.md",
@@ -19312,7 +19312,7 @@
       "SourceFilename": "scm\\warehousing\\configure-app-field-names-priorities-warehouse.md",
       "XliffHash": "aba002d5bb9286e4316348d7014764d8552135fc",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\e56b6df799319a0c3c9960dd1544b7fdb3c26921.a2676c2a2923223ee67fa52a4cc301ea819633a9.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\e56b6df799319a0c3c9960dd1544b7fdb3c26921.506bc221206b00f74631d888ce82d87dc6bc9a44.xml"
     },
     "dev-itpro\\analytics\\pin-power-bi-reports.md.6487f668370c76aef802eee5d4af97ccfecca03a.HT": {
       "SourceFilename": "dev-itpro\\analytics\\pin-power-bi-reports.md",
@@ -20266,7 +20266,7 @@
       "SourceFilename": "financials\\localizations\\emea-reverse-charge.md",
       "XliffHash": "fa86199879ca9e7210360d2d232b5252f65ad514",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\056abc25736fd7638799d290072845aa9d92c545.02dda8fbb4b68082b6e73017fd0aca8826582313.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\056abc25736fd7638799d290072845aa9d92c545.da85c303ff39243e69e76b297ccf815d2f677cf4.xml"
     },
     "retail\\optimal-combination-overlapping-discounts.md.e6b0ac45173413069218844f69d8eaef340da633.HT": {
       "SourceFilename": "retail\\optimal-combination-overlapping-discounts.md",
@@ -20542,7 +20542,7 @@
       "SourceFilename": "financials\\localizations\\emea-corrective-invoice.md",
       "XliffHash": "555f3390f2e219980ad752ac0264bca0108951c9",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\993bb501d2bc2a2505de5cd2276d096248d6c350.bfe663fb8f2be4ceb99d942bdab82ce685139fb4.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\993bb501d2bc2a2505de5cd2276d096248d6c350.e786cd88e37ef1cc2cb23fa40b9f0fd01ea19891.xml"
     },
     "scm\\inventory\\enable-quality-management.md.6ccce856f0c4103404c06bdc3616bd0f16773b77.HT": {
       "SourceFilename": "scm\\inventory\\enable-quality-management.md",
@@ -20957,6 +20957,18 @@
       "XliffHash": "e57e6b300f2957adbd014101582e7233f4153e60",
       "TranslationType": 1,
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\223af2f6d45b458f1035b0d9c0c830c3bc09026f.76d462f474aac8a8427cae26a2540345777d2907.xml"
+    },
+    "dev-itpro\\analytics\\configure-ssrs-on-premises.md.330d05690adf17739f98e07942c70e9d44d11bf5.HT": {
+      "SourceFilename": "dev-itpro\\analytics\\configure-ssrs-on-premises.md",
+      "XliffHash": "330d05690adf17739f98e07942c70e9d44d11bf5",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\c9f9f24bd90c134f85f95e4ff6011e9f015d22c4.297677acfcb26b8dd67a99b1c5776bdd57eab25f.xml"
+    },
+    "dev-itpro\\analytics\\general-electronic-reporting-formula-designer.md.f9c0c729178baa9e82474228502ab54d7ee3aafb.HT": {
+      "SourceFilename": "dev-itpro\\analytics\\general-electronic-reporting-formula-designer.md",
+      "XliffHash": "f9c0c729178baa9e82474228502ab54d7ee3aafb",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\0f31a3693e9daf12dab047290f4f3d528b283afb.72dfe1d844b0b704a7bc2bd16aa522cab3438a5d.xml"
     }
   }
 }
