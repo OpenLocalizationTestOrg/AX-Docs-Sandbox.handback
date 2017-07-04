@@ -22667,6 +22667,12 @@
       "XliffHash": "8ae3d222dec944809b217e0878c9a259a05115db",
       "TranslationType": 1,
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\b6d1defcd8f0ca85f99b4ce684c11ec4712818ff.b85aa02195f46650ac4ae4c30f413d0d0cebb025.xml"
+    },
+    "financials\\accounts-payable\\centralized-payments-accounts-payable.md.629695ca31b670f05db165b71c2bb3ff008c363b.HT": {
+      "SourceFilename": "financials\\accounts-payable\\centralized-payments-accounts-payable.md",
+      "XliffHash": "629695ca31b670f05db165b71c2bb3ff008c363b",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\261edd1dfd14a3a064e01ae1fadd9c892d236851.ee2e8506dd14caac187abad869669bd98ea1bbb6.xml"
     }
   }
 }
