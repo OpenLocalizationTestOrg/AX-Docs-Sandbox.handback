@@ -13,6 +13,29 @@
         {
           "priority": "developer-content",
           "locales": [
+            "ar-sa",
+            "zh-cn",
+            "cs-cz",
+            "da-dk",
+            "nl-nl",
+            "et-ee",
+            "fi-fi",
+            "fr-fr",
+            "de-de",
+            "hu-hu",
+            "is-is",
+            "it-it",
+            "ja-jp",
+            "lv-lv",
+            "lt-lt",
+            "nb-no",
+            "pl-pl",
+            "pt-br",
+            "ru-ru",
+            "es-es",
+            "sv-se",
+            "th-th",
+            "tr-tr",
             "sr-cyrl-rs"
           ]
         }
@@ -426,77 +449,34 @@
       ]
     }, 
  {
-      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region == \"Australia\"",
+      "metadataExpression": "audience.Contains(\"Application User\") && (ms.search.region == \"Australia\" || ms.search.region == \"Ireland\" || ms.search.region == \"Malaysia\" || ms.search.region == \"Singapore\" || ms.search.region == \"United Kingdom\" || ms.search.region == \"United States\" || ms.search.region == \"USA\")",
       "priorities": [
         {
           "priority": "do-not-translate",
           "locales": [
-            "sr-cyrl-rs"
-          ]
-        }
-      ]
-    },  
-  {
-      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region == \"Ireland\"",
-      "priorities": [
-        {
-          "priority": "do-not-translate",
-          "locales": [
-            "sr-cyrl-rs"
-          ]
-        }
-      ]
-    },  
-  {
-      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region == \"Malaysia\"",
-      "priorities": [
-        {
-          "priority": "do-not-translate",
-          "locales": [
-            "sr-cyrl-rs"
-          ]
-        }
-      ]
-    }, 
-  {
-      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region == \"Singapore\"",
-      "priorities": [
-        {
-          "priority": "do-not-translate",
-          "locales": [
-            "sr-cyrl-rs"
-          ]
-        }
-      ]
-    }, 
-  {
-      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region == \"United Kingdom\"",
-      "priorities": [
-        {
-          "priority": "do-not-translate",
-          "locales": [
-            "sr-cyrl-rs"
-          ]
-        }
-      ]
-    },    
-  {
-      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region == \"United States\"",
-      "priorities": [
-        {
-          "priority": "do-not-translate",
-          "locales": [
-            "sr-cyrl-rs"
-          ]
-        }
-      ]
-    },  
-  {
-      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.region == \"USA\"",
-      "priorities": [
-        {
-          "priority": "do-not-translate",
-          "locales": [
+            "ar-sa",
+            "zh-cn",
+            "cs-cz",
+            "da-dk",
+            "nl-nl",
+            "et-ee",
+            "fi-fi",
+            "fr-fr",
+            "de-de",
+            "hu-hu",
+            "is-is",
+            "it-it",
+            "ja-jp",
+            "lv-lv",
+            "lt-lt",
+            "nb-no",
+            "pl-pl",
+            "pt-br",
+            "ru-ru",
+            "es-es",
+            "sv-se",
+            "th-th",
+            "tr-tr",
             "sr-cyrl-rs"
           ]
         }
@@ -961,6 +941,29 @@
         {
          "priority": "developer-content",
           "locales": [
+            "ar-sa",
+            "zh-cn",
+            "cs-cz",
+            "da-dk",
+            "nl-nl",
+            "et-ee",
+            "fi-fi",
+            "fr-fr",
+            "de-de",
+            "hu-hu",
+            "is-is",
+            "it-it",
+            "ja-jp",
+            "lv-lv",
+            "lt-lt",
+            "nb-no",
+            "pl-pl",
+            "pt-br",
+            "ru-ru",
+            "es-es",
+            "sv-se",
+            "th-th",
+            "tr-tr",
             "sr-cyrl-rs"
           ]
         }
