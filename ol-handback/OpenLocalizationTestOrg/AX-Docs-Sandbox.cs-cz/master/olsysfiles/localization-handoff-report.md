@@ -1,28 +1,11 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [dev-itpro\extensibility\customization-overlayering-extensions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3a502f0552a716d2bdaffa8eeb91b04f1674816f/dev-itpro/extensibility/customization-overlayering-extensions.md) | HandedOffSuccess | [Details](#f429956249f57898642051958c76209f1bf4189b0)
 
 ## Item Details
-##### <a name='f429956249f57898642051958c76209f1bf4189b0'></a> Source: [dev-itpro\extensibility\customization-overlayering-extensions.md](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox/blob/3a502f0552a716d2bdaffa8eeb91b04f1674816f/dev-itpro/extensibility/customization-overlayering-extensions.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [customization-overlayering-extensions.7d8b06c4683f8b0b34825216b9bf3562a62c1ea1.cs-cz.xlf](https://github.com/OpenLocalizationTestOrg/AX-Docs-Sandbox.handoff/blob/8c8202edf03ee44b5bec571f6d0df77a5b1b2e87/ol-handoff/OpenLocalizationTestOrg/AX-Docs-Sandbox.cs-cz/master/developer-content/customization-overlayering-extensions.7d8b06c4683f8b0b34825216b9bf3562a62c1ea1.cs-cz.xlf)
-* Handoff Datetime: 2017-07-07 02:07:51
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
