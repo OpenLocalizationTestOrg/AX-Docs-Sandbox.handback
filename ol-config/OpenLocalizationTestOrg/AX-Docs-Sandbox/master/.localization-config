@@ -78,6 +78,9 @@
         "scm/includes/banner.md",
         "retail/includes/banner.md",
         "financials/includes/banner.md",
+        "hr/includes/retail-name.md",
+        "scm/includes/retail-name.md",
+        "financials/includes/retail-name.md",
         "core/breadcrumb/toc.yml"
       ],
       "priorities": [
