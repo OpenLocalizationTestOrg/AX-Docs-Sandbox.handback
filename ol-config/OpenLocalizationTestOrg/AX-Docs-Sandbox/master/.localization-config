@@ -81,6 +81,12 @@
         "hr/includes/retail-name.md",
         "scm/includes/retail-name.md",
         "financials/includes/retail-name.md",
+        "core/includes/task-guide-banner.md",
+        "scm/includes/task-guide-banner.md",
+        "retail/includes/task-guide-banner.md",
+        "hr/includes/task-guide-banner.md",
+        "financials/includes/task-guide-banner.md",
+        "dev-itpro/includes/task-guide-banner.md",
         "core/breadcrumb/toc.yml"
       ],
       "priorities": [
