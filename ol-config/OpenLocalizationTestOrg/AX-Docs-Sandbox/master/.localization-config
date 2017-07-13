@@ -916,7 +916,6 @@
       ]
     }  
   ],
-  "forceHandoff":true,
   "autoHandbackNoChangeXliff":true,
    "includeDependencies":false,
    "autoPush":true,
