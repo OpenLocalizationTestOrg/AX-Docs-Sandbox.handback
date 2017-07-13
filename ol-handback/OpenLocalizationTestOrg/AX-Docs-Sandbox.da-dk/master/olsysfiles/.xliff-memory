@@ -796,7 +796,7 @@
       "TranslationType": 1,
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\563d11fb99c8aebce78f8962dbeeac41fb469041.0d910a0ad64e9ed77dd110cfba7689821aa0823d.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\basic\\configure-online-store.51cba27a9e3267c613a14e216d3efe56397fd9ad.da-dk.xlf",
-      "LocXliffCommit": "9fee99d4843397a4d8f7d67daa6225b1267e59dd"
+      "LocXliffCommit": "87c7cda8956eb1a734f60bcda93c143d3b6430d7"
     },
     "dev-itpro\\user-interface\\section-list-form-pattern.md.9027539b6c0048d0900671fa873ea7ef739549de.HT": {
       "SourceFilename": "dev-itpro\\user-interface\\section-list-form-pattern.md",
@@ -7152,7 +7152,7 @@
       "TranslationType": 1,
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\ba1bb54a29250a2bb59622ee4391b64ac455af33.cfebb48e53c2cc82ea8b90ec12d5d4ebf286aeb5.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\basic\\define-retail-channel-communications-cdx.ce25f5f9f01a728fff4ef8e644bcdeeb12ac72f3.da-dk.xlf",
-      "LocXliffCommit": "9fee99d4843397a4d8f7d67daa6225b1267e59dd"
+      "LocXliffCommit": "87c7cda8956eb1a734f60bcda93c143d3b6430d7"
     },
     "financials\\budgeting\\budget-plan.md.a28525c6d5b26cd5fed526c36f8f62339a94b820.HT": {
       "SourceFilename": "financials\\budgeting\\budget-plan.md",
@@ -11570,7 +11570,7 @@
       "TranslationType": 1,
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\ec6704cfeb0e1030bed8c79863ae11ea55043191.69e70ad596c65664869b240be1aec083a19329ca.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\basic\\financial-reporter-designer-web-client.467b6cc30c5019c5ac1d559b847b312f6862c676.da-dk.xlf",
-      "LocXliffCommit": "9fee99d4843397a4d8f7d67daa6225b1267e59dd"
+      "LocXliffCommit": "87c7cda8956eb1a734f60bcda93c143d3b6430d7"
     },
     "scm\\production-control\\bill-of-material-bom.md.e5e82a75192598f69a9655ba131de25e8a0bac2e.HT": {
       "SourceFilename": "scm\\production-control\\bill-of-material-bom.md",
@@ -13874,7 +13874,7 @@
       "TranslationType": 1,
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\35e202db8042eaed2cfab200cc43810bba14cc87.906710b645e8e2eab49242c4165e9cad44d8e2f0.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\basic\\backflush-costing.2ef1d321821a11a74e4866c87f8651e3deebf3f8.da-dk.xlf",
-      "LocXliffCommit": "563ddc2a1a7ff2587b74bc79d5cdca4aeb946152"
+      "LocXliffCommit": "87c7cda8956eb1a734f60bcda93c143d3b6430d7"
     },
     "financials\\TOC.md.225f9fc07131a5fadaf198edaf8d550cc4b7bfbf.HT": {
       "SourceFilename": "financials\\TOC.md",
