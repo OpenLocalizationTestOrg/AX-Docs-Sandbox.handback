@@ -320,6 +320,39 @@
   "0a257d2439b9fc190617cf6d318b0a2c18ac9c12": [
     "core\\get-started\\view-export-field-descriptions.md"
   ],
+  "bc5a1d6ce88e7d409dac7d6b5b38caebeaabf12b": [
+    "core\\index.md"
+  ],
+  "100f71803f3204ca47cb189880ea9ebbb61c8684": [
+    "core\\index.md"
+  ],
+  "7312c4e093985b68fda8d2716ced51dda31a8a5a": [
+    "core\\index.md"
+  ],
+  "4dcdf702bd94e740dbc914d22202afa91a7d4932": [
+    "core\\index.md"
+  ],
+  "86f8625019c25257d8d07701b17707c8ca48c9df": [
+    "core\\index.md"
+  ],
+  "fc28831aa2b816a3444dcf00d0b1eeba5c05dccf": [
+    "core\\index.md"
+  ],
+  "0a02712d31a656b0a175d6d5acf8d2ee5fe6346b": [
+    "core\\index.md"
+  ],
+  "9fc21448927868af4cbe8848361c1ea9db18c72a": [
+    "core\\index.md"
+  ],
+  "15f9d53a2c5d44fdede0660e7ba4ca23f13db768": [
+    "core\\index.md"
+  ],
+  "bc8b4f628d5e519672ea42e994a6ecd6b367849c": [
+    "core\\index.md"
+  ],
+  "f7844cb0a9cd19eb8147a6d626623795d9f53147": [
+    "core\\index.md"
+  ],
   "cfdf3ecfe6684807080965d81072794f9307f902": [
     "core\\organization-administration\\configure-approval-process-workflow.md"
   ],
@@ -10763,5 +10796,583 @@
   ],
   "0d1e2b9a51c2d7a7c30c2458b7babf8ac5c08118": [
     "scm\\master-planning\\import-historical-data.md"
+  ],
+  "3c11540f812b28eed80a202892df3d24fa38fa30": [
+    "dev-itpro\\analytics\\production-performance-power-bi.md"
+  ],
+  "915ff93edff0f68f52a536ad169c8f0f917ac9b2": [
+    "dev-itpro\\analytics\\production-performance-power-bi.md"
+  ],
+  "5a66f106cc0dcb133cddbb3677881f6d0b55ed97": [
+    "dev-itpro\\analytics\\production-performance-power-bi.md"
+  ],
+  "ba4807c7f8a762a7eea72da0e4489a29a1818576": [
+    "dev-itpro\\analytics\\production-performance-power-bi.md"
+  ],
+  "2f112425f92ca574a3b5b7b0ed41aaa162bedaf8": [
+    "financials\\cash-bank-management\\cash-flow-forecasting.md"
+  ],
+  "3f02d538950bc800c1ddcf6bd798bd3ee3f9240c": [
+    "financials\\cash-bank-management\\cash-flow-forecasting.md"
+  ],
+  "a8ccd99431178c3cb4e73e7cd199de8e0845d716": [
+    "financials\\cash-bank-management\\cash-flow-forecasting.md"
+  ],
+  "9e4e58152188115105387325268bc4f1eb8faad3": [
+    "financials\\cash-bank-management\\cash-flow-forecasting.md"
+  ],
+  "3e88121b647dc06dd3466c238109082c53352650": [
+    "financials\\cash-bank-management\\cash-flow-forecasting.md"
+  ],
+  "759d66cac35069d1ee1b936c4f3bbe453258775f": [
+    "financials\\cash-bank-management\\Cash-Overview-Power-BI-content.md"
+  ],
+  "db784cadee3533f6a5ef6785b6cc694c9be64c87": [
+    "financials\\cash-bank-management\\Cash-Overview-Power-BI-content.md"
+  ],
+  "9ef4126bbd44682060de51424961c9db3e956330": [
+    "financials\\cash-bank-management\\Cash-Overview-Power-BI-content.md"
+  ],
+  "086b12e1c1422f7e12eb5ac71d1b74a4af5a74a0": [
+    "financials\\cash-bank-management\\Cash-Overview-Power-BI-content.md"
+  ],
+  "4567994563a266943fc19e1bb5b64f865def9ca6": [
+    "financials\\cash-bank-management\\Cash-Overview-Power-BI-content.md"
+  ],
+  "7e05361bf865e44ba6073198fba94d7102b1ed19": [
+    "retail\\retail-coupons.md"
+  ],
+  "90bd1c63a27e57db572e3f38c1daa443f2f72d23": [
+    "retail\\retail-coupons.md"
+  ],
+  "8e8255200a2037abdd1a5a310c2f775b7e56aec7": [
+    "retail\\retail-coupons.md"
+  ],
+  "33dd7d7886af0eb0df05e2ac630800950fff3172": [
+    "retail\\retail-coupons.md"
+  ],
+  "6a2e559386e8ed2796c971d825a21ce12dd2ba75": [
+    "scm\\production-control\\formula-designer.md"
+  ],
+  "84322bb3f02d236843bebc24c4c5eccdd4d9f2bf": [
+    "scm\\production-control\\formula-designer.md"
+  ],
+  "47a2202131f7da761bda0551a7d44907ccc5a404": [
+    "scm\\production-control\\formula-designer.md"
+  ],
+  "b69dcaaef07c585d4ebe77aad9d1946d61db63fa": [
+    "core\\hr\\manage-recruiting-process.md"
+  ],
+  "d44546ef5e1cccd32e110bb7bf16354e6b778031": [
+    "core\\hr\\manage-recruiting-process.md"
+  ],
+  "6276655f6e7d09f5bc8862ad456b834d8919e574": [
+    "core\\hr\\manage-recruiting-process.md"
+  ],
+  "86d98e44a4192a28840e339b34f6e865dfc29372": [
+    "core\\hr\\mass-hire-projects.md"
+  ],
+  "73e18c8b1264c988022c7207b1e15930eaa625ca": [
+    "core\\hr\\mass-hire-projects.md"
+  ],
+  "006a8c110fe694c487e1e89e52c07438cf2becc3": [
+    "core\\hr\\mass-hire-projects.md"
+  ],
+  "aa23c3b922c1a58cb3a9f156d8d5d1cff73431a9": [
+    "dev-itpro\\analytics\\benefits-power-bi.md"
+  ],
+  "4f1898d7ac5716899628ba5b58b41444e0122291": [
+    "dev-itpro\\analytics\\benefits-power-bi.md"
+  ],
+  "815d8ecfe85c1000667d2d289c05c1e98b8b8c76": [
+    "dev-itpro\\analytics\\benefits-power-bi.md"
+  ],
+  "fe0848b51253c3975462832d82314508ea2003d3": [
+    "dev-itpro\\analytics\\CFO-power-bi.md"
+  ],
+  "c6ca9917f28b393f5f4681bb56ba5ada15047d0c": [
+    "dev-itpro\\analytics\\CFO-power-bi.md"
+  ],
+  "f0c750375ebbc2367d5df55b80db52723063ef17": [
+    "dev-itpro\\analytics\\CFO-power-bi.md"
+  ],
+  "6fb1b7bdb41500d4992491df3304d6b2ccbfeaed": [
+    "dev-itpro\\analytics\\compensation-power-bi.md"
+  ],
+  "9c268333f6182db15f07f410cd331f1e88a96b9c": [
+    "dev-itpro\\analytics\\compensation-power-bi.md"
+  ],
+  "86229c27b75e2640a0fb88dd73aa50b47585b29d": [
+    "dev-itpro\\analytics\\compensation-power-bi.md"
+  ],
+  "ad5e866b53851de19e129738993672d0f6b45dc9": [
+    "dev-itpro\\analytics\\employee-development-PBI.md"
+  ],
+  "a154c27065d1b92ebb27237473db148109ea6770": [
+    "dev-itpro\\analytics\\employee-development-PBI.md"
+  ],
+  "d25f3be5821a02ea618a2356878bf2904765a6f7": [
+    "dev-itpro\\analytics\\employee-development-PBI.md"
+  ],
+  "41093dbc5a17c06a8d0abd75674c0dcd4031ab69": [
+    "dev-itpro\\analytics\\learning-power-bi.md"
+  ],
+  "b82795f146bc8e3207dda8aa12b577f4564d27c8": [
+    "dev-itpro\\analytics\\learning-power-bi.md"
+  ],
+  "a3f28d21a7e73d3ad462c5cc37198dd2b6f5f8af": [
+    "dev-itpro\\analytics\\learning-power-bi.md"
+  ],
+  "b629e8718f3178ac08b6d039ed7140a74cdd8780": [
+    "dev-itpro\\analytics\\ledger-budgets-power-bi.md"
+  ],
+  "5df07883d7d490cfaf75ea952840602095791b54": [
+    "dev-itpro\\analytics\\ledger-budgets-power-bi.md"
+  ],
+  "5d52cce3cccb16f0645d9de1832ebeffbfaf3a09": [
+    "dev-itpro\\analytics\\ledger-budgets-power-bi.md"
+  ],
+  "7cad68a136786dd431bdae1a239151a3e7f13177": [
+    "dev-itpro\\mobile-apps\\company-directory-mobile-workspace.md"
+  ],
+  "63be2d998b9514a8ec4d0b377a4163d782445ce0": [
+    "dev-itpro\\mobile-apps\\company-directory-mobile-workspace.md"
+  ],
+  "afda8eb49fd8baa74abdac89fdf265631fda595b": [
+    "dev-itpro\\mobile-apps\\company-directory-mobile-workspace.md"
+  ],
+  "46796dd9097392aba1037cb4e1e34ef2a75ca9db": [
+    "dev-itpro\\mobile-apps\\invoice-approval-mobile-workspace.md"
+  ],
+  "7733eab86279a9a629f82a86424c704c359dff34": [
+    "dev-itpro\\mobile-apps\\invoice-approval-mobile-workspace.md"
+  ],
+  "70f3e0fe53fc0b1daa471a7022f5659d09caa867": [
+    "dev-itpro\\mobile-apps\\invoice-approval-mobile-workspace.md"
+  ],
+  "51b4f3e4aff395bab44bb17ea3f05cfe71c5519d": [
+    "dev-itpro\\mobile-apps\\manager-self-service-mobile-workspace.md"
+  ],
+  "60d28ad67b6cffca2719003014011edc288b1dee": [
+    "dev-itpro\\mobile-apps\\manager-self-service-mobile-workspace.md"
+  ],
+  "6178a9b1b5497672d68dee84a09800307ea60f54": [
+    "dev-itpro\\mobile-apps\\manager-self-service-mobile-workspace.md"
+  ],
+  "2ee3743b40e26b150f7fc03ef4a69495864b0034": [
+    "financials\\accounts-payable\\Vendor-payments-workspace.md"
+  ],
+  "68e36cdbc53bcf76ecccbae2f3444e08fc377660": [
+    "financials\\accounts-payable\\Vendor-payments-workspace.md"
+  ],
+  "4011a2383fe4556b730fa0b6353ba0b9773a4eec": [
+    "financials\\accounts-payable\\Vendor-payments-workspace.md"
+  ],
+  "b3ded881fbf10745b4bcc593096bf21b65ad6bc9": [
+    "financials\\accounts-payable\\Vendor-payments-workspace.md"
+  ],
+  "125b43e8398bec2bd0d2e4f4fd5b2dd2db15a467": [
+    "financials\\accounts-receivable\\credit-collections-power-bi.md"
+  ],
+  "2e7684f73cac631c8c4e61df1b1f90c2e461fdda": [
+    "financials\\accounts-receivable\\credit-collections-power-bi.md"
+  ],
+  "70bcf07db3abcc981db5702a80b44c350dce7f83": [
+    "financials\\accounts-receivable\\credit-collections-power-bi.md"
+  ],
+  "304bd7dd97f49815c8d85f22bc79e541afddfc3b": [
+    "financials\\cash-bank-management\\Bank-management-workspace.md"
+  ],
+  "d46be76c2346eb6e707a1bd923e0db4bb596056d": [
+    "financials\\cash-bank-management\\Bank-management-workspace.md"
+  ],
+  "759de82e9cd1c08f86c0a8eb55fa7bae5c4f740f": [
+    "financials\\cash-bank-management\\Bank-management-workspace.md"
+  ],
+  "59e91f855f3c40fee61b12023a85b8ae51317e88": [
+    "financials\\cash-bank-management\\Bank-management-workspace.md"
+  ],
+  "aaff7e1c3844133f95f4ca7d1154b5e8a8beb9a8": [
+    "financials\\cost-accounting\\access-rights-cost-object-controller.md"
+  ],
+  "4d26d690e63898bfb463177da6654f1175ff35af": [
+    "financials\\cost-accounting\\access-rights-cost-object-controller.md"
+  ],
+  "837d7058f6fc165bfbf2b74a0f68b8398946e979": [
+    "financials\\cost-accounting\\access-rights-cost-object-controller.md"
+  ],
+  "e8807c23a278dffcb27c8a208e21f5fe0bc1120c": [
+    "financials\\cost-accounting\\allocation-bases.md"
+  ],
+  "74a3033ffbdba2efc6c5ecd6c55019898751a146": [
+    "financials\\cost-accounting\\allocation-bases.md"
+  ],
+  "1a7f5c721591cdfe0ca7ac0ea6c3f8c76d5f6e5c": [
+    "financials\\cost-accounting\\allocation-bases.md"
+  ],
+  "26e6b0a18961af91194c23f66a0dc6d0f31d79c5": [
+    "financials\\cost-accounting\\cost-control-workspace.md"
+  ],
+  "5c5f06d1a518963738e446b5032261059d98bf13": [
+    "financials\\cost-accounting\\cost-control-workspace.md"
+  ],
+  "d49dc609a1408eedde902f4a22174306b4724747": [
+    "financials\\cost-accounting\\cost-control-workspace.md"
+  ],
+  "dacd2acc495c63c4652c7a5b2e38482df19a4c26": [
+    "financials\\cost-accounting\\cost-rollup.md"
+  ],
+  "c236c72c2f29578f5ce8f2e536bd708a6ef358a6": [
+    "financials\\cost-accounting\\cost-rollup.md"
+  ],
+  "84586fc799f6a126d93a4155f03fab7e2317e7ac": [
+    "financials\\cost-accounting\\cost-rollup.md"
+  ],
+  "dcbab70d2057a2eb252538a51343fa8bae16873d": [
+    "financials\\cost-accounting\\dimension-hierarchy.md"
+  ],
+  "6bf1769125cf5ee58bd54d5b74ec4d1c942646ac": [
+    "financials\\cost-accounting\\dimension-hierarchy.md"
+  ],
+  "d282c1fcf026a90910955462d8edb9481c29ab0a": [
+    "financials\\cost-accounting\\statistical-measure-provider-template.md"
+  ],
+  "180863b5c3b8fe7870ab58f3849e52583f5880c1": [
+    "financials\\cost-accounting\\statistical-measure-provider-template.md"
+  ],
+  "67049085a0b962be871040e32015e03347826762": [
+    "financials\\cost-accounting\\statistical-measure-provider-template.md"
+  ],
+  "0a3cc5c0017491b93b2fdd72ab2e9d57e73b8e4a": [
+    "financials\\fixed-assets\\fixed-asset-management-workspace.md"
+  ],
+  "4ef5e82df84dfd5695466eec4eee818350aa0909": [
+    "financials\\fixed-assets\\fixed-asset-management-workspace.md"
+  ],
+  "dfd641f51aad551dfd4c8ee3690ee5a4716540a8": [
+    "financials\\fixed-assets\\fixed-asset-management-workspace.md"
+  ],
+  "ddb36da6d86425d75c6fe30dd8b0902dd07bf240": [
+    "financials\\fixed-assets\\fixed-asset-management-workspace.md"
+  ],
+  "ca1446017555f840b369262a2ca16c66b5eebd88": [
+    "financials\\fixed-assets\\fixed-asset-management-workspace.md"
+  ],
+  "72d5f5ae23a8e5fe2d39128bbec2a4f3d79079d9": [
+    "financials\\localizations\\emea-tax-directives.md"
+  ],
+  "c811909ea283d8d21ae5c2297f771e34505d8b92": [
+    "financials\\localizations\\emea-tax-directives.md"
+  ],
+  "ba407a8def0cb44caa9c67a7d8dcbb9db582c261": [
+    "financials\\localizations\\emea-tax-directives.md"
+  ],
+  "f1907364062dfeae8e062c6bf16b87d43883343b": [
+    "financials\\localizations\\emea-tax-directives.md"
+  ],
+  "e4cfe7c45c00d7147c177180d1a088f9ef77c9ca": [
+    "hr\\generate-aca-reports.md"
+  ],
+  "61fa5dd3580c769457ea2cfdc669f68bd3b30980": [
+    "hr\\generate-aca-reports.md"
+  ],
+  "0f88229d56a405211818e043a693991e64c16e5e": [
+    "hr\\personnel-actions-faq.md"
+  ],
+  "2e8b190bc83bd05eeabba2dc74a12d6277b124c6": [
+    "hr\\personnel-actions-faq.md"
+  ],
+  "4c17441b70a75f032c900c9360da6c0730cf89ba": [
+    "hr\\personnel-actions-faq.md"
+  ],
+  "28b825ba685b5a05764b25602ae32f1370c82e07": [
+    "hr\\process-compensation.md"
+  ],
+  "f590c643594b25ca22df8fe14f2ed7bc7233a9fa": [
+    "hr\\process-compensation.md"
+  ],
+  "1f347214b9e02525ab5a82bfcf7da4db6c6a6c7b": [
+    "hr\\process-compensation.md"
+  ],
+  "6e30357b0bca8745b69bff19a55828b180c3b829": [
+    "hr\\process-compensation.md"
+  ],
+  "0d867d24736972daa1922454c3b6acc21463961a": [
+    "retail\\sell-return-outside-assortments.md"
+  ],
+  "6bd8e6678e3c6514832fb13e0290ab4f37a04d43": [
+    "retail\\sell-return-outside-assortments.md"
+  ],
+  "ab6d22cf2c1610843de42d1e62cd93b17d74d8b8": [
+    "retail\\sell-return-outside-assortments.md"
+  ],
+  "12ca4a51a1be099956274bb840562c7425092312": [
+    "retail\\sell-return-outside-assortments.md"
+  ],
+  "77f5aefe4ad5de5583268b210035649608e45d67": [
+    "scm\\pim\\product-information.md"
+  ],
+  "db8a9666518b58b6b32bb4a14933095dd9416aa0": [
+    "scm\\pim\\product-information.md"
+  ],
+  "7993734a3a986786683714c453d7e15786754342": [
+    "scm\\procurement\\purchase-order-mobile-workspace.md"
+  ],
+  "a2ab719b971c325be184d1d950f6c03815e4cea2": [
+    "scm\\procurement\\purchase-order-mobile-workspace.md"
+  ],
+  "bed687840e32631615309290e5d501025b435bdd": [
+    "scm\\procurement\\purchase-order-mobile-workspace.md"
+  ],
+  "5ceca44895428430c7ca974ac39e59e631f5eba8": [
+    "scm\\procurement\\set-up-external-catalog-for-punchout.md"
+  ],
+  "ac48275b94cfce8be01eaf8d398c8040d29386dc": [
+    "scm\\procurement\\set-up-external-catalog-for-punchout.md"
+  ],
+  "34a2dabdaaa05793e5b81dbc5f2e701e170b13c3": [
+    "scm\\procurement\\set-up-external-catalog-for-punchout.md"
+  ],
+  "c8f2aac443f2eeb3921bc947c547804ba86c2b20": [
+    "scm\\procurement\\use-external-catalogs-for-punchout.md"
+  ],
+  "4b32762be435d285108be8ff276cf00b8ea9bb9f": [
+    "scm\\procurement\\use-external-catalogs-for-punchout.md"
+  ],
+  "2a7e66181a2bfcb0cf037834ac0bab3c22117baa": [
+    "scm\\procurement\\use-external-catalogs-for-punchout.md"
+  ],
+  "bb0ed1dfefc089b8e03547f188ac2e4949d93633": [
+    "scm\\production-control\\register-material-consumption-hand-held-device.md"
+  ],
+  "9ddcbd06ba214f1d26a0056c15595ebaad72e261": [
+    "scm\\production-control\\register-material-consumption-hand-held-device.md"
+  ],
+  "5b51df9a26627aa72762103c2ac721a7d5202c94": [
+    "scm\\production-control\\register-material-consumption-hand-held-device.md"
+  ],
+  "5d83ef838f37bef84554b5eb7c82e5c18d974943": [
+    "scm\\production-control\\visual-scheduling-lean-manufacturing.md"
+  ],
+  "1a3f43c2812cdf1c9f5c564bc86abe4fcc90b8a3": [
+    "scm\\production-control\\visual-scheduling-lean-manufacturing.md"
+  ],
+  "98bc4ae14323cf04fd0a985d34baf225dffc5d9d": [
+    "scm\\production-control\\visual-scheduling-lean-manufacturing.md"
+  ],
+  "24c55904f47789cecb826d062b64105b4c3c3b72": [
+    "scm\\production-control\\visual-scheduling-production.md"
+  ],
+  "55631c4d588c699b9e47f73190d5b01d6da3b9ec": [
+    "scm\\production-control\\visual-scheduling-production.md"
+  ],
+  "a0a9818c0ad90e5407ba9115ea287e777585207e": [
+    "scm\\warehousing\\batch-and-license-plate-confirmation.md"
+  ],
+  "be70d0377a79c26c1cb66172394a14cd62722732": [
+    "scm\\warehousing\\batch-and-license-plate-confirmation.md"
+  ],
+  "c2ebb038ef59ecf9ebdc494f0067548f52ca04a8": [
+    "scm\\warehousing\\batch-and-license-plate-confirmation.md"
+  ],
+  "f051193e576223e9a87f16faf581a098520224b9": [
+    "scm\\warehousing\\cluster-picking-item-confirmation.md"
+  ],
+  "cb3b93034a76e2a35895c3b20a7aeb9f96c8b578": [
+    "scm\\warehousing\\cluster-picking-item-confirmation.md"
+  ],
+  "c4c8218761c43e9811c74b31fe60496d6efe17cb": [
+    "scm\\warehousing\\cluster-picking-item-confirmation.md"
+  ],
+  "67ca98827b4f7977f2e5f482412fd16bf9b13803": [
+    "scm\\warehousing\\material-replenishment-withdrawal-kanban.md"
+  ],
+  "abac5e05f40132844cf1817be533151cbf238d95": [
+    "scm\\warehousing\\material-replenishment-withdrawal-kanban.md"
+  ],
+  "c5c3ec618ed8ce66bba5fdc132e0d38cff484b21": [
+    "scm\\warehousing\\move-inventory-associated-work.md"
+  ],
+  "09111b9558f945e4a1121934925e8efbac7389e4": [
+    "scm\\warehousing\\move-inventory-associated-work.md"
+  ],
+  "14de28397cd6812f5ad5019f9d27c7d8d5720a6b": [
+    "scm\\warehousing\\move-inventory-associated-work.md"
+  ],
+  "cacbbba179101152d70eb9ce60dfee1c90a21b41": [
+    "scm\\warehousing\\partial-location-cycle-counting.md"
+  ],
+  "856ac2a61bc06a772b586a0cf77496fc360db623": [
+    "scm\\warehousing\\partial-location-cycle-counting.md"
+  ],
+  "9ebab3c33a006c91b1d40aaf98352487ad381947": [
+    "scm\\warehousing\\pick-oldest-batch.md"
+  ],
+  "8b93eeb2e4bec325151ae1466d3b5f64909b1360": [
+    "scm\\warehousing\\pick-oldest-batch.md"
+  ],
+  "9da1b3c09d9af7920ba09236517ef0819a3fa1f4": [
+    "scm\\warehousing\\pick-oldest-batch.md"
+  ],
+  "213022f4a939323090197075c9a463002153f546": [
+    "scm\\warehousing\\piece-picking-confirmation.md"
+  ],
+  "1dfbb54bbd9e1c9ab65f90eb75f985a16a576073": [
+    "scm\\warehousing\\piece-picking-confirmation.md"
+  ],
+  "ee5853b326b17e57249cb7b37c5d6b2575c2759b": [
+    "scm\\warehousing\\piece-picking-confirmation.md"
+  ],
+  "b056163a2767e8ddf3d6cc26350585d6f10325c0": [
+    "scm\\warehousing\\system-group-on-open-work-list.md"
+  ],
+  "0f6a94ef9fd810439a2e6d0f45caf6da8682f83f": [
+    "scm\\warehousing\\system-group-on-open-work-list.md"
+  ],
+  "a8ec8b9e24f9ffc925f926887838b421c8504ffe": [
+    "scm\\warehousing\\system-group-on-open-work-list.md"
+  ],
+  "0b749972fb91809784a5b6cdf7fa118b51075f19": [
+    "scm\\warehousing\\upgrade-migration-warehouse-management-processes.md"
+  ],
+  "ea31b5b89550b2ee439a440a4d8da5b747b9c91f": [
+    "scm\\warehousing\\upgrade-migration-warehouse-management-processes.md"
+  ],
+  "210ddbd67e79a310d1577968f6ac4abbc27d6f47": [
+    "scm\\warehousing\\upgrade-migration-warehouse-management-processes.md"
+  ],
+  "4cf3273f993463ca484752e94a19dff0116a7ac4": [
+    "scm\\warehousing\\upgrade-migration-warehouse-management-processes.md"
+  ],
+  "4a1c39700be83fa3ed92cea009fdcdd83d9d787b": [
+    "dev-itpro\\user-interface\\data-validation-workspace.md"
+  ],
+  "e105c4b171979a03c20718c1fa9d558c921cd704": [
+    "dev-itpro\\user-interface\\data-validation-workspace.md"
+  ],
+  "a02a402d43b703e29b1c124bdb8feb9dfa23d51d": [
+    "dev-itpro\\user-interface\\data-validation-workspace.md"
+  ],
+  "3f7c45c900152c915f3878cb778c677a0b318575": [
+    "dev-itpro\\user-interface\\data-validation-workspace.md"
+  ],
+  "598b6cc5f871575038571c89ed2a7e3eeafc2f72": [
+    "financials\\accounts-payable\\electronic-reporting-sample-vendor-checks.md"
+  ],
+  "5280bd04d068c80b7240e4e96410014918b20536": [
+    "financials\\accounts-payable\\electronic-reporting-sample-vendor-checks.md"
+  ],
+  "8228690ee5ab7839ec19c307c23f9b6150006371": [
+    "financials\\accounts-payable\\electronic-reporting-sample-vendor-checks.md"
+  ],
+  "c47ca406e2c8be98f26f1c78d6f5e0a3f66690a5": [
+    "financials\\accounts-payable\\vendor-invoice-automation.md"
+  ],
+  "c36114ac936f6d97e1e49f4c87135960063c1b5c": [
+    "financials\\accounts-payable\\vendor-invoice-automation.md"
+  ],
+  "d9e3018eb7b6c20cfd5e23a10d15e230009196de": [
+    "core\\hr\\localizations\\noam-usa-enter-beginning-balances.md"
+  ],
+  "9289a8aa0db8cc9164226156e5fb6bbaf1f5ffda": [
+    "core\\hr\\localizations\\noam-usa-enter-beginning-balances.md"
+  ],
+  "ae6d5b1f527e1b64aa52d814c3e3b7be88dc77e0": [
+    "core\\hr\\localizations\\noam-usa-enter-beginning-balances.md"
+  ],
+  "e33ad8fec667e45093926cb46c01dd2f9f25c91d": [
+    "scm\\production-control\\production-parameters-manufacturing-execution.md"
+  ],
+  "c8868c1b09b28f8098dfd7a4983c8bf0cce51a0c": [
+    "scm\\production-control\\production-parameters-manufacturing-execution.md"
+  ],
+  "0df461389c4b4c5f2887a6375d2f15929ef41308": [
+    "scm\\warehousing\\mixed-license-plate-receiving.md"
+  ],
+  "8cc41e24d0d7f70bf24dfe4a6f6120a387d07029": [
+    "scm\\warehousing\\mixed-license-plate-receiving.md"
+  ],
+  "e819aafbdf55fbc2a6dc996d275244de1e11d89b": [
+    "dev-itpro\\analytics\\add-analytics-tab-workspaces.md"
+  ],
+  "ba773306ead43872e6867f9034672ee84d41a348": [
+    "dev-itpro\\analytics\\add-analytics-tab-workspaces.md"
+  ],
+  "12c3ac9ac04681bd27c2e6e27a8925faaa4e69d1": [
+    "dev-itpro\\analytics\\configure-ssrs-on-premises.md"
+  ],
+  "c9f9f24bd90c134f85f95e4ff6011e9f015d22c4": [
+    "dev-itpro\\analytics\\configure-ssrs-on-premises.md"
+  ],
+  "9fc05fb8708078c863af2fd9551ebf2a0892ff9d": [
+    "dev-itpro\\deployment\\on-premises-deployment-landing-page.md"
+  ],
+  "84ecb7b5ff19a9d06456b842dd5078f4b94da2d0": [
+    "dev-itpro\\deployment\\on-premises-deployment-landing-page.md"
+  ],
+  "531d17f9a2131a0a02c16423fa6963420cdd01bf": [
+    "dev-itpro\\deployment\\setup-deploy-on-premises-environments.md"
+  ],
+  "eae6d9568256b492cb91587836e9dfbf4ba24a49": [
+    "dev-itpro\\deployment\\setup-deploy-on-premises-environments.md"
+  ],
+  "c40ac469ff74999f16bda28ee6f1bc0bf4de9954": [
+    "dev-itpro\\get-started\\hardware-sizing-on-premises-environments.md"
+  ],
+  "acf6ed5f503d77f372d802a51a71cec062c2b24b": [
+    "financials\\localizations\\emea-ISO20022-file-formats.md"
+  ],
+  "045dd30e26c21ecd0f4191663619c4cf6a14dc13": [
+    "financials\\localizations\\emea-ISO20022-file-formats.md"
+  ],
+  "136d3fb1c17eaac0c44fd95767765a7f51f36f07": [
+    "financials\\localizations\\emea-nor-sales-tax-payment-report.md"
+  ],
+  "0c770e0cd1e16404cc4129ed03c63d542bb7382e": [
+    "financials\\localizations\\emea-nor-sales-tax-payment-report.md"
+  ],
+  "b35044a19a1da3e55c03b1e49f33adeb38fc793d": [
+    "scm\\production-control\\flushing-principles.md"
+  ],
+  "14ededf0c114af517ea84b5cbb3f51a1c743add4": [
+    "scm\\production-control\\flushing-principles.md"
+  ],
+  "0dbf7911d9d262d61bbcf6f9e180a89638903dff": [
+    "scm\\production-control\\production-output-location.md"
+  ],
+  "d981c3d550155d64a421edffbcc8e3dfbd72a187": [
+    "scm\\production-control\\production-output-location.md"
+  ],
+  "4cea2dec159c0ca72a599d35a98075cb295e5b9c": [
+    "core\\hr\\hr-landing-page.md"
+  ],
+  "3207485e9e20f14b02c738285fca444c2bae4620": [
+    "financials\\expense-management\\Expense-Management-Parameters.md"
+  ],
+  "4b15c312df48ba26096a9e8fa80d3cd9c64610df": [
+    "financials\\includes\\retail-name.md",
+    "hr\\includes\\retail-name.md",
+    "scm\\includes\\retail-name.md"
+  ],
+  "963387c081e618a66a34f6c7567232f6650bf6f5": [
+    "retail\\retail-statements.md"
+  ],
+  "51981b9630aa38701433f076eeba150a76a5bae7": [
+    "scm\\sales-marketing\\accounts-template-mapping.md"
+  ],
+  "1f811946f0f33c8aab75517a48a4b2e6b9b60f13": [
+    "scm\\sales-marketing\\contacts-template-mapping.md"
+  ],
+  "0be8ef70b41d60bdb4680688f558ab11cfa61247": [
+    "scm\\sales-marketing\\products-template-mapping.md"
+  ],
+  "51f416da59f2eedc7bbd135e752c1391c73b3717": [
+    "scm\\sales-marketing\\prospect-to-cash.md"
+  ],
+  "0bb38beb6d766ac960455793b64cd61b01981660": [
+    "scm\\sales-marketing\\sales-quotation-template-mapping.md"
+  ],
+  "0a2cd6375097acf28ced10ee92959e4af5e78fba": [
+    "scm\\warehousing\\display-older-batches-within-warehouses.md"
   ]
 }
