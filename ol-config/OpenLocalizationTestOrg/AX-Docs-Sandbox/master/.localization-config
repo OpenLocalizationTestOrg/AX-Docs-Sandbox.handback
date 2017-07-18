@@ -91,7 +91,7 @@
       ],
       "priorities": [
         {
-          "priority": "premium",
+          "priority": "toc_premium",
           "locales": [
             "ar-sa",
             "zh-cn",
@@ -122,7 +122,19 @@
       ]
     },
 {
-      "metadataExpression": "audience.Contains(\"Application User\") && ms.search.industry.Contains(\"Public sector\")",
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\") && ms.search.industry.Contains(\"Public sector\")",
+      "priorities": [
+        {
+          "priority": "business-process",
+          "locales": [
+            "fr-fr",
+            "da-dk"
+          ]
+        }
+      ]
+},
+{
+      "metadataExpression": "audience.Contains(\"Application User\") && !ms.topic.Contains(\"business-process\") && ms.search.industry.Contains(\"Public sector\")",
       "priorities": [
         {
           "priority": "basic",
