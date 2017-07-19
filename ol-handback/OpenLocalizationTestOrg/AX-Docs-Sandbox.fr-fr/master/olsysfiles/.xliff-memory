@@ -838,7 +838,7 @@
       "SourceFilename": "core\\get-started\\action-search.md",
       "XliffHash": "f93de8b77852d81a978d1b7382598a0bd6529d53",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\9b9bb0acc6f0dc1722c916f133eed766ffdd4cc8.9b6f2e939c3a0e89d652d50536c2964434667b3d.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\04508b0633b1ff110d1fe02489049fd98fc9893e.14381b2a39be8fde06990fd7015734caca51ff33.xml"
     },
     "core\\get-started\\view-export-field-descriptions.md.614a761f853ebe9c01c9ca4f7d81a4b87f1c5a7c.HT": {
       "SourceFilename": "core\\get-started\\view-export-field-descriptions.md",
@@ -2656,7 +2656,7 @@
       "SourceFilename": "core\\get-started\\configure-filter-workspaces.md",
       "XliffHash": "9e3cf4073f04990e5151d3fd002d58aac3483eea",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\485e8e68aa1f773d62f9ad55f39b3676fb1f0231.1397b3b0f4792ca695e28e358ef12ead1dbcd184.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\d14bfaa17b8d84d3a041635fec361743823be804.42648fae3639d606eb22da3f6ae1305ad7fe19bd.xml"
     },
     "scm\\procurement\\purchase-order-overview.md.31d311feed9a8f671906fb92abdcc6aacb8a47cc.HT": {
       "SourceFilename": "scm\\procurement\\purchase-order-overview.md",
@@ -2968,7 +2968,7 @@
       "SourceFilename": "core\\get-started\\display-pages-side-by-side.md",
       "XliffHash": "3b3ce2c6c37ae446e661d75d97ba8bbb067f3d46",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\53effee61843fec679b61a5fb4312876b6a3556d.86781ec828ca7726163c0bdfd853b33aad1b9dc4.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.fr-fr\\master\\2bf8c92cf0e54c07b100a87ff39d2c9764e48c01.ab2ba643f78d4fd0eaacc92888ed665b5168dba0.xml"
     },
     "financials\\accounts-payable\\accounting-distributions.md.fe71823385cecdf91568664814f5bc8eb93f321b.HT": {
       "SourceFilename": "financials\\accounts-payable\\accounting-distributions.md",
