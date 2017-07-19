@@ -2,20 +2,11 @@
   "4d690ddbe4dd75f8990421b3963630cf2c395770": [
     "core\\breadcrumb\\toc.yml"
   ],
-  "9b9bb0acc6f0dc1722c916f133eed766ffdd4cc8": [
+  "04508b0633b1ff110d1fe02489049fd98fc9893e": [
     "core\\get-started\\action-search.md"
   ],
-  "616366009ce7bf7135704e980becc331617cf5af": [
-    "core\\get-started\\advanced-filtering-query-options.md"
-  ],
-  "ede85a744f1215ad9eb91f7dba20a01c49f1b198": [
-    "core\\get-started\\client-faq.md"
-  ],
-  "485e8e68aa1f773d62f9ad55f39b3676fb1f0231": [
-    "core\\get-started\\configure-filter-workspaces.md"
-  ],
-  "53effee61843fec679b61a5fb4312876b6a3556d": [
-    "core\\get-started\\display-pages-side-by-side.md"
+  "9b9bb0acc6f0dc1722c916f133eed766ffdd4cc8": [
+    "core\\get-started\\action-search.md"
   ],
   "d9d67e94e7e844377b26041649cf1ff19ee2d18f": [
     "core\\get-started\\glossary.md"
