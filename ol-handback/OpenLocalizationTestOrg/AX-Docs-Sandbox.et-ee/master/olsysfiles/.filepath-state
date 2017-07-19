@@ -11,6 +11,9 @@
   "d9d67e94e7e844377b26041649cf1ff19ee2d18f": [
     "core\\get-started\\glossary.md"
   ],
+  "3b12f0c80703ebbbe0e7bc4e54a1980146fe64a5": [
+    "core\\get-started\\navigation-search.md"
+  ],
   "3779a14a97db77c70cabd49a5783283aacd0bd30": [
     "core\\get-started\\navigation-search.md"
   ],
@@ -1829,5 +1832,20 @@
   ],
   "d6dec6686f1a8d507dc155a3d1bf8446c6e5b64e": [
     "scm\\warehousing\\warehouse-work-policies.md"
+  ],
+  "25cd6e6b8e3c8f846a1f23aeac68b36952cb1c1c": [
+    "dev-itpro\\dev-tools\\continuous-delivery-home-page.md"
+  ],
+  "667710fd3fb9f162a2d05b36cc17a1bbbd12bcdd": [
+    "dev-itpro\\dev-tools\\developer-home-page.md"
+  ],
+  "ea1a1624d3eca55eef3691d7c0c54c0e6f778a7c": [
+    "dev-itpro\\extensibility\\extensibility-home-page.md"
+  ],
+  "eca88a8ce5f92680439f3a528c252ad8c4073f8d": [
+    "dev-itpro\\index.md"
+  ],
+  "bb9648279c368867a70b41684e3ee7f3b2fe1f3f": [
+    "dev-itpro\\migration-upgrade\\upgrade-home-page.md"
   ]
 }
