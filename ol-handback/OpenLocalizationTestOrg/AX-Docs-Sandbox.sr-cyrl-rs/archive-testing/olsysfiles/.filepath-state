@@ -1,0 +1,4117 @@
+{
+  "4d690ddbe4dd75f8990421b3963630cf2c395770": [
+    "core\\breadcrumb\\toc.yml"
+  ],
+  "9b9bb0acc6f0dc1722c916f133eed766ffdd4cc8": [
+    "core\\get-started\\action-search.md"
+  ],
+  "616366009ce7bf7135704e980becc331617cf5af": [
+    "core\\get-started\\advanced-filtering-query-options.md"
+  ],
+  "ede85a744f1215ad9eb91f7dba20a01c49f1b198": [
+    "core\\get-started\\client-faq.md"
+  ],
+  "485e8e68aa1f773d62f9ad55f39b3676fb1f0231": [
+    "core\\get-started\\configure-filter-workspaces.md"
+  ],
+  "53effee61843fec679b61a5fb4312876b6a3556d": [
+    "core\\get-started\\display-pages-side-by-side.md"
+  ],
+  "bb28cabe857883735f18947c49fdd4d656c223fb": [
+    "core\\get-started\\fasttrack-dynamics-365-overview.md"
+  ],
+  "d9d67e94e7e844377b26041649cf1ff19ee2d18f": [
+    "core\\get-started\\glossary.md"
+  ],
+  "3779a14a97db77c70cabd49a5783283aacd0bd30": [
+    "core\\get-started\\navigation-search.md"
+  ],
+  "052986b41b494f0f35d0dcddea023e391f35d1d6": [
+    "core\\get-started\\onboarding-home.md"
+  ],
+  "ecb190869218ab6ece24584982f613b34c896317": [
+    "core\\get-started\\personalize-user-experience.md"
+  ],
+  "c4dab55539c695d00ca648d59b28543e8c5789fd": [
+    "core\\get-started\\shortcut-keys.md"
+  ],
+  "2f0a7d381a1ea8588a503e31a42504fc8c5cb75f": [
+    "core\\get-started\\use-lookups-to-find-information.md"
+  ],
+  "ee8a0aaea710cc9314a52b22a10d8371d73a7a33": [
+    "core\\get-started\\view-export-field-descriptions.md"
+  ],
+  "b917b2a588804d0773c8ca53d3dd894424f32e89": [
+    "core\\get-started\\window-management.md"
+  ],
+  "4cea2dec159c0ca72a599d35a98075cb295e5b9c": [
+    "core\\hr\\hr-landing-page.md"
+  ],
+  "2cf202e5c94cfb6608b76be91191fedd328bd464": [
+    "core\\hr\\localizations\\noam-usa-benefit-accrual-plan-tasks.md"
+  ],
+  "575bebff3de336369bcc1ebc00b471e5fde0db32": [
+    "core\\hr\\localizations\\noam-usa-benefit-set-up-tasks.md"
+  ],
+  "c9e4a1e7f36c7416872c82a29ee3048dd08a6329": [
+    "core\\hr\\localizations\\noam-usa-comply-ada.md"
+  ],
+  "2e5bde0c4975400702553215b52d88784342b289": [
+    "core\\hr\\localizations\\noam-usa-earning-code-group-tasks.md"
+  ],
+  "de1c36379016f16856c992cb52498306abbc9c18": [
+    "core\\hr\\localizations\\noam-usa-earnings-generation-process.md"
+  ],
+  "d9e3018eb7b6c20cfd5e23a10d15e230009196de": [
+    "core\\hr\\localizations\\noam-usa-enter-beginning-balances.md"
+  ],
+  "ebdcf807433b9b4d0ac82fc02e79209e6166c92c": [
+    "core\\hr\\localizations\\noam-usa-existing-earnings.md"
+  ],
+  "09569841fbc2e0e27e108b8f7abe20cc329dd897": [
+    "core\\hr\\localizations\\noam-usa-existing-payroll-payments.md"
+  ],
+  "f101239a45ebd849e9634506b59a8a662115cc19": [
+    "core\\hr\\localizations\\noam-usa-form-i-9-verification.md"
+  ],
+  "7b5f578aebb09da70667396b5b9fd764c0fc56a7": [
+    "core\\hr\\localizations\\noam-usa-garnishment-tax-levy-administrative-fees.md"
+  ],
+  "87461a9416fa0dbdf7409e3a52ab8e45f23e127f": [
+    "core\\hr\\localizations\\noam-usa-garnishment-tax-levy-enrollment-tasks.md"
+  ],
+  "5321cd040c66ecdb0c8e0d042a3d2eeaf9665ed6": [
+    "core\\hr\\localizations\\noam-usa-garnishment-tax-levy-set-up-tasks.md"
+  ],
+  "0f93fa573623a65b1d254516f6cfe85c7fee95b2": [
+    "core\\hr\\localizations\\noam-usa-generate-earnings.md"
+  ],
+  "f0d9b80a1e82badb7e3eda180ed0d11fcb428065": [
+    "core\\hr\\localizations\\noam-usa-generate-payroll-reports.md"
+  ],
+  "a1b423890c20443f8740d7d3755a58f7bf724bbf": [
+    "core\\hr\\localizations\\noam-usa-issue-worker-payments.md"
+  ],
+  "fd42cc981ed418c4594580b0037116623ce433d9": [
+    "core\\hr\\localizations\\noam-usa-pay-cycle-pay-period-tasks-sample.md"
+  ],
+  "ba8b6129084eeb9f563a014719bfa5274a6f74d3": [
+    "core\\hr\\localizations\\noam-usa-payroll.md"
+  ],
+  "91d8492e5031efa9421b7a75f239216edafde034": [
+    "core\\hr\\localizations\\noam-usa-payroll-calculation-frequencies-tasks.md"
+  ],
+  "eee03296f6d57807dd5693eae259c0c91327b153": [
+    "core\\hr\\localizations\\noam-usa-payroll-data-updates.md"
+  ],
+  "c79c40618a2359da876ba6c365d87cdf450861e0": [
+    "core\\hr\\localizations\\noam-usa-pay-statements.md"
+  ],
+  "878e28ccdda08a17d7b7642d7303d95c418e2037": [
+    "core\\hr\\localizations\\noam-usa-pay-statements-payment-generation-process.md"
+  ],
+  "95c3ec063f147553e82f5e13f32c84702d62a280": [
+    "core\\hr\\localizations\\noam-usa-post-payroll-generate-vendor-invoices.md"
+  ],
+  "740af80e4674f3d5f64d614a9b2ce5cc2209bf09": [
+    "core\\hr\\localizations\\noam-usa-premium-earning-setup-tasks.md"
+  ],
+  "327def6348d658907f52ce91ab795c0fe8c5bf97": [
+    "core\\hr\\localizations\\noam-usa-tax-codes-tax-groups-definitions.md"
+  ],
+  "330a5518e4f25629d845ab095e8dde55670502cd": [
+    "core\\hr\\localizations\\noam-usa-tax-information-tasks.md"
+  ],
+  "271632bbe986cb27c56e0f790fbfd8cb749a049e": [
+    "core\\hr\\localizations\\noam-usa-work-cycle-work-period-tasks.md"
+  ],
+  "7c63d779659b2ba236548253a6cc43e9d0536c33": [
+    "core\\hr\\localizations\\noam-usa-worker-position-payroll-tasks.md"
+  ],
+  "527ea8451fa2967c0c691eaaeaeda65d9cbb5d11": [
+    "core\\hr\\localizations\\noam-usa-work-schedule-leave-tasks.md"
+  ],
+  "b69dcaaef07c585d4ebe77aad9d1946d61db63fa": [
+    "core\\hr\\manage-recruiting-process.md"
+  ],
+  "86d98e44a4192a28840e339b34f6e865dfc29372": [
+    "core\\hr\\mass-hire-projects.md"
+  ],
+  "71853c6197a6a7f222db0f1978c7cb232b87c5ee": [
+    "core\\includes\\banner.md",
+    "dev-itpro\\includes\\banner.md",
+    "financials\\includes\\banner.md",
+    "scm\\includes\\banner.md"
+  ],
+  "bc5a1d6ce88e7d409dac7d6b5b38caebeaabf12b": [
+    "core\\index.md"
+  ],
+  "2c8c036886bcb12a2e80e349e7d2262ddea18250": [
+    "core\\media\\toc.yml"
+  ],
+  "01df86a96e211806894059e86499773a980c32ef": [
+    "core\\organization-administration\\cases.md"
+  ],
+  "cfdf3ecfe6684807080965d81072794f9307f902": [
+    "core\\organization-administration\\configure-approval-process-workflow.md"
+  ],
+  "3bd647f5b4489feda0366d1fe02ebd8d27bfa88c": [
+    "core\\organization-administration\\configure-approval-step-workflow.md"
+  ],
+  "832546ef193bd82ba99eb81206d808bca3aa0794": [
+    "core\\organization-administration\\configure-automated-task-workflow.md"
+  ],
+  "9438e24d2d9c059987adb7be24dfc5fad026ec4c": [
+    "core\\organization-administration\\configure-conditional-decision-workflow.md"
+  ],
+  "190a5b50f453e0a6ea1e687d6faf76da6f6e7e2b": [
+    "core\\organization-administration\\configure-document-management.md"
+  ],
+  "829affe8e2402d8ad067d728a3baec049b6a208d": [
+    "core\\organization-administration\\configure-email.md"
+  ],
+  "9534bed7a616e4c3196eabe6b50a19c68764dbe9": [
+    "core\\organization-administration\\configure-line-item-workflow.md"
+  ],
+  "2a004f95814b55c25afeec99de8cc680352b7509": [
+    "core\\organization-administration\\configure-manual-decision-workflow.md"
+  ],
+  "e078c061ae43771d220f0069027de7a24b970bc8": [
+    "core\\organization-administration\\configure-manual-task-workflow.md"
+  ],
+  "3100cbb86c47e8b4cc1f19e0abe85959b3145875": [
+    "core\\organization-administration\\configure-parallel-activity-workflow.md"
+  ],
+  "8e6889adf87e59ec3555054da32e57b6229b62c0": [
+    "core\\organization-administration\\configure-parallel-branch-workflow.md"
+  ],
+  "c9bf6be5967abdee4fdce2571c327d5ac0e2a0a4": [
+    "core\\organization-administration\\configure-workflow-properties.md"
+  ],
+  "f2159189c74476b7608f09eb7ff11e0e62de1eff": [
+    "core\\organization-administration\\create-workflow.md"
+  ],
+  "4c103d7fffc286d13982d94ef368b870d7a6c3f1": [
+    "core\\organization-administration\\date-time-zones.md"
+  ],
+  "2c46227872633ef34a583cc9199eac21ae0f9ff1": [
+    "core\\organization-administration\\electronic-signature-overview.md"
+  ],
+  "32114069d23684802857e02799f9bb359c00ba0a": [
+    "core\\organization-administration\\number-sequence-overview.md"
+  ],
+  "0a0ad3947a31289fb191a03b1d78b9eb5c150ec5": [
+    "core\\organization-administration\\organization-administration-home-page.md"
+  ],
+  "3d4dbf1042a4ed6986baf49bacbdfc82b34bb7b4": [
+    "core\\organization-administration\\organizations-organizational-hierarchies.md"
+  ],
+  "f2d135543d7245cfa0cbb70c45d263b4b2c99d05": [
+    "core\\organization-administration\\overview-global-address-book.md"
+  ],
+  "30ea822490779569264c5ef648e3f33d147b1a0e": [
+    "core\\organization-administration\\overview-workflow-system.md"
+  ],
+  "2b51400871ad59ee79823c9c82b1a4418f89cd9d": [
+    "core\\organization-administration\\plan-case-management.md"
+  ],
+  "c71d54d311f7e2b9afdfb3af5ebee490c60ee4bf": [
+    "core\\organization-administration\\plan-configuration-global-address-book-additional-address-books.md"
+  ],
+  "37003bf52e78f7f2251f4ca0683330315371f378": [
+    "core\\organization-administration\\plan-organizational-hierarchy.md"
+  ],
+  "509235baa8050c3e193337f2080f107c57086515": [
+    "core\\organization-administration\\qa-address-books.md"
+  ],
+  "4d6e28353ad2a0b49a3c9a8fff4ab9c24e24e4a5": [
+    "core\\organization-administration\\record-templates.md"
+  ],
+  "c85d2f6a78a319067628f57f6b409c8a5416532d": [
+    "core\\organization-administration\\workflow-actions.md"
+  ],
+  "8364dc0a8a88e2d96d2e0c1c790e3800638e1613": [
+    "core\\organization-administration\\workflow-batch-job-critical.md"
+  ],
+  "366f4ebc019865c992eef07931f71dfb7b8c7e0b": [
+    "core\\organization-administration\\workflow-elements.md"
+  ],
+  "8221af110932b068f9a16a1b372a790ecf30dd30": [
+    "core\\organization-administration\\workflow-system-architecture.md"
+  ],
+  "aca4f7ff0b9e99b8c41169749f959cceb9b5dd27": [
+    "core\\organization-administration\\workflow-types-report.md"
+  ],
+  "fed3c7edcd908d034b894cde4716c19905a7bb44": [
+    "core\\TOC.md"
+  ],
+  "e819aafbdf55fbc2a6dc996d275244de1e11d89b": [
+    "dev-itpro\\analytics\\add-analytics-tab-workspaces.md"
+  ],
+  "efcc219bfeb1e7768aaaa21ae8c074e66222a68d": [
+    "dev-itpro\\analytics\\add-bi-workspaces.md"
+  ],
+  "ed67be96fe550e0c6d71ffb7a75b48c2b72a2741": [
+    "dev-itpro\\analytics\\add-contextual-bi-forms.md"
+  ],
+  "38dc5b149d8db410a2853106e84695ac8f927f57": [
+    "dev-itpro\\analytics\\add-financial-dimensions-aggregate-measurements.md"
+  ],
+  "b9d3d38c2ae4890faeaa9c092f641b369cf85fc8": [
+    "dev-itpro\\analytics\\advanced-formatting-options-financial-reporting.md"
+  ],
+  "939dd1a3cb43f2d45928639ec2f29e4edefd7815": [
+    "dev-itpro\\analytics\\aggregate-data-entities-report.md"
+  ],
+  "036cf5d049f1eae7c221d687ea5345995408a3f6": [
+    "dev-itpro\\analytics\\aggregate-measurements-report.md"
+  ],
+  "b3e763db2a1eb77e119ec01114a801a42d2fde63": [
+    "dev-itpro\\analytics\\analytics.md"
+  ],
+  "ee2c84c5d712d878b6238e6c065ae0bb84a4cc42": [
+    "dev-itpro\\analytics\\author-distribute-power-bi-reports.md"
+  ],
+  "aa23c3b922c1a58cb3a9f156d8d5d1cff73431a9": [
+    "dev-itpro\\analytics\\benefits-power-bi.md"
+  ],
+  "745abbfde09bab40f032c13d1b0293e0990a3de3": [
+    "dev-itpro\\analytics\\bi-reporting-home-page.md"
+  ],
+  "fe0848b51253c3975462832d82314508ea2003d3": [
+    "dev-itpro\\analytics\\CFO-power-bi.md"
+  ],
+  "92bd05051ae4794118cd8de7f0f16178de060235": [
+    "dev-itpro\\analytics\\column-definitions-financial-reports.md"
+  ],
+  "d0162a125bb6d68653594bfeee63051b488f0de2": [
+    "dev-itpro\\analytics\\compensation-and-benefits-analysis-power-bi-content-pack.md"
+  ],
+  "6fb1b7bdb41500d4992491df3304d6b2ccbfeaed": [
+    "dev-itpro\\analytics\\compensation-power-bi.md"
+  ],
+  "8bfa4fbc398000b568897081a2689fd127b9b7cc": [
+    "dev-itpro\\analytics\\configure-power-bi-integration.md"
+  ],
+  "12c3ac9ac04681bd27c2e6e27a8925faaa4e69d1": [
+    "dev-itpro\\analytics\\configure-ssrs-on-premises.md"
+  ],
+  "b0fc1f86a84ff491ec825c6a78a2e33253df112d": [
+    "dev-itpro\\analytics\\cost-accounting-analysis-content-pack.md"
+  ],
+  "f82fc804d37daac96caeeac646b8925d7289c3ee": [
+    "dev-itpro\\analytics\\cost-management-content-pack.md"
+  ],
+  "62244c9402ecba3b27b612052499e24f475694e3": [
+    "dev-itpro\\analytics\\create-nextgen-reporting-solutions.md"
+  ],
+  "702eef37084ebb1b8781f451d2265cbc5e3aeb01": [
+    "dev-itpro\\analytics\\create-powerbi-report-dashboard.md"
+  ],
+  "5b9c926f8dea114c4c0bc3061b200b7f2644a7c8": [
+    "dev-itpro\\analytics\\create-powerbi-report-data.md"
+  ],
+  "440076b9711071852c44904904d3aeee0322456b": [
+    "dev-itpro\\analytics\\custom-designs-business-docs.md"
+  ],
+  "addf7615294995e2696b0f465de951ea8eb6083f": [
+    "dev-itpro\\analytics\\customize-app-suite-reports-with-extensions.md"
+  ],
+  "a01029fec92feb3def40b5f1450b4cdf640d4981": [
+    "dev-itpro\\analytics\\design-financial-report-definitions.md"
+  ],
+  "98e616b6a239fc94654c5a197e06ab6644f34139": [
+    "dev-itpro\\analytics\\design-financial-reports.md"
+  ],
+  "b75d851152573f1f6e78c4ccca6114ab300de949": [
+    "dev-itpro\\analytics\\document-reporting-services.md"
+  ],
+  "c8b289000ea2d2ffe0c5d05db3a09ae02ce7fff8": [
+    "dev-itpro\\analytics\\download-electronic-reporting-configuration-lcs.md"
+  ],
+  "d0beba906ba4b8a44e2673c6c966db1c02a25aaf": [
+    "dev-itpro\\analytics\\electronic-reporting-configuration.md"
+  ],
+  "d03050f00fd9baa64b49c73e4a2f1a71796c22dc": [
+    "dev-itpro\\analytics\\electronic-reporting-destinations.md"
+  ],
+  "647bd4c3fbf2a3766caa13db05d63b31430410be": [
+    "dev-itpro\\analytics\\electronic-reporting-embed-images-shapes.md"
+  ],
+  "e9a8f9dcb6ac46d1c9e651d168a49e95fc9d2bc8": [
+    "dev-itpro\\analytics\\electronic-reporting-er-configure-parameters.md"
+  ],
+  "e238e163121338d8eed098eb5d7fef4cab0a148f": [
+    "dev-itpro\\analytics\\electronic-reporting-import-ger-configurations.md"
+  ],
+  "c52fa28b9f8b5843b71981a50f9a52f7490e2b34": [
+    "dev-itpro\\analytics\\embed-power-bi-workspaces.md"
+  ],
+  "9f6bca38cd0d55f93aaf158f3fed72dcfbe8da46": [
+    "dev-itpro\\analytics\\employee-competencies-and-development-analysis-power-bi-content-pack.md"
+  ],
+  "ad5e866b53851de19e129738993672d0f6b45dc9": [
+    "dev-itpro\\analytics\\employee-development-PBI.md"
+  ],
+  "576eed9db0a261ab1dea9b996f00eed3d76c21e6": [
+    "dev-itpro\\analytics\\expand-app-suite-report-data-sets.md"
+  ],
+  "305cf1c3b94f1f1fbfefc3978830b011f275cc0f": [
+    "dev-itpro\\analytics\\export-entities-to-your-own-database.md"
+  ],
+  "3979673d8e6e139191b02203cb00f6232142f009": [
+    "dev-itpro\\analytics\\extend-report-menu-items.md"
+  ],
+  "3e1ac16a289bce941903deb1e28774b63f2ca13b": [
+    "dev-itpro\\analytics\\financial-performance-power-bi-content-pack.md"
+  ],
+  "b7d6cf3cbff42f5ec9f0f8af7138736a9eb076ea": [
+    "dev-itpro\\analytics\\financial-report-components.md"
+  ],
+  "67dede60fde0390fecc2218ac605574231073018": [
+    "dev-itpro\\analytics\\financial-reporting-intro.md"
+  ],
+  "f31ee1c3fa1a835d98ec7416862c135480875635": [
+    "dev-itpro\\analytics\\financial-reporting-tree-definitions.md"
+  ],
+  "b9ad00b4157d1f732a8f2400712c94a92a17b273": [
+    "dev-itpro\\analytics\\general-electronic-reporting.md"
+  ],
+  "b04df208b0e3965137ce80dd0b14ea76b576763e": [
+    "dev-itpro\\analytics\\general-electronic-reporting-formula-designer.md"
+  ],
+  "f49fbe1eae105363b012d6d08233e9fe0bfa8adf": [
+    "dev-itpro\\analytics\\general-electronic-reporting-formulas-list-extension.md"
+  ],
+  "1308bb18d632424513cac11e16290ff86d230b0b": [
+    "dev-itpro\\analytics\\general-electronic-reporting-manage-configuration-lifecycle.md"
+  ],
+  "b5338bbb00ee78814e046d247a6031e2962cb317": [
+    "dev-itpro\\analytics\\general-electronic-reporting-report-configuration-get-data-powerbi.md"
+  ],
+  "7084c4823b230e91696cc0bc0de33dd72c9ed91d": [
+    "dev-itpro\\analytics\\generate-electronic-documents-update-application-data.md"
+  ],
+  "5ce1aa070408f5b53c3cce57decea2403ff5273f": [
+    "dev-itpro\\analytics\\generate-financial-report.md"
+  ],
+  "fec86c20bcb126dee2d394a9db4eaa6beacdff74": [
+    "dev-itpro\\analytics\\information-access-reporting.md"
+  ],
+  "16ebf1615258985a25cc4fe596d76d830b2168c8": [
+    "dev-itpro\\analytics\\install-document-routing-agent.md"
+  ],
+  "c2c6166b38aae27292bbb9b16822de7c167cec77": [
+    "dev-itpro\\analytics\\install-modern-report-design-templates.md"
+  ],
+  "accdea2d1fa6dc5cf146d43deeb3140591d9167f": [
+    "dev-itpro\\analytics\\key-performance-indicators-report.md"
+  ],
+  "41093dbc5a17c06a8d0abd75674c0dcd4031ab69": [
+    "dev-itpro\\analytics\\learning-power-bi.md"
+  ],
+  "b629e8718f3178ac08b6d039ed7140a74cdd8780": [
+    "dev-itpro\\analytics\\ledger-budgets-power-bi.md"
+  ],
+  "cb66b8402ba53202bd37ecef7e7f31a95d265cd9": [
+    "dev-itpro\\analytics\\model-aggregate-data.md"
+  ],
+  "07795036da74691c5d67160c430784139143d715": [
+    "dev-itpro\\analytics\\modify-electronic-reporting-format-reapply-excel-template.md"
+  ],
+  "cd77e5ec8c6c56637b8abd3bc8e24df111cca52b": [
+    "dev-itpro\\analytics\\modify-row-definition-cells-financial-reporting.md"
+  ],
+  "b02de5183737e92a6049cbbaa5364dd99af7f127": [
+    "dev-itpro\\analytics\\organizational-training-analysis-power-bi-content-pack.md"
+  ],
+  "7d9467e44bcb228bbafaf966244cd7c1a00493d9": [
+    "dev-itpro\\analytics\\organize-components-report-designer.md"
+  ],
+  "0532f1576e4175cdf11d8b7b6627961a78e89051": [
+    "dev-itpro\\analytics\\pin-power-bi-reports.md"
+  ],
+  "f00d2918503ff46b2ed9db4847d94b8f82054bad": [
+    "dev-itpro\\analytics\\power-bi-content-microsoft-partners.md"
+  ],
+  "39b643340b8abbc01e97897b977790555387f53e": [
+    "dev-itpro\\analytics\\power-bi-embedded-integration.md"
+  ],
+  "892ec0028016d23b353c997e528cbc105d1842da": [
+    "dev-itpro\\analytics\\power-bi-home-page.md"
+  ],
+  "50f9e90775290b2ce4575a4f042de6185ab66ca9": [
+    "dev-itpro\\analytics\\power-bi-integration.md"
+  ],
+  "9ef8c3cfc6d3f4ab14e072bb7ae4f4e73e3611a2": [
+    "dev-itpro\\analytics\\power-bi-integration-entity-store.md"
+  ],
+  "ceb9894e78ca61575aedcf50dc65eb9c6cf4dc36": [
+    "dev-itpro\\analytics\\practice-manager-power-bi.md"
+  ],
+  "049de27b8450fc817db1e6038e21fdcbce0c682c": [
+    "dev-itpro\\analytics\\prevent-long-running-reports-timing-out.md"
+  ],
+  "8b5d22060d6a910ddefdf4ebf9995986963fb53a": [
+    "dev-itpro\\analytics\\print-documents.md"
+  ],
+  "0d1511770b2d8405c914d6a52d483a674af1a175": [
+    "dev-itpro\\analytics\\printing-capabilities-on-premises.md"
+  ],
+  "3c11540f812b28eed80a202892df3d24fa38fa30": [
+    "dev-itpro\\analytics\\production-performance-power-bi.md"
+  ],
+  "4671b0201277d931172edec84d4f9234ca3921c7": [
+    "dev-itpro\\analytics\\purchase-content-pack-for-power-bi.md"
+  ],
+  "e0787582ae69201946ce0f7152766a9c53024f69": [
+    "dev-itpro\\analytics\\recruiting-analysis-power-bi-content-pack.md"
+  ],
+  "14361c92eca6e2283c38b35e375ea76c65f5a431": [
+    "dev-itpro\\analytics\\report-designer-interface.md"
+  ],
+  "6b2567555bc60a5773d4395807cc25010427b4bd": [
+    "dev-itpro\\analytics\\reset-financial-reporting-datamart-after-restore.md"
+  ],
+  "1156716dff8cf452ddd68c1fb221a7b2e8c081b1": [
+    "dev-itpro\\analytics\\retail-channel-performance-dashboard-power-bi-data.md"
+  ],
+  "297d0665a57ef9ad942c491eeed4d33254f8d194": [
+    "dev-itpro\\analytics\\row-definitions-financial-reporting.md"
+  ],
+  "3ac6c1ef02853a2c649e68a27be907fb0f03f2cb": [
+    "dev-itpro\\analytics\\run-document-routing-agent-as-windows-service.md"
+  ],
+  "c2b2212cd835d8b411c52bbb7018ade0deeaffe4": [
+    "dev-itpro\\analytics\\sales-profitability-performance-content-pack.md"
+  ],
+  "64e9c663ab518f1edfa970d60471f07b6b241921": [
+    "dev-itpro\\analytics\\secure-analytical-workspaces.md"
+  ],
+  "7ff4b3e16c8fa255d88c176000fd274cc61b8e01": [
+    "dev-itpro\\analytics\\setup-security-cost-accounting-content-pack.md"
+  ],
+  "b9bab782e113dd09975847f0b97e609f0f1eb906": [
+    "dev-itpro\\analytics\\SSRS-report.md"
+  ],
+  "eba1774da5d7e2c2041a498bfb0f2616f72d2d98": [
+    "dev-itpro\\analytics\\user-preferences-financial-report-designer.md"
+  ],
+  "8bdf03036d4fb4a9c7f29297d0ea61556ed5774d": [
+    "dev-itpro\\analytics\\warehouse-power-bi-content.md"
+  ],
+  "71019611a37f5b8619d9f7e1068e3eeef2f8129f": [
+    "dev-itpro\\analytics\\workforce-analysis-power-bi-content-pack.md"
+  ],
+  "3b44f877afeaea8ebadbb820c0803e2547043819": [
+    "dev-itpro\\database\\copy-database-from-azure-sql-to-sql-server.md"
+  ],
+  "84317c1435246bf1bed0a579b82c9a82c6e9d901": [
+    "dev-itpro\\database\\copy-database-from-sql-server-to-azure-sql.md"
+  ],
+  "74196698cfed151100d4f6a68f8409cca013f40f": [
+    "dev-itpro\\database\\copy-operations-database.md"
+  ],
+  "55037ddc0193bfcebda7e064b33602531ea4c5e1": [
+    "dev-itpro\\database\\request-point-in-time-restore.md"
+  ],
+  "4e35203af0bcbed23739f01df359929b3075b4fe": [
+    "dev-itpro\\data-entities\\behavioral-properties-data-entities.md"
+  ],
+  "10c4fc3a4106bb105a7002a8e0a37f08f5d7c822": [
+    "dev-itpro\\data-entities\\build-consuming-data-entities.md"
+  ],
+  "c61f933a434b885e9e0831fd145e50e2991f8c54": [
+    "dev-itpro\\data-entities\\configuration-data-packages.md"
+  ],
+  "4549e18d2f6e262dcc6e3d281dabed254062edf2": [
+    "dev-itpro\\data-entities\\configuration-data-projects.md"
+  ],
+  "f2be0555b592efac9ad4bbf9b20107a6028af279": [
+    "dev-itpro\\data-entities\\configuration-data-templates.md"
+  ],
+  "aed4adf79bd2a9f7889ff9c51481cf16fd423b70": [
+    "dev-itpro\\data-entities\\copy-configuration.md"
+  ],
+  "5ca039cdf7518e2279e8d67318b9ef0ef5f27ae4": [
+    "dev-itpro\\data-entities\\countryregion-codes-configuration-keys.md"
+  ],
+  "b995b86a904aba0c018cf0da864162e48db3edf0": [
+    "dev-itpro\\data-entities\\cross-company-behavior.md"
+  ],
+  "c95bae955cd89f227a7f712d54144aa1697792e6": [
+    "dev-itpro\\data-entities\\data-entities.md"
+  ],
+  "619f8b2315d4de6c3bb7744834e92380a7c81e9f": [
+    "dev-itpro\\data-entities\\data-entities-accounts-payable-taxes.md"
+  ],
+  "22d17e337bf629d6f299f0b4ec41963aa1373c15": [
+    "dev-itpro\\data-entities\\data-entities-accounts-receivable.md"
+  ],
+  "45c1d8d1efa80fb2e861e47fefef5e035b2fbb41": [
+    "dev-itpro\\data-entities\\data-entities-bank.md"
+  ],
+  "e85ccdce4cc94ea5797ad0cc381d5b26f7800057": [
+    "dev-itpro\\data-entities\\data-entities-beginning-balances.md"
+  ],
+  "5e6b8a543be7fc5a447fb57894b008a5bb8e1cdc": [
+    "dev-itpro\\data-entities\\data-entities-budgeting.md"
+  ],
+  "f764d22f21fcff0257ddd092896a3390b9828262": [
+    "dev-itpro\\data-entities\\data-entities-budget-plan.md"
+  ],
+  "da44f2a79f138773d2d8a525c37ecbdd5884cc06": [
+    "dev-itpro\\data-entities\\data-entities-costing.md"
+  ],
+  "fb2cb505a0f72310b33ae788de2576af66b93bb3": [
+    "dev-itpro\\data-entities\\data-entities-data-packages.md"
+  ],
+  "d5a6918f004cd672c90d4e3e360678fb1a828311": [
+    "dev-itpro\\data-entities\\data-entities-expense-management.md"
+  ],
+  "a23fdb8eaa7f43b13b6367fa328c6f5aba0e2a2d": [
+    "dev-itpro\\data-entities\\data-entities-fixed-assets.md"
+  ],
+  "b7daec27cbde761ccc7389c53d4bbf6d9d1cae91": [
+    "dev-itpro\\data-entities\\data-entities-general-ledger.md"
+  ],
+  "de68f38fc79d61e0531c297abee19333441bcc9f": [
+    "dev-itpro\\data-entities\\data-entities-global-address-book.md"
+  ],
+  "57f9067a1ad8daaad4b659a7034397eb9feeb220": [
+    "dev-itpro\\data-entities\\data-entities-human-resources.md"
+  ],
+  "1dbc1a9c743214937999885cb07659760d3ee723": [
+    "dev-itpro\\data-entities\\data-entities-inventory-management.md"
+  ],
+  "4315586efc3f0f589b0b718b4c238f2dcdf0d193": [
+    "dev-itpro\\data-entities\\data-entities-master-plan.md"
+  ],
+  "b119205dbe035aad1adf6b0dcffc649db678fddc": [
+    "dev-itpro\\data-entities\\data-entities-procurement-sourcing.md"
+  ],
+  "a63bb1974e756290d7062e2a5847f889b463f0ac": [
+    "dev-itpro\\data-entities\\data-entities-product-information-management.md"
+  ],
+  "99f795f34136f0bd69e489ab4dfcbb449d29716d": [
+    "dev-itpro\\data-entities\\data-entities-production-control.md"
+  ],
+  "1249a82cf0fd505d06ff2d141258667006f838b7": [
+    "dev-itpro\\data-entities\\data-entities-project-accounting.md"
+  ],
+  "252d9a4f7c07d6489694c3644467ecfa0aa6f24f": [
+    "dev-itpro\\data-entities\\data-entities-public-sector.md"
+  ],
+  "d92beed004eac7bd50259996d2369f4d6a29d3bc": [
+    "dev-itpro\\data-entities\\data-entities-report.md"
+  ],
+  "b83d63c501378f75d6854ee28d2c65413fd44043": [
+    "dev-itpro\\data-entities\\data-entities-retail.md"
+  ],
+  "9931ee78645a561f5520be6fb4421de691bb4765": [
+    "dev-itpro\\data-entities\\data-entities-sales-marketing.md"
+  ],
+  "d11e2515a8b1357f05627829e628cee99bb8574a": [
+    "dev-itpro\\data-entities\\data-entities-sales-marketing-pre-sales.md"
+  ],
+  "fd30d1015c45e9351e9fc2af4b60752677cc4386": [
+    "dev-itpro\\data-entities\\data-entities-system-administration.md"
+  ],
+  "b89a8e0311391a4c3c20d90471243735732936e3": [
+    "dev-itpro\\data-entities\\data-entities-workflow.md"
+  ],
+  "2799511b5f2e92db7821c0055d4ac234ca0c8a0a": [
+    "dev-itpro\\data-entities\\data-entity-computed-columns-virtual-fields.md"
+  ],
+  "780bb5f35b9f14fedccbb79cdcafd5e794ad2f99": [
+    "dev-itpro\\data-entities\\data-entity-wizard-rules.md"
+  ],
+  "eb73f05b80015c620d52eff556e340ce2ddfef3f": [
+    "dev-itpro\\data-entities\\data-management-integration-data-entity.md"
+  ],
+  "e8fcee1443d924e9fcbd6af7491cdea006d1fcf3": [
+    "dev-itpro\\data-entities\\develop-composite-data-entities.md"
+  ],
+  "21107b2d32195ab19dc227eb40508a66a1226a04": [
+    "dev-itpro\\data-entities\\develop-entity-for-data-migration.md"
+  ],
+  "dbc04c1c2d870f2204eca94473044cf8129f4a31": [
+    "dev-itpro\\data-entities\\metadata-properties.md"
+  ],
+  "132c43823cf44741d94ba9edcd101749ec58e3a9": [
+    "dev-itpro\\data-entities\\odata.md"
+  ],
+  "3016d150451da4660d56511b093db1c34966c625": [
+    "dev-itpro\\data-entities\\recurring-integrations.md"
+  ],
+  "4ba5d8009a389010dd976fb4d95a4c3ec71fe612": [
+    "dev-itpro\\data-entities\\security-data-entities.md"
+  ],
+  "da748080894a8591cb191bdd271c12dcad7ea558": [
+    "dev-itpro\\data-entities\\services-home-page.md"
+  ],
+  "0cb3103a2f45ca29723e18da6ff2e1afc9d72784": [
+    "dev-itpro\\data-entities\\support-super-type-sub-type.md"
+  ],
+  "2cd310135797c85e892d6c305f354f60392fdf43": [
+    "dev-itpro\\data-entities\\tips-tricks-import-general-journal-entity.md"
+  ],
+  "3f41b56bade8bff7e2384f96a12a965408f6c89a": [
+    "dev-itpro\\data-entities\\troubleshoot-service-authentication.md"
+  ],
+  "674cb4c34b1e8386b6af73bfba09c043048194a2": [
+    "dev-itpro\\data-entities\\validations-defaults-unmapped-fields.md"
+  ],
+  "bf731d6ad0d9dee4e800d92bddaa3664573f3494": [
+    "dev-itpro\\deployment\\apply-deployable-package-system.md"
+  ],
+  "e624a0fe4a6b585d1842413e406079143ff49301": [
+    "dev-itpro\\deployment\\arm-onboarding.md"
+  ],
+  "a9f15ed73bcb59ba7b1018074ad19aef42ffd684": [
+    "dev-itpro\\deployment\\create-apply-deployable-package.md"
+  ],
+  "42eb0c1e5037c06f94d1ca0c70be2fbec79af78b": [
+    "dev-itpro\\deployment\\csp-download-customersource.md"
+  ],
+  "fcaf4a053a411cc5ee9aa237ae94689efdd07f42": [
+    "dev-itpro\\deployment\\deploy-demo-environment.md"
+  ],
+  "adf3bc10a29601851a8a49c96a065733585ef9bb": [
+    "dev-itpro\\deployment\\develop-deploy-custom-models-on-premises.md"
+  ],
+  "3243654be26aed84e89a905893caee4664c1e8a3": [
+    "dev-itpro\\deployment\\expressroute.md"
+  ],
+  "bf4c00d19cf878748fdb65d22530dc609dec2543": [
+    "dev-itpro\\deployment\\install-deployable-package.md"
+  ],
+  "9fc05fb8708078c863af2fd9551ebf2a0892ff9d": [
+    "dev-itpro\\deployment\\on-premises-deployment-landing-page.md"
+  ],
+  "6ec67c5548eff2ad509acbb2ecdb6f345fc7bfea": [
+    "dev-itpro\\deployment\\on-premises-overview.md"
+  ],
+  "531d17f9a2131a0a02c16423fa6963420cdd01bf": [
+    "dev-itpro\\deployment\\setup-deploy-on-premises-environments.md"
+  ],
+  "57805d16888a15b7679f4cfa2eb850896cfce285": [
+    "dev-itpro\\dev-ref\\a-classes.md"
+  ],
+  "330339edacade5a3d2e121e2bbcfcacbdca9f6c3": [
+    "dev-itpro\\dev-ref\\api-reference.md"
+  ],
+  "a853f672ff540f3c8ac92adcd20765959622103f": [
+    "dev-itpro\\dev-ref\\application-explorer-aot-properties.md"
+  ],
+  "61a35454594be4f3df9b2b8283e32654193f278f": [
+    "dev-itpro\\dev-ref\\b-classes.md"
+  ],
+  "c4ecc43f06f3fae81670184ee2fa73508db988d0": [
+    "dev-itpro\\dev-ref\\c-classes.md"
+  ],
+  "46241a690e83721c3084ef7db54be0fb1de5d000": [
+    "dev-itpro\\dev-ref\\d-classes.md"
+  ],
+  "0036784fa2cb086588f0f0f6c772effb51edd20e": [
+    "dev-itpro\\dev-ref\\e-classes.md"
+  ],
+  "142acd2b4420d55ffadb4a1f9c350b7da9118fab": [
+    "dev-itpro\\dev-ref\\fieldbinding-classes.md"
+  ],
+  "3f4d42df523368ca99c5431888a08a798aa62eff": [
+    "dev-itpro\\dev-ref\\formbuildbuttoncontrol-classes.md"
+  ],
+  "e7e8652456c7424cc76db39faa7bb3db2cf97f6e": [
+    "dev-itpro\\dev-ref\\formbuildfilterpanecontrol-classes.md"
+  ],
+  "40b537da6826304c0eadeb1b5422399c0ddc4e4b": [
+    "dev-itpro\\dev-ref\\formbuildreferencecontrol-classes.md"
+  ],
+  "9df0df131c16497fc7e7f83e71297e85f47c477c": [
+    "dev-itpro\\dev-ref\\formchangetracker-classes.md"
+  ],
+  "4fe993e847d26b5d5e01a501b09830a5388169f4": [
+    "dev-itpro\\dev-ref\\formdataobject-classes.md"
+  ],
+  "af96be9840ab1dc884229a56a0e64674e921aae5": [
+    "dev-itpro\\dev-ref\\formfasttabsummaryseparator-classes.md"
+  ],
+  "ef7d39a376261800dcba7acf1609aab8a933a8e7": [
+    "dev-itpro\\dev-ref\\formgroupcontrol-classes.md"
+  ],
+  "ec0d41c91d333c318e56b7e09d119ab61006d400": [
+    "dev-itpro\\dev-ref\\formlistboxcontrol-classes.md"
+  ],
+  "475a714ff03f78cb1b52ac3a992cd8a2d22bfa7c": [
+    "dev-itpro\\dev-ref\\formobject-classes.md"
+  ],
+  "334657af3ad8c7f42e2e7ac14c9a7b4c2c465576": [
+    "dev-itpro\\dev-ref\\formreferencecontrol-classes.md"
+  ],
+  "9db579d2f9e9a7dd293567464de7af77e67a5f12": [
+    "dev-itpro\\dev-ref\\formtabcontrol-classes.md"
+  ],
+  "dc4c230559d83a1f5e42b6201088a7b86a204cb0": [
+    "dev-itpro\\dev-ref\\g-classes.md"
+  ],
+  "4b3665f81a54194dbee6205a8753a3b599333d82": [
+    "dev-itpro\\dev-ref\\h-classes.md"
+  ],
+  "57af7797e9b1ba138165d5dee6f876b8daec0ae3": [
+    "dev-itpro\\dev-ref\\i-classes.md"
+  ],
+  "25d2d484e321d1a9c92f7779bf2d214f09fbcedb": [
+    "dev-itpro\\dev-ref\\j-classes.md"
+  ],
+  "7c7e8663e3f63dc3f3253aa9cdb89330e9c9b71a": [
+    "dev-itpro\\dev-ref\\k-classes.md"
+  ],
+  "fd07d5e4636a8594da53847d5e5ee4f606b71d8b": [
+    "dev-itpro\\dev-ref\\l-classes.md"
+  ],
+  "1199e3be66b2a95e860244324c7182580d867cde": [
+    "dev-itpro\\dev-ref\\m-classes.md"
+  ],
+  "19106caa0ba7ea8032de9eb8e2f746eb6c81cdc9": [
+    "dev-itpro\\dev-ref\\n-classes.md"
+  ],
+  "cafea81fbf5f0b598d52debdee59ef56773808a9": [
+    "dev-itpro\\dev-ref\\o-classes.md"
+  ],
+  "2ffa2d16f99a93d136f6d46593b47754fc1d7d40": [
+    "dev-itpro\\dev-ref\\p-classes.md"
+  ],
+  "029f1d5f363514ce5f7b04834ab76dd5562fd0f1": [
+    "dev-itpro\\dev-ref\\q-classes.md"
+  ],
+  "aed61ef7e6a723e42d21d3390db788fd1ad93703": [
+    "dev-itpro\\dev-ref\\r-classes.md"
+  ],
+  "e0aff588c7781b0f4f645786d682e785bea123cf": [
+    "dev-itpro\\dev-ref\\s-classes.md"
+  ],
+  "907e40a7e9a9b6eaca693744f8c16ceaab7ed22d": [
+    "dev-itpro\\dev-ref\\system-tables.md"
+  ],
+  "19f38b15c2b3785f924ade21ab042b75f2cdf139": [
+    "dev-itpro\\dev-ref\\t-classes.md"
+  ],
+  "21a8a7808bc504f2ffa7de8d15d70fbb113c2a06": [
+    "dev-itpro\\dev-ref\\u-classes.md"
+  ],
+  "ff6f35e1e9b41faede28ea240448729af35f6b34": [
+    "dev-itpro\\dev-ref\\v-classes.md"
+  ],
+  "c101a8fe801227628d24e9fdca48167c029d20c3": [
+    "dev-itpro\\dev-ref\\w-classes.md"
+  ],
+  "24230f6a277e1260ccbca9e56e4f928810567618": [
+    "dev-itpro\\dev-ref\\x-classes.md"
+  ],
+  "4f8294c49d4f2a9d9b1038efe53bfef5115d9957": [
+    "dev-itpro\\dev-ref\\xpp-attribute-classes.md"
+  ],
+  "09df68c42ba73757437015746ade39b82bdc26a4": [
+    "dev-itpro\\dev-ref\\xpp-business-run-time-functions.md"
+  ],
+  "896fd1f92039cc9755170e167fe830272ad1a30a": [
+    "dev-itpro\\dev-ref\\xpp-classes-methods.md"
+  ],
+  "a89ab08193ce09c53e809a13c7cf393c353dcdd8": [
+    "dev-itpro\\dev-ref\\xpp-compile-time-functions.md"
+  ],
+  "28f483175ca3460486ba7016b682fd6cf9dc3a6e": [
+    "dev-itpro\\dev-ref\\xpp-container-run-time-functions.md"
+  ],
+  "df548c6a647bcc562dcd561aca8ac844abfd5935": [
+    "dev-itpro\\dev-ref\\xpp-conversion-run-time-functions.md"
+  ],
+  "261aae4113d39c05e420efda47a8b9f4ea428003": [
+    "dev-itpro\\dev-ref\\xpp-cs-comparison.md"
+  ],
+  "aa6cbae02d897691f3c4f854aee343ddf5cc59ee": [
+    "dev-itpro\\dev-ref\\xpp-data-query.md"
+  ],
+  "8eabb276bfaeca15561a0ad1fc30c51c85a402da": [
+    "dev-itpro\\dev-ref\\xpp-date-run-time-functions.md"
+  ],
+  "02c14e798e6263e7448f4570e450a13429da18b9": [
+    "dev-itpro\\dev-ref\\xpp-language-reference.md"
+  ],
+  "ede12cf810e6f101aa032c2d7d2ba9bf6215079b": [
+    "dev-itpro\\dev-ref\\xpp-macros.md"
+  ],
+  "62d1edcfc1d4e728b2946b0cdad06497a5da2f97": [
+    "dev-itpro\\dev-ref\\xpp-math-run-time-functions.md"
+  ],
+  "3baeec6773022285382d0bac5008b6ff62b328bf": [
+    "dev-itpro\\dev-ref\\xpp-operator-precedence.md"
+  ],
+  "90c1753ddbba1be45ff047af96b2f2211c31c2d9": [
+    "dev-itpro\\dev-ref\\xpp-operators.md"
+  ],
+  "fde9ac71abebb7159e7c8d9fb5c8d9fe67058a46": [
+    "dev-itpro\\dev-ref\\xpp-reflection-run-time-functions.md"
+  ],
+  "abe47f186da0eaf7e7745b79f2a1863a698f2686": [
+    "dev-itpro\\dev-ref\\xpp-run-time-functions.md"
+  ],
+  "49e9c9269a9af9aaba7d509d6ee6ba6f3936e8c8": [
+    "dev-itpro\\dev-ref\\xpp-session-run-time-functions.md"
+  ],
+  "dcdf396d29626ad35ac883b65906824db8344437": [
+    "dev-itpro\\dev-ref\\xpp-statements-loops.md"
+  ],
+  "985cb9c8da18873d9f4ed2784986fb5d4003a829": [
+    "dev-itpro\\dev-ref\\xpp-string-run-time-functions.md"
+  ],
+  "30aa1ff6f42d286ee4046e2a6acd76261d7fc21a": [
+    "dev-itpro\\dev-ref\\xpp-syntax.md"
+  ],
+  "f1703788a6eb9ec60dc29423e5df6e13c3015320": [
+    "dev-itpro\\dev-ref\\xpp-variables-data-types.md"
+  ],
+  "52559b5d14154e7142e35e3d830ab04439634153": [
+    "dev-itpro\\dev-tools\\access-instances.md"
+  ],
+  "779a78b051ca204a7bf4056129761cea513ee3b0": [
+    "dev-itpro\\dev-tools\\application-explorer.md"
+  ],
+  "ccc496a9c3d81e6de67907af4ddff53cae2b41d5": [
+    "dev-itpro\\dev-tools\\application-stack-server-architecture.md"
+  ],
+  "01b562090bb02f3dd4f60f21a378b7b351dcdb5c": [
+    "dev-itpro\\dev-tools\\author-best-practice-rules.md"
+  ],
+  "d921c98352d05256448278daa6c8696e311f512f": [
+    "dev-itpro\\dev-tools\\build-debug-project.md"
+  ],
+  "9914c8b5e4e2e5d9ac6ae62c5fb93ca0c90c72aa": [
+    "dev-itpro\\dev-tools\\build-operations.md"
+  ],
+  "157846b895f2bda71494f11ac483ad2e471097e5": [
+    "dev-itpro\\dev-tools\\code-editor.md"
+  ],
+  "5b20c428bd232d95c9f1f3f63c7a0b9c2beb11cd": [
+    "dev-itpro\\dev-tools\\configure-developer-vm.md"
+  ],
+  "795c8185398fa350a8ad8ae75b5bebad73bc0293": [
+    "dev-itpro\\dev-tools\\continuous-delivery-faq.md"
+  ],
+  "25cd6e6b8e3c8f846a1f23aeac68b36952cb1c1c": [
+    "dev-itpro\\dev-tools\\continuous-delivery-home-page.md"
+  ],
+  "43007bebb48fd8988f9be8df3176c74ca12adb4d": [
+    "dev-itpro\\dev-tools\\create-data-model-elements.md"
+  ],
+  "3e00e2ce29f877c951cf1d5409395cf5e87eb92d": [
+    "dev-itpro\\dev-tools\\customization-analysis-report.md"
+  ],
+  "3d36c085046a4706df912a15e5923275b2348165": [
+    "dev-itpro\\dev-tools\\database-synchronization.md"
+  ],
+  "6288bde6c44b7e3f9fbef9358f129d53603c0530": [
+    "dev-itpro\\dev-tools\\date-effectivity.md"
+  ],
+  "c1f40dc5b83308255265712568e1de5c77f6bd1c": [
+    "dev-itpro\\dev-tools\\debug-x-issue-against-copy-of-production.md"
+  ],
+  "fe587c7e3330901e9e04fba12af4cf7eec4e8523": [
+    "dev-itpro\\dev-tools\\debug-xpp.md"
+  ],
+  "809ee4bf72db47367098c85a77f9474b0549f17c": [
+    "dev-itpro\\dev-tools\\design-best-practices.md"
+  ],
+  "667710fd3fb9f162a2d05b36cc17a1bbbd12bcdd": [
+    "dev-itpro\\dev-tools\\developer-home-page.md"
+  ],
+  "503e9183965ce22fe6af7607dc86d2c9ad5be6b8": [
+    "dev-itpro\\dev-tools\\developer-tools-add-ins.md"
+  ],
+  "a843e6d6991adf21f2d3b3e0bc788063cb1b9a7e": [
+    "dev-itpro\\dev-tools\\development-system-requirements.md"
+  ],
+  "9e82fe674d9f88507d25af30ecd685aa668f51dd": [
+    "dev-itpro\\dev-tools\\development-tools-overview.md"
+  ],
+  "c5ff7ef024fa7a7b9e5a7f1671a5d416263e1bd8": [
+    "dev-itpro\\dev-tools\\element-designers.md"
+  ],
+  "31b3a666ba7be8427be639f989a6296edb6fc672": [
+    "dev-itpro\\dev-tools\\element-usage.md"
+  ],
+  "db8a1e7733b908a3aff9b79eea29a72b854fcaf1": [
+    "dev-itpro\\dev-tools\\enable-development-machine.md"
+  ],
+  "e6639c5b600892be061c8ee8c7a3e4d294fd982c": [
+    "dev-itpro\\dev-tools\\event-handler-result-class.md"
+  ],
+  "b5de9a82e86c8fbfe06a7b67ef1e28988b7c1d6b": [
+    "dev-itpro\\dev-tools\\exclude-test-packages.md"
+  ],
+  "5aa82981affcdac6cff87554493903e29344c594": [
+    "dev-itpro\\dev-tools\\fleet-management-sample.md"
+  ],
+  "9d916894f94a8b6e3a1fe269d560377302540248": [
+    "dev-itpro\\dev-tools\\get-evaluation-copy.md"
+  ],
+  "95295061e9c7cdfda0fa53838b8e8e7def919d30": [
+    "dev-itpro\\dev-tools\\introduction-fleet-management-sample.md"
+  ],
+  "9643185ff125eb4c5d823dab827022596828c00e": [
+    "dev-itpro\\dev-tools\\introduction-visual-studio.md"
+  ],
+  "d43519c9cb7c03850a7c80938ece569c3568537b": [
+    "dev-itpro\\dev-tools\\isv-licensing.md"
+  ],
+  "80f14c87edfd4a373b1bc27f5039d7955bcb4126": [
+    "dev-itpro\\dev-tools\\linq-provider-c.md"
+  ],
+  "7d3a53abe2352b19f002cb7f44fb6023dd361f6c": [
+    "dev-itpro\\dev-tools\\lock-models.md"
+  ],
+  "d70e59d3597de9d722880891fcad56b8a7eb76e3": [
+    "dev-itpro\\dev-tools\\manage-runtime-packages.md"
+  ],
+  "31a4b0de0a34c88e6e029a4ac27e2f273460c4e3": [
+    "dev-itpro\\dev-tools\\metadata-search-visual-studio.md"
+  ],
+  "ee4f862c19ee183fb31a9d9dde707481f9950184": [
+    "dev-itpro\\dev-tools\\models.md"
+  ],
+  "8189dbba467ef40a331652c56e5d44e9ce1319f0": [
+    "dev-itpro\\dev-tools\\models-export-import.md"
+  ],
+  "a3c5e96032900389ba82a9bab0120e04a5716dba": [
+    "dev-itpro\\dev-tools\\model-split.md"
+  ],
+  "52967a87cf16226194fcf98c9246648d7f3d1d43": [
+    "dev-itpro\\dev-tools\\new-x-debugger-features.md"
+  ],
+  "9eebfb05aaf195c801ec3a28f959461d46742bc8": [
+    "dev-itpro\\dev-tools\\programming-language-support.md"
+  ],
+  "ff18f92555fc2539ef3d628cce20629bde2a9ca5": [
+    "dev-itpro\\dev-tools\\projects.md"
+  ],
+  "408b6cb7d165a7b89a8fc33c19d732ad8e5ba13d": [
+    "dev-itpro\\dev-tools\\sign-up-preview-subscription.md"
+  ],
+  "4df6c2fc0bc3681a9f91b5570fd2857b8681146c": [
+    "dev-itpro\\dev-tools\\update-development-tools.md"
+  ],
+  "7e8e33d17593e04799a7c5077d80f77f6079045e": [
+    "dev-itpro\\dev-tools\\version-control-metadata-navigation.md"
+  ],
+  "a1b3c91106621b187c63b84b85d73f48f182791b": [
+    "dev-itpro\\dev-tools\\version-models-build.md"
+  ],
+  "44d5951d25ee25ff5e54c95fd68973c1b03aed9a": [
+    "dev-itpro\\dev-tools\\write-business-logic.md"
+  ],
+  "f7ed52aca4017f55066db9336a05d1fbc79587d3": [
+    "dev-itpro\\extensibility\\class-extensions.md"
+  ],
+  "01e103238e68a7d41479743d082610590d6eb8e4": [
+    "dev-itpro\\extensibility\\customization-overlayering-extensions.md"
+  ],
+  "e82a1d91bba753766849df7110793135ac14b648": [
+    "dev-itpro\\extensibility\\customize-model-elements-extensions.md"
+  ],
+  "64096fc4da076838fde4469e83cbae6cfe0b6464": [
+    "dev-itpro\\extensibility\\extend-number-sequence-scope.md"
+  ],
+  "8415c41f24f2b806c86cb63704803fb58239d2e5": [
+    "dev-itpro\\extensibility\\extend-runbase-class.md"
+  ],
+  "ea1a1624d3eca55eef3691d7c0c54c0e6f778a7c": [
+    "dev-itpro\\extensibility\\extensibility-home-page.md"
+  ],
+  "57f53138f042f7bb7877ff5850f988fc7b3cf2cb": [
+    "dev-itpro\\financial\\activate-financial-dimensions.md"
+  ],
+  "18290ab98c8cbebb28d2787579d1a6ff496be702": [
+    "dev-itpro\\financial\\add-dimensions-excel-templates.md"
+  ],
+  "9fa34ea19b4b4c1b7421b15aaace6c1b4ca3118f": [
+    "dev-itpro\\financial\\create-exchange-rate-providers.md"
+  ],
+  "c664537634516e14ac8edeed509f260bdb979800": [
+    "dev-itpro\\financial\\dimensionable-entities.md"
+  ],
+  "3e7838e3be7b01e7590637399f2291db50aebf29": [
+    "dev-itpro\\financial\\dimension-entry-control-dialog-support.md"
+  ],
+  "507ba8fd0126e42e73e0265556acddbf7d14fffc": [
+    "dev-itpro\\financial\\dimension-entry-control-migration.md"
+  ],
+  "811fcae1ecac030930165201a594aa0519e633f0": [
+    "dev-itpro\\financial\\dimension-entry-control-subpattern.md"
+  ],
+  "12e597b26cd6f9d861c27e8238bebdc8d65e0cfd": [
+    "dev-itpro\\financial\\dimension-entry-control-uptake.md"
+  ],
+  "60310bbab3ca6fd06d5a0cadd4c99633013dbb24": [
+    "dev-itpro\\financial\\dimension-expression-builder-subpattern.md"
+  ],
+  "2d726e15bf54b82f102e5fefa0ac16946c8a4d84": [
+    "dev-itpro\\financial\\dimensions.md"
+  ],
+  "d44c3621d116f3e86d6d1a92e89b28376b628063": [
+    "dev-itpro\\financial\\dimensions-overview.md"
+  ],
+  "2d5bf506ee0d15ba5c573a48667b2930d26341d7": [
+    "dev-itpro\\financial\\financial-dimension-configuration-integration.md"
+  ],
+  "1f2673098794f1a993c2cd053e561e0de18cc3f8": [
+    "dev-itpro\\financial\\financial-dimensions-main-accounts-right-left-language.md"
+  ],
+  "38c6d8d043c2702878e18bf800086babb3445847": [
+    "dev-itpro\\financial\\read-only-entity-financial.md"
+  ],
+  "1e4dc144fc9191227bb1afa14cc7a4984b887f8b": [
+    "dev-itpro\\financial\\segmented-entry-control-conversion.md"
+  ],
+  "7e061834c255890fdb611d124647430331f89dca": [
+    "dev-itpro\\financial\\segmented-entry-control-dialog-support.md"
+  ],
+  "dcd92aa3066b838ab8fb3ad7fdae8704be7d1693": [
+    "dev-itpro\\financial\\segmented-entry-control-metadata-specification.md"
+  ],
+  "987905af0721c3b50bd3992e65bf47e00dcaee60": [
+    "dev-itpro\\financial\\segmented-entry-control-migration-guidance.md"
+  ],
+  "da77e1f55a2f4bcd770eed63ca1916803c6e5440": [
+    "dev-itpro\\financial\\segmented-entry-control-parm-method-specification.md"
+  ],
+  "663d65af66a45f73cd1864722d6bd2b1f94251c6": [
+    "dev-itpro\\get-started\\ax-2012-features-not-implemented-but-not-deprecated.md"
+  ],
+  "1854cc7920e7518be02413e97f352b618f7c173d": [
+    "dev-itpro\\get-started\\demo-data.md"
+  ],
+  "d0d14a53d4fd2e38a8454a1254763f12beeebd89": [
+    "dev-itpro\\get-started\\features-not-implemented-on-prem.md"
+  ],
+  "c40ac469ff74999f16bda28ee6f1bc0bf4de9954": [
+    "dev-itpro\\get-started\\hardware-sizing-on-premises-environments.md"
+  ],
+  "acb832c422ccb5ddb98d6ddd6b69d2e2c3e11057": [
+    "dev-itpro\\get-started\\help-connect.md"
+  ],
+  "eaa3317acf7df84d06ad3641486df1c096b26a56": [
+    "dev-itpro\\get-started\\help-overview.md"
+  ],
+  "e62c9a9b4312082e54b6110e31da544861d21420": [
+    "dev-itpro\\get-started\\new-task-guides-available-february-2016.md"
+  ],
+  "cb0588951ecb953f797334bbff45bce3456244d9": [
+    "dev-itpro\\get-started\\new-task-guides-november-2016.md"
+  ],
+  "dbfc25899b5ce95a311394720df8596f6249cc5c": [
+    "dev-itpro\\get-started\\new-updated-task-guides-available-august-2016.md"
+  ],
+  "598404674cca35747141a993057c95d75f40d0d9": [
+    "dev-itpro\\get-started\\new-updated-task-guides-available-may-2016.md"
+  ],
+  "19d323bfb8b9381adb0bd95feea552daf2dc9d48": [
+    "dev-itpro\\get-started\\purchase-on-premises.md"
+  ],
+  "0ebc881a0f43e8d81b45fda67cc3a46533596c16": [
+    "dev-itpro\\get-started\\system-requirements.md"
+  ],
+  "6bb36407cc354a45ce6f7eea1bab5b9bf4a048b7": [
+    "dev-itpro\\get-started\\whats-new-application-July-2017-update.md"
+  ],
+  "72bb4bd5bedcf32ec9bded2e7b4c47514ecfdd9a": [
+    "dev-itpro\\get-started\\whats-new-changed.md"
+  ],
+  "fffe7764ae4dd30da412e1030b6df308c11458e1": [
+    "dev-itpro\\get-started\\whats-new-changed-7-0-february-2016.md"
+  ],
+  "74a1ca86d9f419e8160334e7bfe1365f5658cceb": [
+    "dev-itpro\\get-started\\whats-new-changed-application-version-7-0-1-may-2016.md"
+  ],
+  "68cc7916fae86189e258063191e69598e9a8380d": [
+    "dev-itpro\\get-started\\whats-new-changed-platform-version-7-1-may-2016.md"
+  ],
+  "a18390b9d6e178f0208a1fac96b8818ecf338ce8": [
+    "dev-itpro\\get-started\\whats-new-dynamics-365-operations-1611.md"
+  ],
+  "a5de066fed31e35a02ff8322c8d4f2a382e43e64": [
+    "dev-itpro\\get-started\\whats-new-platform-update-2.md"
+  ],
+  "e52f9e8cd10ebebe334d330f3486f7fc43724c22": [
+    "dev-itpro\\get-started\\whats-new-platform-update-3.md"
+  ],
+  "d68714d0af6f4bce395491e3b4b49dd1bdbc080d": [
+    "dev-itpro\\get-started\\whats-new-platform-update-4.md"
+  ],
+  "09e6d88bde8258a508abef4faf9b6f1570df578b": [
+    "dev-itpro\\get-started\\whats-new-platform-update-5.md"
+  ],
+  "7ec2467967d513e819b1c6fd71de91b64ce83d9c": [
+    "dev-itpro\\get-started\\whats-new-platform-update-6.md"
+  ],
+  "c0e63192c0b1a8bfdb1d1fb5cbfabfbe43d05407": [
+    "dev-itpro\\get-started\\whats-new-platform-update-7.md"
+  ],
+  "241365b691784f5ed2ec795cdd4d1b7d36ad946f": [
+    "dev-itpro\\get-started\\whats-new-platform-update-8.md"
+  ],
+  "d4ca237b439e04fd64c0a413a3ed8aada433acbc": [
+    "dev-itpro\\includes\\upgrade-banner.md"
+  ],
+  "eca88a8ce5f92680439f3a528c252ad8c4073f8d": [
+    "dev-itpro\\index.md"
+  ],
+  "af144189f998b5f30903b20aa5a23d0e93ca45b8": [
+    "dev-itpro\\lcs-solutions\\apply-country-context.md"
+  ],
+  "ce0368cbb500a8b4f8d754b749d493d4e63a68a2": [
+    "dev-itpro\\lcs-solutions\\app-validation-lcs-solutions.md"
+  ],
+  "32b9b7f662950dd93ec27106d4e240808ba99e2f": [
+    "dev-itpro\\lcs-solutions\\business-process-modeler-libraries-lcs-solutions.md"
+  ],
+  "e53a7194badaf2e041fb4a9380d07807996156b8": [
+    "dev-itpro\\lcs-solutions\\classify-localization-features.md"
+  ],
+  "86834e8313688b222db53a5b0c53af94d02800a9": [
+    "dev-itpro\\lcs-solutions\\code-migration-lcs-solutions.md"
+  ],
+  "ead315d2e07818b35dd2806fca7e242f4028be07": [
+    "dev-itpro\\lcs-solutions\\country-region.md"
+  ],
+  "fcaebe716e661425b1018e0510162e6ebbecc615": [
+    "dev-itpro\\lcs-solutions\\database-backup-lcs-solutions.md"
+  ],
+  "61375278912e0dfd607860795f09877261b5fffc": [
+    "dev-itpro\\lcs-solutions\\lcs-solutions-app-source.md"
+  ],
+  "0e31b6811155175cc6e43c5521f53c5563d21f5d": [
+    "dev-itpro\\lcs-solutions\\marketing-content-lcs-solutions.md"
+  ],
+  "674f2c3332f3dd749c9b2df8cbfdad4f78a16326": [
+    "dev-itpro\\lcs-solutions\\methodologies-lcs-solutions.md"
+  ],
+  "4c6b0108aa6c0407b911cd3bbb7703cd390bd422": [
+    "dev-itpro\\lcs-solutions\\process-data-packages-lcs-solutions.md"
+  ],
+  "13a51582fe484b56599ed7866fb0da8f1fdfa8e6": [
+    "dev-itpro\\lcs-solutions\\regulatory-certifications.md"
+  ],
+  "dcecfa74467bd7f4f5b358b9d8cc5ba1a38b2cd3": [
+    "dev-itpro\\lcs-solutions\\regulatory-watch-communication.md"
+  ],
+  "882c1cbbec08db43824584fb2f7cf907cc7e9474": [
+    "dev-itpro\\lcs-solutions\\separate-localization-models.md"
+  ],
+  "be5d84966abb29991b742f607d24ac31eb6c1350": [
+    "dev-itpro\\lcs-solutions\\submit-localization-alerts.md"
+  ],
+  "5b060c1d89d71b18a69255a227fb9161cc8bbcf6": [
+    "dev-itpro\\lifecycle-services\\asset-library.md"
+  ],
+  "bc29bbe1377aea5e4b009fbc30bc9e02998626e4": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\analysis-functionality-idmf-workspace.md"
+  ],
+  "b885ec3414c7f34e88c5e2eada52bb27814b5cc7": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\cloud-hosted-environments-lcs.md"
+  ],
+  "2f41a85ae6f63bf5708b6704d3b8a86636c04d8f": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\code-upgrade-tool-user-guide.md"
+  ],
+  "79158603777c11d35325b5455673842cb1e711c0": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\configuration-functionality-idmf-workspace.md"
+  ],
+  "03f01ad9b419fa2652332f0286f47cfe7405e888": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\configure-sql-server-integration-services-multiple-versions-dixf.md"
+  ],
+  "7c5f3e427183191eb0991e61459581064e0cbbfb": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\copy-compare-entity-data-between-companies-dixf.md"
+  ],
+  "cec51d2f3c75ca096b4390a0dd2c4556db457443": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\copy-data-between-companies-dixf.md"
+  ],
+  "19afe867f3c8d8c56f3d955d4c842328da1732ea": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\copy-data-between-instances-dixf.md"
+  ],
+  "6f8e2b850dbb0442b706b1ea14c67d6e3b918ed8": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\create-archive-objects.md"
+  ],
+  "ecaf4910fd17e7141e1fe0efdb95e2f42ae765cd": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\create-custom-target-entity-dixf.md"
+  ],
+  "3b21d14f75bfe710dd8a751c8ff22a2787a90908": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\create-purge-objects.md"
+  ],
+  "6a083917e1d7618ee1b02f89bb32de4e115ba3c3": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\create-tables.md"
+  ],
+  "61aa6aaf4dac959d24f28d60bcfe60ceed245f84": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\customization-analysis-lcs.md"
+  ],
+  "bf7467386223382c849de06c8b49f3c57c63ca78": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\define-edit-entry-point-permissions.md"
+  ],
+  "9ac2cb22c092e6706e8bb4640874fa96f20cd7bf": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\demo-files-dixf.md"
+  ],
+  "ce65eafb2e6e90bc3c19fe25aa861b3fc2876b4b": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\deploy-2012-r3-azure-lcs.md"
+  ],
+  "5bf15c21d39c8cb365572e8cb2814037c60d3603": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\deploy-ax-2012-r3-ax-2012-r3-cu8-demo-environment-azure.md"
+  ],
+  "a9ac5a11bbc106769edc5d30c0481e74199b2b9e": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\deploy-development-environment-azure.md"
+  ],
+  "64d55585e191a50d1ed781ee03af9367053bc7f1": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\deploy-high-availability-environment-azure.md"
+  ],
+  "9848104da272f6cde4e6dda0c5e737a0a277aad1": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\deploy-retail-ecommerce-devtest-environment-azure.md"
+  ],
+  "4677741c209e13b3130d1f96edf3f39d6c1036ff": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\deploy-retail-essentials-demo-environment-azure.md"
+  ],
+  "0c55182c2666671521f6bb8a8f0611c92feb9050": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\deploy-retail-essentials-devtest-environment-azure.md"
+  ],
+  "a79668cfb8a65107b6bba447c7225819b3f38816": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\deploy-retail-mobility-devtest-environment-azure.md"
+  ],
+  "38e91c4dd92092f3946e690ba28e3f72599b499c": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\deploy-test-environment-azure.md"
+  ],
+  "38329835f443f787eba0a25bf4904b6bc94859c2": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\entities-dixf.md"
+  ],
+  "66f1421e262d54ec1c33a618bcd8d453dfb14a7b": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\import-data-csv-data-source-dixf.md"
+  ],
+  "061c51f62b55e83da780e3012f220088030c370c": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\import-data-odbc-data-source-dixf.md"
+  ],
+  "b30e797dff366e7749a1a061e2af13b12ed5705b": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\import-demo-data-ax-2012-r3-test-data-transfer-tool.md"
+  ],
+  "43e429c144f8896212dd94cc982b82d455abe77a": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\infrastructure-estimator-lcs.md"
+  ],
+  "bb839392d726d52029f54134884b66d65a458265": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\installation-guide-idmf.md"
+  ],
+  "48c964d3fdb50fb8dc211b92a647c6ffd6a6005c": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\install-ax-2012-r3.md"
+  ],
+  "868452214387e693410b50d834c82377892e02d1": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\install-dixf.md"
+  ],
+  "5ec664404069bcbb47116f58b3848146798dbf6e": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\install-dixf-ax-2012-r2-cu7-ss-2014.md"
+  ],
+  "aa916af05968cfcda433cdc1043b5bc013be7c85": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\install-run-system-diagnostics-lcs.md"
+  ],
+  "300fc5ed5abdaceae18f924c126759d76f84848b": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\install-security-development-tool.md"
+  ],
+  "9a8d1f40248461627ef358d58aa0214c5e65470b": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\install-test-data-transfer-tool-beta.md"
+  ],
+  "7268f6ea3afc227a4c62a84b7bee69fc6b95b7e9": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\join-enterprise-portal-servers-single-server-farm.md"
+  ],
+  "5ec3f992597ea622994e8fb52127fc0946fb4d2e": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\lcs-downloadable-tools-formerly-informationsource.md"
+  ],
+  "107d1d5aa7fa1c1b032abb43b8ff90063ee1b894": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\license-sizing-estimator-lcs.md"
+  ],
+  "e7848cf9366f497187f43fc3f70140aed2c30db0": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\maintain-idmf.md"
+  ],
+  "8dbf9b079e9e4505f6abad890dfa0f255faf353a": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\manage-2012-r3-deployment-azure.md"
+  ],
+  "6a36a92cd42baa78c1a1efec591d9386b8c1381d": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\methodologies-lcs.md"
+  ],
+  "641dc590e536680fb8909f6d0b2ee5338f9d4981": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\microsoft-idmf.md"
+  ],
+  "0326301e4047c31e343d9bf3566e466834815200": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\migrate-data-dixf.md"
+  ],
+  "5be6a2c72f7e555790ab77810d756b7f0e7b820e": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\overview-idmf.md"
+  ],
+  "c79f479800bd81476c7a342252f30c7b867b0720": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\overview-security-development-tool-user-interface.md"
+  ],
+  "9385ab168e51324aa0ebfc91f97173c68ac80278": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\performance-benchmark-software-development-toolkit-sdk-2012.md"
+  ],
+  "6547da68a0fa5926fac3b3ae0ad18b100db726aa": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\plan-2012-r3-deployment-azure.md"
+  ],
+  "42bfac3fb23fe858351e9155c0aed6fe1b274e7d": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\projects-lcs.md"
+  ],
+  "1a967370a9bd1ff7d79752b49d497a920edde787": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\quick-import-export.md"
+  ],
+  "253e59618c95c72f0b2139c2f9aa1ddadc65560a": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\record-entry-points-enterprise-portal.md"
+  ],
+  "3ac79e682936184e0ec3e86f00a30a0ccb502456": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\rfp-responses-lcs.md"
+  ],
+  "071d7b717c919d1aed21d9d96681a3144942831f": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\run-test-data-transfer-tool-beta.md"
+  ],
+  "9cb0750b1e3f02b2eb54a928b8491fe374bac903": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\schedule-purge-analysis-tasks.md"
+  ],
+  "565641a2ef7be41a3caa61d1c97910ab46d0609b": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\security-development-tool-user-guide.md"
+  ],
+  "cf6c650b852d38f8be025ca3f9416a2f974cbf52": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\security-upgrade-advisor-tool-user-guide.md"
+  ],
+  "57e61c7cc2bedf78504ac4d725bc07f5f62cb3d7": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\system-diagnostics-lcs.md"
+  ],
+  "8ee9840d204d555bacb9eb6da77c9a30adb80fa1": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\table-properties.md"
+  ],
+  "0f0e763eac9fc2f700be725b0961b580fdfe1931": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\test-data-transfer-tool-beta-2012.md"
+  ],
+  "6a594345a295e062aa4001f2edbc93c7a4b0b5b2": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\troubleshoot-2012-r3-deployment-azure.md"
+  ],
+  "fc835e3b56b67aefd1924aaad665e3066fb42740": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\troubleshoot-idmf.md"
+  ],
+  "444aac810841ec61d6d122b9355e53a2af4a22db": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\update-2012-r3-lcs.md"
+  ],
+  "6f6c8beabe503a2cf93445d7e324c6fd83f1e1fe": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\upgrade-analysis-lcs.md"
+  ],
+  "93973baf1b6c98582e2a0cd5977ceb43b78599ea": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\usage-profiler-lcs.md"
+  ],
+  "7b3c0e8fc116232af9a329fb7cd78c3370cf7c33": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\user-guide-dixf.md"
+  ],
+  "66e6711c65f8c4cef98119959bd3b2587e42e5f5": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\view-status-purge-archive-jobs.md"
+  ],
+  "bf80a401318c6ccfd192672f79b3fefc0ee1aa14": [
+    "dev-itpro\\lifecycle-services\\ax-2012\\work-with-purge-objects-archive-objects.md"
+  ],
+  "f87d359f584de24c4209b617f7ae17e15a6bb0a0": [
+    "dev-itpro\\lifecycle-services\\business-process-libraries-business-process-modeler.md"
+  ],
+  "ac8f2ea245a6816c3c57e25bee47c510fb9fe6ae": [
+    "dev-itpro\\lifecycle-services\\business-process-modeler-lcs.md"
+  ],
+  "b55df0571701b03a65794899f80eb3dd8c8e7cc6": [
+    "dev-itpro\\lifecycle-services\\cloud-operations-servicing.md"
+  ],
+  "06589928acbfc1a84e355b6db7571422e6acfd44": [
+    "dev-itpro\\lifecycle-services\\cloud-powered-support-lcs.md"
+  ],
+  "91e9dac1c221c4590aedadd512d023c6e8e34cf1": [
+    "dev-itpro\\lifecycle-services\\configuration-manager-lcs.md"
+  ],
+  "0d096869ca956e9cd5d21d92169823d60b532275": [
+    "dev-itpro\\lifecycle-services\\configure-execute-code-upgrade.md"
+  ],
+  "347c80bae268c295ea80e3ff8726b1fa761d1eed": [
+    "dev-itpro\\lifecycle-services\\configure-lcs-security.md"
+  ],
+  "140242991b865aa79d505a9944aa70ea4386342a": [
+    "dev-itpro\\lifecycle-services\\copy-configuration-lcs.md"
+  ],
+  "917aaa833ddadb40baa46ada7a2526a2ca8b40ba": [
+    "dev-itpro\\lifecycle-services\\create-methodology.md"
+  ],
+  "b64edfe2b8a5b0b2880c34b95e199b5372b9406c": [
+    "dev-itpro\\lifecycle-services\\flowcharts-business-process-modeler.md"
+  ],
+  "86a37567513a39ea74beecd18b343f8be711ae10": [
+    "dev-itpro\\lifecycle-services\\getting-started-lcs.md"
+  ],
+  "1eb4e8a8534ba718942ad443820095652e44fad2": [
+    "dev-itpro\\lifecycle-services\\issue-search-lcs.md"
+  ],
+  "4976ea6b7d72c2564143b27b93bf8f222041db92": [
+    "dev-itpro\\lifecycle-services\\known-issues.md"
+  ],
+  "bd244c16b3ca67a48c9abd784695c0ce0af8687a": [
+    "dev-itpro\\lifecycle-services\\lbd-create-lcs-on-prem-project.md"
+  ],
+  "8d4a76f950975e08b4ec770a4c0c5290e35b8b66": [
+    "dev-itpro\\lifecycle-services\\lcs.md"
+  ],
+  "923dc25672850d5e6e8d222791dbd069e19ac9d3": [
+    "dev-itpro\\lifecycle-services\\lcs-support.md"
+  ],
+  "065a2bd8620bb69c35571ea49764d46fe336f084": [
+    "dev-itpro\\lifecycle-services\\lcs-user-guide.md"
+  ],
+  "6e23efee1828edeb41eaf635e8908e9aa121f303": [
+    "dev-itpro\\lifecycle-services\\lcs-works-lcs.md"
+  ],
+  "c63efd636e95699dd1d0e38771c114e522100587": [
+    "dev-itpro\\lifecycle-services\\monitoring-diagnostics.md"
+  ],
+  "651a83feabccf1456ae1953d3fce22ee06ad62d6": [
+    "dev-itpro\\lifecycle-services\\planned-maintenance-window-faq.md"
+  ],
+  "a13ae1859c7392d5fa16bd421a487e1ad66bc08d": [
+    "dev-itpro\\lifecycle-services\\premier-support.md"
+  ],
+  "300f6f813742c1c4779dc6b2d222f26ade6f2a70": [
+    "dev-itpro\\lifecycle-services\\set-up-configuration-manager-lcs.md"
+  ],
+  "c20fc8c161e75409c61121db04afcd5f22f1c8e9": [
+    "dev-itpro\\lifecycle-services\\submit-request-dynamics-service-engineering-team.md"
+  ],
+  "f866a264f194d44b0c799a95c4ce84d8c38014f6": [
+    "dev-itpro\\lifecycle-services\\support-experience.md"
+  ],
+  "1c4d720c986cdf0550be89bfbeb98257c0b2c64f": [
+    "dev-itpro\\lifecycle-services\\upload-business-processes-bpm-task-recorder.md"
+  ],
+  "29974f24fb4a21610d21bf1a8c301a50fe14d740": [
+    "dev-itpro\\lifecycle-services\\whats-new-lcs.md"
+  ],
+  "512d1159fc712b8ea3f722161b7124e8ae5e3537": [
+    "dev-itpro\\migration-upgrade\\analysis-sandbox.md"
+  ],
+  "64cc993dfdb256c7a75d7a22d7e20f161eb56bdc": [
+    "dev-itpro\\migration-upgrade\\analyze-code-upgrade.md"
+  ],
+  "14bc037b8a0d419754fd5e0a3eaa208f72847bc9": [
+    "dev-itpro\\migration-upgrade\\app-validation-process.md"
+  ],
+  "5151efefd0e2779113b2a4a43a57d5ea56f465a1": [
+    "dev-itpro\\migration-upgrade\\code-migration-context-menus.md"
+  ],
+  "9aec7da457ff7ec9713bb0ca180249a7ddd2a80e": [
+    "dev-itpro\\migration-upgrade\\code-migration-double-click.md"
+  ],
+  "47982bfd166996f0e40ddb2ef590cb036cc46ecd": [
+    "dev-itpro\\migration-upgrade\\configure-vso-solution.md"
+  ],
+  "4ad40fef7d0702d19af91df88a82e1bde1b74fca": [
+    "dev-itpro\\migration-upgrade\\data-model-changes-resource-management.md"
+  ],
+  "1f2d54ca4b77b67726a4e774d5173ab723994027": [
+    "dev-itpro\\migration-upgrade\\data-upgrade-2012.md"
+  ],
+  "1244fa35dceb236855895433f6e9f2da03ec8c7f": [
+    "dev-itpro\\migration-upgrade\\delegates-migration.md"
+  ],
+  "f94aa4ce96358d4ea90e20739571310994f05e45": [
+    "dev-itpro\\migration-upgrade\\deprecated-apis.md"
+  ],
+  "252ffd7ff2df9ebbe2d7e969791140afcb039fb3": [
+    "dev-itpro\\migration-upgrade\\deprecated-features.md"
+  ],
+  "d9ec2d7eaea31223f461d51052f2f7542682e439": [
+    "dev-itpro\\migration-upgrade\\download-hotfix-lcs.md"
+  ],
+  "d2506aa59c79ae847a664f982d6c72909b6ca688": [
+    "dev-itpro\\migration-upgrade\\in-memory-real-time-aggregate-models.md"
+  ],
+  "d507939a4836e6f514d824632e32eb77aafab91e": [
+    "dev-itpro\\migration-upgrade\\install-financial-reporting-binary-hotfix.md"
+  ],
+  "34d460a493a1bcf72e5e3e2b2a51d2969a553b1d": [
+    "dev-itpro\\migration-upgrade\\install-metadata-hotfix-package.md"
+  ],
+  "e61645d908f2767cd40c86364dc22fe111f55a95": [
+    "dev-itpro\\migration-upgrade\\migrate-upgraded-cube-entity-store.md"
+  ],
+  "89c95e29a6ea93bea5e604fe9a9cbcb578c44e94": [
+    "dev-itpro\\migration-upgrade\\patch-reporting-service-environment.md"
+  ],
+  "b37eadbb9adb5ddde8e1183a23e6118f197fbdd7": [
+    "dev-itpro\\migration-upgrade\\prepare-data-upgrade.md"
+  ],
+  "62470e175a95d445c9f091493d09a17dcd66eecc": [
+    "dev-itpro\\migration-upgrade\\prepare-migration.md"
+  ],
+  "4cfae516dc1c1547d99d4756340912f92bb5af8e": [
+    "dev-itpro\\migration-upgrade\\single-voucher-and-currency-revaluation-upgrade.md"
+  ],
+  "93de888c8d7475d2ec5eb6da389c2906a30ceae5": [
+    "dev-itpro\\migration-upgrade\\update-platform-each-release.md"
+  ],
+  "8d0964c614d428274f94bf0f60e052a0ba103f4f": [
+    "dev-itpro\\migration-upgrade\\upgrade-analyzer-tool.md"
+  ],
+  "d97fb1039be8b3681d5b0e47e6e9dff555d754c0": [
+    "dev-itpro\\migration-upgrade\\upgrade-budget-planning.md"
+  ],
+  "4e773c0c839a3dc08077e1dfc82607d015b0950f": [
+    "dev-itpro\\migration-upgrade\\upgrade-cutover-testing.md"
+  ],
+  "e511b57b299d782fc0bdd77490cdc74c60814fb9": [
+    "dev-itpro\\migration-upgrade\\upgrade-data-sandbox.md"
+  ],
+  "07fefbc5c6f6dff069d9d607986d85700f83a7e7": [
+    "dev-itpro\\migration-upgrade\\upgrade-data-to-latest-update.md"
+  ],
+  "840720dcb94815d9b6c862ab6c68ba4b4ae7e7da": [
+    "dev-itpro\\migration-upgrade\\upgrade-functional-validation.md"
+  ],
+  "9d81667a2a1d1429fda32bf77446080c4119e5b5": [
+    "dev-itpro\\migration-upgrade\\upgrade-go-live-prep.md"
+  ],
+  "bb9648279c368867a70b41684e3ee7f3b2fe1f3f": [
+    "dev-itpro\\migration-upgrade\\upgrade-home-page.md"
+  ],
+  "e438a515884905bf960105235d786db2838941d7": [
+    "dev-itpro\\migration-upgrade\\upgrade-latest-platform-update.md"
+  ],
+  "bdd3239d1f9e91c07dfbee7797d308744600d189": [
+    "dev-itpro\\migration-upgrade\\upgrade-latest-update.md"
+  ],
+  "a30a096fb47337de4ca18c5ac194afa22ecb17c1": [
+    "dev-itpro\\migration-upgrade\\upgrade-overview-2012.md"
+  ],
+  "0fd4af1315157104aafc5f21a6e5f3ccbf283d2c": [
+    "dev-itpro\\migration-upgrade\\upgrade-sandbox-environment.md"
+  ],
+  "7bb91a371f3bb20415c2ab873bd1901dcdb04215": [
+    "dev-itpro\\migration-upgrade\\versions-update-policy.md"
+  ],
+  "57dcbdb11d319986865d9546eb9bc6a4521a1af9": [
+    "dev-itpro\\migration-upgrade\\vso-machine-renaming.md"
+  ],
+  "3a68fe5c7c1da9634b463cd14c94672624f28eaf": [
+    "dev-itpro\\migration-upgrade\\workflow-subsystem.md"
+  ],
+  "7cad68a136786dd431bdae1a239151a3e7f13177": [
+    "dev-itpro\\mobile-apps\\company-directory-mobile-workspace.md"
+  ],
+  "46796dd9097392aba1037cb4e1e34ef2a75ca9db": [
+    "dev-itpro\\mobile-apps\\invoice-approval-mobile-workspace.md"
+  ],
+  "51b4f3e4aff395bab44bb17ea3f05cfe71c5519d": [
+    "dev-itpro\\mobile-apps\\manager-self-service-mobile-workspace.md"
+  ],
+  "8674a237878d4358c7f9ce4d4dfcace302536063": [
+    "dev-itpro\\mobile-apps\\Mobile-app-home-page.md"
+  ],
+  "23603a3fe629fcf2826446a1f18b3f0fd95092b3": [
+    "dev-itpro\\mobile-apps\\mobile-platform.md"
+  ],
+  "895c6d1b1d4c1418b491df8fd37cec6a75ade649": [
+    "dev-itpro\\mobile-apps\\mobile-workspaces-released.md"
+  ],
+  "515e8c4226ea141d212cd16c83a891e82a87cf59": [
+    "dev-itpro\\mobile-apps\\mobile-workspace-xpp-apis.md"
+  ],
+  "b80ebc5c7581e5fc7a12728cbafd02d53a93c326": [
+    "dev-itpro\\mobile-apps\\publish-mobile-workspace.md"
+  ],
+  "a0d63a020897395ed201a80c3629f5e2bb110304": [
+    "dev-itpro\\office-integration\\customize-open-office-menu.md"
+  ],
+  "67872d67600319a965714f4b748b1efede892b5f": [
+    "dev-itpro\\office-integration\\office-integration.md"
+  ],
+  "d7963263a99b9ac9b8ff8e4a8964ab9ea4229419": [
+    "dev-itpro\\office-integration\\office-integration-edit-excel.md"
+  ],
+  "bfc410d7622f2b3dcbe69a41a82194ba24c99e2c": [
+    "dev-itpro\\office-integration\\office-integration-troubleshooting.md"
+  ],
+  "21c64488d4dd7883f9d36115e0567d645685b6d0": [
+    "dev-itpro\\office-integration\\office-integration-tutorial.md"
+  ],
+  "e182e6ac6642960f7e3f6115e9b008eae51ea7a2": [
+    "dev-itpro\\office-integration\\use-excel-add-in.md"
+  ],
+  "8deb67c63e46c5ed64905bb50cedadfc26b8cdf1": [
+    "dev-itpro\\perf-test\\continuous-build-test-automation.md"
+  ],
+  "e84ac49a648bcbfc45b8921ed558f9139d650ae0": [
+    "dev-itpro\\perf-test\\performance-timer.md"
+  ],
+  "0328f950b03a2592e313b53cafb1a5d20d203101": [
+    "dev-itpro\\perf-test\\perfsdk-tutorial.md"
+  ],
+  "f63d6197948cbbb1736271ba0552cbfb3e8b55c9": [
+    "dev-itpro\\perf-test\\testing-support.md"
+  ],
+  "e31132a4d9fd08b37cc91af315d3e76b033d8b50": [
+    "dev-itpro\\perf-test\\testing-validation.md"
+  ],
+  "0a7fb8168b1356e304d55ae2c91cfb0341562efd": [
+    "dev-itpro\\perf-test\\trace-parser.md"
+  ],
+  "5f5b583fd44c8296bce054ab998250ed8a92b77f": [
+    "dev-itpro\\perf-test\\trace-trace-tutorial.md"
+  ],
+  "6ee64a4aec1c8df76de0a5e8a3ca1cc3bc45d57d": [
+    "dev-itpro\\sysadmin\\batch-processing-overview.md"
+  ],
+  "50491a23be2e36d9f3681e5a52e533b1df078977": [
+    "dev-itpro\\sysadmin\\batch-server-overview.md"
+  ],
+  "2d388f10c3c2851c61939800f5fd8669d3276fde": [
+    "dev-itpro\\sysadmin\\cross-company-data-sharing.md"
+  ],
+  "2ecb63983e71cb6818c37ba14e1063c2c4ec96ac": [
+    "dev-itpro\\sysadmin\\faq-platform-monthly-updates.md"
+  ],
+  "a258033a0c0f60cfd4a4e4858524c5c4f4676440": [
+    "dev-itpro\\sysadmin\\legal-terms-privacy-statement.md"
+  ],
+  "3d8b7656ce420abe70960f31098aca5ec66f0785": [
+    "dev-itpro\\sysadmin\\license-codes-configuration-keys-report.md"
+  ],
+  "d49a32f43e1f1bcdb01ad9ee6fee1be522d45e9c": [
+    "dev-itpro\\sysadmin\\maintenance-mode.md"
+  ],
+  "ecc38cfd7c65fbdaab9309cfea962be3e9f6b7ce": [
+    "dev-itpro\\sysadmin\\role-based-security.md"
+  ],
+  "debf86759c33fcf633302bdd6c353b6aade60a5c": [
+    "dev-itpro\\sysadmin\\security-architecture.md"
+  ],
+  "d1caedded21e8223dd3bf8c4c71d36ba31c8b60f": [
+    "dev-itpro\\sysadmin\\security-reports.md"
+  ],
+  "11e5ef76ce0ee6b2d53a6f733289dba2670ce02d": [
+    "dev-itpro\\sysadmin\\system-administration-home-page.md"
+  ],
+  "c05c3edc69cdb1aba624dd1f52a5fd8f8bccc111": [
+    "dev-itpro\\TOC.md"
+  ],
+  "db2736fd6b66838c13ed9984f731e227bd7c357a": [
+    "dev-itpro\\user-interface\\action-controls.md"
+  ],
+  "59894a2ff2aea037de0b86efb73606cb43525698": [
+    "dev-itpro\\user-interface\\add-templates-open-lines-excel-menu.md"
+  ],
+  "34f4d441373e36ed928fd73c4eb7ee473a7a55d6": [
+    "dev-itpro\\user-interface\\advanced-selection-form-pattern.md"
+  ],
+  "7e80b6477ebe1d5204d8db532cc2589dceff25fb": [
+    "dev-itpro\\user-interface\\bidirectional-support.md"
+  ],
+  "2cc9890f8171e9cc00af27ce5a9c4b360886a469": [
+    "dev-itpro\\user-interface\\build-customer-form.md"
+  ],
+  "45d8029ac4ab657e34cd514c983745665f0dab02": [
+    "dev-itpro\\user-interface\\build-extensible-control.md"
+  ],
+  "a105c1a67d23c23aa4098cf045b9d8cb7fc65163": [
+    "dev-itpro\\user-interface\\build-navigation.md"
+  ],
+  "214d0c1ef2b64914497915c634e7ddcd4ba0c17f": [
+    "dev-itpro\\user-interface\\build-rental-charge-type-form.md"
+  ],
+  "e533f11ecc26cdf0714d7cefab3b45a856cdb00b": [
+    "dev-itpro\\user-interface\\build-workspace.md"
+  ],
+  "23523eb7101b646e53bc793b23111137420d318a": [
+    "dev-itpro\\user-interface\\build-workspaces.md"
+  ],
+  "e459eac753fa340c40a896c9e3c89ab5e1150c86": [
+    "dev-itpro\\user-interface\\check-box-tree-controls.md"
+  ],
+  "feb43e96d0365f06433278259bfb714f83de54a0": [
+    "dev-itpro\\user-interface\\client-disconnected.md"
+  ],
+  "f8dac444d807da86bec3c24bc3ddc740c5060579": [
+    "dev-itpro\\user-interface\\contextual-data-entry-lookups.md"
+  ],
+  "5f3479be943c7a04b1373af7bfcdaf09be880d15": [
+    "dev-itpro\\user-interface\\control-checklist.md"
+  ],
+  "64db098d9a44ad5473e3b43d100727b2f0500a99": [
+    "dev-itpro\\user-interface\\control-extensibility.md"
+  ],
+  "2d7d21ccf4a9113d944c848974b5a515a78401f9": [
+    "dev-itpro\\user-interface\\create-deep-links.md"
+  ],
+  "51c2885a9b33b9285a591ad7cd9e198ebd314f37": [
+    "dev-itpro\\user-interface\\create-icons-workspace-tiles.md"
+  ],
+  "dbdeb75e656f2a8be6e7d2764a270fd0214824a2": [
+    "dev-itpro\\user-interface\\create-localizable-labels-client.md"
+  ],
+  "6be980cc8ca582fea70f8979a44246fe4c697bc3": [
+    "dev-itpro\\user-interface\\custom-filter-group-subpattern.md"
+  ],
+  "48032483db6bb534215443e959386e6fe785560d": [
+    "dev-itpro\\user-interface\\customize-field-help.md"
+  ],
+  "4a1c39700be83fa3ed92cea009fdcdd83d9d787b": [
+    "dev-itpro\\user-interface\\data-validation-workspace.md"
+  ],
+  "9e37305a89f1b8fa22c049b878f65d43aa0a4b95": [
+    "dev-itpro\\user-interface\\details-master-form-pattern.md"
+  ],
+  "ad141e08d4d4ef6ced2c85aca7136dceb2449d16": [
+    "dev-itpro\\user-interface\\details-transaction-form-pattern.md"
+  ],
+  "5d127be5252b13bbdb9d9689d6aea4a09149febe": [
+    "dev-itpro\\user-interface\\dialog-form-pattern.md"
+  ],
+  "235ce59637ae119d66cffebfce26bc3a23a29833": [
+    "dev-itpro\\user-interface\\drop-dialog-form-pattern.md"
+  ],
+  "b3e59420341466f62948fc5b28e04a3bc06e1276": [
+    "dev-itpro\\user-interface\\enable-accessibility.md"
+  ],
+  "15fcda408251b26b5b46f7025e0bd74e2babee95": [
+    "dev-itpro\\user-interface\\extensible-control-programming-reference.md"
+  ],
+  "b71e9d0c0bf81f84ffa9b496abbe046a0faf497b": [
+    "dev-itpro\\user-interface\\extensible-controls-layout.md"
+  ],
+  "74b1e4d86555c6c2b951366ea43b4a985ad388f0": [
+    "dev-itpro\\user-interface\\factbox-form-patterns.md"
+  ],
+  "4b47aad44ce8d37f1f6c945af6367f174bf893f9": [
+    "dev-itpro\\user-interface\\fields-field-groups-subpattern.md"
+  ],
+  "b649a55898204bd102f4c41197825014f45baac1": [
+    "dev-itpro\\user-interface\\file-upload-control.md"
+  ],
+  "e7edb5cd362b1d280092e44ea2618dd10d83467a": [
+    "dev-itpro\\user-interface\\fill-text-subpattern.md"
+  ],
+  "b063932f3baa214ae96bf10eb2b305a69a034675": [
+    "dev-itpro\\user-interface\\filtering.md"
+  ],
+  "94a15ff835e33a9b67a25c40ada293ff3cd10c20": [
+    "dev-itpro\\user-interface\\filters-toolbar-subpattern.md"
+  ],
+  "ffae12039ab9266c7941d8d391f5345680c7610b": [
+    "dev-itpro\\user-interface\\form-styles-patterns.md"
+  ],
+  "d050e3b5b35969f99479e21c7c2fd777a96f437a": [
+    "dev-itpro\\user-interface\\gantt-development-guide.md"
+  ],
+  "adfe517c1def6ed2dc09f97a79af87115a8e12d1": [
+    "dev-itpro\\user-interface\\general-form-guidelines.md"
+  ],
+  "a918fdff24bad9f2b3b6da4b8348a5cde6ba057c": [
+    "dev-itpro\\user-interface\\hierarchy-viewer-control.md"
+  ],
+  "f7f3b3a2b841c73a770361d219c9581085c62d7d": [
+    "dev-itpro\\user-interface\\horizontal-fields-buttons-group-subpattern.md"
+  ],
+  "a3919035f506e103a7087730513324689770a210": [
+    "dev-itpro\\user-interface\\image-preview-subpattern.md"
+  ],
+  "96e7d263f021d5bb9eaa0c282b185a31aea1bf99": [
+    "dev-itpro\\user-interface\\images-form-grid.md"
+  ],
+  "50f5977aedd7676dcf8473b2197be7f31543c151": [
+    "dev-itpro\\user-interface\\keyboard-shortcuts-controls.md"
+  ],
+  "f0472d8c39a3dcbd46d69fc77450363aa335eb26": [
+    "dev-itpro\\user-interface\\list-page-form-pattern.md"
+  ],
+  "8fabcc768c6d344c68aa251382fb041bd5f7d31d": [
+    "dev-itpro\\user-interface\\list-panel-subpattern.md"
+  ],
+  "b8e7da47095379f8ea5621a07be7d02afba1f054": [
+    "dev-itpro\\user-interface\\lookup-form-pattern.md"
+  ],
+  "85739fc45eab9db1da3a5ab341db654a89f462fa": [
+    "dev-itpro\\user-interface\\lookups-controls.md"
+  ],
+  "473bc2f7ba8d819ce5dace3360c5fc476055af2d": [
+    "dev-itpro\\user-interface\\messaging-api-center-bar-details.md"
+  ],
+  "e67a418e80eff7b117196359cef25dbf7d4ba8bb": [
+    "dev-itpro\\user-interface\\messaging-user.md"
+  ],
+  "9f8f2c88d07bcc3f35c85127242bc271e16bf03c": [
+    "dev-itpro\\user-interface\\nested-simple-list-details-subpattern.md"
+  ],
+  "00f19197151bc65438dab47744b6ad216d0b8242": [
+    "dev-itpro\\user-interface\\page-layout.md"
+  ],
+  "0f79f79e8b1fc8c611172548e2fb11ea3e284d7f": [
+    "dev-itpro\\user-interface\\page-navigation.md"
+  ],
+  "a37ecb6d779a267a7c11efb82d04e70567dc234f": [
+    "dev-itpro\\user-interface\\powerapps-host-control.md"
+  ],
+  "c47d70fa8a92a2f02aa295a33609de61b64afc77": [
+    "dev-itpro\\user-interface\\public-javascript-apis.md"
+  ],
+  "02a3a4034a11c401f53beebaa520902edd1cdcc6": [
+    "dev-itpro\\user-interface\\section-chart-form-pattern.md"
+  ],
+  "674c835ba66d9a641645190645e5faf95e70deb7": [
+    "dev-itpro\\user-interface\\section-list-form-pattern.md"
+  ],
+  "c7f1c18c119ae019a48df05a8fbf16d06e4b57a0": [
+    "dev-itpro\\user-interface\\section-powerbi-subpattern.md"
+  ],
+  "7d27d0bee592377afcf38bed01a72f3ba10558dc": [
+    "dev-itpro\\user-interface\\section-related-links-subpattern.md"
+  ],
+  "cd9e931f94647efd4c2f2b64009dcd506cf03674": [
+    "dev-itpro\\user-interface\\section-stacked-chart-subpattern.md"
+  ],
+  "e89b0d2f72b49e483953306ad74873a364261c76": [
+    "dev-itpro\\user-interface\\section-tabbed-list-subpattern.md"
+  ],
+  "3ecb2fc5f02b02d3d553d4c0a375f486b29485f3": [
+    "dev-itpro\\user-interface\\section-tiles-subpattern.md"
+  ],
+  "c2ebf29b499058558ee9357f5e9b3ca19cd9f75e": [
+    "dev-itpro\\user-interface\\select-form-pattern.md"
+  ],
+  "98f3b5670f987bd9b186e5bf2b0a00e8d0c54a9c": [
+    "dev-itpro\\user-interface\\simple-details-form-pattern.md"
+  ],
+  "62bdf47d91aa3576945b21e2352c91fb9a9b9fa1": [
+    "dev-itpro\\user-interface\\simple-list-details-form-pattern.md"
+  ],
+  "90ffbaa841c3611d5fb6119bc5071e85178c130f": [
+    "dev-itpro\\user-interface\\simple-list-form-pattern.md"
+  ],
+  "90d0bdcbd1f55f81fc8d80425ba19c4f19d5dc0c": [
+    "dev-itpro\\user-interface\\sizing-input-controls-grid-columns.md"
+  ],
+  "8fa920f3b7b10890d8a15e405ce984aded11b38a": [
+    "dev-itpro\\user-interface\\slider-messagebox.md"
+  ],
+  "fbf62d47fe970275b12afdf93891cebf310126f6": [
+    "dev-itpro\\user-interface\\specify-color-font-background-controls.md"
+  ],
+  "04eedc85e512086f938cf07f404826caf99e08f3": [
+    "dev-itpro\\user-interface\\symbol-font.md"
+  ],
+  "c95a90501d5a358e8f6e97e2c12f5809a2baffc2": [
+    "dev-itpro\\user-interface\\system-defined-buttons.md"
+  ],
+  "5fdeff5fb1c268b6a9dd89f947430235b7aa59ad": [
+    "dev-itpro\\user-interface\\table-of-contents-form-pattern.md"
+  ],
+  "792c2dae9d356fe4c4054a5a7ed9e77c9d140aec": [
+    "dev-itpro\\user-interface\\tabular-fields-subpattern.md"
+  ],
+  "e120eb9d5322d7074dd45ab0526e788d54f6e7a5": [
+    "dev-itpro\\user-interface\\task-double-form-pattern.md"
+  ],
+  "9921fd021db47a7ab147b9035ba7174a7ddb072d": [
+    "dev-itpro\\user-interface\\task-recorder.md"
+  ],
+  "c2274acb459df509ffd4bf78320bcc05a514accc": [
+    "dev-itpro\\user-interface\\task-recorder-control-text.md"
+  ],
+  "8a111982d715770aba4592084c34b50e213e8c95": [
+    "dev-itpro\\user-interface\\task-recorder-quick-reference.md"
+  ],
+  "f29df4a12f5fb0587cf4aeb1b223bda2e3dd4152": [
+    "dev-itpro\\user-interface\\task-recorder-training-docs.md"
+  ],
+  "06177655803c3606bc12db9807b5000507ea2fc8": [
+    "dev-itpro\\user-interface\\task-single-form-pattern.md"
+  ],
+  "d0e8fe85fafd2e341a7513eeca5aea906c861453": [
+    "dev-itpro\\user-interface\\testing-forms-custom-patterns.md"
+  ],
+  "2ec39af22d3e4a943a5fcc38ead92d6e6eb41e0c": [
+    "dev-itpro\\user-interface\\tile-list-caching-workspaces.md"
+  ],
+  "0143fcb1d6af3dde84e2b954c3678276a8a9aed4": [
+    "dev-itpro\\user-interface\\toolbar-fields-subpattern.md"
+  ],
+  "0cd8ae079f52f93bfd21a57dbb0bdf9944fee555": [
+    "dev-itpro\\user-interface\\toolbar-list-subpattern.md"
+  ],
+  "4af0d1d186caa528657438502e8c9226c002fee5": [
+    "dev-itpro\\user-interface\\user-interface-development-home-page.md"
+  ],
+  "b4b3a0ade75612c990b5df7fd95d900f87b94177": [
+    "dev-itpro\\user-interface\\wizard-form-pattern.md"
+  ],
+  "3aee8efb5b511dcb59fcf26651bd22a4c92d107f": [
+    "dev-itpro\\user-interface\\workspace-filter-group-subpattern.md"
+  ],
+  "c6442a3826d3a5b80655c8f78e31a1fbee9ac331": [
+    "dev-itpro\\user-interface\\workspace-form-pattern.md"
+  ],
+  "bbf23d9cab01e8cdbae776c9310fbd19b429443d": [
+    "financials\\accounts-payable\\accounting-distributions.md"
+  ],
+  "1b364ba515f3f6cf8808ccfad32a8128401a9973": [
+    "financials\\accounts-payable\\accounting-distributions-subledger-journal-entries-vendor-invoices.md"
+  ],
+  "3f5ed28400f333776ce4a5de47ce52aed49094e3": [
+    "financials\\accounts-payable\\accounting-source-explorer.md"
+  ],
+  "64bce1e23ef929793c0c838978d9eb646551a048": [
+    "financials\\accounts-payable\\accounts-payable.md"
+  ],
+  "c0c177a17f15eccf7fe21c115dbf657054e02150": [
+    "financials\\accounts-payable\\accounts-payable-invoice-matching.md"
+  ],
+  "ec1cec9adf967847579b2eb8419be10e54c364ce": [
+    "financials\\accounts-payable\\accounts-payable-overview.md"
+  ],
+  "0b79c759f1f30706620c7244d8be6035b328b98d": [
+    "financials\\accounts-payable\\centralized-payments-accounts-payable.md"
+  ],
+  "56c549d6e80409df98e383927a6ac7d19e8ddcab": [
+    "financials\\accounts-payable\\create-vendor-payments-payment-proposal.md"
+  ],
+  "9291cefeeb77f1c0ca63b0fd6b1bb7b6ee459d4a": [
+    "financials\\accounts-payable\\default-offset-accounts-vendor-invoice-journals.md"
+  ],
+  "598b6cc5f871575038571c89ed2a7e3eeafc2f72": [
+    "financials\\accounts-payable\\electronic-reporting-sample-vendor-checks.md"
+  ],
+  "183c67357c7ff774a54ad44bea657bddf28c0f77": [
+    "financials\\accounts-payable\\invoice-matching-intercompany-purchase-orders.md"
+  ],
+  "53b66b42db4ddf6108b952f30c49607ee5167ce4": [
+    "financials\\accounts-payable\\mobile-invoice-approvals.md"
+  ],
+  "20cbf14987b565c58482e636ad1a0190c711d687": [
+    "financials\\accounts-payable\\positive-pay-overview.md"
+  ],
+  "73ece276d65ca8723e4e3bd23782fc51166b8d99": [
+    "financials\\accounts-payable\\prepayments-invoices-vs-prepayments.md"
+  ],
+  "4bdcdbb1c025454df773f5806774df9b8622cc7f": [
+    "financials\\accounts-payable\\project-cost-accrual-purchase-receipts.md"
+  ],
+  "55f9c8396bf44de3e2af2677f60c6e5b4c7f0b56": [
+    "financials\\accounts-payable\\project-invoicing.md"
+  ],
+  "4b9d96c919f2af361b886e89934d685a90006020": [
+    "financials\\accounts-payable\\resolve-invoice-totals-invoice-matching-discrepancies.md"
+  ],
+  "4ca89230ee885fe074068e7d24b3affabf86aa5c": [
+    "financials\\accounts-payable\\reverse-vendor-payment.md"
+  ],
+  "ba7794b4d134fdefc1ca92a1bdccbc8467c6e9fc": [
+    "financials\\accounts-payable\\sepa-credit-transfer.md"
+  ],
+  "9d3793cd8eeb13fb9213cc3c01fba056e077bee9": [
+    "financials\\accounts-payable\\settle-partial-customer-payment-or-final-payment-before-discount.md"
+  ],
+  "089791364a7bff4a2a49d29fdd933dfb63ae0211": [
+    "financials\\accounts-payable\\settle-partial-vendor-payment-before-discount-or-final-payment-after.md"
+  ],
+  "cf2aa4b4a86a9d6638c4310aaf76337aba625e43": [
+    "financials\\accounts-payable\\settle-partial-vendor-payment-discounts-vendor-credit-notes.md"
+  ],
+  "b7828dbb79079e6b50222493c57728ac9395846e": [
+    "financials\\accounts-payable\\settle-partial-vendor-payment-multiple-discount-periods.md"
+  ],
+  "9f25faa2631cd3bf1b840bca19977684f9ecc773": [
+    "financials\\accounts-payable\\settle-partial-vendor-payment-or-final-payment-before-discount.md"
+  ],
+  "97fed658f6e77fa1885d10e43731e1a0fe3612c0": [
+    "financials\\accounts-payable\\set-up-generate-positive-pay-files.md"
+  ],
+  "7d6405f89efc3df5ed16b213f96ad6d0c954efa5": [
+    "financials\\accounts-payable\\single-voucher-multiple-customer-vendor-records.md"
+  ],
+  "0614328d310f0e2793f5d7a2f824ccc91e3565de": [
+    "financials\\accounts-payable\\take-cash-discount-outside-cash-discount-timeframe.md"
+  ],
+  "eb71f7e0b9231600b8e094a78eec4eb5378234a9": [
+    "financials\\accounts-payable\\take-discount-more-calculated-discount-vendor-payment.md"
+  ],
+  "d588ba5ecdf8cc0baa75a42bb198fbf75a3e4519": [
+    "financials\\accounts-payable\\three-way-matching-policies.md"
+  ],
+  "c47ca406e2c8be98f26f1c78d6f5e0a3f66690a5": [
+    "financials\\accounts-payable\\vendor-invoice-automation.md"
+  ],
+  "6982ff96e7e19ddbfd21d10626b19f55ec36aa2d": [
+    "financials\\accounts-payable\\vendor-invoices-overview.md"
+  ],
+  "f20204ced72d514d207c04825511dd4742d0650a": [
+    "financials\\accounts-payable\\vendor-payments-partial-amount.md"
+  ],
+  "2ee3743b40e26b150f7fc03ef4a69495864b0034": [
+    "financials\\accounts-payable\\Vendor-payments-workspace.md"
+  ],
+  "fa2e3bbff853a18bd807019d3ce447d2cca570a3": [
+    "financials\\accounts-payable\\vendor-portal-invoicing-workspace.md"
+  ],
+  "c0eb19f128288e97ec21b15e2aaacf44101db282": [
+    "financials\\accounts-payable\\vendor-posting-profiles.md"
+  ],
+  "5e2030877d995fde8b28ceebdc7cb8964b45c716": [
+    "financials\\accounts-receivable\\accounting-distributions-subledger-journal-entries-free-text-invoices.md"
+  ],
+  "eff328070e4d41d629b22e3dc57d08ef8f00f4a9": [
+    "financials\\accounts-receivable\\accounts-receivable.md"
+  ],
+  "753d94bdcb03e4f7a33991423516c835487330f0": [
+    "financials\\accounts-receivable\\accounts-receivables-set-up-overview.md"
+  ],
+  "027c6c5c3bcfefa6b686245a2e04f809bd97f20a": [
+    "financials\\accounts-receivable\\automatic-settlement-prioritization.md"
+  ],
+  "76a9a58769c196f15d5674b2617832e6a6ea3795": [
+    "financials\\accounts-receivable\\centralized-payments-accounts-receivable.md"
+  ],
+  "6679e1ec9195bb406438204019ea8cf0751639f7": [
+    "financials\\accounts-receivable\\close-accounts-receivable.md"
+  ],
+  "3bed294019b6731bebe48d5cc49fee385b9c4bce": [
+    "financials\\accounts-receivable\\collections-credit-accounts-receivable.md"
+  ],
+  "0bd86fb6196bc5320d73f5336400fe761825cb62": [
+    "financials\\accounts-receivable\\configure-customer-invoices.md"
+  ],
+  "2343d3693f7273e7e14410085e8819080c2d108c": [
+    "financials\\accounts-receivable\\correct-free-text-invoice.md"
+  ],
+  "74132442168f9f8509d4d46968ad0c0806317126": [
+    "financials\\accounts-receivable\\credit-card-authorizations.md"
+  ],
+  "125b43e8398bec2bd0d2e4f4fd5b2dd2db15a467": [
+    "financials\\accounts-receivable\\credit-collections-power-bi.md"
+  ],
+  "88cb7ef7f6f13e28719886f37ad046fb484c940b": [
+    "financials\\accounts-receivable\\customer-payment-settle-multiple-invoices-multiple-discount-periods.md"
+  ],
+  "0f45043c00f40560ec9e15663f248a7aaa0d4147": [
+    "financials\\accounts-receivable\\customer-payments-partial-amount.md"
+  ],
+  "285216807eadeca74b7556cbc10bddc9924e34fb": [
+    "financials\\accounts-receivable\\customer-posting-profiles.md"
+  ],
+  "6734e73a90e137d7baa5d632f375c1dfe23e2738": [
+    "financials\\accounts-receivable\\reimburse-customers.md"
+  ],
+  "bdb08fe90204198e351b9ecf630a7d744499482e": [
+    "financials\\accounts-receivable\\sepa-direct-debit-mandate.md"
+  ],
+  "37b9bfa6ca6aa82fc353bc6599d4d2875c6de242": [
+    "financials\\accounts-receivable\\sepa-direct-debit-overview.md"
+  ],
+  "fb08de585b3986c34409fa1b68f8f87ba191cdc0": [
+    "financials\\accounts-receivable\\settle-partial-customer-payment-before-discount-or-final-payment-after.md"
+  ],
+  "e9f71ff5e398a4445aa5e2410f1cd2c71b87d083": [
+    "financials\\accounts-receivable\\settle-partial-customer-payment-discounts-credit-notes.md"
+  ],
+  "4a85cadc76a1c2a868a26597fcb7e4a625746ed4": [
+    "financials\\accounts-receivable\\settle-partial-customer-payment-multiple-discount-periods.md"
+  ],
+  "419b1f5c16e740d123a8631e4c0aaa6372ffa2a2": [
+    "financials\\accounts-receivable\\set-up-bills-exchange.md"
+  ],
+  "157cb6f49577a9e447389124279d7d9869391866": [
+    "financials\\accounts-receivable\\set-up-collections.md"
+  ],
+  "aad57a55f38d31dba59606416e9aaf248feaacc4": [
+    "financials\\accounts-receivable\\set-up-interest-rates-interest-code.md"
+  ],
+  "0034f7d525a3b9c1aae102fc457df887788a0cc5": [
+    "financials\\accounts-receivable\\set-up-process-recurring-invoices.md"
+  ],
+  "0ce4ad82e3d029b85e45bfcb43ddb70eca7cbdc8": [
+    "financials\\accounts-receivable\\waive-reinstate-reverse-interest-fees.md"
+  ],
+  "4af5fc53bd54dc5447e7f84fa2a5fed21c3c8a8f": [
+    "financials\\budgeting\\basic-budgeting-overview-configuration.md"
+  ],
+  "2f9f97b687de287ee5481fd0c61ad226a3d3e2d4": [
+    "financials\\budgeting\\budget-control-overview-configuration.md"
+  ],
+  "5c18de5a3e8af32564771b6a30c0ec6876e399a6": [
+    "financials\\budgeting\\budgeting-overview.md"
+  ],
+  "608ec87233acb05b0d46e367bcb7cd14985d7813": [
+    "financials\\budgeting\\budget-plan.md"
+  ],
+  "fd7ec30c8253f343b3d41d54c78696cd512b2ef7": [
+    "financials\\budgeting\\budget-planning-data-allocation.md"
+  ],
+  "642eac4093d74d529d8a4dddd686fd58f228f646": [
+    "financials\\budgeting\\budget-planning-excel-templates.md"
+  ],
+  "f63297b35f989f99236547514463eb2d4206797b": [
+    "financials\\budgeting\\budget-planning-integration-other-modules.md"
+  ],
+  "8b01563501cc13fef64cfc967c689368563f2150": [
+    "financials\\budgeting\\budget-planning-justification-docs.md"
+  ],
+  "567109580f21fb6015b887dd974a185f27b28f62": [
+    "financials\\budgeting\\budget-planning-overview-configuration.md"
+  ],
+  "52d73ff8cd37d1681908e2d077491f97c9a8d68d": [
+    "financials\\budgeting\\consolidation-account-groups-consolidation-accounts.md"
+  ],
+  "a5422748a77cfd9d4597190c9bfecfa9b040f5c5": [
+    "financials\\budgeting\\consolidation-elimination-overview.md"
+  ],
+  "fd6dc5173fd37f0257c98c1a41f3e6ce40b5b680": [
+    "financials\\budgeting\\create-budget-transaction-accounts-total-accounts.md"
+  ],
+  "80046f685f5231d5559d4d9ea5ade8667d62a21a": [
+    "financials\\budgeting\\fiscal-calendars-fiscal-years-periods.md"
+  ],
+  "d6d34540cb56015883189b19dd41160180885098": [
+    "financials\\budgeting\\position-budgeting-set-up-issues.md"
+  ],
+  "9c0ae4ed27578301573bead17ff2175bb9042036": [
+    "financials\\budgeting\\position-forecasting.md"
+  ],
+  "e386eb2bd8b387a13c66dda6500d276734e24319": [
+    "financials\\cash-bank-management\\advanced-bank-reconciliation-mt940-data-entity-upgrade-steps.md"
+  ],
+  "33150777222faa97af7488c59ab13cb0fb9e8e2c": [
+    "financials\\cash-bank-management\\advanced-bank-reconciliation-overview.md"
+  ],
+  "304bd7dd97f49815c8d85f22bc79e541afddfc3b": [
+    "financials\\cash-bank-management\\Bank-management-workspace.md"
+  ],
+  "b529438ff4f9f80c24236327ec09f30ae45e7945": [
+    "financials\\cash-bank-management\\cash-bank-management.md"
+  ],
+  "5604f806eed81c60dfcae7cb7b1a22bba25aa454": [
+    "financials\\cash-bank-management\\cash-discount-handling-overpayments.md"
+  ],
+  "70bc77f3fd740243f6d0b06b688650047ab3fbc5": [
+    "financials\\cash-bank-management\\cash-discounts.md"
+  ],
+  "2f112425f92ca574a3b5b7b0ed41aaa162bedaf8": [
+    "financials\\cash-bank-management\\cash-flow-forecasting.md"
+  ],
+  "759d66cac35069d1ee1b936c4f3bbe453258775f": [
+    "financials\\cash-bank-management\\Cash-Overview-Power-BI-content.md"
+  ],
+  "b6d7970cf564a28ed94a47e5549cbcf711fc1d48": [
+    "financials\\cash-bank-management\\configure-advanced-bank-reconciliation.md"
+  ],
+  "14974e28eb1c2f1c6940f255cfce39306cf8fb05": [
+    "financials\\cash-bank-management\\configure-settlement.md"
+  ],
+  "9c7f42f53ab6de50ce8523ae60df5c90cbe1b1b6": [
+    "financials\\cash-bank-management\\foreign-currency-revaluation-accounts-payable-accounts-receivable.md"
+  ],
+  "048b670db73c24a19b926477298fbdc073c7f4d9": [
+    "financials\\cash-bank-management\\import-bank-statement-file-failed-incorrect-results.md"
+  ],
+  "202bc72fe66ca03742b658d3b65c7f1f6ab739c7": [
+    "financials\\cash-bank-management\\letters-of-credit.md"
+  ],
+  "4332c7bb0344bd0caabd5d1a26fb8e4bb4fc862d": [
+    "financials\\cash-bank-management\\letters-of-credit-import-collections.md"
+  ],
+  "6d8238ad723cd72253ee11a1ed0d2decc5fbe9e1": [
+    "financials\\cash-bank-management\\letters-of-guarantee.md"
+  ],
+  "51bbcc6eddbe6d5c045e2f12a4ee71064941b13f": [
+    "financials\\cash-bank-management\\postdated-checks.md"
+  ],
+  "5f7b397df1b86e1976b72ce0028ed82d9313c23d": [
+    "financials\\cash-bank-management\\reconcile-bank-statements-advanced-bank-reconciliation.md"
+  ],
+  "60142bfea104c46981c652fdc6a34d4468002be0": [
+    "financials\\cash-bank-management\\settlement-overview.md"
+  ],
+  "bc31f969b65efd03464bfb838a07c3da7ddf9c49": [
+    "financials\\cash-bank-management\\settlement-overview-centralized-payments.md"
+  ],
+  "785da18a851c4d040843f49ca9f1b9ae12d701d3": [
+    "financials\\cash-bank-management\\set-up-advanced-bank-reconciliation-import-process.md"
+  ],
+  "b721c8b9d8b0286beeb651d5185aa8e6a35d7f79": [
+    "financials\\cash-bank-management\\set-up-bank-reconciliation-matching-rules.md"
+  ],
+  "9b24c4d32cfba029f74b4f406a98c6b2a21e97a1": [
+    "financials\\cash-bank-management\\set-up-centralized-payments.md"
+  ],
+  "5d4566c38fbaec5d69ff86308e4473fcc74b1ee6": [
+    "financials\\cash-bank-management\\upgrade-bank-journal-composite-entity.md"
+  ],
+  "aaff7e1c3844133f95f4ca7d1154b5e8a8beb9a8": [
+    "financials\\cost-accounting\\access-rights-cost-object-controller.md"
+  ],
+  "e8807c23a278dffcb27c8a208e21f5fe0bc1120c": [
+    "financials\\cost-accounting\\allocation-bases.md"
+  ],
+  "fde943c77477867a8a545e5a72a93cc4f565baee": [
+    "financials\\cost-accounting\\cost-accounting-home-page.md"
+  ],
+  "1d426e376ac5e93d133e95b6fc2d8da5d1e29aa1": [
+    "financials\\cost-accounting\\cost-controlling-mobile-workspace.md"
+  ],
+  "26e6b0a18961af91194c23f66a0dc6d0f31d79c5": [
+    "financials\\cost-accounting\\cost-control-workspace.md"
+  ],
+  "71ae701d0c7956f42f336136ec6834071e5ea4cb": [
+    "financials\\cost-accounting\\cost-elements.md"
+  ],
+  "977b8878de120692a0bec10963510d386e95be7b": [
+    "financials\\cost-accounting\\cost-objects.md"
+  ],
+  "dacd2acc495c63c4652c7a5b2e38482df19a4c26": [
+    "financials\\cost-accounting\\cost-rollup.md"
+  ],
+  "dcbab70d2057a2eb252538a51343fa8bae16873d": [
+    "financials\\cost-accounting\\dimension-hierarchy.md"
+  ],
+  "811532056a7e6e2e012c9ca52cb63ff42f590755": [
+    "financials\\cost-accounting\\map-cost-elements-dimension-members.md"
+  ],
+  "1eb5560ba795ab6df61b5af889049810dd00d79e": [
+    "financials\\cost-accounting\\overhead-calculation.md"
+  ],
+  "d282c1fcf026a90910955462d8edb9481c29ab0a": [
+    "financials\\cost-accounting\\statistical-measure-provider-template.md"
+  ],
+  "b0bd9b0637b67325bb84f099ad03a3b8c0c3010a": [
+    "financials\\cost-accounting\\terms-cost-accounting.md"
+  ],
+  "ab186c92b713d4e104c8ecc3d7ec7abcefcb5f94": [
+    "financials\\expense-management\\expense-management.md"
+  ],
+  "993586b1fb46c21d2b68a6060ab897c8ccc76a6c": [
+    "financials\\expense-management\\expense-management-mobile-workspace.md"
+  ],
+  "3207485e9e20f14b02c738285fca444c2bae4620": [
+    "financials\\expense-management\\Expense-Management-Parameters.md"
+  ],
+  "83cfd2ef15ae3a02eba21bb31f3311e8f5e15b90": [
+    "financials\\expense-management\\plan-expense-management.md"
+  ],
+  "b277bd65fab9071943312dfd0ce92e729fad9e1b": [
+    "financials\\fixed-assets\\125-percent-reducing-balance-depreciation.md"
+  ],
+  "c962d6ac1ab50d4ae37d4ba5802d072a7a59aea6": [
+    "financials\\fixed-assets\\150-percent-reducing-balance-depreciation.md"
+  ],
+  "32d59e9e4f1844762de7bd7c32a2b89724f75112": [
+    "financials\\fixed-assets\\175-percent-reducing-balance-depreciation.md"
+  ],
+  "f8ffec057a332fa5d29bea503424db4b5e88aa03": [
+    "financials\\fixed-assets\\200-percent-reducing-balance-depreciation.md"
+  ],
+  "2e2d1e6e94d382c88a566425b957f63f1724c8c8": [
+    "financials\\fixed-assets\\acquire-assets-procurement.md"
+  ],
+  "53d05e66670194e38d1d1f748001ba1eac5f7b94": [
+    "financials\\fixed-assets\\bonus-depreciation.md"
+  ],
+  "0c48877058edf8251ef6eb5dd63d7eecd1866f33": [
+    "financials\\fixed-assets\\consumption-depreciation.md"
+  ],
+  "ec00c8373a360244cb0c7405ced4c1c870a6b168": [
+    "financials\\fixed-assets\\depreciation-book-upgrade-considerations.md"
+  ],
+  "aef08a65befa34c75abb50aebc4c90ede2b22776": [
+    "financials\\fixed-assets\\depreciation-effects-reversals.md"
+  ],
+  "d802933f29b3e08704480035925b2fbf6743e996": [
+    "financials\\fixed-assets\\depreciation-methods-conventions.md"
+  ],
+  "d39dc942b2e6b56fbc351ad16493f3925851e687": [
+    "financials\\fixed-assets\\derived-books.md"
+  ],
+  "3d16b43eda0157e63a0d30fe806dac9a359d5fa4": [
+    "financials\\fixed-assets\\enter-fixed-asset-transactions.md"
+  ],
+  "4b87d96e80b343a2b57db59b5d4c19e70d0a94ea": [
+    "financials\\fixed-assets\\factor-depreciation.md"
+  ],
+  "887616463856875e2382a00b1d56520391ead844": [
+    "financials\\fixed-assets\\fixed-asset-acquisition-posting-accounts.md"
+  ],
+  "ef3cc91d8317b7e5a61171a300f3f5c4b765397e": [
+    "financials\\fixed-assets\\fixed-asset-depreciation.md"
+  ],
+  "0129eae177d44100b09c2b7bce553dd5bde5ce0c": [
+    "financials\\fixed-assets\\fixed-asset-disposal-posting-accounts.md"
+  ],
+  "1f1cf8ef9f75b7463188d47d8e8dd0efff61a030": [
+    "financials\\fixed-assets\\fixed-asset-integration.md"
+  ],
+  "0a3cc5c0017491b93b2fdd72ab2e9d57e73b8e4a": [
+    "financials\\fixed-assets\\fixed-asset-management-workspace.md"
+  ],
+  "c04997ccc29182f0f403af0e4ad5f039dbd4ae60": [
+    "financials\\fixed-assets\\fixed-asset-mass-update.md"
+  ],
+  "8f1786ee9077404640c12888d46e527b44e91f50": [
+    "financials\\fixed-assets\\fixed-assets.md"
+  ],
+  "3b89b2ed1a2a4286ddaaa50b9726da02bbf3825d": [
+    "financials\\fixed-assets\\fixed-asset-value-model-depreciation-book-merge.md"
+  ],
+  "da854580662a50743baf7bab957188feb0fd9383": [
+    "financials\\fixed-assets\\manual-depreciation.md"
+  ],
+  "aaacf596f2ea1107a53647d779e9d2b6c37ab530": [
+    "financials\\fixed-assets\\post-derived-value-models.md"
+  ],
+  "10e7fc67f8f13a6363b4359fd1b7684f1b80675e": [
+    "financials\\fixed-assets\\post-fixed-asset-transactions-posting-layers.md"
+  ],
+  "74af494f261af20d6762176d780e90b4d6644b4c": [
+    "financials\\fixed-assets\\recalculate-replacement-costs-insured-values-fixed-asset-groups.md"
+  ],
+  "9416af0efdf9b33b1de559d302a1ff4c5f530dce": [
+    "financials\\fixed-assets\\reduce-balance-depreciation.md"
+  ],
+  "84f9e4a64f82d8f21d1a1e7a8d72245d81340c6a": [
+    "financials\\fixed-assets\\round-off-amount-depreciation-calculations.md"
+  ],
+  "3cfcb4a65a6ed8360535c5339a5c094587aa4556": [
+    "financials\\fixed-assets\\set-up-fixed-assets.md"
+  ],
+  "cc15eb0285e50c5be1fa8cc8c3e9fccaa4a36bad": [
+    "financials\\fixed-assets\\straight-line-life-remaining-depreciation.md"
+  ],
+  "e72bcbddd8c57df8473609cf595931e80881ca5b": [
+    "financials\\fixed-assets\\straight-line-service-life-depreciation.md"
+  ],
+  "9c74a0c71f19f4d0c800bbdce78ea1ef36164e3e": [
+    "financials\\general-ledger\\accruals-overview.md"
+  ],
+  "8788effbcf3b5d069912554a881681c751c01878": [
+    "financials\\general-ledger\\audit-policy-rules.md"
+  ],
+  "bdb28f0f343aafdf20670a402b229cd9db4cbfd5": [
+    "financials\\general-ledger\\audit-policy-violations-cases.md"
+  ],
+  "a474cc6f3c419649063eb14487bd464802fa8351": [
+    "financials\\general-ledger\\balance-sheet-financial-reports.md"
+  ],
+  "e5761a52471a4be4cc3dcaeae55c679eec835de6": [
+    "financials\\general-ledger\\close-general-ledger-at-period-end.md"
+  ],
+  "b27756872272cefd43ed2655e6f5dbb29beff463": [
+    "financials\\general-ledger\\convert-accounting-reporting-currencies.md"
+  ],
+  "633e09d74f9ed947c10600baccebdc42183ac6b7": [
+    "financials\\general-ledger\\currency-revaluation-consolidation-company.md"
+  ],
+  "f2959e2d27a8cdd11c3064e3f5c973f1b40cd60b": [
+    "financials\\general-ledger\\elimination-rules.md"
+  ],
+  "0d6da519a4733ae2787d801eb973c57ebbc28411": [
+    "financials\\general-ledger\\enter-account-dimension-combinations-segmented-entry-control.md"
+  ],
+  "f45d180dc8dcafb0579e76b890dd5d516df5b8c0": [
+    "financials\\general-ledger\\example-balanced-journals-interunit-accounting.md"
+  ],
+  "004f3f24ec410d9f0e7d1e7264ec2730b9467410": [
+    "financials\\general-ledger\\example-posting-definitions.md"
+  ],
+  "22fd75c144d3fe5a47ca57ff03bd8d29bd4ebdd0": [
+    "financials\\general-ledger\\financial-dimensions.md"
+  ],
+  "0bbf8f979aeb8b861164e345f9e46bb396f370ce": [
+    "financials\\general-ledger\\financial-period-close-workspace.md"
+  ],
+  "c7b55d8b64b6131f1fbc68c7ef99d1f665c0136e": [
+    "financials\\general-ledger\\financial-reporting-getting-started.md"
+  ],
+  "95aa8fa7a91135e15cef09a6b45454f55f007340": [
+    "financials\\general-ledger\\foreign-currency-revaluation-general-ledger.md"
+  ],
+  "d4b46f1caffd97bcb1d489f096dfdb9ec51defb5": [
+    "financials\\general-ledger\\general-journal-processing.md"
+  ],
+  "674b9459060e1e8bff8c8c8c81a978dba705ef35": [
+    "financials\\general-ledger\\general-ledger.md"
+  ],
+  "00fbfdae1cd05644659281374d3697c5d4d71195": [
+    "financials\\general-ledger\\general-ledger-account-balances.md"
+  ],
+  "4b310799e4e3ee334b1107a1b598ef663831b68c": [
+    "financials\\general-ledger\\import-currency-exchange-rates.md"
+  ],
+  "5f25efc2c62148d3544a32f17bd99ceaf80ec822": [
+    "financials\\general-ledger\\income-statement-financial-report.md"
+  ],
+  "71482b7e546cbf40cfec008f6c42a34a95200eb2": [
+    "financials\\general-ledger\\indirect-taxes-overview.md"
+  ],
+  "3dd9056b06174b70533782d4695deff5d12d9262": [
+    "financials\\general-ledger\\intercompany-accounting-setup.md"
+  ],
+  "87b98811dabb6a8593cd4a75ad9c5a028f653867": [
+    "financials\\general-ledger\\ledger-allocation-rules.md"
+  ],
+  "6f665f34055e36775c8bb41be4aae9c4577639d7": [
+    "financials\\general-ledger\\ledger-journal-types.md"
+  ],
+  "96bc9a4aaf482471f22e6b7fc25cb21a9a839db0": [
+    "financials\\general-ledger\\main-account-types.md"
+  ],
+  "e16e91208cdd6c1a5c904fb763454371b02c71fd": [
+    "financials\\general-ledger\\marginal-base-field.md"
+  ],
+  "3133e6a7f7801b51167478343e8892ef2ac6f8ce": [
+    "financials\\general-ledger\\open-lines-excel-journals-documents.md"
+  ],
+  "cf7edad93d737880cfd7c5aed4d77b7f780ab3a9": [
+    "financials\\general-ledger\\plan-chart-of-accounts.md"
+  ],
+  "9c49e4abe28078f62f46b4eea4e22a268339b569": [
+    "financials\\general-ledger\\posting-definitions.md"
+  ],
+  "8859359f70132e9116e6a2d534a0f5f1d0bfeb80": [
+    "financials\\general-ledger\\process-allocations.md"
+  ],
+  "81e053350d51341ee3dc7eb41f66921b8fe182da": [
+    "financials\\general-ledger\\round-sales-tax-payments.md"
+  ],
+  "c9b17a5288e814baf9a94b70ffcae920ff625c0d": [
+    "financials\\general-ledger\\sales-tax-calculation-methods-origin-field.md"
+  ],
+  "50e130f2777ee39871b3dde2f1264b4a337ba215": [
+    "financials\\general-ledger\\trial-balance-financial-reports.md"
+  ],
+  "540f6aa12da5c1a02bb46c4090d945923dd42d26": [
+    "financials\\general-ledger\\view-financial-reports.md"
+  ],
+  "0a3ed6a7979455079f95f87c38505f9c521bce9f": [
+    "financials\\general-ledger\\view-journal-entries-transactions.md"
+  ],
+  "bab0f6ca21f4216b70cccf24f5781e0dbf48b7f8": [
+    "financials\\general-ledger\\whole-amount-interval-options-sales-tax-codes.md"
+  ],
+  "0fb1e044efaeda51f7ff82af705c30100d16d29a": [
+    "financials\\general-ledger\\year-end-close.md"
+  ],
+  "4b15c312df48ba26096a9e8fa80d3cd9c64610df": [
+    "financials\\includes\\retail-name.md",
+    "hr\\includes\\retail-name.md",
+    "scm\\includes\\retail-name.md"
+  ],
+  "3482aacba9315606a7751adc5839a8a11c2d4490": [
+    "financials\\index.md"
+  ],
+  "3e979e860bb271da47d6b7d3524959eac59d98dd": [
+    "financials\\localizations\\apac-aus-business-activity-statement.md"
+  ],
+  "f4c0059a72b832a7ef30e066f613f807342bf129": [
+    "financials\\localizations\\apac-aus-low-value-pool-depreciation.md"
+  ],
+  "29a76b0ff5d208448dcdb0da7f72021a354ca296": [
+    "financials\\localizations\\apac-aus-method-of-payment-pay-vendors-banks.md"
+  ],
+  "b8d4d5accd76b3e66e7ff8927488a470a992f380": [
+    "financials\\localizations\\apac-chn-bom-comparison.md"
+  ],
+  "2f2eb62779a26563c7446f4276bde581116e52da": [
+    "financials\\localizations\\apac-chn-depreciation-methods-fixed-assets.md"
+  ],
+  "130cee1ac80d4b9da26faec617420fcfaae4dd67": [
+    "financials\\localizations\\apac-chn-import-golden-tax-data-entity.md"
+  ],
+  "b75add0ea51d942846e4063634dc8bbd495aa5bc": [
+    "financials\\localizations\\apac-chn-monthly-average-cost-model.md"
+  ],
+  "61d2bf93dcf6cfed1737a75d8da1ef87849d8d46": [
+    "financials\\localizations\\apac-chn-negative-debits-credits.md"
+  ],
+  "fb16b7e91a165ef98607a9d05d482529710d841b": [
+    "financials\\localizations\\apac-chn-post-inventory-main-accounts-by-site.md"
+  ],
+  "881e3141cd1fad9eb5bf36579f76766174566993": [
+    "financials\\localizations\\apac-chn-tax-integration.md"
+  ],
+  "2edecf8a34a3a1fb9e81be5c7871263804c5880c": [
+    "financials\\localizations\\apac-chn-tax-integration-vat-customer-invoices.md"
+  ],
+  "363a13a196c584e2dff1a00edee22650d116ed8c": [
+    "financials\\localizations\\apac-chn-vouchers.md"
+  ],
+  "e3955036ff36e5535cd73a0ff8b53f08a7ab7df0": [
+    "financials\\localizations\\apac-jpn-allocation-rules-fixed-assets.md"
+  ],
+  "896b2a669e6f4fc8fb249ec85500afa0ad66753b": [
+    "financials\\localizations\\apac-jpn-asset-retirement-obligation-fixed-assets.md"
+  ],
+  "0666b0f9a1e68374847ea9e6790e949009d50ac1": [
+    "financials\\localizations\\apac-jpn-bank-payment-fees-vendors.md"
+  ],
+  "c590187ab1f41cb15adf5f74cb0ec0e3be457570": [
+    "financials\\localizations\\apac-jpn-consolidate-invoices.md"
+  ],
+  "b78c7c44ca57d5075378577ba7899bd052c10266": [
+    "financials\\localizations\\apac-jpn-endorse-bill-of-exchange.md"
+  ],
+  "9bdb7de33448220d8ed361dbee55e8f3aa16ad67": [
+    "financials\\localizations\\apac-jpn-equally-divided-depreciation-method.md"
+  ],
+  "66b418cbd89beae80a39174e4cd619cfc0cdb730": [
+    "financials\\localizations\\apac-jpn-fixed-asset-depreciation.md"
+  ],
+  "de48b76fbe56d8f1c85c08a3c8aa5b1f12ec0e59": [
+    "financials\\localizations\\apac-jpn-impairment-accounting-cash-generating-unit.md"
+  ],
+  "575bbd721ef021af01ba837c18813229fec238d2": [
+    "financials\\localizations\\apac-jpn-impairment-accounting-fixed-assets.md"
+  ],
+  "0746b930ee4c98816d2c4c4f86515d923405552b": [
+    "financials\\localizations\\apac-jpn-import-postal-codes.md"
+  ],
+  "8e6ce0e9f67df70627b410385fce36544ffa83a4": [
+    "financials\\localizations\\apac-jpn-progressive-withholding-tax-calculation.md"
+  ],
+  "a54aa97be33e738529964b5a67ac1655a3d87bc8": [
+    "financials\\localizations\\apac-jpn-reduction-entry-fixed-assets.md"
+  ],
+  "5b4b8c9e055f29190d25c280f18b8f4000308a20": [
+    "financials\\localizations\\apac-mys-gst.md"
+  ],
+  "e4d77eef554591e7b617b61c888f860b488408f5": [
+    "financials\\localizations\\apac-sgp-generate-gst-05-report.md"
+  ],
+  "7f7fd412ab1a5e1272d45cdc3b48d2291ccdbc54": [
+    "financials\\localizations\\apac-tha-stock-card-reports.md"
+  ],
+  "34799eb99844477bdfc7ac88e3482d9463bf456d": [
+    "financials\\localizations\\apac-tha-substitution-and-adjustment-invoices.md"
+  ],
+  "d395679bfc85b27fcaeb84920ea0f6ad308db9e2": [
+    "financials\\localizations\\apac-tha-unrealized-vat.md"
+  ],
+  "efefa7851b6c7f8616be32015b25036aef97433a": [
+    "financials\\localizations\\apac-tha-withholding-tax.md"
+  ],
+  "aba1c0b69451f02f6dd62d7ee0ad548191569356": [
+    "financials\\localizations\\bra-configure-fiscal-books.md"
+  ],
+  "952ce3d619cd25c6134b1b8ea34a21b40f9bdb05": [
+    "financials\\localizations\\emea-advance-holders.md"
+  ],
+  "34706dae03727ed9fe877783d8b076355564b53b": [
+    "financials\\localizations\\emea-advance-holders-transactions.md"
+  ],
+  "82260c9a83015d2b691f4cc80750b38c9aa5a589": [
+    "financials\\localizations\\emea-advance-invoice.md"
+  ],
+  "226eecd49fb5c4daeb701fbb019f402519999610": [
+    "financials\\localizations\\emea-amount-printing-forms.md"
+  ],
+  "56b5529468981cd184aec26f8547753e23e33b6d": [
+    "financials\\localizations\\emea-aut-half-year-depreciation.md"
+  ],
+  "090afc13f8f79b8b38fe4a6382a67a98d334689d": [
+    "financials\\localizations\\emea-aut-packing-material-fee-calculation.md"
+  ],
+  "920aee3d11caf587f3da2375b191dea283c34734": [
+    "financials\\localizations\\emea-aut-purchase-duties.md"
+  ],
+  "9fe80a561cce1ce1daadda847df86209ceb46139": [
+    "financials\\localizations\\emea-aut-vat-statement-details.md"
+  ],
+  "48cf0926cd8b440459f71e5a72044585cb73e5dc": [
+    "financials\\localizations\\emea-bank-reconciliation.md"
+  ],
+  "e7fe8a818be231ef54b1d2ffdb65b0269aaf027c": [
+    "financials\\localizations\\emea-bel-coda-bank-statement-import.md"
+  ],
+  "f5c30b13aa18e959fed3b6ac2040f4470157ddf3": [
+    "financials\\localizations\\emea-bel-intervat-tax-declaration.md"
+  ],
+  "41c34e835ebca5057d0f322abff7a5d607ec7a78": [
+    "financials\\localizations\\emea-bel-prodcom-report.md"
+  ],
+  "6d941f22add6f35900baf18913854f8d6a640086": [
+    "financials\\localizations\\emea-bel-reconciliation-reports.md"
+  ],
+  "03a58ff77bb2999e450468039b7d24e9d1c0165e": [
+    "financials\\localizations\\emea-che-esr-customer-payments-import.md"
+  ],
+  "529b481ceca77dd0ff2b4f43fb0fb3efae04337b": [
+    "financials\\localizations\\emea-compensation-customer-vendor-transactions.md"
+  ],
+  "4071dd3838f574e5cebde03b5288efeee95eed41": [
+    "financials\\localizations\\emea-corrective-invoice.md"
+  ],
+  "9d776fd61f4879175e49a74adaacecc8048ed22b": [
+    "financials\\localizations\\emea-create-post-periodic-journals.md"
+  ],
+  "bc181f51dec0a18416f095030c8c698ce95987c2": [
+    "financials\\localizations\\emea-credit-note-reverse-fixed-asset-sale.md"
+  ],
+  "9003adfd463b0d912776ce112b08179d83a03fab": [
+    "financials\\localizations\\emea-cze-credit-note-cash-discount.md"
+  ],
+  "69a071f8f6928455e5a492baa56c98a720845062": [
+    "financials\\localizations\\emea-cze-depreciation-rounding.md"
+  ],
+  "efd9f47ef5c3ddaacf4e79696a53e7386bc632f2": [
+    "financials\\localizations\\emea-cze-depreciation-suspension-holidays.md"
+  ],
+  "3ebddb8aea453da833b116a103e75b8530c2c319": [
+    "financials\\localizations\\emea-cze-fixed-assets-depreciation.md"
+  ],
+  "6ca550d058367fbed066ab058325d7218446d03f": [
+    "financials\\localizations\\emea-cze-half-depreciation-fixed-asset-disposal.md"
+  ],
+  "839f87b983168e6f29c148ae7134bb6884718118": [
+    "financials\\localizations\\emea-cze-intra-community-vat-transactions.md"
+  ],
+  "ed0b214df52aed5b45ea97f533a4b5f8efed5343": [
+    "financials\\localizations\\emea-cze-vat-statement-details.md"
+  ],
+  "b09a67fa97614f824d0ff64002c6543ff97a9915": [
+    "financials\\localizations\\emea-deu-additional-acquisition-depreciation.md"
+  ],
+  "34580dde8ad397505fce07e7dd6ce401a75e2fd2": [
+    "financials\\localizations\\emea-deu-gdpdu-audit-data-export.md"
+  ],
+  "dfa67b7bec44f112f24feb0be65b0373832f82b1": [
+    "financials\\localizations\\emea-deu-journal-list-report.md"
+  ],
+  "7c66487fb15e2ec263fc724f532951a20f1f88b5": [
+    "financials\\localizations\\emea-deu-print-separate-label-credit-memo-originating-sales.md"
+  ],
+  "dd239f0413f6238f259b034a316842431d475dec": [
+    "financials\\localizations\\emea-edit-invoice-id-sales-orders.md"
+  ],
+  "6856a52ce85d31c4ef8225e56159e8a7ec698fd7": [
+    "financials\\localizations\\emea-entry-certificates.md"
+  ],
+  "192b0f35c61a18d926e27c79b1d6b95affe6e9fd": [
+    "financials\\localizations\\emea-esp-bill-of-exchange-options.md"
+  ],
+  "6dfdb1b1fd15061fb71907b7a1bf674488ae2116": [
+    "financials\\localizations\\emea-esp-cash-discount-applied-invoice.md"
+  ],
+  "9f5514afb96cac12eefc3bc9d726cd63b39d4c20": [
+    "financials\\localizations\\emea-esp-conditional-sales-tax.md"
+  ],
+  "217873ffbfa86687f53b2c0c85c9d5581ee3c19b": [
+    "financials\\localizations\\emea-esp-fiscal-data-invoice-account.md"
+  ],
+  "2cfe8f129363af33775bc95498ef30527f3a8565": [
+    "financials\\localizations\\emea-esp-fixed-asset-group-revaluation.md"
+  ],
+  "4d411e3f6cda45f17f69b4d0e55c82392053b607": [
+    "financials\\localizations\\emea-esp-intra-community-vat.md"
+  ],
+  "e051b83ed75e21b1e6a2c69db6d6e72a91cfb1f6": [
+    "financials\\localizations\\emea-esp-no-one-time-customer-for-project-contracts.md"
+  ],
+  "581eeadd0b7880fa8ce19b4abda16f865320ee2a": [
+    "financials\\localizations\\emea-esp-opening-sheets-spain.md"
+  ],
+  "258eb76daa3fddc08ebca858180c74c09addb16a": [
+    "financials\\localizations\\emea-esp-print-checks-with-spanish-layout.md"
+  ],
+  "1abd63f392e7f3b3f4ba8dfc04af5d49a8ceb991": [
+    "financials\\localizations\\emea-esp-promissory-note-options.md"
+  ],
+  "5aed16f98854125412cd07728fba08f38c2176c7": [
+    "financials\\localizations\\emea-esp-sales-purchase-cycle.md"
+  ],
+  "c518427509e5ef612996ef330b299d2296d22f67": [
+    "financials\\localizations\\emea-est-vat-statement-details.md"
+  ],
+  "2aba2a06c7224efc45bde01f11a34a54c15e5606": [
+    "financials\\localizations\\emea-eur-payment-slip-report-giro.md"
+  ],
+  "233872f48e69c045017569e76e66e8b5e2420681": [
+    "financials\\localizations\\emea-eu-sales-list.md"
+  ],
+  "c951e886d029372df9caf99b4f1388080560bed9": [
+    "financials\\localizations\\emea-exchange-rate-adjustments.md"
+  ],
+  "b57ca9f9d5f89031b44738231b4e3f76c7d26776": [
+    "financials\\localizations\\emea-fra-apply-penalty-customer-payment-past-due.md"
+  ],
+  "ae35bf41328e5177a673a8b6f72baa5faa05b849": [
+    "financials\\localizations\\emea-fra-chronological-invoices-vouchers.md"
+  ],
+  "1224e7983341fdb8be6a1e731e394106d27b2960": [
+    "financials\\localizations\\emea-fra-commitments-public-sector.md"
+  ],
+  "fee9bb5e516431bf02b76338adb9fa40f12c23d0": [
+    "financials\\localizations\\emea-fra-derogatory-depreciation.md"
+  ],
+  "37fef6a5a8cdf1daeadfe3b8f60f2eade982ea86": [
+    "financials\\localizations\\emea-fra-mandats-de-paiement.md"
+  ],
+  "dd362afad0722c5321d148f58a9b48daccf9cf33": [
+    "financials\\localizations\\emea-fra-naf-codes-siret-numbers.md"
+  ],
+  "fa2e367262e507502b299cb29a6d90ce506cd3ff": [
+    "financials\\localizations\\emea-fra-print-lump-sum-recovery-text.md"
+  ],
+  "761fc8fbc861ef5e05a5045bf13ac904bc8dc9e7": [
+    "financials\\localizations\\emea-fra-procurement-sourcing-public-sector.md"
+  ],
+  "5a29c1a9911c95acd2f8d13d7ba779a72dec456f": [
+    "financials\\localizations\\emea-fra-public-sector-accounting.md"
+  ],
+  "80b8429c37237db75faddb08639c2e9e1e59f4f0": [
+    "financials\\localizations\\emea-fra-rbsl-depreciation.md"
+  ],
+  "c1680b6242dd6639a6fec9650fc94e6d2300a17f": [
+    "financials\\localizations\\emea-fra-titres-de-recette-public-sector.md"
+  ],
+  "e3202034b2b21ff8a6d0b71c002ce81923dd3fe8": [
+    "financials\\localizations\\emea-fra-vendor-invoice-payment-holds-public-sector.md"
+  ],
+  "347ba66bf903860890d67d7ab6efa8721329eb59": [
+    "financials\\localizations\\emea-gbr-cis-construction-industry-scheme.md"
+  ],
+  "b4785bed0fd8c92ec59bd005c9eb1dff62983163": [
+    "financials\\localizations\\emea-hun-fixed-assets-depreciation-methods.md"
+  ],
+  "527c7c5e7e451526907fad39741ca9e65c018e52": [
+    "financials\\localizations\\emea-hun-fixed-asset-to-inventory.md"
+  ],
+  "29aeccd05f59304cca44960ef1e41ca5c87f375e": [
+    "financials\\localizations\\emea-hun-low-cost-fixed-assets.md"
+  ],
+  "fd9f8a6a986af0ce5ac2054c5feeab8a550c8847": [
+    "financials\\localizations\\emea-import-create-postal-codes-manually.md"
+  ],
+  "f54bf30a5f7666818757e6f89e8c01b7d54a266b": [
+    "financials\\localizations\\emea-intrastat.md"
+  ],
+  "93eaaad55c64ca6a0f3c4008149cf6ecc622d2a3": [
+    "financials\\localizations\\emea-invoice-issue-deadline.md"
+  ],
+  "f65cf74d598146f083e3fb61f4be98a2ea848eb1": [
+    "financials\\localizations\\emea-invoices-packing-slips-numbering.md"
+  ],
+  "acf6ed5f503d77f372d802a51a71cec062c2b24b": [
+    "financials\\localizations\\emea-ISO20022-file-formats.md"
+  ],
+  "124a5caba32748eeffd76ff220238d55207d37b6": [
+    "financials\\localizations\\emea-ita-black-list-report.md"
+  ],
+  "6f81ed95f8ea7c3304b270753e43efd351d72fe7": [
+    "financials\\localizations\\emea-ita-competence-date.md"
+  ],
+  "7c562d9b8adba89ad88e17767cc5f1f8aa3ebbaa": [
+    "financials\\localizations\\emea-ita-depreciation-of-fixed-assets.md"
+  ],
+  "8489efe590bd4de384a15e50060da3add2d9156f": [
+    "financials\\localizations\\emea-ita-fiscal-books.md"
+  ],
+  "0857d302932a477539777062a47f22203c5dfe94": [
+    "financials\\localizations\\emea-ita-packing-slip-date-verification-on-invoice.md"
+  ],
+  "d61b3cbfb111d7dc290898d5664b5892e2896be7": [
+    "financials\\localizations\\emea-ita-split-payment-invoices-issued-public-administration.md"
+  ],
+  "941c21671945e6b62054ba7fd14a7a4ebff0b69f": [
+    "financials\\localizations\\emea-ita-vat-statements-details.md"
+  ],
+  "ebf87866da5732fc3808b59376376341c0be346e": [
+    "financials\\localizations\\emea-ita-withholding-tax.md"
+  ],
+  "46edfea40f8d6d08f74d8b26bc20ca3b7135dcc7": [
+    "financials\\localizations\\emea-ltu-fixed-asset-repair-statement.md"
+  ],
+  "d58e53b67ff172ebdbd6cb4128db01500c0c795a": [
+    "financials\\localizations\\emea-ltu-vat-statement-details.md"
+  ],
+  "99bfae9382ac146167865f68fd3a44385e50788d": [
+    "financials\\localizations\\emea-lva-fixed-assets-accounting.md"
+  ],
+  "163f317106c33817d6a04590738ffc5d15c50e7a": [
+    "financials\\localizations\\emea-lva-fixed-assets-location-fields-change.md"
+  ],
+  "032a87f281f3690f2ed851ad8978a7e23a67aec6": [
+    "financials\\localizations\\emea-lva-tax-natural-resources.md"
+  ],
+  "f23e2e16e39fe7377be3ff6f65f96d8eb75674aa": [
+    "financials\\localizations\\emea-lva-vat-statement-details.md"
+  ],
+  "0f60e791237eeb018825893e55b6b2650231c6c9": [
+    "financials\\localizations\\emea-nor-nets-import-format.md"
+  ],
+  "136d3fb1c17eaac0c44fd95767765a7f51f36f07": [
+    "financials\\localizations\\emea-nor-sales-tax-payment-report.md"
+  ],
+  "bf8232ac8961f0a9d9bc5908106482e14553105a": [
+    "financials\\localizations\\emea-oioubl-standards-electronic-invoicing.md"
+  ],
+  "3ed41a57e40e8d90ebfd996f855a8dc8dc16de13": [
+    "financials\\localizations\\emea-petty-cash.md"
+  ],
+  "c8d8f1dd6d8d7724cba6da583994f2d79ee7a8e4": [
+    "financials\\localizations\\emea-pol-correction-notes.md"
+  ],
+  "a8849bd2efe9617a63e16e54f01c9a73296b4c02": [
+    "financials\\localizations\\emea-pol-fixed-asset-disposal-functionality-extension.md"
+  ],
+  "e61e88031b27c8f3ac157aeefee9f2dd3304be63": [
+    "financials\\localizations\\emea-pol-fixed-assets-depreciation.md"
+  ],
+  "fbddd77b302af5842b9827286de8055748a8aab9": [
+    "financials\\localizations\\emea-pol-line-discount-calculation-from-unit-price.md"
+  ],
+  "7ce0e78d07124dfba398495c5ac922c65a00e5bf": [
+    "financials\\localizations\\emea-pol-returnable-packages.md"
+  ],
+  "e4d276e98167280d9bf94ce7219f27766343daa9": [
+    "financials\\localizations\\emea-pol-sales-invoice-duplicates-numbering.md"
+  ],
+  "9bf538ff6a31f357441b10661d8b0a6f568bd2db": [
+    "financials\\localizations\\emea-pol-sales-tax-reports.md"
+  ],
+  "ffddca81250ab0a4479c109e3f9b01eb6920058d": [
+    "financials\\localizations\\emea-pol-standard-audit-file-saf.md"
+  ],
+  "9ed23dc51ec0e7db60199c305bfe99c61ff9918e": [
+    "financials\\localizations\\emea-pol-turnover-balances-statement.md"
+  ],
+  "5a960a2cbdfd581b686c995899114da2d86a8280": [
+    "financials\\localizations\\emea-pre-acquisition-acquisition-fixed-asset.md"
+  ],
+  "aaa3b046f5eb81bf7b7f5a0c351cf9936042fa36": [
+    "financials\\localizations\\emea-registration-ids.md"
+  ],
+  "1dbedbfdb29579a63305311a56d26b36e3c1ae97": [
+    "financials\\localizations\\emea-reverse-charge.md"
+  ],
+  "331365928d8b733eee75493820cb8e90c071026f": [
+    "financials\\localizations\\emea-sau-zakat-reporting.md"
+  ],
+  "7637520f5ae065cf08b705e706d996aab17dc7c0": [
+    "financials\\localizations\\emea-select-file-formats-for-the-method-of-payments.md"
+  ],
+  "f4bc900e2279abcbaea84e0d4ef7bf2b01f9f039": [
+    "financials\\localizations\\emea-set-up-report-inventory-journal-names.md"
+  ],
+  "89a4e44144b8cf90e3aa0cabfffb4ed62ef71e40": [
+    "financials\\localizations\\emea-set-up-signers-for-printing-forms.md"
+  ],
+  "1e89f8b9a740192a7f7437907fbc489512ebdaf3": [
+    "financials\\localizations\\emea-storno.md"
+  ],
+  "ee0b080d56ebabc095d33af5821e4d356e0fd937": [
+    "financials\\localizations\\emea-swe-payment-formats-import.md"
+  ],
+  "72d5f5ae23a8e5fe2d39128bbec2a4f3d79079d9": [
+    "financials\\localizations\\emea-tax-directives.md"
+  ],
+  "0210ee0ad5e4c992aae9e4ac100484e0a04b635b": [
+    "financials\\localizations\\emea-transactions-settlement-form.md"
+  ],
+  "a7d2abb3390dc376abfb443364681566b1958861": [
+    "financials\\localizations\\emea-vat-exchange-rate.md"
+  ],
+  "41b3398b384071a89cfb700e458d6d4c2b59b75b": [
+    "financials\\localizations\\emea-vat-register-transactions.md"
+  ],
+  "1173cc5ede591a4784b8c2cedcec83e3910d6c54": [
+    "financials\\localizations\\emea-vat-reporting.md"
+  ],
+  "453960214cb4f42f2e4a3a15c6496e31ac0b668d": [
+    "financials\\localizations\\latam-bra-calculate-taxes.md"
+  ],
+  "503825693be658b18b33cec3aa9a8bb5b7205210": [
+    "financials\\localizations\\latam-bra-ciap-fixed-asset.md"
+  ],
+  "3678e8b910d6ad8cbc5222226c3b6a626ae0a8ea": [
+    "financials\\localizations\\latam-bra-examples-journals-generated-electronic-payment-return-process.md"
+  ],
+  "533c6f06e94bdf687f8431c81baa824fcbc4a061": [
+    "financials\\localizations\\latam-bra-fiscal-books.md"
+  ],
+  "ed953f52d0e816cd2e8804409672e09141096cd2": [
+    "financials\\localizations\\latam-bra-fiscal-documents-fiscal-document-framework.md"
+  ],
+  "ce2a28a3bf77f533433d998b464e152e8aac16b4": [
+    "financials\\localizations\\latam-bra-fiscal-document-text-placeholders.md"
+  ],
+  "6632d94ce7e46388e0aaba405bcb8187e15369c8": [
+    "financials\\localizations\\latam-bra-general-ledger-consolidation-transactions.md"
+  ],
+  "d4907cfd5173d7931cdab66ea63f467941647e37": [
+    "financials\\localizations\\latam-bra-icms-tax-fiscal-documents.md"
+  ],
+  "7deb4284540f40d06566bc392ae575dcf7a57592": [
+    "financials\\localizations\\latam-bra-import-fiscal-documents.md"
+  ],
+  "bef57643f29c1447c4a7466d17cfcb4f8e9c2252": [
+    "financials\\localizations\\latam-bra-import-verify-nf-e-xml-documents-danfe-emails.md"
+  ],
+  "326d459bc999530eb39ffec59be1bdc2438c4192": [
+    "financials\\localizations\\latam-bra-legal-entity-parameters.md"
+  ],
+  "f1c9d520115aa3ef8aec115d5dcde8018dad8999": [
+    "financials\\localizations\\latam-bra-nf-e-process.md"
+  ],
+  "6c3c4cc0ff602a51e916192d1def90a89b3fbf04": [
+    "financials\\localizations\\latam-bra-process-electronic-payment-remittances.md"
+  ],
+  "6d590eb8cf749ca39bf58009de138de0922cd93d": [
+    "financials\\localizations\\latam-bra-purchase-complementary-fiscal-documents.md"
+  ],
+  "fe60c59392b6b053289f73be74b10b3b6fa65248": [
+    "financials\\localizations\\latam-bra-referenced-fiscal-documents.md"
+  ],
+  "e20e2a7fb49ae1ba1caecf9ed59c00f1153ff841": [
+    "financials\\localizations\\latam-bra-sales-complementary-fiscal-documents.md"
+  ],
+  "3110c602b0e5cefa56d7248da8199a6160170b09": [
+    "financials\\localizations\\latam-bra-service-electronic-fiscal-document.md"
+  ],
+  "4873aa387b84526cfcd0ddfd80ac8023e22ed451": [
+    "financials\\localizations\\latam-bra-tax-attributes.md"
+  ],
+  "b624454458892ac6bfc10d5055ad10fa0acce0c5": [
+    "financials\\localizations\\latam-bra-tax-payments.md"
+  ],
+  "dc4e6176d334a15c3abd34db1f5ce7eb675adbfd": [
+    "financials\\localizations\\latam-mex-adjustment-inflation-declaration-report.md"
+  ],
+  "3f74f8e791412ad91fe04f4f79e2f8dc81da2061": [
+    "financials\\localizations\\latam-mex-CFDI-electronic-invoices.md"
+  ],
+  "bfadf40615172c77b863a40acd9f43c93cfa589c": [
+    "financials\\localizations\\latam-mex-diot-declaration-statement.md"
+  ],
+  "a290f0455cd899df2d3f8bc1e9dc1e24179f2609": [
+    "financials\\localizations\\latam-mex-electronic-ledger-accounting-statements.md"
+  ],
+  "8c5a68a2488602afe349fc8f67fb0310ec26d5a2": [
+    "financials\\localizations\\latam-mex-isr-declaration-report-supporting-processes.md"
+  ],
+  "44edc845c92db2ada966c77e4dec81f53bcf9bb0": [
+    "financials\\localizations\\noam-usa-form-1099-public-sector.md"
+  ],
+  "f32f1ced5eed5c9d50c9debd609fde79989c6a5d": [
+    "financials\\localizations\\noam-usa-year-end-1099-reporting.md"
+  ],
+  "c3154414667c97da36bc1764901b92aac0f1e44e": [
+    "financials\\localizations\\Set-up-import-NFe-documents.md"
+  ],
+  "9d3ffecab8176a44a402818c206dfcc1fb2183e1": [
+    "financials\\project-management\\intercompany-invoicing.md"
+  ],
+  "c46966e07795204bed93710fea36f0ff62f7603b": [
+    "financials\\project-management\\overview-project-management-accounting.md"
+  ],
+  "bd9687a2b95245e125a5ef85e7f5c34cae448c1e": [
+    "financials\\project-management\\project-contracts.md"
+  ],
+  "8c9a54e0b18634f271ac31ae4c2151f2654d884f": [
+    "financials\\project-management\\project-forecasts-budgets.md"
+  ],
+  "aa5c5af9776df14ab9189f388ee2ebfbadc00423": [
+    "financials\\project-management\\project-purchase-orders.md"
+  ],
+  "9e8f56c8ee0567d4fd5820462583b79316d44c4b": [
+    "financials\\project-management\\project-quotations.md"
+  ],
+  "fc36d399759b6321995f9bd827849c8a0bced090": [
+    "financials\\project-management\\project-resourcing.md"
+  ],
+  "180433689200fdc2557200f3f1966f6340846fb0": [
+    "financials\\project-management\\project-time-entry-mobile-workspace.md"
+  ],
+  "ca7bb08a1b5f4b4b53d788e9f81b262a9c58ac24": [
+    "financials\\project-management\\work-breakdown-structures.md"
+  ],
+  "8aa482fc53eb3ab52c2664ebe604de6b8c528cfe": [
+    "financials\\public-sector\\accounts-payable-public-sector.md"
+  ],
+  "ea9990b749cb477eb0660348862534f6ce25f9a6": [
+    "financials\\public-sector\\accounts-receivable-public-sector.md"
+  ],
+  "3d910e10feaabb66516f7490c2dc6e71231be121": [
+    "financials\\public-sector\\advanced-ledger-entries-public-sector.md"
+  ],
+  "8cf735a8ff33833aac748d17e33d4de5740ed875": [
+    "financials\\public-sector\\billing-classifications-billing-codes-public-sector.md"
+  ],
+  "e2af104916c7acce94467588677f5624fd9bd823": [
+    "financials\\public-sector\\budget-analysis-public-sector.md"
+  ],
+  "f5dc07253c4d068a77f7124a58419e03c91f6197": [
+    "financials\\public-sector\\budgeting-public-sector.md"
+  ],
+  "34b90b55784da7d36eb0e0e80010323e3a61fd94": [
+    "financials\\public-sector\\derived-financial-hierarchies-public-sector.md"
+  ],
+  "6c8cd94315617be741622e3561e863327f201429": [
+    "financials\\public-sector\\fixed-asset-public-sector.md"
+  ],
+  "205f4bb240e9188876ec9ace5d4b2b00dce49b4f": [
+    "financials\\public-sector\\free-text-invoices-public-sector.md"
+  ],
+  "0027e6313792f04035fb5525d0ab066e6132ea2e": [
+    "financials\\public-sector\\funds-public-sector.md"
+  ],
+  "9b6c695ecf58e9856ab12dc20147edf09354a3e0": [
+    "financials\\public-sector\\general-ledger-public-sector.md"
+  ],
+  "d1b9f1dfdee5432f7066cb2725534859afdd9462": [
+    "financials\\public-sector\\one-time-vendors-public-sector.md"
+  ],
+  "2f75c73f691fd5bb774a2a3bd28f55a265734e10": [
+    "financials\\public-sector\\plan-one-time-vendors-public-sector.md"
+  ],
+  "8996883de64368dd8f59030f0095336c1c28d200": [
+    "financials\\public-sector\\plan-public-sector-functionality.md"
+  ],
+  "dc78b3721b35705ba65370a64bfe3606308766ce": [
+    "financials\\public-sector\\posting-definitions-public-sector.md"
+  ],
+  "4accdbfd13e242c1fcf1dd69b2498f70da5e05e8": [
+    "financials\\public-sector\\preliminary-budgets-apportionments-public-sector.md"
+  ],
+  "1e962acbed5d01636659cb2584445ad879e4754f": [
+    "financials\\public-sector\\procurement-sourcing-public-sector.md"
+  ],
+  "6cebb7f13522c9a34db759735d0ef2c424d0714b": [
+    "financials\\public-sector\\public-sector-functionality.md"
+  ],
+  "a153b113f198b7bc5b56353a0bfe82ca2fdd7540": [
+    "financials\\public-sector\\purchase-order-codes-public-sector.md"
+  ],
+  "9ee5536d6e157ced0518e36fab0c92301a33a66d": [
+    "financials\\public-sector\\reimbursements-public-sector.md"
+  ],
+  "dec4777b5c8845bec79a7e3c1770fd9f0b56aa93": [
+    "financials\\public-sector\\security-roles-public-sector.md"
+  ],
+  "d79c1f7ee7236d9dc1d7d9e2857ba4fd04692a05": [
+    "financials\\public-sector\\settlement-priority-public-sector.md"
+  ],
+  "f2d3aa3c27a215bbbbb4b8268b5d699adf05517c": [
+    "financials\\public-sector\\year-end-processing-public-sector.md"
+  ],
+  "5388ce41bb317d02508ad9df664bd0a45a350640": [
+    "financials\\TOC.md"
+  ],
+  "d0f599964833162dd4bf4b490019cbed692428eb": [
+    "hr\\benefit-eligibility-policies.md"
+  ],
+  "5a24ccf124d1f3a078fe98b90301597f70bc41c4": [
+    "hr\\compensation-plans.md"
+  ],
+  "0ab79e85872c19e30f24e182ea483687ecc0bc09": [
+    "hr\\courses.md"
+  ],
+  "adf3dbf8b7ffa906c872a6b66d9cb43eb8e02805": [
+    "hr\\create-department-add-department-hierarchy.md"
+  ],
+  "399e1fee592c0ab31015e37e87d41c71f9282858": [
+    "hr\\create-fixed-compensation-plans.md"
+  ],
+  "2a2a63616a80a15fc1f6cf05b0287cfa9cb4c620": [
+    "hr\\create-job.md"
+  ],
+  "2be3dc22977d6c00a9542211bfb7aaf649b17e1a": [
+    "hr\\create-variable-compensation-plans.md"
+  ],
+  "11a0693174222b65f9a0b780d485f3fefcb1a5b4": [
+    "hr\\departments-jobs-positions.md"
+  ],
+  "65720297b43af49d8c8382ee2e3dde903d05ed14": [
+    "hr\\design-questionnaires.md"
+  ],
+  "4b846d7ef39fa1bff898b28aa8c65ffcfb211afd": [
+    "hr\\distribute-questionnaires.md"
+  ],
+  "68dde5f6d67b48dad753e9f4c4123fb9e9e6b53a": [
+    "hr\\evaluate-questionnaire-results.md"
+  ],
+  "e4cfe7c45c00d7147c177180d1a088f9ef77c9ca": [
+    "hr\\generate-aca-reports.md"
+  ],
+  "7d165196e34016d0602d2fedaf44d6dd6396b11f": [
+    "hr\\includes\\banner.md"
+  ],
+  "28b5c72a174c7d40fcf1e4c348834fc532b04fcc": [
+    "hr\\index.md"
+  ],
+  "14efefce1b2b402953964eb9e838354eb16ad199": [
+    "hr\\loan-items.md"
+  ],
+  "af291fb6d412e927cbd7a3a604870dc43c97454e": [
+    "hr\\manage-benefit-program.md"
+  ],
+  "6cf9d4bf28823142000f54fd9006e4e792ceacf3": [
+    "hr\\performance-management-overview.md"
+  ],
+  "0f88229d56a405211818e043a693991e64c16e5e": [
+    "hr\\personnel-actions-faq.md"
+  ],
+  "28b825ba685b5a05764b25602ae32f1370c82e07": [
+    "hr\\process-compensation.md"
+  ],
+  "c66d65bea1866d619530326ecfaff1c1c5bf86ba": [
+    "hr\\questionnaires.md"
+  ],
+  "c280b5ae3b8fc208759ec486db0a1015a9c24633": [
+    "hr\\set-up-company-specific-hr-parameters.md"
+  ],
+  "90d348f8b8414d6e31092cdd18760375dd283155": [
+    "hr\\set-up-hr-parameters-across-legal-entities.md"
+  ],
+  "c23fc88342ac06748150d5315c6f65b3a1f428c8": [
+    "hr\\skills.md"
+  ],
+  "7f2d3652c16dcc2191e19361a22e62b650fc71bd": [
+    "hr\\TOC.md"
+  ],
+  "2dc4671e0b68dffe30fe73d8c95113481673a27a": [
+    "hr\\workflow-manage-employee-information.md"
+  ],
+  "7f8522110c0d7d5277b0b3f3c7b21d8605d43f2c": [
+    "retail\\add-recommendations-control-pos-screen.md"
+  ],
+  "bd3a48ba59299fc52ad3d6817365e04cfadc1ba0": [
+    "retail\\analyze-sales-trends-patterns.md"
+  ],
+  "1ed355608aa7d9c9c41f427fc347a3d16076e33d": [
+    "retail\\assess-customer-product-profitability.md"
+  ],
+  "c60fe72f6f96a81a7b8d2b7570084f157ffaa4c5": [
+    "retail\\call-center-catalogs.md"
+  ],
+  "4a7c2b0fe716679758cb9a78127cb6c353976979": [
+    "retail\\call-center-functionality.md"
+  ],
+  "56cf1aadb12a8f05ee910f0223e22f1f2f8e9d27": [
+    "retail\\create-call-center-catalogs.md"
+  ],
+  "0adbd1cfd70290b2dd3f9fd2473b94cd9d377134": [
+    "retail\\create-manage-attributes.md"
+  ],
+  "f68f9dce544256a2b1a9927f019a676a6845f46d": [
+    "retail\\customer-orders-overview.md"
+  ],
+  "43ca3eb4f101b931e8fc7a1f3fd3419a52edafc0": [
+    "retail\\define-channel-specific-discounts.md"
+  ],
+  "8b319c7724f96e9827d2e952e235cf734f97c08b": [
+    "retail\\define-maintain-channel-clients-registers-hw-stations.md"
+  ],
+  "c160055b89197e59f53c92315fc457617659e956": [
+    "retail\\define-maintain-retail-channels.md"
+  ],
+  "949ffb827e88b75bab11924fff646fc785a706f1": [
+    "retail\\dev-itpro\\add-customer-preference-channel.md"
+  ],
+  "c9535e2bc8ef1cb76e7f8958a28c8e522637be53": [
+    "retail\\dev-itpro\\add-extension-properties.md"
+  ],
+  "c746fb5eec36f3956b1e5b077bcfc2469f303632": [
+    "retail\\dev-itpro\\add-new-custom-control-mpos-screen-layout.md"
+  ],
+  "d33d14820047d9820bbbc3734e1a33699ce6847a": [
+    "retail\\dev-itpro\\add-properties-sales-order.md"
+  ],
+  "c94916d20763c90980e87928a2c1ed239f099ad4": [
+    "retail\\dev-itpro\\call-crt-service-offline.md"
+  ],
+  "590e4321e47ad17e4d8f379c0b6ac9f9694b3ee3": [
+    "retail\\dev-itpro\\commerce-runtime-extensibility.md"
+  ],
+  "5406f62535e495af0cd3c37aae48c1054276eec9": [
+    "retail\\dev-itpro\\commerce-runtime-extensibility-trigger.md"
+  ],
+  "1244d95b02596570b9249d1953f456773763ea79": [
+    "retail\\dev-itpro\\commerce-runtime-overview.md"
+  ],
+  "a6ef80559f7df00ab8cd3e3434ef991ebafe711c": [
+    "retail\\dev-itpro\\configure-authentication-providers.md"
+  ],
+  "46e37f573c90f984bfa4c298e65be365e0bdc553": [
+    "retail\\dev-itpro\\configure-online-store.md"
+  ],
+  "e0b1c589a27ddea2257acb736ad24010da84b709": [
+    "retail\\dev-itpro\\create-retail-experience-app.md"
+  ],
+  "c3f4f3e7c520ef6d683677411a904026d78a7cd8": [
+    "retail\\dev-itpro\\create-windows-installer-payment-connector.md"
+  ],
+  "ac683494ff97feae9cdb9a671894a7ef9294864c": [
+    "retail\\dev-itpro\\define-retail-channel-communications-cdx.md"
+  ],
+  "64a9f62cd6626b8b2b7f71a699d3444d8e282ac7": [
+    "retail\\dev-itpro\\deploy-payment-connector.md"
+  ],
+  "eda8c1d81322b7ca25d3ef8215afd5fa2f61b2c3": [
+    "retail\\dev-itpro\\dev-retail-home-page.md"
+  ],
+  "9052bdaa86ec985964d77b3348f1e16318f548a1": [
+    "retail\\dev-itpro\\ecommerce-platform.md"
+  ],
+  "0f58385f09e5212e2adaedde9c3edea4cf629814": [
+    "retail\\dev-itpro\\ecommerce-platform-sdk.md"
+  ],
+  "6842602d8393e62305afff39f62194ed97895746": [
+    "retail\\dev-itpro\\extend-commerce-data-exchange.md"
+  ],
+  "3778c1f01491fea1778e969a2ad2ac074d569af7": [
+    "retail\\dev-itpro\\extend-metadata.md"
+  ],
+  "8399d75962e98dfdfdb161dd1a4cba120348c883": [
+    "retail\\dev-itpro\\extend-retail-server-odata-controller.md"
+  ],
+  "c6e6888395522d5eaf0bcb7314e0fc83c54d2060": [
+    "retail\\dev-itpro\\hardware-station-extensibility.md"
+  ],
+  "4132416d2ea42397643591b35a3db4a572519cd2": [
+    "retail\\dev-itpro\\modern-pos-trigger-extensibility.md"
+  ],
+  "3db39abc637c1174957ad3e2530a4e7ac39bacd9": [
+    "retail\\dev-itpro\\n-1-installation-configuration.md"
+  ],
+  "fa2ebadec87d0a77b28967977e73510d929e3786": [
+    "retail\\dev-itpro\\odata-controllers-api.md"
+  ],
+  "0f4345112f15d02a084fdc723f7a3b249d3cc030": [
+    "retail\\dev-itpro\\overview-upgrade-n-minus1.md"
+  ],
+  "8ed87c9769e49e944382fdb30ff65ba6ab1167e6": [
+    "retail\\dev-itpro\\payments-retail.md"
+  ],
+  "97bedd79dbd2b6978dac0b7ce97d28b842babed8": [
+    "retail\\dev-itpro\\retail-component-events-diagnostics-troubleshooting.md"
+  ],
+  "6a5807979e2ac8e64d4cd387795dc522a06f7788": [
+    "retail\\dev-itpro\\retail-device-activation.md"
+  ],
+  "e3e04e179d788799c116af6f529c364604cdcb25": [
+    "retail\\dev-itpro\\retail-modern-pos-architecture.md"
+  ],
+  "c0d406b66473649a84cf159f4d8fc8e6d822feab": [
+    "retail\\dev-itpro\\retail-modern-pos-offline.md"
+  ],
+  "4b3b3281e50a20addc69e38c8eab08723da19b25": [
+    "retail\\dev-itpro\\retail-online-store-publishing-architecture.md"
+  ],
+  "7343bcd24b62307bcecc2d9719871260efdc8d6f": [
+    "retail\\dev-itpro\\retail-peripheral-simulator.md"
+  ],
+  "d42d7e27953e045c78ce8a8104733373636e4928": [
+    "retail\\dev-itpro\\retail-sdk\\integrate-retail-sdk-continuous-build.md"
+  ],
+  "f94c04680d09e7a15bdae5cc3da83541ac685925": [
+    "retail\\dev-itpro\\retail-sdk\\loyalty-extension-sample.md"
+  ],
+  "9f168d55ce1569a5811c67639c3a9482cbd2d587": [
+    "retail\\dev-itpro\\retail-sdk\\retail-sdk-control-unit-sample.md"
+  ],
+  "643377514b17e5a68d4695876589f0dcdf1a7b1d": [
+    "retail\\dev-itpro\\retail-sdk\\retail-sdk-extensibility-samples.md"
+  ],
+  "be20cc8e0fa41a9e07fe58a356a0ea4ccd90e8d8": [
+    "retail\\dev-itpro\\retail-sdk\\retail-sdk-overview.md"
+  ],
+  "99574402a5b93ddaced2e7e7c602064766d0a754": [
+    "retail\\dev-itpro\\retail-sdk\\retail-sdk-packaging.md"
+  ],
+  "9b2a821d28ce97d932f7be77f9b66a5a62fbea9a": [
+    "retail\\dev-itpro\\retail-sdk\\retail-sdk-samples.md"
+  ],
+  "1fe3940651c3397f5c43daeb149dde1e50c712eb": [
+    "retail\\dev-itpro\\retail-server-architecture.md"
+  ],
+  "3cc0d694eafc67abbdc871b6db894db230baf5cd": [
+    "retail\\dev-itpro\\retail-server-customer-consumer-api.md"
+  ],
+  "6f87269d23634ec3d4fdca51b733bb85c60b6153": [
+    "retail\\dev-itpro\\retail-store-scale-unit-configuration-installation.md"
+  ],
+  "f53e9eacd3747ca0ce7ecf6a7aa1b2ecd6f7b204": [
+    "retail\\dev-itpro\\retail-store-system-begin.md"
+  ],
+  "88d18c6149a2ff02c2b591036f5218b106746115": [
+    "retail\\dev-itpro\\secure-retail-cloud-pos.md"
+  ],
+  "fa31c4437f0ac88fecc9055dbc21f82f03779177": [
+    "retail\\dev-itpro\\trigger-example-blocking-transaction.md"
+  ],
+  "eb67fad04a14e4ea1390a1373b00c5e96205d325": [
+    "retail\\dev-itpro\\trigger-example-return-policy.md"
+  ],
+  "e3d7be1dd1d8b0f5caf3f98dade24f5963fff0a5": [
+    "retail\\email-receipts.md"
+  ],
+  "6ebc5ff4ca832d899cdd22a0a5f3a3a55811ebec": [
+    "retail\\enable-configure-retail-functionality.md"
+  ],
+  "929af575d2e3aeb7fb97c74cacd7fd2925f568a1": [
+    "retail\\extended-logon.md"
+  ],
+  "63f45cb9b37fade71ca9c8339bfa1f2aba9ffd5e": [
+    "retail\\hybrid-customer-orders.md"
+  ],
+  "52f7871bea892928c963809ab8f721af1adb11eb": [
+    "retail\\includes\\banner.md"
+  ],
+  "2de5b3d532c599f2273b97dad1db6a027c4dc04a": [
+    "retail\\index.md"
+  ],
+  "ce7cdd22d10c98cef6bf7b2567f0c7b776e04483": [
+    "retail\\info-codes-retail.md"
+  ],
+  "567cedada88746a4c82b7a1b41232d2a78a2c8dd": [
+    "retail\\install-pos-layout-designer.md"
+  ],
+  "daa172f82424d5b300634d2d329b8ac232901c66": [
+    "retail\\localizations\\emea-swe-cash-registers.md"
+  ],
+  "696fc01142a1072a1cef4bb65b7a167521645618": [
+    "retail\\microsoft-tested-pos-hardware-peripherals.md"
+  ],
+  "5af80696aac43e28794ec8118ecf3069b9eced74": [
+    "retail\\monitor-sales-margin-performance.md"
+  ],
+  "13d7f99766dabf35b80e7100a3017308033e3da6": [
+    "retail\\online-stores.md"
+  ],
+  "af31f0c4cb5304a213f883e3d076731f7cee468e": [
+    "retail\\optimal-combination-overlapping-discounts.md"
+  ],
+  "f6a03c956484bcd54a2187e58ebbd08c34b5067a": [
+    "retail\\payment-methods.md"
+  ],
+  "a3a3b5e87a797c29c13b180c248d1782805c4c31": [
+    "retail\\personalized-product-recommendations.md"
+  ],
+  "a9b2d8dec04ed3653b2ebcfbd2492fc40d96b77b": [
+    "retail\\pos-application-user-language-settings.md"
+  ],
+  "e751578a0d0a0e332fb5d502ea484840fc8974a1": [
+    "retail\\pos-offline-functionality.md"
+  ],
+  "c66b0662b68bc855df49548bf3a5c223d84f83da": [
+    "retail\\pos-sales-groups-track-commissions.md"
+  ],
+  "d1ee1b873839697eaee83effb3ca4f95dcf7b9a7": [
+    "retail\\pos-screen-layouts.md"
+  ],
+  "85fdcf83c06c13350a805e025b43b511211abad8": [
+    "retail\\price-adjustments-discounts.md"
+  ],
+  "f73fa4bd98d87ffa70d1be4ac97078941226d7ed": [
+    "retail\\receipt-templates-printing.md"
+  ],
+  "72fc7e806d63c714aa78f33fa96523c2f55f7f5a": [
+    "retail\\retail-components.md"
+  ],
+  "7e05361bf865e44ba6073198fba94d7102b1ed19": [
+    "retail\\retail-coupons.md"
+  ],
+  "12c0a5e715ae9786574e77079318ab2e13a59190": [
+    "retail\\retail-hardware-station-configuration-installation.md"
+  ],
+  "00b3a508199402ea671d588f5509c4a8a07a781d": [
+    "retail\\retail-hierarchies.md"
+  ],
+  "1d9978e57ff133b0a9951831c97a6fd810a3d81a": [
+    "retail\\retail-modern-pos-device-activation.md"
+  ],
+  "3d2135850a3265fa3578a9347735bd6c66dd2aa1": [
+    "retail\\retail-peripherals-overview.md"
+  ],
+  "963387c081e618a66a34f6c7567232f6650bf6f5": [
+    "retail\\retail-statements.md"
+  ],
+  "affa314ecf6d076ee70e64f4bf23ff660d4dec47": [
+    "retail\\retail-time-attendance.md"
+  ],
+  "f682ad865ab221902d857080450d4afe8d3ed8c6": [
+    "retail\\sales-performance-products.md"
+  ],
+  "0d867d24736972daa1922454c3b6acc21463961a": [
+    "retail\\sell-return-outside-assortments.md"
+  ],
+  "4f2eb208d532dfc75fa7c73b014c7471e395d314": [
+    "retail\\set-up-activation-accounts-validate-devices-hq.md"
+  ],
+  "9d253641ceaf560814aa8ff2a523a06ce083d00d": [
+    "retail\\set-up-assortments.md"
+  ],
+  "0d90376d9f0cf2cc2ebda693b4a20bc4f9861ce7": [
+    "retail\\set-up-bar-code-masks.md"
+  ],
+  "14bf8106e86d5516c95ff897ce5f91717c3d4adb": [
+    "retail\\set-up-bar-codes.md"
+  ],
+  "7928cb41eb258ffd7742a9d3a3707bc47e365d37": [
+    "retail\\set-up-continuity-program.md"
+  ],
+  "34033ba4ba72753c8de2724fdac47de71e02170e": [
+    "retail\\set-up-customer-loyalty-program.md"
+  ],
+  "09d80015298c3d0219b6ffb290dc456990536a62": [
+    "retail\\set-up-fraud-alerts.md"
+  ],
+  "6eeb4dfc8ee33694e0c6a724f8280dbcb1697b62": [
+    "retail\\set-up-manage-images-retail-mpos.md"
+  ],
+  "a0f3d1aea49f0251ecc68e70b4b6054e1813c8ad": [
+    "retail\\set-up-order-processing-options.md"
+  ],
+  "132266d647b2454518077346960786b1efc9359d": [
+    "retail\\set-up-retail-products.md"
+  ],
+  "e11ec02d7392601b22e17384a4dbf620b79df035": [
+    "retail\\set-up-rfm-analysis.md"
+  ],
+  "28182c90b7818e6fe51f801c128d76a3ca90e893": [
+    "retail\\shift-drawer-management.md"
+  ],
+  "303ec3bf7b900b5aa6a1ed0b1e99fc4df3498c09": [
+    "retail\\store-performance-information.md"
+  ],
+  "b6cbfe17af3eab0bac74fd575ce2b9e4bd562d3e": [
+    "retail\\task-recorder-retail-pos.md"
+  ],
+  "09c598f227645cc52247e8262a248d07e899199c": [
+    "retail\\TOC.md"
+  ],
+  "53909033c625c354efaffda9cbae81de86aab214": [
+    "retail\\work-with-order-holds.md"
+  ],
+  "107ed929cb90bef6321bb7de441cce7c54ce6836": [
+    "retail\\work-with-payments.md"
+  ],
+  "02099f37577c7cbfa4fd490420d0e09207a3af38": [
+    "retail\\work-with-store-inventory.md"
+  ],
+  "98cce50d3e0573840f6c67ea36be7b94cee832e6": [
+    "scm\\cost-management\\adjust-hand-inventory-cost-values.md"
+  ],
+  "9a283ef473dd87cf3668e28ce5e08337ddaa82cd": [
+    "scm\\cost-management\\amortize-constant-costs-manufactured-item.md"
+  ],
+  "404803c6317b2aeda78de86d4ba11987b2a8cf65": [
+    "scm\\cost-management\\backflush-costing.md"
+  ],
+  "56d79fe8a1052edecadd048adc6fb815dc78e18e": [
+    "scm\\cost-management\\bom-calculation-groups.md"
+  ],
+  "06b6cf1aba4b9495f925d95d725d2527bdcf142f": [
+    "scm\\cost-management\\bom-calculations.md"
+  ],
+  "e12c58fd07b4e932f1967299737f1ab4c2540856": [
+    "scm\\cost-management\\charges-manufactured-item.md"
+  ],
+  "37cad721c937429d6fbd2c7e96ec4c55d3e84e5b": [
+    "scm\\cost-management\\common-sources-of-production-variances.md"
+  ],
+  "8d8377e5a406eedabafca5157e51b4ee749983ca": [
+    "scm\\cost-management\\cost-categories-used-production-control-project-management-accounting.md"
+  ],
+  "17959b382a67dd0c10da13580e2e1eac379e7aa3": [
+    "scm\\cost-management\\cost-categories-used-production-routings.md"
+  ],
+  "034b067ef21077e12f6c1008819977c5f735875e": [
+    "scm\\cost-management\\cost-entries.md"
+  ],
+  "0231f173b08689acdad34d808036210dad420eb9": [
+    "scm\\cost-management\\cost-groups.md"
+  ],
+  "d91db083398b9a0716f324a95b58656e59672319": [
+    "scm\\cost-management\\costing-sheets.md"
+  ],
+  "0987a13e1e900f13367c8c9ebe3ea7b0b207c032": [
+    "scm\\cost-management\\costing-versions.md"
+  ],
+  "eab483730d6090290522cc96037e8c410dde031f": [
+    "scm\\cost-management\\cost-object.md"
+  ],
+  "b968ba6af6f1071620531891e47daec37f61ab3c": [
+    "scm\\cost-management\\fifo-physical-value-marking.md"
+  ],
+  "f2c4280fdacf7f30d746d8ec30e33730f57f31b1": [
+    "scm\\cost-management\\include-physical-value.md"
+  ],
+  "5a097acde680eda47a3830d6675b40bdd82e1e8b": [
+    "scm\\cost-management\\information-used-bom-calculations-standard-costs.md"
+  ],
+  "932ba6a5527ee6706456f48faf6e0958c71e11f1": [
+    "scm\\cost-management\\inventory-close.md"
+  ],
+  "195bacc39d5beaf040ee32adb3c37431218b9347": [
+    "scm\\cost-management\\lifo-date-physical-value-marking.md"
+  ],
+  "55af8e0f61ccfb2ad04de168ef73e3df910ad076": [
+    "scm\\cost-management\\lifo-physical-value-marking.md"
+  ],
+  "5581ea96d1224dcfcfc29bae852a620f71dbf836": [
+    "scm\\cost-management\\manage-standard-cost-updates.md"
+  ],
+  "1cb007cce3c67d1f045e67dfc948d7849d7dda5c": [
+    "scm\\cost-management\\manufactured-items-treated-as-purchased-items.md"
+  ],
+  "6a3949cb420c379396aa7e477372434163c95b0a": [
+    "scm\\cost-management\\methodology-total-cost-allocation.md"
+  ],
+  "636b8996bb8871723ee85f7fea92a3d5bc57b7d8": [
+    "scm\\cost-management\\moving-average.md"
+  ],
+  "622dbda4fc4f6e2c824b2c944ad8e024dc15b708": [
+    "scm\\cost-management\\physical-financial-updates.md"
+  ],
+  "2f7fdec8de45fcfd9d3d91e19687f8347b11ff9d": [
+    "scm\\cost-management\\physical-quantity.md"
+  ],
+  "578f2e0c1f6ff268c5cff357b8fa199f59410cea": [
+    "scm\\cost-management\\prerequisites-standard-cost-conversion.md"
+  ],
+  "9f77100db2f0fb413d2c893cb52b54954e828485": [
+    "scm\\cost-management\\production-order-cost-analysis.md"
+  ],
+  "a6dd621fcd51959d9a958e5f9ba1982b485efabb": [
+    "scm\\cost-management\\production-order-cost-estimation.md"
+  ],
+  "ef012d9b564ff5b64d7806971cb80a6d07aac434": [
+    "scm\\cost-management\\production-posting.md"
+  ],
+  "c084ef139e13fde5bbbc5d21c42077ab494ce6fb": [
+    "scm\\cost-management\\running-average-cost-price.md"
+  ],
+  "373d2edc0343ee5861d30062f776fd8593869891": [
+    "scm\\cost-management\\simulate-cost-changes-costing-version-planned-costs.md"
+  ],
+  "2bcbe3d3a137ef6a39c3eaa3646273d9da0c3e0c": [
+    "scm\\cost-management\\standard-cost-conversion-overview.md"
+  ],
+  "38547a9decd2ad151b84f4180ebba31b6aa794d7": [
+    "scm\\cost-management\\track-running-average-cost-per-inventory-dimension.md"
+  ],
+  "4a5647d132bbd356ea2cc09adab3a47e437d720f": [
+    "scm\\cost-management\\update-standard-costs-manufacturing-environment.md"
+  ],
+  "3b6aeef8cf62be07e840564aa4d2adf2af5ed87c": [
+    "scm\\cost-management\\update-standard-costs-new-manufactured-item.md"
+  ],
+  "729a18e9527cb378d4f601ecc9463cbec144dc51": [
+    "scm\\cost-management\\update-standard-costs-non-manufacturing-environment.md"
+  ],
+  "1f1a1541ff8cc5bc00da91a084e45a549fda7b77": [
+    "scm\\cost-management\\weighted-average-date.md"
+  ],
+  "c79556c35b63a4850cb63f4e1977dc4c442d3d87": [
+    "scm\\cost-management\\weighted-average-physical-value-marking.md"
+  ],
+  "4044c66833e914b1f0f2d552d827013bd48dc2db": [
+    "scm\\index.md"
+  ],
+  "c9f80fe79076b4e45b0095430eabbd0ec514f13a": [
+    "scm\\inventory\\arrival-overview.md"
+  ],
+  "d6594f08802085df118b2ad06a189bfa885053f7": [
+    "scm\\inventory\\consignment.md"
+  ],
+  "4766c01741214299010d334fa626016427fbf06a": [
+    "scm\\inventory\\enable-nonconformance-management.md"
+  ],
+  "13e3dff462e82b50b17cecf9a0457714db6bc554": [
+    "scm\\inventory\\enable-quality-management.md"
+  ],
+  "f621bb2c31b8d39f58c8ff9d2212be8c649c651b": [
+    "scm\\inventory\\inventory-blocking.md"
+  ],
+  "6beb8173edf8ec28c24d7737cf4e5be83c7a965a": [
+    "scm\\inventory\\inventory-journals.md"
+  ],
+  "dcb7752f49b2efbfa6b38921b2776f914083bf11": [
+    "scm\\inventory\\inventory-locations.md"
+  ],
+  "938b51011c3367b757b9f815b1c1996661e75a37": [
+    "scm\\inventory\\inventory-on-hand-mobile-workspace.md"
+  ],
+  "563891f951ae7f12a419337aa48ad30410eaca5e": [
+    "scm\\inventory\\inventory-statuses.md"
+  ],
+  "256761f1fcc86e0c279ee7c0b562b02d697cd66b": [
+    "scm\\inventory\\inventory-tag-counting.md"
+  ],
+  "8c3c47cf3595adba6f51c7b6e0c2368331b45e8c": [
+    "scm\\inventory\\merge-inventory-batches.md"
+  ],
+  "9738c70ecb45b5690b1a19db45780d0860a78d28": [
+    "scm\\inventory\\quality-management-processes.md"
+  ],
+  "bf44bfe34f4b687c105191df7133efadf461ad1a": [
+    "scm\\inventory\\quarantine-orders.md"
+  ],
+  "faa50203e8545cb4419be71aa8d38acf98a29996": [
+    "scm\\inventory\\reserve-inventory-quantities.md"
+  ],
+  "8db61232310625b5f91a263861c45a789e0d6838": [
+    "scm\\inventory\\set-up-consignment.md"
+  ],
+  "a5e0d690eff5eee13640523d340cde4185ec261a": [
+    "scm\\inventory\\trace-items-raw-materials-inventory-production-sales.md"
+  ],
+  "2c05624b8043757584f3a48aba078b782da50d20": [
+    "scm\\master-planning\\action-messages.md"
+  ],
+  "a9507ac4fb1c00cb5892de9fc50e7f563812c92f": [
+    "scm\\master-planning\\authorize-adjusted-forecast.md"
+  ],
+  "40043260702160679c46e3064c3fe44fe3151d82": [
+    "scm\\master-planning\\coverage-settings.md"
+  ],
+  "32d2b4f8233cf7e533e5f428424c9ed49947499e": [
+    "scm\\master-planning\\delays.md"
+  ],
+  "43ab666e7f830c07670f8c5acbae6b5c5332b780": [
+    "scm\\master-planning\\demand-forecasting-setup.md"
+  ],
+  "be9676bb86fe94bcbcceb878d4f9038a730ef47d": [
+    "scm\\master-planning\\generate-statistical-baseline-forecast.md"
+  ],
+  "cd21e11f659dd244ffcc4a857e7a6f70cb1e21fd": [
+    "scm\\master-planning\\import-historical-data.md"
+  ],
+  "d059ce605e0c9575ca36d024fd14bb5261019474": [
+    "scm\\master-planning\\introduction-demand-forecasting.md"
+  ],
+  "d3146a5fbf45481d09044630a48d467375681835": [
+    "scm\\master-planning\\maintain-planned-orders.md"
+  ],
+  "23ae16d964b79abaad23229dc9011b3ce2070d8f": [
+    "scm\\master-planning\\manual-adjustments-baseline-forecast.md"
+  ],
+  "d5bccf8a4c82c9a591bad675a88bde19c8cf690e": [
+    "scm\\master-planning\\master-plan-bom-version-determined.md"
+  ],
+  "1ef02cb55968783891fa9b8fb40822a97f77b9cb": [
+    "scm\\master-planning\\master-plan-explosion-bom-version.md"
+  ],
+  "719451be058aafd27718253f76b175487676ab5e": [
+    "scm\\master-planning\\master-plan-multisite-functionality.md"
+  ],
+  "451542a4a198cf6a4bb86acb55792e41154c83d8": [
+    "scm\\master-planning\\master-plans.md"
+  ],
+  "3c661b6c38bb90039c7b201b7c6e36a1d8ca1f33": [
+    "scm\\master-planning\\master-plan-site-coverage-warehouse-mandatory.md"
+  ],
+  "315b7c9694bc75418d36a4876d5583bf379a7fdb": [
+    "scm\\master-planning\\master-plan-site-coverage-warehouse-not-mandatory.md"
+  ],
+  "b921d545fa0f9219ee8e111393c30d6d208bd6f1": [
+    "scm\\master-planning\\master-plan-site-warehouse-coverage-warehouse-mandatory.md"
+  ],
+  "e1e0080d9a16af582ced18fc4593a894af6a8ed8": [
+    "scm\\master-planning\\master-plan-site-warehouse-coverage-warehouse-not-mandatory.md"
+  ],
+  "c867b4c31c8e3acfd3525828a2f27d6bdf0dd952": [
+    "scm\\master-planning\\monitor-forecast-accuracy.md"
+  ],
+  "5bd81029f79b486b29bf257f15154ee83f3b6f54": [
+    "scm\\master-planning\\reduction-keys.md"
+  ],
+  "8754fab71b0fdfdba3ca20d927ba9376ed20f4e8": [
+    "scm\\master-planning\\remove-historical-outliers-calculating-demand-forecast.md"
+  ],
+  "9e4b12f1c6c19d2898b7d7b2a1d29cb31ec21ef4": [
+    "scm\\master-planning\\trace-explosion.md"
+  ],
+  "0d3e384bca8c146d6ff337b74c4b8ef465a5d174": [
+    "scm\\pim\\build-product-configuration-model.md"
+  ],
+  "f17f8c0055185ab40e966eabdba11fd7f5ffe2de": [
+    "scm\\pim\\calculate-product-configuration-models.md"
+  ],
+  "8fbfe878f442bd1d5295d02e7097b1df91ac7ee4": [
+    "scm\\pim\\configuration-rules.md"
+  ],
+  "d357dc6275b8872810b389e036b69f4cdcc93377": [
+    "scm\\pim\\dimension-based-product-configuration.md"
+  ],
+  "2e0f6c1f368fc6884bdb7eefccca9dcb71352a8f": [
+    "scm\\pim\\expression-constraints-table-constraints-product-configuration-models.md"
+  ],
+  "a5e7729111e06c6806586daf4dbc3c995ecfe1c3": [
+    "scm\\pim\\product-configuration-models.md"
+  ],
+  "166e994f437155ffa800726a56267eeff62a54a6": [
+    "scm\\pim\\product-dimensions.md"
+  ],
+  "77f5aefe4ad5de5583268b210035649608e45d67": [
+    "scm\\pim\\product-information.md"
+  ],
+  "0705be95bb3630832ed0868ce8ee5519aa65fcdb": [
+    "scm\\pim\\product-variant-identification-nomenclature.md"
+  ],
+  "249cffa4b966e0efc13b06050a3ba5f47cc86209": [
+    "scm\\pim\\reuse-product-configurations.md"
+  ],
+  "3983f69a7dfb65f9147ac4423e38b1de64c19921": [
+    "scm\\pim\\search-products-product-variants.md"
+  ],
+  "8fe5e217769c1baebaa77b6dc95242319a7db325": [
+    "scm\\pim\\set-up-maintain-product-configuration-model.md"
+  ],
+  "e95b47c78425afd07e9b1311b77619d65c754c58": [
+    "scm\\pim\\system-defined-user-defined-table-constraints.md"
+  ],
+  "2e0a5a2677c5211257436fbb6a44684cf8e9ed79": [
+    "scm\\pim\\translations-product-related-information.md"
+  ],
+  "2c103fe8a17d55a2de4bbb7bc8cb8837d77c088a": [
+    "scm\\procurement\\collaborate-vendors-vendor-portal.md"
+  ],
+  "d9211164aa91fef9c6818f8fead6263017aadaf0": [
+    "scm\\procurement\\configure-security-vendor-portal-users.md"
+  ],
+  "d9070c57cbeeb9fae5644e8677b7e83fd6c70a6b": [
+    "scm\\procurement\\manage-vendor-collaboration-users.md"
+  ],
+  "a86345ee077f5ad94f4e8e1474f7143b640d607c": [
+    "scm\\procurement\\procurement-catalogs.md"
+  ],
+  "42b7a7cb879c11dd45defc7168ba7b3fa4c26960": [
+    "scm\\procurement\\procurement-sourcing.md"
+  ],
+  "e00b6f470155419ec37045b90b4db7995972e935": [
+    "scm\\procurement\\procurement-sourcing-overview.md"
+  ],
+  "26594ae510d34ba6705b40f27488c14dbe19bfd0": [
+    "scm\\procurement\\procurement-sourcing-workflows.md"
+  ],
+  "e2a3b80d3283601cfdc64b78cf9e615518eafc01": [
+    "scm\\procurement\\product-receipt-against-purchase-orders.md"
+  ],
+  "0e64ea685501d24263b09d1fb36c4488695be289": [
+    "scm\\procurement\\purchase-agreements.md"
+  ],
+  "787989596f3eb03d39d531e23d51e8b611b40e87": [
+    "scm\\procurement\\purchase-order-approval-confirmation.md"
+  ],
+  "abb3696a57aedff41b3669d140bf786a52f558b2": [
+    "scm\\procurement\\purchase-order-creation.md"
+  ],
+  "7993734a3a986786683714c453d7e15786754342": [
+    "scm\\procurement\\purchase-order-mobile-workspace.md"
+  ],
+  "57dede2ab27e7c6542dbd1df39a4561377af3621": [
+    "scm\\procurement\\purchase-order-overview.md"
+  ],
+  "ee3ccc158dd3f25452c1a726530409711e1ec649": [
+    "scm\\procurement\\purchase-policies.md"
+  ],
+  "6b02f5e190faa3535ed1214aded81512fb0972c0": [
+    "scm\\procurement\\purchase-requisitions-overview.md"
+  ],
+  "94f95ec5235a2fb2548acae26617f495aa2ebd83": [
+    "scm\\procurement\\purchase-requisitions-workflow.md"
+  ],
+  "c1239e61d82fc279e52d283450ca168822878872": [
+    "scm\\procurement\\request-quotations.md"
+  ],
+  "5ceca44895428430c7ca974ac39e59e631f5eba8": [
+    "scm\\procurement\\set-up-external-catalog-for-punchout.md"
+  ],
+  "b32358025434a00e0b385e5a972a0a7a1b5677f8": [
+    "scm\\procurement\\set-up-maintain-vendor-collaboration.md"
+  ],
+  "4a8476823b46beb359b61443417c6d9875ec36b8": [
+    "scm\\procurement\\set-up-vendor-accounts.md"
+  ],
+  "c8f2aac443f2eeb3921bc947c547804ba86c2b20": [
+    "scm\\procurement\\use-external-catalogs-for-punchout.md"
+  ],
+  "4c0b1d81dd1eea83e1097445a4fa94c4a2e21265": [
+    "scm\\procurement\\vendor-agreements-project-contracts.md"
+  ],
+  "d76b3592ed8274498a7a58c46cc83619f2f668f5": [
+    "scm\\procurement\\vendor-collaboration-mobile-workspace.md"
+  ],
+  "50236c5570bc74ccf971298eb0f264e193efd5d3": [
+    "scm\\procurement\\vendor-collaboration-work-customers-dynamics-365-operations.md"
+  ],
+  "9fc7f3494b0cada25b47a51c0c0be927f8bb2750": [
+    "scm\\procurement\\vendor-collaboration-work-external-vendors.md"
+  ],
+  "e6be490e5b8ac7d01135fb41d819e8f3b0ff0dfd": [
+    "scm\\production-control\\activity-based-subcontracting.md"
+  ],
+  "ed34b502def99140442736790e0320cf81c93355": [
+    "scm\\production-control\\allocate-time-jobs-job-bundle.md"
+  ],
+  "d2024c1780a95f4a62efa8f47621bc926952a5f1": [
+    "scm\\production-control\\batch-attributes.md"
+  ],
+  "6e28617190ef46e0f080f7b43cc903154b7cf1bd": [
+    "scm\\production-control\\bill-of-material-bom.md"
+  ],
+  "aed86777a98f2267510d2c49b7c128af3c7a3d27": [
+    "scm\\production-control\\bom-designer-functionality.md"
+  ],
+  "d312f0039629cd5e6fed7afded04c1f66d214816": [
+    "scm\\production-control\\consolidated-batch-orders.md"
+  ],
+  "88fb31fc425c9fbd2ef96e4497f120da4440af04": [
+    "scm\\production-control\\consumption.md"
+  ],
+  "200ae38634901ac23e92fe1717cc6ae5de2aaa62": [
+    "scm\\production-control\\create-production-orders.md"
+  ],
+  "581df124fb422ea1ea8d0e6c10a7ebb8def65070": [
+    "scm\\production-control\\cross-docking-opportunities.md"
+  ],
+  "df09d52943a854f0f0d1dc1b8fe65fb8865d1f9d": [
+    "scm\\production-control\\default-order-settings.md"
+  ],
+  "b35044a19a1da3e55c03b1e49f33adeb38fc793d": [
+    "scm\\production-control\\flushing-principles.md"
+  ],
+  "6a2e559386e8ed2796c971d825a21ce12dd2ba75": [
+    "scm\\production-control\\formula-designer.md"
+  ],
+  "ffba8d50874e4b4248bf060e42d9aabb591a31ad": [
+    "scm\\production-control\\job-scheduling.md"
+  ],
+  "7d70f91258c4aeb95a7fdab952a572e162c055f3": [
+    "scm\\production-control\\kanban-transfer-board-support-barcode-scanner.md"
+  ],
+  "19667c5a3df64e17980449fd44559335c6a57792": [
+    "scm\\production-control\\lean-manufacturing-kanban-job-scheduling.md"
+  ],
+  "ebf3a22882301939509c5676da03a6c84e78cd4a": [
+    "scm\\production-control\\lean-manufacturing-modeling-lean-organization.md"
+  ],
+  "62a1811b347400871d5b2e274cf09ecedc733993": [
+    "scm\\production-control\\lean-manufacturing-overview.md"
+  ],
+  "1392ea208f37309ab88fbd56f2d443282168c942": [
+    "scm\\production-control\\manage-subcontract-work-production.md"
+  ],
+  "6c921ce56bff224788a20cf4248a8351e4439985": [
+    "scm\\production-control\\mixed-mode-plan.md"
+  ],
+  "e99d890f52cf03176864a74e382e37b1f82930c4": [
+    "scm\\production-control\\operation-scheduling-options.md"
+  ],
+  "18e37060ed9440e5b3adacfff4ba62f162514d84": [
+    "scm\\production-control\\operations-resources.md"
+  ],
+  "d75cb37275c1099b56cc0fbe2c79814b37054f2e": [
+    "scm\\production-control\\operations-scheduling.md"
+  ],
+  "1468d1689fca91b10ea4886f7d92d5fa9220c788": [
+    "scm\\production-control\\production-feedback.md"
+  ],
+  "0dbf7911d9d262d61bbcf6f9e180a89638903dff": [
+    "scm\\production-control\\production-output-location.md"
+  ],
+  "e33ad8fec667e45093926cb46c01dd2f9f25c91d": [
+    "scm\\production-control\\production-parameters-manufacturing-execution.md"
+  ],
+  "a78f336eba8d0820f89c9dc0e213440e25661c5e": [
+    "scm\\production-control\\production-process-overview.md"
+  ],
+  "e58888ab2d3be346c56e329193c21f4b4b955510": [
+    "scm\\production-control\\production-set-up-requirements.md"
+  ],
+  "bb0ed1dfefc089b8e03547f188ac2e4949d93633": [
+    "scm\\production-control\\register-material-consumption-hand-held-device.md"
+  ],
+  "9edc463bfea1669b3bbbed44fa3afcdc2b0c11b4": [
+    "scm\\production-control\\registration-manufacturing-execution.md"
+  ],
+  "7cee4f4b4d75e0bb18174ee8823ef523f1507bcf": [
+    "scm\\production-control\\release-production-orders.md"
+  ],
+  "b3eae53d426eaac0ba00c50480ff8dec5e8c9167": [
+    "scm\\production-control\\report-boms-as-finished.md"
+  ],
+  "e122448990a21ef288e04712a1fab5ef224259a5": [
+    "scm\\production-control\\report-production-orders-as-finished.md"
+  ],
+  "5f20d9ed845f74b77df4929e66fe6da4e7d375b5": [
+    "scm\\production-control\\resource-capabilities.md"
+  ],
+  "027456b183d4fc220566fca8691611cc2def3c26": [
+    "scm\\production-control\\reverse-production-order-status.md"
+  ],
+  "161cd321065a9129e669d70a9ffb2cc85427f4ab": [
+    "scm\\production-control\\routes-operations.md"
+  ],
+  "993eb7b993cec3fb24890cddc84c2f0a935001b2": [
+    "scm\\production-control\\substitute-items-bom-lines.md"
+  ],
+  "83603b1f8d20c18b7f10cd7224d491b558ee1b8b": [
+    "scm\\production-control\\time-attendance-registrations.md"
+  ],
+  "5d83ef838f37bef84554b5eb7c82e5c18d974943": [
+    "scm\\production-control\\visual-scheduling-lean-manufacturing.md"
+  ],
+  "24c55904f47789cecb826d062b64105b4c3c3b72": [
+    "scm\\production-control\\visual-scheduling-production.md"
+  ],
+  "51981b9630aa38701433f076eeba150a76a5bae7": [
+    "scm\\sales-marketing\\accounts-template-mapping.md"
+  ],
+  "1f811946f0f33c8aab75517a48a4b2e6b9b60f13": [
+    "scm\\sales-marketing\\contacts-template-mapping.md"
+  ],
+  "786c7bece324917273cfb9ce354d8912cf9bb728": [
+    "scm\\sales-marketing\\delivery-alternatives.md"
+  ],
+  "55f8a58edbc913983ee5c2f17e799863e292d98a": [
+    "scm\\sales-marketing\\delivery-dates-available-promise-calculations.md"
+  ],
+  "f41740f36d6f122b0e3a0438b013849259d6f5fe": [
+    "scm\\sales-marketing\\delivery-schedules.md"
+  ],
+  "ef73ae07f4694d6f7578342388f24caa066706e8": [
+    "scm\\sales-marketing\\direct-deliveries.md"
+  ],
+  "5f9aff6b0196d010ad16996ef3cf51a1ef9aa3c3": [
+    "scm\\sales-marketing\\order-entry-deadlines.md"
+  ],
+  "db8c1c9393c87c2294f9266536ef1678ce1ad6c8": [
+    "scm\\sales-marketing\\overview-sales-marketing.md"
+  ],
+  "ef9587135ad4c71c705cd61452837360817c4a61": [
+    "scm\\sales-marketing\\price-simulation.md"
+  ],
+  "0be8ef70b41d60bdb4680688f558ab11cfa61247": [
+    "scm\\sales-marketing\\products-template-mapping.md"
+  ],
+  "51f416da59f2eedc7bbd135e752c1391c73b3717": [
+    "scm\\sales-marketing\\prospect-to-cash.md"
+  ],
+  "9b8f66d4b62b43b3a62af8d39631e7cd7f688a11": [
+    "scm\\sales-marketing\\register-serial-numbers-sales-process.md"
+  ],
+  "8d5491dd20066254183345743db38727e19e97e0": [
+    "scm\\sales-marketing\\reserve-same-batch-sales-order.md"
+  ],
+  "85c17c40ca02c8853c632880d61d7d269021a0b8": [
+    "scm\\sales-marketing\\sales-agreements.md"
+  ],
+  "88535eeda32e0fd176959437f014691db048ef46": [
+    "scm\\sales-marketing\\sales-orders-mobile-workspace.md"
+  ],
+  "0bb38beb6d766ac960455793b64cd61b01981660": [
+    "scm\\sales-marketing\\sales-quotation-template-mapping.md"
+  ],
+  "60c762a1c1b0e589603fd49bb07eaff524dd35cd": [
+    "scm\\TOC.md"
+  ],
+  "fddf3dd1b511024bb28bdcf1385cfeab7396eee8": [
+    "scm\\transportation\\create-bill-of-lading.md"
+  ],
+  "06bab33418d858c6380f60c561af3e4da15b7d62": [
+    "scm\\transportation\\create-new-transportation-management-engine.md"
+  ],
+  "aab833a35fa0e0d3c92cc18945ec69f784f4bd6e": [
+    "scm\\transportation\\plan-freight-transportation-routes-multiple-stops.md"
+  ],
+  "84252cfe034f45641601aedf5e213c24db37d6d1": [
+    "scm\\transportation\\plan-loads-hub-consolidation.md"
+  ],
+  "0710e32109a807f033c2dd2ad9b2f7778eb3bc60": [
+    "scm\\transportation\\reconcile-freight-transportation-management.md"
+  ],
+  "212f16c30c578faf4d89936f323eeea37650db61": [
+    "scm\\transportation\\transportation-management-engines.md"
+  ],
+  "965aeb66c780c91e19ff000910afe004b14a5a9f": [
+    "scm\\transportation\\transportation-management-overview.md"
+  ],
+  "a0a9818c0ad90e5407ba9115ea287e777585207e": [
+    "scm\\warehousing\\batch-and-license-plate-confirmation.md"
+  ],
+  "63d57dc3efdb5baa3ba13f83e9f549d66bcb9e07": [
+    "scm\\warehousing\\change-warehouse-mobile-device-displays.md"
+  ],
+  "f051193e576223e9a87f16faf581a098520224b9": [
+    "scm\\warehousing\\cluster-picking-item-confirmation.md"
+  ],
+  "cfa6592cd8213032283ac1f0ddd878a3acfbf055": [
+    "scm\\warehousing\\configure-app-field-names-priorities-warehouse.md"
+  ],
+  "42260b9d2e10182d067ef9d21989943b62f00278": [
+    "scm\\warehousing\\configure-mobile-devices-warehouse.md"
+  ],
+  "9498f9720b5d3c5fd9b6e96bad2b60b2625b08e7": [
+    "scm\\warehousing\\control-warehouse-location-directives.md"
+  ],
+  "a79570e1e201ceb9709ad9ae5de271c27a8fa2ea": [
+    "scm\\warehousing\\cycle-counting.md"
+  ],
+  "0a2cd6375097acf28ced10ee92959e4af5e78fba": [
+    "scm\\warehousing\\display-older-batches-within-warehouses.md"
+  ],
+  "c37489340ce7ed3ba638669938e2a9588e1e2522": [
+    "scm\\warehousing\\install-configure-warehousing-app.md"
+  ],
+  "aab108af6dd3b4c3daa65336d6ecf3e41035ecbe": [
+    "scm\\warehousing\\manage-warehouse-workers.md"
+  ],
+  "67ca98827b4f7977f2e5f482412fd16bf9b13803": [
+    "scm\\warehousing\\material-replenishment-withdrawal-kanban.md"
+  ],
+  "0df461389c4b4c5f2887a6375d2f15929ef41308": [
+    "scm\\warehousing\\mixed-license-plate-receiving.md"
+  ],
+  "c5c3ec618ed8ce66bba5fdc132e0d38cff484b21": [
+    "scm\\warehousing\\move-inventory-associated-work.md"
+  ],
+  "182f4db1c4510f627a4bc983c303824fd648d868": [
+    "scm\\warehousing\\pack-materials-packing-material-fees.md"
+  ],
+  "cacbbba179101152d70eb9ce60dfee1c90a21b41": [
+    "scm\\warehousing\\partial-location-cycle-counting.md"
+  ],
+  "9ebab3c33a006c91b1d40aaf98352487ad381947": [
+    "scm\\warehousing\\pick-oldest-batch.md"
+  ],
+  "213022f4a939323090197075c9a463002153f546": [
+    "scm\\warehousing\\piece-picking-confirmation.md"
+  ],
+  "6a449a6c524d0c50e228b685ee3354be232a728c": [
+    "scm\\warehousing\\replenishment.md"
+  ],
+  "15e3e03d5a27bb50fed554e8151bccf20d9c3f49": [
+    "scm\\warehousing\\sales-returns.md"
+  ],
+  "b056163a2767e8ddf3d6cc26350585d6f10325c0": [
+    "scm\\warehousing\\system-group-on-open-work-list.md"
+  ],
+  "d7ad2512b18f23c4d901d9daa2316f180d9e4849": [
+    "scm\\warehousing\\unit-measure-stocking-policies.md"
+  ],
+  "0b749972fb91809784a5b6cdf7fa118b51075f19": [
+    "scm\\warehousing\\upgrade-migration-warehouse-management-processes.md"
+  ],
+  "b24c68bbdd24566221f0c613fffb2dbda37469c4": [
+    "scm\\warehousing\\warehouse-configuration.md"
+  ],
+  "d920f29cdd000a200623e89a6602f124c43ee9fc": [
+    "scm\\warehousing\\warehouse-mobile-devices-portal.md"
+  ],
+  "d6dec6686f1a8d507dc155a3d1bf8446c6e5b64e": [
+    "scm\\warehousing\\warehouse-work-policies.md"
+  ]
+}
