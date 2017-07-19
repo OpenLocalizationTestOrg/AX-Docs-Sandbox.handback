@@ -1,6 +1,6 @@
 {
-  "LastProcessedCommit": "4ff576a91c7f7cecea03af0f1f6415d289cf2324",
-  "LastConfigHash": "1fc5e2b1e9a9ea4b85cc378418307d6129c93d2b",
+  "LastProcessedCommit": "dcf611aa627c26ebae2e057460474346e3524301",
+  "LastConfigHash": "80f48c3319dad2a444ecba45a1ffb4484d397331",
   "Items": {
     "4d690ddbe4dd75f8990421b3963630cf2c395770": {
       "FileHash": "4d690ddbe4dd75f8990421b3963630cf2c395770",
@@ -300,11 +300,11 @@
       ],
       "HasMetadata": true,
       "TranslationType": 1,
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\basic\\index.ae302b25ad5256540185ec85ca8bbbd8de0be8b4.es-es.xlf",
-      "HandoffFileCommit": "7f22c180f0d4d42fc4712d9fff592e08667201b8",
-      "HandoffDateTime": "2017-07-19T13:06:23.7695695Z",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\premium\\index.ae302b25ad5256540185ec85ca8bbbd8de0be8b4.es-es.xlf",
+      "HandoffFileCommit": "cbe575cccce6698835cea2e5c8a02d442e3b858f",
+      "HandoffDateTime": "2017-07-19T16:08:10.8166501Z",
       "HandoffXliffHash": "a894a8691fefe95ab8c59c75808d4160c84f5563",
-      "HandoffPriority": "basic"
+      "HandoffPriority": "premium"
     },
     "cfdf3ecfe6684807080965d81072794f9307f902": {
       "FileHash": "cfdf3ecfe6684807080965d81072794f9307f902",
@@ -731,11 +731,11 @@
       ],
       "HasMetadata": true,
       "TranslationType": 1,
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\basic\\bi-reporting-home-page.50b30ee289670fc4682f3df560fe8de71bab4891.es-es.xlf",
-      "HandoffFileCommit": "7f22c180f0d4d42fc4712d9fff592e08667201b8",
-      "HandoffDateTime": "2017-07-19T13:06:23.7695695Z",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\premium\\bi-reporting-home-page.50b30ee289670fc4682f3df560fe8de71bab4891.es-es.xlf",
+      "HandoffFileCommit": "cbe575cccce6698835cea2e5c8a02d442e3b858f",
+      "HandoffDateTime": "2017-07-19T16:08:10.8166501Z",
       "HandoffXliffHash": "fdd237c48ce8240dbba19276fe0814f899d09403",
-      "HandoffPriority": "basic"
+      "HandoffPriority": "premium"
     },
     "fe0848b51253c3975462832d82314508ea2003d3": {
       "FileHash": "fe0848b51253c3975462832d82314508ea2003d3",
@@ -1643,11 +1643,11 @@
       ],
       "HasMetadata": true,
       "TranslationType": 1,
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\basic\\country-region.25039eba4aeffb6c856d86095cd713a4a54ac690.es-es.xlf",
-      "HandoffFileCommit": "7f22c180f0d4d42fc4712d9fff592e08667201b8",
-      "HandoffDateTime": "2017-07-19T13:06:23.7695695Z",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\premium\\country-region.25039eba4aeffb6c856d86095cd713a4a54ac690.es-es.xlf",
+      "HandoffFileCommit": "cbe575cccce6698835cea2e5c8a02d442e3b858f",
+      "HandoffDateTime": "2017-07-19T16:08:10.8166501Z",
       "HandoffXliffHash": "8cf3bfb0eefa98e215d2b50ef7716a607f45cad4",
-      "HandoffPriority": "basic"
+      "HandoffPriority": "premium"
     },
     "1a967370a9bd1ff7d79752b49d497a920edde787": {
       "FileHash": "1a967370a9bd1ff7d79752b49d497a920edde787",
@@ -1914,11 +1914,11 @@
       ],
       "HasMetadata": true,
       "TranslationType": 1,
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\basic\\accounts-payable.abd99e977ea528e10b6bead4d6b395a0698f53ad.es-es.xlf",
-      "HandoffFileCommit": "7f22c180f0d4d42fc4712d9fff592e08667201b8",
-      "HandoffDateTime": "2017-07-19T13:06:23.7851947Z",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\premium\\accounts-payable.abd99e977ea528e10b6bead4d6b395a0698f53ad.es-es.xlf",
+      "HandoffFileCommit": "cbe575cccce6698835cea2e5c8a02d442e3b858f",
+      "HandoffDateTime": "2017-07-19T16:08:10.8166501Z",
       "HandoffXliffHash": "80fe27a0b0e6c9b0f8bef9df16fe7adf42752e9f",
-      "HandoffPriority": "basic"
+      "HandoffPriority": "premium"
     },
     "c0c177a17f15eccf7fe21c115dbf657054e02150": {
       "FileHash": "c0c177a17f15eccf7fe21c115dbf657054e02150",
@@ -2442,11 +2442,11 @@
       ],
       "HasMetadata": true,
       "TranslationType": 1,
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\basic\\accounts-receivable.ca8c0011044c5453fdf3d5b239d3077db0ffc899.es-es.xlf",
-      "HandoffFileCommit": "7f22c180f0d4d42fc4712d9fff592e08667201b8",
-      "HandoffDateTime": "2017-07-19T13:06:23.7695695Z",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\premium\\accounts-receivable.ca8c0011044c5453fdf3d5b239d3077db0ffc899.es-es.xlf",
+      "HandoffFileCommit": "cbe575cccce6698835cea2e5c8a02d442e3b858f",
+      "HandoffDateTime": "2017-07-19T16:08:10.8166501Z",
       "HandoffXliffHash": "41ed4c983872949afbda28bd8e52d0082fdd6cf8",
-      "HandoffPriority": "basic"
+      "HandoffPriority": "premium"
     },
     "753d94bdcb03e4f7a33991423516c835487330f0": {
       "FileHash": "753d94bdcb03e4f7a33991423516c835487330f0",
@@ -2858,11 +2858,11 @@
       ],
       "HasMetadata": true,
       "TranslationType": 1,
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\basic\\budgeting-overview.f6b74e5392d859f959fa26bd2df6437d02d5378a.es-es.xlf",
-      "HandoffFileCommit": "7f22c180f0d4d42fc4712d9fff592e08667201b8",
-      "HandoffDateTime": "2017-07-19T13:06:23.7695695Z",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\premium\\budgeting-overview.f6b74e5392d859f959fa26bd2df6437d02d5378a.es-es.xlf",
+      "HandoffFileCommit": "cbe575cccce6698835cea2e5c8a02d442e3b858f",
+      "HandoffDateTime": "2017-07-19T16:08:10.8166501Z",
       "HandoffXliffHash": "c13ca20ddef80c7d2a75371090069361f5951c0b",
-      "HandoffPriority": "basic"
+      "HandoffPriority": "premium"
     },
     "608ec87233acb05b0d46e367bcb7cd14985d7813": {
       "FileHash": "608ec87233acb05b0d46e367bcb7cd14985d7813",
@@ -3114,11 +3114,11 @@
       ],
       "HasMetadata": true,
       "TranslationType": 1,
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\basic\\cash-bank-management.350776f74284f7777fdea2638008a55b4465765e.es-es.xlf",
-      "HandoffFileCommit": "7f22c180f0d4d42fc4712d9fff592e08667201b8",
-      "HandoffDateTime": "2017-07-19T13:06:23.7851947Z",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\premium\\cash-bank-management.350776f74284f7777fdea2638008a55b4465765e.es-es.xlf",
+      "HandoffFileCommit": "cbe575cccce6698835cea2e5c8a02d442e3b858f",
+      "HandoffDateTime": "2017-07-19T16:08:10.8166501Z",
       "HandoffXliffHash": "013878c199c61beafe56ccca306b05237c14b435",
-      "HandoffPriority": "basic"
+      "HandoffPriority": "premium"
     },
     "5604f806eed81c60dfcae7cb7b1a22bba25aa454": {
       "FileHash": "5604f806eed81c60dfcae7cb7b1a22bba25aa454",
@@ -4010,11 +4010,11 @@
       ],
       "HasMetadata": true,
       "TranslationType": 1,
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\basic\\fixed-assets.ee7bc08533bf143bcebb40fdb9ce8c29368576bf.es-es.xlf",
-      "HandoffFileCommit": "7f22c180f0d4d42fc4712d9fff592e08667201b8",
-      "HandoffDateTime": "2017-07-19T13:06:23.7851947Z",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\premium\\fixed-assets.ee7bc08533bf143bcebb40fdb9ce8c29368576bf.es-es.xlf",
+      "HandoffFileCommit": "cbe575cccce6698835cea2e5c8a02d442e3b858f",
+      "HandoffDateTime": "2017-07-19T16:08:10.8166501Z",
       "HandoffXliffHash": "8b994b4ed4706bf0df9707aabf1443b935faffaa",
-      "HandoffPriority": "basic"
+      "HandoffPriority": "premium"
     },
     "3b89b2ed1a2a4286ddaaa50b9726da02bbf3825d": {
       "FileHash": "3b89b2ed1a2a4286ddaaa50b9726da02bbf3825d",
@@ -4795,11 +4795,11 @@
       ],
       "HasMetadata": true,
       "TranslationType": 1,
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\basic\\index.b2a7ba7beb8961ac1e364337b032b044bb4a963c.es-es.xlf",
-      "HandoffFileCommit": "7f22c180f0d4d42fc4712d9fff592e08667201b8",
-      "HandoffDateTime": "2017-07-19T13:06:23.7851947Z",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\premium\\index.b2a7ba7beb8961ac1e364337b032b044bb4a963c.es-es.xlf",
+      "HandoffFileCommit": "cbe575cccce6698835cea2e5c8a02d442e3b858f",
+      "HandoffDateTime": "2017-07-19T16:08:10.8166501Z",
       "HandoffXliffHash": "e3e139ce754e309fe0359aea31347912a08d3175",
-      "HandoffPriority": "basic"
+      "HandoffPriority": "premium"
     },
     "6856a52ce85d31c4ef8225e56159e8a7ec698fd7": {
       "FileHash": "6856a52ce85d31c4ef8225e56159e8a7ec698fd7",
@@ -5577,11 +5577,11 @@
       ],
       "HasMetadata": true,
       "TranslationType": 1,
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\basic\\index.b7185970df05b8705ca4e77a96476ae4b89bab86.es-es.xlf",
-      "HandoffFileCommit": "7f22c180f0d4d42fc4712d9fff592e08667201b8",
-      "HandoffDateTime": "2017-07-19T13:06:23.7695695Z",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\premium\\index.b7185970df05b8705ca4e77a96476ae4b89bab86.es-es.xlf",
+      "HandoffFileCommit": "cbe575cccce6698835cea2e5c8a02d442e3b858f",
+      "HandoffDateTime": "2017-07-19T16:08:10.8166501Z",
       "HandoffXliffHash": "3445a596d7143ad93e8822b61bdedcafb8ce0f14",
-      "HandoffPriority": "basic"
+      "HandoffPriority": "premium"
     },
     "14efefce1b2b402953964eb9e838354eb16ad199": {
       "FileHash": "14efefce1b2b402953964eb9e838354eb16ad199",
@@ -6023,11 +6023,11 @@
       ],
       "HasMetadata": true,
       "TranslationType": 1,
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\basic\\index.b824957e70e2b5355c8b5d0c6ef1ab8d441a30a6.es-es.xlf",
-      "HandoffFileCommit": "7f22c180f0d4d42fc4712d9fff592e08667201b8",
-      "HandoffDateTime": "2017-07-19T13:06:23.7695695Z",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\premium\\index.b824957e70e2b5355c8b5d0c6ef1ab8d441a30a6.es-es.xlf",
+      "HandoffFileCommit": "cbe575cccce6698835cea2e5c8a02d442e3b858f",
+      "HandoffDateTime": "2017-07-19T16:08:10.8166501Z",
       "HandoffXliffHash": "c56d7408f5fbdd78ab3394dcb18ecb99829d23ec",
-      "HandoffPriority": "basic"
+      "HandoffPriority": "premium"
     },
     "ce7cdd22d10c98cef6bf7b2567f0c7b776e04483": {
       "FileHash": "ce7cdd22d10c98cef6bf7b2567f0c7b776e04483",
@@ -7254,11 +7254,11 @@
       ],
       "HasMetadata": true,
       "TranslationType": 1,
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\basic\\index.dc0f10fc720e5f94c8190d85d2a1745dde31309a.es-es.xlf",
-      "HandoffFileCommit": "7f22c180f0d4d42fc4712d9fff592e08667201b8",
-      "HandoffDateTime": "2017-07-19T13:06:23.7851947Z",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\premium\\index.dc0f10fc720e5f94c8190d85d2a1745dde31309a.es-es.xlf",
+      "HandoffFileCommit": "cbe575cccce6698835cea2e5c8a02d442e3b858f",
+      "HandoffDateTime": "2017-07-19T16:08:10.8166501Z",
       "HandoffXliffHash": "c0404e75a896b31fe7d9170e941ba49544b42070",
-      "HandoffPriority": "basic"
+      "HandoffPriority": "premium"
     },
     "c9f80fe79076b4e45b0095430eabbd0ec514f13a": {
       "FileHash": "c9f80fe79076b4e45b0095430eabbd0ec514f13a",
@@ -9845,11 +9845,107 @@
       ],
       "HasMetadata": true,
       "TranslationType": 1,
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\basic\\action-search.78e375d5f16ae67b9c9004fbf99402dab448d8bf.es-es.xlf",
-      "HandoffFileCommit": "7f22c180f0d4d42fc4712d9fff592e08667201b8",
-      "HandoffDateTime": "2017-07-19T13:06:23.7695695Z",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\business-process\\action-search.78e375d5f16ae67b9c9004fbf99402dab448d8bf.es-es.xlf",
+      "HandoffFileCommit": "cbe575cccce6698835cea2e5c8a02d442e3b858f",
+      "HandoffDateTime": "2017-07-19T16:08:10.8166501Z",
       "HandoffXliffHash": "f93de8b77852d81a978d1b7382598a0bd6529d53",
-      "HandoffPriority": "basic"
+      "HandoffPriority": "business-process"
+    },
+    "3b12f0c80703ebbbe0e7bc4e54a1980146fe64a5": {
+      "FileHash": "3b12f0c80703ebbbe0e7bc4e54a1980146fe64a5",
+      "SourceFileCommit": "dcf611aa627c26ebae2e057460474346e3524301",
+      "SourceFilePath": "core\\get-started\\navigation-search.md",
+      "HandoffReason": 1,
+      "FilePathList": [
+        "core\\get-started\\navigation-search.md"
+      ],
+      "HasMetadata": true,
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\business-process\\navigation-search.8b7c3f253ccc6f938e37b04b1397193f188ed8b8.es-es.xlf",
+      "HandoffFileCommit": "cbe575cccce6698835cea2e5c8a02d442e3b858f",
+      "HandoffDateTime": "2017-07-19T16:08:10.8166501Z",
+      "HandoffXliffHash": "e03d5ed0102919aa0eb78c64bd3380c02789e1e7",
+      "HandoffPriority": "business-process"
+    },
+    "25cd6e6b8e3c8f846a1f23aeac68b36952cb1c1c": {
+      "FileHash": "25cd6e6b8e3c8f846a1f23aeac68b36952cb1c1c",
+      "SourceFileCommit": "dcf611aa627c26ebae2e057460474346e3524301",
+      "SourceFilePath": "dev-itpro\\dev-tools\\continuous-delivery-home-page.md",
+      "HandoffReason": 1,
+      "FilePathList": [
+        "dev-itpro\\dev-tools\\continuous-delivery-home-page.md"
+      ],
+      "HasMetadata": true,
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\premium\\continuous-delivery-home-page.1ed311f360ce5aabda39d10383601b69649ab1ab.es-es.xlf",
+      "HandoffFileCommit": "cbe575cccce6698835cea2e5c8a02d442e3b858f",
+      "HandoffDateTime": "2017-07-19T16:08:10.8166501Z",
+      "HandoffXliffHash": "1a5d25d0068267b72e748c42574f483848e0c5b3",
+      "HandoffPriority": "premium"
+    },
+    "667710fd3fb9f162a2d05b36cc17a1bbbd12bcdd": {
+      "FileHash": "667710fd3fb9f162a2d05b36cc17a1bbbd12bcdd",
+      "SourceFileCommit": "dcf611aa627c26ebae2e057460474346e3524301",
+      "SourceFilePath": "dev-itpro\\dev-tools\\developer-home-page.md",
+      "HandoffReason": 1,
+      "FilePathList": [
+        "dev-itpro\\dev-tools\\developer-home-page.md"
+      ],
+      "HasMetadata": true,
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\premium\\developer-home-page.03dfcd17ae58422821c32ba141072b22764affab.es-es.xlf",
+      "HandoffFileCommit": "cbe575cccce6698835cea2e5c8a02d442e3b858f",
+      "HandoffDateTime": "2017-07-19T16:08:10.8166501Z",
+      "HandoffXliffHash": "8f2508b31853ae02645b0ffb3f74ca30570bd706",
+      "HandoffPriority": "premium"
+    },
+    "ea1a1624d3eca55eef3691d7c0c54c0e6f778a7c": {
+      "FileHash": "ea1a1624d3eca55eef3691d7c0c54c0e6f778a7c",
+      "SourceFileCommit": "dcf611aa627c26ebae2e057460474346e3524301",
+      "SourceFilePath": "dev-itpro\\extensibility\\extensibility-home-page.md",
+      "HandoffReason": 1,
+      "FilePathList": [
+        "dev-itpro\\extensibility\\extensibility-home-page.md"
+      ],
+      "HasMetadata": true,
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\premium\\extensibility-home-page.9e5cea6c1a51e5f9d4df08a28d3dae2ae1a52e6b.es-es.xlf",
+      "HandoffFileCommit": "cbe575cccce6698835cea2e5c8a02d442e3b858f",
+      "HandoffDateTime": "2017-07-19T16:08:10.8166501Z",
+      "HandoffXliffHash": "a02fe715ff2373ef70bc76f1f0e035418614d974",
+      "HandoffPriority": "premium"
+    },
+    "eca88a8ce5f92680439f3a528c252ad8c4073f8d": {
+      "FileHash": "eca88a8ce5f92680439f3a528c252ad8c4073f8d",
+      "SourceFileCommit": "dcf611aa627c26ebae2e057460474346e3524301",
+      "SourceFilePath": "dev-itpro\\index.md",
+      "HandoffReason": 1,
+      "FilePathList": [
+        "dev-itpro\\index.md"
+      ],
+      "HasMetadata": true,
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\premium\\index.fb87281ef628436b88d3e05b1b2c7b496889daa2.es-es.xlf",
+      "HandoffFileCommit": "cbe575cccce6698835cea2e5c8a02d442e3b858f",
+      "HandoffDateTime": "2017-07-19T16:08:10.8166501Z",
+      "HandoffXliffHash": "e2fe3d3695f1df2102c5066b583b444f4a4909c8",
+      "HandoffPriority": "premium"
+    },
+    "bb9648279c368867a70b41684e3ee7f3b2fe1f3f": {
+      "FileHash": "bb9648279c368867a70b41684e3ee7f3b2fe1f3f",
+      "SourceFileCommit": "dcf611aa627c26ebae2e057460474346e3524301",
+      "SourceFilePath": "dev-itpro\\migration-upgrade\\upgrade-home-page.md",
+      "HandoffReason": 1,
+      "FilePathList": [
+        "dev-itpro\\migration-upgrade\\upgrade-home-page.md"
+      ],
+      "HasMetadata": true,
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.es-es\\master\\premium\\upgrade-home-page.879fa703c175e4e0ad4ad4eb9996e893841bcba1.es-es.xlf",
+      "HandoffFileCommit": "cbe575cccce6698835cea2e5c8a02d442e3b858f",
+      "HandoffDateTime": "2017-07-19T16:08:10.8166501Z",
+      "HandoffXliffHash": "5661b685626480c68df52fadf4f612f7cd98dbf3",
+      "HandoffPriority": "premium"
     }
   }
 }
