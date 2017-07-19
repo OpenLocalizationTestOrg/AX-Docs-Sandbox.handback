@@ -2,20 +2,17 @@
   "4d690ddbe4dd75f8990421b3963630cf2c395770": [
     "core\\breadcrumb\\toc.yml"
   ],
+  "04508b0633b1ff110d1fe02489049fd98fc9893e": [
+    "core\\get-started\\action-search.md"
+  ],
   "9b9bb0acc6f0dc1722c916f133eed766ffdd4cc8": [
     "core\\get-started\\action-search.md"
   ],
-  "616366009ce7bf7135704e980becc331617cf5af": [
-    "core\\get-started\\advanced-filtering-query-options.md"
-  ],
-  "ede85a744f1215ad9eb91f7dba20a01c49f1b198": [
-    "core\\get-started\\client-faq.md"
+  "d14bfaa17b8d84d3a041635fec361743823be804": [
+    "core\\get-started\\configure-filter-workspaces.md"
   ],
   "485e8e68aa1f773d62f9ad55f39b3676fb1f0231": [
     "core\\get-started\\configure-filter-workspaces.md"
-  ],
-  "53effee61843fec679b61a5fb4312876b6a3556d": [
-    "core\\get-started\\display-pages-side-by-side.md"
   ],
   "d9d67e94e7e844377b26041649cf1ff19ee2d18f": [
     "core\\get-started\\glossary.md"
@@ -953,9 +950,6 @@
   ],
   "72d5f5ae23a8e5fe2d39128bbec2a4f3d79079d9": [
     "financials\\localizations\\emea-tax-directives.md"
-  ],
-  "44edc845c92db2ada966c77e4dec81f53bcf9bb0": [
-    "financials\\localizations\\noam-usa-form-1099-public-sector.md"
   ],
   "9d3ffecab8176a44a402818c206dfcc1fb2183e1": [
     "financials\\project-management\\intercompany-invoicing.md"
