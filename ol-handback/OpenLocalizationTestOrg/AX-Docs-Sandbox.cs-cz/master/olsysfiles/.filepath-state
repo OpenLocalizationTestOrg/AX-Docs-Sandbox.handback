@@ -1868,5 +1868,53 @@
   ],
   "bb9648279c368867a70b41684e3ee7f3b2fe1f3f": [
     "dev-itpro\\migration-upgrade\\upgrade-home-page.md"
+  ],
+  "87e4f18a84e1ebfef50699c728ad210611b0b315": [
+    "financials\\localizations\\advance-payment-employee.md"
+  ],
+  "32aeade3b93d27020654d18e1cd442fe657067ff": [
+    "financials\\localizations\\create-export-vendor-payments-iso20022-payment-format.md"
+  ],
+  "f5db3106dd06f44936624f4d7ce02dbf096cbf6c": [
+    "financials\\localizations\\create-payments-customers-who-have-direct-debit-mandates.md"
+  ],
+  "a0c35456a655a82ef08c1af9a865c6af985da2a2": [
+    "financials\\localizations\\create-submit-vat-report.md"
+  ],
+  "f410c0d8b8367b7ccc1fca1cbc1912b7bd4afbe0": [
+    "financials\\localizations\\eur-00002-eu-intrastat-declaration.md"
+  ],
+  "8cf2c8d3fb7ac5629653437636aacb4448f4a12f": [
+    "financials\\localizations\\eur-00002-specify-lading-address-intra-community.md"
+  ],
+  "50dfb89f0b62845e1247a751ec6662fe0cb15b8c": [
+    "financials\\localizations\\eur-00011-eu-sales-list-report.md"
+  ],
+  "d6b4e185e70c91453704683953ac299cad940568": [
+    "financials\\localizations\\eur-00011-eu-sales-list-reporting.md"
+  ],
+  "57530da9b9278d6aa0e94e69e9f830f71a0c6b00": [
+    "financials\\localizations\\eur-00012-issue-eu-entry-certificate.md"
+  ],
+  "0d366090699dd233d4bf4de76289c5730e8b4382": [
+    "financials\\localizations\\eur-00012-receive-eu-entry-certificate.md"
+  ],
+  "6e67db0ef1fdf70705193257df0a057def79fa73": [
+    "financials\\localizations\\eur-00015-party-search-vat-id.md"
+  ],
+  "fc76dfedc9ecd95345a1140449ffa01fed983bf8": [
+    "financials\\localizations\\eur-00015-registration-vendor-vat-id.md"
+  ],
+  "5d26768775b2ccd6653cac516d51cd5512339694": [
+    "financials\\localizations\\eur-00015-vat-id.md"
+  ],
+  "352de1759273ac129f0c28930598999d295862c7": [
+    "financials\\localizations\\eur-00018-vat-reconciliation-report.md"
+  ],
+  "9fe774849a1105dc5cc36ffc5fde7ea0ee1d0ce7": [
+    "financials\\localizations\\import-iso20022-credit-transfer-configuration.md"
+  ],
+  "6fdd58e572fe061db15ab69e89386ce63fb3b86c": [
+    "financials\\localizations\\import-iso20022-direct-debit-configuration.md"
   ]
 }
