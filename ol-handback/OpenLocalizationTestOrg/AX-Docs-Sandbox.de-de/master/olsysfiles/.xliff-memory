@@ -1678,7 +1678,7 @@
       "SourceFilename": "core\\get-started\\client-faq.md",
       "XliffHash": "de63a3e821b373cec210178d2d14cd4d7967e832",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\ede85a744f1215ad9eb91f7dba20a01c49f1b198.8ac077043eeee6b51b523cbdcf9561eb7779a076.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\570b5c8d192ab87977a34f9534f27e54931543b1.7bcd3b51bd12a84fef0bd5f13634962f10f95e87.xml"
     },
     "financials\\accounts-payable\\invoice-matching-intercompany-purchase-orders.md.304a0703e9ee66b85b92bd7e57a2f431f8d4bd40.HT": {
       "SourceFilename": "financials\\accounts-payable\\invoice-matching-intercompany-purchase-orders.md",
@@ -1852,7 +1852,7 @@
       "SourceFilename": "core\\get-started\\action-search.md",
       "XliffHash": "f93de8b77852d81a978d1b7382598a0bd6529d53",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\9b9bb0acc6f0dc1722c916f133eed766ffdd4cc8.9b6f2e939c3a0e89d652d50536c2964434667b3d.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.de-de\\master\\04508b0633b1ff110d1fe02489049fd98fc9893e.14381b2a39be8fde06990fd7015734caca51ff33.xml"
     },
     "scm\\warehousing\\cluster-picking-item-confirmation.md.325ebb10810c88a4a4a545e8df48f040ee2ed816.HT": {
       "SourceFilename": "scm\\warehousing\\cluster-picking-item-confirmation.md",
