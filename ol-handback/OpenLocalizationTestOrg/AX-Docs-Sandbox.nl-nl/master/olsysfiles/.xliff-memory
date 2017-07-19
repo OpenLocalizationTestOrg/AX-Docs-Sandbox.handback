@@ -3647,6 +3647,42 @@
       "XliffHash": "030f477cba5fd95de051b93400f9927ce038874c",
       "TranslationType": 1,
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.nl-nl\\master\\a9507ac4fb1c00cb5892de9fc50e7f563812c92f.fb133a289a876800007fbdc09dd397a2d31824ec.xml"
+    },
+    "dev-itpro\\index.md.e2fe3d3695f1df2102c5066b583b444f4a4909c8.HT": {
+      "SourceFilename": "dev-itpro\\index.md",
+      "XliffHash": "e2fe3d3695f1df2102c5066b583b444f4a4909c8",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.nl-nl\\master\\eca88a8ce5f92680439f3a528c252ad8c4073f8d.885394c4a0051209b35e075ba5f71820b8758442.xml"
+    },
+    "dev-itpro\\extensibility\\extensibility-home-page.md.a02fe715ff2373ef70bc76f1f0e035418614d974.HT": {
+      "SourceFilename": "dev-itpro\\extensibility\\extensibility-home-page.md",
+      "XliffHash": "a02fe715ff2373ef70bc76f1f0e035418614d974",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.nl-nl\\master\\ea1a1624d3eca55eef3691d7c0c54c0e6f778a7c.552dd3c3a976570f1a47da1ff4474b3a0d89df5a.xml"
+    },
+    "dev-itpro\\dev-tools\\continuous-delivery-home-page.md.1a5d25d0068267b72e748c42574f483848e0c5b3.HT": {
+      "SourceFilename": "dev-itpro\\dev-tools\\continuous-delivery-home-page.md",
+      "XliffHash": "1a5d25d0068267b72e748c42574f483848e0c5b3",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.nl-nl\\master\\25cd6e6b8e3c8f846a1f23aeac68b36952cb1c1c.41366e503cd73a85f0d029ad9016bffe4e198e26.xml"
+    },
+    "dev-itpro\\dev-tools\\developer-home-page.md.8f2508b31853ae02645b0ffb3f74ca30570bd706.HT": {
+      "SourceFilename": "dev-itpro\\dev-tools\\developer-home-page.md",
+      "XliffHash": "8f2508b31853ae02645b0ffb3f74ca30570bd706",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.nl-nl\\master\\667710fd3fb9f162a2d05b36cc17a1bbbd12bcdd.b045171af0b9cb8bd77cc182ab1ad0cc66005e57.xml"
+    },
+    "core\\get-started\\navigation-search.md.e03d5ed0102919aa0eb78c64bd3380c02789e1e7.HT": {
+      "SourceFilename": "core\\get-started\\navigation-search.md",
+      "XliffHash": "e03d5ed0102919aa0eb78c64bd3380c02789e1e7",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.nl-nl\\master\\3b12f0c80703ebbbe0e7bc4e54a1980146fe64a5.34ed3f267ffa5852bad25ef2965451288f796a07.xml"
+    },
+    "dev-itpro\\migration-upgrade\\upgrade-home-page.md.5661b685626480c68df52fadf4f612f7cd98dbf3.HT": {
+      "SourceFilename": "dev-itpro\\migration-upgrade\\upgrade-home-page.md",
+      "XliffHash": "5661b685626480c68df52fadf4f612f7cd98dbf3",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.nl-nl\\master\\bb9648279c368867a70b41684e3ee7f3b2fe1f3f.f90a666adbf71ab061e5e5d57a9cc8008e02140a.xml"
     }
   }
 }
