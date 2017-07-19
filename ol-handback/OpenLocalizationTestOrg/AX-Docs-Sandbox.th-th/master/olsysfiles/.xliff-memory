@@ -3599,6 +3599,36 @@
       "XliffHash": "5661b685626480c68df52fadf4f612f7cd98dbf3",
       "TranslationType": 1,
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.th-th\\master\\bb9648279c368867a70b41684e3ee7f3b2fe1f3f.f90a666adbf71ab061e5e5d57a9cc8008e02140a.xml"
+    },
+    "financials\\localizations\\create-export-vendor-payments-iso20022-payment-format.md.5b32af45607189b60a406c1f2e24563f8a37e550.HT": {
+      "SourceFilename": "financials\\localizations\\create-export-vendor-payments-iso20022-payment-format.md",
+      "XliffHash": "5b32af45607189b60a406c1f2e24563f8a37e550",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.th-th\\master\\32aeade3b93d27020654d18e1cd442fe657067ff.b7da2b395315912c1b965eed502070b9a2eafdd9.xml"
+    },
+    "financials\\localizations\\import-iso20022-credit-transfer-configuration.md.f32ffc4abe2bb1aa68671a7bda90940e8f3a74c3.HT": {
+      "SourceFilename": "financials\\localizations\\import-iso20022-credit-transfer-configuration.md",
+      "XliffHash": "f32ffc4abe2bb1aa68671a7bda90940e8f3a74c3",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.th-th\\master\\9fe774849a1105dc5cc36ffc5fde7ea0ee1d0ce7.e3e63b6659f7958407a7251ad8c899e0c562e556.xml"
+    },
+    "financials\\localizations\\create-submit-vat-report.md.bc0928cdfd712d06daa989257c693b7af0377ad8.HT": {
+      "SourceFilename": "financials\\localizations\\create-submit-vat-report.md",
+      "XliffHash": "bc0928cdfd712d06daa989257c693b7af0377ad8",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.th-th\\master\\a0c35456a655a82ef08c1af9a865c6af985da2a2.2abd1f74c3fe890ca8c93689738fc742abb37dbb.xml"
+    },
+    "financials\\localizations\\create-payments-customers-who-have-direct-debit-mandates.md.2376669e7f059597e289c66a92113d8c255b0e8e.HT": {
+      "SourceFilename": "financials\\localizations\\create-payments-customers-who-have-direct-debit-mandates.md",
+      "XliffHash": "2376669e7f059597e289c66a92113d8c255b0e8e",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.th-th\\master\\f5db3106dd06f44936624f4d7ce02dbf096cbf6c.4f0b21062036af2e1ac7469eeb60e53983989ae0.xml"
+    },
+    "financials\\localizations\\import-iso20022-direct-debit-configuration.md.a5cb0be29ca74c0d72c601b0baa730e1dc557a0d.HT": {
+      "SourceFilename": "financials\\localizations\\import-iso20022-direct-debit-configuration.md",
+      "XliffHash": "a5cb0be29ca74c0d72c601b0baa730e1dc557a0d",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.th-th\\master\\6fdd58e572fe061db15ab69e89386ce63fb3b86c.8ba97beeaf6768dac81c7edae670cbf1000c8819.xml"
     }
   }
 }
