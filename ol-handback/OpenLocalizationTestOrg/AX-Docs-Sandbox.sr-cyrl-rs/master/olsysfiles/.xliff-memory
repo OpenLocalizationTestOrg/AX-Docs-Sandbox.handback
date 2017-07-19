@@ -124,7 +124,7 @@
       "SourceFilename": "core\\get-started\\configure-filter-workspaces.md",
       "XliffHash": "9e3cf4073f04990e5151d3fd002d58aac3483eea",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\485e8e68aa1f773d62f9ad55f39b3676fb1f0231.1397b3b0f4792ca695e28e358ef12ead1dbcd184.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\d14bfaa17b8d84d3a041635fec361743823be804.42648fae3639d606eb22da3f6ae1305ad7fe19bd.xml"
     },
     "financials\\cash-bank-management\\Bank-management-workspace.md.6e5ffe1b0d12c31b61d08948b6a150ecb206961b.HT": {
       "SourceFilename": "financials\\cash-bank-management\\Bank-management-workspace.md",
@@ -916,7 +916,7 @@
       "SourceFilename": "core\\get-started\\advanced-filtering-query-options.md",
       "XliffHash": "6d8ca27f21c6c29e2b876c9da59f56198888f05e",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\616366009ce7bf7135704e980becc331617cf5af.8630cc2234b2b4e708efc799e2f7845cf1fce7f3.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\307cedcba459afcc436442e89acd0108a85b8414.8e5864ace5ea18a47183847e39019aa02009a705.xml"
     },
     "scm\\sales-marketing\\price-simulation.md.467555304f8abc8d70559341ce38e55beb78b7eb.HT": {
       "SourceFilename": "scm\\sales-marketing\\price-simulation.md",
@@ -3604,7 +3604,7 @@
       "SourceFilename": "core\\get-started\\client-faq.md",
       "XliffHash": "de63a3e821b373cec210178d2d14cd4d7967e832",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\ede85a744f1215ad9eb91f7dba20a01c49f1b198.8ac077043eeee6b51b523cbdcf9561eb7779a076.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\570b5c8d192ab87977a34f9534f27e54931543b1.7bcd3b51bd12a84fef0bd5f13634962f10f95e87.xml"
     },
     "financials\\accounts-payable\\invoice-matching-intercompany-purchase-orders.md.304a0703e9ee66b85b92bd7e57a2f431f8d4bd40.HT": {
       "SourceFilename": "financials\\accounts-payable\\invoice-matching-intercompany-purchase-orders.md",
@@ -3916,7 +3916,7 @@
       "SourceFilename": "core\\get-started\\action-search.md",
       "XliffHash": "f93de8b77852d81a978d1b7382598a0bd6529d53",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\9b9bb0acc6f0dc1722c916f133eed766ffdd4cc8.9b6f2e939c3a0e89d652d50536c2964434667b3d.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\04508b0633b1ff110d1fe02489049fd98fc9893e.14381b2a39be8fde06990fd7015734caca51ff33.xml"
     },
     "scm\\warehousing\\cluster-picking-item-confirmation.md.325ebb10810c88a4a4a545e8df48f040ee2ed816.HT": {
       "SourceFilename": "scm\\warehousing\\cluster-picking-item-confirmation.md",
@@ -4432,7 +4432,7 @@
       "SourceFilename": "core\\get-started\\display-pages-side-by-side.md",
       "XliffHash": "3b3ce2c6c37ae446e661d75d97ba8bbb067f3d46",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\53effee61843fec679b61a5fb4312876b6a3556d.86781ec828ca7726163c0bdfd853b33aad1b9dc4.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.sr-cyrl-rs\\master\\2bf8c92cf0e54c07b100a87ff39d2c9764e48c01.ab2ba643f78d4fd0eaacc92888ed665b5168dba0.xml"
     },
     "financials\\cash-bank-management\\cash-discount-handling-overpayments.md.6b7b67efabf6d03c687bae38485c887bde39ec18.HT": {
       "SourceFilename": "financials\\cash-bank-management\\cash-discount-handling-overpayments.md",
