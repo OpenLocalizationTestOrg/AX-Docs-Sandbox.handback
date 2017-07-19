@@ -1817,5 +1817,131 @@
   ],
   "bb9648279c368867a70b41684e3ee7f3b2fe1f3f": [
     "dev-itpro\\migration-upgrade\\upgrade-home-page.md"
+  ],
+  "542d310af679a94c47b3ab6228f3206782ac427e": [
+    "financials\\localizations\\acquire-fixed-asset-asset-retirement-obligations.md"
+  ],
+  "43704da21858a90b4699612a9a286d153f634912": [
+    "financials\\localizations\\acquire-fixed-asset-claim-government-grant-subsidy.md"
+  ],
+  "016de65dc0dda38bbece6963d3a713e98580829e": [
+    "financials\\localizations\\adjustment-asset-retirement-obligation-estimate.md"
+  ],
+  "9d07c62aa28e6ef917a995eaf94688a280f1f446": [
+    "financials\\localizations\\allocate-carrying-amount.md"
+  ],
+  "d719aab96cbb62edec5764571a0a8512f6abebf6": [
+    "financials\\localizations\\change-depreciation-method-during-asset-life-book.md"
+  ],
+  "e04dc7910ba363618f563f065670ac97f055755e": [
+    "financials\\localizations\\change-depreciation-method-during-asset-life-one-asset.md"
+  ],
+  "f6362c358cfbe5f7b1f63e61c7e1bcfa2ed87e22": [
+    "financials\\localizations\\configure-depreciation-profile.md"
+  ],
+  "b3d09541e4b8e43ba7616feb094f09d8590b917b": [
+    "financials\\localizations\\configure-depreciation-profile-posting.md"
+  ],
+  "897e6ac94ced586bdec6227cd399473632b69ce3": [
+    "financials\\localizations\\configure-main-accounts-asset-retirement.md"
+  ],
+  "7f9de17efccad82256d7210752226e95cd002c11": [
+    "financials\\localizations\\consolidated-invoice-parameters-setup-accounts-payable.md"
+  ],
+  "ef1f65474cb2035e5a450560e3f54948b8b73574": [
+    "financials\\localizations\\create-accelerated-depreciation-document-enter-usage-data.md"
+  ],
+  "2944c953f7ced923b1a9fc99887b95ff7c74601c": [
+    "financials\\localizations\\create-accelerated-depreciation-profile-assign-it-book.md"
+  ],
+  "18a8c35ac464d5f2897200bfdbc6b561f5b08cfb": [
+    "financials\\localizations\\create-assign-equipment-group.md"
+  ],
+  "56c92c50f471963b8af0e86dcb108084f3ff8047": [
+    "financials\\localizations\\create-assign-reduction-document.md"
+  ],
+  "9f22e1bf2d2625d0f25d9b282f3828c5b64d0591": [
+    "financials\\localizations\\create-cgu-group-cash-generating-units.md"
+  ],
+  "dcd60824da1c7ac2c7f043812512aa8039534939": [
+    "financials\\localizations\\create-confirm-recognition-test.md"
+  ],
+  "424c1d26c9da4ea0be4a0daee8e009e4c68eab6a": [
+    "financials\\localizations\\create-confirm-vendor-consolidated-invoice.md"
+  ],
+  "32aeade3b93d27020654d18e1cd442fe657067ff": [
+    "financials\\localizations\\create-export-vendor-payments-iso20022-payment-format.md"
+  ],
+  "5d96ad0fa3c14d65ffc08de20122560b32a6784d": [
+    "financials\\localizations\\create-fixed-asset-additional-depreciation.md"
+  ],
+  "c134a29bddfa6854109016db868e216ec53153eb": [
+    "financials\\localizations\\create-fixed-asset-special-depreciation-profile.md"
+  ],
+  "ae4d41aba4ac36e6dd3e3e03e7a4a5c10c81f24a": [
+    "financials\\localizations\\create-lump-sum-depreciation-assets-equally-divided-method.md"
+  ],
+  "f5db3106dd06f44936624f4d7ce02dbf096cbf6c": [
+    "financials\\localizations\\create-payments-customers-who-have-direct-debit-mandates.md"
+  ],
+  "a0c35456a655a82ef08c1af9a865c6af985da2a2": [
+    "financials\\localizations\\create-submit-vat-report.md"
+  ],
+  "5246547d985aa765088e322e2e2a28e3eef01850": [
+    "financials\\localizations\\define-asset-idle-period-validate-depreciation-process.md"
+  ],
+  "a4e866a418b28e4d7134498cb8550ae86c6147f9": [
+    "financials\\localizations\\depreciate-accrue-interest-expense.md"
+  ],
+  "38eacfd7ecb5b1d2e2f7af7a45ab9801dd9704cc": [
+    "financials\\localizations\\depreciation-fixed-assets-reduction-entry-posted.md"
+  ],
+  "687eb3e3e6e325daae034fee32896bc4478d6f93": [
+    "financials\\localizations\\dispose-fixed-asset-reduction-entry.md"
+  ],
+  "39909f1fe74c350fd6954b88c823464a9828f3e3": [
+    "financials\\localizations\\fixed-asset-depreciation-allocation.md"
+  ],
+  "9c95889ed784a59dc444e9728a73d8ca2ea5cbff": [
+    "financials\\localizations\\impairment-accounting.md"
+  ],
+  "9fe774849a1105dc5cc36ffc5fde7ea0ee1d0ce7": [
+    "financials\\localizations\\import-iso20022-credit-transfer-configuration.md"
+  ],
+  "6fdd58e572fe061db15ab69e89386ce63fb3b86c": [
+    "financials\\localizations\\import-iso20022-direct-debit-configuration.md"
+  ],
+  "5605a0ee7110d6637bb5717d9a8821ea66f2564a": [
+    "financials\\localizations\\inquiries-payment-fee-journal.md"
+  ],
+  "fa393498702feaad64a73a3d6632be9e25782903": [
+    "financials\\localizations\\inquiry-deductible-expenses.md"
+  ],
+  "5779f38ecd9bebe293bf7733b957fcbf267d2be2": [
+    "financials\\localizations\\japan-consumption-tax-report.md"
+  ],
+  "241cd82759482140b9c43a037ff268180d9508c6": [
+    "financials\\localizations\\jp-00005-input-journal-t-account-form-japan.md"
+  ],
+  "76ec766917e2e7ce946bce0c7318dcf2fe7446f4": [
+    "financials\\localizations\\jp-00027-form-26-depreciable-tax-declaration.md"
+  ],
+  "4359fd95c6b0e20c0b36d2e1deeefa85cbb934c6": [
+    "financials\\localizations\\maintain-fixed-asset-master-data-files-deductible-expenses.md"
+  ],
+  "509ec9f75442d087f94444580464c43d64a308ab": [
+    "financials\\localizations\\maintain-impairment-indicators-individual-assets.md"
+  ],
+  "b88f319a4b83eae57795c23da5b073ef9a5d3566": [
+    "financials\\localizations\\pay-vendor-transaction.md"
+  ],
+  "675bb7e4f4dea0d00d24d2c382c3aab9be208a05": [
+    "financials\\localizations\\periodic-settlement-over-under-depreciation.md"
+  ],
+  "0549b83546c4549c34d3b53855155cccbd09e602": [
+    "financials\\localizations\\post-payment-fee.md"
+  ],
+  "c2ec368004c5f2396602397f2b96af862bb506d4": [
+    "financials\\localizations\\propose-post-impairment-amount-batch.md"
   ]
 }
