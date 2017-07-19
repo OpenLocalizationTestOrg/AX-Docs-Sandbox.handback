@@ -32,7 +32,7 @@
       ]
     },
 {
-"metadataExpression": "(audience.Contains(\"Application User\") && (title.Contains(\"Finance and Operations glossary\") && ms.search.region.Contains(\"global\")) || (ms.topic.Contains(\"index-page\") && ms.search.industry != \"Public sector\" )",
+"metadataExpression": "audience.Contains(\"Application User\") && title.Contains(\"Finance and Operations glossary\") && ms.search.region.Contains(\"global\")",
   "priorities": [
         {
           "priority": "premium",
@@ -122,7 +122,7 @@
       ]
     },
 {
-      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\") && ms.search.industry.Contains(\"Public sector\")",
+      "metadataExpression": "audience.Contains(\"Application User\") && ms.topic.Contains(\"business-process\") && !ms.search.region.Contains(\"USA\") && ms.search.industry.Contains(\"Public sector\")",
       "priorities": [
         {
           "priority": "business-process",
@@ -134,7 +134,7 @@
       ]
 },
 {
-      "metadataExpression": "audience.Contains(\"Application User\") && !ms.topic.Contains(\"business-process\") && ms.search.industry.Contains(\"Public sector\")",
+      "metadataExpression": "audience.Contains(\"Application User\") && !ms.topic.Contains(\"business-process\") && !ms.search.region.Contains(\"USA\") && ms.search.industry.Contains(\"Public sector\")",
       "priorities": [
         {
           "priority": "basic",
