@@ -1805,5 +1805,26 @@
   ],
   "bb9648279c368867a70b41684e3ee7f3b2fe1f3f": [
     "dev-itpro\\migration-upgrade\\upgrade-home-page.md"
+  ],
+  "32aeade3b93d27020654d18e1cd442fe657067ff": [
+    "financials\\localizations\\create-export-vendor-payments-iso20022-payment-format.md"
+  ],
+  "f5db3106dd06f44936624f4d7ce02dbf096cbf6c": [
+    "financials\\localizations\\create-payments-customers-who-have-direct-debit-mandates.md"
+  ],
+  "a0c35456a655a82ef08c1af9a865c6af985da2a2": [
+    "financials\\localizations\\create-submit-vat-report.md"
+  ],
+  "9fe774849a1105dc5cc36ffc5fde7ea0ee1d0ce7": [
+    "financials\\localizations\\import-iso20022-credit-transfer-configuration.md"
+  ],
+  "6fdd58e572fe061db15ab69e89386ce63fb3b86c": [
+    "financials\\localizations\\import-iso20022-direct-debit-configuration.md"
+  ],
+  "4bb072c85a52e8d3a983631c17fd50905969ca4d": [
+    "financials\\localizations\\no-00002-customer-payment-based-payment-id.md"
+  ],
+  "41a05d2ad665ee7bb4550319b7ec9b0def219285": [
+    "financials\\localizations\\no-00003-customer-vendor-payment-formats.md"
   ]
 }
