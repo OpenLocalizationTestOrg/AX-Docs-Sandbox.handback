@@ -3935,6 +3935,12 @@
       "XliffHash": "a5cb0be29ca74c0d72c601b0baa730e1dc557a0d",
       "TranslationType": 1,
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\6fdd58e572fe061db15ab69e89386ce63fb3b86c.8ba97beeaf6768dac81c7edae670cbf1000c8819.xml"
+    },
+    "financials\\localizations\\create-post-customer-invoice-public-sector-customer.md.3eaa1157361c3ebe2942c25035decbcea55f0550.HT": {
+      "SourceFilename": "financials\\localizations\\create-post-customer-invoice-public-sector-customer.md",
+      "XliffHash": "3eaa1157361c3ebe2942c25035decbcea55f0550",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.da-dk\\master\\d2e972edf27e402ed049f53943d3ce57c44a1ae7.6aede0748bed65d98fea7fe0ee1150ee6488e5cf.xml"
     }
   }
 }
