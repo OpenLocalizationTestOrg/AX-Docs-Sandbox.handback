@@ -32,7 +32,7 @@
       ]
     },
 {
-"metadataExpression": "audience.Contains(\"Application User\") && title.Contains(\"Finance and Operations glossary\") && ms.search.region.Contains(\"global\") || ms.topic.Contains(\"index-page\") && ms.search.industry != \"Public sector\"",
+"metadataExpression": "audience.Contains(\"Application User\") && title.Contains(\"Finance and Operations glossary\") && ms.search.region.Contains(\"global\") || audience.Contains(\"Application User\") && ms.topic.Contains(\"index-page\") && ms.search.industry != \"Public sector\"",
   "priorities": [
         {
           "priority": "premium",
