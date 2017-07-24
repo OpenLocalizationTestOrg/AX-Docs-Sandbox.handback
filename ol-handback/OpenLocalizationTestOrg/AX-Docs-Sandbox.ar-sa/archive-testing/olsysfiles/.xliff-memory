@@ -2650,7 +2650,9 @@
       "SourceFilename": "core\\breadcrumb\\toc.yml",
       "XliffHash": "80c5023d8afeda1534b781565ea7a66bea239e4f",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ar-sa\\archive-testing\\4d690ddbe4dd75f8990421b3963630cf2c395770.a9130cf230ad13e6b1f452b758c30b32c4890d3e.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ar-sa\\archive-testing\\4d690ddbe4dd75f8990421b3963630cf2c395770.a9130cf230ad13e6b1f452b758c30b32c4890d3e.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ar-sa\\archive-testing\\toc_premium\\toc.4f3943a9191cad44feb4b5355ae6bb56f38a4a88.ar-sa.xlf",
+      "LocXliffCommit": "9c89ffc6ccc134c6383bb16d1ec7fa4967768e60"
     },
     "core\\hr\\manage-recruiting-process.md.b0ce176ee2dcfc032b8b64c6dd0d5bf6655e9dd6.HT": {
       "SourceFilename": "core\\hr\\manage-recruiting-process.md",

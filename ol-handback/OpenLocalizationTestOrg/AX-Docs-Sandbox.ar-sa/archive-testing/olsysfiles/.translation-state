@@ -1,5 +1,6 @@
 {
   "LastProcessedCommit": "c1305ff5b0d6b78d2a56db9b3f40b9e89d5a8748",
+  "LastTranslatedCommit": "a1b3b13767311d47e48ddc72078b93315000cd89",
   "LastConfigHash": "c86dc7a363fda774261528db3defc4acd0e9db76",
   "Items": {
     "4d690ddbe4dd75f8990421b3963630cf2c395770": {
@@ -15,7 +16,13 @@
       "HandoffFileCommit": "d87f06aaad343f46a1bd031d627cbbc4acd730a6",
       "HandoffDateTime": "2017-07-19T09:57:24.6131747Z",
       "HandoffXliffHash": "80c5023d8afeda1534b781565ea7a66bea239e4f",
-      "HandoffPriority": "toc_premium"
+      "HandoffPriority": "toc_premium",
+      "TargetFileCommit": "a1b3b13767311d47e48ddc72078b93315000cd89",
+      "TargetFilePath": "core\\breadcrumb\\toc.yml",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.ar-sa\\archive-testing\\toc_premium\\toc.4f3943a9191cad44feb4b5355ae6bb56f38a4a88.ar-sa.xlf",
+      "HandbackFileCommit": "9c89ffc6ccc134c6383bb16d1ec7fa4967768e60",
+      "HandbackDateTime": "2017-07-24T05:17:03.1384381Z",
+      "UpdatedDateTime": "2017-07-24T05:17:03.1384381Z"
     },
     "9b9bb0acc6f0dc1722c916f133eed766ffdd4cc8": {
       "FileHash": "9b9bb0acc6f0dc1722c916f133eed766ffdd4cc8",
