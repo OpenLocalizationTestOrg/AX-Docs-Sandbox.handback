@@ -556,7 +556,7 @@
       "SourceFilename": "dev-itpro\\get-started\\help-connect.md",
       "XliffHash": "80ccccd27d2dc5955bb545db1e44c79bd9e5ce69",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.hu-hu\\master\\acb832c422ccb5ddb98d6ddd6b69d2e2c3e11057.e63a2057a5b145b584a592d49d8eef3c6fc68cac.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.hu-hu\\master\\acb832c422ccb5ddb98d6ddd6b69d2e2c3e11057.6f0898e7f6d22c42327c6f6d6cce052098c4be74.xml"
     },
     "financials\\cost-accounting\\statistical-measure-provider-template.md.9d5fb47e630ba0910b0a5da6759a45059044906f.HT": {
       "SourceFilename": "financials\\cost-accounting\\statistical-measure-provider-template.md",
@@ -940,7 +940,7 @@
       "SourceFilename": "dev-itpro\\analytics\\reset-financial-reporting-datamart-after-restore.md",
       "XliffHash": "67370069a79a9b3c8b4b5a4293c42ae70007fff0",
       "TranslationType": 1,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.hu-hu\\master\\6b2567555bc60a5773d4395807cc25010427b4bd.5905fc06ca48fe1c0e1893c6db03c607bbdc064c.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.hu-hu\\master\\6b2567555bc60a5773d4395807cc25010427b4bd.2508465c295ed05e033c7c28b5e000f9a9f8cbf2.xml"
     },
     "dev-itpro\\lcs-solutions\\country-region.md.8cf3bfb0eefa98e215d2b50ef7716a607f45cad4.HT": {
       "SourceFilename": "dev-itpro\\lcs-solutions\\country-region.md",
@@ -3833,6 +3833,12 @@
       "XliffHash": "a5cb0be29ca74c0d72c601b0baa730e1dc557a0d",
       "TranslationType": 1,
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.hu-hu\\master\\6fdd58e572fe061db15ab69e89386ce63fb3b86c.8ba97beeaf6768dac81c7edae670cbf1000c8819.xml"
+    },
+    "core\\get-started\\action-search.md.0ddcbfefa2e7d93b40fe6ce50e36a665423d594e.HT": {
+      "SourceFilename": "core\\get-started\\action-search.md",
+      "XliffHash": "0ddcbfefa2e7d93b40fe6ce50e36a665423d594e",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\AX-Docs-Sandbox.hu-hu\\master\\7c2824516c81caccd3bd0f9f90ca4a69d161a049.5d4e8a7df2575f2ef34c554c457c26de0afef4bd.xml"
     }
   }
 }
